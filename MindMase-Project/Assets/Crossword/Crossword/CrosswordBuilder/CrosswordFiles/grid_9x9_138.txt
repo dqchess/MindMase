@@ -1,0 +1,115 @@
+grid_9x9_138
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	C	0	1	3	1	CWM	0	1	5	1	CREPT
+0	1	2	W	0	1	3	0		0	2	9	1	WASTEAWAY
+0	1	3	M	0	1	3	0		0	3	3	1	MNO
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	G	0	6	3	1	GIT	0	6	9	1	GETTOKNOW
+0	1	5	I	0	6	3	0		0	7	3	1	IBE
+0	1	6	T	0	6	3	0		0	8	3	1	TND
+0	1	7	B	1	0	5	1	BRAND	1	0	3	1	BRO
+0	0	0	R	1	0	5	0		0	1	5	0	
+0	0	0	A	1	0	5	0		0	2	9	0	
+0	0	0	N	1	0	5	0		0	3	3	0	
+0	1	8	D	1	0	5	0		1	4	7	1	DNALABS
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	E	1	6	3	1	EBN	0	6	9	0	
+0	0	0	B	1	6	3	0		0	7	3	0	
+0	0	0	N	1	6	3	0		0	8	3	0	
+0	1	10	R	2	0	9	1	RESONATED	1	0	3	0	
+0	0	0	E	2	0	9	0		0	1	5	0	
+0	0	0	S	2	0	9	0		0	2	9	0	
+0	0	0	O	2	0	9	0		0	3	3	0	
+0	0	0	N	2	0	9	0		1	4	7	0	
+0	1	11	A	2	0	9	0		2	5	3	1	ATS
+0	0	0	T	2	0	9	0		0	6	9	0	
+0	0	0	E	2	0	9	0		0	7	3	0	
+0	0	0	D	2	0	9	0		0	8	3	0	
+0	1	12	O	3	0	3	1	OPT	1	0	3	0	
+0	0	0	P	3	0	3	0		0	1	5	0	
+0	0	0	T	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	A	3	4	3	1	ATT	1	4	7	0	
+0	0	0	T	3	4	3	0		2	5	3	0	
+0	0	0	T	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	T	4	1	7	1	TELLSOF	0	1	5	0	
+0	0	0	E	4	1	7	0		0	2	9	0	
+0	1	15	L	4	1	7	0		4	3	3	1	LAA
+0	0	0	L	4	1	7	0		1	4	7	0	
+0	0	0	S	4	1	7	0		2	5	3	0	
+0	0	0	O	4	1	7	0		0	6	9	0	
+0	1	16	F	4	1	7	0		4	7	5	1	FIGHT
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	A	5	2	3	1	AAA	0	2	9	0	
+0	0	0	A	5	2	3	0		4	3	3	0	
+0	0	0	A	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	K	5	6	3	1	KIA	0	6	9	0	
+0	0	0	I	5	6	3	0		4	7	5	0	
+0	1	19	A	5	6	3	0		5	8	3	1	AAR
+0	1	20	C	6	0	9	1	COWABUNGA	6	0	3	1	CEL
+0	1	21	O	6	0	9	0		6	1	3	1	OWE
+0	0	0	W	6	0	9	0		0	2	9	0	
+0	0	0	A	6	0	9	0		4	3	3	0	
+0	0	0	B	6	0	9	0		1	4	7	0	
+0	1	22	U	6	0	9	0		6	5	3	1	UPC
+0	0	0	N	6	0	9	0		0	6	9	0	
+0	0	0	G	6	0	9	0		4	7	5	0	
+0	0	0	A	6	0	9	0		5	8	3	0	
+0	1	23	E	7	0	3	1	EWA	6	0	3	0	
+0	0	0	W	7	0	3	0		6	1	3	0	
+0	0	0	A	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	S	7	4	5	1	SPOHR	1	4	7	0	
+0	0	0	P	7	4	5	0		6	5	3	0	
+0	0	0	O	7	4	5	0		0	6	9	0	
+0	0	0	H	7	4	5	0		4	7	5	0	
+0	0	0	R	7	4	5	0		5	8	3	0	
+0	1	25	L	8	0	3	1	LEY	6	0	3	0	
+0	0	0	E	8	0	3	0		6	1	3	0	
+0	0	0	Y	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	C	8	5	3	1	CWT	6	5	3	0	
+0	0	0	W	8	5	3	0		0	6	9	0	
+0	0	0	T	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	CWM	Welsh valley
+4	GIT	"Scram!"
+7	BRAND	Fashionista's concern
+9	EBN	Surveyor's dir.
+10	RESONATED	Rang
+12	OPT	Elect
+13	ATT	Trial fig.
+14	TELLSOF	Relates
+17	AAA	Moody's best
+18	KIA	Spectra automaker
+20	COWABUNGA	"Gnarly waves, dude!"
+23	EWA	Actress Aulin of "Candy"
+24	SPOHR	Ludwig who wrote nine symphonies
+25	LEY	Law, in Lima
+26	CWT	100 lbs.
+15
+1	CREPT	Barely moved
+2	WASTEAWAY	Shrivel to nothing
+3	MNO	Alphabetical sequence
+4	GETTOKNOW	Become friendly with
+5	IBE	"May ___ excused?"
+6	TND	February ___ (Groundhog Day)
+7	BRO	Pal
+8	DNALABS	Test sites
+11	ATS	Symbols like @
+15	LAA	"___ note to follow ..."
+16	FIGHT	Playground shout
+19	AAR	River to the Rhine
+20	CEL	Frame that's sometimes framed
+21	OWE	Have a debt
+22	UPC	Cash bars?

@@ -1,0 +1,115 @@
+grid_9x9_31
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	AWL	0	1	5	1	ALOAF
+0	1	2	W	0	1	3	0		0	2	9	1	WELLBEING
+0	1	3	L	0	1	3	0		0	3	3	1	LVI
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	H	0	6	3	1	HEH	0	6	9	1	HOOTLINES
+0	1	5	E	0	6	3	0		0	7	3	1	EXO
+0	1	6	H	0	6	3	0		0	8	3	1	HOD
+0	1	7	E	1	0	5	1	ELEVE	1	0	3	1	ESP
+0	0	0	L	1	0	5	0		0	1	5	0	
+0	0	0	E	1	0	5	0		0	2	9	0	
+0	0	0	V	1	0	5	0		0	3	3	0	
+0	1	8	E	1	0	5	0		1	4	7	1	EDIFICE
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	O	1	6	3	1	OXO	0	6	9	0	
+0	0	0	X	1	6	3	0		0	7	3	0	
+0	0	0	O	1	6	3	0		0	8	3	0	
+0	1	10	S	2	0	9	1	SOLIDFOOD	1	0	3	0	
+0	0	0	O	2	0	9	0		0	1	5	0	
+0	0	0	L	2	0	9	0		0	2	9	0	
+0	0	0	I	2	0	9	0		0	3	3	0	
+0	0	0	D	2	0	9	0		1	4	7	0	
+0	1	11	F	2	0	9	0		2	5	3	1	FRI
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	O	2	0	9	0		0	7	3	0	
+0	0	0	D	2	0	9	0		0	8	3	0	
+0	1	12	P	3	0	3	1	PAL	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	5	0	
+0	0	0	L	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	I	3	4	3	1	IRT	1	4	7	0	
+0	0	0	R	3	4	3	0		2	5	3	0	
+0	0	0	T	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	F	4	1	7	1	FBIFILE	0	1	5	0	
+0	0	0	B	4	1	7	0		0	2	9	0	
+0	1	15	I	4	1	7	0		4	3	3	1	IRE
+0	0	0	F	4	1	7	0		1	4	7	0	
+0	0	0	I	4	1	7	0		2	5	3	0	
+0	0	0	L	4	1	7	0		0	6	9	0	
+0	1	16	E	4	1	7	0		4	7	5	1	ENAMI
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	E	5	2	3	1	ERI	0	2	9	0	
+0	0	0	R	5	2	3	0		4	3	3	0	
+0	0	0	I	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	I	5	6	3	1	INF	0	6	9	0	
+0	0	0	N	5	6	3	0		4	7	5	0	
+0	1	19	F	5	6	3	0		5	8	3	1	FLA
+0	1	20	E	6	0	9	1	ERIECANAL	6	0	3	1	EGO
+0	1	21	R	6	0	9	0		6	1	3	1	RUM
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	0	0	E	6	0	9	0		4	3	3	0	
+0	0	0	C	6	0	9	0		1	4	7	0	
+0	1	22	A	6	0	9	0		6	5	3	1	ADC
+0	0	0	N	6	0	9	0		0	6	9	0	
+0	0	0	A	6	0	9	0		4	7	5	0	
+0	0	0	L	6	0	9	0		5	8	3	0	
+0	1	23	G	7	0	3	1	GUN	6	0	3	0	
+0	0	0	U	7	0	3	0		6	1	3	0	
+0	0	0	N	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	E	7	4	5	1	EDEMA	1	4	7	0	
+0	0	0	D	7	4	5	0		6	5	3	0	
+0	0	0	E	7	4	5	0		0	6	9	0	
+0	0	0	M	7	4	5	0		4	7	5	0	
+0	0	0	A	7	4	5	0		5	8	3	0	
+0	1	25	O	8	0	3	1	OMG	6	0	3	0	
+0	0	0	M	8	0	3	0		6	1	3	0	
+0	0	0	G	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	C	8	5	3	1	CSI	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	I	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	AWL	Hole-making tool
+4	HEH	Part of a sneaky response
+7	ELEVE	Foreign exchange student, maybe
+9	OXO	Kitchen gadget brand with a rotationally symmetric logo
+10	SOLIDFOOD	Something to chew on
+12	PAL	Homeboy
+13	IRT	Subway line to Columbia U.
+14	FBIFILE	Holder of a lot of hidden dirt
+17	ERI	"___ tu che macchiavi quell'anima"
+18	INF	Like Beethoven's Symphony No. 6
+20	ERIECANAL	It opened in 1825
+23	GUN	Hit man
+24	EDEMA	Swelling
+25	OMG	Online gasp
+26	CSI	Show set in Vegas
+15
+1	ALOAF	"Half ___ is better ..."
+2	WELLBEING	Health
+3	LVI	Number of years Horace lived
+4	HOOTLINES	Stale stand-up material?
+5	EXO	Prefix with biology
+6	HOD	Brick carrier
+7	ESP	Subject of a psych. experiment
+8	EDIFICE	Skyscraper
+11	FRI	Night "Dallas" was on: Abbr.
+15	IRE	High dudgeon
+16	ENAMI	As a friend, in France
+19	FLA	Marlins locale: Abbr.
+20	EGO	A superstar might have a big one
+21	RUM	Grog ingredient
+22	ADC	Military asst.

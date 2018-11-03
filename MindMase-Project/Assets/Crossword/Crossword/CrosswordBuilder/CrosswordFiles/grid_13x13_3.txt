@@ -1,0 +1,233 @@
+grid_13x13_3
+13
+0	1	1	O	0	0	3	1	OUR	0	0	3	1	OAS
+0	1	2	U	0	0	3	0		0	1	8	1	UCIRVINE
+0	1	3	R	0	0	3	0		0	2	13	1	RETAILOUTLETS
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MAU	0	5	3	1	MET
+0	1	5	A	0	5	3	0		0	6	3	1	AAH
+0	1	6	U	0	5	3	0		0	7	3	1	UDE
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	D	0	9	3	1	DNG	0	9	5	1	DWEEB
+0	1	8	N	0	9	3	0		0	10	13	1	NONSMOKINGGAR
+0	1	9	G	0	9	3	0		0	11	4	1	GMCS
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	A	1	0	4	1	ACEY	0	0	3	0	
+0	0	0	C	1	0	4	0		0	1	8	0	
+0	0	0	E	1	0	4	0		0	2	13	0	
+0	1	11	Y	1	0	4	0		1	3	5	1	YONNE
+1	0	0	#	1	5	3	0		2	4	3	0	
+0	1	12	E	1	5	3	1	EAD	0	5	3	0	
+0	0	0	A	1	5	3	0		0	6	3	0	
+0	0	0	D	1	5	3	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	4	0	
+0	1	13	W	1	9	4	1	WOMB	0	9	5	0	
+0	0	0	O	1	9	4	0		0	10	13	0	
+0	0	0	M	1	9	4	0		0	11	4	0	
+0	1	14	B	1	9	4	0		1	12	3	1	BEY
+0	1	15	S	2	0	13	1	SITONTHEFENCE	0	0	3	0	
+0	0	0	I	2	0	13	0		0	1	8	0	
+0	0	0	T	2	0	13	0		0	2	13	0	
+0	0	0	O	2	0	13	0		1	3	5	0	
+0	1	16	N	2	0	13	0		2	4	3	1	NGN
+0	0	0	T	2	0	13	0		0	5	3	0	
+0	0	0	H	2	0	13	0		0	6	3	0	
+0	0	0	E	2	0	13	0		0	7	3	0	
+0	1	17	F	2	0	13	0		2	8	4	1	FLAW
+0	0	0	E	2	0	13	0		0	9	5	0	
+0	0	0	N	2	0	13	0		0	10	13	0	
+0	0	0	C	2	0	13	0		0	11	4	0	
+0	0	0	E	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	18	R	3	1	4	1	RANG	0	1	8	0	
+0	0	0	A	3	1	4	0		0	2	13	0	
+0	0	0	N	3	1	4	0		1	3	5	0	
+0	0	0	G	3	1	4	0		2	4	3	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	19	L	3	8	5	1	LESSY	2	8	4	0	
+0	0	0	E	3	8	5	0		0	9	5	0	
+0	0	0	S	3	8	5	0		0	10	13	0	
+0	0	0	S	3	8	5	0		0	11	4	0	
+0	0	0	Y	3	8	5	0		1	12	3	0	
+1	0	0	#	4	1	6	0		5	0	3	0	
+0	1	20	V	4	1	6	1	VINNIE	0	1	8	0	
+0	0	0	I	4	1	6	0		0	2	13	0	
+0	0	0	N	4	1	6	0		1	3	5	0	
+0	0	0	N	4	1	6	0		2	4	3	0	
+0	1	21	I	4	1	6	0		4	5	4	1	IAMB
+0	1	22	E	4	1	6	0		4	6	5	1	EBERT
+1	0	0	#	4	8	3	0		5	7	4	0	
+0	1	23	A	4	8	3	1	ABM	2	8	4	0	
+0	0	0	B	4	8	3	0		0	9	5	0	
+0	0	0	M	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	8	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	T	5	0	4	1	TILE	5	0	3	1	TAL
+0	0	0	I	5	0	4	0		0	1	8	0	
+0	0	0	L	5	0	4	0		0	2	13	0	
+0	0	0	E	5	0	4	0		1	3	5	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	25	A	5	5	4	1	ABOW	4	5	4	0	
+0	0	0	B	5	5	4	0		4	6	5	0	
+0	1	26	O	5	5	4	0		5	7	4	1	OHOH
+0	0	0	W	5	5	4	0		2	8	4	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	O	5	10	3	1	ONA	0	10	13	0	
+0	1	28	N	5	10	3	0		5	11	8	1	NOTSOHOT
+0	1	29	A	5	10	3	0		5	12	3	1	AIS
+0	1	30	A	6	0	3	1	ANO	5	0	3	0	
+0	0	0	N	6	0	3	0		0	1	8	0	
+0	0	0	O	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	4	0	
+0	1	31	M	6	5	3	1	MEH	4	5	4	0	
+0	0	0	E	6	5	3	0		4	6	5	0	
+0	0	0	H	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	0	0		7	8	0	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	32	K	6	10	3	1	KOI	0	10	13	0	
+0	0	0	O	6	10	3	0		5	11	8	0	
+0	0	0	I	6	10	3	0		5	12	3	0	
+0	1	33	L	7	0	3	1	LEU	5	0	3	0	
+0	0	0	E	7	0	3	0		0	1	8	0	
+0	0	0	U	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	4	0		8	3	5	0	
+0	1	34	E	7	4	4	1	EBRO	7	4	4	1	ETDS
+0	0	0	B	7	4	4	0		4	5	4	0	
+0	0	0	R	7	4	4	0		4	6	5	0	
+0	0	0	O	7	4	4	0		5	7	4	0	
+1	0	0	#	7	9	4	0		8	8	3	0	
+0	1	35	A	7	9	4	1	AITS	7	9	5	1	AREIN
+0	0	0	I	7	9	4	0		0	10	13	0	
+0	0	0	T	7	9	4	0		5	11	8	0	
+0	0	0	S	7	9	4	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	36	T	8	2	3	1	TNT	0	2	13	0	
+0	1	37	N	8	2	3	0		8	3	5	1	NIPAT
+0	0	0	T	8	2	3	0		7	4	4	0	
+1	0	0	#	8	6	6	0		9	5	0	0	
+0	1	38	T	8	6	6	1	THORNS	4	6	5	0	
+0	0	0	H	8	6	6	0		5	7	4	0	
+0	1	39	O	8	6	6	0		8	8	3	1	ORA
+0	0	0	R	8	6	6	0		7	9	5	0	
+0	0	0	N	8	6	6	0		0	10	13	0	
+0	0	0	S	8	6	6	0		5	11	8	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	40	S	9	0	5	1	SOLID	9	0	3	1	SKA
+0	1	41	O	9	0	5	0		9	1	4	1	OENO
+0	0	0	L	9	0	5	0		0	2	13	0	
+0	0	0	I	9	0	5	0		8	3	5	0	
+0	0	0	D	9	0	5	0		7	4	4	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	42	R	9	8	4	1	REGO	8	8	3	0	
+0	0	0	E	9	8	4	0		7	9	5	0	
+0	0	0	G	9	8	4	0		0	10	13	0	
+0	0	0	O	9	8	4	0		5	11	8	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	K	10	0	13	1	KEEPSSTRAIGHT	9	0	3	0	
+0	0	0	E	10	0	13	0		9	1	4	0	
+0	0	0	E	10	0	13	0		0	2	13	0	
+0	0	0	P	10	0	13	0		8	3	5	0	
+0	0	0	S	10	0	13	0		7	4	4	0	
+0	1	44	S	10	0	13	0		10	5	3	1	SSE
+0	1	45	T	10	0	13	0		10	6	3	1	TIM
+0	1	46	R	10	0	13	0		10	7	3	1	RDA
+0	0	0	A	10	0	13	0		8	8	3	0	
+0	0	0	I	10	0	13	0		7	9	5	0	
+0	0	0	G	10	0	13	0		0	10	13	0	
+0	0	0	H	10	0	13	0		5	11	8	0	
+0	1	47	T	10	0	13	0		10	12	3	1	THS
+0	1	48	A	11	0	4	1	ANTA	9	0	3	0	
+0	0	0	N	11	0	4	0		9	1	4	0	
+0	0	0	T	11	0	4	0		0	2	13	0	
+0	0	0	A	11	0	4	0		8	3	5	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	49	S	11	5	3	1	SID	10	5	3	0	
+0	0	0	I	11	5	3	0		10	6	3	0	
+0	0	0	D	11	5	3	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	50	N	11	9	4	1	NAOH	7	9	5	0	
+0	0	0	A	11	9	4	0		0	10	13	0	
+0	0	0	O	11	9	4	0		5	11	8	0	
+0	0	0	H	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	51	O	12	1	3	1	OST	9	1	4	0	
+0	0	0	S	12	1	3	0		0	2	13	0	
+0	0	0	T	12	1	3	0		8	3	5	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	52	E	12	5	3	1	EMA	10	5	3	0	
+0	0	0	M	12	5	3	0		10	6	3	0	
+0	0	0	A	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	R	12	10	3	1	RTS	0	10	13	0	
+0	0	0	T	12	10	3	0		5	11	8	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+31
+1	OUR	"___ American Cousin" (1859 comedy)
+4	MAU	Egyptian ___ (cat breed)
+7	DNG	Half a ring
+10	ACEY	___-deucey (game)
+12	EAD	Year that Augustus exiled Ovid
+13	WOMB	Aussie marsupial
+15	SITONTHEFENCE	Be undecided
+18	RANG	Telephoned
+19	LESSY	Braver
+20	VINNIE	One of Gabe's "sweathogs," in 70's TV
+23	ABM	1972 treaty subj.
+24	TILE	Bit of flooring
+25	ABOW	"Take ___" (1994 Madonna hit)
+27	ONA	___ budget
+30	ANO	It's got mayo
+31	MEH	"I'm less than impressed"
+32	KOI	Backyard pond fish
+33	LEU	Romanian coin
+34	EBRO	River through Castile and Le
+35	AITS	Isles
+36	TNT	Big bang maker
+38	THORNS	Crown's makeup, in the Bible
+40	SOLID	Like a rock
+42	REGO	___ Park, Queens
+43	KEEPSSTRAIGHT	*Distinguishes
+48	ANTA	Broadway acronym
+49	SID	Latter-day Caesar
+50	NAOH	Sodium hydroxide, chemically
+51	OST	Direction from Hannover to Berlin
+52	EMA	___ Savahl (couture label)
+53	RTS	They're listed in a bill: Abbr.
+29
+1	OAS	W. Hemisphere group
+2	UCIRVINE	The Anteaters of the Big West Conf.
+3	RETAILOUTLETS	Memo about stores for animal appendages?
+4	MET	He earns his pay at Shea
+5	AAH	"Wonderful!"
+6	UDE	Quiet end?
+7	DWEEB	Weenie
+8	NONSMOKINGGAR	Health-conscious fish?
+9	GMCS	Yukons, e.g.
+11	YONNE	Department north of Ni
+14	BEY	Old Turkish title
+16	NGN	Stitch
+17	FLAW	Error
+21	IAMB	Metric unit
+22	EBERT	Owner of a famous thumb
+24	TAL	Mikhail of chess
+26	OHOH	"I know that one!"
+28	NOTSOHOT	So-so
+29	AIS	Start of some picture books
+34	ETDS	LAX data: Abbr.
+35	AREIN	"The results ___"
+37	NIPAT	___ one's heels
+39	ORA	"... Mac ___ PC?"
+40	SKA	Jamaican pop
+41	OENO	Prefix with -phile
+44	SSE	K.C.-to-Little Rock direction
+45	TIM	The youngest Cratchit
+46	RDA	Vitamin bottle info, for short
+47	THS	Music, dance, painting, etc.

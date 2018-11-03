@@ -1,0 +1,233 @@
+grid_13x13_137
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	O	0	1	3	1	ONX	0	1	4	1	ORBS
+0	1	2	N	0	1	3	0		0	2	13	1	NAILONTHEHEAD
+0	1	3	X	0	1	3	0		0	3	3	1	XFL
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	M	0	6	3	1	MIZ	0	6	13	1	MEDICINEBALLS
+0	1	5	I	0	6	3	0		0	7	5	1	ISONE
+0	1	6	Z	0	6	3	0		0	8	4	1	ZALE
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	G	0	10	3	1	GIS	0	10	13	1	GERTRUDESTEIN
+0	1	8	I	0	10	3	0		0	11	3	1	ICE
+0	1	9	S	0	10	3	0		0	12	3	1	SOS
+0	1	10	G	1	0	5	1	GRAFF	1	0	3	1	GTI
+0	0	0	R	1	0	5	0		0	1	4	0	
+0	0	0	A	1	0	5	0		0	2	13	0	
+0	0	0	F	1	0	5	0		0	3	3	0	
+0	1	11	F	1	0	5	0		1	4	5	1	FLERS
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	12	E	1	6	3	1	ESA	0	6	13	0	
+0	0	0	S	1	6	3	0		0	7	5	0	
+0	0	0	A	1	6	3	0		0	8	4	0	
+1	0	0	#	1	10	3	0		2	9	3	0	
+0	1	13	E	1	10	3	1	ECO	0	10	13	0	
+0	0	0	C	1	10	3	0		0	11	3	0	
+0	0	0	O	1	10	3	0		0	12	3	0	
+0	1	14	T	2	0	5	1	TBILL	1	0	3	0	
+0	0	0	B	2	0	5	0		0	1	4	0	
+0	0	0	I	2	0	5	0		0	2	13	0	
+0	0	0	L	2	0	5	0		0	3	3	0	
+0	0	0	L	2	0	5	0		1	4	5	0	
+1	0	0	#	2	6	7	0		3	5	4	0	
+0	1	15	D	2	6	7	1	DOLORES	0	6	13	0	
+0	0	0	O	2	6	7	0		0	7	5	0	
+0	0	0	L	2	6	7	0		0	8	4	0	
+0	1	16	O	2	6	7	0		2	9	3	1	ONS
+0	0	0	R	2	6	7	0		0	10	13	0	
+0	0	0	E	2	6	7	0		0	11	3	0	
+0	0	0	S	2	6	7	0		0	12	3	0	
+0	1	17	I	3	0	3	1	ISL	1	0	3	0	
+0	0	0	S	3	0	3	0		0	1	4	0	
+0	0	0	L	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	7	0		4	3	3	0	
+0	1	18	E	3	4	7	1	EMINENT	1	4	5	0	
+0	1	19	M	3	4	7	0		3	5	4	1	MIKE
+0	0	0	I	3	4	7	0		0	6	13	0	
+0	0	0	N	3	4	7	0		0	7	5	0	
+0	0	0	E	3	4	7	0		0	8	4	0	
+0	0	0	N	3	4	7	0		2	9	3	0	
+0	0	0	T	3	4	7	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	6	0		5	1	4	0	
+0	1	20	O	4	2	6	1	ONRICE	0	2	13	0	
+0	1	21	N	4	2	6	0		4	3	3	1	NIC
+0	0	0	R	4	2	6	0		1	4	5	0	
+0	0	0	I	4	2	6	0		3	5	4	0	
+0	0	0	C	4	2	6	0		0	6	13	0	
+0	0	0	E	4	2	6	0		0	7	5	0	
+1	0	0	#	4	9	3	0		5	8	0	0	
+0	1	22	S	4	9	3	1	SRI	2	9	3	0	
+0	0	0	R	4	9	3	0		0	10	13	0	
+0	1	23	I	4	9	3	0		4	11	4	1	INOR
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	M	5	0	7	1	MINISKI	5	0	3	1	MRC
+0	1	25	I	5	0	7	0		5	1	4	1	IOOF
+0	0	0	N	5	0	7	0		0	2	13	0	
+0	0	0	I	5	0	7	0		4	3	3	0	
+0	0	0	S	5	0	7	0		1	4	5	0	
+0	0	0	K	5	0	7	0		3	5	4	0	
+0	0	0	I	5	0	7	0		0	6	13	0	
+1	0	0	#	5	8	0	0		6	7	4	0	
+1	0	0	#	5	9	0	0		6	8	0	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	26	U	5	10	3	1	UNH	0	10	13	0	
+0	0	0	N	5	10	3	0		4	11	4	0	
+0	1	27	H	5	10	3	0		5	12	3	1	HNS
+0	1	28	R	6	0	4	1	ROTC	5	0	3	0	
+0	0	0	O	6	0	4	0		5	1	4	0	
+0	0	0	T	6	0	4	0		0	2	13	0	
+0	0	0	C	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	29	E	6	5	3	1	ENE	3	5	4	0	
+0	0	0	N	6	5	3	0		0	6	13	0	
+0	1	30	E	6	5	3	0		6	7	4	1	ELOI
+1	0	0	#	6	9	4	0		7	8	5	0	
+0	1	31	O	6	9	4	1	ODON	6	9	3	1	OPT
+0	0	0	D	6	9	4	0		0	10	13	0	
+0	0	0	O	6	9	4	0		4	11	4	0	
+0	0	0	N	6	9	4	0		5	12	3	0	
+0	1	32	C	7	0	3	1	COH	5	0	3	0	
+0	0	0	O	7	0	3	0		5	1	4	0	
+0	0	0	H	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	7	0		8	5	5	0	
+0	1	33	E	7	6	7	1	ELOPERS	0	6	13	0	
+0	0	0	L	7	6	7	0		6	7	4	0	
+0	1	34	O	7	6	7	0		7	8	5	1	OLLIE
+0	0	0	P	7	6	7	0		6	9	3	0	
+0	0	0	E	7	6	7	0		0	10	13	0	
+0	0	0	R	7	6	7	0		4	11	4	0	
+0	0	0	S	7	6	7	0		5	12	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	35	F	8	1	3	1	FEZ	5	1	4	0	
+0	0	0	E	8	1	3	0		0	2	13	0	
+0	1	36	Z	8	1	3	0		8	3	3	1	ZOD
+1	0	0	#	8	5	6	0		9	4	4	0	
+0	1	37	U	8	5	6	1	UBOLTS	8	5	5	1	UNLAY
+0	0	0	B	8	5	6	0		0	6	13	0	
+0	0	0	O	8	5	6	0		6	7	4	0	
+0	0	0	L	8	5	6	0		7	8	5	0	
+0	0	0	T	8	5	6	0		6	9	3	0	
+0	0	0	S	8	5	6	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	7	0		10	1	3	0	
+0	1	38	H	9	2	7	1	HOBNAIL	0	2	13	0	
+0	0	0	O	9	2	7	0		8	3	3	0	
+0	1	39	B	9	2	7	0		9	4	4	1	BEND
+0	0	0	N	9	2	7	0		8	5	5	0	
+0	0	0	A	9	2	7	0		0	6	13	0	
+0	0	0	I	9	2	7	0		6	7	4	0	
+0	0	0	L	9	2	7	0		7	8	5	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	40	T	9	10	3	1	TOI	0	10	13	0	
+0	1	41	O	9	10	3	0		9	11	4	1	ONLY
+0	1	42	I	9	10	3	0		9	12	3	1	ITE
+0	1	43	T	10	0	7	1	THEDELL	10	0	3	1	TDV
+0	1	44	H	10	0	7	0		10	1	3	1	HEE
+0	0	0	E	10	0	7	0		0	2	13	0	
+0	0	0	D	10	0	7	0		8	3	3	0	
+0	0	0	E	10	0	7	0		9	4	4	0	
+0	0	0	L	10	0	7	0		8	5	5	0	
+0	0	0	L	10	0	7	0		0	6	13	0	
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	45	I	10	8	5	1	IDENT	7	8	5	0	
+0	1	46	D	10	8	5	0		10	9	3	1	DMA
+0	0	0	E	10	8	5	0		0	10	13	0	
+0	0	0	N	10	8	5	0		9	11	4	0	
+0	0	0	T	10	8	5	0		9	12	3	0	
+0	1	47	D	11	0	3	1	DEA	10	0	3	0	
+0	0	0	E	11	0	3	0		10	1	3	0	
+0	0	0	A	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	3	0		12	3	0	0	
+0	1	48	N	11	4	3	1	NAL	9	4	4	0	
+0	0	0	A	11	4	3	0		8	5	5	0	
+0	0	0	L	11	4	3	0		0	6	13	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	49	E	11	8	5	1	EMILE	7	8	5	0	
+0	0	0	M	11	8	5	0		10	9	3	0	
+0	0	0	I	11	8	5	0		0	10	13	0	
+0	0	0	L	11	8	5	0		9	11	4	0	
+0	0	0	E	11	8	5	0		9	12	3	0	
+0	1	50	V	12	0	3	1	VED	10	0	3	0	
+0	0	0	E	12	0	3	0		10	1	3	0	
+0	0	0	D	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	51	D	12	4	3	1	DYS	9	4	4	0	
+0	0	0	Y	12	4	3	0		8	5	5	0	
+0	0	0	S	12	4	3	0		0	6	13	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	52	A	12	9	3	1	ANY	10	9	3	0	
+0	0	0	N	12	9	3	0		0	10	13	0	
+0	0	0	Y	12	9	3	0		9	11	4	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	ONX	Black beauty
+4	MIZ	"Les ___"
+7	GIS	Enlisted men
+10	GRAFF	"Mr. Belvedere" co-star
+12	ESA	That: Sp.
+13	ECO	Writer Umberto
+14	TBILL	One maturing quickly, for short
+15	DOLORES	Del Rio of film
+17	ISL	Montreal, e.g.: Abbr.
+18	EMINENT	Highly respected
+20	ONRICE	How many Asian entrees are served
+22	SRI	Title of respect, abroad
+24	MINISKI	Bit of bunny slope gear
+26	UNH	New Eng. school
+28	ROTC	March org.?
+29	ENE	Pilothouse abbr.
+31	ODON	Take too much of, briefly
+32	COH	"Suzanne" songwriter
+33	ELOPERS	Romeo and Juliet, e.g.
+35	FEZ	Casablanca wear
+37	UBOLTS	Latch pieces
+38	HOBNAIL	Sole saver
+40	TOI	You, on the Riviera
+43	THEDELL	Farmer's place, in song
+45	IDENT	Security need: Abbr.
+47	DEA	Bust specialists, for short
+48	NAL	Big inits. in paperback publishing
+49	EMILE	Rousseau work
+50	VED	Indian author ___ Mehta, a staff writer for The New Yorker for more than 30 years
+51	DYS	Bad start?
+52	ANY	At least one
+29
+1	ORBS	Symbols of kingly power
+2	NAILONTHEHEAD	*Get it exactly
+3	XFL	Object
+4	MEDICINEBALLS	Exercise equipment
+5	ISONE	"Behold, the people ___": Genesis 11:6
+6	ZALE	___ Corporation (jewelry retail giant)
+7	GERTRUDESTEIN	Pittsburgh-born poet who was the subject of a Picasso portrait
+8	ICE	Rink surface
+9	SOS	Urgent message
+10	GTI	Popular Volkswagen model
+11	FLERS	French town near Alen
+16	ONS	"Up" positions
+19	MIKE	Emcee's need
+21	NIC	Robertson of CNN
+23	INOR	"___ out?" (poker query)
+24	MRC	Richie's dad, to the Fonz
+25	IOOF	B.P.O.E. cousin
+27	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+30	ELOI	Wells's oppressed race
+31	OPT	Choose (to)
+34	OLLIE	Stan's sidekick in old comedy
+36	ZOD	Evil general in "Superman II"
+37	UNLAY	Separate the strands of, as rope
+39	BEND	Flex
+41	ONLY	The "O" in S.R.O.
+42	ITE	Suffix with Brooklyn
+43	TDV	Horned viper
+44	HEE	When repeated, a laugh
+46	DMA	Basic teaching

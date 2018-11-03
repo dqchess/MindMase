@@ -1,0 +1,231 @@
+grid_13x13_192
+13
+0	1	1	D	0	0	3	1	DUC	0	0	3	1	DEF
+0	1	2	U	0	0	3	0		0	1	8	1	UGANDANS
+0	1	3	C	0	0	3	0		0	2	8	1	CHRISTIE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	N	0	4	3	1	NIM	0	4	3	1	NEA
+0	1	5	I	0	4	3	0		0	5	3	1	ITN
+0	1	6	M	0	4	3	0		0	6	3	1	MAD
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	6	0	
+0	1	7	S	0	9	3	1	SET	0	9	5	1	SPURN
+0	1	8	E	0	9	3	0		0	10	4	1	ESAI
+0	1	9	T	0	9	3	0		0	11	4	1	TORO
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	E	1	0	3	1	EGH	0	0	3	0	
+0	0	0	G	1	0	3	0		0	1	8	0	
+0	0	0	H	1	0	3	0		0	2	8	0	
+1	0	0	#	1	4	3	0		2	3	5	0	
+0	1	11	E	1	4	3	1	ETA	0	4	3	0	
+0	0	0	T	1	4	3	0		0	5	3	0	
+0	0	0	A	1	4	3	0		0	6	3	0	
+1	0	0	#	1	8	5	0		2	7	7	0	
+0	1	12	E	1	8	5	1	EPSON	1	8	6	1	EQUALS
+0	0	0	P	1	8	5	0		0	9	5	0	
+0	0	0	S	1	8	5	0		0	10	4	0	
+0	0	0	O	1	8	5	0		0	11	4	0	
+0	1	13	N	1	8	5	0		1	12	3	1	NES
+0	1	14	F	2	0	13	1	FAREANDSQUARE	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	8	0	
+0	0	0	R	2	0	13	0		0	2	8	0	
+0	1	15	E	2	0	13	0		2	3	5	1	EPCOT
+0	0	0	A	2	0	13	0		0	4	3	0	
+0	0	0	N	2	0	13	0		0	5	3	0	
+0	0	0	D	2	0	13	0		0	6	3	0	
+0	1	16	S	2	0	13	0		2	7	7	1	SCHLEPS
+0	0	0	Q	2	0	13	0		1	8	6	0	
+0	0	0	U	2	0	13	0		0	9	5	0	
+0	0	0	A	2	0	13	0		0	10	4	0	
+0	0	0	R	2	0	13	0		0	11	4	0	
+0	0	0	E	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	17	N	3	1	3	1	NIP	0	1	8	0	
+0	0	0	I	3	1	3	0		0	2	8	0	
+0	0	0	P	3	1	3	0		2	3	5	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	0	0		4	5	7	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	18	C	3	7	6	1	CURIOS	2	7	7	0	
+0	0	0	U	3	7	6	0		1	8	6	0	
+0	0	0	R	3	7	6	0		0	9	5	0	
+0	0	0	I	3	7	6	0		0	10	4	0	
+0	0	0	O	3	7	6	0		0	11	4	0	
+0	0	0	S	3	7	6	0		1	12	3	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	19	D	4	1	3	1	DSC	0	1	8	0	
+0	0	0	S	4	1	3	0		0	2	8	0	
+0	0	0	C	4	1	3	0		2	3	5	0	
+1	0	0	#	4	5	5	0		5	4	0	0	
+0	1	20	E	4	5	5	1	ETHAN	4	5	7	1	ENDLESS
+0	1	21	T	4	5	5	0		4	6	5	1	TOWAR
+0	0	0	H	4	5	5	0		2	7	7	0	
+0	0	0	A	4	5	5	0		1	8	6	0	
+0	0	0	N	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	8	0	
+1	0	0	#	4	12	0	0		5	11	8	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	22	J	5	0	4	1	JATO	5	0	3	1	JUL
+0	0	0	A	5	0	4	0		0	1	8	0	
+0	0	0	T	5	0	4	0		0	2	8	0	
+0	0	0	O	5	0	4	0		2	3	5	0	
+1	0	0	#	5	5	4	0		6	4	6	0	
+0	1	23	N	5	5	4	1	NOLL	4	5	7	0	
+0	0	0	O	5	5	4	0		4	6	5	0	
+0	0	0	L	5	5	4	0		2	7	7	0	
+0	0	0	L	5	5	4	0		1	8	6	0	
+1	0	0	#	5	10	3	0		6	9	5	0	
+0	1	24	L	5	10	3	1	LUI	5	10	8	1	LANDMARK
+0	1	25	U	5	10	3	0		5	11	8	1	UNEASIER
+0	1	26	I	5	10	3	0		5	12	3	1	IDS
+0	1	27	U	6	0	13	1	UNITEDWESTAND	5	0	3	0	
+0	0	0	N	6	0	13	0		0	1	8	0	
+0	0	0	I	6	0	13	0		0	2	8	0	
+0	0	0	T	6	0	13	0		2	3	5	0	
+0	1	28	E	6	0	13	0		6	4	6	1	ECKERT
+0	0	0	D	6	0	13	0		4	5	7	0	
+0	0	0	W	6	0	13	0		4	6	5	0	
+0	0	0	E	6	0	13	0		2	7	7	0	
+0	0	0	S	6	0	13	0		1	8	6	0	
+0	1	29	T	6	0	13	0		6	9	5	1	TOOKH
+0	0	0	A	6	0	13	0		5	10	8	0	
+0	0	0	N	6	0	13	0		5	11	8	0	
+0	0	0	D	6	0	13	0		5	12	3	0	
+0	1	30	L	7	0	3	1	LSE	5	0	3	0	
+0	0	0	S	7	0	3	0		0	1	8	0	
+0	0	0	E	7	0	3	0		0	2	8	0	
+1	0	0	#	7	4	4	0		8	3	5	0	
+0	1	31	C	7	4	4	1	CLAP	6	4	6	0	
+0	0	0	L	7	4	4	0		4	5	7	0	
+0	0	0	A	7	4	4	0		4	6	5	0	
+0	0	0	P	7	4	4	0		2	7	7	0	
+1	0	0	#	7	9	4	0		8	8	0	0	
+0	1	32	O	7	9	4	1	ONES	6	9	5	0	
+0	0	0	N	7	9	4	0		5	10	8	0	
+0	0	0	E	7	9	4	0		5	11	8	0	
+0	0	0	S	7	9	4	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	0	0		9	1	4	0	
+1	0	0	#	8	3	5	0		9	2	4	0	
+0	1	33	A	8	3	5	1	AKERS	8	3	5	1	ATALE
+0	0	0	K	8	3	5	0		6	4	6	0	
+0	0	0	E	8	3	5	0		4	5	7	0	
+0	0	0	R	8	3	5	0		4	6	5	0	
+0	0	0	S	8	3	5	0		2	7	7	0	
+1	0	0	#	8	9	3	0		9	8	0	0	
+0	1	34	O	8	9	3	1	ODA	6	9	5	0	
+0	0	0	D	8	9	3	0		5	10	8	0	
+0	0	0	A	8	9	3	0		5	11	8	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	35	S	9	0	6	1	STATES	9	0	3	1	SCS
+0	1	36	T	9	0	6	0		9	1	4	1	TLMA
+0	1	37	A	9	0	6	0		9	2	4	1	AEON
+0	0	0	T	9	0	6	0		8	3	5	0	
+0	0	0	E	9	0	6	0		6	4	6	0	
+0	0	0	S	9	0	6	0		4	5	7	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	38	K	9	9	3	1	KMS	6	9	5	0	
+0	0	0	M	9	9	3	0		5	10	8	0	
+0	0	0	S	9	9	3	0		5	11	8	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	39	C	10	0	13	1	CLEARSTHEHAIR	9	0	3	0	
+0	0	0	L	10	0	13	0		9	1	4	0	
+0	0	0	E	10	0	13	0		9	2	4	0	
+0	0	0	A	10	0	13	0		8	3	5	0	
+0	0	0	R	10	0	13	0		6	4	6	0	
+0	0	0	S	10	0	13	0		4	5	7	0	
+0	1	40	T	10	0	13	0		10	6	3	1	TEC
+0	1	41	H	10	0	13	0		10	7	3	1	HWY
+0	1	42	E	10	0	13	0		10	8	3	1	EER
+0	0	0	H	10	0	13	0		6	9	5	0	
+0	0	0	A	10	0	13	0		5	10	8	0	
+0	0	0	I	10	0	13	0		5	11	8	0	
+0	1	43	R	10	0	13	0		10	12	3	1	REA
+0	1	44	S	11	0	5	1	SMOLT	9	0	3	0	
+0	0	0	M	11	0	5	0		9	1	4	0	
+0	0	0	O	11	0	5	0		9	2	4	0	
+0	0	0	L	11	0	5	0		8	3	5	0	
+0	0	0	T	11	0	5	0		6	4	6	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	45	E	11	6	3	1	EWE	10	6	3	0	
+0	0	0	W	11	6	3	0		10	7	3	0	
+0	0	0	E	11	6	3	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	46	R	11	10	3	1	REE	5	10	8	0	
+0	0	0	E	11	10	3	0		5	11	8	0	
+0	0	0	E	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	47	A	12	1	3	1	ANE	9	1	4	0	
+0	0	0	N	12	1	3	0		9	2	4	0	
+0	0	0	E	12	1	3	0		8	3	5	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	48	C	12	6	3	1	CYR	10	6	3	0	
+0	0	0	Y	12	6	3	0		10	7	3	0	
+0	0	0	R	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	49	K	12	10	3	1	KRA	5	10	8	0	
+0	0	0	R	12	10	3	0		5	11	8	0	
+0	0	0	A	12	10	3	0		10	12	3	0	
+29
+1	DUC	Part of a French court
+4	NIM	Game played with counters
+7	SET	Toy train purchase
+10	EGH	French vineyard
+11	ETA	LAX guesstimate
+12	EPSON	Big name in computer printers
+14	FAREANDSQUARE	Unhip cabbie with passenger?
+17	NIP	Sharp flavor
+18	CURIOS	Cabinet display, perhaps
+19	DSC	Mil. medal
+20	ETHAN	Allen in American history
+22	JATO	Vertical departure, acronymically
+23	NOLL	Four-time Super Bowl-winning coach
+24	LUI	Him: Fr.
+27	UNITEDWESTAND	Post-9/11 slogan
+30	LSE	End of many an E-mail address
+31	CLAP	Mark time, in a way
+32	ONES	Wallet thickeners
+33	AKERS	Women's soccer star Michelle
+34	ODA	Harem chamber
+35	STATES	What Senators represent
+38	KMS	Distance abbr.
+39	CLEARSTHEHAIR	Shampoos?
+44	SMOLT	Young salmon
+45	EWE	Merino mother
+46	REE	Riddle-me-___ (children's book catchword)
+47	ANE	Suffix with oct-
+48	CYR	Burlesque star Lili St. ___
+49	KRA	Malay Peninsula's Isthmus of ___
+29
+1	DEF	3, on a telephone
+2	UGANDANS	Some Lake Victoria viewers
+3	CHRISTIE	Creator of many crime cases
+4	NEA	PBS funder
+5	ITN	BBC competitor
+6	MAD	Irate
+7	SPURN	Brush off
+8	ESAI	He played Bob in "La Bamba"
+9	TORO	Corrida animal
+12	EQUALS	Is, in math
+13	NES	Classic game console letters
+15	EPCOT	Disney theme park
+16	SCHLEPS	No easy trips
+20	ENDLESS	Never wrapping up
+21	TOWAR	"Prelude ___" (1942 Frank Capra film)
+22	JUL	Start of the third qtr.
+24	LANDMARK	Acquire slugger McGwire?
+25	UNEASIER	Less relaxed
+26	IDS	Passports and driver's licenses, in brief
+28	ECKERT	William ___, baseball commissioner before Bowie Kuhn
+29	TOOKH	Was emboldened
+33	ATALE	"___ of Winter" (1992 Eric Rohmer film)
+35	SCS	Barges
+36	TLMA	Longtime Vicki Lawrence character
+37	AEON	Time in earth's history
+40	TEC	Private eye
+41	HWY	Certain m.p.g. rating: Abbr.
+42	EER	Suffix with puppet
+43	REA	"Danny Boy" star Stephen

@@ -1,0 +1,303 @@
+grid_15x15_189
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	R	0	2	3	1	REA	0	2	15	1	RADIATIONLEVELS
+0	1	2	E	0	2	3	0		0	3	3	1	ERE
+0	1	3	A	0	2	3	0		0	4	5	1	AEDES
+1	0	0	#	0	6	0	0		1	5	6	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	O	0	7	3	1	OHI	0	7	3	1	OCH
+0	1	5	H	0	7	3	0		0	8	6	1	HEEHEE
+0	1	6	I	0	7	3	0		0	9	6	1	INSECT
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	7	I	0	11	3	1	ITE	0	11	4	1	IRAE
+0	1	8	T	0	11	3	0		0	12	15	1	THETWILIGHTZONE
+0	1	9	E	0	11	3	0		0	13	7	1	EERIEST
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	10	D	1	1	5	1	DARES	1	1	6	1	DICING
+0	0	0	A	1	1	5	0		0	2	15	0	
+0	0	0	R	1	1	5	0		0	3	3	0	
+0	0	0	E	1	1	5	0		0	4	5	0	
+0	1	11	S	1	1	5	0		1	5	6	1	SIMEON
+1	0	0	#	1	7	3	0		2	6	6	0	
+0	1	12	C	1	7	3	1	CEN	0	7	3	0	
+0	0	0	E	1	7	3	0		0	8	6	0	
+0	0	0	N	1	7	3	0		0	9	6	0	
+1	0	0	#	1	11	3	0		2	10	0	0	
+0	1	13	R	1	11	3	1	RHE	0	11	4	0	
+0	0	0	H	1	11	3	0		0	12	15	0	
+0	0	0	E	1	11	3	0		0	13	7	0	
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	14	S	2	0	10	1	SIDEDISHES	2	0	3	1	SML
+0	0	0	I	2	0	10	0		1	1	6	0	
+0	0	0	D	2	0	10	0		0	2	15	0	
+0	0	0	E	2	0	10	0		0	3	3	0	
+0	0	0	D	2	0	10	0		0	4	5	0	
+0	0	0	I	2	0	10	0		1	5	6	0	
+0	1	15	S	2	0	10	0		2	6	6	1	SUSSED
+0	0	0	H	2	0	10	0		0	7	3	0	
+0	0	0	E	2	0	10	0		0	8	6	0	
+0	0	0	S	2	0	10	0		0	9	6	0	
+1	0	0	#	2	11	3	0		3	10	5	0	
+0	1	16	A	2	11	3	1	AER	0	11	4	0	
+0	0	0	E	2	11	3	0		0	12	15	0	
+0	0	0	R	2	11	3	0		0	13	7	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	17	M	3	0	3	1	MCI	2	0	3	0	
+0	0	0	C	3	0	3	0		1	1	6	0	
+0	0	0	I	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	3	0		4	3	5	0	
+0	1	18	E	3	4	3	1	EMU	0	4	5	0	
+0	0	0	M	3	4	3	0		1	5	6	0	
+0	0	0	U	3	4	3	0		2	6	6	0	
+1	0	0	#	3	8	7	0		4	7	0	0	
+0	1	19	H	3	8	7	1	HERETIC	0	8	6	0	
+0	0	0	E	3	8	7	0		0	9	6	0	
+0	1	20	R	3	8	7	0		3	10	5	1	RISHI
+0	0	0	E	3	8	7	0		0	11	4	0	
+0	0	0	T	3	8	7	0		0	12	15	0	
+0	0	0	I	3	8	7	0		0	13	7	0	
+0	1	21	C	3	8	7	0		3	14	3	1	CDL
+0	1	22	L	4	0	7	1	LIAISES	2	0	3	0	
+0	0	0	I	4	0	7	0		1	1	6	0	
+0	0	0	A	4	0	7	0		0	2	15	0	
+0	1	23	I	4	0	7	0		4	3	5	1	ISSET
+0	0	0	S	4	0	7	0		0	4	5	0	
+0	0	0	E	4	0	7	0		1	5	6	0	
+0	0	0	S	4	0	7	0		2	6	6	0	
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	24	E	4	8	3	1	ECI	0	8	6	0	
+0	0	0	C	4	8	3	0		0	9	6	0	
+0	0	0	I	4	8	3	0		3	10	5	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	W	4	12	3	1	WED	0	12	15	0	
+0	0	0	E	4	12	3	0		0	13	7	0	
+0	0	0	D	4	12	3	0		3	14	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	26	N	5	1	3	1	NTS	1	1	6	0	
+0	0	0	T	5	1	3	0		0	2	15	0	
+0	0	0	S	5	1	3	0		4	3	5	0	
+1	0	0	#	5	5	6	0		6	4	0	0	
+0	1	27	O	5	5	6	1	OSSETS	1	5	6	0	
+0	0	0	S	5	5	6	0		2	6	6	0	
+0	1	28	S	5	5	6	0		5	7	5	1	SAUER
+0	0	0	E	5	5	6	0		0	8	6	0	
+0	0	0	T	5	5	6	0		0	9	6	0	
+0	0	0	S	5	5	6	0		3	10	5	0	
+1	0	0	#	5	12	3	0		6	11	5	0	
+0	1	29	I	5	12	3	1	ISL	0	12	15	0	
+0	0	0	S	5	12	3	0		0	13	7	0	
+0	0	0	L	5	12	3	0		3	14	3	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	30	G	6	1	3	1	GIS	1	1	6	0	
+0	0	0	I	6	1	3	0		0	2	15	0	
+0	0	0	S	6	1	3	0		4	3	5	0	
+1	0	0	#	6	5	3	0		7	4	5	0	
+0	1	31	N	6	5	3	1	NEA	1	5	6	0	
+0	0	0	E	6	5	3	0		2	6	6	0	
+0	0	0	A	6	5	3	0		5	7	5	0	
+1	0	0	#	6	9	0	0		7	8	6	0	
+1	0	0	#	6	10	4	0		7	9	0	0	
+0	1	32	H	6	10	4	1	HALT	3	10	5	0	
+0	1	33	A	6	10	4	0		6	11	5	1	ACEIN
+0	0	0	L	6	10	4	0		0	12	15	0	
+0	0	0	T	6	10	4	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	7	0	
+0	1	34	O	7	2	3	1	OED	0	2	15	0	
+0	0	0	E	7	2	3	0		4	3	5	0	
+0	1	35	D	7	2	3	0		7	4	5	1	DADDY
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	36	D	7	6	3	1	DUM	2	6	6	0	
+0	0	0	U	7	6	3	0		5	7	5	0	
+0	1	37	M	7	6	3	0		7	8	6	1	MASSON
+1	0	0	#	7	10	3	0		8	9	6	0	
+0	1	38	I	7	10	3	1	ICI	3	10	5	0	
+0	0	0	C	7	10	3	0		6	11	5	0	
+0	0	0	I	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	6	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	39	A	8	1	4	1	ANTA	8	1	7	1	AEROBAT
+0	0	0	N	8	1	4	0		0	2	15	0	
+0	0	0	T	8	1	4	0		4	3	5	0	
+0	0	0	A	8	1	4	0		7	4	5	0	
+1	0	0	#	8	6	0	0		9	5	6	0	
+1	0	0	#	8	7	3	0		9	6	6	0	
+0	1	40	E	8	7	3	1	EAL	5	7	5	0	
+0	0	0	A	8	7	3	0		7	8	6	0	
+0	1	41	L	8	7	3	0		8	9	6	1	LEADEN
+1	0	0	#	8	11	3	0		9	10	0	0	
+0	1	42	E	8	11	3	1	EGG	6	11	5	0	
+0	0	0	G	8	11	3	0		0	12	15	0	
+0	1	43	G	8	11	3	0		8	13	6	1	GNEISS
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	44	T	9	0	3	1	TEL	9	0	3	1	TAL
+0	0	0	E	9	0	3	0		8	1	7	0	
+0	0	0	L	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	45	D	9	4	6	1	DHORSE	7	4	5	0	
+0	1	46	H	9	4	6	0		9	5	6	1	HOOTED
+0	1	47	O	9	4	6	0		9	6	6	1	ONUSES
+0	0	0	R	9	4	6	0		5	7	5	0	
+0	0	0	S	9	4	6	0		7	8	6	0	
+0	0	0	E	9	4	6	0		8	9	6	0	
+1	0	0	#	9	11	3	0		10	10	5	0	
+0	1	48	I	9	11	3	1	IHN	6	11	5	0	
+0	0	0	H	9	11	3	0		0	12	15	0	
+0	0	0	N	9	11	3	0		8	13	6	0	
+1	0	0	#	9	15	0	0		10	14	3	0	
+0	1	49	A	10	0	3	1	ARE	9	0	3	0	
+0	0	0	R	10	0	3	0		8	1	7	0	
+0	0	0	E	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	3	0		11	3	4	0	
+0	1	50	D	10	4	3	1	DON	7	4	5	0	
+0	0	0	O	10	4	3	0		9	5	6	0	
+0	0	0	N	10	4	3	0		9	6	6	0	
+1	0	0	#	10	8	7	0		11	7	0	0	
+0	1	51	S	10	8	7	1	SAINTED	7	8	6	0	
+0	0	0	A	10	8	7	0		8	9	6	0	
+0	1	52	I	10	8	7	0		10	10	5	1	ISSUE
+0	0	0	N	10	8	7	0		6	11	5	0	
+0	0	0	T	10	8	7	0		0	12	15	0	
+0	0	0	E	10	8	7	0		8	13	6	0	
+0	1	53	D	10	8	7	0		10	14	3	1	DAE
+0	1	54	L	11	0	7	1	LOVEYOU	9	0	3	0	
+0	0	0	O	11	0	7	0		8	1	7	0	
+0	0	0	V	11	0	7	0		0	2	15	0	
+0	1	55	E	11	0	7	0		11	3	4	1	EGER
+0	0	0	Y	11	0	7	0		7	4	5	0	
+0	0	0	O	11	0	7	0		9	5	6	0	
+0	0	0	U	11	0	7	0		9	6	6	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	56	O	11	8	3	1	ODS	7	8	6	0	
+0	0	0	D	11	8	3	0		8	9	6	0	
+0	0	0	S	11	8	3	0		10	10	5	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	57	Z	11	12	3	1	ZIA	0	12	15	0	
+0	0	0	I	11	12	3	0		8	13	6	0	
+0	0	0	A	11	12	3	0		10	14	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	58	B	12	1	3	1	BEG	8	1	7	0	
+0	0	0	E	12	1	3	0		0	2	15	0	
+0	0	0	G	12	1	3	0		11	3	4	0	
+1	0	0	#	12	5	10	0		13	4	0	0	
+0	1	59	T	12	5	10	1	TSONESNOSE	9	5	6	0	
+0	0	0	S	12	5	10	0		9	6	6	0	
+0	1	60	O	12	5	10	0		12	7	3	1	OCT
+0	0	0	N	12	5	10	0		7	8	6	0	
+0	0	0	E	12	5	10	0		8	9	6	0	
+0	0	0	S	12	5	10	0		10	10	5	0	
+0	1	61	N	12	5	10	0		12	11	3	1	NNW
+0	0	0	O	12	5	10	0		0	12	15	0	
+0	0	0	S	12	5	10	0		8	13	6	0	
+0	0	0	E	12	5	10	0		10	14	3	0	
+1	0	0	#	13	1	3	0		14	0	0	0	
+0	1	62	A	13	1	3	1	ALE	8	1	7	0	
+0	0	0	L	13	1	3	0		0	2	15	0	
+0	0	0	E	13	1	3	0		11	3	4	0	
+1	0	0	#	13	5	3	0		14	4	0	0	
+0	1	63	E	13	5	3	1	EEC	9	5	6	0	
+0	0	0	E	13	5	3	0		9	6	6	0	
+0	0	0	C	13	5	3	0		12	7	3	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	64	N	13	9	5	1	NUNNS	8	9	6	0	
+0	0	0	U	13	9	5	0		10	10	5	0	
+0	0	0	N	13	9	5	0		12	11	3	0	
+0	0	0	N	13	9	5	0		0	12	15	0	
+0	0	0	S	13	9	5	0		8	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	65	T	14	1	3	1	TSR	8	1	7	0	
+0	0	0	S	14	1	3	0		0	2	15	0	
+0	0	0	R	14	1	3	0		11	3	4	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	66	D	14	5	3	1	DST	9	5	6	0	
+0	0	0	S	14	5	3	0		9	6	6	0	
+0	0	0	T	14	5	3	0		12	7	3	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	67	E	14	10	3	1	EWE	10	10	5	0	
+0	0	0	W	14	10	3	0		12	11	3	0	
+0	0	0	E	14	10	3	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+43
+1	REA	"Michael Collins" actor, 1996
+4	OHI	"Funny running into you here!"
+7	ITE	Mineral suffix
+10	DARES	Impetuses for some outrageous acts
+12	CEN	The 1900's, e.g.: Abbr.
+13	RHE	Letters in a line score
+14	SIDEDISHES	Beans and fries, e.g.
+16	AER	___ Lingus
+17	MCI	Bell Atlantic competitor
+18	EMU	Lean meat
+19	HERETIC	Freethinker
+22	LIAISES	Makes contacts
+24	ECI	Motel freebie
+25	WED	Hitched, so to speak
+26	NTS	Some Windows systems
+27	OSSETS	Natives of the Caucasus
+29	ISL	Long ___: Abbr.
+30	GIS	Dogfaces, today
+31	NEA	PBS funder
+32	HALT	Old-fashioned police cry
+34	OED	20-vol. reference work
+36	DUM	Doo-wop syllable
+38	ICI	Here, in France
+39	ANTA	Architectural pier
+40	EAL	Suffix with ether
+42	EGG	Silly Putty container
+44	TEL	Rolodex no.
+45	DHORSE	Long-shot candidate
+48	IHN	Him, in Heidelberg
+49	ARE	"These ___ the times that ..."
+50	DON	Get into, in a way
+51	SAINTED	Like Mother Cabrini
+54	LOVEYOU	Signoff in a mash note
+56	ODS	Shows no moderation, briefly
+57	ZIA	He overthrew Bhutto
+58	BEG	Do a dog trick
+59	TSONESNOSE	Expresses scorn
+62	ALE	Schooner filler
+63	EEC	U.S. trading partner, formerly
+64	NUNNS	Former Sen. Sam and family
+65	TSR	Dungeons & Dragons co., once
+66	DST	It ends in Oct.
+67	EWE	Dolly the clone, e.g.
+31
+1	RADIATIONLEVELS	Counter measures?
+2	ERE	It may appear before long
+3	AEDES	Yellow-fever mosquito
+4	OCH	Scot's exclamation
+5	HEEHEE	Impish expression of delight
+6	INSECT	Antenna holder, maybe
+7	IRAE	"Dies ___" (Latin hymn)
+8	THETWILIGHTZONE	Serling series
+9	EERIEST	Like H. P. Lovecraft among all popular writers?
+10	DICING	Casino activity
+11	SIMEON	Saint usually depicted carrying the infant Jesus
+14	SML	Tee choices: Abbr.
+15	SUSSED	Puzzled (out)
+20	RISHI	Hindu sage
+21	CDL	Year Marcian became emperor
+23	ISSET	"The stage ___"
+28	SAUER	Kraut modifier
+33	ACEIN	___ the hole
+35	DADDY	Papa
+37	MASSON	Big name in California wine
+39	AEROBAT	Blue Angels member, e.g.
+41	LEADEN	Hard to lift
+43	GNEISS	Rock variety
+44	TAL	1960-61 world chess champ
+46	HOOTED	Jeered
+47	ONUSES	Loads
+52	ISSUE	Swimsuit ___
+53	DAE	Peace Nobelist Kim ___ Jung
+55	EGER	Hungarian spa town
+60	OCT	Boss's Day mo.
+61	NNW	Compass heading

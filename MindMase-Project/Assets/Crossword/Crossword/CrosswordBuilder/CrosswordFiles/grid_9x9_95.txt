@@ -1,0 +1,115 @@
+grid_9x9_95
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	E	0	2	3	1	ENS	0	2	9	1	EYEOPENER
+0	1	2	N	0	2	3	0		0	3	3	1	NAV
+0	1	3	S	0	2	3	0		0	4	9	1	SNEAKPEEK
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	B	0	6	3	1	BMW	0	6	9	1	BRAINCELL
+0	1	5	M	0	6	3	0		0	7	3	1	MUG
+0	1	6	W	0	6	3	0		0	8	3	1	WYE
+0	1	7	D	1	0	5	1	DAYAN	1	0	3	1	DAY
+0	1	8	A	1	0	5	0		1	1	4	1	ABAS
+0	0	0	Y	1	0	5	0		0	2	9	0	
+0	0	0	A	1	0	5	0		0	3	3	0	
+0	0	0	N	1	0	5	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	R	1	6	3	1	RUY	0	6	9	0	
+0	0	0	U	1	6	3	0		0	7	3	0	
+0	0	0	Y	1	6	3	0		0	8	3	0	
+0	1	10	A	2	0	9	1	ABEVERAGE	1	0	3	0	
+0	0	0	B	2	0	9	0		1	1	4	0	
+0	0	0	E	2	0	9	0		0	2	9	0	
+0	0	0	V	2	0	9	0		0	3	3	0	
+0	0	0	E	2	0	9	0		0	4	9	0	
+0	1	11	R	2	0	9	0		2	5	3	1	RSA
+0	0	0	A	2	0	9	0		0	6	9	0	
+0	0	0	G	2	0	9	0		0	7	3	0	
+0	0	0	E	2	0	9	0		0	8	3	0	
+0	1	12	Y	3	0	3	1	YAO	1	0	3	0	
+0	0	0	A	3	0	3	0		1	1	4	0	
+0	0	0	O	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	A	3	4	3	1	ASI	0	4	9	0	
+0	0	0	S	3	4	3	0		2	5	3	0	
+0	0	0	I	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	S	4	1	7	1	SPOKANE	1	1	4	0	
+0	0	0	P	4	1	7	0		0	2	9	0	
+0	1	15	O	4	1	7	0		4	3	3	1	OLS
+0	0	0	K	4	1	7	0		0	4	9	0	
+0	0	0	A	4	1	7	0		2	5	3	0	
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	1	16	E	4	1	7	0		4	7	4	1	EASE
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	E	5	2	3	1	ELP	0	2	9	0	
+0	0	0	L	5	2	3	0		4	3	3	0	
+0	0	0	P	5	2	3	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	C	5	6	3	1	CAA	0	6	9	0	
+0	0	0	A	5	6	3	0		4	7	4	0	
+0	1	19	A	5	6	3	0		5	8	3	1	ASD
+0	1	20	S	6	0	9	1	SENSELESS	6	0	3	1	SPY
+0	1	21	E	6	0	9	0		6	1	3	1	ERA
+0	0	0	N	6	0	9	0		0	2	9	0	
+0	0	0	S	6	0	9	0		4	3	3	0	
+0	0	0	E	6	0	9	0		0	4	9	0	
+0	1	22	L	6	0	9	0		6	5	3	1	LEE
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	0	0	S	6	0	9	0		4	7	4	0	
+0	0	0	S	6	0	9	0		5	8	3	0	
+0	1	23	P	7	0	3	1	PRE	6	0	3	0	
+0	0	0	R	7	0	3	0		6	1	3	0	
+0	0	0	E	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	E	7	4	5	1	EELED	0	4	9	0	
+0	0	0	E	7	4	5	0		6	5	3	0	
+0	0	0	L	7	4	5	0		0	6	9	0	
+0	0	0	E	7	4	5	0		4	7	4	0	
+0	0	0	D	7	4	5	0		5	8	3	0	
+0	1	25	Y	8	0	3	1	YAR	6	0	3	0	
+0	0	0	A	8	0	3	0		6	1	3	0	
+0	0	0	R	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	26	K	8	4	3	1	KEL	0	4	9	0	
+0	0	0	E	8	4	3	0		6	5	3	0	
+0	0	0	L	8	4	3	0		0	6	9	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	ENS	Coast Guard rank: Abbr.
+4	BMW	Mercedes competitor
+7	DAYAN	Israel's Moshe
+9	RUY	___ Lopez (chess opening)
+10	ABEVERAGE	End of the quip
+12	YAO	Basketball's ___ Ming
+13	ASI	Walt Whitman poem "___ Pondered in Silence"
+14	SPOKANE	Gonzaga University site
+17	ELP	Grp. with the 1973 gold album "Brain Salad Surgery"
+18	CAA	Major org. representing entertainers and athletes
+20	SENSELESS	Screwball
+23	PRE	Start to date
+24	EELED	Went sniggling
+25	YAR	Yevtushenko's "Babi ___"
+26	KEL	Kenan's pal on Nickelodeon
+15
+1	EYEOPENER	Morning coffee, for one
+2	NAV	Like some capts.
+3	SNEAKPEEK	Preview
+4	BRAINCELL	Matter for Poirot
+5	MUG	Root beer order
+6	WYE	Fourth of July?
+7	DAY	Kind of care
+8	ABAS	Arab garments
+11	RSA	Cape Town's home: Abbr.
+15	OLS	Suffixes with glycer- and phen-
+16	EASE	It may be relative
+19	ASD	Comparable in years
+20	SPY	Passer of secret documents
+21	ERA	Tide competitor
+22	LEE	One of Broadway's Shuberts

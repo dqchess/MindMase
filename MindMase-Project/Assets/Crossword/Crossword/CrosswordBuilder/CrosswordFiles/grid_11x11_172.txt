@@ -1,0 +1,167 @@
+grid_11x11_172
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	S	0	1	3	1	SAM	0	1	5	1	SQUAW
+0	1	2	A	0	1	3	0		0	2	5	1	AUTRE
+0	1	3	M	0	1	3	0		0	3	7	1	MAANDPA
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	C	0	6	3	1	COT	0	6	3	1	CUI
+0	1	5	O	0	6	3	0		0	7	3	1	OZS
+0	1	6	T	0	6	3	0		0	8	5	1	TLETT
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	A	1	0	4	1	AQUA	1	0	3	1	AOK
+0	0	0	Q	1	0	4	0		0	1	5	0	
+0	0	0	U	1	0	4	0		0	2	5	0	
+0	0	0	A	1	0	4	0		0	3	7	0	
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	8	P	1	5	5	1	PUZLE	1	5	9	1	POKERFACE
+0	0	0	U	1	5	5	0		0	6	3	0	
+0	0	0	Z	1	5	5	0		0	7	3	0	
+0	0	0	L	1	5	5	0		0	8	5	0	
+0	1	9	E	1	5	5	0		1	9	4	1	EAVE
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	10	O	2	0	4	1	OUTA	1	0	3	0	
+0	0	0	U	2	0	4	0		0	1	5	0	
+0	0	0	T	2	0	4	0		0	2	5	0	
+0	0	0	A	2	0	4	0		0	3	7	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	11	O	2	5	6	1	OISEAU	1	5	9	0	
+0	0	0	I	2	5	6	0		0	6	3	0	
+0	0	0	S	2	5	6	0		0	7	3	0	
+0	0	0	E	2	5	6	0		0	8	5	0	
+0	0	0	A	2	5	6	0		1	9	4	0	
+0	1	12	U	2	5	6	0		2	10	3	1	USA
+0	1	13	K	3	0	6	1	KARNAK	1	0	3	0	
+0	0	0	A	3	0	6	0		0	1	5	0	
+0	0	0	R	3	0	6	0		0	2	5	0	
+0	0	0	N	3	0	6	0		0	3	7	0	
+0	1	14	A	3	0	6	0		3	4	3	1	AGT
+0	0	0	K	3	0	6	0		1	5	9	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	15	T	3	8	3	1	TVS	0	8	5	0	
+0	0	0	V	3	8	3	0		1	9	4	0	
+0	0	0	S	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	16	W	4	1	5	1	WEDGE	0	1	5	0	
+0	0	0	E	4	1	5	0		0	2	5	0	
+0	0	0	D	4	1	5	0		0	3	7	0	
+0	0	0	G	4	1	5	0		3	4	3	0	
+0	0	0	E	4	1	5	0		1	5	9	0	
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	17	O	4	7	4	1	OTEA	4	7	7	1	OPENTOE
+0	0	0	T	4	7	4	0		0	8	5	0	
+0	0	0	E	4	7	4	0		1	9	4	0	
+0	0	0	A	4	7	4	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	18	P	5	3	5	1	PTRAP	0	3	7	0	
+0	0	0	T	5	3	5	0		3	4	3	0	
+0	0	0	R	5	3	5	0		1	5	9	0	
+0	1	19	A	5	3	5	0		5	6	3	1	ART
+0	0	0	P	5	3	5	0		4	7	7	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	20	T	6	0	4	1	TINA	6	0	3	1	TOC
+0	1	21	I	6	0	4	0		6	1	4	1	ISLE
+0	1	22	N	6	0	4	0		6	2	5	1	NUEVO
+0	0	0	A	6	0	4	0		0	3	7	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	23	F	6	5	5	1	FREUD	1	5	9	0	
+0	0	0	R	6	5	5	0		5	6	3	0	
+0	0	0	E	6	5	5	0		4	7	7	0	
+0	1	24	U	6	5	5	0		6	8	5	1	UINTA
+0	1	25	D	6	5	5	0		6	9	5	1	DNUOP
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	26	O	7	0	3	1	OSU	6	0	3	0	
+0	0	0	S	7	0	3	0		6	1	4	0	
+0	0	0	U	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	6	0		8	4	3	0	
+0	1	27	A	7	5	6	1	ATNINE	1	5	9	0	
+0	0	0	T	7	5	6	0		5	6	3	0	
+0	0	0	N	7	5	6	0		4	7	7	0	
+0	0	0	I	7	5	6	0		6	8	5	0	
+0	0	0	N	7	5	6	0		6	9	5	0	
+0	1	28	E	7	5	6	0		7	10	3	1	ETH
+0	1	29	C	8	0	6	1	CLERIC	6	0	3	0	
+0	0	0	L	8	0	6	0		6	1	4	0	
+0	0	0	E	8	0	6	0		6	2	5	0	
+0	1	30	R	8	0	6	0		8	3	3	1	RAL
+0	1	31	I	8	0	6	0		8	4	3	1	IDE
+0	0	0	C	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	32	T	8	7	4	1	TNUT	4	7	7	0	
+0	0	0	N	8	7	4	0		6	8	5	0	
+0	0	0	U	8	7	4	0		6	9	5	0	
+0	0	0	T	8	7	4	0		7	10	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	33	E	9	1	5	1	EVADE	6	1	4	0	
+0	0	0	V	9	1	5	0		6	2	5	0	
+0	0	0	A	9	1	5	0		8	3	3	0	
+0	0	0	D	9	1	5	0		8	4	3	0	
+0	0	0	E	9	1	5	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	34	O	9	7	4	1	OTOH	4	7	7	0	
+0	0	0	T	9	7	4	0		6	8	5	0	
+0	0	0	O	9	7	4	0		6	9	5	0	
+0	0	0	H	9	7	4	0		7	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	O	10	2	3	1	OLE	6	2	5	0	
+0	0	0	L	10	2	3	0		8	3	3	0	
+0	0	0	E	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	36	E	10	7	3	1	EAP	4	7	7	0	
+0	0	0	A	10	7	3	0		6	8	5	0	
+0	0	0	P	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	SAM	Penrod's pal, in "Penrod"
+4	COT	Nap site
+7	AQUA	Pastel hue
+8	PUZLE	This is one
+10	OUTA	"I'm Gonna Wash That Man Right ___ My Hair"
+11	OISEAU	French flier
+13	KARNAK	Egyptian temple site
+15	TVS	O.T.B. conveniences
+16	WEDGE	Cheese hunk
+17	OTEA	"Cup ___" (1970s Don Williams song)
+18	PTRAP	Plumbing fitting
+20	TINA	Turner in the Rock and Roll Hall of Fame
+23	FREUD	Dream interpreter
+26	OSU	Buckeye sch.
+27	ATNINE	When many stores open
+29	CLERIC	Head of a flock
+32	TNUT	Connoisseur of this puzzle's subject
+33	EVADE	Dodge
+34	OTOH	Internet shortening to introduce a different view
+35	OLE	"___ Buttermilk Sky"
+36	EAP	"The Raven" writer's monogram
+21
+1	SQUAW	___ Valley, Calif.
+2	AUTRE	Other, in Bordeaux
+3	MAANDPA	Kettles, e.g.
+4	CUI	___ bono (for whose benefit?: Lat.)
+5	OZS	Small wts.
+6	TLETT	Pear variety
+7	AOK	NASA fine?
+8	POKERFACE	You'll get nothing out of a good one
+9	EAVE	Roof's edge
+12	USA	Land between Can. and Mex.
+14	AGT	Star's rep: Abbr.
+17	OPENTOE	Shoe style
+19	ART	Oils, say
+20	TOC	List in a book's front: Abbr.
+21	ISLE	Castaway's locale
+22	NUEVO	___ Le
+24	UINTA	___ Mountains, home of King's Peak
+25	DNUOP	Canine shelter
+28	ETH	End in the Bible?
+30	RAL	"Too-Ra-Loo-Ra-Loo-___" (lullaby)
+31	IDE	Periodic table suffix

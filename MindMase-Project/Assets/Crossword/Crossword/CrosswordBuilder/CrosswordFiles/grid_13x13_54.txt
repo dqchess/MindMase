@@ -1,0 +1,233 @@
+grid_13x13_54
+13
+0	1	1	P	0	0	3	1	POO	0	0	6	1	PROLIX
+0	1	2	O	0	0	3	0		0	1	6	1	OENONE
+0	1	3	O	0	0	3	0		0	2	6	1	ONEALS
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	M	0	4	3	1	MTT	0	4	3	1	MFA
+0	1	5	T	0	4	3	0		0	5	7	1	TENFEET
+0	1	6	T	0	4	3	0		0	6	4	1	TABU
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	I	0	8	3	1	ING	0	8	5	1	IHNEN
+0	1	8	N	0	8	3	0		0	9	3	1	NED
+0	1	9	G	0	8	3	0		0	10	6	1	GRANTS
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	R	1	0	3	1	REN	0	0	6	0	
+0	0	0	E	1	0	3	0		0	1	6	0	
+0	0	0	N	1	0	3	0		0	2	6	0	
+1	0	0	#	1	4	8	0		2	3	3	0	
+0	1	11	F	1	4	8	1	FEATHERS	0	4	3	0	
+0	0	0	E	1	4	8	0		0	5	7	0	
+0	0	0	A	1	4	8	0		0	6	4	0	
+0	1	12	T	1	4	8	0		1	7	3	1	TAS
+0	0	0	H	1	4	8	0		0	8	5	0	
+0	0	0	E	1	4	8	0		0	9	3	0	
+0	0	0	R	1	4	8	0		0	10	6	0	
+0	1	13	S	1	4	8	0		1	11	5	1	SNARF
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	O	2	0	13	1	ONEMANBANDANA	0	0	6	0	
+0	0	0	N	2	0	13	0		0	1	6	0	
+0	0	0	E	2	0	13	0		0	2	6	0	
+0	1	15	M	2	0	13	0		2	3	3	1	MDI
+0	0	0	A	2	0	13	0		0	4	3	0	
+0	0	0	N	2	0	13	0		0	5	7	0	
+0	0	0	B	2	0	13	0		0	6	4	0	
+0	0	0	A	2	0	13	0		1	7	3	0	
+0	0	0	N	2	0	13	0		0	8	5	0	
+0	0	0	D	2	0	13	0		0	9	3	0	
+0	0	0	A	2	0	13	0		0	10	6	0	
+0	0	0	N	2	0	13	0		1	11	5	0	
+0	1	16	A	2	0	13	0		2	12	3	1	AMA
+0	1	17	L	3	0	4	1	LOAD	0	0	6	0	
+0	0	0	O	3	0	4	0		0	1	6	0	
+0	0	0	A	3	0	4	0		0	2	6	0	
+0	0	0	D	3	0	4	0		2	3	3	0	
+1	0	0	#	3	5	4	0		4	4	3	0	
+0	1	18	F	3	5	4	1	FUSE	0	5	7	0	
+0	0	0	U	3	5	4	0		0	6	4	0	
+0	0	0	S	3	5	4	0		1	7	3	0	
+0	0	0	E	3	5	4	0		0	8	5	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	19	N	3	10	3	1	NAM	0	10	6	0	
+0	0	0	A	3	10	3	0		1	11	5	0	
+0	0	0	M	3	10	3	0		2	12	3	0	
+0	1	20	I	4	0	6	1	INLINE	0	0	6	0	
+0	0	0	N	4	0	6	0		0	1	6	0	
+0	0	0	L	4	0	6	0		0	2	6	0	
+0	0	0	I	4	0	6	0		2	3	3	0	
+0	1	21	N	4	0	6	0		4	4	3	1	NIT
+0	0	0	E	4	0	6	0		0	5	7	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	5	0		5	7	0	0	
+0	1	22	N	4	8	5	1	NUTRA	0	8	5	0	
+0	1	23	U	4	8	5	0		4	9	3	1	UPN
+0	0	0	T	4	8	5	0		0	10	6	0	
+0	0	0	R	4	8	5	0		1	11	5	0	
+0	0	0	A	4	8	5	0		2	12	3	0	
+0	1	24	X	5	0	3	1	XES	0	0	6	0	
+0	0	0	E	5	0	3	0		0	1	6	0	
+0	0	0	S	5	0	3	0		0	2	6	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	25	I	5	4	3	1	IES	4	4	3	0	
+0	0	0	E	5	4	3	0		0	5	7	0	
+0	1	26	S	5	4	3	0		5	6	3	1	SAT
+1	0	0	#	5	8	0	0		6	7	7	0	
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	27	P	5	9	3	1	PSF	4	9	3	0	
+0	0	0	S	5	9	3	0		0	10	6	0	
+0	0	0	F	5	9	3	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	28	O	6	3	7	1	OTTAWAN	6	3	3	1	OXO
+0	0	0	T	6	3	7	0		4	4	3	0	
+0	0	0	T	6	3	7	0		0	5	7	0	
+0	0	0	A	6	3	7	0		5	6	3	0	
+0	1	29	W	6	3	7	0		6	7	7	1	WHOEVER
+0	1	30	A	6	3	7	0		6	8	3	1	AER
+0	0	0	N	6	3	7	0		4	9	3	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	6	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	31	X	7	1	3	1	XOX	7	1	5	1	XYLEM
+0	1	32	O	7	1	3	0		7	2	6	1	ORDEAL
+0	0	0	X	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	33	T	7	6	3	1	THE	5	6	3	0	
+0	0	0	H	7	6	3	0		6	7	7	0	
+0	0	0	E	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	34	A	7	10	3	1	AAA	7	10	6	1	ANACIN
+0	1	35	A	7	10	3	0		7	11	6	1	AGOUTI
+0	1	36	A	7	10	3	0		7	12	6	1	ASHPAN
+0	1	37	T	8	0	5	1	TYROL	8	0	3	1	TAG
+0	0	0	Y	8	0	5	0		7	1	5	0	
+0	0	0	R	8	0	5	0		7	2	6	0	
+0	0	0	O	8	0	5	0		6	3	3	0	
+0	1	38	L	8	0	5	0		8	4	5	1	LEANN
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	39	O	8	7	6	1	ORINGS	6	7	7	0	
+0	0	0	R	8	7	6	0		6	8	3	0	
+0	1	40	I	8	7	6	0		8	9	3	1	INS
+0	0	0	N	8	7	6	0		7	10	6	0	
+0	0	0	G	8	7	6	0		7	11	6	0	
+0	0	0	S	8	7	6	0		7	12	6	0	
+0	1	41	A	9	0	3	1	ALD	8	0	3	0	
+0	0	0	L	9	0	3	0		7	1	5	0	
+0	0	0	D	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	4	0		10	3	3	0	
+0	1	42	E	9	4	4	1	ERBE	8	4	5	0	
+0	1	43	R	9	4	4	0		9	5	3	1	RDS
+0	1	44	B	9	4	4	0		9	6	4	1	BATH
+0	0	0	E	9	4	4	0		6	7	7	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	45	N	9	9	4	1	NAOH	8	9	3	0	
+0	0	0	A	9	9	4	0		7	10	6	0	
+0	0	0	O	9	9	4	0		7	11	6	0	
+0	0	0	H	9	9	4	0		7	12	6	0	
+0	1	46	G	10	0	13	1	GEENADAVISCUP	8	0	3	0	
+0	0	0	E	10	0	13	0		7	1	5	0	
+0	0	0	E	10	0	13	0		7	2	6	0	
+0	1	47	N	10	0	13	0		10	3	3	1	NIP
+0	0	0	A	10	0	13	0		8	4	5	0	
+0	0	0	D	10	0	13	0		9	5	3	0	
+0	0	0	A	10	0	13	0		9	6	4	0	
+0	0	0	V	10	0	13	0		6	7	7	0	
+0	1	48	I	10	0	13	0		10	8	3	1	IMS
+0	0	0	S	10	0	13	0		8	9	3	0	
+0	0	0	C	10	0	13	0		7	10	6	0	
+0	0	0	U	10	0	13	0		7	11	6	0	
+0	0	0	P	10	0	13	0		7	12	6	0	
+1	0	0	#	11	1	8	0		12	0	0	0	
+0	1	49	M	11	1	8	1	MAINSTEM	7	1	5	0	
+0	0	0	A	11	1	8	0		7	2	6	0	
+0	0	0	I	11	1	8	0		10	3	3	0	
+0	0	0	N	11	1	8	0		8	4	5	0	
+0	0	0	S	11	1	8	0		9	5	3	0	
+0	0	0	T	11	1	8	0		9	6	4	0	
+0	0	0	E	11	1	8	0		6	7	7	0	
+0	0	0	M	11	1	8	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	I	11	10	3	1	ITA	7	10	6	0	
+0	0	0	T	11	10	3	0		7	11	6	0	
+0	0	0	A	11	10	3	0		7	12	6	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	51	L	12	2	3	1	LPN	7	2	6	0	
+0	0	0	P	12	2	3	0		10	3	3	0	
+0	0	0	N	12	2	3	0		8	4	5	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	H	12	6	3	1	HRS	9	6	4	0	
+0	0	0	R	12	6	3	0		6	7	7	0	
+0	0	0	S	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	N	12	10	3	1	NIN	7	10	6	0	
+0	0	0	I	12	10	3	0		7	11	6	0	
+0	0	0	N	12	10	3	0		7	12	6	0	
+29
+1	POO	Cutesy-___
+4	MTT	Ball catcher
+7	ING	Mozart's Sonata ___ for Keyboard and Violin
+10	REN	Nickelodeon dog
+11	FEATHERS	Headdress, maybe
+14	ONEMANBANDANA	Informal headwear that can't be shared?
+17	LOAD	"Get a ___ of that!"
+18	FUSE	Combine
+19	NAM	60's hot spot
+20	INLINE	Obeying
+22	NUTRA	Commercial lead-in to Sweet
+24	XES	Ballot markings
+25	IES	Suffix with pant or aunt
+27	PSF	Pressure meas.
+28	OTTAWAN	Paul Anka or Dan Aykroyd, by birth
+31	XOX	Tic-tac-toe loser
+33	THE	Definitive word
+34	AAA	Bumper sticker letters
+37	TYROL	Snowy region of Austria
+39	ORINGS	Rubber gaskets
+41	ALD	Munic. legislator
+42	ERBE	Kathryn of "Law & Order: Criminal Intent"
+45	NAOH	Caustic soda, symbolically
+46	GEENADAVISCUP	Actress's sports award?
+49	MAINSTEM	Trunk
+50	ITA	Ending with Juan
+51	LPN	I.C.U. worker
+52	HRS	Slugger's stat
+53	NIN	"Cities of the Interior" novelist
+31
+1	PROLIX	Wordy
+2	OENONE	Wife of Paris, in myth
+3	ONEALS	"Paper Moon" father and daughter
+4	MFA	Deg. from Parsons, perhaps
+5	TENFEET	Pole length?
+6	TABU	Anthropologist's topic: Var.
+7	IHNEN	"Wie geht es ___?" (German greeting)
+8	NED	Outlaw Kelly
+9	GRANTS	Endowments for the arts
+12	TAS	Univ. helpers
+13	SNARF	Devour, with "up" or "down"
+15	MDI	Year Michelangelo began "David"
+16	AMA	Org. with an influential journal
+21	NIT	Annual coll. basketball contest
+23	UPN	Bygone channel
+26	SAT	Gained a lap?
+28	OXO	Maker of Good Grips kitchen tools
+29	WHOEVER	"It doesn't matter ... anyone's fine"
+30	AER	___ Arann (Irish carrier)
+31	XYLEM	Who said "I believe in censorship. After all I made a fortune out of it"
+32	ORDEAL	Tough time
+34	ANACIN	Wyeth health-care brand
+35	AGOUTI	Rodent that menaces sugar cane
+36	ASHPAN	Fireplace receptacle
+37	TAG	Running game
+38	LEANN	Rimes of country music
+40	INS	Special ties
+43	RDS	Postal rtes.
+44	BATH	Ordeal for Rover, perhaps
+47	NIP	Pilfer
+48	IMS	Online chat components, for short

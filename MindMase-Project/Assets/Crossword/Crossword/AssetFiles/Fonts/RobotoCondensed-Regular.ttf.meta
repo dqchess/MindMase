@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5f7bf088bdd28427d90a5ac5fdce403a
+timeCreated: 1490212393
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8401d389922c1450288bdc8f6f931281, type: 3}
+  - {fileID: 12800000, guid: 8ef6effdec1df4262a101b28c42df1bc, type: 3}
+  customCharacters: qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890:()[]
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,309 @@
+grid_15x15_98
+15
+0	1	1	P	0	0	3	1	PAS	0	0	3	1	PIE
+0	1	2	A	0	0	3	0		0	1	7	1	AEOLIAN
+0	1	3	S	0	0	3	0		0	2	15	1	SLEEPLESSNIGHTS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	P	0	5	3	1	PDF	0	5	4	1	PANS
+0	1	5	D	0	5	3	0		0	6	3	1	DRT
+0	1	6	F	0	5	3	0		0	7	3	1	FYI
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	3	0		1	10	3	0	
+0	1	7	A	0	11	3	1	ABT	0	11	3	1	ADD
+0	1	8	B	0	11	3	0		0	12	15	1	BOARDANDLODGING
+0	1	9	T	0	11	3	0		0	13	7	1	TUNEDIN
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	10	I	1	0	3	1	IEL	0	0	3	0	
+0	0	0	E	1	0	3	0		0	1	7	0	
+0	0	0	L	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	11	M	1	4	5	1	MARYJ	1	4	3	1	MAU
+0	0	0	A	1	4	5	0		0	5	4	0	
+0	0	0	R	1	4	5	0		0	6	3	0	
+0	0	0	Y	1	4	5	0		0	7	3	0	
+0	1	12	J	1	4	5	0		1	8	5	1	JOANN
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	13	X	1	10	5	1	XDOUT	1	10	3	1	XIA
+0	0	0	D	1	10	5	0		0	11	3	0	
+0	0	0	O	1	10	5	0		0	12	15	0	
+0	0	0	U	1	10	5	0		0	13	7	0	
+0	1	14	T	1	10	5	0		1	14	3	1	TTT
+0	1	15	E	2	0	3	1	EOE	0	0	3	0	
+0	0	0	O	2	0	3	0		0	1	7	0	
+0	0	0	E	2	0	3	0		0	2	15	0	
+1	0	0	#	2	4	11	0		3	3	3	0	
+0	1	16	A	2	4	11	1	ANTIOXIDANT	1	4	3	0	
+0	0	0	N	2	4	11	0		0	5	4	0	
+0	0	0	T	2	4	11	0		0	6	3	0	
+0	0	0	I	2	4	11	0		0	7	3	0	
+0	0	0	O	2	4	11	0		1	8	5	0	
+0	1	17	X	2	4	11	0		2	9	3	1	XKE
+0	0	0	I	2	4	11	0		1	10	3	0	
+0	0	0	D	2	4	11	0		0	11	3	0	
+0	0	0	A	2	4	11	0		0	12	15	0	
+0	0	0	N	2	4	11	0		0	13	7	0	
+0	0	0	T	2	4	11	0		1	14	3	0	
+1	0	0	#	3	1	5	0		4	0	3	0	
+0	1	18	L	3	1	5	1	LEPUS	0	1	7	0	
+0	0	0	E	3	1	5	0		0	2	15	0	
+0	1	19	P	3	1	5	0		3	3	3	1	PSA
+0	0	0	U	3	1	5	0		1	4	3	0	
+0	0	0	S	3	1	5	0		0	5	4	0	
+1	0	0	#	3	7	0	0		4	6	4	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	20	A	3	8	3	1	AKA	1	8	5	0	
+0	0	0	K	3	8	3	0		2	9	3	0	
+0	0	0	A	3	8	3	0		1	10	3	0	
+1	0	0	#	3	12	3	0		4	11	4	0	
+0	1	21	R	3	12	3	1	RET	0	12	15	0	
+0	0	0	E	3	12	3	0		0	13	7	0	
+0	0	0	T	3	12	3	0		1	14	3	0	
+0	1	22	D	4	0	4	1	DIPS	4	0	3	1	DSO
+0	0	0	I	4	0	4	0		0	1	7	0	
+0	0	0	P	4	0	4	0		0	2	15	0	
+0	0	0	S	4	0	4	0		3	3	3	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	4	0		5	5	0	0	
+0	1	23	W	4	6	4	1	WINE	4	6	4	1	WIKI
+0	1	24	I	4	6	4	0		4	7	7	1	ITSONME
+0	0	0	N	4	6	4	0		1	8	5	0	
+0	0	0	E	4	6	4	0		2	9	3	0	
+1	0	0	#	4	11	3	0		5	10	0	0	
+0	1	25	E	4	11	3	1	EDD	4	11	4	1	ERIA
+0	0	0	D	4	11	3	0		0	12	15	0	
+0	0	0	D	4	11	3	0		0	13	7	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	26	S	5	0	5	1	SALAS	4	0	3	0	
+0	0	0	A	5	0	5	0		0	1	7	0	
+0	0	0	L	5	0	5	0		0	2	15	0	
+0	0	0	A	5	0	5	0		3	3	3	0	
+0	1	27	S	5	0	5	0		5	4	4	1	SOCK
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	28	I	5	6	3	1	ITN	4	6	4	0	
+0	0	0	T	5	6	3	0		4	7	7	0	
+0	0	0	N	5	6	3	0		1	8	5	0	
+1	0	0	#	5	10	0	0		6	9	3	0	
+1	0	0	#	5	11	3	0		6	10	4	0	
+0	1	29	R	5	11	3	1	RAI	4	11	4	0	
+0	0	0	A	5	11	3	0		0	12	15	0	
+0	0	0	I	5	11	3	0		0	13	7	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	30	O	6	0	3	1	ONE	4	0	3	0	
+0	0	0	N	6	0	3	0		0	1	7	0	
+0	0	0	E	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	4	0		7	3	4	0	
+0	1	31	O	6	4	4	1	OAKS	5	4	4	0	
+0	1	32	A	6	4	4	0		6	5	3	1	ATA
+0	0	0	K	6	4	4	0		4	6	4	0	
+0	0	0	S	6	4	4	0		4	7	7	0	
+1	0	0	#	6	9	5	0		7	8	4	0	
+0	1	33	U	6	9	5	1	UMINN	6	9	3	1	UHS
+0	1	34	M	6	9	5	0		6	10	4	1	MEDO
+0	0	0	I	6	9	5	0		4	11	4	0	
+0	0	0	N	6	9	5	0		0	12	15	0	
+0	0	0	N	6	9	5	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	11	0		8	1	7	0	
+0	1	35	S	7	2	11	1	SECTIONHEAD	0	2	15	0	
+0	1	36	E	7	2	11	0		7	3	4	1	EASY
+0	0	0	C	7	2	11	0		5	4	4	0	
+0	0	0	T	7	2	11	0		6	5	3	0	
+0	0	0	I	7	2	11	0		4	6	4	0	
+0	0	0	O	7	2	11	0		4	7	7	0	
+0	1	37	N	7	2	11	0		7	8	4	1	NAMU
+0	0	0	H	7	2	11	0		6	9	3	0	
+0	0	0	E	7	2	11	0		6	10	4	0	
+0	0	0	A	7	2	11	0		4	11	4	0	
+0	0	0	D	7	2	11	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	7	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	38	O	8	1	5	1	OSAKA	8	1	7	1	ORDINAL
+0	0	0	S	8	1	5	0		0	2	15	0	
+0	0	0	A	8	1	5	0		7	3	4	0	
+0	0	0	K	8	1	5	0		5	4	4	0	
+0	0	0	A	8	1	5	0		6	5	3	0	
+1	0	0	#	8	7	4	0		9	6	5	0	
+0	1	39	N	8	7	4	1	NASD	4	7	7	0	
+0	0	0	A	8	7	4	0		7	8	4	0	
+0	0	0	S	8	7	4	0		6	9	3	0	
+0	0	0	D	8	7	4	0		6	10	4	0	
+1	0	0	#	8	12	3	0		9	11	3	0	
+0	1	40	L	8	12	3	1	LBO	0	12	15	0	
+0	1	41	B	8	12	3	0		8	13	7	1	BEZIQUE
+0	1	42	O	8	12	3	0		8	14	3	1	OSE
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	43	R	9	1	3	1	RNS	8	1	7	0	
+0	0	0	N	9	1	3	0		0	2	15	0	
+0	0	0	S	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	0	0		10	4	0	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	44	M	9	6	3	1	MMM	9	6	5	1	MINTY
+0	0	0	M	9	6	3	0		4	7	7	0	
+0	0	0	M	9	6	3	0		7	8	4	0	
+1	0	0	#	9	10	5	0		10	9	0	0	
+0	1	45	O	9	10	5	1	OBOES	6	10	4	0	
+0	1	46	B	9	10	5	0		9	11	3	1	BAN
+0	0	0	O	9	10	5	0		0	12	15	0	
+0	0	0	E	9	10	5	0		8	13	7	0	
+0	0	0	S	9	10	5	0		8	14	3	0	
+1	0	0	#	10	1	3	0		11	0	3	0	
+0	1	47	D	10	1	3	1	DIY	8	1	7	0	
+0	0	0	I	10	1	3	0		0	2	15	0	
+0	0	0	Y	10	1	3	0		7	3	4	0	
+1	0	0	#	10	5	4	0		11	4	3	0	
+0	1	48	L	10	5	4	1	LIEU	10	5	3	1	LOI
+0	0	0	I	10	5	4	0		9	6	5	0	
+0	0	0	E	10	5	4	0		4	7	7	0	
+0	0	0	U	10	5	4	0		7	8	4	0	
+1	0	0	#	10	10	0	0		11	9	4	0	
+1	0	0	#	10	11	4	0		11	10	3	0	
+0	1	49	A	10	11	4	1	ADZE	9	11	3	0	
+0	0	0	D	10	11	4	0		0	12	15	0	
+0	0	0	Z	10	11	4	0		8	13	7	0	
+0	0	0	E	10	11	4	0		8	14	3	0	
+0	1	50	A	11	0	3	1	AIG	11	0	3	1	AIR
+0	0	0	I	11	0	3	0		8	1	7	0	
+0	0	0	G	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	51	H	11	4	3	1	HON	11	4	3	1	HRH
+0	0	0	O	11	4	3	0		10	5	3	0	
+0	0	0	N	11	4	3	0		9	6	5	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	5	0		12	8	3	0	
+0	1	52	F	11	9	5	1	FUNGI	11	9	4	1	FCTO
+0	1	53	U	11	9	5	0		11	10	3	1	UEA
+0	0	0	N	11	9	5	0		9	11	3	0	
+0	0	0	G	11	9	5	0		0	12	15	0	
+0	0	0	I	11	9	5	0		8	13	7	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	54	I	12	0	11	1	INHERITANCE	11	0	3	0	
+0	0	0	N	12	0	11	0		8	1	7	0	
+0	0	0	H	12	0	11	0		0	2	15	0	
+0	1	55	E	12	0	11	0		12	3	3	1	ECU
+0	0	0	R	12	0	11	0		11	4	3	0	
+0	0	0	I	12	0	11	0		10	5	3	0	
+0	0	0	T	12	0	11	0		9	6	5	0	
+0	1	56	A	12	0	11	0		12	7	3	1	AEC
+0	1	57	N	12	0	11	0		12	8	3	1	NNE
+0	0	0	C	12	0	11	0		11	9	4	0	
+0	0	0	E	12	0	11	0		11	10	3	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	58	I	12	12	3	1	IQS	0	12	15	0	
+0	0	0	Q	12	12	3	0		8	13	7	0	
+0	1	59	S	12	12	3	0		12	14	3	1	SLO
+0	1	60	R	13	0	5	1	RATCH	11	0	3	0	
+0	0	0	A	13	0	5	0		8	1	7	0	
+0	0	0	T	13	0	5	0		0	2	15	0	
+0	0	0	C	13	0	5	0		12	3	3	0	
+0	0	0	H	13	0	5	0		11	4	3	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	61	Y	13	6	5	1	YENTA	9	6	5	0	
+0	0	0	E	13	6	5	0		12	7	3	0	
+0	0	0	N	13	6	5	0		12	8	3	0	
+0	0	0	T	13	6	5	0		11	9	4	0	
+0	0	0	A	13	6	5	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	62	N	13	12	3	1	NUL	0	12	15	0	
+0	0	0	U	13	12	3	0		8	13	7	0	
+0	0	0	L	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	63	L	14	1	3	1	LSU	8	1	7	0	
+0	0	0	S	14	1	3	0		0	2	15	0	
+0	0	0	U	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	64	C	14	7	3	1	CEO	12	7	3	0	
+0	0	0	E	14	7	3	0		12	8	3	0	
+0	0	0	O	14	7	3	0		11	9	4	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	65	G	14	12	3	1	GEO	0	12	15	0	
+0	0	0	E	14	12	3	0		8	13	7	0	
+0	0	0	O	14	12	3	0		12	14	3	0	
+41
+1	PAS	___ seul (dance solo)
+4	PDF	Alternative to a print version: Abbr.
+7	ABT	Dance grp. at the Met
+10	IEL	Drive forward
+11	MARYJ	Grammy winner Blige
+13	XDOUT	Deleted, briefly
+15	EOE	Job spec.
+16	ANTIOXIDANT	Beneficial substance in fruits, vegetables and tea
+18	LEPUS	Constellation known as the Hare
+20	AKA	Dossier letters
+21	RET	Like many a gen. or maj.
+22	DIPS	Market corrections
+23	WINE	Press release?
+25	EDD	TV announcer Hall
+26	SALAS	Casa parts
+28	ITN	BBC competitor
+29	RAI	Thor Heyerdahl craft
+30	ONE	Unnamed person
+31	OAKS	Acorn sources
+33	UMINN	Twin Cities sch.
+35	SECTIONHEAD	Middle management title
+38	OSAKA	Kansai International Airport site
+39	NASD	Former stock regulating org.
+40	LBO	Certain corp. takeover
+43	RNS	E.R. or O.R. workers
+44	MMM	"Tasty!"
+45	OBOES	Woodwinds
+47	DIY	Like many a home improvement project, for short
+48	LIEU	In ___ of (substituting for)
+49	ADZE	Woodworking tool
+50	AIG	Insurance giant in 2009 news
+51	HON	Babydoll
+52	FUNGI	Things not wanted in locker rooms
+54	INHERITANCE	You have it coming
+58	IQS	Measures of brightness
+60	RATCH	Toothed bar
+61	YENTA	Meddler
+62	NUL	Match ___ (tie game, in France)
+63	LSU	Baton Rouge sch.
+64	CEO	Many a corner office holder, for short
+65	GEO	Prefix with caching
+39
+1	PIE	Quiche, e.g.
+2	AEOLIAN	Windblown
+3	SLEEPLESSNIGHTS	Result of prolonged worry
+4	PANS	Gives zero stars to
+5	DRT	2000 Richard Gere title role
+6	FYI	Post-it note abbr.
+7	ADD	Contribute
+8	BOARDANDLODGING	What country inns provide
+9	TUNEDIN	With it
+11	MAU	Egyptian ___ (cat breed)
+12	JOANN	Title girl in a 1958 hit by the Playmates
+13	XIA	Earliest recorded Chinese dynasty
+14	TTT	Fort Smith-to-Little Rock dir.
+17	XKE	Jaguar model
+19	PSA	Free TV ad, for short
+22	DSO	Award instituted by Queen Victoria: Abbr.
+23	WIKI	User-edited Web site
+24	ITSONME	Treater's words
+25	ERIA	Assam silkworm
+27	SOCK	Haymaker
+32	ATA	___ glance
+33	UHS	Uncertain reactions
+34	MEDO	"Love ___" (Beatles song)
+36	EASY	Uncomplicated
+37	NAMU	Movie whale
+38	ORDINAL	Second, e.g.
+41	BEZIQUE	Favorite card game of Winston Churchill
+42	OSE	Suffix with tubul-
+44	MINTY	Like some mouthwashes
+46	BAN	Stop O.K.'ing
+48	LOI	What le gendarme enforces
+50	AIR	Bubble contents
+51	HRH	Letters of royalty
+52	FCTO	De ___
+53	UEA	Pupil's place
+55	ECU	Old coin worth five francs
+56	AEC	Former regulatory org.
+57	NNE	Liverpool-to-Newcastle dir.
+59	SLO	Traffic warning

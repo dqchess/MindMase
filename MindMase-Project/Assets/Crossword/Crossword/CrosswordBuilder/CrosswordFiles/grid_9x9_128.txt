@@ -1,0 +1,117 @@
+grid_9x9_128
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	D	0	1	3	1	DTS	0	1	4	1	DOLT
+0	1	2	T	0	1	3	0		0	2	9	1	THATSWACK
+0	1	3	S	0	1	3	0		0	3	3	1	SSS
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	A	0	6	3	1	AAM	0	6	9	1	ADDRESSEE
+0	1	5	A	0	6	3	0		0	7	4	1	AKEY
+0	1	6	M	0	6	3	0		0	8	3	1	MAD
+0	1	7	D	1	0	4	1	DOHS	1	0	3	1	DSO
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	H	1	0	4	0		0	2	9	0	
+0	0	0	S	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	K	1	5	4	1	KDKA	1	5	4	1	KWAI
+0	0	0	D	1	5	4	0		0	6	9	0	
+0	0	0	K	1	5	4	0		0	7	4	0	
+0	0	0	A	1	5	4	0		0	8	3	0	
+0	1	9	S	2	0	4	1	SLAS	1	0	3	0	
+0	0	0	L	2	0	4	0		0	1	4	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	W	2	5	4	1	WDED	1	5	4	0	
+0	0	0	D	2	5	4	0		0	6	9	0	
+0	0	0	E	2	5	4	0		0	7	4	0	
+0	0	0	D	2	5	4	0		0	8	3	0	
+0	1	11	O	3	0	3	1	OTT	1	0	3	0	
+0	0	0	T	3	0	3	0		0	1	4	0	
+0	0	0	T	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	V	3	4	4	1	VARY	3	4	3	1	VFS
+0	0	0	A	3	4	4	0		1	5	4	0	
+0	0	0	R	3	4	4	0		0	6	9	0	
+0	0	0	Y	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	13	S	4	2	5	1	SOFIE	0	2	9	0	
+0	1	14	O	4	2	5	0		4	3	4	1	ONEA
+0	0	0	F	4	2	5	0		3	4	3	0	
+0	0	0	I	4	2	5	0		1	5	4	0	
+0	0	0	E	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	A	5	1	4	1	AWNS	5	1	4	1	ALFS
+0	0	0	W	5	1	4	0		0	2	9	0	
+0	0	0	N	5	1	4	0		4	3	4	0	
+0	0	0	S	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	16	S	5	6	3	1	SCH	0	6	9	0	
+0	1	17	C	5	6	3	0		5	7	4	1	CANY
+0	1	18	H	5	6	3	0		5	8	3	1	HRS
+0	1	19	A	6	0	4	1	ALAE	6	0	3	1	AAE
+0	0	0	L	6	0	4	0		5	1	4	0	
+0	0	0	A	6	0	4	0		0	2	9	0	
+0	0	0	E	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	20	I	6	5	4	1	ISAR	6	5	3	1	ISR
+0	0	0	S	6	5	4	0		0	6	9	0	
+0	0	0	A	6	5	4	0		5	7	4	0	
+0	0	0	R	6	5	4	0		5	8	3	0	
+0	1	21	A	7	0	4	1	AFCA	6	0	3	0	
+0	0	0	F	7	0	4	0		5	1	4	0	
+0	0	0	C	7	0	4	0		0	2	9	0	
+0	0	0	A	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	S	7	5	4	1	SENS	6	5	3	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	N	7	5	4	0		5	7	4	0	
+0	0	0	S	7	5	4	0		5	8	3	0	
+0	1	23	E	8	0	3	1	ESK	6	0	3	0	
+0	0	0	S	8	0	3	0		5	1	4	0	
+0	0	0	K	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	R	8	5	3	1	REY	6	5	3	0	
+0	0	0	E	8	5	3	0		0	6	9	0	
+0	0	0	Y	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	DTS	Sot's woe
+4	AAM	Texas school
+7	DOHS	Cries from Homer Simpson
+8	KDKA	America's first commercial radio station
+9	SLAS	Freddy Krueger and others
+10	WDED	Joined at the altar
+11	OTT	Slugger Mel
+12	VARY	Results may do this
+13	SOFIE	Swedish mezzo Anne ___ von Otter
+15	AWNS	Botanical beards
+16	SCH	Dean's purview: Abbr.
+19	ALAE	Zoological wings
+20	ISAR	Munich's river
+21	AFCA	Chad's place
+22	SENS	Brownback and Obama, e.g.: Abbr.
+23	ESK	Inuit: Abbr.
+24	REY	Juan Carlos, e.g.
+15
+1	DOLT	Dunce cap earner
+2	THATSWACK	"Wow, totally crazy!"
+3	SSS	Puncture sound
+4	ADDRESSEE	Letter opener
+5	AKEY	Caps Lock neighbor, on a computer
+6	MAD	Alfred E. Neuman's magazine
+7	DSO	Award since 1886: Abbr.
+8	KWAI	River in a 1957 film
+12	VFS	Some engines
+14	ONEA	Top status
+15	ALFS	Gov. Landon and others
+17	CANY	Like a raspberry bush stem
+18	HRS	Baseball stat.
+19	AAE	Cable channel
+20	ISR	El Al destination: Abbr.

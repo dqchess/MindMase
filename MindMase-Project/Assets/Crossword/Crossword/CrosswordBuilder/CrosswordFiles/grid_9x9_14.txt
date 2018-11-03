@@ -1,0 +1,115 @@
+grid_9x9_14
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	F	0	1	3	1	FSU	0	1	4	1	FAZE
+0	1	2	S	0	1	3	0		0	2	9	1	SCAPEGOAT
+0	1	3	U	0	1	3	0		0	3	5	1	UKASE
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	T	0	6	3	1	TOL	0	6	9	1	TREADMILL
+0	1	5	O	0	6	3	0		0	7	4	1	ODAY
+0	1	6	L	0	6	3	0		0	8	4	1	LSTS
+0	1	7	T	1	0	5	1	TACKS	1	0	3	1	TIP
+0	0	0	A	1	0	5	0		0	1	4	0	
+0	0	0	C	1	0	5	0		0	2	9	0	
+0	0	0	K	1	0	5	0		0	3	5	0	
+0	1	8	S	1	0	5	0		1	4	7	1	SKILLET
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	9	R	1	6	3	1	RDS	0	6	9	0	
+0	0	0	D	1	6	3	0		0	7	4	0	
+0	0	0	S	1	6	3	0		0	8	4	0	
+0	1	10	I	2	0	5	1	IZAAK	1	0	3	0	
+0	0	0	Z	2	0	5	0		0	1	4	0	
+0	0	0	A	2	0	5	0		0	2	9	0	
+0	0	0	A	2	0	5	0		0	3	5	0	
+0	0	0	K	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	0	0	
+0	1	11	E	2	6	3	1	EAT	0	6	9	0	
+0	0	0	A	2	6	3	0		0	7	4	0	
+0	0	0	T	2	6	3	0		0	8	4	0	
+0	1	12	P	3	0	5	1	PEPSI	1	0	3	0	
+0	0	0	E	3	0	5	0		0	1	4	0	
+0	0	0	P	3	0	5	0		0	2	9	0	
+0	0	0	S	3	0	5	0		0	3	5	0	
+0	0	0	I	3	0	5	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	13	A	3	6	3	1	AYS	0	6	9	0	
+0	0	0	Y	3	6	3	0		0	7	4	0	
+0	0	0	S	3	6	3	0		0	8	4	0	
+1	0	0	#	4	1	0	0		5	0	4	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	14	E	4	2	5	1	EELED	0	2	9	0	
+0	0	0	E	4	2	5	0		0	3	5	0	
+0	0	0	L	4	2	5	0		1	4	7	0	
+0	1	15	E	4	2	5	0		4	5	5	1	EERIE
+0	0	0	D	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	16	I	5	0	3	1	ING	5	0	4	1	ITSA
+0	1	17	N	5	0	3	0		5	1	4	1	NANU
+0	0	0	G	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	18	L	5	4	5	1	LEMUR	1	4	7	0	
+0	0	0	E	5	4	5	0		4	5	5	0	
+0	0	0	M	5	4	5	0		0	6	9	0	
+0	1	19	U	5	4	5	0		5	7	4	1	UCLA
+0	1	20	R	5	4	5	0		5	8	3	1	RAS
+0	1	21	T	6	0	3	1	TAO	5	0	4	0	
+0	0	0	A	6	0	3	0		5	1	4	0	
+0	0	0	O	6	0	3	0		0	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	22	E	6	4	5	1	ERICA	1	4	7	0	
+0	0	0	R	6	4	5	0		4	5	5	0	
+0	0	0	I	6	4	5	0		0	6	9	0	
+0	0	0	C	6	4	5	0		5	7	4	0	
+0	0	0	A	6	4	5	0		5	8	3	0	
+0	1	23	S	7	0	3	1	SNA	5	0	4	0	
+0	0	0	N	7	0	3	0		5	1	4	0	
+0	0	0	A	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	T	7	4	5	1	TILLS	1	4	7	0	
+0	0	0	I	7	4	5	0		4	5	5	0	
+0	0	0	L	7	4	5	0		0	6	9	0	
+0	0	0	L	7	4	5	0		5	7	4	0	
+0	0	0	S	7	4	5	0		5	8	3	0	
+0	1	25	A	8	0	3	1	AUT	5	0	4	0	
+0	0	0	U	8	0	3	0		5	1	4	0	
+0	0	0	T	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	E	8	5	3	1	ELA	4	5	5	0	
+0	0	0	L	8	5	3	0		0	6	9	0	
+0	0	0	A	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	FSU	Tallahassee sch.
+4	TOL	"My Mama Done ___ Me"
+7	TACKS	Carpet fasteners
+9	RDS	Postal rtes.
+10	IZAAK	___ Walton League (conservation group)
+11	EAT	Fill up on
+12	PEPSI	"It" in the old slogan "Gotta have it"
+13	AYS	Cries of regret
+14	EELED	Went sniggling
+16	ING	Gerund end
+18	LEMUR	Cousin of a monkey
+21	TAO	Source of being, it's said
+22	ERICA	African evergreen shrub
+23	SNA	Dundee precip
+24	TILLS	Plows
+25	AUT	Self: Prefix
+26	ELA	Musical high note
+13
+1	FAZE	Perturb
+2	SCAPEGOAT	Butt
+3	UKASE	Imperial decree
+4	TREADMILL	Symbol of a boring routine
+5	ODAY	Anita of jazz
+6	LSTS	Amphibious vehicles, for short
+7	TIP	It may be 20%
+8	SKILLET	Place to make an omelet
+15	EERIE	Like ghost stories
+16	ITSA	"___ done deal"
+17	NANU	When repeated, a TV sign-off
+19	UCLA	Bruins' sch.
+20	RAS	Univ. dorm supervisors

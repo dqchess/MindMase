@@ -1,0 +1,115 @@
+grid_9x9_18
+9
+0	1	1	A	0	0	3	1	ARI	0	0	3	1	AIR
+0	1	2	R	0	0	3	0		0	1	5	1	RSVPD
+0	1	3	I	0	0	3	0		0	2	5	1	ISSUE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	4	C	0	6	3	1	CFL	0	6	3	1	CON
+0	1	5	F	0	6	3	0		0	7	3	1	FLA
+0	1	6	L	0	6	3	0		0	8	3	1	LES
+0	1	7	I	1	0	3	1	ISS	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	5	0	
+0	0	0	S	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	F	1	4	5	1	FHOLE	1	4	7	1	FOPGDKO
+0	1	9	H	1	4	5	0		1	5	5	1	HOSNI
+0	0	0	O	1	4	5	0		0	6	3	0	
+0	0	0	L	1	4	5	0		0	7	3	0	
+0	0	0	E	1	4	5	0		0	8	3	0	
+0	1	10	R	2	0	3	1	RVS	0	0	3	0	
+0	0	0	V	2	0	3	0		0	1	5	0	
+0	0	0	S	2	0	3	0		0	2	5	0	
+1	0	0	#	2	4	5	0		3	3	5	0	
+0	1	11	O	2	4	5	1	OONAS	1	4	7	0	
+0	0	0	O	2	4	5	0		1	5	5	0	
+0	0	0	N	2	4	5	0		0	6	3	0	
+0	0	0	A	2	4	5	0		0	7	3	0	
+0	0	0	S	2	4	5	0		0	8	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	12	P	3	1	5	1	PULPS	0	1	5	0	
+0	0	0	U	3	1	5	0		0	2	5	0	
+0	1	13	L	3	1	5	0		3	3	5	1	LICIA
+0	0	0	P	3	1	5	0		1	4	7	0	
+0	0	0	S	3	1	5	0		1	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	D	4	1	7	1	DEIGNED	0	1	5	0	
+0	0	0	E	4	1	7	0		0	2	5	0	
+0	0	0	I	4	1	7	0		3	3	5	0	
+0	0	0	G	4	1	7	0		1	4	7	0	
+0	0	0	N	4	1	7	0		1	5	5	0	
+0	1	15	E	4	1	7	0		4	6	5	1	EILAT
+0	1	16	D	4	1	7	0		4	7	5	1	DISHY
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	5	0		6	2	3	0	
+0	1	17	C	5	3	5	1	CDIII	3	3	5	0	
+0	0	0	D	5	3	5	0		1	4	7	0	
+0	0	0	I	5	3	5	0		1	5	5	0	
+0	0	0	I	5	3	5	0		4	6	5	0	
+0	0	0	I	5	3	5	0		4	7	5	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	L	6	0	5	1	LASIK	6	0	3	1	LDS
+0	1	19	A	6	0	5	0		6	1	3	1	ARE
+0	1	20	S	6	0	5	0		6	2	3	1	SLE
+0	0	0	I	6	0	5	0		3	3	5	0	
+0	0	0	K	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	21	L	6	6	3	1	LST	4	6	5	0	
+0	0	0	S	6	6	3	0		4	7	5	0	
+0	1	22	T	6	6	3	0		6	8	3	1	TAS
+0	1	23	D	7	0	5	1	DRLAO	6	0	3	0	
+0	0	0	R	7	0	5	0		6	1	3	0	
+0	0	0	L	7	0	5	0		6	2	3	0	
+0	0	0	A	7	0	5	0		3	3	5	0	
+0	0	0	O	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	A	7	6	3	1	AHA	4	6	5	0	
+0	0	0	H	7	6	3	0		4	7	5	0	
+0	0	0	A	7	6	3	0		6	8	3	0	
+0	1	25	S	8	0	3	1	SEE	6	0	3	0	
+0	0	0	E	8	0	3	0		6	1	3	0	
+0	0	0	E	8	0	3	0		6	2	3	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	T	8	6	3	1	TYS	4	6	5	0	
+0	0	0	Y	8	6	3	0		4	7	5	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	ARI	Actress Meyers
+4	CFL	Sports org. with the Grey Cup
+7	ISS	Edition: Abbr.
+8	FHOLE	Cello feature
+10	RVS	Vacation wheels: Abbr.
+11	OONAS	Chaplin and others
+12	PULPS	Dime novels
+14	DEIGNED	Condescended
+17	CDIII	Fifth-century date
+18	LASIK	Shortsighted solution?
+21	LST	Mil. transport
+23	DRLAO	Tony Randall title role
+24	AHA	"Got ya!"
+25	SEE	Spot
+26	TYS	Game show host Treadway and others
+15
+1	AIR	Lungful
+2	RSVPD	Sent regrets, say
+3	ISSUE	Emerge
+4	CON	Anti body?
+5	FLA	Marco Isl.'s locale
+6	LES	Guitar great Paul
+8	FOPGDKO	Hold dear
+9	HOSNI	Anwar's successor
+13	LICIA	Soprano Albanese
+15	EILAT	Gulf of Aqaba port
+16	DISHY	Like a gossip column
+18	LDS	Mormons: Abbr.
+19	ARE	You ___ here
+20	SLE	Trickiness
+22	TAS	Brits' thank-yous

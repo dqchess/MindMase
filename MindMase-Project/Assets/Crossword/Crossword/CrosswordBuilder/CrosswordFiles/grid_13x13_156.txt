@@ -1,0 +1,227 @@
+grid_13x13_156
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	0	0		1	2	12	0	
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	1	I	0	4	3	1	ICU	0	4	3	1	INO
+0	1	2	C	0	4	3	0		0	5	7	1	CINEAST
+0	1	3	U	0	4	3	0		0	6	13	1	UPTOTHEMINUTE
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	C	0	8	3	1	CMI	0	8	3	1	CRE
+0	1	5	M	0	8	3	0		0	9	3	1	MEH
+0	1	6	I	0	8	3	0		0	10	12	1	IMOGENEMOCHA
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	7	C	1	1	6	1	CATNIP	1	1	5	1	COPRA
+0	1	8	A	1	1	6	0		1	2	12	1	AIROFFENSIVE
+0	1	9	T	1	1	6	0		1	3	3	1	TSY
+0	0	0	N	1	1	6	0		0	4	3	0	
+0	0	0	I	1	1	6	0		0	5	7	0	
+0	0	0	P	1	1	6	0		0	6	13	0	
+1	0	0	#	1	8	4	0		2	7	3	0	
+0	1	10	R	1	8	4	1	REMO	0	8	3	0	
+0	0	0	E	1	8	4	0		0	9	3	0	
+0	0	0	M	1	8	4	0		0	10	12	0	
+0	1	11	O	1	8	4	0		1	11	5	1	OOOLA
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	12	P	2	0	13	1	POISONTHEHOOD	2	0	3	1	POD
+0	0	0	O	2	0	13	0		1	1	5	0	
+0	0	0	I	2	0	13	0		1	2	12	0	
+0	0	0	S	2	0	13	0		1	3	3	0	
+0	0	0	O	2	0	13	0		0	4	3	0	
+0	0	0	N	2	0	13	0		0	5	7	0	
+0	0	0	T	2	0	13	0		0	6	13	0	
+0	1	13	H	2	0	13	0		2	7	3	1	HST
+0	0	0	E	2	0	13	0		0	8	3	0	
+0	0	0	H	2	0	13	0		0	9	3	0	
+0	0	0	O	2	0	13	0		0	10	12	0	
+0	0	0	O	2	0	13	0		1	11	5	0	
+0	1	14	D	2	0	13	0		2	12	3	1	DVD
+0	1	15	O	3	0	4	1	OPRY	2	0	3	0	
+0	0	0	P	3	0	4	0		1	1	5	0	
+0	0	0	R	3	0	4	0		1	2	12	0	
+0	0	0	Y	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	16	E	3	5	3	1	EOS	0	5	7	0	
+0	0	0	O	3	5	3	0		0	6	13	0	
+0	0	0	S	3	5	3	0		2	7	3	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	3	10	3	0		4	9	4	0	
+0	1	17	G	3	10	3	1	GOV	0	10	12	0	
+0	0	0	O	3	10	3	0		1	11	5	0	
+0	0	0	V	3	10	3	0		2	12	3	0	
+0	1	18	D	4	0	3	1	DRO	2	0	3	0	
+0	0	0	R	4	0	3	0		1	1	5	0	
+0	0	0	O	4	0	3	0		1	2	12	0	
+1	0	0	#	4	4	0	0		5	3	4	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	19	A	4	5	3	1	ATT	0	5	7	0	
+0	0	0	T	4	5	3	0		0	6	13	0	
+0	0	0	T	4	5	3	0		2	7	3	0	
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	20	M	4	9	4	1	MELD	4	9	4	1	MAUI
+0	0	0	E	4	9	4	0		0	10	12	0	
+0	0	0	L	4	9	4	0		1	11	5	0	
+0	0	0	D	4	9	4	0		2	12	3	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	21	A	5	1	6	1	AFRESH	1	1	5	0	
+0	0	0	F	5	1	6	0		1	2	12	0	
+0	1	22	R	5	1	6	0		5	3	4	1	ROKS
+0	1	23	E	5	1	6	0		5	4	3	1	ERA
+0	0	0	S	5	1	6	0		0	5	7	0	
+0	0	0	H	5	1	6	0		0	6	13	0	
+1	0	0	#	5	8	4	0		6	7	7	0	
+0	1	24	D	5	8	4	1	DANA	5	8	3	1	DCN
+0	0	0	A	5	8	4	0		4	9	4	0	
+0	0	0	N	5	8	4	0		0	10	12	0	
+0	0	0	A	5	8	4	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	9	0		7	1	5	0	
+0	1	25	F	6	2	9	1	FORTESCUE	1	2	12	0	
+0	0	0	O	6	2	9	0		5	3	4	0	
+0	0	0	R	6	2	9	0		5	4	3	0	
+0	0	0	T	6	2	9	0		0	5	7	0	
+0	0	0	E	6	2	9	0		0	6	13	0	
+0	1	26	S	6	2	9	0		6	7	7	1	SICILIA
+0	0	0	C	6	2	9	0		5	8	3	0	
+0	0	0	U	6	2	9	0		4	9	4	0	
+0	0	0	E	6	2	9	0		0	10	12	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	E	7	1	4	1	EEKA	7	1	5	1	EIGHT
+0	0	0	E	7	1	4	0		1	2	12	0	
+0	0	0	K	7	1	4	0		5	3	4	0	
+0	0	0	A	7	1	4	0		5	4	3	0	
+1	0	0	#	7	6	6	0		8	5	3	0	
+0	1	28	M	7	6	6	1	MINIMA	0	6	13	0	
+0	0	0	I	7	6	6	0		6	7	7	0	
+0	0	0	N	7	6	6	0		5	8	3	0	
+0	0	0	I	7	6	6	0		4	9	4	0	
+0	0	0	M	7	6	6	0		0	10	12	0	
+0	1	29	A	7	6	6	0		7	11	5	1	ALLOR
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	30	N	8	0	4	1	NINS	8	0	3	1	NEC
+0	0	0	I	8	0	4	0		7	1	5	0	
+0	0	0	N	8	0	4	0		1	2	12	0	
+0	0	0	S	8	0	4	0		5	3	4	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	31	M	8	5	3	1	MIC	8	5	3	1	MAB
+0	0	0	I	8	5	3	0		0	6	13	0	
+0	0	0	C	8	5	3	0		6	7	7	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	32	O	8	10	3	1	OLD	0	10	12	0	
+0	0	0	L	8	10	3	0		7	11	5	0	
+0	1	33	D	8	10	3	0		8	12	3	1	DAP
+0	1	34	E	9	0	3	1	EGS	8	0	3	0	
+0	0	0	G	9	0	3	0		7	1	5	0	
+0	0	0	S	9	0	3	0		1	2	12	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	35	A	9	5	3	1	ANI	8	5	3	0	
+0	0	0	N	9	5	3	0		0	6	13	0	
+0	0	0	I	9	5	3	0		6	7	7	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	36	U	9	9	4	1	UCLA	9	9	3	1	USB
+0	0	0	C	9	9	4	0		0	10	12	0	
+0	0	0	L	9	9	4	0		7	11	5	0	
+0	0	0	A	9	9	4	0		8	12	3	0	
+0	1	37	C	10	0	13	1	CHINABULLSHOP	8	0	3	0	
+0	0	0	H	10	0	13	0		7	1	5	0	
+0	0	0	I	10	0	13	0		1	2	12	0	
+0	1	38	N	10	0	13	0		10	3	3	1	NIA
+0	1	39	A	10	0	13	0		10	4	3	1	ALD
+0	0	0	B	10	0	13	0		8	5	3	0	
+0	0	0	U	10	0	13	0		0	6	13	0	
+0	0	0	L	10	0	13	0		6	7	7	0	
+0	1	40	L	10	0	13	0		10	8	3	1	LET
+0	0	0	S	10	0	13	0		9	9	3	0	
+0	0	0	H	10	0	13	0		0	10	12	0	
+0	0	0	O	10	0	13	0		7	11	5	0	
+0	0	0	P	10	0	13	0		8	12	3	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	41	T	11	1	4	1	TVIL	7	1	5	0	
+0	0	0	V	11	1	4	0		1	2	12	0	
+0	0	0	I	11	1	4	0		10	3	3	0	
+0	0	0	L	11	1	4	0		10	4	3	0	
+1	0	0	#	11	6	6	0		12	5	0	0	
+0	1	42	T	11	6	6	1	TIEBAR	0	6	13	0	
+0	0	0	I	11	6	6	0		6	7	7	0	
+0	0	0	E	11	6	6	0		10	8	3	0	
+0	0	0	B	11	6	6	0		9	9	3	0	
+0	0	0	A	11	6	6	0		0	10	12	0	
+0	0	0	R	11	6	6	0		7	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	43	E	12	2	3	1	EAD	1	2	12	0	
+0	0	0	A	12	2	3	0		10	3	3	0	
+0	0	0	D	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	44	E	12	6	3	1	EAT	0	6	13	0	
+0	0	0	A	12	6	3	0		6	7	7	0	
+0	0	0	T	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	0	0		13	9	0	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	ICU	Oxygen site: Abbr.
+4	CMI	Early 10th-century year
+7	CATNIP	Tabby's tempter
+10	REMO	Adventure hero ___ Williams
+12	POISONTHEHOOD	Make a homie's turf unfit for habitation?
+15	OPRY	Grand Ole ___
+16	EOS	Aurora's counterpart
+17	GOV	N.J.'s Whitman, e.g.
+18	DRO	Be an utter bore?
+19	ATT	A.B.A. member
+20	MELD	Become inseparable
+21	AFRESH	From the top
+24	DANA	"Red Roses for a Blue Lady" singer
+25	FORTESCUE	English jurist who wrote "De laudibus legum Angliae"
+27	EEKA	"___ mouse!"
+28	MINIMA	Nadirs
+30	NINS	Ana
+31	MIC	Small hearing aid?
+32	OLD	Gray, say
+34	EGS	Units in physics
+35	ANI	Black bird
+36	UCLA	Drake Stadium site
+37	CHINABULLSHOP	"Inadvertently destructive sort, literally"
+41	TVIL	Davy Jones or any other Monkee
+42	TIEBAR	Item of men's jewelry
+43	EAD	Year that Augustus exiled Ovid
+44	EAT	Absorb the cost of
+27
+1	INO	Daughter of Cadmus, in myth
+2	CINEAST	Movie buff: Var.
+3	UPTOTHEMINUTE	What's NEW?
+4	CRE	Brunch serving
+5	MEH	"I'm less than impressed"
+6	IMOGENEMOCHA	50's comedienne with a taste for flavored coffee?
+7	COPRA	Dried coconut meat
+8	AIROFFENSIVE	Series of sorties
+9	TSY	Stowe girl
+11	OOOLA	Alley Oop's girl
+12	POD	Minivehicle
+13	HST	D.D.E.'s predecessor
+14	DVD	Netflix offering
+20	MAUI	Windsurfers' mecca
+22	ROKS	Some Asian enlistees
+23	ERA	Geologic time
+24	DCN	Big jet
+26	SICILIA	Island in the Mediterraneo
+27	EIGHT	Ice skating figure
+29	ALLOR	"It's ___ nothing"
+30	NEC	Big computer inits.
+31	MAB	Principal in a well-publicized breakup
+33	DAP	Skip, as stones on water
+36	USB	Kind of port for a PC
+38	NIA	Long seen on TV
+39	ALD	Municipal pol.
+40	LET	God's first word?

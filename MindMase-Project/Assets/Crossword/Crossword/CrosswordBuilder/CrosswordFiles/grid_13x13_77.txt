@@ -1,0 +1,231 @@
+grid_13x13_77
+13
+0	1	1	D	0	0	3	1	DRO	0	0	3	1	DLR
+0	1	2	R	0	0	3	0		0	1	5	1	RIOTS
+0	1	3	O	0	0	3	0		0	2	13	1	OLIVEBRANCHES
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	R	0	4	3	1	RYS	0	4	3	1	RNA
+0	1	5	Y	0	4	3	0		0	5	7	1	YESMAAM
+0	1	6	S	0	4	3	0		0	6	13	1	SITONTHEFENCE
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	L	0	8	3	1	LES	0	8	3	1	LUN
+0	1	8	E	0	8	3	0		0	9	6	1	ENDURO
+0	1	9	S	0	8	3	0		0	10	13	1	SCENESFROMMLL
+1	0	0	#	0	12	0	0		1	11	6	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	L	1	0	3	1	LIL	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	5	0	
+0	0	0	L	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	3	0		2	3	0	0	
+0	1	11	N	1	4	3	1	NEI	0	4	3	0	
+0	0	0	E	1	4	3	0		0	5	7	0	
+0	0	0	I	1	4	3	0		0	6	13	0	
+1	0	0	#	1	8	4	0		2	7	3	0	
+0	1	12	U	1	8	4	1	UNCS	0	8	3	0	
+0	0	0	N	1	8	4	0		0	9	6	0	
+0	0	0	C	1	8	4	0		0	10	13	0	
+0	1	13	S	1	8	4	0		1	11	6	1	SRISES
+1	0	0	#	1	13	0	0		2	12	5	0	
+0	1	14	R	2	0	3	1	ROI	0	0	3	0	
+0	0	0	O	2	0	3	0		0	1	5	0	
+0	0	0	I	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	9	0		3	3	3	0	
+0	1	15	A	2	4	9	1	ASTENDERS	0	4	3	0	
+0	0	0	S	2	4	9	0		0	5	7	0	
+0	0	0	T	2	4	9	0		0	6	13	0	
+0	1	16	E	2	4	9	0		2	7	3	1	EAD
+0	0	0	N	2	4	9	0		0	8	3	0	
+0	0	0	D	2	4	9	0		0	9	6	0	
+0	0	0	E	2	4	9	0		0	10	13	0	
+0	0	0	R	2	4	9	0		1	11	6	0	
+0	1	17	S	2	4	9	0		2	12	5	1	STESU
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	18	T	3	1	3	1	TVD	0	1	5	0	
+0	0	0	V	3	1	3	0		0	2	13	0	
+0	1	19	D	3	1	3	0		3	3	3	1	DEL
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	20	M	3	5	3	1	MOA	0	5	7	0	
+0	0	0	O	3	5	3	0		0	6	13	0	
+0	0	0	A	3	5	3	0		2	7	3	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	21	U	3	9	4	1	UNIT	0	9	6	0	
+0	0	0	N	3	9	4	0		0	10	13	0	
+0	0	0	I	3	9	4	0		1	11	6	0	
+0	0	0	T	3	9	4	0		2	12	5	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	22	S	4	1	7	1	SEELAND	0	1	5	0	
+0	0	0	E	4	1	7	0		0	2	13	0	
+0	0	0	E	4	1	7	0		3	3	3	0	
+0	1	23	L	4	1	7	0		4	4	3	1	LOI
+0	0	0	A	4	1	7	0		0	5	7	0	
+0	0	0	N	4	1	7	0		0	6	13	0	
+0	0	0	D	4	1	7	0		2	7	3	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	24	R	4	9	4	1	RESE	0	9	6	0	
+0	0	0	E	4	9	4	0		0	10	13	0	
+0	0	0	S	4	9	4	0		1	11	6	0	
+0	0	0	E	4	9	4	0		2	12	5	0	
+1	0	0	#	5	1	0	0		6	0	5	0	
+1	0	0	#	5	2	5	0		6	1	6	0	
+0	1	25	B	5	2	5	1	BLOAT	0	2	13	0	
+0	0	0	L	5	2	5	0		3	3	3	0	
+0	0	0	O	5	2	5	0		4	4	3	0	
+0	0	0	A	5	2	5	0		0	5	7	0	
+0	0	0	T	5	2	5	0		0	6	13	0	
+1	0	0	#	5	8	0	0		6	7	7	0	
+1	0	0	#	5	9	4	0		6	8	3	0	
+0	1	26	O	5	9	4	1	OSES	0	9	6	0	
+0	0	0	S	5	9	4	0		0	10	13	0	
+0	0	0	E	5	9	4	0		1	11	6	0	
+0	0	0	S	5	9	4	0		2	12	5	0	
+0	1	27	T	6	0	3	1	TSR	6	0	5	1	TAMLA
+0	1	28	S	6	0	3	0		6	1	6	1	SHEEDY
+0	0	0	R	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	6	0	
+0	1	29	I	6	4	5	1	IMHIP	4	4	3	0	
+0	0	0	M	6	4	5	0		0	5	7	0	
+0	0	0	H	6	4	5	0		0	6	13	0	
+0	1	30	I	6	4	5	0		6	7	7	1	INAYEAR
+0	1	31	P	6	4	5	0		6	8	3	1	PSC
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	32	F	6	10	3	1	FSU	0	10	13	0	
+0	0	0	S	6	10	3	0		1	11	6	0	
+0	0	0	U	6	10	3	0		2	12	5	0	
+0	1	33	A	7	0	4	1	AHAB	6	0	5	0	
+0	0	0	H	7	0	4	0		6	1	6	0	
+0	0	0	A	7	0	4	0		0	2	13	0	
+0	1	34	B	7	0	4	0		7	3	6	1	BATONS
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	35	E	7	6	5	1	ENSOR	0	6	13	0	
+0	0	0	N	7	6	5	0		6	7	7	0	
+0	0	0	S	7	6	5	0		6	8	3	0	
+0	1	36	O	7	6	5	0		7	9	3	1	OTS
+0	0	0	R	7	6	5	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	37	M	8	0	4	1	MENA	6	0	5	0	
+0	0	0	E	8	0	4	0		6	1	6	0	
+0	0	0	N	8	0	4	0		0	2	13	0	
+0	0	0	A	8	0	4	0		7	3	6	0	
+1	0	0	#	8	5	7	0		9	4	0	0	
+0	1	38	X	8	5	7	1	XFACTOR	8	5	3	1	XVI
+0	0	0	F	8	5	7	0		0	6	13	0	
+0	0	0	A	8	5	7	0		6	7	7	0	
+0	0	0	C	8	5	7	0		6	8	3	0	
+0	0	0	T	8	5	7	0		7	9	3	0	
+0	0	0	O	8	5	7	0		0	10	13	0	
+0	1	39	R	8	5	7	0		8	11	5	1	RLESS
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	40	L	9	0	4	1	LECT	6	0	5	0	
+0	0	0	E	9	0	4	0		6	1	6	0	
+0	0	0	C	9	0	4	0		0	2	13	0	
+0	0	0	T	9	0	4	0		7	3	6	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	41	V	9	5	3	1	VEY	8	5	3	0	
+0	0	0	E	9	5	3	0		0	6	13	0	
+0	0	0	Y	9	5	3	0		6	7	7	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	42	S	9	9	3	1	SML	7	9	3	0	
+0	0	0	M	9	9	3	0		0	10	13	0	
+0	0	0	L	9	9	3	0		8	11	5	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	A	10	0	9	1	ADHOMINEM	6	0	5	0	
+0	0	0	D	10	0	9	0		6	1	6	0	
+0	0	0	H	10	0	9	0		0	2	13	0	
+0	0	0	O	10	0	9	0		7	3	6	0	
+0	1	44	M	10	0	9	0		10	4	3	1	MSS
+0	0	0	I	10	0	9	0		8	5	3	0	
+0	0	0	N	10	0	9	0		0	6	13	0	
+0	0	0	E	10	0	9	0		6	7	7	0	
+0	1	45	M	10	0	9	0		10	8	3	1	MTA
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	46	M	10	10	3	1	MET	0	10	13	0	
+0	0	0	E	10	10	3	0		8	11	5	0	
+0	1	47	T	10	10	3	0		10	12	3	1	TIT
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	48	Y	11	1	4	1	YENS	6	1	6	0	
+0	0	0	E	11	1	4	0		0	2	13	0	
+0	0	0	N	11	1	4	0		7	3	6	0	
+0	0	0	S	11	1	4	0		10	4	3	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	49	C	11	6	3	1	CAT	0	6	13	0	
+0	0	0	A	11	6	3	0		6	7	7	0	
+0	0	0	T	11	6	3	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	L	11	10	3	1	LSI	0	10	13	0	
+0	0	0	S	11	10	3	0		8	11	5	0	
+0	0	0	I	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	51	S	12	2	3	1	SSS	0	2	13	0	
+0	0	0	S	12	2	3	0		7	3	6	0	
+0	0	0	S	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	E	12	6	3	1	ERA	0	6	13	0	
+0	0	0	R	12	6	3	0		6	7	7	0	
+0	0	0	A	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	L	12	10	3	1	LST	0	10	13	0	
+0	0	0	S	12	10	3	0		8	11	5	0	
+0	0	0	T	12	10	3	0		10	12	3	0	
+33
+1	DRO	Be an utter bore?
+4	RYS	Trains: Abbr.
+7	LES	"___ Girls"
+10	LIL	Like wee-uns
+11	NEI	"In the," in Italy
+12	UNCS	Family members, affectionately
+14	ROI	Holder of le tr
+15	ASTENDERS	Silent screen star's drink makers?
+18	TVD	Lassie, for one
+20	MOA	Bird once hunted by the Maori
+21	UNIT	Inch, e.g.
+22	SEELAND	Approach the end of an ocean trip
+24	RESE	Adjust, as a clock
+25	BLOAT	Swell
+26	OSES	Suffix for abnormalities
+27	TSR	Dungeons & Dragons co., once
+29	IMHIP	Beatnik's "Got it"
+32	FSU	The A.C.C.'s Seminoles
+33	AHAB	Captain obsessed
+35	ENSOR	"The Scandalized Masks" painter
+37	MENA	Actress Suvari
+38	XFACTOR	Hard-to-define influence
+40	LECT	Univ. worker
+41	VEY	"Oy ___!"
+42	SML	Letters of sizes
+43	ADHOMINEM	Like certain attacks
+46	MET	Coloratura's home, with "the"
+48	YENS	Desires
+49	CAT	Whiskas eater
+50	LSI	Long-running B'way musical seen by couples?
+51	SSS	Induction grp.
+52	ERA	The Depression, e.g.
+53	LST	W.W. II craft: Abbr.
+25
+1	DLR	Abbr. on some license plates
+2	RIOTS	Unrest
+3	OLIVEBRANCHES	It's good when they're extended
+4	RNA	It has a sequence of bases
+5	YESMAAM	Gentlemanly reply
+6	SITONTHEFENCE	Be undecided
+7	LUN	___ Tha ("The King and I" role)
+8	ENDURO	Multiday race
+9	SCENESFROMMLL	1991 Midler/Allen comedy
+13	SRISES	Morning glories
+16	EAD	Year that Augustus exiled Ovid
+17	STESU	Bothers
+19	DEL	Tierra ___ Fuego
+23	LOI	French law
+27	TAMLA	Motown's original name
+28	SHEEDY	Ally in Hollywood
+30	INAYEAR	12 months from now
+31	PSC	Utilities watchdog grp.
+34	BATONS	They're relayed in relays
+36	OTS	Nail-biting sports events, briefly
+38	XVI	Louis who was guillotined
+39	RLESS	Like non-oyster months
+44	MSS	Archive docs.
+45	MTA	Train and bus overseer, for short
+47	TIT	Start of an exchange

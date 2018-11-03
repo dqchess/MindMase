@@ -1,0 +1,235 @@
+grid_13x13_75
+13
+0	1	1	R	0	0	3	1	ROC	0	0	3	1	REC
+0	1	2	O	0	0	3	0		0	1	3	1	OCA
+0	1	3	C	0	0	3	0		0	2	13	1	CINNAMONSTICK
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	5	0	
+0	1	4	Y	0	5	3	1	YOM	0	5	3	1	YOU
+0	1	5	O	0	5	3	0		0	6	4	1	OLIN
+0	1	6	M	0	5	3	0		0	7	4	1	MYMY
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	G	0	10	3	1	GPO	0	10	13	1	GUINNESSAGAIN
+0	1	8	P	0	10	3	0		0	11	4	1	PINK
+0	1	9	O	0	10	3	0		0	12	3	1	ORE
+0	1	10	E	1	0	3	1	ECI	0	0	3	0	
+0	0	0	C	1	0	3	0		0	1	3	0	
+0	0	0	I	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	11	H	1	4	5	1	HOLYG	1	4	5	1	HOLST
+0	0	0	O	1	4	5	0		0	5	3	0	
+0	0	0	L	1	4	5	0		0	6	4	0	
+0	0	0	Y	1	4	5	0		0	7	4	0	
+0	1	12	G	1	4	5	0		1	8	5	1	GAYLY
+1	0	0	#	1	10	3	0		2	9	3	0	
+0	1	13	U	1	10	3	1	UIR	0	10	13	0	
+0	0	0	I	1	10	3	0		0	11	4	0	
+0	0	0	R	1	10	3	0		0	12	3	0	
+0	1	14	C	2	0	13	1	CANYOUIMAGINE	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	3	0	
+0	0	0	N	2	0	13	0		0	2	13	0	
+0	1	15	Y	2	0	13	0		2	3	3	1	YAM
+0	0	0	O	2	0	13	0		1	4	5	0	
+0	0	0	U	2	0	13	0		0	5	3	0	
+0	0	0	I	2	0	13	0		0	6	4	0	
+0	0	0	M	2	0	13	0		0	7	4	0	
+0	0	0	A	2	0	13	0		1	8	5	0	
+0	1	16	G	2	0	13	0		2	9	3	1	GAY
+0	0	0	I	2	0	13	0		0	10	13	0	
+0	0	0	N	2	0	13	0		0	11	4	0	
+0	0	0	E	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	17	N	3	2	3	1	NAL	0	2	13	0	
+0	0	0	A	3	2	3	0		2	3	3	0	
+0	0	0	L	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	6	0		4	5	0	0	
+0	1	18	N	3	6	6	1	NYYANK	0	6	4	0	
+0	0	0	Y	3	6	6	0		0	7	4	0	
+0	0	0	Y	3	6	6	0		1	8	5	0	
+0	0	0	A	3	6	6	0		2	9	3	0	
+0	0	0	N	3	6	6	0		0	10	13	0	
+0	0	0	K	3	6	6	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	19	D	4	1	4	1	DAMS	4	1	4	1	DAWG
+0	0	0	A	4	1	4	0		0	2	13	0	
+0	0	0	M	4	1	4	0		2	3	3	0	
+0	0	0	S	4	1	4	0		1	4	5	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	3	0	
+0	1	20	L	4	8	3	1	LYN	1	8	5	0	
+0	0	0	Y	4	8	3	0		2	9	3	0	
+0	0	0	N	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	21	D	5	0	3	1	DAM	5	0	3	1	DIA
+0	0	0	A	5	0	3	0		4	1	4	0	
+0	0	0	M	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	22	T	5	4	5	1	TELLY	1	4	5	0	
+0	1	23	E	5	4	5	0		5	5	3	1	ERR
+0	1	24	L	5	4	5	0		5	6	3	1	LSE
+0	1	25	L	5	4	5	0		5	7	3	1	LAU
+0	0	0	Y	5	4	5	0		1	8	5	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	26	E	5	10	3	1	ESS	0	10	13	0	
+0	1	27	S	5	10	3	0		5	11	4	1	SMRF
+0	1	28	S	5	10	3	0		5	12	3	1	SLS
+0	1	29	I	6	0	3	1	IWO	5	0	3	0	
+0	0	0	W	6	0	3	0		4	1	4	0	
+0	0	0	O	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	5	0	
+0	1	30	R	6	5	3	1	RSA	5	5	3	0	
+0	0	0	S	6	5	3	0		5	6	3	0	
+0	0	0	A	6	5	3	0		5	7	3	0	
+1	0	0	#	6	9	0	0		7	8	5	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	S	6	10	3	1	SML	0	10	13	0	
+0	0	0	M	6	10	3	0		5	11	4	0	
+0	0	0	L	6	10	3	0		5	12	3	0	
+0	1	32	A	7	0	3	1	AGN	5	0	3	0	
+0	0	0	G	7	0	3	0		4	1	4	0	
+0	0	0	N	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	5	0		8	3	3	0	
+0	1	33	A	7	4	5	1	AREUP	7	4	5	1	AGREE
+0	0	0	R	7	4	5	0		5	5	3	0	
+0	0	0	E	7	4	5	0		5	6	3	0	
+0	0	0	U	7	4	5	0		5	7	3	0	
+0	1	34	P	7	4	5	0		7	8	5	1	PRMAN
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	35	S	7	10	3	1	SRS	0	10	13	0	
+0	0	0	R	7	10	3	0		5	11	4	0	
+0	0	0	S	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	36	S	8	2	3	1	SAG	0	2	13	0	
+0	1	37	A	8	2	3	0		8	3	3	1	AIS
+0	0	0	G	8	2	3	0		7	4	5	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	4	0		9	7	0	0	
+0	1	38	R	8	8	4	1	RCAF	7	8	5	0	
+0	1	39	C	8	8	4	0		8	9	3	1	CEL
+0	0	0	A	8	8	4	0		0	10	13	0	
+0	0	0	F	8	8	4	0		5	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	40	S	9	1	6	1	STIRUP	9	1	4	1	SACS
+0	0	0	T	9	1	6	0		0	2	13	0	
+0	0	0	I	9	1	6	0		8	3	3	0	
+0	0	0	R	9	1	6	0		7	4	5	0	
+0	1	41	U	9	1	6	0		9	5	4	1	UTNE
+0	1	42	P	9	1	6	0		9	6	4	1	PHDS
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	43	M	9	8	3	1	MEG	7	8	5	0	
+0	0	0	E	9	8	3	0		8	9	3	0	
+0	0	0	G	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	R	10	0	13	1	RAISETHEALARM	10	0	3	1	RAE
+0	0	0	A	10	0	13	0		9	1	4	0	
+0	0	0	I	10	0	13	0		0	2	13	0	
+0	0	0	S	10	0	13	0		8	3	3	0	
+0	0	0	E	10	0	13	0		7	4	5	0	
+0	0	0	T	10	0	13	0		9	5	4	0	
+0	0	0	H	10	0	13	0		9	6	4	0	
+0	1	45	E	10	0	13	0		10	7	3	1	EOE
+0	0	0	A	10	0	13	0		7	8	5	0	
+0	0	0	L	10	0	13	0		8	9	3	0	
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	1	46	R	10	0	13	0		10	11	3	1	RAF
+0	1	47	M	10	0	13	0		10	12	3	1	MML
+0	1	48	A	11	0	3	1	ACC	10	0	3	0	
+0	0	0	C	11	0	3	0		9	1	4	0	
+0	0	0	C	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	5	0		12	3	0	0	
+0	1	49	E	11	4	5	1	ENDON	7	4	5	0	
+0	0	0	N	11	4	5	0		9	5	4	0	
+0	0	0	D	11	4	5	0		9	6	4	0	
+0	0	0	O	11	4	5	0		10	7	3	0	
+0	0	0	N	11	4	5	0		7	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	I	11	10	3	1	IAM	0	10	13	0	
+0	0	0	A	11	10	3	0		10	11	3	0	
+0	0	0	M	11	10	3	0		10	12	3	0	
+0	1	51	E	12	0	3	1	ESK	10	0	3	0	
+0	0	0	S	12	0	3	0		9	1	4	0	
+0	0	0	K	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	52	E	12	5	3	1	ESE	9	5	4	0	
+0	0	0	S	12	5	3	0		9	6	4	0	
+0	0	0	E	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	N	12	10	3	1	NFL	0	10	13	0	
+0	0	0	F	12	10	3	0		10	11	3	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+31
+1	ROC	Fabled "Arabian Nights" creature
+4	YOM	Day, to Dayan
+7	GPO	Bldg. with boxes
+10	ECI	Motel freebie
+11	HOLYG	Trinity member
+13	UIR	Onetime TWA rival
+14	CANYOUIMAGINE	Start of a quote
+17	NAL	Big inits. in paperback publishing
+18	NYYANK	Bronx player, in brief
+19	DAMS	Hungry Horse and Mossyrock
+20	LYN	Reagan adviser Nofziger
+21	DAM	Public works project
+22	TELLY	What to watch the BBC on
+26	ESS	Slalom maneuver
+29	IWO	One of the Volcano Islands, for short
+30	RSA	Cape Town's home: Abbr.
+31	SML	Letters of sizes
+32	AGN	Once more: Abbr.
+33	AREUP	"Your gamblin' days ___" (Bob Dylan lyric)
+35	SRS	Promgoers: Abbr.
+36	SAG	Bed problem
+38	RCAF	Military org. with the motto "Per ardua ad astra"
+40	STIRUP	Opposite of quell
+43	MEG	Computer storage unit, informally
+44	RAISETHEALARM	Play Paul Revere
+48	ACC	U. of Md. is in it
+49	ENDON	Finish with
+50	IAM	Descartes conclusion
+51	ESK	Inuit: Abbr.
+52	ESE	End of a race?
+53	NFL	Chiefs' org.
+31
+1	REC	DVR button
+2	OCA	Wood sorrel
+3	CINNAMONSTICK	Dessert garnish
+4	YOU	A person who is not a doofus
+5	OLIN	Ken or Lena of Hollywood
+6	MYMY	"Well, I declare!"
+7	GUINNESSAGAIN	Jaded ale drinker's question?
+8	PINK	Baby girls may be dressed in it
+9	ORE	It's picked out
+11	HOLST	"The Planets" composer
+12	GAYLY	With festiveness
+15	YAM	Verb for Popeye
+16	GAY	Like apparel donned in a Christmas carol
+19	DAWG	Animated TV deputy
+21	DIA	Semana segment
+23	ERR	Flub
+24	LSE	End of many an E-mail address
+25	LAU	Charlie of the 60's Orioles
+27	SMRF	Kids' TV character
+28	SLS	Classic Mercedes roadsters
+33	AGREE	Share an opinion
+34	PRMAN	Spin doctor
+37	AIS	"___ for Alibi"
+39	CEL	Framable frame
+40	SACS	Pouches
+41	UTNE	Alternative digest magazine
+42	PHDS	Academic types
+44	RAE	She played Mrs. Garrett on both "Diff'rent Strokes" and "The Facts of Life"
+45	EOE	Fair-hiring abbr.
+46	RAF	Org. whose emblem features an eagle and a crown
+47	MML	21st-century year

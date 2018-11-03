@@ -1,0 +1,163 @@
+grid_11x11_177
+11
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	3	0	
+1	0	0	#	0	3	3	0		1	2	3	0	
+0	1	1	A	0	3	3	1	AUS	0	3	6	1	AFIRST
+0	1	2	U	0	3	3	0		0	4	6	1	UECKER
+0	1	3	S	0	3	3	0		0	5	11	1	SLEEVELESST
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	R	0	7	3	1	RSA	0	7	3	1	ROT
+0	1	5	S	0	7	3	0		0	8	6	1	SWIVEL
+0	1	6	A	0	7	3	0		0	9	6	1	ASNEAT
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	O	1	0	10	1	ODDFELLOWS	1	0	3	1	OPS
+0	1	8	D	1	0	10	0		1	1	3	1	DOH
+0	1	9	D	1	0	10	0		1	2	3	1	DLI
+0	0	0	F	1	0	10	0		0	3	6	0	
+0	0	0	E	1	0	10	0		0	4	6	0	
+0	0	0	L	1	0	10	0		0	5	11	0	
+0	1	10	L	1	0	10	0		1	6	3	1	LSD
+0	0	0	O	1	0	10	0		0	7	3	0	
+0	0	0	W	1	0	10	0		0	8	6	0	
+0	0	0	S	1	0	10	0		0	9	6	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	P	2	0	11	1	POLICESTING	1	0	3	0	
+0	0	0	O	2	0	11	0		1	1	3	0	
+0	0	0	L	2	0	11	0		1	2	3	0	
+0	0	0	I	2	0	11	0		0	3	6	0	
+0	0	0	C	2	0	11	0		0	4	6	0	
+0	0	0	E	2	0	11	0		0	5	11	0	
+0	0	0	S	2	0	11	0		1	6	3	0	
+0	0	0	T	2	0	11	0		0	7	3	0	
+0	0	0	I	2	0	11	0		0	8	6	0	
+0	0	0	N	2	0	11	0		0	9	6	0	
+0	1	12	G	2	0	11	0		2	10	3	1	GTD
+0	1	13	S	3	0	7	1	SHIRKED	1	0	3	0	
+0	0	0	H	3	0	7	0		1	1	3	0	
+0	0	0	I	3	0	7	0		1	2	3	0	
+0	0	0	R	3	0	7	0		0	3	6	0	
+0	0	0	K	3	0	7	0		0	4	6	0	
+0	0	0	E	3	0	7	0		0	5	11	0	
+0	0	0	D	3	0	7	0		1	6	3	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	14	V	3	8	3	1	VET	0	8	6	0	
+0	0	0	E	3	8	3	0		0	9	6	0	
+0	0	0	T	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	15	S	4	3	3	1	SEV	0	3	6	0	
+0	0	0	E	4	3	3	0		0	4	6	0	
+0	0	0	V	4	3	3	0		0	5	11	0	
+1	0	0	#	4	7	0	0		5	6	6	0	
+1	0	0	#	4	8	3	0		5	7	6	0	
+0	1	16	E	4	8	3	1	EAD	0	8	6	0	
+0	0	0	A	4	8	3	0		0	9	6	0	
+0	0	0	D	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	9	0		6	0	3	0	
+0	1	17	N	5	1	9	1	NETRESULT	5	1	6	1	NIGHTY
+0	1	18	E	5	1	9	0		5	2	6	1	ESTERS
+0	0	0	T	5	1	9	0		0	3	6	0	
+0	0	0	R	5	1	9	0		0	4	6	0	
+0	0	0	E	5	1	9	0		0	5	11	0	
+0	1	19	S	5	1	9	0		5	6	6	1	SOAPUP
+0	1	20	U	5	1	9	0		5	7	6	1	UNCORK
+0	0	0	L	5	1	9	0		0	8	6	0	
+0	0	0	T	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	21	S	6	0	3	1	SIS	6	0	3	1	SSW
+0	0	0	I	6	0	3	0		5	1	6	0	
+0	0	0	S	6	0	3	0		5	2	6	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	22	L	6	5	3	1	LON	0	5	11	0	
+0	0	0	O	6	5	3	0		5	6	6	0	
+0	0	0	N	6	5	3	0		5	7	6	0	
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	0	0		7	9	3	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	23	S	7	0	3	1	SGT	6	0	3	0	
+0	0	0	G	7	0	3	0		5	1	6	0	
+0	0	0	T	7	0	3	0		5	2	6	0	
+1	0	0	#	7	4	7	0		8	3	3	0	
+0	1	24	P	7	4	7	1	PEACOAT	7	4	3	1	PEA
+0	0	0	E	7	4	7	0		0	5	11	0	
+0	0	0	A	7	4	7	0		5	6	6	0	
+0	0	0	C	7	4	7	0		5	7	6	0	
+0	1	25	O	7	4	7	0		7	8	3	1	OPE
+0	1	26	A	7	4	7	0		7	9	3	1	APR
+0	1	27	T	7	4	7	0		7	10	3	1	TAS
+0	1	28	W	8	0	11	1	WHERESPOPPA	6	0	3	0	
+0	0	0	H	8	0	11	0		5	1	6	0	
+0	0	0	E	8	0	11	0		5	2	6	0	
+0	1	29	R	8	0	11	0		8	3	3	1	REL
+0	0	0	E	8	0	11	0		7	4	3	0	
+0	0	0	S	8	0	11	0		0	5	11	0	
+0	0	0	P	8	0	11	0		5	6	6	0	
+0	0	0	O	8	0	11	0		5	7	6	0	
+0	0	0	P	8	0	11	0		7	8	3	0	
+0	0	0	P	8	0	11	0		7	9	3	0	
+0	0	0	A	8	0	11	0		7	10	3	0	
+1	0	0	#	9	1	10	0		10	0	0	0	
+0	1	30	T	9	1	10	1	TREASURERS	5	1	6	0	
+0	0	0	R	9	1	10	0		5	2	6	0	
+0	0	0	E	9	1	10	0		8	3	3	0	
+0	0	0	A	9	1	10	0		7	4	3	0	
+0	0	0	S	9	1	10	0		0	5	11	0	
+0	0	0	U	9	1	10	0		5	6	6	0	
+0	0	0	R	9	1	10	0		5	7	6	0	
+0	0	0	E	9	1	10	0		7	8	3	0	
+0	0	0	R	9	1	10	0		7	9	3	0	
+0	0	0	S	9	1	10	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	31	Y	10	1	3	1	YSL	5	1	6	0	
+0	0	0	S	10	1	3	0		5	2	6	0	
+0	0	0	L	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	32	T	10	5	3	1	TPK	0	5	11	0	
+0	0	0	P	10	5	3	0		5	6	6	0	
+0	0	0	K	10	5	3	0		5	7	6	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+17
+1	AUS	Mozart's birthplace: Abbr.
+4	RSA	Cape Town's country: Abbr.
+7	ODDFELLOWS	The Three Link Fraternity
+11	POLICESTING	Undercover operation
+13	SHIRKED	Dodged
+14	VET	Member of a post
+15	SEV	Unspecified no.
+16	EAD	Year that Augustus exiled Ovid
+17	NETRESULT	Upshot
+21	SIS	Lisa, to Bart Simpson
+22	LON	Golfer Hinkle
+23	SGT	Pepper, for one
+24	PEACOAT	Double-breasted winter wear
+28	WHERESPOPPA	1970 George Segal movie
+30	TREASURERS	Group associated with checks and balances
+31	YSL	Couturier's monogram
+32	TPK	Toll rd.
+21
+1	AFIRST	Something original
+2	UECKER	"Mr. Belvedere" star
+3	SLEEVELESST	Muscle shirt, e.g.
+4	ROT	Flummery
+5	SWIVEL	Turn
+6	ASNEAT	Comparable to a pin?
+7	OPS	Photo ___
+8	DOH	Homer Simpson exclamation
+9	DLI	Where a torpedo may be made
+10	LSD	Trip promoter?
+12	GTD	Ensured: Abbr.
+17	NIGHTY	Bedwear: Var.
+18	ESTERS	Dimethyl sulfate and others
+19	SOAPUP	Get all sudsy
+20	UNCORK	Pop open?
+21	SSW	Hurricane hdg.
+24	PEA	Green hue
+25	OPE	Unwrap, in verse
+26	APR	Spring mo.
+27	TAS	Profs.' helpers
+29	REL	Brother or brother-in-law: Abbr.

@@ -1,0 +1,301 @@
+grid_15x15_157
+15
+0	1	1	A	0	0	3	1	ANO	0	0	3	1	ANS
+0	1	2	N	0	0	3	0		0	1	3	1	NAA
+0	1	3	O	0	0	3	0		0	2	3	1	ONT
+1	0	0	#	0	4	0	0		1	3	9	0	
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	P	0	7	3	1	PHS	0	7	15	1	PATENTMEDICINES
+0	1	5	H	0	7	3	0		0	8	3	1	HRE
+0	1	6	S	0	7	3	0		0	9	3	1	SKD
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	7	M	0	12	3	1	MCM	0	12	11	1	MUHAMMADALI
+0	1	8	C	0	12	3	0		0	13	3	1	CRE
+0	1	9	M	0	12	3	0		0	14	3	1	MSS
+0	1	10	N	1	0	5	1	NANAS	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	3	0	
+0	0	0	N	1	0	5	0		0	2	3	0	
+0	1	11	A	1	0	5	0		1	3	9	1	AEGEANSEA
+0	1	12	S	1	0	5	0		1	4	4	1	SLUP
+1	0	0	#	1	6	9	0		2	5	3	0	
+0	1	13	L	1	6	9	1	LARKSPURS	1	6	3	1	LIL
+0	0	0	A	1	6	9	0		0	7	15	0	
+0	0	0	R	1	6	9	0		0	8	3	0	
+0	0	0	K	1	6	9	0		0	9	3	0	
+0	1	14	S	1	6	9	0		1	10	3	1	SIC
+0	1	15	P	1	6	9	0		1	11	3	1	PST
+0	0	0	U	1	6	9	0		0	12	11	0	
+0	0	0	R	1	6	9	0		0	13	3	0	
+0	0	0	S	1	6	9	0		0	14	3	0	
+0	1	16	S	2	0	15	1	SATELLITEDISHES	0	0	3	0	
+0	0	0	A	2	0	15	0		0	1	3	0	
+0	0	0	T	2	0	15	0		0	2	3	0	
+0	0	0	E	2	0	15	0		1	3	9	0	
+0	0	0	L	2	0	15	0		1	4	4	0	
+0	1	17	L	2	0	15	0		2	5	3	1	LIS
+0	0	0	I	2	0	15	0		1	6	3	0	
+0	0	0	T	2	0	15	0		0	7	15	0	
+0	0	0	E	2	0	15	0		0	8	3	0	
+0	0	0	D	2	0	15	0		0	9	3	0	
+0	0	0	I	2	0	15	0		1	10	3	0	
+0	0	0	S	2	0	15	0		1	11	3	0	
+0	0	0	H	2	0	15	0		0	12	11	0	
+0	0	0	E	2	0	15	0		0	13	3	0	
+0	0	0	S	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	7	0	
+1	0	0	#	3	3	5	0		4	2	11	0	
+0	1	18	G	3	3	5	1	GUILE	1	3	9	0	
+0	0	0	U	3	3	5	0		1	4	4	0	
+0	0	0	I	3	3	5	0		2	5	3	0	
+0	0	0	L	3	3	5	0		1	6	3	0	
+0	0	0	E	3	3	5	0		0	7	15	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	3	0		4	9	5	0	
+0	1	19	C	3	10	3	1	CTA	1	10	3	0	
+0	0	0	T	3	10	3	0		1	11	3	0	
+0	0	0	A	3	10	3	0		0	12	11	0	
+1	0	0	#	3	14	0	0		4	13	7	0	
+1	0	0	#	3	15	0	0		4	14	5	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	20	J	4	1	5	1	JEEPS	4	1	7	1	JEEPERS
+0	1	21	E	4	1	5	0		4	2	11	1	ESTATETAXES
+0	0	0	E	4	1	5	0		1	3	9	0	
+0	0	0	P	4	1	5	0		1	4	4	0	
+0	0	0	S	4	1	5	0		2	5	3	0	
+1	0	0	#	4	7	3	0		5	6	0	0	
+0	1	22	N	4	7	3	1	NER	0	7	15	0	
+0	1	23	E	4	7	3	0		4	8	4	1	ESIT
+0	1	24	R	4	7	3	0		4	9	5	1	RESOW
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	4	12	3	0		5	11	9	0	
+0	1	25	M	4	12	3	1	MTA	0	12	11	0	
+0	1	26	T	4	12	3	0		4	13	7	1	TALIBAN
+0	1	27	A	4	12	3	0		4	14	5	1	ASSAI
+1	0	0	#	5	1	3	0		6	0	5	0	
+0	1	28	E	5	1	3	1	ESA	4	1	7	0	
+0	0	0	S	5	1	3	0		4	2	11	0	
+0	0	0	A	5	1	3	0		1	3	9	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	0	0		6	5	5	0	
+1	0	0	#	5	7	3	0		6	6	0	0	
+0	1	29	T	5	7	3	1	TSE	0	7	15	0	
+0	0	0	S	5	7	3	0		4	8	4	0	
+0	0	0	E	5	7	3	0		4	9	5	0	
+1	0	0	#	5	11	4	0		6	10	3	0	
+0	1	30	S	5	11	4	1	SMAS	5	11	9	1	SENSELESS
+0	0	0	M	5	11	4	0		0	12	11	0	
+0	0	0	A	5	11	4	0		4	13	7	0	
+0	0	0	S	5	11	4	0		4	14	5	0	
+0	1	31	L	6	0	6	1	LETNOT	6	0	5	1	LADDS
+0	0	0	E	6	0	6	0		4	1	7	0	
+0	0	0	T	6	0	6	0		4	2	11	0	
+0	0	0	N	6	0	6	0		1	3	9	0	
+0	1	32	O	6	0	6	0		6	4	3	1	OSS
+0	1	33	T	6	0	6	0		6	5	5	1	TATAS
+1	0	0	#	6	7	8	0		7	6	4	0	
+0	1	34	M	6	7	8	1	MISDEALS	0	7	15	0	
+0	0	0	I	6	7	8	0		4	8	4	0	
+0	0	0	S	6	7	8	0		4	9	5	0	
+0	1	35	D	6	7	8	0		6	10	3	1	DIA
+0	0	0	E	6	7	8	0		5	11	9	0	
+0	0	0	A	6	7	8	0		0	12	11	0	
+0	0	0	L	6	7	8	0		4	13	7	0	
+0	0	0	S	6	7	8	0		4	14	5	0	
+0	1	36	A	7	0	15	1	APASSAGETOINDIA	6	0	5	0	
+0	0	0	P	7	0	15	0		4	1	7	0	
+0	0	0	A	7	0	15	0		4	2	11	0	
+0	0	0	S	7	0	15	0		1	3	9	0	
+0	0	0	S	7	0	15	0		6	4	3	0	
+0	0	0	A	7	0	15	0		6	5	5	0	
+0	1	37	G	7	0	15	0		7	6	4	1	GERE
+0	0	0	E	7	0	15	0		0	7	15	0	
+0	0	0	T	7	0	15	0		4	8	4	0	
+0	0	0	O	7	0	15	0		4	9	5	0	
+0	0	0	I	7	0	15	0		6	10	3	0	
+0	0	0	N	7	0	15	0		5	11	9	0	
+0	0	0	D	7	0	15	0		0	12	11	0	
+0	0	0	I	7	0	15	0		4	13	7	0	
+0	0	0	A	7	0	15	0		4	14	5	0	
+0	1	38	D	8	0	8	1	DETESTED	6	0	5	0	
+0	0	0	E	8	0	8	0		4	1	7	0	
+0	0	0	T	8	0	8	0		4	2	11	0	
+0	0	0	E	8	0	8	0		1	3	9	0	
+0	0	0	S	8	0	8	0		6	4	3	0	
+0	0	0	T	8	0	8	0		6	5	5	0	
+0	0	0	E	8	0	8	0		7	6	4	0	
+0	0	0	D	8	0	8	0		0	7	15	0	
+1	0	0	#	8	9	6	0		9	8	0	0	
+0	1	39	W	8	9	6	1	WASABI	4	9	5	0	
+0	0	0	A	8	9	6	0		6	10	3	0	
+0	0	0	S	8	9	6	0		5	11	9	0	
+0	0	0	A	8	9	6	0		0	12	11	0	
+0	0	0	B	8	9	6	0		4	13	7	0	
+0	0	0	I	8	9	6	0		4	14	5	0	
+0	1	40	D	9	0	4	1	DREA	6	0	5	0	
+0	0	0	R	9	0	4	0		4	1	7	0	
+0	0	0	E	9	0	4	0		4	2	11	0	
+0	0	0	A	9	0	4	0		1	3	9	0	
+1	0	0	#	9	5	3	0		10	4	0	0	
+0	1	41	A	9	5	3	1	ARI	6	5	5	0	
+0	0	0	R	9	5	3	0		7	6	4	0	
+0	0	0	I	9	5	3	0		0	7	15	0	
+1	0	0	#	9	9	0	0		10	8	0	0	
+1	0	0	#	9	10	0	0		10	9	3	0	
+1	0	0	#	9	11	3	0		10	10	4	0	
+0	1	42	E	9	11	3	1	ELA	5	11	9	0	
+0	0	0	L	9	11	3	0		0	12	11	0	
+0	0	0	A	9	11	3	0		4	13	7	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	43	S	10	0	3	1	SST	6	0	5	0	
+0	0	0	S	10	0	3	0		4	1	7	0	
+0	0	0	T	10	0	3	0		4	2	11	0	
+1	0	0	#	10	4	0	0		11	3	3	0	
+1	0	0	#	10	5	3	0		11	4	3	0	
+0	1	44	S	10	5	3	1	SEC	6	5	5	0	
+0	0	0	E	10	5	3	0		7	6	4	0	
+0	0	0	C	10	5	3	0		0	7	15	0	
+1	0	0	#	10	9	5	0		11	8	3	0	
+0	1	45	P	10	9	5	1	PALIN	10	9	3	1	PSA
+0	1	46	A	10	9	5	0		10	10	4	1	ASWE
+0	0	0	L	10	9	5	0		5	11	9	0	
+0	0	0	I	10	9	5	0		0	12	11	0	
+0	0	0	N	10	9	5	0		4	13	7	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	47	A	11	2	3	1	ATO	4	2	11	0	
+0	1	48	T	11	2	3	0		11	3	3	1	TAY
+0	1	49	O	11	2	3	0		11	4	3	1	OTO
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	5	0		12	6	3	0	
+0	1	50	I	11	7	5	1	IASSE	0	7	15	0	
+0	1	51	A	11	7	5	0		11	8	3	1	ALC
+0	0	0	S	11	7	5	0		10	9	3	0	
+0	0	0	S	11	7	5	0		10	10	4	0	
+0	0	0	E	11	7	5	0		5	11	9	0	
+1	0	0	#	11	13	0	0		12	12	3	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	52	T	12	0	15	1	TAXATIONLAWSARE	12	0	3	1	TAX
+0	1	53	A	12	0	15	0		12	1	3	1	ARE
+0	0	0	X	12	0	15	0		4	2	11	0	
+0	0	0	A	12	0	15	0		11	3	3	0	
+0	0	0	T	12	0	15	0		11	4	3	0	
+0	1	54	I	12	0	15	0		12	5	3	1	IUD
+0	1	55	O	12	0	15	0		12	6	3	1	ODD
+0	0	0	N	12	0	15	0		0	7	15	0	
+0	0	0	L	12	0	15	0		11	8	3	0	
+0	0	0	A	12	0	15	0		10	9	3	0	
+0	0	0	W	12	0	15	0		10	10	4	0	
+0	0	0	S	12	0	15	0		5	11	9	0	
+0	1	56	A	12	0	15	0		12	12	3	1	APR
+0	1	57	R	12	0	15	0		12	13	3	1	ROW
+0	1	58	E	12	0	15	0		12	14	3	1	EOE
+0	1	59	A	13	0	9	1	AREYOUDEC	12	0	3	0	
+0	0	0	R	13	0	9	0		12	1	3	0	
+0	0	0	E	13	0	9	0		4	2	11	0	
+0	0	0	Y	13	0	9	0		11	3	3	0	
+0	0	0	O	13	0	9	0		11	4	3	0	
+0	0	0	U	13	0	9	0		12	5	3	0	
+0	0	0	D	13	0	9	0		12	6	3	0	
+0	0	0	E	13	0	9	0		0	7	15	0	
+0	0	0	C	13	0	9	0		11	8	3	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	60	E	13	10	5	1	ESPOO	10	10	4	0	
+0	0	0	S	13	10	5	0		5	11	9	0	
+0	0	0	P	13	10	5	0		12	12	3	0	
+0	0	0	O	13	10	5	0		12	13	3	0	
+0	0	0	O	13	10	5	0		12	14	3	0	
+0	1	61	X	14	0	3	1	XES	12	0	3	0	
+0	0	0	E	14	0	3	0		12	1	3	0	
+0	0	0	S	14	0	3	0		4	2	11	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	62	D	14	5	3	1	DDS	12	5	3	0	
+0	0	0	D	14	5	3	0		12	6	3	0	
+0	0	0	S	14	5	3	0		0	7	15	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	63	R	14	12	3	1	RWE	12	12	3	0	
+0	0	0	W	14	12	3	0		12	13	3	0	
+0	0	0	E	14	12	3	0		12	14	3	0	
+33
+1	ANO	Yucat
+4	PHS	Chem. class measures
+7	MCM	Century-ending year
+10	NANAS	Some grandkid spoilers
+13	LARKSPURS	Flowers of the buttercup family
+16	SATELLITEDISHES	Signal receivers
+18	GUILE	Wheedler's tactic
+19	CTA	Loop group: Abbr.
+20	JEEPS	Wranglers, e.g.
+22	NER	___ Tamid (synagogue lamp)
+25	MTA	1959 hit with the lyric "Did he ever return? No, he never returned"
+28	ESA	What that might be in Spain
+29	TSE	Literary monogram
+30	SMAS	Shirt sizes
+31	LETNOT	"___ your hearts faint": Deuteronomy 20:3
+34	MISDEALS	These might play into the wrong hands
+36	APASSAGETOINDIA	Novel featuring Adela Quested
+38	DETESTED	Couldn't stand
+39	WASABI	Sushi condiment
+40	DREA	De Matteo of "The Sopranos"
+41	ARI	"Exodus" protagonist
+42	ELA	Musical high note
+43	SST	Air France flier until '03
+44	SEC	Fed. monitor of stock fraud
+45	PALIN	Michael of "Monty Python"
+47	ATO	Olympic sprinter ___ Boldon
+50	IASSE	Deadlock
+52	TAXATIONLAWSARE	Start of a quip
+59	AREYOUDEC	"Is it O.K. if I come in?"
+60	ESPOO	Neighbor of Helsinki
+61	XES	Deletes, with "out"
+62	DDS	Person who knows the drill?: Abbr.
+63	RWE	Literary monogram
+39
+1	ANS	Follow-up to a ques.
+2	NAA	Sports org.
+3	ONT	Home of Sault Ste. Marie: Abbr.
+4	PATENTMEDICINES	They're probably not good for what ails you
+5	HRE	It ended in 1806: Abbr.
+6	SKD	Dog doc
+7	MUHAMMADALI	"It's hard to be humble when you're as great as I am" speaker
+8	CRE	Brunch serving
+9	MSS	Archive docs.
+11	AEGEANSEA	Greece/Turkey separator
+12	SLUP	Batter's bane
+13	LIL	Rapper ___ Kim
+14	SIC	Attack word
+15	PST	Winter clock setting in Nev.
+17	LIS	Tulipe relative
+20	JEEPERS	"Golly!"
+21	ESTATETAXES	Some federal government income [left only]
+23	ESIT	"Scratch that!"
+24	RESOW	Make seedier?
+26	TALIBAN	Ruling force in Afghanistan
+27	ASSAI	Very, musically
+30	SENSELESS	Beyond understanding
+31	LADDS	Cheryl and Diane of Hollywood
+32	OSS	Pre-C.I.A. grp.
+33	TATAS	They're heard at Heathrow
+35	DIA	Calendario unit
+37	GERE	"The Cotton Club" star
+45	PSA	Ad Council output, for short
+46	ASWE	"For ___ all know ..."
+48	TAY	Longest river of Scotland
+49	OTO	Nebraska native
+51	ALC	Still product: Abbr.
+52	TAX	Purchase price addition
+53	ARE	Were up to date?
+54	IUD	Pill alternative, for short
+55	ODD	Missing a match
+56	APR	Auto financing abbr.
+57	ROW	Obey the coxswain
+58	EOE	Classified ad inits.

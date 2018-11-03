@@ -1,0 +1,303 @@
+grid_15x15_193
+15
+0	1	1	H	0	0	3	1	HOC	0	0	3	1	HAM
+0	1	2	O	0	0	3	0		0	1	4	1	OPUS
+0	1	3	C	0	0	3	0		0	2	8	1	CATALYST
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	N	0	5	3	1	NBC	0	5	3	1	NYE
+0	1	5	B	0	5	3	0		0	6	4	1	BEEB
+0	1	6	C	0	5	3	0		0	7	4	1	CTRL
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	3	0		1	10	4	0	
+0	1	7	S	0	11	3	1	SPA	0	11	5	1	SEIJI
+0	1	8	P	0	11	3	0		0	12	6	1	PISANS
+0	1	9	A	0	11	3	0		0	13	6	1	ALECTO
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	A	1	0	4	1	APAR	0	0	3	0	
+0	0	0	P	1	0	4	0		0	1	4	0	
+0	0	0	A	1	0	4	0		0	2	8	0	
+0	1	11	R	1	0	4	0		1	3	4	1	RIRE
+1	0	0	#	1	5	4	0		2	4	7	0	
+0	1	12	Y	1	5	4	1	YETI	0	5	3	0	
+0	0	0	E	1	5	4	0		0	6	4	0	
+0	0	0	T	1	5	4	0		0	7	4	0	
+0	1	13	I	1	5	4	0		1	8	5	1	ISATE
+1	0	0	#	1	10	4	0		2	9	0	0	
+0	1	14	O	1	10	4	1	OEIL	1	10	4	1	ONKP
+0	0	0	E	1	10	4	0		0	11	5	0	
+0	0	0	I	1	10	4	0		0	12	6	0	
+0	0	0	L	1	10	4	0		0	13	6	0	
+1	0	0	#	1	15	0	0		2	14	4	0	
+0	1	15	M	2	0	9	1	MUTINEERS	0	0	3	0	
+0	0	0	U	2	0	9	0		0	1	4	0	
+0	0	0	T	2	0	9	0		0	2	8	0	
+0	0	0	I	2	0	9	0		1	3	4	0	
+0	1	16	N	2	0	9	0		2	4	7	1	NKRUMAH
+0	0	0	E	2	0	9	0		0	5	3	0	
+0	0	0	E	2	0	9	0		0	6	4	0	
+0	0	0	R	2	0	9	0		0	7	4	0	
+0	0	0	S	2	0	9	0		1	8	5	0	
+1	0	0	#	2	10	5	0		3	9	7	0	
+0	1	17	N	2	10	5	1	NISEI	1	10	4	0	
+0	0	0	I	2	10	5	0		0	11	5	0	
+0	0	0	S	2	10	5	0		0	12	6	0	
+0	0	0	E	2	10	5	0		0	13	6	0	
+0	1	18	I	2	10	5	0		2	14	4	1	IKON
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	19	S	3	1	4	1	SARK	0	1	4	0	
+0	0	0	A	3	1	4	0		0	2	8	0	
+0	0	0	R	3	1	4	0		1	3	4	0	
+0	0	0	K	3	1	4	0		2	4	7	0	
+1	0	0	#	3	6	9	0		4	5	0	0	
+0	1	20	B	3	6	9	1	BLACKJACK	0	6	4	0	
+0	0	0	L	3	6	9	0		0	7	4	0	
+0	0	0	A	3	6	9	0		1	8	5	0	
+0	1	21	C	3	6	9	0		3	9	7	1	CATERTO
+0	0	0	K	3	6	9	0		1	10	4	0	
+0	0	0	J	3	6	9	0		0	11	5	0	
+0	0	0	A	3	6	9	0		0	12	6	0	
+0	0	0	C	3	6	9	0		0	13	6	0	
+0	0	0	K	3	6	9	0		2	14	4	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	3	0	
+0	1	22	L	4	2	3	1	LER	0	2	8	0	
+0	0	0	E	4	2	3	0		1	3	4	0	
+0	0	0	R	4	2	3	0		2	4	7	0	
+1	0	0	#	4	6	0	0		5	5	7	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	7	0		5	7	5	0	
+0	1	23	T	4	8	7	1	TAPINTO	1	8	5	0	
+0	0	0	A	4	8	7	0		3	9	7	0	
+0	0	0	P	4	8	7	0		1	10	4	0	
+0	0	0	I	4	8	7	0		0	11	5	0	
+0	0	0	N	4	8	7	0		0	12	6	0	
+0	0	0	T	4	8	7	0		0	13	6	0	
+0	0	0	O	4	8	7	0		2	14	4	0	
+0	1	24	A	5	0	3	1	AMY	5	0	3	1	ALB
+0	1	25	M	5	0	3	0		5	1	3	1	MAA
+0	0	0	Y	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	6	0		6	3	3	0	
+0	1	26	U	5	4	6	1	USENET	2	4	7	0	
+0	1	27	S	5	4	6	0		5	5	7	1	SONATAS
+0	1	28	E	5	4	6	0		5	6	3	1	EVA
+0	1	29	N	5	4	6	0		5	7	5	1	NENES
+0	0	0	E	5	4	6	0		1	8	5	0	
+0	0	0	T	5	4	6	0		3	9	7	0	
+1	0	0	#	5	11	0	0		6	10	7	0	
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	30	S	5	12	3	1	SON	0	12	6	0	
+0	0	0	O	5	12	3	0		0	13	6	0	
+0	0	0	N	5	12	3	0		2	14	4	0	
+0	1	31	L	6	0	8	1	LASTMOVE	5	0	3	0	
+0	0	0	A	6	0	8	0		5	1	3	0	
+0	0	0	S	6	0	8	0		0	2	8	0	
+0	1	32	T	6	0	8	0		6	3	3	1	TMS
+0	0	0	M	6	0	8	0		2	4	7	0	
+0	0	0	O	6	0	8	0		5	5	7	0	
+0	0	0	V	6	0	8	0		5	6	3	0	
+0	0	0	E	6	0	8	0		5	7	5	0	
+1	0	0	#	6	9	3	0		7	8	3	0	
+0	1	33	E	6	9	3	1	ENA	3	9	7	0	
+0	1	34	N	6	9	3	0		6	10	7	1	NORWICH
+0	1	35	A	6	9	3	0		6	11	3	1	ABE
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	3	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	36	B	7	0	15	1	BATMANANDROBBIN	5	0	3	0	
+0	0	0	A	7	0	15	0		5	1	3	0	
+0	0	0	T	7	0	15	0		0	2	8	0	
+0	0	0	M	7	0	15	0		6	3	3	0	
+0	0	0	A	7	0	15	0		2	4	7	0	
+0	0	0	N	7	0	15	0		5	5	7	0	
+0	0	0	A	7	0	15	0		5	6	3	0	
+0	0	0	N	7	0	15	0		5	7	5	0	
+0	1	37	D	7	0	15	0		7	8	3	1	DNH
+0	0	0	R	7	0	15	0		3	9	7	0	
+0	0	0	O	7	0	15	0		6	10	7	0	
+0	0	0	B	7	0	15	0		6	11	3	0	
+0	1	38	B	7	0	15	0		7	12	8	1	BASSCLEF
+0	1	39	I	7	0	15	0		7	13	3	1	ITY
+0	1	40	N	7	0	15	0		7	14	3	1	NYM
+1	0	0	#	8	1	0	0		9	0	4	0	
+1	0	0	#	8	2	0	0		9	1	6	0	
+1	0	0	#	8	3	3	0		9	2	6	0	
+0	1	41	S	8	3	3	1	SHA	6	3	3	0	
+0	0	0	H	8	3	3	0		2	4	7	0	
+0	0	0	A	8	3	3	0		5	5	7	0	
+1	0	0	#	8	7	8	0		9	6	5	0	
+0	1	42	E	8	7	8	1	ENTREATY	5	7	5	0	
+0	0	0	N	8	7	8	0		7	8	3	0	
+0	0	0	T	8	7	8	0		3	9	7	0	
+0	0	0	R	8	7	8	0		6	10	7	0	
+0	0	0	E	8	7	8	0		6	11	3	0	
+0	0	0	A	8	7	8	0		7	12	8	0	
+0	0	0	T	8	7	8	0		7	13	3	0	
+0	0	0	Y	8	7	8	0		7	14	3	0	
+0	1	43	S	9	0	3	1	SMU	9	0	4	1	SSRS
+0	1	44	M	9	0	3	0		9	1	6	1	MAENAD
+0	1	45	U	9	0	3	0		9	2	6	1	UMTATA
+1	0	0	#	9	4	0	0		10	3	5	0	
+1	0	0	#	9	5	6	0		10	4	4	0	
+0	1	46	T	9	5	6	1	TVSHOW	5	5	7	0	
+0	1	47	V	9	5	6	0		9	6	5	1	VIJAY
+0	0	0	S	9	5	6	0		5	7	5	0	
+0	0	0	H	9	5	6	0		7	8	3	0	
+0	0	0	O	9	5	6	0		3	9	7	0	
+0	0	0	W	9	5	6	0		6	10	7	0	
+1	0	0	#	9	12	3	0		10	11	4	0	
+0	1	48	S	9	12	3	1	SYM	7	12	8	0	
+0	0	0	Y	9	12	3	0		7	13	3	0	
+0	0	0	M	9	12	3	0		7	14	3	0	
+0	1	49	S	10	0	7	1	SAMURAI	9	0	4	0	
+0	0	0	A	10	0	7	0		9	1	6	0	
+0	0	0	M	10	0	7	0		9	2	6	0	
+0	1	50	U	10	0	7	0		10	3	5	1	URGES
+0	1	51	R	10	0	7	0		10	4	4	1	ROSS
+0	0	0	A	10	0	7	0		5	5	7	0	
+0	0	0	I	10	0	7	0		9	6	5	0	
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	52	I	10	10	3	1	ILS	6	10	7	0	
+0	1	53	L	10	10	3	0		10	11	4	1	LAYS
+0	0	0	S	10	10	3	0		7	12	8	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	54	R	11	0	9	1	RETROSJPS	9	0	4	0	
+0	0	0	E	11	0	9	0		9	1	6	0	
+0	0	0	T	11	0	9	0		9	2	6	0	
+0	0	0	R	11	0	9	0		10	3	5	0	
+0	0	0	O	11	0	9	0		10	4	4	0	
+0	0	0	S	11	0	9	0		5	5	7	0	
+0	0	0	J	11	0	9	0		9	6	5	0	
+0	1	55	P	11	0	9	0		11	7	4	1	PEEN
+0	1	56	S	11	0	9	0		11	8	4	1	SSSS
+1	0	0	#	11	10	4	0		12	9	3	0	
+0	1	57	C	11	10	4	1	CACO	6	10	7	0	
+0	0	0	A	11	10	4	0		10	11	4	0	
+0	0	0	C	11	10	4	0		7	12	8	0	
+0	1	58	O	11	10	4	0		11	13	4	1	OURS
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	59	S	12	0	5	1	SNAGS	9	0	4	0	
+0	0	0	N	12	0	5	0		9	1	6	0	
+0	0	0	A	12	0	5	0		9	2	6	0	
+0	0	0	G	12	0	5	0		10	3	5	0	
+0	0	0	S	12	0	5	0		10	4	4	0	
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	60	A	12	6	9	1	AESCHYLUS	9	6	5	0	
+0	0	0	E	12	6	9	0		11	7	4	0	
+0	0	0	S	12	6	9	0		11	8	4	0	
+0	1	61	C	12	6	9	0		12	9	3	1	CSA
+0	0	0	H	12	6	9	0		6	10	7	0	
+0	0	0	Y	12	6	9	0		10	11	4	0	
+0	0	0	L	12	6	9	0		7	12	8	0	
+0	0	0	U	12	6	9	0		11	13	4	0	
+0	1	62	S	12	6	9	0		12	14	3	1	STU
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	63	A	13	1	4	1	ATES	9	1	6	0	
+0	0	0	T	13	1	4	0		9	2	6	0	
+0	0	0	E	13	1	4	0		10	3	5	0	
+0	0	0	S	13	1	4	0		10	4	4	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	64	Y	13	6	4	1	YESS	9	6	5	0	
+0	0	0	E	13	6	4	0		11	7	4	0	
+0	0	0	S	13	6	4	0		11	8	4	0	
+0	0	0	S	13	6	4	0		12	9	3	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	65	S	13	11	4	1	SERT	10	11	4	0	
+0	0	0	E	13	11	4	0		7	12	8	0	
+0	0	0	R	13	11	4	0		11	13	4	0	
+0	0	0	T	13	11	4	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	66	D	14	1	3	1	DAS	9	1	6	0	
+0	0	0	A	14	1	3	0		9	2	6	0	
+0	0	0	S	14	1	3	0		10	3	5	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	67	N	14	7	3	1	NSA	11	7	4	0	
+0	0	0	S	14	7	3	0		11	8	4	0	
+0	0	0	A	14	7	3	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	68	F	14	12	3	1	FSU	7	12	8	0	
+0	0	0	S	14	12	3	0		11	13	4	0	
+0	0	0	U	14	12	3	0		12	14	3	0	
+35
+1	HOC	Post ___
+4	NBC	Brian Williams's employer
+7	SPA	Place where you can get into hot water
+10	APAR	Be on ___ with (equal)
+12	YETI	Sherpa sighting, maybe
+14	OEIL	Parisian peeper
+15	MUTINEERS	They're revolting
+17	NISEI	Some Japanese-Americans
+19	SARK	Cutty ___
+20	BLACKJACK	Something to play at a casino
+22	LER	Celtic Poseidon
+23	TAPINTO	Access
+24	AMY	"Little Women" woman
+26	USENET	Predecessor of Web forums
+30	SON	Trinity component
+31	LASTMOVE	Checkmate
+33	ENA	Alfonso XIII's queen
+36	BATMANANDROBBIN	What Commissioner Gordon is always findin' at Gotham City crime scenes?
+41	SHA	___ Na Na
+42	ENTREATY	Impetration
+43	SMU	Mustangs' home: Abbr.
+46	TVSHOW	Pilot program?
+48	SYM	Kind of orch.
+49	SAMURAI	Film heptad
+52	ILS	They: Fr.
+54	RETROSJPS	Fashionably late? / Court officials, for short
+57	CACO	Bad: Prefix
+59	SNAGS	Slight hangups
+60	AESCHYLUS	"Prometheus Bound" playwright
+63	ATES	Chemical suffixes
+64	YESS	Boot camp affirmative
+65	SERT	Muralist Jos
+66	DAS	Courtroom figs.
+67	NSA	Supersecret org.
+68	FSU	Seminoles' sch.
+39
+1	HAM	Overdramatic one
+2	OPUS	Big production
+3	CATALYST	Spark
+4	NYE	"The Eyes of ___" (public TV science show)
+5	BEEB	English channel, familiarly, with "the"
+6	CTRL	Fated for ruin
+7	SEIJI	First name in conducting
+8	PISANS	Losers of the Battle of Meloria, 1284
+9	ALECTO	One of the Furies
+11	RIRE	Laugh, in Lille
+13	ISATE	Reverse of "bring together"
+14	ONKP	Like a G.I. peeling spuds
+16	NKRUMAH	Kwame ___, advocate of pan-Africanism and the first P.M. of Ghana
+18	IKON	Sacred image: Var.
+21	CATERTO	Indulge
+24	ALB	Many a Kosovar: Abbr.
+25	MAA	Cry of farm young
+27	SONATAS	"Moonlight" and "Farewell"
+28	EVA	Little ___, who sang "The Loco-Motion"
+29	NENES	Spanish kids
+32	TMS	Protected images, for short
+34	NORWICH	British home of Cow Tower and Dragon Hall
+35	ABE	The fin man?
+37	DNH	Pol. designation for Gov. Jeanne Shaheen
+38	BASSCLEF	Low pitch indicator
+39	ITY	Suffix with theatrical
+40	NYM	N.L. team, on scoreboards
+43	SSRS	Part of Eastern Europe, once: Abbr.
+44	MAENAD	Female bacchanalian
+45	UMTATA	Nelson Mandela's South African birthplace
+47	VIJAY	Singh on the links
+50	URGES	Yens
+51	ROSS	One of the friends on "Friends"
+53	LAYS	Deposits
+55	PEEN	One end of a hammer
+56	SSSS	Sound of a leak
+58	OURS	Not theirs
+61	CSA	Davis was its pres.
+62	STU	Good name for a flight attendant?

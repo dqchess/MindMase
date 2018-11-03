@@ -1,0 +1,165 @@
+grid_11x11_14
+11
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	N	0	1	3	1	NEO	0	1	7	1	NORBERT
+0	1	2	E	0	1	3	0		0	2	7	1	ESSAYER
+0	1	3	O	0	1	3	0		0	3	3	1	OTE
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	5	0		1	5	0	0	
+0	1	4	M	0	6	5	1	MIDDY	0	6	6	1	MYOSIN
+0	1	5	I	0	6	5	0		0	7	6	1	IMHERE
+0	1	6	D	0	6	5	0		0	8	3	1	DCA
+0	1	7	D	0	6	5	0		0	9	3	1	DAL
+0	1	8	Y	0	6	5	0		0	10	3	1	YSL
+0	1	9	P	1	0	5	1	POSTS	1	0	4	1	PATT
+0	0	0	O	1	0	5	0		0	1	7	0	
+0	0	0	S	1	0	5	0		0	2	7	0	
+0	0	0	T	1	0	5	0		0	3	3	0	
+0	1	10	S	1	0	5	0		1	4	3	1	SNA
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	11	Y	1	6	5	1	YMCAS	0	6	6	0	
+0	0	0	M	1	6	5	0		0	7	6	0	
+0	0	0	C	1	6	5	0		0	8	3	0	
+0	0	0	A	1	6	5	0		0	9	3	0	
+0	0	0	S	1	6	5	0		0	10	3	0	
+0	1	12	A	2	0	11	1	ARSENIOHALL	1	0	4	0	
+0	0	0	R	2	0	11	0		0	1	7	0	
+0	0	0	S	2	0	11	0		0	2	7	0	
+0	0	0	E	2	0	11	0		0	3	3	0	
+0	0	0	N	2	0	11	0		1	4	3	0	
+0	1	13	I	2	0	11	0		2	5	7	1	INVOLVE
+0	0	0	O	2	0	11	0		0	6	6	0	
+0	0	0	H	2	0	11	0		0	7	6	0	
+0	0	0	A	2	0	11	0		0	8	3	0	
+0	0	0	L	2	0	11	0		0	9	3	0	
+0	0	0	L	2	0	11	0		0	10	3	0	
+0	1	14	T	3	0	3	1	TBA	1	0	4	0	
+0	0	0	B	3	0	3	0		0	1	7	0	
+0	0	0	A	3	0	3	0		0	2	7	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	15	A	3	4	4	1	ANSE	1	4	3	0	
+0	0	0	N	3	4	4	0		2	5	7	0	
+0	0	0	S	3	4	4	0		0	6	6	0	
+0	0	0	E	3	4	4	0		0	7	6	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	T	4	0	3	1	TEY	1	0	4	0	
+0	0	0	E	4	0	3	0		0	1	7	0	
+0	0	0	Y	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	5	0		5	4	6	0	
+0	1	17	V	4	5	5	1	VIRTU	2	5	7	0	
+0	0	0	I	4	5	5	0		0	6	6	0	
+0	0	0	R	4	5	5	0		0	7	6	0	
+0	1	18	T	4	5	5	0		4	8	7	1	TRIPOLI
+0	1	19	U	4	5	5	0		4	9	7	1	USTINOV
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	20	R	5	1	9	1	REASONERS	0	1	7	0	
+0	0	0	E	5	1	9	0		0	2	7	0	
+0	1	21	A	5	1	9	0		5	3	6	1	AIDING
+0	1	22	S	5	1	9	0		5	4	6	1	SALSAS
+0	0	0	O	5	1	9	0		2	5	7	0	
+0	0	0	N	5	1	9	0		0	6	6	0	
+0	0	0	E	5	1	9	0		0	7	6	0	
+0	0	0	R	5	1	9	0		4	8	7	0	
+0	0	0	S	5	1	9	0		4	9	7	0	
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	23	T	6	1	5	1	TRIAL	0	1	7	0	
+0	0	0	R	6	1	5	0		0	2	7	0	
+0	0	0	I	6	1	5	0		5	3	6	0	
+0	0	0	A	6	1	5	0		5	4	6	0	
+0	0	0	L	6	1	5	0		2	5	7	0	
+1	0	0	#	6	7	0	0		7	6	3	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	24	I	6	8	3	1	ITE	4	8	7	0	
+0	0	0	T	6	8	3	0		4	9	7	0	
+0	1	25	E	6	8	3	0		6	10	4	1	EGGS
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	4	0		8	2	3	0	
+0	1	26	D	7	3	4	1	DLVI	5	3	6	0	
+0	0	0	L	7	3	4	0		5	4	6	0	
+0	0	0	V	7	3	4	0		2	5	7	0	
+0	1	27	I	7	3	4	0		7	6	3	1	IAN
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	28	P	7	8	3	1	PIG	4	8	7	0	
+0	0	0	I	7	8	3	0		4	9	7	0	
+0	0	0	G	7	8	3	0		6	10	4	0	
+0	1	29	C	8	0	11	1	CRUISEALONG	8	0	3	1	CDP
+0	1	30	R	8	0	11	0		8	1	3	1	REA
+0	1	31	U	8	0	11	0		8	2	3	1	USN
+0	0	0	I	8	0	11	0		5	3	6	0	
+0	0	0	S	8	0	11	0		5	4	6	0	
+0	0	0	E	8	0	11	0		2	5	7	0	
+0	0	0	A	8	0	11	0		7	6	3	0	
+0	1	32	L	8	0	11	0		8	7	3	1	LOM
+0	0	0	O	8	0	11	0		4	8	7	0	
+0	0	0	N	8	0	11	0		4	9	7	0	
+0	0	0	G	8	0	11	0		6	10	4	0	
+0	1	33	D	9	0	5	1	DESNA	8	0	3	0	
+0	0	0	E	9	0	5	0		8	1	3	0	
+0	0	0	S	9	0	5	0		8	2	3	0	
+0	0	0	N	9	0	5	0		5	3	6	0	
+0	0	0	A	9	0	5	0		5	4	6	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	34	N	9	6	5	1	NOLOS	7	6	3	0	
+0	0	0	O	9	6	5	0		8	7	3	0	
+0	0	0	L	9	6	5	0		4	8	7	0	
+0	0	0	O	9	6	5	0		4	9	7	0	
+0	0	0	S	9	6	5	0		6	10	4	0	
+0	1	35	P	10	0	5	1	PANGS	8	0	3	0	
+0	0	0	A	10	0	5	0		8	1	3	0	
+0	0	0	N	10	0	5	0		8	2	3	0	
+0	0	0	G	10	0	5	0		5	3	6	0	
+0	0	0	S	10	0	5	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	36	M	10	7	3	1	MIV	8	7	3	0	
+0	0	0	I	10	7	3	0		4	8	7	0	
+0	0	0	V	10	7	3	0		4	9	7	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	NEO	Prefix with natal
+4	MIDDY	Blouse with a sailor collar
+9	POSTS	Fence features
+11	YMCAS	Some training centers
+12	ARSENIOHALL	"Coming to America" co-star
+14	TBA	TV schedule abbr.
+15	ANSE	Handle: Fr.
+16	TEY	"The Daughter of Time" novelist, 1951
+17	VIRTU	Objets d'art
+20	REASONERS	They make sense
+23	TRIAL	Hardship
+24	ITE	Suffix with Manhattan
+26	DLVI	Mid sixth-century year
+28	PIG	Metal mold, as from a blast furnace
+29	CRUISEALONG	Proceed effortlessly
+33	DESNA	Dnieper tributary
+34	NOLOS	Some court pleas, for short
+35	PANGS	Throbs
+36	MIV	Early 11th-century date
+21
+1	NORBERT	Cybernetics pioneer ___ Wiener
+2	ESSAYER	One who's trying
+3	OTE	Inhabitant: Suffix
+4	MYOSIN	Common muscle protein
+5	IMHERE	Announcement upon arriving
+6	DCA	Bing Crosby's record label
+7	DAL	Lentil dish at an Indian restaurant
+8	YSL	Couture monogram
+9	PATT	Barefaced
+10	SNA	White stuff, in Dundee
+13	INVOLVE	Absorb
+18	TRIPOLI	Lebanese port
+19	USTINOV	"Dear Me" theatrical memoirist
+21	AIDING	Boosting
+22	SALSAS	Dances to "Cali Pachanguero," e.g.
+25	EGGS	___ Benedict
+27	IAN	Fleming or Hunter
+29	CDP	Prefix with center or gram
+30	REA	Stephen of "The End of the Affair"
+31	USN	Org. with a sub division
+32	LOM	Sellers

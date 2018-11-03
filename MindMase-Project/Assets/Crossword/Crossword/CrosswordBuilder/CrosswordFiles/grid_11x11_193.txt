@@ -1,0 +1,167 @@
+grid_11x11_193
+11
+0	1	1	A	0	0	6	1	ACETAL	0	0	3	1	ANE
+0	1	2	C	0	0	6	0		0	1	4	1	COLE
+0	1	3	E	0	0	6	0		0	2	4	1	EWES
+0	1	4	T	0	0	6	0		0	3	5	1	TACET
+0	1	5	A	0	0	6	0		0	4	3	1	AIT
+0	1	6	L	0	0	6	0		0	5	3	1	LTR
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	7	U	0	8	3	1	UHF	0	8	6	1	USERID
+0	1	8	H	0	8	3	0		0	9	6	1	HEYYOU
+0	1	9	F	0	8	3	0		0	10	6	1	FRESNO
+0	1	10	N	1	0	6	1	NOWAIT	0	0	3	0	
+0	0	0	O	1	0	6	0		0	1	4	0	
+0	0	0	W	1	0	6	0		0	2	4	0	
+0	0	0	A	1	0	6	0		0	3	5	0	
+0	0	0	I	1	0	6	0		0	4	3	0	
+0	0	0	T	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	5	0	
+0	1	11	U	1	7	4	1	USER	1	7	4	1	UCAL
+0	0	0	S	1	7	4	0		0	8	6	0	
+0	0	0	E	1	7	4	0		0	9	6	0	
+0	0	0	R	1	7	4	0		0	10	6	0	
+0	1	12	E	2	0	11	1	ELECTRICEYE	0	0	3	0	
+0	0	0	L	2	0	11	0		0	1	4	0	
+0	0	0	E	2	0	11	0		0	2	4	0	
+0	0	0	C	2	0	11	0		0	3	5	0	
+0	0	0	T	2	0	11	0		0	4	3	0	
+0	0	0	R	2	0	11	0		0	5	3	0	
+0	1	13	I	2	0	11	0		2	6	5	1	IGLOO
+0	0	0	C	2	0	11	0		1	7	4	0	
+0	0	0	E	2	0	11	0		0	8	6	0	
+0	0	0	Y	2	0	11	0		0	9	6	0	
+0	0	0	E	2	0	11	0		0	10	6	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	14	E	3	1	3	1	ESE	0	1	4	0	
+0	0	0	S	3	1	3	0		0	2	4	0	
+0	0	0	E	3	1	3	0		0	3	5	0	
+1	0	0	#	3	5	0	0		4	4	5	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	15	G	3	6	5	1	GARYS	2	6	5	0	
+0	0	0	A	3	6	5	0		1	7	4	0	
+0	0	0	R	3	6	5	0		0	8	6	0	
+0	0	0	Y	3	6	5	0		0	9	6	0	
+0	0	0	S	3	6	5	0		0	10	6	0	
+1	0	0	#	4	1	0	0		5	0	6	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	8	0		5	2	6	0	
+0	1	16	T	4	3	8	1	TRILLION	0	3	5	0	
+0	1	17	R	4	3	8	0		4	4	5	1	RAMEN
+0	1	18	I	4	3	8	0		4	5	3	1	IBO
+0	0	0	L	4	3	8	0		2	6	5	0	
+0	0	0	L	4	3	8	0		1	7	4	0	
+0	0	0	I	4	3	8	0		0	8	6	0	
+0	0	0	O	4	3	8	0		0	9	6	0	
+0	0	0	N	4	3	8	0		0	10	6	0	
+0	1	19	O	5	0	3	1	OBS	5	0	6	1	OFFING
+0	1	20	B	5	0	3	0		5	1	6	1	BURNER
+0	1	21	S	5	0	3	0		5	2	6	1	SLICER
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	22	A	5	4	3	1	ABO	4	4	5	0	
+0	0	0	B	5	4	3	0		4	5	3	0	
+0	0	0	O	5	4	3	0		2	6	5	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	23	D	5	8	3	1	DUO	0	8	6	0	
+0	0	0	U	5	8	3	0		0	9	6	0	
+0	0	0	O	5	8	3	0		0	10	6	0	
+0	1	24	F	6	0	8	1	FULLMOON	5	0	6	0	
+0	0	0	U	6	0	8	0		5	1	6	0	
+0	0	0	L	6	0	8	0		5	2	6	0	
+0	1	25	L	6	0	8	0		6	3	4	1	LSAT
+0	0	0	M	6	0	8	0		4	4	5	0	
+0	0	0	O	6	0	8	0		4	5	3	0	
+0	0	0	O	6	0	8	0		2	6	5	0	
+0	1	26	N	6	0	8	0		6	7	5	1	NONET
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	F	7	0	5	1	FRISE	5	0	6	0	
+0	0	0	R	7	0	5	0		5	1	6	0	
+0	0	0	I	7	0	5	0		5	2	6	0	
+0	0	0	S	7	0	5	0		6	3	4	0	
+0	0	0	E	7	0	5	0		4	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	28	O	7	7	3	1	OMG	6	7	5	0	
+0	1	29	M	7	7	3	0		7	8	4	1	MCDI
+0	1	30	G	7	7	3	0		7	9	4	1	GAOL
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	I	8	0	11	1	INCANCANCAN	5	0	6	0	
+0	0	0	N	8	0	11	0		5	1	6	0	
+0	0	0	C	8	0	11	0		5	2	6	0	
+0	0	0	A	8	0	11	0		6	3	4	0	
+0	0	0	N	8	0	11	0		4	4	5	0	
+0	1	32	C	8	0	11	0		8	5	3	1	CUR
+0	1	33	A	8	0	11	0		8	6	3	1	ASE
+0	0	0	N	8	0	11	0		6	7	5	0	
+0	0	0	C	8	0	11	0		7	8	4	0	
+0	0	0	A	8	0	11	0		7	9	4	0	
+0	1	34	N	8	0	11	0		8	10	3	1	NNE
+0	1	35	N	9	0	4	1	NEET	5	0	6	0	
+0	0	0	E	9	0	4	0		5	1	6	0	
+0	0	0	E	9	0	4	0		5	2	6	0	
+0	0	0	T	9	0	4	0		6	3	4	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	36	U	9	5	6	1	USEDON	8	5	3	0	
+0	0	0	S	9	5	6	0		8	6	3	0	
+0	0	0	E	9	5	6	0		6	7	5	0	
+0	0	0	D	9	5	6	0		7	8	4	0	
+0	0	0	O	9	5	6	0		7	9	4	0	
+0	0	0	N	9	5	6	0		8	10	3	0	
+0	1	37	G	10	0	3	1	GRR	5	0	6	0	
+0	0	0	R	10	0	3	0		5	1	6	0	
+0	0	0	R	10	0	3	0		5	2	6	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	6	0		11	4	0	0	
+0	1	38	R	10	5	6	1	RETILE	8	5	3	0	
+0	0	0	E	10	5	6	0		8	6	3	0	
+0	0	0	T	10	5	6	0		6	7	5	0	
+0	0	0	I	10	5	6	0		7	8	4	0	
+0	0	0	L	10	5	6	0		7	9	4	0	
+0	0	0	E	10	5	6	0		8	10	3	0	
+19
+1	ACETAL	Volatile solvent
+7	UHF	14 and up, for short
+10	NOWAIT	"Uh, hold on! That's wrong!"
+11	USER	Candidate for rehab
+12	ELECTRICEYE	Sensor
+14	ESE	Dir. the Ebro flows
+15	GARYS	Busey and Coleman
+16	TRILLION	13-figure figure
+19	OBS	Out-of-date: Abbr.
+22	ABO	Blood system
+23	DUO	Burns and Allen, e.g.
+24	FULLMOON	Time for the werewolf alert
+27	FRISE	Thick upholstery fabric
+28	OMG	Letters of surprise, in text messages
+31	INCANCANCAN	Lively Indian dance?
+35	NEET	Nair competitor
+36	USEDON	Given experimentally
+37	GRR	Rover's warning
+38	RETILE	Fix, as a shower stall
+23
+1	ANE	Hydrocarbon ending
+2	COLE	___ SLAW
+3	EWES	Dolly and others
+4	TACET	"Be silent," in scores
+5	AIT	Bit of land in a river
+6	LTR	Word unit: Abbr.
+7	USERID	Name that one logs on with
+8	HEYYOU	"Yo!"
+9	FRESNO	City whose name is Spanish for "ash tree"
+11	UCAL	Sch. with a branch in Berkeley
+13	IGLOO	Winter home, perhaps
+17	RAMEN	Far Eastern bowlful
+18	IBO	Nigerian native
+19	OFFING	In the ___ (soon to come)
+20	BURNER	Bunsen's creation
+21	SLICER	Deli need
+25	LSAT	Professional school hurdle: Abbr.
+26	NONET	Schubert's "Eine Kleine Trauermusik," e.g.
+29	MCDI	Start of the 15th century
+30	GAOL	British lockup
+32	CUR	Dog prone to biting
+33	ASE	Mother of Peer Gynt
+34	NNE	Opposite SSW

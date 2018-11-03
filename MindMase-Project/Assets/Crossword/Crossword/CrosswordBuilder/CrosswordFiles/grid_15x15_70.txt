@@ -1,0 +1,301 @@
+grid_15x15_70
+15
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	3	0	
+1	0	0	#	0	3	4	0		1	2	14	0	
+0	1	1	O	0	3	4	1	ONAN	0	3	3	1	OMA
+0	1	2	N	0	3	4	0		0	4	3	1	NOT
+0	1	3	A	0	3	4	0		0	5	4	1	ATIP
+0	1	4	N	0	3	4	0		0	6	4	1	NEVE
+1	0	0	#	0	8	0	0		1	7	13	0	
+1	0	0	#	0	9	6	0		1	8	0	0	
+0	1	5	G	0	9	6	1	GAYNOR	0	9	3	1	GEM
+0	1	6	A	0	9	6	0		0	10	5	1	ANAIR
+0	1	7	Y	0	9	6	0		0	11	7	1	YOUTUBE
+0	1	8	N	0	9	6	0		0	12	14	1	NUMBERCRUNCHER
+0	1	9	O	0	9	6	0		0	13	4	1	OGEE
+0	1	10	R	0	9	6	0		0	14	3	1	RHE
+0	1	11	P	1	0	8	1	PROMOTER	1	0	3	1	PRY
+0	1	12	R	1	0	8	0		1	1	3	1	REA
+0	1	13	O	1	0	8	0		1	2	14	1	OLDERBUDWEISER
+0	0	0	M	1	0	8	0		0	3	3	0	
+0	0	0	O	1	0	8	0		0	4	3	0	
+0	0	0	T	1	0	8	0		0	5	4	0	
+0	0	0	E	1	0	8	0		0	6	4	0	
+0	1	14	R	1	0	8	0		1	7	13	1	REDUCETOTEARS
+1	0	0	#	1	9	6	0		2	8	0	0	
+0	1	15	E	1	9	6	1	ENOUGH	0	9	3	0	
+0	0	0	N	1	9	6	0		0	10	5	0	
+0	0	0	O	1	9	6	0		0	11	7	0	
+0	0	0	U	1	9	6	0		0	12	14	0	
+0	0	0	G	1	9	6	0		0	13	4	0	
+0	0	0	H	1	9	6	0		0	14	3	0	
+0	1	16	R	2	0	8	1	RELATIVE	1	0	3	0	
+0	0	0	E	2	0	8	0		1	1	3	0	
+0	0	0	L	2	0	8	0		1	2	14	0	
+0	0	0	A	2	0	8	0		0	3	3	0	
+0	0	0	T	2	0	8	0		0	4	3	0	
+0	0	0	I	2	0	8	0		0	5	4	0	
+0	0	0	V	2	0	8	0		0	6	4	0	
+0	0	0	E	2	0	8	0		1	7	13	0	
+1	0	0	#	2	9	6	0		3	8	6	0	
+0	1	17	M	2	9	6	1	MAUMEE	0	9	3	0	
+0	0	0	A	2	9	6	0		0	10	5	0	
+0	0	0	U	2	9	6	0		0	11	7	0	
+0	0	0	M	2	9	6	0		0	12	14	0	
+0	0	0	E	2	9	6	0		0	13	4	0	
+0	0	0	E	2	9	6	0		0	14	3	0	
+0	1	18	Y	3	0	3	1	YAD	1	0	3	0	
+0	0	0	A	3	0	3	0		1	1	3	0	
+0	0	0	D	3	0	3	0		1	2	14	0	
+1	0	0	#	3	4	0	0		4	3	3	0	
+1	0	0	#	3	5	4	0		4	4	3	0	
+0	1	19	P	3	5	4	1	PEDE	0	5	4	0	
+0	0	0	E	3	5	4	0		0	6	4	0	
+0	0	0	D	3	5	4	0		1	7	13	0	
+0	1	20	E	3	5	4	0		3	8	6	1	ENGRAM
+1	0	0	#	3	10	4	0		4	9	6	0	
+0	1	21	I	3	10	4	1	ITBE	0	10	5	0	
+0	0	0	T	3	10	4	0		0	11	7	0	
+0	0	0	B	3	10	4	0		0	12	14	0	
+0	0	0	E	3	10	4	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	5	0	
+0	1	22	E	4	2	3	1	ETA	1	2	14	0	
+0	1	23	T	4	2	3	0		4	3	3	1	TSE
+0	1	24	A	4	2	3	0		4	4	3	1	ACR
+1	0	0	#	4	6	0	0		5	5	6	0	
+1	0	0	#	4	7	6	0		5	6	0	0	
+0	1	25	U	4	7	6	1	UNTRUE	1	7	13	0	
+0	0	0	N	4	7	6	0		3	8	6	0	
+0	1	26	T	4	7	6	0		4	9	6	1	TITLED
+0	0	0	R	4	7	6	0		0	10	5	0	
+0	0	0	U	4	7	6	0		0	11	7	0	
+0	0	0	E	4	7	6	0		0	12	14	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	27	H	5	0	6	1	HIRSCH	5	0	3	1	HAS
+0	1	28	I	5	0	6	0		5	1	5	1	IMMAD
+0	0	0	R	5	0	6	0		1	2	14	0	
+0	0	0	S	5	0	6	0		4	3	3	0	
+0	0	0	C	5	0	6	0		4	4	3	0	
+0	1	29	H	5	0	6	0		5	5	6	1	HANGAR
+1	0	0	#	5	7	3	0		6	6	6	0	
+0	1	30	C	5	7	3	1	CGI	1	7	13	0	
+0	0	0	G	5	7	3	0		3	8	6	0	
+0	0	0	I	5	7	3	0		4	9	6	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	31	B	5	11	3	1	BRR	0	11	7	0	
+0	0	0	R	5	11	3	0		0	12	14	0	
+0	1	32	R	5	11	3	0		5	13	5	1	RILLE
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	33	A	6	0	10	1	AMBERALERT	5	0	3	0	
+0	0	0	M	6	0	10	0		5	1	5	0	
+0	0	0	B	6	0	10	0		1	2	14	0	
+0	0	0	E	6	0	10	0		4	3	3	0	
+0	0	0	R	6	0	10	0		4	4	3	0	
+0	0	0	A	6	0	10	0		5	5	6	0	
+0	1	34	L	6	0	10	0		6	6	6	1	LANINA
+0	0	0	E	6	0	10	0		1	7	13	0	
+0	0	0	R	6	0	10	0		3	8	6	0	
+0	0	0	T	6	0	10	0		4	9	6	0	
+1	0	0	#	6	11	3	0		7	10	0	0	
+0	1	35	E	6	11	3	1	ECI	0	11	7	0	
+0	0	0	C	6	11	3	0		0	12	14	0	
+0	0	0	I	6	11	3	0		5	13	5	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	36	S	7	0	3	1	SMU	5	0	3	0	
+0	0	0	M	7	0	3	0		5	1	5	0	
+0	0	0	U	7	0	3	0		1	2	14	0	
+1	0	0	#	7	4	0	0		8	3	7	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	37	N	7	5	5	1	NATAL	5	5	6	0	
+0	0	0	A	7	5	5	0		6	6	6	0	
+0	0	0	T	7	5	5	0		1	7	13	0	
+0	0	0	A	7	5	5	0		3	8	6	0	
+0	0	0	L	7	5	5	0		4	9	6	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	38	R	7	12	3	1	RLS	0	12	14	0	
+0	0	0	L	7	12	3	0		5	13	5	0	
+0	1	39	S	7	12	3	0		7	14	3	1	SLR
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	40	A	8	1	3	1	ADE	5	1	5	0	
+0	0	0	D	8	1	3	0		1	2	14	0	
+0	1	41	E	8	1	3	0		8	3	7	1	EITREAN
+1	0	0	#	8	5	10	0		9	4	0	0	
+0	1	42	G	8	5	10	1	GNOMESKULL	5	5	6	0	
+0	0	0	N	8	5	10	0		6	6	6	0	
+0	0	0	O	8	5	10	0		1	7	13	0	
+0	0	0	M	8	5	10	0		3	8	6	0	
+0	0	0	E	8	5	10	0		4	9	6	0	
+0	1	43	S	8	5	10	0		8	10	3	1	SOT
+0	1	44	K	8	5	10	0		8	11	3	1	KNE
+0	0	0	U	8	5	10	0		0	12	14	0	
+0	0	0	L	8	5	10	0		5	13	5	0	
+0	0	0	L	8	5	10	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	45	D	9	1	3	1	DWI	5	1	5	0	
+0	0	0	W	9	1	3	0		1	2	14	0	
+0	0	0	I	9	1	3	0		8	3	7	0	
+1	0	0	#	9	5	3	0		10	4	5	0	
+0	1	46	A	9	5	3	1	AIT	5	5	6	0	
+0	0	0	I	9	5	3	0		6	6	6	0	
+0	0	0	T	9	5	3	0		1	7	13	0	
+1	0	0	#	9	9	6	0		10	8	0	0	
+0	1	47	D	9	9	6	1	DONNER	4	9	6	0	
+0	0	0	O	9	9	6	0		8	10	3	0	
+0	0	0	N	9	9	6	0		8	11	3	0	
+0	0	0	N	9	9	6	0		0	12	14	0	
+0	0	0	E	9	9	6	0		5	13	5	0	
+0	0	0	R	9	9	6	0		7	14	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	6	0		11	1	4	0	
+0	1	48	E	10	2	6	1	ETERNE	1	2	14	0	
+0	0	0	T	10	2	6	0		8	3	7	0	
+0	1	49	E	10	2	6	0		10	4	5	1	ENTRE
+0	0	0	R	10	2	6	0		5	5	6	0	
+0	0	0	N	10	2	6	0		6	6	6	0	
+0	0	0	E	10	2	6	0		1	7	13	0	
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	3	0		11	9	4	0	
+0	1	50	T	10	10	3	1	TEC	8	10	3	0	
+0	0	0	E	10	10	3	0		8	11	3	0	
+0	0	0	C	10	10	3	0		0	12	14	0	
+1	0	0	#	10	14	0	0		11	13	3	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	4	0		12	0	3	0	
+0	1	51	F	11	1	4	1	FIRN	11	1	4	1	FORE
+0	0	0	I	11	1	4	0		1	2	14	0	
+0	0	0	R	11	1	4	0		8	3	7	0	
+0	0	0	N	11	1	4	0		10	4	5	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	52	A	11	6	4	1	AABA	6	6	6	0	
+0	0	0	A	11	6	4	0		1	7	13	0	
+0	1	53	B	11	6	4	0		11	8	4	1	BAER
+0	1	54	A	11	6	4	0		11	9	4	1	ATTO
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	55	H	11	12	3	1	HAW	0	12	14	0	
+0	1	56	A	11	12	3	0		11	13	3	1	ATE
+0	1	57	W	11	12	3	0		11	14	3	1	WSW
+0	1	58	C	12	0	6	1	COSETS	12	0	3	1	CDL
+0	0	0	O	12	0	6	0		11	1	4	0	
+0	0	0	S	12	0	6	0		1	2	14	0	
+0	0	0	E	12	0	6	0		8	3	7	0	
+0	0	0	T	12	0	6	0		10	4	5	0	
+0	1	59	S	12	0	6	0		12	5	3	1	SYR
+1	0	0	#	12	7	8	0		13	6	0	0	
+0	1	60	R	12	7	8	1	RATCHETS	1	7	13	0	
+0	0	0	A	12	7	8	0		11	8	4	0	
+0	0	0	T	12	7	8	0		11	9	4	0	
+0	1	61	C	12	7	8	0		12	10	3	1	CSI
+0	1	62	H	12	7	8	0		12	11	3	1	HCL
+0	0	0	E	12	7	8	0		0	12	14	0	
+0	0	0	T	12	7	8	0		11	13	3	0	
+0	0	0	S	12	7	8	0		11	14	3	0	
+0	1	63	D	13	0	6	1	DREARY	12	0	3	0	
+0	0	0	R	13	0	6	0		11	1	4	0	
+0	0	0	E	13	0	6	0		1	2	14	0	
+0	0	0	A	13	0	6	0		8	3	7	0	
+0	0	0	R	13	0	6	0		10	4	5	0	
+0	0	0	Y	13	0	6	0		12	5	3	0	
+1	0	0	#	13	7	8	0		14	6	0	0	
+0	1	64	S	13	7	8	1	SETSCREW	1	7	13	0	
+0	0	0	E	13	7	8	0		11	8	4	0	
+0	0	0	T	13	7	8	0		11	9	4	0	
+0	0	0	S	13	7	8	0		12	10	3	0	
+0	0	0	C	13	7	8	0		12	11	3	0	
+0	0	0	R	13	7	8	0		0	12	14	0	
+0	0	0	E	13	7	8	0		11	13	3	0	
+0	0	0	W	13	7	8	0		11	14	3	0	
+0	1	65	L	14	0	6	1	LERNER	12	0	3	0	
+0	0	0	E	14	0	6	0		11	1	4	0	
+0	0	0	R	14	0	6	0		1	2	14	0	
+0	0	0	N	14	0	6	0		8	3	7	0	
+0	0	0	E	14	0	6	0		10	4	5	0	
+0	0	0	R	14	0	6	0		12	5	3	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	4	0		15	7	0	0	
+0	1	66	R	14	8	4	1	ROIL	11	8	4	0	
+0	0	0	O	14	8	4	0		11	9	4	0	
+0	0	0	I	14	8	4	0		12	10	3	0	
+0	0	0	L	14	8	4	0		12	11	3	0	
+1	0	0	#	14	13	0	0		15	12	0	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+35
+1	ONAN	"...___ open fire"
+5	GAYNOR	Brazzi's "South Pacific" co-star
+11	PROMOTER	Advocate
+15	ENOUGH	"Can it!"
+16	RELATIVE	Not absolute
+17	MAUMEE	River through Toledo
+18	YAD	Torah place marker
+19	PEDE	Word ending meaning "foot"
+21	ITBE	"Let ___"
+22	ETA	Guesstimate letters
+25	UNTRUE	Not even
+27	HIRSCH	N.F.L. Hall-of-Famer Elroy
+30	CGI	Hollywood techie's field, briefly
+31	BRR	"It's c-c-c-cold!"
+33	AMBERALERT	Means of recapturing one's youth?
+35	ECI	Motel freebie
+36	SMU	Eric Dickerson's alma mater, for short
+37	NATAL	Concerning one's coming out?
+38	RLS	Literary monogram
+40	ADE	Suffix with many fruit names
+42	GNOMESKULL	Protection for a fairy-tale dwarf's brain?
+45	DWI	Drunk's road offense, for short
+46	AIT	River island
+47	DONNER	California's ___ Pass
+48	ETERNE	Ceaseless, in poetry
+50	TEC	Dick
+51	FIRN	Granular snow atop a glacier
+52	AABA	"Stopping By Woods on a Snowy Evening" rhyme scheme
+55	HAW	Speech hesitation
+58	COSETS	Mathematical groups
+60	RATCHETS	Increases, with "up"
+63	DREARY	Gray
+64	SETSCREW	Bit of securing hardware
+65	LERNER	"My Fair Lady" lyricist
+66	ROIL	Irritate
+37
+1	OMA	Medical suffix
+2	NOT	What may come before so much?
+3	ATIP	On one's toes
+4	NEVE	Campbell of "Scream"
+5	GEM	Opal or onyx
+6	ANAIR	Have ___ of (display)
+7	YOUTUBE	Company sold in 2006 for $1.65 billion - 21 months after it was founded
+8	NUMBERCRUNCHER	One who counts calories?
+9	OGEE	S-curve
+10	RHE	Letters on a scoreboard
+11	PRY	Show unseemly curiosity
+12	REA	Irish actor Stephen
+13	OLDERBUDWEISER	Having the experience of years of beer drinking?
+14	REDUCETOTEARS	Make cry
+20	ENGRAM	Persistence of memory concept
+23	TSE	"The Waste Land" poet's monogram
+24	ACR	Horizontally: Abbr.
+26	TITLED	Like nobles
+27	HAS	Eats
+28	IMMAD	"This has got me fuming!"
+29	HANGAR	Craft store?
+32	RILLE	Lunar valley
+34	LANINA	Cause of a dry spell in the Midwest
+39	SLR	Canonflex, e.g.
+41	EITREAN	Resident of Asmara
+43	SOT	Boozer
+44	KNE	Show obeisance
+49	ENTRE	Between, in Orl
+51	FORE	Driver's warning
+53	BAER	Loser to Braddock, 1935
+54	ATTO	One-quintillionth: Prefix
+56	ATE	Ingested
+57	WSW	Berlin-to-Cologne dir.
+58	CDL	Year Marcian became emperor
+59	SYR	Hafez al-Assad's land: Abbr.
+61	CSI	TV show with Dr. Ray Langston
+62	HCL	Colorless gas with a pungent odor, for short

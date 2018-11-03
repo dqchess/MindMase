@@ -1,0 +1,171 @@
+grid_11x11_41
+11
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	A	0	1	3	1	ASL	0	1	6	1	AUBURN
+0	1	2	S	0	1	3	0		0	2	6	1	SNAPAT
+0	1	3	L	0	1	3	0		0	3	3	1	LIS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	S	0	7	3	1	SSH	0	7	3	1	SWA
+0	1	5	S	0	7	3	0		0	8	4	1	SEND
+0	1	6	H	0	7	3	0		0	9	4	1	HEEP
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	B	1	0	5	1	BUNIN	1	0	4	1	BAST
+0	0	0	U	1	0	5	0		0	1	6	0	
+0	0	0	N	1	0	5	0		0	2	6	0	
+0	0	0	I	1	0	5	0		0	3	3	0	
+0	1	8	N	1	0	5	0		1	4	3	1	NEA
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	9	S	1	6	5	1	SWEET	1	6	5	1	SLANG
+0	0	0	W	1	6	5	0		0	7	3	0	
+0	0	0	E	1	6	5	0		0	8	4	0	
+0	0	0	E	1	6	5	0		0	9	4	0	
+0	1	10	T	1	6	5	0		1	10	3	1	TDS
+0	1	11	A	2	0	5	1	ABASE	1	0	4	0	
+0	0	0	B	2	0	5	0		0	1	6	0	
+0	0	0	A	2	0	5	0		0	2	6	0	
+0	0	0	S	2	0	5	0		0	3	3	0	
+0	0	0	E	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	L	2	6	5	1	LANED	1	6	5	0	
+0	0	0	A	2	6	5	0		0	7	3	0	
+0	0	0	N	2	6	5	0		0	8	4	0	
+0	0	0	E	2	6	5	0		0	9	4	0	
+0	0	0	D	2	6	5	0		1	10	3	0	
+0	1	13	S	3	0	3	1	SUP	1	0	4	0	
+0	0	0	U	3	0	3	0		0	1	6	0	
+0	0	0	P	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	A	3	4	3	1	ACA	1	4	3	0	
+0	1	15	C	3	4	3	0		3	5	5	1	CRESS
+0	0	0	A	3	4	3	0		1	6	5	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	D	3	8	3	1	DPS	0	8	4	0	
+0	0	0	P	3	8	3	0		0	9	4	0	
+0	0	0	S	3	8	3	0		1	10	3	0	
+0	1	17	T	4	0	4	1	TRAG	1	0	4	0	
+0	0	0	R	4	0	4	0		0	1	6	0	
+0	0	0	A	4	0	4	0		0	2	6	0	
+0	1	18	G	4	0	4	0		4	3	3	1	GHI
+1	0	0	#	4	5	3	0		5	4	5	0	
+0	1	19	R	4	5	3	1	RNA	3	5	5	0	
+0	0	0	N	4	5	3	0		1	6	5	0	
+0	1	20	A	4	5	3	0		4	7	3	1	ARP
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	21	N	5	1	9	1	NTHDEGREE	0	1	6	0	
+0	0	0	T	5	1	9	0		0	2	6	0	
+0	0	0	H	5	1	9	0		4	3	3	0	
+0	1	22	D	5	1	9	0		5	4	5	1	DAMON
+0	0	0	E	5	1	9	0		3	5	5	0	
+0	0	0	G	5	1	9	0		1	6	5	0	
+0	0	0	R	5	1	9	0		4	7	3	0	
+0	1	23	E	5	1	9	0		5	8	6	1	EOCENE
+0	1	24	E	5	1	9	0		5	9	6	1	EPONYM
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	25	I	6	3	3	1	IAS	4	3	3	0	
+0	0	0	A	6	3	3	0		5	4	5	0	
+0	0	0	S	6	3	3	0		3	5	5	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	26	P	6	7	4	1	POPE	4	7	3	0	
+0	0	0	O	6	7	4	0		5	8	6	0	
+0	0	0	P	6	7	4	0		5	9	6	0	
+0	1	27	E	6	7	4	0		6	10	4	1	EHEL
+0	1	28	E	7	0	3	1	EST	7	0	3	1	EDB
+0	1	29	S	7	0	3	0		7	1	4	1	SUPT
+0	1	30	T	7	0	3	0		7	2	4	1	TPER
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	31	M	7	4	3	1	MST	5	4	5	0	
+0	0	0	S	7	4	3	0		3	5	5	0	
+0	1	32	T	7	4	3	0		7	6	3	1	TDV
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	33	C	7	8	3	1	COH	5	8	6	0	
+0	0	0	O	7	8	3	0		5	9	6	0	
+0	0	0	H	7	8	3	0		6	10	4	0	
+0	1	34	D	8	0	5	1	DUPLO	7	0	3	0	
+0	0	0	U	8	0	5	0		7	1	4	0	
+0	0	0	P	8	0	5	0		7	2	4	0	
+0	1	35	L	8	0	5	0		8	3	3	1	LES
+0	0	0	O	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	36	D	8	6	5	1	DIENE	7	6	3	0	
+0	1	37	I	8	6	5	0		8	7	3	1	IIS
+0	0	0	E	8	6	5	0		5	8	6	0	
+0	0	0	N	8	6	5	0		5	9	6	0	
+0	0	0	E	8	6	5	0		6	10	4	0	
+0	1	38	B	9	0	5	1	BPEEN	7	0	3	0	
+0	0	0	P	9	0	5	0		7	1	4	0	
+0	0	0	E	9	0	5	0		7	2	4	0	
+0	0	0	E	9	0	5	0		8	3	3	0	
+0	0	0	N	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	39	V	9	6	5	1	VINYL	7	6	3	0	
+0	0	0	I	9	6	5	0		8	7	3	0	
+0	0	0	N	9	6	5	0		5	8	6	0	
+0	0	0	Y	9	6	5	0		5	9	6	0	
+0	0	0	L	9	6	5	0		6	10	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	40	T	10	1	3	1	TRS	7	1	4	0	
+0	0	0	R	10	1	3	0		7	2	4	0	
+0	0	0	S	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	41	S	10	7	3	1	SEM	8	7	3	0	
+0	0	0	E	10	7	3	0		5	8	6	0	
+0	0	0	M	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	ASL	Communication syst.
+4	SSH	Library sound: Var.
+7	BUNIN	Russian novelist Ivan
+9	SWEET	Sugary
+11	ABASE	Demean
+12	LANED	Like an Interstate
+13	SUP	Slangy greeting
+14	ACA	Here, in Hidalgo
+16	DPS	Infielders' stats, for short
+17	TRAG	"King Lear" or "Hamlet": Abbr.
+19	RNA	It comes in strands
+21	NTHDEGREE	Utmost
+25	IAS	"___ in ice"
+26	POPE	John Paul II, e.g.
+28	EST	Old seminar subject
+31	MST	Denver clock setting: Abbr.
+33	COH	"Suzanne" songwriter
+34	DUPLO	Brand of Lego bricks
+36	DIENE	Compound with two double bonds
+38	BPEEN	Rounded end
+39	VINYL	Record albums, to collectors
+40	TRS	___-80 (old computer model)
+41	SEM	Luth. or Bapt. school
+23
+1	AUBURN	The Tigers of the Southeastern Conference
+2	SNAPAT	Be short with
+3	LIS	Lille lily
+4	SWA	United competitor: Abbr.
+5	SEND	---
+6	HEEP	Dickens's Uriah
+7	BAST	Cord material
+8	NEA	Cultural funding org.
+9	SLANG	Colorful talk
+10	TDS	Passing concerns?: Abbr.
+15	CRESS	Salad greenery
+18	GHI	4, on a phone
+20	ARP	Dada artist Jean
+22	DAMON	"Good Will Hunting" star Matt
+23	EOCENE	Occurring 40 to 55 million years ago
+24	EPONYM	The Earl of Sandwich, for one
+27	EHEL	Jazzy Waters
+28	EDB	Teacher's deg.
+29	SUPT	Apt. overseer
+30	TPER	Formal hat, informally
+32	TDV	Horned viper
+35	LES	College football coach Miles
+37	IIS	"___ for Innocent" (Grafton novel)

@@ -1,0 +1,171 @@
+grid_11x11_97
+11
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	3	0		1	2	4	0	
+0	1	1	S	0	3	3	1	SVU	0	3	3	1	SYD
+0	1	2	V	0	3	3	0		0	4	4	1	VAYA
+0	1	3	U	0	3	3	0		0	5	11	1	USEDVEHICLE
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	S	0	7	3	1	STY	0	7	3	1	SLO
+0	1	5	T	0	7	3	0		0	8	5	1	TYREE
+0	1	6	Y	0	7	3	0		0	9	5	1	YESOR
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	T	1	0	6	1	TANYAS	1	0	3	1	TAU
+0	1	8	A	1	0	6	0		1	1	4	1	AZUL
+0	1	9	N	1	0	6	0		1	2	4	1	NOUS
+0	0	0	Y	1	0	6	0		0	3	3	0	
+0	0	0	A	1	0	6	0		0	4	4	0	
+0	0	0	S	1	0	6	0		0	5	11	0	
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	10	L	1	7	4	1	LYES	0	7	3	0	
+0	0	0	Y	1	7	4	0		0	8	5	0	
+0	0	0	E	1	7	4	0		0	9	5	0	
+0	1	11	S	1	7	4	0		1	10	3	1	SON
+0	1	12	A	2	0	6	1	AZODYE	1	0	3	0	
+0	0	0	Z	2	0	6	0		1	1	4	0	
+0	0	0	O	2	0	6	0		1	2	4	0	
+0	0	0	D	2	0	6	0		0	3	3	0	
+0	0	0	Y	2	0	6	0		0	4	4	0	
+0	0	0	E	2	0	6	0		0	5	11	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	13	O	2	7	4	1	ORSO	0	7	3	0	
+0	0	0	R	2	7	4	0		0	8	5	0	
+0	0	0	S	2	7	4	0		0	9	5	0	
+0	0	0	O	2	7	4	0		1	10	3	0	
+0	1	14	U	3	0	3	1	UUU	1	0	3	0	
+0	0	0	U	3	0	3	0		1	1	4	0	
+0	0	0	U	3	0	3	0		1	2	4	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	15	A	3	4	3	1	ADR	0	4	4	0	
+0	0	0	D	3	4	3	0		0	5	11	0	
+0	1	16	R	3	4	3	0		3	6	3	1	RIM
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	17	E	3	8	3	1	EON	0	8	5	0	
+0	0	0	O	3	8	3	0		0	9	5	0	
+0	0	0	N	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	18	L	4	1	3	1	LSE	1	1	4	0	
+0	0	0	S	4	1	3	0		1	2	4	0	
+0	1	19	E	4	1	3	0		4	3	3	1	ESP
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	20	V	4	5	5	1	VIPER	0	5	11	0	
+0	0	0	I	4	5	5	0		3	6	3	0	
+0	1	21	P	4	5	5	0		4	7	3	1	PAD
+0	0	0	E	4	5	5	0		0	8	5	0	
+0	0	0	R	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	22	S	5	3	5	1	SHEMA	4	3	3	0	
+0	1	23	H	5	3	5	0		5	4	3	1	HTS
+0	0	0	E	5	3	5	0		0	5	11	0	
+0	0	0	M	5	3	5	0		3	6	3	0	
+0	0	0	A	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	4	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	24	D	6	1	5	1	DEPTH	6	1	5	1	DANAE
+0	1	25	E	6	1	5	0		6	2	5	1	EGEST
+0	0	0	P	6	1	5	0		4	3	3	0	
+0	0	0	T	6	1	5	0		5	4	3	0	
+0	0	0	H	6	1	5	0		0	5	11	0	
+1	0	0	#	6	7	3	0		7	6	4	0	
+0	1	26	D	6	7	3	1	DIE	4	7	3	0	
+0	1	27	I	6	7	3	0		6	8	4	1	IAGO
+0	1	28	E	6	7	3	0		6	9	4	1	ERAS
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	29	J	7	0	3	1	JAG	7	0	3	1	JUS
+0	0	0	A	7	0	3	0		6	1	5	0	
+0	0	0	G	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	30	S	7	4	3	1	SIC	5	4	3	0	
+0	0	0	I	7	4	3	0		0	5	11	0	
+0	1	31	C	7	4	3	0		7	6	4	1	COAL
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	32	A	7	8	3	1	ART	6	8	4	0	
+0	0	0	R	7	8	3	0		6	9	4	0	
+0	1	33	T	7	8	3	0		7	10	3	1	TSA
+0	1	34	U	8	0	4	1	UNES	7	0	3	0	
+0	0	0	N	8	0	4	0		6	1	5	0	
+0	0	0	E	8	0	4	0		6	2	5	0	
+0	1	35	S	8	0	4	0		8	3	3	1	SEE
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	36	C	8	5	6	1	CONGAS	0	5	11	0	
+0	0	0	O	8	5	6	0		7	6	4	0	
+0	1	37	N	8	5	6	0		8	7	3	1	NRA
+0	0	0	G	8	5	6	0		6	8	4	0	
+0	0	0	A	8	5	6	0		6	9	4	0	
+0	0	0	S	8	5	6	0		7	10	3	0	
+0	1	38	S	9	0	4	1	SASE	7	0	3	0	
+0	0	0	A	9	0	4	0		6	1	5	0	
+0	0	0	S	9	0	4	0		6	2	5	0	
+0	0	0	E	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	39	L	9	5	6	1	LAROSA	0	5	11	0	
+0	0	0	A	9	5	6	0		7	6	4	0	
+0	0	0	R	9	5	6	0		8	7	3	0	
+0	0	0	O	9	5	6	0		6	8	4	0	
+0	0	0	S	9	5	6	0		6	9	4	0	
+0	0	0	A	9	5	6	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	40	E	10	1	3	1	ETE	6	1	5	0	
+0	0	0	T	10	1	3	0		6	2	5	0	
+0	0	0	E	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	41	E	10	5	3	1	ELA	0	5	11	0	
+0	0	0	L	10	5	3	0		7	6	4	0	
+0	0	0	A	10	5	3	0		8	7	3	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	SVU	"Law & Order" spinoff, for short
+4	STY	Home for Babe
+7	TANYAS	Actress Roberts and others
+10	LYES	Alkaline solutions
+12	AZODYE	Methyl orange or Congo red
+13	ORSO	Guesstimate words
+14	UUU	Familiar Olympics chant
+15	ADR	Worker in the TV biz
+17	EON	Interminable time
+18	LSE	End of many an E-mail address
+20	VIPER	Spiteful one
+22	SHEMA	Jewish pledge of faith
+24	DEPTH	Sonar's measurement
+26	DIE	Fade out
+29	JAG	Pricey sports car, informally
+30	SIC	[not a typo]
+32	ART	Prints, pastels and such
+34	UNES	French individuals
+36	CONGAS	Dances with one person after another?
+38	SASE	Mailing courtesy, briefly
+39	LAROSA	Variety show host of 1956-57
+40	ETE	Hot time in Paris
+41	ELA	She, in S
+23
+1	SYD	Barrett of early Pink Floyd
+2	VAYA	___ con Dios (Spanish farewell)
+3	USEDVEHICLE	*It's got some miles on it
+4	SLO	Driver's caution
+5	TYREE	David who caught a key pass in the 2008 Super Bowl
+6	YESOR	___ no
+7	TAU	Follower of sigma
+8	AZUL	Blue, in Baja
+9	NOUS	Us, abroad
+11	SON	Pluto, to Saturn
+16	RIM	Court target
+19	ESP	Clairvoyance, briefly
+21	PAD	Landing site
+23	HTS	Seaside ___, N.J.
+24	DANAE	Mother of Perseus
+25	EGEST	Cast out
+27	IAGO	Globe plotter
+28	ERAS	Ages
+29	JUS	French dip's dip
+31	COAL	Furnace fodder
+33	TSA	Agcy. with a list of prohibited items
+35	SEE	___-through
+37	NRA	Org. for people with arms

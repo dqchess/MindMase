@@ -1,0 +1,231 @@
+grid_13x13_52
+13
+0	1	1	A	0	0	3	1	AKA	0	0	3	1	ANI
+0	1	2	K	0	0	3	0		0	1	4	1	KIND
+0	1	3	A	0	0	3	0		0	2	13	1	AVERAGEHEIGHT
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	R	0	6	3	1	RIT	0	6	3	1	REC
+0	1	5	I	0	6	3	0		0	7	3	1	IRA
+0	1	6	T	0	6	3	0		0	8	6	1	TINHAT
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	T	0	10	3	1	TKT	0	10	13	1	THERAZORSEDGE
+0	1	8	K	0	10	3	0		0	11	8	1	KALAHARI
+0	1	9	T	0	10	3	0		0	12	3	1	TOL
+0	1	10	N	1	0	5	1	NIVEA	0	0	3	0	
+0	0	0	I	1	0	5	0		0	1	4	0	
+0	0	0	V	1	0	5	0		0	2	13	0	
+0	1	11	E	1	0	5	0		1	3	5	1	EVERS
+0	1	12	A	1	0	5	0		1	4	4	1	AEAN
+1	0	0	#	1	6	3	0		2	5	6	0	
+0	1	13	E	1	6	3	1	ERI	0	6	3	0	
+0	0	0	R	1	6	3	0		0	7	3	0	
+0	0	0	I	1	6	3	0		0	8	6	0	
+1	0	0	#	1	10	3	0		2	9	3	0	
+0	1	14	H	1	10	3	1	HAO	0	10	13	0	
+0	0	0	A	1	10	3	0		0	11	8	0	
+0	0	0	O	1	10	3	0		0	12	3	0	
+0	1	15	I	2	0	13	1	INEVERCANTELL	0	0	3	0	
+0	0	0	N	2	0	13	0		0	1	4	0	
+0	0	0	E	2	0	13	0		0	2	13	0	
+0	0	0	V	2	0	13	0		1	3	5	0	
+0	0	0	E	2	0	13	0		1	4	4	0	
+0	1	16	R	2	0	13	0		2	5	6	1	RRATED
+0	0	0	C	2	0	13	0		0	6	3	0	
+0	0	0	A	2	0	13	0		0	7	3	0	
+0	0	0	N	2	0	13	0		0	8	6	0	
+0	1	17	T	2	0	13	0		2	9	3	1	TAM
+0	0	0	E	2	0	13	0		0	10	13	0	
+0	0	0	L	2	0	13	0		0	11	8	0	
+0	0	0	L	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	18	D	3	1	5	1	DREAR	0	1	4	0	
+0	0	0	R	3	1	5	0		0	2	13	0	
+0	0	0	E	3	1	5	0		1	3	5	0	
+0	0	0	A	3	1	5	0		1	4	4	0	
+0	0	0	R	3	1	5	0		2	5	6	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	4	0		4	7	0	0	
+0	1	19	H	3	8	4	1	HARA	0	8	6	0	
+0	0	0	A	3	8	4	0		2	9	3	0	
+0	0	0	R	3	8	4	0		0	10	13	0	
+0	0	0	A	3	8	4	0		0	11	8	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	8	0	
+0	1	20	A	4	2	5	1	ARNAZ	0	2	13	0	
+0	0	0	R	4	2	5	0		1	3	5	0	
+0	0	0	N	4	2	5	0		1	4	4	0	
+0	0	0	A	4	2	5	0		2	5	6	0	
+0	1	21	Z	4	2	5	0		4	6	5	1	ZEROS
+1	0	0	#	4	8	5	0		5	7	6	0	
+0	1	22	A	4	8	5	1	AMAHS	0	8	6	0	
+0	0	0	M	4	8	5	0		2	9	3	0	
+0	0	0	A	4	8	5	0		0	10	13	0	
+0	0	0	H	4	8	5	0		0	11	8	0	
+0	1	23	S	4	8	5	0		4	12	3	1	SCI
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	24	R	5	1	3	1	RGS	5	1	8	1	REPLANTS
+0	0	0	G	5	1	3	0		0	2	13	0	
+0	0	0	S	5	1	3	0		1	3	5	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	25	T	5	5	4	1	TENT	2	5	6	0	
+0	0	0	E	5	5	4	0		4	6	5	0	
+0	1	26	N	5	5	4	0		5	7	6	1	NESSIE
+0	0	0	T	5	5	4	0		0	8	6	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	Z	5	10	3	1	ZAC	0	10	13	0	
+0	0	0	A	5	10	3	0		0	11	8	0	
+0	0	0	C	5	10	3	0		4	12	3	0	
+0	1	28	P	6	0	3	1	PEE	6	0	3	1	PKG
+0	0	0	E	6	0	3	0		5	1	8	0	
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	29	E	6	5	3	1	ERE	2	5	6	0	
+0	0	0	R	6	5	3	0		4	6	5	0	
+0	0	0	E	6	5	3	0		5	7	6	0	
+1	0	0	#	6	9	0	0		7	8	0	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	30	O	6	10	3	1	ORI	0	10	13	0	
+0	0	0	R	6	10	3	0		0	11	8	0	
+0	0	0	I	6	10	3	0		4	12	3	0	
+0	1	31	K	7	0	3	1	KPH	6	0	3	0	
+0	0	0	P	7	0	3	0		5	1	8	0	
+0	0	0	H	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	4	0		8	3	3	0	
+0	1	32	I	7	4	4	1	IDOS	7	4	6	1	IMPISH
+0	0	0	D	7	4	4	0		2	5	6	0	
+0	0	0	O	7	4	4	0		4	6	5	0	
+0	0	0	S	7	4	4	0		5	7	6	0	
+1	0	0	#	7	9	3	0		8	8	4	0	
+0	1	33	S	7	9	3	1	SRI	7	9	5	1	STIPE
+0	0	0	R	7	9	3	0		0	10	13	0	
+0	0	0	I	7	9	3	0		0	11	8	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	G	8	0	5	1	GLEEM	6	0	3	0	
+0	0	0	L	8	0	5	0		5	1	8	0	
+0	0	0	E	8	0	5	0		0	2	13	0	
+0	1	35	E	8	0	5	0		8	3	3	1	ERL
+0	0	0	M	8	0	5	0		7	4	6	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	36	S	8	6	5	1	SSGTS	4	6	5	0	
+0	0	0	S	8	6	5	0		5	7	6	0	
+0	1	37	G	8	6	5	0		8	8	4	1	GLEN
+0	0	0	T	8	6	5	0		7	9	5	0	
+0	0	0	S	8	6	5	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	4	0		10	0	3	0	
+0	1	38	A	9	1	4	1	AIRP	5	1	8	0	
+0	0	0	I	9	1	4	0		0	2	13	0	
+0	0	0	R	9	1	4	0		8	3	3	0	
+0	0	0	P	9	1	4	0		7	4	6	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	5	0		10	6	3	0	
+0	1	39	I	9	7	5	1	ILIED	5	7	6	0	
+0	0	0	L	9	7	5	0		8	8	4	0	
+0	0	0	I	9	7	5	0		7	9	5	0	
+0	0	0	E	9	7	5	0		0	10	13	0	
+0	1	40	D	9	7	5	0		9	11	4	1	DOUG
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	E	10	0	13	1	ENGLISHEEPDOG	10	0	3	1	EAD
+0	0	0	N	10	0	13	0		5	1	8	0	
+0	0	0	G	10	0	13	0		0	2	13	0	
+0	0	0	L	10	0	13	0		8	3	3	0	
+0	0	0	I	10	0	13	0		7	4	6	0	
+0	1	42	S	10	0	13	0		10	5	3	1	SKO
+0	1	43	H	10	0	13	0		10	6	3	1	HDL
+0	0	0	E	10	0	13	0		5	7	6	0	
+0	0	0	E	10	0	13	0		8	8	4	0	
+0	0	0	P	10	0	13	0		7	9	5	0	
+0	0	0	D	10	0	13	0		0	10	13	0	
+0	0	0	O	10	0	13	0		9	11	4	0	
+0	1	44	G	10	0	13	0		10	12	3	1	GSO
+0	1	45	A	11	0	3	1	ATH	10	0	3	0	
+0	0	0	T	11	0	3	0		5	1	8	0	
+0	0	0	H	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	3	0		12	3	0	0	
+0	1	46	S	11	4	3	1	SKD	7	4	6	0	
+0	0	0	K	11	4	3	0		10	5	3	0	
+0	0	0	D	11	4	3	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	47	N	11	8	5	1	NEGUS	8	8	4	0	
+0	0	0	E	11	8	5	0		7	9	5	0	
+0	0	0	G	11	8	5	0		0	10	13	0	
+0	0	0	U	11	8	5	0		9	11	4	0	
+0	0	0	S	11	8	5	0		10	12	3	0	
+0	1	48	D	12	0	3	1	DST	10	0	3	0	
+0	0	0	S	12	0	3	0		5	1	8	0	
+0	0	0	T	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	49	H	12	4	3	1	HOL	7	4	6	0	
+0	0	0	O	12	4	3	0		10	5	3	0	
+0	0	0	L	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	E	12	10	3	1	EGO	0	10	13	0	
+0	0	0	G	12	10	3	0		9	11	4	0	
+0	0	0	O	12	10	3	0		10	12	3	0	
+31
+1	AKA	Abbr. on a blotter
+4	RIT	Slowing down, in mus.
+7	TKT	Conductor's request: Abbr.
+10	NIVEA	Big name in skin care
+13	ERI	"___ tu che macchiavi quell'anima"
+14	HAO	Vietnamese coin
+15	INEVERCANTELL	Egotistical George Bernard Shaw drama?
+18	DREAR	"The House of Dies ___" (Virginia Hamilton Edgar-winning mystery)
+19	HARA	___-kiri
+20	ARNAZ	He starred as himself in "Cuban Pete," 1946
+22	AMAHS	Oriental nursemaids
+24	RGS	Some linemen: Abbr.
+25	TENT	Carnival sight
+27	ZAC	Country music's ___ Brown Band
+28	PEE	Person's head?
+29	ERE	It may appear before long
+30	ORI	"...___ quit!"
+31	KPH	Speed meas. in Europe
+32	IDOS	Binding exchanges
+33	SRI	Indian honorific
+34	GLEEM	Aquafresh alternative
+36	SSGTS	Some NCO's
+38	AIRP	Continental locales
+39	ILIED	Perjurer's admission
+41	ENGLISHEEPDOG	Helper in herding
+45	ATH	N.C.A.A. part: Abbr.
+46	SKD	Dog doc
+47	NEGUS	Warm, sweetened wine drink
+48	DST	April letters
+49	HOL	___ Hamoed (Passover period)
+50	EGO	It may be easily bruised
+27
+1	ANI	Folk singer DiFranco
+2	KIND	"___ sir ..."
+3	AVERAGEHEIGHT	It's not very short and not very tall
+4	REC	DVR button
+5	IRA	Form 1040 datum: Abbr.
+6	TINHAT	W.W. I helmet, informally
+7	THERAZORSEDGE	Somerset Maugham novel
+8	KALAHARI	Land of the eland
+9	TOL	"My Mama Done ___ Me"
+11	EVERS	Civil rights leader Medgar
+12	AEAN	Like llamas
+16	RRATED	Like "Brokeback Mountain"
+17	TAM	Lassie's lid
+21	ZEROS	"2001" characters
+23	SCI	Lab subj.
+24	REPLANTS	Moves to a new bed
+26	NESSIE	Elusive subject, familiarly
+28	PKG	Env. alternative
+32	IMPISH	Mischievous
+33	STIPE	Michael of R.E.M.
+35	ERL	Schubert's "The ___ KIng"
+37	GLEN	Secluded spot
+40	DOUG	Animated show on Nickelodeon
+41	EAD	Year that Augustus exiled Ovid
+42	SKO	Grinder
+43	HDL	Cholesterol abbr.
+44	GSO	Mil. aide

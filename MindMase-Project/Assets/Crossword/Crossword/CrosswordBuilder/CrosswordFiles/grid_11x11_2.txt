@@ -1,0 +1,165 @@
+grid_11x11_2
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	P	0	1	3	1	POV	0	1	4	1	PECS
+0	1	2	O	0	1	3	0		0	2	4	1	OTEA
+0	1	3	V	0	1	3	0		0	3	5	1	VENAL
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	S	0	8	3	1	STN	0	8	6	1	SHIMON
+0	1	5	T	0	8	3	0		0	9	6	1	TIVOLI
+0	1	6	N	0	8	3	0		0	10	6	1	NSEVEN
+0	1	7	P	1	0	7	1	PETERII	1	0	3	1	PSI
+0	0	0	E	1	0	7	0		0	1	4	0	
+0	0	0	T	1	0	7	0		0	2	4	0	
+0	0	0	E	1	0	7	0		0	3	5	0	
+0	1	8	R	1	0	7	0		1	4	5	1	RICED
+0	1	9	I	1	0	7	0		1	5	9	1	ICANDREAM
+0	1	10	I	1	0	7	0		1	6	3	1	IDS
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	11	H	1	8	3	1	HIS	0	8	6	0	
+0	0	0	I	1	8	3	0		0	9	6	0	
+0	0	0	S	1	8	3	0		0	10	6	0	
+0	1	12	S	2	0	11	1	SCENICDRIVE	1	0	3	0	
+0	0	0	C	2	0	11	0		0	1	4	0	
+0	0	0	E	2	0	11	0		0	2	4	0	
+0	0	0	N	2	0	11	0		0	3	5	0	
+0	0	0	I	2	0	11	0		1	4	5	0	
+0	0	0	C	2	0	11	0		1	5	9	0	
+0	0	0	D	2	0	11	0		1	6	3	0	
+0	1	13	R	2	0	11	0		2	7	3	1	RIC
+0	0	0	I	2	0	11	0		0	8	6	0	
+0	0	0	V	2	0	11	0		0	9	6	0	
+0	0	0	E	2	0	11	0		0	10	6	0	
+0	1	14	I	3	0	11	1	ISAACASIMOV	1	0	3	0	
+0	0	0	S	3	0	11	0		0	1	4	0	
+0	0	0	A	3	0	11	0		0	2	4	0	
+0	0	0	A	3	0	11	0		0	3	5	0	
+0	0	0	C	3	0	11	0		1	4	5	0	
+0	0	0	A	3	0	11	0		1	5	9	0	
+0	0	0	S	3	0	11	0		1	6	3	0	
+0	0	0	I	3	0	11	0		2	7	3	0	
+0	0	0	M	3	0	11	0		0	8	6	0	
+0	0	0	O	3	0	11	0		0	9	6	0	
+0	0	0	V	3	0	11	0		0	10	6	0	
+1	0	0	#	4	1	0	0		5	0	6	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	15	L	4	3	3	1	LEN	0	3	5	0	
+0	0	0	E	4	3	3	0		1	4	5	0	
+0	0	0	N	4	3	3	0		1	5	9	0	
+1	0	0	#	4	7	4	0		5	6	5	0	
+0	1	16	C	4	7	4	1	COLE	2	7	3	0	
+0	0	0	O	4	7	4	0		0	8	6	0	
+0	0	0	L	4	7	4	0		0	9	6	0	
+0	0	0	E	4	7	4	0		0	10	6	0	
+0	1	17	S	5	0	3	1	SFC	5	0	6	1	SABRAS
+0	1	18	F	5	0	3	0		5	1	6	1	FLOATS
+0	1	19	C	5	0	3	0		5	2	6	1	COUGHS
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	D	5	4	3	1	DDE	1	4	5	0	
+0	0	0	D	5	4	3	0		1	5	9	0	
+0	1	21	E	5	4	3	0		5	6	5	1	ENOTE
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	N	5	8	3	1	NIN	0	8	6	0	
+0	0	0	I	5	8	3	0		0	9	6	0	
+0	0	0	N	5	8	3	0		0	10	6	0	
+0	1	23	A	6	0	4	1	ALOE	5	0	6	0	
+0	0	0	L	6	0	4	0		5	1	6	0	
+0	0	0	O	6	0	4	0		5	2	6	0	
+0	1	24	E	6	0	4	0		6	3	3	1	ERS
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	25	R	6	5	3	1	RND	1	5	9	0	
+0	0	0	N	6	5	3	0		5	6	5	0	
+0	1	26	D	6	5	3	0		6	7	5	1	DITTY
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	27	B	7	0	11	1	BOURGEOISIE	5	0	6	0	
+0	0	0	O	7	0	11	0		5	1	6	0	
+0	0	0	U	7	0	11	0		5	2	6	0	
+0	0	0	R	7	0	11	0		6	3	3	0	
+0	1	28	G	7	0	11	0		7	4	3	1	GTS
+0	0	0	E	7	0	11	0		1	5	9	0	
+0	0	0	O	7	0	11	0		5	6	5	0	
+0	0	0	I	7	0	11	0		6	7	5	0	
+0	1	29	S	7	0	11	0		7	8	4	1	SEAM
+0	1	30	I	7	0	11	0		7	9	4	1	IRNA
+0	1	31	E	7	0	11	0		7	10	3	1	ESA
+0	1	32	R	8	0	11	1	RAGSTATTERS	5	0	6	0	
+0	0	0	A	8	0	11	0		5	1	6	0	
+0	0	0	G	8	0	11	0		5	2	6	0	
+0	0	0	S	8	0	11	0		6	3	3	0	
+0	0	0	T	8	0	11	0		7	4	3	0	
+0	0	0	A	8	0	11	0		1	5	9	0	
+0	0	0	T	8	0	11	0		5	6	5	0	
+0	0	0	T	8	0	11	0		6	7	5	0	
+0	0	0	E	8	0	11	0		7	8	4	0	
+0	0	0	R	8	0	11	0		7	9	4	0	
+0	0	0	S	8	0	11	0		7	10	3	0	
+0	1	33	A	9	0	3	1	ATH	5	0	6	0	
+0	0	0	T	9	0	3	0		5	1	6	0	
+0	0	0	H	9	0	3	0		5	2	6	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	34	S	9	4	7	1	SMETANA	7	4	3	0	
+0	0	0	M	9	4	7	0		1	5	9	0	
+0	0	0	E	9	4	7	0		5	6	5	0	
+0	0	0	T	9	4	7	0		6	7	5	0	
+0	0	0	A	9	4	7	0		7	8	4	0	
+0	0	0	N	9	4	7	0		7	9	4	0	
+0	0	0	A	9	4	7	0		7	10	3	0	
+0	1	35	S	10	0	3	1	SSS	5	0	6	0	
+0	0	0	S	10	0	3	0		5	1	6	0	
+0	0	0	S	10	0	3	0		5	2	6	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	36	Y	10	7	3	1	YMA	6	7	5	0	
+0	0	0	M	10	7	3	0		7	8	4	0	
+0	0	0	A	10	7	3	0		7	9	4	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	POV	Motion picture angle: Abbr.
+4	STN	B.&O. stop
+7	PETERII	Czar who succeeded Catherine I
+11	HIS	___ Majesty
+12	SCENICDRIVE	Pacific Coast Highway, for one
+14	ISAACASIMOV	"I, Robot" author
+15	LEN	Hall of Fame QB Dawson
+16	COLE	Merry king
+17	SFC	Army noncom: Abbr.
+20	DDE	Old White House monogram
+22	NIN	"The Four-Chambered Heart" novelist
+23	ALOE	Hand cream ingredient
+25	RND	Three minutes, in boxing: Abbr.
+27	BOURGEOISIE	Communist target
+32	RAGSTATTERS	Makes fun of laceworkers?
+33	ATH	Intrinsically
+34	SMETANA	"Dalibor" composer
+35	SSS	Flat tire sound
+36	YMA	Peruvian-born Sumac
+21
+1	PECS	Bench presser's pride
+2	OTEA	Cup ___ (hot drink, informally)
+3	VENAL	Corrupt
+4	SHIMON	Israel's Peres
+5	TIVOLI	Danish tourist attraction
+6	NSEVEN	Mickey Mantle, for the Yankees
+7	PSI	Tire pressure meas.
+8	RICED	Made grain-sized
+9	ICANDREAM	"Wouldn't that be nice"
+10	IDS	Driver's lic. and such
+13	RIC	Documentarian Burns
+17	SABRAS	Native Israelis
+18	FLOATS	Malt shop orders
+19	COUGHS	Robitussin suppresses them
+21	ENOTE	Online message
+24	ERS	E.M.T. destinations
+26	DITTY	Simple song
+28	GTS	Some muscle cars
+29	SEAM	Coal stratum
+30	IRNA	Soap opera creator Phillips
+31	ESA	That, in Toledo

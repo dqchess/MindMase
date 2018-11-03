@@ -1,0 +1,115 @@
+grid_9x9_34
+9
+0	1	1	M	0	0	3	1	MOS	0	0	3	1	MSN
+0	1	2	O	0	0	3	0		0	1	4	1	OPEC
+0	1	3	S	0	0	3	0		0	2	4	1	SITU
+1	0	0	#	0	4	3	0		1	3	4	0	
+0	1	4	I	0	4	3	1	IDS	0	4	9	1	ISNEITHER
+0	1	5	D	0	4	3	0		0	5	3	1	DUC
+0	1	6	S	0	4	3	0		0	6	4	1	SPOT
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	S	1	0	9	1	SPIESUPON	0	0	3	0	
+0	0	0	P	1	0	9	0		0	1	4	0	
+0	0	0	I	1	0	9	0		0	2	4	0	
+0	1	8	E	1	0	9	0		1	3	4	1	EIRE
+0	0	0	S	1	0	9	0		0	4	9	0	
+0	0	0	U	1	0	9	0		0	5	3	0	
+0	0	0	P	1	0	9	0		0	6	4	0	
+0	1	9	O	1	0	9	0		1	7	3	1	OMY
+0	1	10	N	1	0	9	0		1	8	3	1	NES
+0	1	11	N	2	0	9	1	NETINCOME	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	4	0	
+0	0	0	T	2	0	9	0		0	2	4	0	
+0	0	0	I	2	0	9	0		1	3	4	0	
+0	0	0	N	2	0	9	0		0	4	9	0	
+0	0	0	C	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	4	0	
+0	0	0	M	2	0	9	0		1	7	3	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	C	3	1	4	1	CURE	0	1	4	0	
+0	0	0	U	3	1	4	0		0	2	4	0	
+0	0	0	R	3	1	4	0		1	3	4	0	
+0	0	0	E	3	1	4	0		0	4	9	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	13	T	3	6	3	1	TYS	0	6	4	0	
+0	0	0	Y	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	E	4	3	3	1	EIK	1	3	4	0	
+0	0	0	I	4	3	3	0		0	4	9	0	
+0	1	15	K	4	3	3	0		4	5	4	1	KHAN
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	M	5	0	3	1	MMI	5	0	3	1	MTM
+0	1	17	M	5	0	3	0		5	1	3	1	MOE
+0	1	18	I	5	0	3	0		5	2	4	1	IMRE
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	19	T	5	4	4	1	THAW	0	4	9	0	
+0	0	0	H	5	4	4	0		4	5	4	0	
+0	1	20	A	5	4	4	0		5	6	4	1	AWAR
+0	1	21	W	5	4	4	0		5	7	4	1	WKRP
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	T	6	0	9	1	TOMAHAWKS	5	0	3	0	
+0	0	0	O	6	0	9	0		5	1	3	0	
+0	0	0	M	6	0	9	0		5	2	4	0	
+0	1	23	A	6	0	9	0		6	3	3	1	ACE
+0	0	0	H	6	0	9	0		0	4	9	0	
+0	0	0	A	6	0	9	0		4	5	4	0	
+0	0	0	W	6	0	9	0		5	6	4	0	
+0	0	0	K	6	0	9	0		5	7	4	0	
+0	1	24	S	6	0	9	0		6	8	3	1	SYS
+0	1	25	M	7	0	9	1	MERCENARY	5	0	3	0	
+0	0	0	E	7	0	9	0		5	1	3	0	
+0	0	0	R	7	0	9	0		5	2	4	0	
+0	0	0	C	7	0	9	0		6	3	3	0	
+0	0	0	E	7	0	9	0		0	4	9	0	
+0	0	0	N	7	0	9	0		4	5	4	0	
+0	0	0	A	7	0	9	0		5	6	4	0	
+0	0	0	R	7	0	9	0		5	7	4	0	
+0	0	0	Y	7	0	9	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	26	E	8	2	3	1	EER	5	2	4	0	
+0	0	0	E	8	2	3	0		6	3	3	0	
+0	0	0	R	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	27	R	8	6	3	1	RPS	5	6	4	0	
+0	0	0	P	8	6	3	0		5	7	4	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+13
+1	MOS	Calendar pgs.
+4	IDS	Picks out in a lineup, for short
+7	SPIESUPON	Monitors covertly
+11	NETINCOME	How much you really earned
+12	CURE	Make perfect again
+13	TYS	Baseball's Cobb and others
+14	EIK	Apt. feature, in the classifieds
+16	MMI	Famous movie year
+19	THAW	Microwave option
+22	TOMAHAWKS	Weapons on the warpath
+25	MERCENARY	Perfect job for Warren?
+26	EER	Suffix with mountain
+27	RPS	Spin meas.
+17
+1	MSN	Yahoo competitor
+2	OPEC	Oil cartel
+3	SITU	As originally placed, after "in"
+4	ISNEITHER	Definition, part 3
+5	DUC	Old gold coin
+6	SPOT	"Fix"
+8	EIRE	U2's home
+9	OMY	Record of 1947 "Peg ___ Heart"
+10	NES	Super ___ (old video game standard)
+15	KHAN	Villainous role for Montalb
+16	MTM	'70s sitcom producer
+17	MOE	1950's-70's pitcher Drabowsky
+18	IMRE	Hungary's Nagy
+20	AWAR	"Don't you know there's ___ on?"
+21	WKRP	Dr. Johnny Fever's station, in 1970s-'80s TV
+23	ACE	Perfect tennis serve
+24	SYS	Part of Awacs: Abbr.

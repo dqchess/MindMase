@@ -1,0 +1,241 @@
+grid_13x13_66
+13
+0	1	1	P	0	0	3	1	PSI	0	0	3	1	PEC
+0	1	2	S	0	0	3	0		0	1	3	1	SIL
+0	1	3	I	0	0	3	0		0	2	8	1	ICECHEST
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	A	0	5	3	1	ALT	0	5	3	1	ACS
+0	1	5	L	0	5	3	0		0	6	4	1	LITD
+0	1	6	T	0	5	3	0		0	7	5	1	TEHEE
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	H	0	9	3	1	HAJ	0	9	3	1	HHH
+0	1	8	A	0	9	3	0		0	10	4	1	ARAS
+0	1	9	J	0	9	3	0		0	11	4	1	JAIL
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	E	1	0	4	1	EICS	0	0	3	0	
+0	0	0	I	1	0	4	0		0	1	3	0	
+0	0	0	C	1	0	4	0		0	2	8	0	
+0	1	11	S	1	0	4	0		1	3	4	1	SADA
+1	0	0	#	1	5	3	0		2	4	4	0	
+0	1	12	C	1	5	3	1	CIE	0	5	3	0	
+0	0	0	I	1	5	3	0		0	6	4	0	
+0	0	0	E	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	4	0		2	8	4	0	
+0	1	13	H	1	9	4	1	HRAS	0	9	3	0	
+0	0	0	R	1	9	4	0		0	10	4	0	
+0	0	0	A	1	9	4	0		0	11	4	0	
+0	1	14	S	1	9	4	0		1	12	3	1	SRA
+0	1	15	C	2	0	13	1	CLEARSTHEHAIR	0	0	3	0	
+0	0	0	L	2	0	13	0		0	1	3	0	
+0	0	0	E	2	0	13	0		0	2	8	0	
+0	0	0	A	2	0	13	0		1	3	4	0	
+0	1	16	R	2	0	13	0		2	4	4	1	RLCG
+0	0	0	S	2	0	13	0		0	5	3	0	
+0	0	0	T	2	0	13	0		0	6	4	0	
+0	0	0	H	2	0	13	0		0	7	5	0	
+0	1	17	E	2	0	13	0		2	8	4	1	ELIO
+0	0	0	H	2	0	13	0		0	9	3	0	
+0	0	0	A	2	0	13	0		0	10	4	0	
+0	0	0	I	2	0	13	0		0	11	4	0	
+0	0	0	R	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	18	C	3	2	3	1	CDL	0	2	8	0	
+0	0	0	D	3	2	3	0		1	3	4	0	
+0	0	0	L	3	2	3	0		2	4	4	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	19	D	3	6	3	1	DEL	0	6	4	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	L	3	6	3	0		2	8	4	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	20	S	3	10	3	1	SLA	0	10	4	0	
+0	0	0	L	3	10	3	0		0	11	4	0	
+0	0	0	A	3	10	3	0		1	12	3	0	
+0	1	21	I	4	0	6	1	ITHACA	4	0	3	1	IIS
+0	1	22	T	4	0	6	0		4	1	4	1	TBSP
+0	0	0	H	4	0	6	0		0	2	8	0	
+0	0	0	A	4	0	6	0		1	3	4	0	
+0	0	0	C	4	0	6	0		2	4	4	0	
+0	1	23	A	4	0	6	0		4	5	3	1	AAH
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	24	E	4	7	3	1	EIK	0	7	5	0	
+0	0	0	I	4	7	3	0		2	8	4	0	
+0	1	25	K	4	7	3	0		4	9	3	1	KNX
+1	0	0	#	4	11	0	0		5	10	8	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	26	I	5	0	3	1	IBE	4	0	3	0	
+0	0	0	B	5	0	3	0		4	1	4	0	
+0	0	0	E	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	27	G	5	4	3	1	GAL	2	4	4	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	1	28	L	5	4	3	0		5	6	3	1	LAO
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	29	O	5	8	4	1	ONCE	2	8	4	0	
+0	0	0	N	5	8	4	0		4	9	3	0	
+0	1	30	C	5	8	4	0		5	10	8	1	CORNPOPS
+0	1	31	E	5	8	4	0		5	11	4	1	ERIC
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	32	S	6	0	4	1	SSSS	4	0	3	0	
+0	0	0	S	6	0	4	0		4	1	4	0	
+0	0	0	S	6	0	4	0		0	2	8	0	
+0	1	33	S	6	0	4	0		6	3	3	1	SEQ
+1	0	0	#	6	5	3	0		7	4	4	0	
+0	1	34	H	6	5	3	1	HAO	4	5	3	0	
+0	0	0	A	6	5	3	0		5	6	3	0	
+0	1	35	O	6	5	3	0		6	7	3	1	OFA
+1	0	0	#	6	9	4	0		7	8	4	0	
+0	1	36	X	6	9	4	1	XORO	4	9	3	0	
+0	0	0	O	6	9	4	0		5	10	8	0	
+0	0	0	R	6	9	4	0		5	11	4	0	
+0	1	37	O	6	9	4	0		6	12	3	1	OMY
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	38	P	7	1	4	1	PTER	4	1	4	0	
+0	0	0	T	7	1	4	0		0	2	8	0	
+0	0	0	E	7	1	4	0		6	3	3	0	
+0	1	39	R	7	1	4	0		7	4	4	1	RIFE
+1	0	0	#	7	6	3	0		8	5	5	0	
+0	1	40	O	7	6	3	1	OFE	5	6	3	0	
+0	0	0	F	7	6	3	0		6	7	3	0	
+0	1	41	E	7	6	3	0		7	8	4	1	EGIS
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	42	R	7	10	3	1	RIM	5	10	8	0	
+0	0	0	I	7	10	3	0		5	11	4	0	
+0	0	0	M	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	0	0		9	1	4	0	
+1	0	0	#	8	3	3	0		9	2	4	0	
+0	1	43	Q	8	3	3	1	QID	6	3	3	0	
+0	0	0	I	8	3	3	0		7	4	4	0	
+0	1	44	D	8	3	3	0		8	5	5	1	DILLY
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	45	A	8	7	6	1	AGENCY	6	7	3	0	
+0	0	0	G	8	7	6	0		7	8	4	0	
+0	1	46	E	8	7	6	0		8	9	4	1	EHLO
+0	0	0	N	8	7	6	0		5	10	8	0	
+0	0	0	C	8	7	6	0		5	11	4	0	
+0	0	0	Y	8	7	6	0		6	12	3	0	
+0	1	47	W	9	0	3	1	WWI	9	0	3	1	WTO
+0	1	48	W	9	0	3	0		9	1	4	1	WREN
+0	1	49	I	9	0	3	0		9	2	4	1	IANA
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	50	F	9	4	3	1	FIE	7	4	4	0	
+0	0	0	I	9	4	3	0		8	5	5	0	
+0	1	51	E	9	4	3	0		9	6	4	1	EEES
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	52	I	9	8	3	1	IHP	7	8	4	0	
+0	0	0	H	9	8	3	0		8	9	4	0	
+0	0	0	P	9	8	3	0		5	10	8	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	53	T	10	0	13	1	TRAVELERSLOGO	9	0	3	0	
+0	0	0	R	10	0	13	0		9	1	4	0	
+0	0	0	A	10	0	13	0		9	2	4	0	
+0	1	54	V	10	0	13	0		10	3	3	1	VSH
+0	0	0	E	10	0	13	0		7	4	4	0	
+0	0	0	L	10	0	13	0		8	5	5	0	
+0	0	0	E	10	0	13	0		9	6	4	0	
+0	1	55	R	10	0	13	0		10	7	3	1	REL
+0	0	0	S	10	0	13	0		7	8	4	0	
+0	0	0	L	10	0	13	0		8	9	4	0	
+0	0	0	O	10	0	13	0		5	10	8	0	
+0	1	56	G	10	0	13	0		10	11	3	1	GIA
+0	1	57	O	10	0	13	0		10	12	3	1	OAR
+0	1	58	O	11	0	4	1	OENS	9	0	3	0	
+0	0	0	E	11	0	4	0		9	1	4	0	
+0	0	0	N	11	0	4	0		9	2	4	0	
+0	0	0	S	11	0	4	0		10	3	3	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	59	L	11	5	3	1	LEE	8	5	5	0	
+0	0	0	E	11	5	3	0		9	6	4	0	
+0	0	0	E	11	5	3	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	60	O	11	9	4	1	OPIA	8	9	4	0	
+0	0	0	P	11	9	4	0		5	10	8	0	
+0	0	0	I	11	9	4	0		10	11	3	0	
+0	0	0	A	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	61	N	12	1	3	1	NAH	9	1	4	0	
+0	0	0	A	12	1	3	0		9	2	4	0	
+0	0	0	H	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	62	Y	12	5	3	1	YSL	8	5	5	0	
+0	0	0	S	12	5	3	0		9	6	4	0	
+0	0	0	L	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	63	S	12	10	3	1	SAR	5	10	8	0	
+0	0	0	A	12	10	3	0		10	11	3	0	
+0	0	0	R	12	10	3	0		10	12	3	0	
+33
+1	PSI	Chi's follower
+4	ALT	Cockpit datum: Abbr.
+7	HAJ	Journey to Mecca
+10	EICS	Hollywood's Roberts and others
+12	CIE	French co.
+13	HRAS	Round dances
+15	CLEARSTHEHAIR	Shampoos?
+18	CDL	Year Marcian became emperor
+19	DEL	Country-and-western singer Reeves
+20	SLA	Radical 1970s grp.
+21	ITHACA	Cornell's home
+24	EIK	Apt. feature, in the classifieds
+26	IBE	"May ___ excused?"
+27	GAL	"Sleepy Time ___" (1926 hit)
+29	ONCE	"The Raven" opening
+32	SSSS	Bacon sizzle
+34	HAO	Vietnamese coin
+36	XORO	Tic-tac-toe choice
+38	PTER	Feather: Prefix
+40	OFE	Just recently
+42	RIM	What a tire fits around
+43	QID	Four times a day, on an Rx
+45	AGENCY	Spook's employer, with "the"
+47	WWI	La Belle 
+50	FIE	"Tsk, tsk!"
+52	IHP	Restaurant chain since '58
+53	TRAVELERSLOGO	[ ]
+58	OENS	1936 Olympics hero
+59	LEE	Protection from a storm
+60	OPIA	Suffix with my-
+61	NAH	"Uh-uh!"
+62	YSL	Opium maker
+63	SAR	River across the French/German border
+35
+1	PEC	Muscle builder's muscle, for short
+2	SIL	Tony's consigliere on "The Sopranos"
+3	ICECHEST	Picnic staple
+4	ACS	Temp. reducers
+5	LITD	English professor's deg.
+6	TEHEE	Giggle
+7	HHH	L.B.J.'s veep
+8	ARAS	First king of Phliasia, in myth
+9	JAIL	Prison
+11	SADA	Tony-winning Thompson
+14	SRA	Tabasco title: Abbr.
+16	RLCG	Cockney greeting
+17	ELIO	Film director Petri
+21	IIS	"___ for Innocent" (Grafton novel)
+22	TBSP	15-ml unit
+23	AAH	Sound of delight
+25	KNX	1942-45 stats disseminator: Abbr.
+28	LAO	Pathet ___
+30	CORNPOPS	Kellogg's offering
+31	ERIC	Writer Ambler
+33	SEQ	Et ___ (and the following): Abbr.
+35	OFA	Son ___ gun
+37	OMY	Record of 1947 "Peg ___ Heart"
+39	RIFE	Abounding
+41	EGIS	Sponsorship: Var.
+44	DILLY	Ripsnorter
+46	EHLO	Craig of the N.B.A.
+47	WTO	GATT successor
+48	WREN	Astronomer-turned-architect
+49	IANA	Suffix for a collection
+51	EEES	Some shoes ... and a feature of this puzzle's theme
+54	VSH	One ___ time: 2 wds.
+55	REL	Fam. reunion attendee
+56	GIA	Already, in Italy
+57	OAR	Implement with a collar

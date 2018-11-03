@@ -1,0 +1,165 @@
+grid_11x11_92
+11
+0	1	1	H	0	0	5	1	HEROS	0	0	3	1	HAT
+0	1	2	E	0	0	5	0		0	1	11	1	EGOCENTRISM
+0	1	3	R	0	0	5	0		0	2	11	1	RHODEISLAND
+0	1	4	O	0	0	5	0		0	3	4	1	OATS
+0	1	5	S	0	0	5	0		0	4	3	1	SSE
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	6	A	0	7	3	1	AVA	0	7	5	1	ARNIE
+0	1	7	V	0	7	3	0		0	8	11	1	VIETNAMVETS
+0	1	8	A	0	7	3	0		0	9	11	1	AGOODMEANIE
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	9	A	1	0	6	1	AGHAST	0	0	3	0	
+0	0	0	G	1	0	6	0		0	1	11	0	
+0	0	0	H	1	0	6	0		0	2	11	0	
+0	0	0	A	1	0	6	0		0	3	4	0	
+0	0	0	S	1	0	6	0		0	4	3	0	
+0	1	10	T	1	0	6	0		1	5	9	1	TRITENESS
+1	0	0	#	1	7	3	0		2	6	0	0	
+0	1	11	R	1	7	3	1	RIG	0	7	5	0	
+0	0	0	I	1	7	3	0		0	8	11	0	
+0	0	0	G	1	7	3	0		0	9	11	0	
+1	0	0	#	1	11	0	0		2	10	5	0	
+0	1	12	T	2	0	6	1	TOOTER	0	0	3	0	
+0	0	0	O	2	0	6	0		0	1	11	0	
+0	0	0	O	2	0	6	0		0	2	11	0	
+0	0	0	T	2	0	6	0		0	3	4	0	
+0	0	0	E	2	0	6	0		0	4	3	0	
+0	0	0	R	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	13	N	2	7	4	1	NEOS	0	7	5	0	
+0	0	0	E	2	7	4	0		0	8	11	0	
+0	0	0	O	2	7	4	0		0	9	11	0	
+0	1	14	S	2	7	4	0		2	10	5	1	SKATE
+1	0	0	#	3	1	3	0		4	0	5	0	
+0	1	15	C	3	1	3	1	CDS	0	1	11	0	
+0	0	0	D	3	1	3	0		0	2	11	0	
+0	0	0	S	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	6	0		4	4	0	0	
+0	1	16	I	3	5	6	1	ISITOK	1	5	9	0	
+0	1	17	S	3	5	6	0		3	6	3	1	SIR
+0	0	0	I	3	5	6	0		0	7	5	0	
+0	0	0	T	3	5	6	0		0	8	11	0	
+0	0	0	O	3	5	6	0		0	9	11	0	
+0	0	0	K	3	5	6	0		2	10	5	0	
+0	1	18	N	4	0	3	1	NEE	4	0	5	1	NAIAD
+0	0	0	E	4	0	3	0		0	1	11	0	
+0	0	0	E	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	3	0	
+0	1	19	T	4	5	6	1	TIENDA	1	5	9	0	
+0	0	0	I	4	5	6	0		3	6	3	0	
+0	0	0	E	4	5	6	0		0	7	5	0	
+0	0	0	N	4	5	6	0		0	8	11	0	
+0	0	0	D	4	5	6	0		0	9	11	0	
+0	0	0	A	4	5	6	0		2	10	5	0	
+0	1	20	A	5	0	3	1	ANI	4	0	5	0	
+0	0	0	N	5	0	3	0		0	1	11	0	
+0	0	0	I	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	21	P	5	4	3	1	PER	5	4	3	1	PUN
+0	0	0	E	5	4	3	0		1	5	9	0	
+0	0	0	R	5	4	3	0		3	6	3	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	22	A	5	8	3	1	AMT	0	8	11	0	
+0	0	0	M	5	8	3	0		0	9	11	0	
+0	0	0	T	5	8	3	0		2	10	5	0	
+0	1	23	I	6	0	6	1	ITSFUN	4	0	5	0	
+0	0	0	T	6	0	6	0		0	1	11	0	
+0	0	0	S	6	0	6	0		0	2	11	0	
+0	1	24	F	6	0	6	0		6	3	5	1	FELLS
+0	0	0	U	6	0	6	0		5	4	3	0	
+0	0	0	N	6	0	6	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	25	M	6	8	3	1	MEE	0	8	11	0	
+0	0	0	E	6	8	3	0		0	9	11	0	
+0	0	0	E	6	8	3	0		2	10	5	0	
+0	1	26	A	7	0	6	1	ARLENE	4	0	5	0	
+0	0	0	R	7	0	6	0		0	1	11	0	
+0	0	0	L	7	0	6	0		0	2	11	0	
+0	0	0	E	7	0	6	0		6	3	5	0	
+0	0	0	N	7	0	6	0		5	4	3	0	
+0	0	0	E	7	0	6	0		1	5	9	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	27	O	7	7	3	1	OVA	7	7	4	1	ORAL
+0	0	0	V	7	7	3	0		0	8	11	0	
+0	0	0	A	7	7	3	0		0	9	11	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	D	8	0	4	1	DIAL	4	0	5	0	
+0	0	0	I	8	0	4	0		0	1	11	0	
+0	0	0	A	8	0	4	0		0	2	11	0	
+0	0	0	L	8	0	4	0		6	3	5	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	29	S	8	5	6	1	SERENA	1	5	9	0	
+0	1	30	E	8	5	6	0		8	6	3	1	ETE
+0	0	0	R	8	5	6	0		7	7	4	0	
+0	0	0	E	8	5	6	0		0	8	11	0	
+0	0	0	N	8	5	6	0		0	9	11	0	
+0	1	31	A	8	5	6	0		8	10	3	1	ACS
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	32	S	9	1	3	1	SNL	0	1	11	0	
+0	0	0	N	9	1	3	0		0	2	11	0	
+0	0	0	L	9	1	3	0		6	3	5	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	33	S	9	5	6	1	STATIC	1	5	9	0	
+0	0	0	T	9	5	6	0		8	6	3	0	
+0	0	0	A	9	5	6	0		7	7	4	0	
+0	0	0	T	9	5	6	0		0	8	11	0	
+0	0	0	I	9	5	6	0		0	9	11	0	
+0	0	0	C	9	5	6	0		8	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	34	M	10	1	3	1	MDS	0	1	11	0	
+0	0	0	D	10	1	3	0		0	2	11	0	
+0	0	0	S	10	1	3	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	5	0		11	5	0	0	
+0	1	35	E	10	6	5	1	ELSES	8	6	3	0	
+0	0	0	L	10	6	5	0		7	7	4	0	
+0	0	0	S	10	6	5	0		0	8	11	0	
+0	0	0	E	10	6	5	0		0	9	11	0	
+0	0	0	S	10	6	5	0		8	10	3	0	
+23
+1	HEROS	Alternatives to wraps
+6	AVA	Gardner of the silver screen
+9	AGHAST	Shocked
+11	RIG	Horse and buggy
+12	TOOTER	Whistle blower
+13	NEOS	Revivalists, informally
+15	CDS	PC inserts
+16	ISITOK	"Would you mind ...?"
+18	NEE	Wedding notice word
+19	TIENDA	Nuevo Laredo store
+20	ANI	Folk rocker DiFranco
+21	PER	Minute or hour preceder
+22	AMT	No. on a check
+23	ITSFUN	"You'll enjoy this"
+25	MEE	English author and editor Arthur ___
+26	ARLENE	Dahl or Francis
+27	OVA	Seeds
+28	DIAL	Zest alternative
+29	SERENA	Samantha's cousin on "Bewitched"
+32	SNL	News satire source, briefly
+33	STATIC	Criticism, so to speak
+34	MDS	"ER" roles, briefly
+35	ELSES	"Someone ___ America" (1996 film)
+17
+1	HAT	This may be over your head
+2	EGOCENTRISM	Possible alternative title for this puzzle
+3	RHODEISLAND	The Ocean State
+4	OATS	Wild ones may be sown
+5	SSE	Course setting: Abbr.
+6	ARNIE	___ Becker, "L.A. Law" role
+7	VIETNAMVETS	John McCain and John Kerry
+8	AGOODMEANIE	Bully turned Samaritan?
+10	TRITENESS	Platitude
+14	SKATE	Rink need
+17	SIR	Word before and after "yes"
+18	NAIAD	Charybdis, e.g.
+21	PUN	Equivoque
+24	FELLS	Gives the coup de gr
+27	ORAL	Like some history
+30	ETE	French quarter?
+31	ACS	Coolers, for short

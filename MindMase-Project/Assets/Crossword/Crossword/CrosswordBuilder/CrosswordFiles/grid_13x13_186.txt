@@ -1,0 +1,227 @@
+grid_13x13_186
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	W	0	2	3	1	WEA	0	2	7	1	WHITEST
+0	1	2	E	0	2	3	0		0	3	3	1	EAR
+0	1	3	A	0	2	3	0		0	4	4	1	ATOE
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	3	0		1	6	11	0	
+0	1	4	I	0	7	3	1	ILS	0	7	3	1	INE
+0	1	5	L	0	7	3	0		0	8	3	1	LON
+0	1	6	S	0	7	3	0		0	9	3	1	SOS
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	11	0		2	0	0	0	
+0	1	7	C	1	1	11	1	CHATTANOOGA	1	1	6	1	CATENA
+0	0	0	H	1	1	11	0		0	2	7	0	
+0	0	0	A	1	1	11	0		0	3	3	0	
+0	0	0	T	1	1	11	0		0	4	4	0	
+0	1	8	T	1	1	11	0		1	5	3	1	TFX
+0	1	9	A	1	1	11	0		1	6	11	1	AFTERASKORT
+0	0	0	N	1	1	11	0		0	7	3	0	
+0	0	0	O	1	1	11	0		0	8	3	0	
+0	0	0	O	1	1	11	0		0	9	3	0	
+0	1	10	G	1	1	11	0		1	10	4	1	GIGI
+0	1	11	A	1	1	11	0		1	11	4	1	AVON
+1	0	0	#	1	13	0	0		2	12	3	0	
+1	0	0	#	2	1	12	0		3	0	3	0	
+0	1	12	A	2	1	12	1	AIROFFENSIVE	1	1	6	0	
+0	0	0	I	2	1	12	0		0	2	7	0	
+0	0	0	R	2	1	12	0		0	3	3	0	
+0	0	0	O	2	1	12	0		0	4	4	0	
+0	0	0	F	2	1	12	0		1	5	3	0	
+0	0	0	F	2	1	12	0		1	6	11	0	
+0	0	0	E	2	1	12	0		0	7	3	0	
+0	0	0	N	2	1	12	0		0	8	3	0	
+0	0	0	S	2	1	12	0		0	9	3	0	
+0	0	0	I	2	1	12	0		1	10	4	0	
+0	0	0	V	2	1	12	0		1	11	4	0	
+0	1	13	E	2	1	12	0		2	12	3	1	ENG
+0	1	14	T	3	0	3	1	TTT	3	0	3	1	TSA
+0	0	0	T	3	0	3	0		1	1	6	0	
+0	0	0	T	3	0	3	0		0	2	7	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	15	E	3	4	3	1	EXT	0	4	4	0	
+0	0	0	X	3	4	3	0		1	5	3	0	
+0	0	0	T	3	4	3	0		1	6	11	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	16	G	3	10	3	1	GON	1	10	4	0	
+0	0	0	O	3	10	3	0		1	11	4	0	
+0	0	0	N	3	10	3	0		2	12	3	0	
+0	1	17	S	4	0	3	1	SEE	3	0	3	0	
+0	0	0	E	4	0	3	0		1	1	6	0	
+0	0	0	E	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	7	0		5	5	4	0	
+0	1	18	E	4	6	7	1	EDITING	1	6	11	0	
+0	1	19	D	4	6	7	0		4	7	4	1	DISS
+0	1	20	I	4	6	7	0		4	8	4	1	ISTO
+0	1	21	T	4	6	7	0		4	9	3	1	TAO
+0	0	0	I	4	6	7	0		1	10	4	0	
+0	0	0	N	4	6	7	0		1	11	4	0	
+0	0	0	G	4	6	7	0		2	12	3	0	
+0	1	22	A	5	0	3	1	ANS	3	0	3	0	
+0	0	0	N	5	0	3	0		1	1	6	0	
+0	0	0	S	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	6	0		6	3	3	0	
+0	1	23	M	5	4	6	1	MARISA	5	4	4	1	MUTI
+0	1	24	A	5	4	6	0		5	5	4	1	APIA
+0	0	0	R	5	4	6	0		1	6	11	0	
+0	0	0	I	5	4	6	0		4	7	4	0	
+0	0	0	S	5	4	6	0		4	8	4	0	
+0	0	0	A	5	4	6	0		4	9	3	0	
+1	0	0	#	5	11	0	0		6	10	7	0	
+1	0	0	#	5	12	0	0		6	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	11	0		7	0	0	0	
+0	1	25	A	6	1	11	1	ATEUPASTORM	1	1	6	0	
+0	0	0	T	6	1	11	0		0	2	7	0	
+0	1	26	E	6	1	11	0		6	3	3	1	EIN
+0	0	0	U	6	1	11	0		5	4	4	0	
+0	0	0	P	6	1	11	0		5	5	4	0	
+0	0	0	A	6	1	11	0		1	6	11	0	
+0	0	0	S	6	1	11	0		4	7	4	0	
+0	0	0	T	6	1	11	0		4	8	4	0	
+0	0	0	O	6	1	11	0		4	9	3	0	
+0	1	27	R	6	1	11	0		6	10	7	1	REFUSES
+0	1	28	M	6	1	11	0		6	11	6	1	MORASS
+1	0	0	#	6	13	0	0		7	12	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	4	0	
+1	0	0	#	7	3	6	0		8	2	4	0	
+0	1	29	I	7	3	6	1	ITISSO	6	3	3	0	
+0	0	0	T	7	3	6	0		5	4	4	0	
+0	0	0	I	7	3	6	0		5	5	4	0	
+0	0	0	S	7	3	6	0		1	6	11	0	
+0	0	0	S	7	3	6	0		4	7	4	0	
+0	0	0	O	7	3	6	0		4	8	4	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	30	E	7	10	3	1	EOE	6	10	7	0	
+0	0	0	O	7	10	3	0		6	11	6	0	
+0	1	31	E	7	10	3	0		7	12	3	1	EEE
+0	1	32	W	8	0	7	1	WOZNIAK	8	0	3	1	WEI
+0	1	33	O	8	0	7	0		8	1	4	1	OMRI
+0	1	34	Z	8	0	7	0		8	2	4	1	ZORN
+0	0	0	N	8	0	7	0		6	3	3	0	
+0	0	0	I	8	0	7	0		5	4	4	0	
+0	0	0	A	8	0	7	0		5	5	4	0	
+0	0	0	K	8	0	7	0		1	6	11	0	
+1	0	0	#	8	8	0	0		9	7	3	0	
+1	0	0	#	8	9	0	0		9	8	4	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	35	F	8	10	3	1	FRE	6	10	7	0	
+0	0	0	R	8	10	3	0		6	11	6	0	
+0	0	0	E	8	10	3	0		7	12	3	0	
+0	1	36	E	9	0	3	1	EMO	8	0	3	0	
+0	0	0	M	9	0	3	0		8	1	4	0	
+0	0	0	O	9	0	3	0		8	2	4	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	37	O	9	6	3	1	OTC	1	6	11	0	
+0	1	38	T	9	6	3	0		9	7	3	1	TDP
+0	1	39	C	9	6	3	0		9	8	4	1	CLOG
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	40	U	9	10	3	1	UAE	6	10	7	0	
+0	0	0	A	9	10	3	0		6	11	6	0	
+0	0	0	E	9	10	3	0		7	12	3	0	
+0	1	41	I	10	0	12	1	IRREGARDLESS	8	0	3	0	
+0	0	0	R	10	0	12	0		8	1	4	0	
+0	0	0	R	10	0	12	0		8	2	4	0	
+0	1	42	E	10	0	12	0		10	3	3	1	ETD
+0	1	43	G	10	0	12	0		10	4	3	1	GEE
+0	1	44	A	10	0	12	0		10	5	3	1	ANC
+0	0	0	R	10	0	12	0		1	6	11	0	
+0	0	0	D	10	0	12	0		9	7	3	0	
+0	0	0	L	10	0	12	0		9	8	4	0	
+0	1	45	E	10	0	12	0		10	9	3	1	ELM
+0	0	0	S	10	0	12	0		6	10	7	0	
+0	0	0	S	10	0	12	0		6	11	6	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+1	0	0	#	11	1	11	0		12	0	0	0	
+0	1	46	I	11	1	11	1	INTENTPOLES	8	1	4	0	
+0	0	0	N	11	1	11	0		8	2	4	0	
+0	0	0	T	11	1	11	0		10	3	3	0	
+0	0	0	E	11	1	11	0		10	4	3	0	
+0	0	0	N	11	1	11	0		10	5	3	0	
+0	0	0	T	11	1	11	0		1	6	11	0	
+0	0	0	P	11	1	11	0		9	7	3	0	
+0	0	0	O	11	1	11	0		9	8	4	0	
+0	0	0	L	11	1	11	0		10	9	3	0	
+0	0	0	E	11	1	11	0		6	10	7	0	
+0	0	0	S	11	1	11	0		6	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	47	D	12	3	3	1	DEC	10	3	3	0	
+0	0	0	E	12	3	3	0		10	4	3	0	
+0	0	0	C	12	3	3	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	48	G	12	8	3	1	GMS	9	8	4	0	
+0	0	0	M	12	8	3	0		10	9	3	0	
+0	0	0	S	12	8	3	0		6	10	7	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+23
+1	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+4	ILS	They, to Th
+7	CHATTANOOGA	Grant vs. Bragg, Nov. 1863
+12	AIROFFENSIVE	Series of sorties
+14	TTT	Fort Smith-to-Little Rock dir.
+15	EXT	Bus. line
+16	GON	Angled: Suffix
+17	SEE	Catch
+18	EDITING	Cleaning up, in a way
+22	ANS	Retort: Abbr.
+23	MARISA	"General Hospital" actress Ramirez
+25	ATEUPASTORM	Gorged, gorged and gorged some more, informally
+29	ITISSO	"Yea"
+30	EOE	Classified ad letters
+32	WOZNIAK	Apple computer co-founder
+35	FRE	Boatload
+36	EMO	Dashboard Confessional's genre
+37	OTC	Stock page heading: Abbr.
+40	UAE	OPEC member: Abbr.
+41	IRREGARDLESS	*No matter
+46	INTENTPOLES	Sharply focused Warsaw residents?
+47	DEC	Mo. of the year
+48	GMS	Team V.I.P.'s
+31
+1	WHITEST	Like ideal teeth
+2	EAR	Musician's pride
+3	ATOE	Stick ___ in the water
+4	INE	Sex-changing suffix
+5	LON	Basketball coach Kruger
+6	SOS	Urgent message
+7	CATENA	Connected series
+8	TFX	Summer, in France
+9	AFTERASKORT	Seeking the right women's tennis attire?
+10	GIGI	1958 movie musical
+11	AVON	Stratford's river
+13	ENG	H.S. requirement
+14	TSA	Agcy. with a list of prohibited items
+19	DISS	Univ. paper
+20	ISTO	Ratio phrase
+21	TAO	"___ Te Ching" (old Chinese text)
+23	MUTI	Longtime La Scala music director
+24	APIA	Samoan capital
+26	EIN	"Ich bin ___ Berliner"
+27	REFUSES	Turns down
+28	MORASS	Mire
+31	EEE	Oxford letters
+32	WEI	Chinese dynasty name
+33	OMRI	Katz of "Dallas"
+34	ZORN	N.F.L. coach Jim
+38	TDP	Group formed at C.C.N.Y. in 1910
+39	CLOG	Block
+42	ETD	J.F.K. info
+43	GEE	"Wow, I didn't know that!"
+44	ANC	Org. banned from 1960 to 1990
+45	ELM	Stately shader

@@ -1,0 +1,303 @@
+grid_15x15_9
+15
+0	1	1	H	0	0	5	1	HECKS	0	0	3	1	HCL
+0	1	2	E	0	0	5	0		0	1	4	1	EHEL
+0	1	3	C	0	0	5	0		0	2	10	1	CEASEFIRES
+0	1	4	K	0	0	5	0		0	3	9	1	KEPTWOMEN
+0	1	5	S	0	0	5	0		0	4	3	1	SSS
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	6	B	0	6	3	1	BUS	0	6	4	1	BEVY
+0	1	7	U	0	6	3	0		0	7	15	1	USETHETELEPHONE
+0	1	8	S	0	6	3	0		0	8	3	1	STR
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	9	F	0	10	3	1	FRI	0	10	7	1	FLENSES
+0	1	10	R	0	10	3	0		0	11	4	1	RUNG
+0	1	11	I	0	10	3	0		0	12	4	1	IALL
+1	0	0	#	0	14	0	0		1	13	3	0	
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	12	C	1	0	9	1	CHEESIEST	0	0	3	0	
+0	0	0	H	1	0	9	0		0	1	4	0	
+0	0	0	E	1	0	9	0		0	2	10	0	
+0	0	0	E	1	0	9	0		0	3	9	0	
+0	0	0	S	1	0	9	0		0	4	3	0	
+0	1	13	I	1	0	9	0		1	5	3	1	ION
+0	0	0	E	1	0	9	0		0	6	4	0	
+0	0	0	S	1	0	9	0		0	7	15	0	
+0	0	0	T	1	0	9	0		0	8	3	0	
+1	0	0	#	1	10	5	0		2	9	0	0	
+0	1	14	L	1	10	5	1	LUAUS	0	10	7	0	
+0	0	0	U	1	10	5	0		0	11	4	0	
+0	0	0	A	1	10	5	0		0	12	4	0	
+0	1	15	U	1	10	5	0		1	13	3	1	UAE
+0	1	16	S	1	10	5	0		1	14	3	1	SIR
+0	1	17	L	2	0	9	1	LEAPSOVER	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	4	0	
+0	0	0	A	2	0	9	0		0	2	10	0	
+0	0	0	P	2	0	9	0		0	3	9	0	
+0	0	0	S	2	0	9	0		0	4	3	0	
+0	0	0	O	2	0	9	0		1	5	3	0	
+0	0	0	V	2	0	9	0		0	6	4	0	
+0	0	0	E	2	0	9	0		0	7	15	0	
+0	0	0	R	2	0	9	0		0	8	3	0	
+1	0	0	#	2	10	5	0		3	9	7	0	
+0	1	18	E	2	10	5	1	ENLAI	0	10	7	0	
+0	0	0	N	2	10	5	0		0	11	4	0	
+0	0	0	L	2	10	5	0		0	12	4	0	
+0	0	0	A	2	10	5	0		1	13	3	0	
+0	0	0	I	2	10	5	0		1	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	19	L	3	1	3	1	LST	0	1	4	0	
+0	0	0	S	3	1	3	0		0	2	10	0	
+0	0	0	T	3	1	3	0		0	3	9	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	20	N	3	5	3	1	NYT	1	5	3	0	
+0	0	0	Y	3	5	3	0		0	6	4	0	
+0	0	0	T	3	5	3	0		0	7	15	0	
+1	0	0	#	3	9	6	0		4	8	4	0	
+0	1	21	A	3	9	6	1	ANGLER	3	9	7	1	ARIOSOS
+0	0	0	N	3	9	6	0		0	10	7	0	
+0	0	0	G	3	9	6	0		0	11	4	0	
+0	0	0	L	3	9	6	0		0	12	4	0	
+0	0	0	E	3	9	6	0		1	13	3	0	
+0	0	0	R	3	9	6	0		1	14	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	3	0		5	1	5	0	
+0	1	22	E	4	2	3	1	EWR	0	2	10	0	
+0	0	0	W	4	2	3	0		0	3	9	0	
+0	1	23	R	4	2	3	0		4	4	3	1	ROK
+1	0	0	#	4	6	0	0		5	5	7	0	
+1	0	0	#	4	7	4	0		5	6	0	0	
+0	1	24	H	4	7	4	1	HARS	0	7	15	0	
+0	1	25	A	4	7	4	0		4	8	4	1	ARTR
+0	0	0	R	4	7	4	0		3	9	7	0	
+0	0	0	S	4	7	4	0		0	10	7	0	
+1	0	0	#	4	12	0	0		5	11	0	0	
+1	0	0	#	4	13	0	0		5	12	10	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	5	0		6	0	0	0	
+0	1	26	A	5	1	5	1	AFOOT	5	1	5	1	ASLIP
+0	0	0	F	5	1	5	0		0	2	10	0	
+0	0	0	O	5	1	5	0		0	3	9	0	
+0	0	0	O	5	1	5	0		4	4	3	0	
+0	1	27	T	5	1	5	0		5	5	7	1	TAPINTO
+1	0	0	#	5	7	4	0		6	6	0	0	
+0	1	28	E	5	7	4	1	ERIE	0	7	15	0	
+0	0	0	R	5	7	4	0		4	8	4	0	
+0	0	0	I	5	7	4	0		3	9	7	0	
+0	0	0	E	5	7	4	0		0	10	7	0	
+1	0	0	#	5	12	3	0		6	11	9	0	
+0	1	29	C	5	12	3	1	CIE	5	12	10	1	COMEUSHORT
+0	1	30	I	5	12	3	0		5	13	5	1	INARS
+0	1	31	E	5	12	3	0		5	14	3	1	EEN
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	32	S	6	1	5	1	SIMKA	5	1	5	0	
+0	0	0	I	6	1	5	0		0	2	10	0	
+0	0	0	M	6	1	5	0		0	3	9	0	
+0	0	0	K	6	1	5	0		4	4	3	0	
+0	0	0	A	6	1	5	0		5	5	7	0	
+1	0	0	#	6	7	8	0		7	6	4	0	
+0	1	33	T	6	7	8	1	TTOSTONE	0	7	15	0	
+0	0	0	T	6	7	8	0		4	8	4	0	
+0	0	0	O	6	7	8	0		3	9	7	0	
+0	0	0	S	6	7	8	0		0	10	7	0	
+0	1	34	T	6	7	8	0		6	11	9	1	TESTCASES
+0	0	0	O	6	7	8	0		5	12	10	0	
+0	0	0	N	6	7	8	0		5	13	5	0	
+0	0	0	E	6	7	8	0		5	14	3	0	
+0	1	35	I	7	0	4	1	ILRE	7	0	3	1	IBO
+0	0	0	L	7	0	4	0		5	1	5	0	
+0	0	0	R	7	0	4	0		0	2	10	0	
+0	0	0	E	7	0	4	0		0	3	9	0	
+1	0	0	#	7	5	5	0		8	4	7	0	
+0	1	36	P	7	5	5	1	PBERS	5	5	7	0	
+0	1	37	B	7	5	5	0		7	6	4	1	BARA
+0	0	0	E	7	5	5	0		0	7	15	0	
+0	0	0	R	7	5	5	0		4	8	4	0	
+0	0	0	S	7	5	5	0		3	9	7	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	38	E	7	11	4	1	EMAN	6	11	9	0	
+0	0	0	M	7	11	4	0		5	12	10	0	
+0	0	0	A	7	11	4	0		5	13	5	0	
+0	0	0	N	7	11	4	0		5	14	3	0	
+0	1	39	B	8	0	8	1	BIENNIAL	7	0	3	0	
+0	0	0	I	8	0	8	0		5	1	5	0	
+0	0	0	E	8	0	8	0		0	2	10	0	
+0	0	0	N	8	0	8	0		0	3	9	0	
+0	1	40	N	8	0	8	0		8	4	7	1	NIALONG
+0	0	0	I	8	0	8	0		5	5	7	0	
+0	0	0	A	8	0	8	0		7	6	4	0	
+0	0	0	L	8	0	8	0		0	7	15	0	
+1	0	0	#	8	9	5	0		9	8	0	0	
+0	1	41	O	8	9	5	1	ORSER	3	9	7	0	
+0	1	42	R	8	9	5	0		8	10	3	1	REO
+0	0	0	S	8	9	5	0		6	11	9	0	
+0	0	0	E	8	9	5	0		5	12	10	0	
+0	0	0	R	8	9	5	0		5	13	5	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	43	O	9	0	3	1	OPS	7	0	3	0	
+0	0	0	P	9	0	3	0		5	1	5	0	
+0	0	0	S	9	0	3	0		0	2	10	0	
+1	0	0	#	9	4	4	0		10	3	0	0	
+0	1	44	I	9	4	4	1	INRE	8	4	7	0	
+0	0	0	N	9	4	4	0		5	5	7	0	
+0	0	0	R	9	4	4	0		7	6	4	0	
+0	0	0	E	9	4	4	0		0	7	15	0	
+1	0	0	#	9	9	5	0		10	8	0	0	
+0	1	45	S	9	9	5	1	SETUS	3	9	7	0	
+0	0	0	E	9	9	5	0		8	10	3	0	
+0	0	0	T	9	9	5	0		6	11	9	0	
+0	0	0	U	9	9	5	0		5	12	10	0	
+0	0	0	S	9	9	5	0		5	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	0	0		11	1	3	0	
+1	0	0	#	10	3	0	0		11	2	4	0	
+1	0	0	#	10	4	4	0		11	3	4	0	
+0	1	46	A	10	4	4	1	ATAP	8	4	7	0	
+0	0	0	T	10	4	4	0		5	5	7	0	
+0	0	0	A	10	4	4	0		7	6	4	0	
+0	0	0	P	10	4	4	0		0	7	15	0	
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	3	0		11	9	3	0	
+0	1	47	O	10	10	3	1	OCS	8	10	3	0	
+0	0	0	C	10	10	3	0		6	11	9	0	
+0	0	0	S	10	10	3	0		5	12	10	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	48	T	11	0	6	1	TRILLO	11	0	3	1	TLC
+0	1	49	R	11	0	6	0		11	1	3	1	RAS
+0	1	50	I	11	0	6	0		11	2	4	1	ISPS
+0	1	51	L	11	0	6	0		11	3	4	1	LSAT
+0	0	0	L	11	0	6	0		8	4	7	0	
+0	0	0	O	11	0	6	0		5	5	7	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	52	H	11	7	3	1	HMS	0	7	15	0	
+0	1	53	M	11	7	3	0		11	8	4	1	MIRA
+0	1	54	S	11	7	3	0		11	9	3	1	SNE
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	55	A	11	11	3	1	AHH	6	11	9	0	
+0	0	0	H	11	11	3	0		5	12	10	0	
+0	1	56	H	11	11	3	0		11	13	4	1	HUSH
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	L	12	0	5	1	LASSO	11	0	3	0	
+0	0	0	A	12	0	5	0		11	1	3	0	
+0	0	0	S	12	0	5	0		11	2	4	0	
+0	0	0	S	12	0	5	0		11	3	4	0	
+0	0	0	O	12	0	5	0		8	4	7	0	
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	58	P	12	6	9	1	POINTSOUT	12	6	3	1	PIU
+0	0	0	O	12	6	9	0		0	7	15	0	
+0	0	0	I	12	6	9	0		11	8	4	0	
+0	0	0	N	12	6	9	0		11	9	3	0	
+0	1	59	T	12	6	9	0		12	10	3	1	TVA
+0	0	0	S	12	6	9	0		6	11	9	0	
+0	0	0	O	12	6	9	0		5	12	10	0	
+0	0	0	U	12	6	9	0		11	13	4	0	
+0	1	60	T	12	6	9	0		12	14	3	1	TEE
+0	1	61	C	13	0	5	1	CSPAN	11	0	3	0	
+0	0	0	S	13	0	5	0		11	1	3	0	
+0	0	0	P	13	0	5	0		11	2	4	0	
+0	0	0	A	13	0	5	0		11	3	4	0	
+0	0	0	N	13	0	5	0		8	4	7	0	
+1	0	0	#	13	6	9	0		14	5	0	0	
+0	1	62	I	13	6	9	1	INREVERSE	12	6	3	0	
+0	0	0	N	13	6	9	0		0	7	15	0	
+0	0	0	R	13	6	9	0		11	8	4	0	
+0	0	0	E	13	6	9	0		11	9	3	0	
+0	0	0	V	13	6	9	0		12	10	3	0	
+0	0	0	E	13	6	9	0		6	11	9	0	
+0	0	0	R	13	6	9	0		5	12	10	0	
+0	0	0	S	13	6	9	0		11	13	4	0	
+0	0	0	E	13	6	9	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	63	S	14	2	3	1	STG	11	2	4	0	
+0	0	0	T	14	2	3	0		11	3	4	0	
+0	0	0	G	14	2	3	0		8	4	7	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	64	U	14	6	3	1	UEA	12	6	3	0	
+0	0	0	E	14	6	3	0		0	7	15	0	
+0	0	0	A	14	6	3	0		11	8	4	0	
+1	0	0	#	14	10	5	0		15	9	0	0	
+0	1	65	A	14	10	5	1	ASTHE	12	10	3	0	
+0	0	0	S	14	10	5	0		6	11	9	0	
+0	0	0	T	14	10	5	0		5	12	10	0	
+0	0	0	H	14	10	5	0		11	13	4	0	
+0	0	0	E	14	10	5	0		12	14	3	0	
+37
+1	HECKS	Minced oaths
+6	BUS	Something to take a pass on
+9	FRI	Something many people look forward to: Abbr.
+12	CHEESIEST	Most inferior in quality
+14	LUAUS	Parties with a whole lot of shaking going on
+17	LEAPSOVER	Hurdles
+18	ENLAI	Name in Chinese politics
+19	LST	W.W. II vessel
+20	NYT	W.S.J. rival
+21	ANGLER	One with a hook, line and sinker
+22	EWR	Airport alternative to JFK or LGA
+24	HARS	Winter frosts
+26	AFOOT	Underway
+28	ERIE	War of 1812 siege site
+29	CIE	Cannes co.
+32	SIMKA	Carol Kane's role on "Taxi"
+33	TTOSTONE	Petrify
+35	ILRE	"___ Pastore" (Mozart opera)
+36	PBERS	Bally enthusiasts
+38	EMAN	Like squads in arena football
+39	BIENNIAL	Like House elections
+41	ORSER	Brian of figure skating
+43	OPS	Photo ___ (when pictures may be taken)
+44	INRE	With respect to
+45	SETUS	Arrangements
+46	ATAP	"___ at the pane": Robert Browning
+47	OCS	Place for future Lts.
+48	TRILLO	Manny of 1970s-'80s baseball
+52	HMS	Bounty letters
+55	AHH	"Feels so good!"
+57	LASSO	Rope, cowboy-style
+58	POINTSOUT	Highlights
+61	CSPAN	Hearing shower
+62	INREVERSE	Ready to go back
+63	STG	Brit. money
+64	UEA	Pupil's place
+65	ASTHE	"___ Girls Go" (1948 musical)
+37
+1	HCL	Corrosive chemical, to a chemist
+2	EHEL	Jazzy Waters
+3	CEASEFIRES	Engagement breakers?
+4	KEPTWOMEN	Side dishes?
+5	SSS	Sound of bacon frying
+6	BEVY	Bunch
+7	USETHETELEPHONE	Make a call
+8	STR	Bering, e.g.: Abbr.
+9	FLENSES	Strips blubber
+10	RUNG	Ladder step
+11	IALL	"___ show you!"
+13	ION	Kind of exchange
+15	UAE	Sharjah's fed.
+16	SIR	Round Table honorific
+21	ARIOSOS	Some operatic songs
+23	ROK	Early '50s soldier
+25	ARTR	1981 hit film with a 5'3" lead actor
+26	ASLIP	"There's many ___ 'twixt ..."
+27	TAPINTO	Use as a resource
+29	COMEUSHORT	Prove lacking
+30	INARS	How jams are stored
+31	EEN	Dark time for poets
+34	TESTCASES	Roe v. Wade et al.
+35	IBO	Nigerian native
+37	BARA	1910's film star known as The Vamp
+40	NIALONG	"Soul Food" actress, 1997
+42	REO	Royale automaker
+48	TLC	Lots of hugs, in brief
+49	RAS	___ Dashan (highest point in Ethiopia)
+50	ISPS	AOL and others, in brief
+51	LSAT	Future J.D.'s obstacle
+53	MIRA	Star in Cetus
+54	SNE	1983 Indy winner Tom
+56	HUSH	"That's enough out of you!"
+58	PIU	"Non ___ andrai" (Figaro aria)
+59	TVA	Constructor of many dams: Abbr.
+60	TEE	___ time

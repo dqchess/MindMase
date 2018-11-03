@@ -1,0 +1,117 @@
+grid_9x9_132
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	U	0	1	3	1	UAW	0	1	4	1	ULAN
+0	1	2	A	0	1	3	0		0	2	4	1	AOUT
+0	1	3	W	0	1	3	0		0	3	3	1	WGN
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	B	0	6	3	1	BAA	0	6	4	1	BEIT
+0	1	5	A	0	6	3	0		0	7	4	1	ACNE
+0	1	6	A	0	6	3	0		0	8	3	1	AUG
+0	1	7	F	1	0	5	1	FLOGS	1	0	3	1	FLA
+0	0	0	L	1	0	5	0		0	1	4	0	
+0	0	0	O	1	0	5	0		0	2	4	0	
+0	0	0	G	1	0	5	0		0	3	3	0	
+0	1	8	S	1	0	5	0		1	4	7	1	SCOTIAN
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	E	1	6	3	1	ECU	0	6	4	0	
+0	0	0	C	1	6	3	0		0	7	4	0	
+0	0	0	U	1	6	3	0		0	8	3	0	
+0	1	10	L	2	0	9	1	LAUNCHING	1	0	3	0	
+0	0	0	A	2	0	9	0		0	1	4	0	
+0	0	0	U	2	0	9	0		0	2	4	0	
+0	0	0	N	2	0	9	0		0	3	3	0	
+0	0	0	C	2	0	9	0		1	4	7	0	
+0	1	11	H	2	0	9	0		2	5	3	1	HSN
+0	0	0	I	2	0	9	0		0	6	4	0	
+0	0	0	N	2	0	9	0		0	7	4	0	
+0	0	0	G	2	0	9	0		0	8	3	0	
+0	1	12	A	3	0	3	1	ANT	1	0	3	0	
+0	0	0	N	3	0	3	0		0	1	4	0	
+0	0	0	T	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	O	3	4	4	1	OSTE	1	4	7	0	
+0	0	0	S	3	4	4	0		2	5	3	0	
+0	0	0	T	3	4	4	0		0	6	4	0	
+0	0	0	E	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	I	4	3	3	1	ITN	4	3	3	1	ILS
+0	0	0	T	4	3	3	0		1	4	7	0	
+0	0	0	N	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	C	5	1	4	1	COLI	5	1	4	1	CASK
+0	1	16	O	5	1	4	0		5	2	4	1	OTTS
+0	0	0	L	5	1	4	0		4	3	3	0	
+0	0	0	I	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	Q	5	6	3	1	QIX	5	6	4	1	QEII
+0	1	18	I	5	6	3	0		5	7	4	1	IYAR
+0	1	19	X	5	6	3	0		5	8	3	1	XED
+0	1	20	B	6	0	9	1	BATSANEYE	6	0	3	1	BOX
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	T	6	0	9	0		5	2	4	0	
+0	0	0	S	6	0	9	0		4	3	3	0	
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	1	21	N	6	0	9	0		6	5	3	1	NAM
+0	0	0	E	6	0	9	0		5	6	4	0	
+0	0	0	Y	6	0	9	0		5	7	4	0	
+0	0	0	E	6	0	9	0		5	8	3	0	
+0	1	22	O	7	0	3	1	OST	6	0	3	0	
+0	0	0	S	7	0	3	0		5	1	4	0	
+0	0	0	T	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	N	7	4	5	1	NAIAD	1	4	7	0	
+0	0	0	A	7	4	5	0		6	5	3	0	
+0	0	0	I	7	4	5	0		5	6	4	0	
+0	0	0	A	7	4	5	0		5	7	4	0	
+0	0	0	D	7	4	5	0		5	8	3	0	
+0	1	24	X	8	0	3	1	XKS	6	0	3	0	
+0	0	0	K	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	M	8	5	3	1	MIR	6	5	3	0	
+0	0	0	I	8	5	3	0		5	6	4	0	
+0	0	0	R	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	UAW	Walter Reuther's org.
+4	BAA	Cry to Bo-peep
+7	FLOGS	Thrashes
+9	ECU	Euro predecessor
+10	LAUNCHING	Sending up
+12	ANT	Hill climber
+13	OSTE	Bone: Prefix
+14	ITN	BBC competitor
+15	COLI	E. ___
+17	QIX	Popular 1980s arcade game based on simple geometry
+20	BATSANEYE	Song parody, part 2
+22	OST	Sunrise direction, in Berlin
+23	NAIAD	Spring nymph
+24	XKS	Ace reliever Robb
+25	MIR	It was last inhabited in 2000
+17
+1	ULAN	___ Bator, Mongolia
+2	AOUT	Hot time in Qu
+3	WGN	Chicago-based Superstation
+4	BEIT	"So ___"
+5	ACNE	Face trouble
+6	AUG	Third qtr. time
+7	FLA	Spring training state: Abbr.
+8	SCOTIAN	Nova ___
+11	HSN	Cable inits. for sales pitches
+14	ILS	Those Frenchmen
+15	CASK	Wine vessel
+16	OTTS	Baseball's Mel and family
+17	QEII	British monarch beginning in '52
+18	IYAR	Month after Nisan
+19	XED	Marked, on a ballot
+20	BOX	Cuff
+21	NAM	'60s theater

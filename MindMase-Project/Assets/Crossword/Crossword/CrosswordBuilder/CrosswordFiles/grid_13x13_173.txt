@@ -1,0 +1,237 @@
+grid_13x13_173
+13
+0	1	1	B	0	0	3	1	BTP	0	0	3	1	BOI
+0	1	2	T	0	0	3	0		0	1	4	1	TNTS
+0	1	3	P	0	0	3	0		0	2	13	1	PLACINGTRADES
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	T	0	5	3	1	TOF	0	5	4	1	TOXO
+0	1	5	O	0	5	3	0		0	6	3	1	ODV
+0	1	6	F	0	5	3	0		0	7	4	1	FITZ
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	P	0	10	3	1	PET	0	10	13	1	PIECESOFEIGHT
+0	1	8	E	0	10	3	0		0	11	3	1	ELK
+0	1	9	T	0	10	3	0		0	12	3	1	TEE
+0	1	10	O	1	0	4	1	ONLY	0	0	3	0	
+0	0	0	N	1	0	4	0		0	1	4	0	
+0	0	0	L	1	0	4	0		0	2	13	0	
+0	1	11	Y	1	0	4	0		1	3	4	1	YRHO
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	12	O	1	5	4	1	ODIC	0	5	4	0	
+0	0	0	D	1	5	4	0		0	6	3	0	
+0	0	0	I	1	5	4	0		0	7	4	0	
+0	1	13	C	1	5	4	0		1	8	3	1	CGI
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	I	1	10	3	1	ILE	0	10	13	0	
+0	0	0	L	1	10	3	0		0	11	3	0	
+0	0	0	E	1	10	3	0		0	12	3	0	
+0	1	15	I	2	0	4	1	ITAR	0	0	3	0	
+0	0	0	T	2	0	4	0		0	1	4	0	
+0	0	0	A	2	0	4	0		0	2	13	0	
+0	0	0	R	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	5	0	
+0	1	16	X	2	5	4	1	XVTG	0	5	4	0	
+0	0	0	V	2	5	4	0		0	6	3	0	
+0	0	0	T	2	5	4	0		0	7	4	0	
+0	0	0	G	2	5	4	0		1	8	3	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	17	E	2	10	3	1	EKE	0	10	13	0	
+0	0	0	K	2	10	3	0		0	11	3	0	
+0	0	0	E	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	18	S	3	1	5	1	SCHMO	0	1	4	0	
+0	0	0	C	3	1	5	0		0	2	13	0	
+0	0	0	H	3	1	5	0		1	3	4	0	
+0	1	19	M	3	1	5	0		3	4	5	1	MUNRO
+0	0	0	O	3	1	5	0		0	5	4	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	20	Z	3	7	4	1	ZINC	0	7	4	0	
+0	0	0	I	3	7	4	0		1	8	3	0	
+0	1	21	N	3	7	4	0		3	9	3	1	NOU
+0	0	0	C	3	7	4	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	4	0	
+0	1	22	I	4	2	3	1	IOU	0	2	13	0	
+0	0	0	O	4	2	3	0		1	3	4	0	
+0	0	0	U	4	2	3	0		3	4	5	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	3	0	
+1	0	0	#	4	9	3	0		5	8	5	0	
+0	1	23	O	4	9	3	1	OER	3	9	3	0	
+0	0	0	E	4	9	3	0		0	10	13	0	
+0	1	24	R	4	9	3	0		4	11	4	1	RLCG
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	25	D	5	0	3	1	DIN	5	0	3	1	DEM
+0	1	26	I	5	0	3	0		5	1	4	1	ILET
+0	0	0	N	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	9	0		6	3	0	0	
+0	1	27	N	5	4	9	1	NERVOUSLY	3	4	5	0	
+0	1	28	E	5	4	9	0		5	5	3	1	EER
+0	1	29	R	5	4	9	0		5	6	3	1	RPI
+0	1	30	V	5	4	9	0		5	7	3	1	VET
+0	1	31	O	5	4	9	0		5	8	5	1	OGEES
+0	0	0	U	5	4	9	0		3	9	3	0	
+0	0	0	S	5	4	9	0		0	10	13	0	
+0	0	0	L	5	4	9	0		4	11	4	0	
+0	1	32	Y	5	4	9	0		5	12	3	1	YAS
+0	1	33	E	6	0	3	1	ELG	5	0	3	0	
+0	0	0	L	6	0	3	0		5	1	4	0	
+0	0	0	G	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	3	0	
+0	1	34	R	6	4	5	1	REPEG	3	4	5	0	
+0	0	0	E	6	4	5	0		5	5	3	0	
+0	0	0	P	6	4	5	0		5	6	3	0	
+0	0	0	E	6	4	5	0		5	7	3	0	
+0	0	0	G	6	4	5	0		5	8	5	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	35	O	6	10	3	1	OCA	0	10	13	0	
+0	0	0	C	6	10	3	0		4	11	4	0	
+0	0	0	A	6	10	3	0		5	12	3	0	
+0	1	36	M	7	0	9	1	METEORITE	5	0	3	0	
+0	0	0	E	7	0	9	0		5	1	4	0	
+0	0	0	T	7	0	9	0		0	2	13	0	
+0	1	37	E	7	0	9	0		7	3	3	1	ESA
+0	0	0	O	7	0	9	0		3	4	5	0	
+0	0	0	R	7	0	9	0		5	5	3	0	
+0	0	0	I	7	0	9	0		5	6	3	0	
+0	0	0	T	7	0	9	0		5	7	3	0	
+0	0	0	E	7	0	9	0		5	8	5	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	38	F	7	10	3	1	FGS	0	10	13	0	
+0	0	0	G	7	10	3	0		4	11	4	0	
+0	0	0	S	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	39	T	8	1	3	1	TRS	5	1	4	0	
+0	0	0	R	8	1	3	0		0	2	13	0	
+0	0	0	S	8	1	3	0		7	3	3	0	
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	0	0		9	6	0	0	
+1	0	0	#	8	8	3	0		9	7	4	0	
+0	1	40	E	8	8	3	1	EVE	5	8	5	0	
+0	1	41	V	8	8	3	0		8	9	4	1	VAIR
+0	0	0	E	8	8	3	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	42	A	9	2	4	1	AAAS	0	2	13	0	
+0	0	0	A	9	2	4	0		7	3	3	0	
+0	1	43	A	9	2	4	0		9	4	3	1	AKC
+0	1	44	S	9	2	4	0		9	5	4	1	SNCC
+1	0	0	#	9	7	5	0		10	6	3	0	
+0	1	45	U	9	7	5	1	USAIR	9	7	4	1	UPDO
+0	0	0	S	9	7	5	0		5	8	5	0	
+0	0	0	A	9	7	5	0		8	9	4	0	
+0	0	0	I	9	7	5	0		0	10	13	0	
+0	1	46	R	9	7	5	0		9	11	4	1	REUP
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	47	Y	10	0	3	1	YOD	10	0	3	1	YAH
+0	1	48	O	10	0	3	0		10	1	3	1	OAT
+0	0	0	D	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	4	0		11	3	0	0	
+0	1	49	K	10	4	4	1	KNAP	9	4	3	0	
+0	0	0	N	10	4	4	0		9	5	4	0	
+0	1	50	A	10	4	4	0		10	6	3	1	AEF
+0	0	0	P	10	4	4	0		9	7	4	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	51	I	10	9	4	1	IGER	8	9	4	0	
+0	0	0	G	10	9	4	0		0	10	13	0	
+0	0	0	E	10	9	4	0		9	11	4	0	
+0	1	52	R	10	9	4	0		10	12	3	1	RMS
+0	1	53	A	11	0	3	1	AAE	10	0	3	0	
+0	0	0	A	11	0	3	0		10	1	3	0	
+0	0	0	E	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	54	C	11	4	4	1	CCED	9	4	3	0	
+0	0	0	C	11	4	4	0		9	5	4	0	
+0	0	0	E	11	4	4	0		10	6	3	0	
+0	0	0	D	11	4	4	0		9	7	4	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	55	R	11	9	4	1	RHUM	8	9	4	0	
+0	0	0	H	11	9	4	0		0	10	13	0	
+0	0	0	U	11	9	4	0		9	11	4	0	
+0	0	0	M	11	9	4	0		10	12	3	0	
+0	1	56	H	12	0	3	1	HTS	10	0	3	0	
+0	0	0	T	12	0	3	0		10	1	3	0	
+0	0	0	S	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	57	C	12	5	3	1	CFO	9	5	4	0	
+0	0	0	F	12	5	3	0		10	6	3	0	
+0	0	0	O	12	5	3	0		9	7	4	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	58	T	12	10	3	1	TPS	0	10	13	0	
+0	0	0	P	12	10	3	0		9	11	4	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+33
+1	BTP	Group formed at Miami University in 1839
+4	TOF	___ a kind (pair)
+7	PET	Housebroken animal
+10	ONLY	Right turn ___
+12	ODIC	Like some of Keats's work
+14	ILE	Corsica, par exemple
+15	ITAR	___-Tass news agency
+16	XVTG	Sharp-billed diver
+17	EKE	___ out (barely make)
+18	SCHMO	Dorky sort
+20	ZINC	Healthful mineral
+22	IOU	Marker letters
+23	OER	Poet's preposition
+25	DIN	Conversation stopper?
+27	NERVOUSLY	With clammy hands, say
+33	ELG	Taina who was one of Les Girls, 1957
+34	REPEG	Replace a wooden pin
+35	OCA	Andean tuber
+36	METEORITE	Source of rare metals, maybe
+38	FGS	Gridiron scores: Abbr.
+39	TRS	___-80 (old computer)
+40	EVE	Garden figure
+42	AAAS	Penlight batteries
+45	USAIR	Onetime TWA competitor
+47	YOD	Letter after teth
+49	KNAP	Chip, as flint, in Britain
+51	IGER	Entertainment exec Robert
+53	AAE	Cable channel
+54	CCED	E-mailed a dupe to
+55	RHUM	Product of la Jama
+56	HTS	Abbr. in some city names
+57	CFO	Head of cabbage?: Abbr.
+58	TPS	Festoons with Charmin, informally
+31
+1	BOI	"Sk8er ___" (2002 top 10 hit)
+2	TNTS	Demolition compounds
+3	PLACINGTRADES	Stock market activity
+4	TOXO	Poison: Prefix
+5	ODV	Hip-hop
+6	FITZ	Irish surname starter
+7	PIECESOFEIGHT	<--
+8	ELK	Roar : lion :: bugle : ___
+9	TEE	Bit of gymwear
+11	YRHO	Sweater letter
+13	CGI	Film special effects, for short
+19	MUNRO	The writer Saki's real name
+21	NOU	Over
+24	RLCG	Cockney greeting
+25	DEM	Clinton, e.g.: Abbr.
+26	ILET	"Before ___ you go..."
+28	EER	Suffix with profit
+29	RPI	Sch. in Troy, N.Y.
+30	VET	Spot checker?
+31	OGEES	Sigmoid moldings
+32	YAS	Title syllables in a 1961 Lee Dorsey hit
+37	ESA	Spaniard's "that"
+41	VAIR	Heraldic fur
+43	AKC	Dog breeder's assn.
+44	SNCC	60's civil rights grp.
+45	UPDO	Many a prom coif
+46	REUP	Start another tour
+47	YAH	Exclamation of impatience
+48	OAT	Cereal grain in Cap'n Crunch
+50	AEF	W.W. I troops: Abbr.
+52	RMS	Hosp. units

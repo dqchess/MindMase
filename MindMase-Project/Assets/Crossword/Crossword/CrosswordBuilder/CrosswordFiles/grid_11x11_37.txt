@@ -1,0 +1,167 @@
+grid_11x11_37
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	H	0	1	3	1	HOE	0	1	5	1	HARTS
+0	1	2	O	0	1	3	0		0	2	5	1	OESTE
+0	1	3	E	0	1	3	0		0	3	4	1	ESME
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	R	0	5	3	1	RIA	0	5	3	1	REL
+0	1	5	I	0	5	3	0		0	6	3	1	ISA
+0	1	6	A	0	5	3	0		0	7	6	1	APPIAN
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	7	A	1	1	3	1	AES	0	1	5	0	
+0	0	0	E	1	1	3	0		0	2	5	0	
+0	0	0	S	1	1	3	0		0	3	4	0	
+1	0	0	#	1	5	6	0		2	4	5	0	
+0	1	8	E	1	5	6	1	ESPANA	0	5	3	0	
+0	0	0	S	1	5	6	0		0	6	3	0	
+0	0	0	P	1	5	6	0		0	7	6	0	
+0	1	9	A	1	5	6	0		1	8	4	1	ARTR
+0	1	10	N	1	5	6	0		1	9	4	1	NOED
+0	1	11	A	1	5	6	0		1	10	3	1	APA
+0	1	12	M	2	0	11	1	MRSMALAPROP	2	0	3	1	MOL
+0	0	0	R	2	0	11	0		0	1	5	0	
+0	0	0	S	2	0	11	0		0	2	5	0	
+0	0	0	M	2	0	11	0		0	3	4	0	
+0	1	13	A	2	0	11	0		2	4	5	1	ARCDE
+0	0	0	L	2	0	11	0		0	5	3	0	
+0	0	0	A	2	0	11	0		0	6	3	0	
+0	0	0	P	2	0	11	0		0	7	6	0	
+0	0	0	R	2	0	11	0		1	8	4	0	
+0	0	0	O	2	0	11	0		1	9	4	0	
+0	0	0	P	2	0	11	0		1	10	3	0	
+0	1	14	O	3	0	5	1	OTTER	2	0	3	0	
+0	0	0	T	3	0	5	0		0	1	5	0	
+0	0	0	T	3	0	5	0		0	2	5	0	
+0	0	0	E	3	0	5	0		0	3	4	0	
+0	0	0	R	3	0	5	0		2	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	15	I	3	7	4	1	ITEA	0	7	6	0	
+0	0	0	T	3	7	4	0		1	8	4	0	
+0	0	0	E	3	7	4	0		1	9	4	0	
+0	0	0	A	3	7	4	0		1	10	3	0	
+0	1	16	L	4	0	3	1	LSE	2	0	3	0	
+0	0	0	S	4	0	3	0		0	1	5	0	
+0	0	0	E	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	6	0		5	3	6	0	
+0	1	17	C	4	4	6	1	CANARD	2	4	5	0	
+0	1	18	A	4	4	6	0		4	5	3	1	AMC
+0	1	19	N	4	4	6	0		4	6	5	1	NEEDS
+0	0	0	A	4	4	6	0		0	7	6	0	
+0	0	0	R	4	4	6	0		1	8	4	0	
+0	0	0	D	4	4	6	0		1	9	4	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	5	0		6	2	4	0	
+0	1	20	A	5	3	5	1	ADMEN	5	3	6	1	AIROUT
+0	0	0	D	5	3	5	0		2	4	5	0	
+0	0	0	M	5	3	5	0		4	5	3	0	
+0	0	0	E	5	3	5	0		4	6	5	0	
+0	0	0	N	5	3	5	0		0	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	6	0		7	0	3	0	
+0	1	21	T	6	1	6	1	TPIECE	6	1	4	1	TEAT
+0	1	22	P	6	1	6	0		6	2	4	1	PETR
+0	0	0	I	6	1	6	0		5	3	6	0	
+0	0	0	E	6	1	6	0		2	4	5	0	
+0	0	0	C	6	1	6	0		4	5	3	0	
+0	0	0	E	6	1	6	0		4	6	5	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	23	A	6	8	3	1	ARM	6	8	5	1	ADORE
+0	1	24	R	6	8	3	0		6	9	5	1	ROUEN
+0	1	25	M	6	8	3	0		6	10	3	1	MST
+0	1	26	M	7	0	4	1	MEER	7	0	3	1	MES
+0	0	0	E	7	0	4	0		6	1	4	0	
+0	0	0	E	7	0	4	0		6	2	4	0	
+0	0	0	R	7	0	4	0		5	3	6	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	27	D	7	6	5	1	DADOS	4	6	5	0	
+0	1	28	A	7	6	5	0		7	7	4	1	AHEM
+0	0	0	D	7	6	5	0		6	8	5	0	
+0	0	0	O	7	6	5	0		6	9	5	0	
+0	0	0	S	7	6	5	0		6	10	3	0	
+0	1	29	E	8	0	11	1	EATONESHOUT	7	0	3	0	
+0	0	0	A	8	0	11	0		6	1	4	0	
+0	0	0	T	8	0	11	0		6	2	4	0	
+0	0	0	O	8	0	11	0		5	3	6	0	
+0	1	30	N	8	0	11	0		8	4	3	1	NTH
+0	1	31	E	8	0	11	0		8	5	3	1	ESS
+0	0	0	S	8	0	11	0		4	6	5	0	
+0	0	0	H	8	0	11	0		7	7	4	0	
+0	0	0	O	8	0	11	0		6	8	5	0	
+0	0	0	U	8	0	11	0		6	9	5	0	
+0	0	0	T	8	0	11	0		6	10	3	0	
+0	1	32	S	9	0	6	1	STRUTS	7	0	3	0	
+0	0	0	T	9	0	6	0		6	1	4	0	
+0	0	0	R	9	0	6	0		6	2	4	0	
+0	0	0	U	9	0	6	0		5	3	6	0	
+0	0	0	T	9	0	6	0		8	4	3	0	
+0	0	0	S	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	33	E	9	7	3	1	ERE	7	7	4	0	
+0	0	0	R	9	7	3	0		6	8	5	0	
+0	0	0	E	9	7	3	0		6	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	34	T	10	3	3	1	THS	5	3	6	0	
+0	0	0	H	10	3	3	0		8	4	3	0	
+0	0	0	S	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	35	M	10	7	3	1	MEN	7	7	4	0	
+0	0	0	E	10	7	3	0		6	8	5	0	
+0	0	0	N	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	HOE	Garden, in a way
+4	RIA	Coastal inlet
+7	AES	1950s campaign inits.
+8	ESPANA	Name on some euros
+12	MRSMALAPROP	"She's as headstrong as an allegory on the banks of Nile" speaker
+14	OTTER	Thick fur
+15	ITEA	Willow variety
+16	LSE	End of many an E-mail address
+17	CANARD	Unfounded rumor
+20	ADMEN	Spot checkers?
+21	TPIECE	Like a suit with a vest
+23	ARM	Target of many a shot
+26	MEER	Physics Nobelist Simon van der ___
+27	DADOS	Carpenters' grooves
+29	EATONESHOUT	Be consumed with envy
+32	STRUTS	Car body strengtheners
+33	ERE	Bard's "before"
+34	THS	Music, dance, painting, etc.
+35	MEN	Loo sign
+23
+1	HARTS	Mates for does
+2	OESTE	90 degrees from norte
+3	ESME	Salinger title character
+4	REL	Person found in a tree: Abbr.
+5	ISA	Words before and after "rose"
+6	APPIAN	Rome's ___ Way
+9	ARTR	1981 hit film with a 5'3" lead actor
+10	NOED	"Thanks, but don't bother"
+11	APA	Shrinks' grp.
+12	MOL	CO, e.g.: Abbr.
+13	ARCDE	___ Triomphe
+18	AMC	___ Theaters (national cinema chain)
+19	NEEDS	Musts
+20	AIROUT	Talk over
+21	TEAT	Milker's handhold
+22	PETR	Czech-born N.H.L.'er Sykora or Prucha
+23	ADORE	Like a load
+24	ROUEN	Hundred Years' War siege site
+25	MST	Colo. clock setting
+26	MES	Agosto, for one
+28	AHEM	"Um, I hate to interrupt ..."
+30	NTH	Last in a series
+31	ESS	River's curve

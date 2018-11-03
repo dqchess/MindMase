@@ -1,0 +1,229 @@
+grid_13x13_18
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	O	0	2	3	1	ORS	0	2	12	1	ONELUMPORTWO
+0	1	2	R	0	2	3	0		0	3	3	1	RPS
+0	1	3	S	0	2	3	0		0	4	3	1	SCS
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	11	0	
+0	1	4	S	0	7	3	1	SOL	0	7	4	1	SIGN
+0	1	5	O	0	7	3	0		0	8	3	1	OSE
+0	1	6	L	0	7	3	0		0	9	6	1	LERNER
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	4	0		2	0	0	0	
+0	1	7	U	1	1	4	1	UNPC	1	1	6	1	UMLAUT
+0	0	0	N	1	1	4	0		0	2	12	0	
+0	0	0	P	1	1	4	0		0	3	3	0	
+0	0	0	C	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	6	0		2	5	5	0	
+0	1	8	O	1	6	6	1	OISEAU	1	6	11	1	ONEBELOWPAR
+0	0	0	I	1	6	6	0		0	7	4	0	
+0	0	0	S	1	6	6	0		0	8	3	0	
+0	0	0	E	1	6	6	0		0	9	6	0	
+0	1	9	A	1	6	6	0		1	10	12	1	ARCTICCIRCLE
+0	1	10	U	1	6	6	0		1	11	4	1	UNIT
+1	0	0	#	1	13	0	0		2	12	3	0	
+1	0	0	#	2	1	12	0		3	0	4	0	
+0	1	11	M	2	1	12	1	MESSENGERRNA	1	1	6	0	
+0	0	0	E	2	1	12	0		0	2	12	0	
+0	0	0	S	2	1	12	0		0	3	3	0	
+0	0	0	S	2	1	12	0		0	4	3	0	
+0	1	12	E	2	1	12	0		2	5	5	1	EYRIE
+0	0	0	N	2	1	12	0		1	6	11	0	
+0	0	0	G	2	1	12	0		0	7	4	0	
+0	0	0	E	2	1	12	0		0	8	3	0	
+0	0	0	R	2	1	12	0		0	9	6	0	
+0	0	0	R	2	1	12	0		1	10	12	0	
+0	0	0	N	2	1	12	0		1	11	4	0	
+0	1	13	A	2	1	12	0		2	12	3	1	ASO
+0	1	14	E	3	0	3	1	ELL	3	0	4	1	ELMS
+0	0	0	L	3	0	3	0		1	1	6	0	
+0	0	0	L	3	0	3	0		0	2	12	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	3	0		4	4	4	0	
+0	1	15	Y	3	5	3	1	YEN	2	5	5	0	
+0	0	0	E	3	5	3	0		1	6	11	0	
+0	0	0	N	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	16	N	3	9	4	1	NCIS	0	9	6	0	
+0	0	0	C	3	9	4	0		1	10	12	0	
+0	0	0	I	3	9	4	0		1	11	4	0	
+0	0	0	S	3	9	4	0		2	12	3	0	
+0	1	17	L	4	0	3	1	LAU	3	0	4	0	
+0	0	0	A	4	0	3	0		1	1	6	0	
+0	0	0	U	4	0	3	0		0	2	12	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	18	E	4	4	3	1	ERB	4	4	4	1	ETTU
+0	0	0	R	4	4	3	0		2	5	5	0	
+0	0	0	B	4	4	3	0		1	6	11	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	4	0		5	8	4	0	
+0	1	19	E	4	9	4	1	ETTO	0	9	6	0	
+0	0	0	T	4	9	4	0		1	10	12	0	
+0	0	0	T	4	9	4	0		1	11	4	0	
+0	0	0	O	4	9	4	0		2	12	3	0	
+0	1	20	M	5	0	3	1	MUM	3	0	4	0	
+0	0	0	U	5	0	3	0		1	1	6	0	
+0	0	0	M	5	0	3	0		0	2	12	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	T	5	4	3	1	TIE	4	4	4	0	
+0	0	0	I	5	4	3	0		2	5	5	0	
+0	0	0	E	5	4	3	0		1	6	11	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	O	5	8	3	1	ORI	5	8	4	1	ORIN
+0	0	0	R	5	8	3	0		0	9	6	0	
+0	0	0	I	5	8	3	0		1	10	12	0	
+1	0	0	#	5	12	0	0		6	11	6	0	
+1	0	0	#	5	13	0	0		6	12	4	0	
+0	1	23	S	6	0	3	1	STP	3	0	4	0	
+0	0	0	T	6	0	3	0		1	1	6	0	
+0	0	0	P	6	0	3	0		0	2	12	0	
+1	0	0	#	6	4	5	0		7	3	6	0	
+0	1	24	T	6	4	5	1	TELAR	4	4	4	0	
+0	0	0	E	6	4	5	0		2	5	5	0	
+0	0	0	L	6	4	5	0		1	6	11	0	
+0	1	25	A	6	4	5	0		6	7	5	1	ABEAD
+0	0	0	R	6	4	5	0		5	8	4	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	26	C	6	10	3	1	CLU	1	10	12	0	
+0	1	27	L	6	10	3	0		6	11	6	1	LABFEE
+0	1	28	U	6	10	3	0		6	12	4	1	UDOS
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	4	0	
+0	1	29	O	7	2	3	1	ORU	0	2	12	0	
+0	1	30	R	7	2	3	0		7	3	6	1	RIBAND
+0	0	0	U	7	2	3	0		4	4	4	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	31	O	7	6	3	1	OBI	1	6	11	0	
+0	0	0	B	7	6	3	0		6	7	5	0	
+0	0	0	I	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	32	C	7	10	3	1	CAD	1	10	12	0	
+0	0	0	A	7	10	3	0		6	11	6	0	
+0	0	0	D	7	10	3	0		6	12	4	0	
+0	1	33	A	8	0	4	1	ATRI	8	0	3	1	ANS
+0	1	34	T	8	0	4	0		8	1	4	1	TEED
+0	0	0	R	8	0	4	0		0	2	12	0	
+0	0	0	I	8	0	4	0		7	3	6	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	4	0	
+0	1	35	W	8	6	3	1	WEN	1	6	11	0	
+0	0	0	E	8	6	3	0		6	7	5	0	
+0	0	0	N	8	6	3	0		5	8	4	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	36	I	8	10	3	1	IBO	1	10	12	0	
+0	0	0	B	8	10	3	0		6	11	6	0	
+0	0	0	O	8	10	3	0		6	12	4	0	
+0	1	37	N	9	0	4	1	NETB	8	0	3	0	
+0	0	0	E	9	0	4	0		8	1	4	0	
+0	0	0	T	9	0	4	0		0	2	12	0	
+0	0	0	B	9	0	4	0		7	3	6	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	38	F	9	5	3	1	FPA	9	5	4	1	FEET
+0	0	0	P	9	5	3	0		1	6	11	0	
+0	0	0	A	9	5	3	0		6	7	5	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	R	9	10	3	1	RFS	1	10	12	0	
+0	0	0	F	9	10	3	0		6	11	6	0	
+0	0	0	S	9	10	3	0		6	12	4	0	
+0	1	40	S	10	0	12	1	SEWAGEADVICE	8	0	3	0	
+0	0	0	E	10	0	12	0		8	1	4	0	
+0	0	0	W	10	0	12	0		0	2	12	0	
+0	0	0	A	10	0	12	0		7	3	6	0	
+0	1	41	G	10	0	12	0		10	4	3	1	GNP
+0	0	0	E	10	0	12	0		9	5	4	0	
+0	0	0	A	10	0	12	0		1	6	11	0	
+0	0	0	D	10	0	12	0		6	7	5	0	
+0	1	42	V	10	0	12	0		10	8	3	1	VIM
+0	1	43	I	10	0	12	0		10	9	3	1	IAL
+0	0	0	C	10	0	12	0		1	10	12	0	
+0	0	0	E	10	0	12	0		6	11	6	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	44	D	11	1	6	1	DONNER	8	1	4	0	
+0	0	0	O	11	1	6	0		0	2	12	0	
+0	0	0	N	11	1	6	0		7	3	6	0	
+0	0	0	N	11	1	6	0		10	4	3	0	
+0	0	0	E	11	1	6	0		9	5	4	0	
+0	0	0	R	11	1	6	0		1	6	11	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	45	I	11	8	4	1	IALE	10	8	3	0	
+0	0	0	A	11	8	4	0		10	9	3	0	
+0	0	0	L	11	8	4	0		1	10	12	0	
+0	0	0	E	11	8	4	0		6	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	46	D	12	3	3	1	DPT	7	3	6	0	
+0	0	0	P	12	3	3	0		10	4	3	0	
+0	0	0	T	12	3	3	0		9	5	4	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	47	M	12	8	3	1	MLE	10	8	3	0	
+0	0	0	L	12	8	3	0		10	9	3	0	
+0	0	0	E	12	8	3	0		1	10	12	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	ORS	Common correlatives
+4	SOL	Costa del ___
+7	UNPC	Potentially offensive
+8	OISEAU	French flier
+11	MESSENGERRNA	Microscopic code carrier
+14	ELL	Blueprint addition
+15	YEN	Hunger
+16	NCIS	Spinoff of CBS's "JAG"
+17	LAU	Charlie of the 60's Orioles
+18	ERB	Tarzan creator's monogram
+19	ETTO	Suffix with palm
+20	MUM	Queen ___
+21	TIE	1-1 or 2-2, e.g.
+22	ORI	"Either you ___ ..."
+23	STP	Brand at a gas station
+24	TELAR	Relating to tissue
+26	CLU	Gulager of "The Virginian"
+29	ORU	Tulsa initials
+31	OBI	Japanese band?
+32	CAD	Real heel
+33	ATRI	Bell town in a Longfellow poem
+35	WEN	Skin defect
+36	IBO	Nigerian native
+37	NETB	Tennis miss
+38	FPA	"The Conning Tower" columnist's inits.
+39	RFS	Baseball positions: Abbr.
+40	SEWAGEADVICE	What the inspector gave the waste treatment center?
+44	DONNER	One of Santa's reindeer
+45	IALE	Spear
+46	DPT	Vaccine combo
+47	MLE	Uncooperative one
+25
+1	ONELUMPORTWO	Tea server
+2	RPS	Spin meas.
+3	SCS	Barges
+4	SIGN	"It's a ___"
+5	OSE	Sugar suffix
+6	LERNER	"My Fair Lady" lyricist
+7	UMLAUT	One seen in H
+8	ONEBELOWPAR	*Where to find para in the dictionary
+9	ARCTICCIRCLE	See highlighted letters intersected by this answer
+10	UNIT	Second, e.g.
+12	EYRIE	Isolated nest: Var.
+13	ASO	Japanese volcano
+14	ELMS	They may be slippery
+18	ETTU	Caesar's almost-last words
+22	ORIN	"Little Shop of Horrors" dentist
+25	ABEAD	Draw ___ on (aim at)
+27	LABFEE	Chemistry class charge
+28	UDOS	Some hairstyles
+30	RIBAND	Decorative strip of fabric
+33	ANS	Choice on a multiple-choice test: Abbr.
+34	TEED	Initiated, with "off"
+38	FEET	"Dogs"
+41	GNP	Economics fig.
+42	VIM	Kick
+43	IAL	Suffix with adverb

@@ -1,0 +1,171 @@
+grid_11x11_66
+11
+0	1	1	A	0	0	6	1	AWAKES	0	0	3	1	ADS
+0	1	2	W	0	0	6	0		0	1	7	1	WEPTFOR
+0	1	3	A	0	0	6	0		0	2	11	1	AVERAGEJOKE
+0	1	4	K	0	0	6	0		0	3	4	1	KONA
+0	1	5	E	0	0	6	0		0	4	3	1	EUD
+0	1	6	S	0	0	6	0		0	5	3	1	SRI
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	L	0	8	3	1	LAY	0	8	11	1	LEGALBRIEFS
+0	1	8	A	0	8	3	0		0	9	3	1	ARU
+0	1	9	Y	0	8	3	0		0	10	3	1	YET
+0	1	10	D	1	0	6	1	DEVOUR	0	0	3	0	
+0	0	0	E	1	0	6	0		0	1	7	0	
+0	0	0	V	1	0	6	0		0	2	11	0	
+0	0	0	O	1	0	6	0		0	3	4	0	
+0	0	0	U	1	0	6	0		0	4	3	0	
+0	0	0	R	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	5	0	
+0	1	11	M	1	7	4	1	MERE	1	7	3	1	MGM
+0	0	0	E	1	7	4	0		0	8	11	0	
+0	0	0	R	1	7	4	0		0	9	3	0	
+0	0	0	E	1	7	4	0		0	10	3	0	
+0	1	12	S	2	0	11	1	SPENDINGGUT	0	0	3	0	
+0	0	0	P	2	0	11	0		0	1	7	0	
+0	0	0	E	2	0	11	0		0	2	11	0	
+0	0	0	N	2	0	11	0		0	3	4	0	
+0	0	0	D	2	0	11	0		0	4	3	0	
+0	0	0	I	2	0	11	0		0	5	3	0	
+0	1	13	N	2	0	11	0		2	6	5	1	NYSSA
+0	0	0	G	2	0	11	0		1	7	3	0	
+0	0	0	G	2	0	11	0		0	8	11	0	
+0	0	0	U	2	0	11	0		0	9	3	0	
+0	0	0	T	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	14	T	3	1	3	1	TRA	0	1	7	0	
+0	0	0	R	3	1	3	0		0	2	11	0	
+0	0	0	A	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	5	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	15	Y	3	6	3	1	YMA	2	6	5	0	
+0	0	0	M	3	6	3	0		1	7	3	0	
+0	0	0	A	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	16	M	4	0	3	1	MFA	4	0	3	1	MCM
+0	0	0	F	4	0	3	0		0	1	7	0	
+0	0	0	A	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	17	L	4	4	3	1	LBS	4	4	5	1	LEGSD
+0	1	18	B	4	4	3	0		4	5	3	1	BIP
+0	0	0	S	4	4	3	0		2	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	L	4	8	3	1	LOA	0	8	11	0	
+0	1	20	O	4	8	3	0		4	9	7	1	OLDSALT
+0	1	21	A	4	8	3	0		4	10	3	1	AUS
+0	1	22	C	5	0	3	1	COG	4	0	3	0	
+0	0	0	O	5	0	3	0		0	1	7	0	
+0	0	0	G	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	23	E	5	4	3	1	EIS	4	4	5	0	
+0	0	0	I	5	4	3	0		4	5	3	0	
+0	0	0	S	5	4	3	0		2	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	24	B	5	8	3	1	BLU	0	8	11	0	
+0	0	0	L	5	8	3	0		4	9	7	0	
+0	0	0	U	5	8	3	0		4	10	3	0	
+0	1	25	M	6	0	3	1	MRE	4	0	3	0	
+0	0	0	R	6	0	3	0		0	1	7	0	
+0	0	0	E	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	3	0	
+0	1	26	G	6	4	3	1	GPA	4	4	5	0	
+0	0	0	P	6	4	3	0		4	5	3	0	
+0	0	0	A	6	4	3	0		2	6	5	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	27	R	6	8	3	1	RDS	0	8	11	0	
+0	0	0	D	6	8	3	0		4	9	7	0	
+0	0	0	S	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	28	J	7	2	3	1	JXS	0	2	11	0	
+0	1	29	X	7	2	3	0		7	3	3	1	XOO
+0	0	0	S	7	2	3	0		4	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	30	W	7	7	3	1	WIS	7	7	4	1	WREN
+0	0	0	I	7	7	3	0		0	8	11	0	
+0	0	0	S	7	7	3	0		4	9	7	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	B	8	0	11	1	BLOODSTREAM	8	0	3	1	BMX
+0	1	32	L	8	0	11	0		8	1	3	1	LAK
+0	0	0	O	8	0	11	0		0	2	11	0	
+0	0	0	O	8	0	11	0		7	3	3	0	
+0	0	0	D	8	0	11	0		4	4	5	0	
+0	1	33	S	8	0	11	0		8	5	3	1	STR
+0	1	34	T	8	0	11	0		8	6	3	1	THU
+0	0	0	R	8	0	11	0		7	7	4	0	
+0	0	0	E	8	0	11	0		0	8	11	0	
+0	0	0	A	8	0	11	0		4	9	7	0	
+0	1	35	M	8	0	11	0		8	10	3	1	MYO
+0	1	36	M	9	0	4	1	MAKO	8	0	3	0	
+0	0	0	A	9	0	4	0		8	1	3	0	
+0	0	0	K	9	0	4	0		0	2	11	0	
+0	0	0	O	9	0	4	0		7	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	37	T	9	5	6	1	THEFLY	8	5	3	0	
+0	0	0	H	9	5	6	0		8	6	3	0	
+0	0	0	E	9	5	6	0		7	7	4	0	
+0	0	0	F	9	5	6	0		0	8	11	0	
+0	0	0	L	9	5	6	0		4	9	7	0	
+0	0	0	Y	9	5	6	0		8	10	3	0	
+0	1	38	X	10	0	3	1	XKE	8	0	3	0	
+0	0	0	K	10	0	3	0		8	1	3	0	
+0	0	0	E	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	6	0		11	4	0	0	
+0	1	39	R	10	5	6	1	RUNSTO	8	5	3	0	
+0	0	0	U	10	5	6	0		8	6	3	0	
+0	0	0	N	10	5	6	0		7	7	4	0	
+0	0	0	S	10	5	6	0		0	8	11	0	
+0	0	0	T	10	5	6	0		4	9	7	0	
+0	0	0	O	10	5	6	0		8	10	3	0	
+23
+1	AWAKES	Responds to a morning alarm
+7	LAY	Song played on a mandolin
+10	DEVOUR	Gobble up
+11	MERE	Petty
+12	SPENDINGGUT	Really severe economizing?
+14	TRA	La la lead-in
+15	YMA	Peruvian Sumac
+16	MFA	Musician's deg.
+17	LBS	N.F.L. positions
+19	LOA	"Aloha nui ___" (warm greeting in Waikiki)
+22	COG	Machine part
+23	EIS	It may block the Rhein
+24	BLU	Ray preceder
+25	MRE	Field ration, for short
+26	GPA	4.0 is a good one
+27	RDS	Places for forks: Abbr.
+28	JXS	School street warning
+30	WIS	Ill. neighbor
+31	BLOODSTREAM	Circulatory system flow
+36	MAKO	Dangerous shark
+37	THEFLY	...sci-fi flick?
+38	XKE	Jaguar model
+39	RUNSTO	Reaches altogether
+23
+1	ADS	A lot of junk mail
+2	WEPTFOR	Lamented
+3	AVERAGEJOKE	Your basic "So this guy walks into a bar ..."?
+4	KONA	Prime coffee-growing area in Hawaii
+5	EUD	Fix a squeak
+6	SRI	___ Lanka
+7	LEGALBRIEFS	Attorneys' filings
+8	ARU	Indonesia's ___ Islands
+9	YET	Nevertheless
+11	MGM	"2001" studio
+13	NYSSA	Sour gum tree
+16	MCM	1900, on a cornerstone
+17	LEGSD	1988 Peter Allen musical
+18	BIP	Marceau's everyman
+20	OLDSALT	*Seasoned seaman
+21	AUS	Vienna's land: Abbr.
+29	XOO	Losing tic-tac-toe combo
+30	WREN	Carolina ___ (little songster)
+31	BMX	Big name in stunt bikes
+32	LAK	"Mighty ___ a Rose"
+33	STR	Narrow water passage: Abbr.
+34	THU	Datebook abbr.
+35	MYO	Muscle: Prefix

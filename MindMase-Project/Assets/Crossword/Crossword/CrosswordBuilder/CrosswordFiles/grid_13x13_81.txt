@@ -1,0 +1,227 @@
+grid_13x13_81
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	L	0	1	3	1	LEM	0	1	7	1	LOCKSIN
+0	1	2	E	0	1	3	0		0	2	12	1	ELECTRICBLUE
+0	1	3	M	0	1	3	0		0	3	3	1	MDI
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	11	0	
+0	1	4	T	0	7	3	1	TUN	0	7	4	1	TAER
+0	1	5	U	0	7	3	0		0	8	3	1	USL
+0	1	6	N	0	7	3	0		0	9	3	1	NSA
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	O	1	1	4	1	OLDE	0	1	7	0	
+0	0	0	L	1	1	4	0		0	2	12	0	
+0	0	0	D	1	1	4	0		0	3	3	0	
+0	1	8	E	1	1	4	0		1	4	7	1	ENACTOR
+1	0	0	#	1	6	7	0		2	5	0	0	
+0	1	9	P	1	6	7	1	PASSAIC	1	6	11	1	PLAYSAROUND
+0	0	0	A	1	6	7	0		0	7	4	0	
+0	0	0	S	1	6	7	0		0	8	3	0	
+0	0	0	S	1	6	7	0		0	9	3	0	
+0	1	10	A	1	6	7	0		1	10	12	1	ANDLIGHTNING
+0	1	11	I	1	6	7	0		1	11	4	1	IDOS
+0	1	12	C	1	6	7	0		1	12	3	1	CST
+0	1	13	I	2	0	5	1	ICEIN	2	0	3	1	IAL
+0	0	0	C	2	0	5	0		0	1	7	0	
+0	0	0	E	2	0	5	0		0	2	12	0	
+0	0	0	I	2	0	5	0		0	3	3	0	
+0	0	0	N	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	7	0		3	5	4	0	
+0	1	14	L	2	6	7	1	LELANDS	1	6	11	0	
+0	0	0	E	2	6	7	0		0	7	4	0	
+0	0	0	L	2	6	7	0		0	8	3	0	
+0	0	0	A	2	6	7	0		0	9	3	0	
+0	0	0	N	2	6	7	0		1	10	12	0	
+0	0	0	D	2	6	7	0		1	11	4	0	
+0	0	0	S	2	6	7	0		1	12	3	0	
+0	1	15	A	3	0	3	1	AKC	2	0	3	0	
+0	0	0	K	3	0	3	0		0	1	7	0	
+0	0	0	C	3	0	3	0		0	2	12	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	16	A	3	4	4	1	AJAR	1	4	7	0	
+0	1	17	J	3	4	4	0		3	5	4	1	JAIL
+0	0	0	A	3	4	4	0		1	6	11	0	
+0	0	0	R	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	3	10	3	0		4	9	4	0	
+0	1	18	D	3	10	3	1	DOT	1	10	12	0	
+0	0	0	O	3	10	3	0		1	11	4	0	
+0	0	0	T	3	10	3	0		1	12	3	0	
+0	1	19	L	4	0	3	1	LST	2	0	3	0	
+0	0	0	S	4	0	3	0		0	1	7	0	
+0	0	0	T	4	0	3	0		0	2	12	0	
+1	0	0	#	4	4	3	0		5	3	4	0	
+0	1	20	C	4	4	3	1	CAY	1	4	7	0	
+0	0	0	A	4	4	3	0		3	5	4	0	
+0	0	0	Y	4	4	3	0		1	6	11	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	3	0		5	8	7	0	
+0	1	21	I	4	9	3	1	ILS	4	9	4	1	INAT
+0	0	0	L	4	9	3	0		1	10	12	0	
+0	0	0	S	4	9	3	0		1	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	22	I	5	1	6	1	IRITIS	0	1	7	0	
+0	0	0	R	5	1	6	0		0	2	12	0	
+0	1	23	I	5	1	6	0		5	3	4	1	ICAL
+0	0	0	T	5	1	6	0		1	4	7	0	
+0	0	0	I	5	1	6	0		3	5	4	0	
+0	0	0	S	5	1	6	0		1	6	11	0	
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	24	S	5	8	3	1	SNI	5	8	7	1	SCYTHES
+0	0	0	N	5	8	3	0		4	9	4	0	
+0	0	0	I	5	8	3	0		1	10	12	0	
+1	0	0	#	5	12	0	0		6	11	7	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	11	0		7	0	0	0	
+0	1	25	N	6	1	11	1	NICOLASCAGE	0	1	7	0	
+0	0	0	I	6	1	11	0		0	2	12	0	
+0	0	0	C	6	1	11	0		5	3	4	0	
+0	0	0	O	6	1	11	0		1	4	7	0	
+0	0	0	L	6	1	11	0		3	5	4	0	
+0	0	0	A	6	1	11	0		1	6	11	0	
+0	1	26	S	6	1	11	0		6	7	4	1	SHAN
+0	0	0	C	6	1	11	0		5	8	7	0	
+0	0	0	A	6	1	11	0		4	9	4	0	
+0	0	0	G	6	1	11	0		1	10	12	0	
+0	1	27	E	6	1	11	0		6	11	7	1	EMERSON
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	4	0	
+0	1	28	C	7	2	3	1	CAR	0	2	12	0	
+0	0	0	A	7	2	3	0		5	3	4	0	
+0	0	0	R	7	2	3	0		1	4	7	0	
+1	0	0	#	7	6	6	0		8	5	0	0	
+0	1	29	R	7	6	6	1	RHYTHM	1	6	11	0	
+0	0	0	H	7	6	6	0		6	7	4	0	
+0	0	0	Y	7	6	6	0		5	8	7	0	
+0	0	0	T	7	6	6	0		4	9	4	0	
+0	0	0	H	7	6	6	0		1	10	12	0	
+0	0	0	M	7	6	6	0		6	11	7	0	
+1	0	0	#	7	13	0	0		8	12	3	0	
+1	0	0	#	8	1	3	0		9	0	3	0	
+0	1	30	B	8	1	3	1	BBL	8	1	4	1	BUTT
+0	0	0	B	8	1	3	0		0	2	12	0	
+0	0	0	L	8	1	3	0		5	3	4	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	4	0	
+0	1	31	O	8	6	3	1	OAT	1	6	11	0	
+0	0	0	A	8	6	3	0		6	7	4	0	
+0	0	0	T	8	6	3	0		5	8	7	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	32	T	8	10	3	1	TEL	1	10	12	0	
+0	0	0	E	8	10	3	0		6	11	7	0	
+0	1	33	L	8	10	3	0		8	12	3	1	LAA
+0	1	34	S	9	0	3	1	SUL	9	0	3	1	SSS
+0	0	0	U	9	0	3	0		8	1	4	0	
+0	0	0	L	9	0	3	0		0	2	12	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	4	0		10	4	3	0	
+0	1	35	H	9	5	4	1	HUNH	9	5	4	1	HOED
+0	0	0	U	9	5	4	0		1	6	11	0	
+0	0	0	N	9	5	4	0		6	7	4	0	
+0	0	0	H	9	5	4	0		5	8	7	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	36	N	9	10	3	1	NRA	1	10	12	0	
+0	0	0	R	9	10	3	0		6	11	7	0	
+0	0	0	A	9	10	3	0		8	12	3	0	
+0	1	37	S	10	0	7	1	STUCKON	9	0	3	0	
+0	0	0	T	10	0	7	0		8	1	4	0	
+0	0	0	U	10	0	7	0		0	2	12	0	
+0	1	38	C	10	0	7	0		10	3	3	1	CET
+0	1	39	K	10	0	7	0		10	4	3	1	KPH
+0	0	0	O	10	0	7	0		9	5	4	0	
+0	0	0	N	10	0	7	0		1	6	11	0	
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	40	E	10	8	5	1	ELISA	5	8	7	0	
+0	1	41	L	10	8	5	0		10	9	3	1	LII
+0	0	0	I	10	8	5	0		1	10	12	0	
+0	0	0	S	10	8	5	0		6	11	7	0	
+0	0	0	A	10	8	5	0		8	12	3	0	
+0	1	42	S	11	0	7	1	STEEPED	9	0	3	0	
+0	0	0	T	11	0	7	0		8	1	4	0	
+0	0	0	E	11	0	7	0		0	2	12	0	
+0	0	0	E	11	0	7	0		10	3	3	0	
+0	0	0	P	11	0	7	0		10	4	3	0	
+0	0	0	E	11	0	7	0		9	5	4	0	
+0	0	0	D	11	0	7	0		1	6	11	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	43	S	11	8	4	1	SINO	5	8	7	0	
+0	0	0	I	11	8	4	0		10	9	3	0	
+0	0	0	N	11	8	4	0		1	10	12	0	
+0	0	0	O	11	8	4	0		6	11	7	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	44	T	12	3	3	1	THD	10	3	3	0	
+0	0	0	H	12	3	3	0		10	4	3	0	
+0	0	0	D	12	3	3	0		9	5	4	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	45	I	12	9	3	1	IGN	10	9	3	0	
+0	0	0	G	12	9	3	0		1	10	12	0	
+0	0	0	N	12	9	3	0		6	11	7	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	LEM	N.F.L. Hall-of-Famer ___ Barney
+4	TUN	Wine cask
+7	OLDE	Part of many "shoppe" names
+9	PASSAIC	New Jersey city, river or county
+13	ICEIN	Strand, somehow
+14	LELANDS	Early automaker Henry and others
+15	AKC	Dog breeder's org.
+16	AJAR	Admitting just a little light, maybe
+18	DOT	Morse code component
+19	LST	Omaha beach craft: Abbr.
+20	CAY	Reef locale
+21	ILS	They: Fr.
+22	IRITIS	Red eye cause
+24	SNI	___ and snee
+25	NICOLASCAGE	Oscar winner between Tom Hanks and Geoffrey Rush
+28	CAR	Airport rental
+29	RHYTHM	Beat
+30	BBL	Oil shipment: Abbr.
+31	OAT	Stable nibble
+32	TEL	Abbr. before a number
+34	SUL	South of Brazil?
+35	HUNH	"Whadja say?"
+36	NRA	New Deal org.
+37	STUCKON	Infatuated with
+40	ELISA	"I Still See ___" ("Paint Your Wagon" song)
+42	STEEPED	Like tea bags, traditionally
+43	SINO	___-Tibetan languages
+44	THD	Letters for a religious scholar
+45	IGN	Car starter: Abbr.
+25
+1	LOCKSIN	Commits to, as an interest rate
+2	ELECTRICBLUE	Hue similar to cyan
+3	MDI	Start of the 16th century
+4	TAER	Six-foot vis-
+5	USL	Southeastern Conf. team
+6	NSA	Intel org.
+8	ENACTOR	Legislator
+9	PLAYSAROUND	Clowns
+10	ANDLIGHTNING	End of the quip
+11	IDOS	Nuptial exchange
+12	CST	Setting for St. Paul: Abbr.
+13	IAL	Suffix with adverb
+17	JAIL	Monopoly corner square
+21	INAT	___ the finish
+23	ICAL	Suffix with myth
+24	SCYTHES	They cut quite a swath
+26	SHAN	Central Asia's Tien ___ Mountains
+27	EMERSON	The Sage of Concord
+30	BUTT	Set end to end
+33	LAA	"___ note to follow ..."
+34	SSS	Lottery org.
+35	HOED	Did groundwork?
+38	CET	This, in Thiers
+39	KPH	Speed meas. in Europe
+41	LII	Number of weeks per annum?

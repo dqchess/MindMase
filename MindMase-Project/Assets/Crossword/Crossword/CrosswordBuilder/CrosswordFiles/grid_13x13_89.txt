@@ -1,0 +1,229 @@
+grid_13x13_89
+13
+1	0	0	#	0	1	5	0		1	0	4	0	
+0	1	1	S	0	1	5	1	SIGEP	0	1	7	1	SAMURAI
+0	1	2	I	0	1	5	0		0	2	13	1	ITENDSHAPPILY
+0	1	3	G	0	1	5	0		0	3	3	1	GER
+0	1	4	E	0	1	5	0		0	4	3	1	ERI
+0	1	5	P	0	1	5	0		0	5	3	1	PSC
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	6	N	0	9	3	1	NGN	0	9	3	1	NER
+0	1	7	G	0	9	3	0		0	10	13	1	GREATSALTLAKE
+0	1	8	N	0	9	3	0		0	11	5	1	NEATH
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	9	T	1	0	6	1	TATERS	1	0	4	1	TARA
+0	0	0	A	1	0	6	0		0	1	7	0	
+0	0	0	T	1	0	6	0		0	2	13	0	
+0	0	0	E	1	0	6	0		0	3	3	0	
+0	0	0	R	1	0	6	0		0	4	3	0	
+0	0	0	S	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	6	0		2	6	9	0	
+0	1	10	S	1	7	6	1	SEERED	1	7	3	1	SNI
+0	1	11	E	1	7	6	0		1	8	3	1	EDA
+0	0	0	E	1	7	6	0		0	9	3	0	
+0	0	0	R	1	7	6	0		0	10	13	0	
+0	0	0	E	1	7	6	0		0	11	5	0	
+0	1	12	D	1	7	6	0		1	12	3	1	DMA
+0	1	13	A	2	0	13	1	AMERICANDREAM	1	0	4	0	
+0	0	0	M	2	0	13	0		0	1	7	0	
+0	0	0	E	2	0	13	0		0	2	13	0	
+0	0	0	R	2	0	13	0		0	3	3	0	
+0	0	0	I	2	0	13	0		0	4	3	0	
+0	0	0	C	2	0	13	0		0	5	3	0	
+0	1	14	A	2	0	13	0		2	6	9	1	ANTEATERS
+0	0	0	N	2	0	13	0		1	7	3	0	
+0	0	0	D	2	0	13	0		1	8	3	0	
+0	0	0	R	2	0	13	0		0	9	3	0	
+0	0	0	E	2	0	13	0		0	10	13	0	
+0	0	0	A	2	0	13	0		0	11	5	0	
+0	0	0	M	2	0	13	0		1	12	3	0	
+0	1	15	R	3	0	3	1	RUN	1	0	4	0	
+0	0	0	U	3	0	3	0		0	1	7	0	
+0	0	0	N	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	4	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	16	N	3	6	3	1	NIA	2	6	9	0	
+0	0	0	I	3	6	3	0		1	7	3	0	
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	3	10	3	0		4	9	4	0	
+0	1	17	A	3	10	3	1	ATA	0	10	13	0	
+0	0	0	T	3	10	3	0		0	11	5	0	
+0	0	0	A	3	10	3	0		1	12	3	0	
+0	1	18	A	4	0	3	1	ARD	1	0	4	0	
+0	0	0	R	4	0	3	0		0	1	7	0	
+0	0	0	D	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	4	0	
+0	1	19	N	4	4	3	1	NUT	4	4	4	1	NUVA
+0	1	20	U	4	4	3	0		4	5	3	1	URE
+0	0	0	T	4	4	3	0		2	6	9	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	3	0		5	8	4	0	
+0	1	21	A	4	9	3	1	ATH	4	9	4	1	ADES
+0	0	0	T	4	9	3	0		0	10	13	0	
+0	0	0	H	4	9	3	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	22	A	5	1	6	1	ASPURE	0	1	7	0	
+0	0	0	S	5	1	6	0		0	2	13	0	
+0	1	23	P	5	1	6	0		5	3	4	1	PAVE
+0	0	0	U	5	1	6	0		4	4	4	0	
+0	0	0	R	5	1	6	0		4	5	3	0	
+0	0	0	E	5	1	6	0		2	6	9	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	24	T	5	8	3	1	TDS	5	8	4	1	TRUE
+0	0	0	D	5	8	3	0		4	9	4	0	
+0	0	0	S	5	8	3	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	7	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	11	0		7	0	0	0	
+0	1	25	I	6	1	11	1	IHAVEADREAM	0	1	7	0	
+0	0	0	H	6	1	11	0		0	2	13	0	
+0	0	0	A	6	1	11	0		5	3	4	0	
+0	0	0	V	6	1	11	0		4	4	4	0	
+0	0	0	E	6	1	11	0		4	5	3	0	
+0	0	0	A	6	1	11	0		2	6	9	0	
+0	1	26	D	6	1	11	0		6	7	3	1	DOM
+0	0	0	R	6	1	11	0		5	8	4	0	
+0	0	0	E	6	1	11	0		4	9	4	0	
+0	0	0	A	6	1	11	0		0	10	13	0	
+0	1	27	M	6	1	11	0		6	11	7	1	MESSILY
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	5	0	
+0	1	28	A	7	2	3	1	AVA	0	2	13	0	
+0	0	0	V	7	2	3	0		5	3	4	0	
+0	0	0	A	7	2	3	0		4	4	4	0	
+1	0	0	#	7	6	6	0		8	5	0	0	
+0	1	29	T	7	6	6	1	TOUSLE	2	6	9	0	
+0	0	0	O	7	6	6	0		6	7	3	0	
+0	0	0	U	7	6	6	0		5	8	4	0	
+0	0	0	S	7	6	6	0		4	9	4	0	
+0	0	0	L	7	6	6	0		0	10	13	0	
+0	0	0	E	7	6	6	0		6	11	7	0	
+1	0	0	#	7	13	0	0		8	12	4	0	
+1	0	0	#	8	1	3	0		9	0	3	0	
+0	1	30	O	8	1	3	1	OPE	8	1	5	1	OEUFS
+0	0	0	P	8	1	3	0		0	2	13	0	
+0	0	0	E	8	1	3	0		5	3	4	0	
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	31	E	8	6	3	1	EME	2	6	9	0	
+0	0	0	M	8	6	3	0		6	7	3	0	
+0	0	0	E	8	6	3	0		5	8	4	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	32	T	8	10	3	1	TSP	0	10	13	0	
+0	0	0	S	8	10	3	0		6	11	7	0	
+0	1	33	P	8	10	3	0		8	12	4	1	PINY
+0	1	34	R	9	0	3	1	REP	9	0	3	1	RGT
+0	0	0	E	9	0	3	0		8	1	5	0	
+0	0	0	P	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	35	D	9	4	3	1	DVR	9	4	3	1	DNY
+0	1	36	V	9	4	3	0		9	5	3	1	VEA
+0	0	0	R	9	4	3	0		2	6	9	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	37	L	9	10	3	1	LSI	0	10	13	0	
+0	0	0	S	9	10	3	0		6	11	7	0	
+0	0	0	I	9	10	3	0		8	12	4	0	
+0	1	38	G	10	0	13	1	GUINNESSAGAIN	9	0	3	0	
+0	0	0	U	10	0	13	0		8	1	5	0	
+0	0	0	I	10	0	13	0		0	2	13	0	
+0	1	39	N	10	0	13	0		10	3	3	1	NBS
+0	0	0	N	10	0	13	0		9	4	3	0	
+0	0	0	E	10	0	13	0		9	5	3	0	
+0	0	0	S	10	0	13	0		2	6	9	0	
+0	1	40	S	10	0	13	0		10	7	3	1	STA
+0	1	41	A	10	0	13	0		10	8	3	1	AIL
+0	1	42	G	10	0	13	0		10	9	3	1	GNL
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	0	0	I	10	0	13	0		6	11	7	0	
+0	0	0	N	10	0	13	0		8	12	4	0	
+0	1	43	T	11	0	6	1	TFLBYA	9	0	3	0	
+0	0	0	F	11	0	6	0		8	1	5	0	
+0	0	0	L	11	0	6	0		0	2	13	0	
+0	0	0	B	11	0	6	0		10	3	3	0	
+0	0	0	Y	11	0	6	0		9	4	3	0	
+0	0	0	A	11	0	6	0		9	5	3	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	44	T	11	7	6	1	TINKLY	10	7	3	0	
+0	0	0	I	11	7	6	0		10	8	3	0	
+0	0	0	N	11	7	6	0		10	9	3	0	
+0	0	0	K	11	7	6	0		0	10	13	0	
+0	0	0	L	11	7	6	0		6	11	7	0	
+0	0	0	Y	11	7	6	0		8	12	4	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	45	S	12	1	3	1	SYS	8	1	5	0	
+0	0	0	Y	12	1	3	0		0	2	13	0	
+0	0	0	S	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	5	0		13	6	0	0	
+0	1	46	A	12	7	5	1	ALLEY	10	7	3	0	
+0	0	0	L	12	7	5	0		10	8	3	0	
+0	0	0	L	12	7	5	0		10	9	3	0	
+0	0	0	E	12	7	5	0		0	10	13	0	
+0	0	0	Y	12	7	5	0		6	11	7	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	SIGEP	Largest college fraternity in the U.S., in brief
+6	NGN	Stitch
+9	TATERS	Spuds
+10	SEERED	Get steamed
+13	AMERICANDREAM	Statesman Doria seen in an idealistic vision?
+15	RUN	Score
+16	NIA	Main role on "My Big Fat Greek Life"
+17	ATA	One-time connector
+18	ARD	Suffix with tank
+19	NUT	It fits under a head
+21	ATH	Some history memorization
+22	ASPURE	Comparable to driven snow
+24	TDS	Grid stats
+25	IHAVEADREAM	Declaration of 8/28/63
+28	AVA	Palindromic girl's name
+29	TOUSLE	Mess up
+30	OPE	Unlock, to a bard
+31	EME	Suffix in linguistics
+32	TSP	It's sometimes heaping: Abbr.
+34	REP	Gymgoer's unit
+35	DVR	TiVo, for one, in brief
+37	LSI	Long-running B'way musical seen by couples?
+38	GUINNESSAGAIN	Jaded ale drinker's question?
+43	TFLBYA	Some heads of state
+44	TINKLY	Like wind chimes
+45	SYS	Part of S.S.S.: Abbr.
+46	ALLEY	Way with strays?
+29
+1	SAMURAI	Belushi character on "S.N.L."
+2	ITENDSHAPPILY	Why is Y like a romance novel?
+3	GER	Eur. language
+4	ERI	"___ tu che macchiavi" (Verdi lyric)
+5	PSC	Utilities watchdog grp.
+6	NER	___ Tamid (synagogue lamp)
+7	GREATSALTLAKE	West Jordan is near it
+8	NEATH	Not o'er
+9	TARA	Butler's locale
+10	SNI	___ and snee
+11	EDA	Coloratura Christiane ___-Pierre
+12	DMA	Basic teaching
+14	ANTEATERS	Hill predators
+19	NUVA	___Ring (birth control brand)
+20	URE	Mary of "Where Eagles Dare"
+21	ADES	Sidewalk stand drinks
+23	PAVE	Do roadwork
+24	TRUE	Reliable
+26	DOM	Suffix with czar
+27	MESSILY	How a toddler eats
+30	OEUFS	Quiche ingr
+33	PINY	Like potpourri, sometimes
+34	RGT	Mil. unit
+35	DNY	Letters after Daniel Moynihan's name
+36	VEA	Miles of film
+39	NBS	Measurements overseer: Abbr.
+40	STA	Penn., for one
+41	AIL	Feel queasy, e.g.
+42	GNL	Anguilla is part of it: Abbr.

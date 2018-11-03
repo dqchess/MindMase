@@ -1,0 +1,115 @@
+grid_9x9_90
+9
+0	1	1	O	0	0	3	1	OCC	0	0	4	1	OZIE
+0	1	2	C	0	0	3	0		0	1	5	1	CSPAW
+0	1	3	C	0	0	3	0		0	2	9	1	CHARYBDIS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	7	0	
+0	1	4	O	0	5	4	1	OAHU	0	5	5	1	ONION
+0	1	5	A	0	5	4	0		0	6	9	1	ABSENTEES
+0	1	6	H	0	5	4	0		0	7	3	1	HAS
+0	1	7	U	0	5	4	0		0	8	3	1	UGE
+0	1	8	Z	1	0	3	1	ZSH	0	0	4	0	
+0	0	0	S	1	0	3	0		0	1	5	0	
+0	0	0	H	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	9	U	1	4	5	1	UNBAG	1	4	7	1	UNCOILS
+0	0	0	N	1	4	5	0		0	5	5	0	
+0	0	0	B	1	4	5	0		0	6	9	0	
+0	0	0	A	1	4	5	0		0	7	3	0	
+0	0	0	G	1	4	5	0		0	8	3	0	
+0	1	10	I	2	0	3	1	IPA	0	0	4	0	
+0	0	0	P	2	0	3	0		0	1	5	0	
+0	0	0	A	2	0	3	0		0	2	9	0	
+1	0	0	#	2	4	5	0		3	3	0	0	
+0	1	11	N	2	4	5	1	NISSE	1	4	7	0	
+0	0	0	I	2	4	5	0		0	5	5	0	
+0	0	0	S	2	4	5	0		0	6	9	0	
+0	0	0	S	2	4	5	0		0	7	3	0	
+0	0	0	E	2	4	5	0		0	8	3	0	
+0	1	12	E	3	0	3	1	EAR	0	0	4	0	
+0	0	0	A	3	0	3	0		0	1	5	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	5	0	
+0	1	13	C	3	4	3	1	COE	1	4	7	0	
+0	0	0	O	3	4	3	0		0	5	5	0	
+0	0	0	E	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	W	4	1	7	1	WYNONNA	0	1	5	0	
+0	0	0	Y	4	1	7	0		0	2	9	0	
+0	1	15	N	4	1	7	0		4	3	5	1	NOEAR
+0	0	0	O	4	1	7	0		1	4	7	0	
+0	0	0	N	4	1	7	0		0	5	5	0	
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	1	16	A	4	1	7	0		4	7	5	1	AUDIO
+1	0	0	#	4	9	0	0		5	8	4	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	B	5	2	3	1	BOI	0	2	9	0	
+0	0	0	O	5	2	3	0		4	3	5	0	
+0	0	0	I	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	0	0	
+0	1	18	T	5	6	3	1	TUB	0	6	9	0	
+0	0	0	U	5	6	3	0		4	7	5	0	
+0	1	19	B	5	6	3	0		5	8	4	1	BANS
+0	1	20	M	6	0	5	1	MODEL	6	0	3	1	MAU
+0	1	21	O	6	0	5	0		6	1	3	1	OLS
+0	0	0	D	6	0	5	0		0	2	9	0	
+0	0	0	E	6	0	5	0		4	3	5	0	
+0	0	0	L	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	22	E	6	6	3	1	EDA	0	6	9	0	
+0	0	0	D	6	6	3	0		4	7	5	0	
+0	0	0	A	6	6	3	0		5	8	4	0	
+0	1	23	A	7	0	5	1	ALIAS	6	0	3	0	
+0	0	0	L	7	0	5	0		6	1	3	0	
+0	0	0	I	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		4	3	5	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	E	7	6	3	1	EIN	0	6	9	0	
+0	0	0	I	7	6	3	0		4	7	5	0	
+0	0	0	N	7	6	3	0		5	8	4	0	
+0	1	25	U	8	0	4	1	USSR	6	0	3	0	
+0	0	0	S	8	0	4	0		6	1	3	0	
+0	0	0	S	8	0	4	0		0	2	9	0	
+0	0	0	R	8	0	4	0		4	3	5	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	S	8	6	3	1	SOS	0	6	9	0	
+0	0	0	O	8	6	3	0		4	7	5	0	
+0	0	0	S	8	6	3	0		5	8	4	0	
+17
+1	OCC	Infrequent: Abbr.
+4	OAHU	Kailua Bay's setting
+8	ZSH	Actress Lupino
+9	UNBAG	Remove from a sack
+10	IPA	Pronunciation guide std.
+11	NISSE	Friendly goblin in Scandinavian folklore
+12	EAR	Pitcher part
+13	COE	Iowa school
+14	WYNONNA	1992 country album
+17	BOI	Avril Lavigne's "Sk8er ___"
+18	TUB	Container
+20	MODEL	Catalogue illustration
+22	EDA	LeShan who wrote child-care books
+23	ALIAS	TV spy series starring Jennifer Garner
+24	EIN	One in a Biergarten?
+25	USSR	It disappeared on Dec. 26, 1991
+26	SOS	Certain smoke signal
+13
+1	OZIE	Harriet's mate
+2	CSPAW	Stooge
+3	CHARYBDIS	Sea monster of Greek myth able to make whirlpools
+4	ONION	Burger garnish
+5	ABSENTEES	They're missing from a roll
+6	HAS	Boasts
+7	UGE	Treatment
+9	UNCOILS	Straightens out
+15	NOEAR	An absence of musical skill
+16	AUDIO	Studio feed
+19	BANS	Some diktats
+20	MAU	Egyptian ___ (cat breed)
+21	OLS	Barn denizens

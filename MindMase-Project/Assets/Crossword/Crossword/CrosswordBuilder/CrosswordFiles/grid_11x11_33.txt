@@ -1,0 +1,169 @@
+grid_11x11_33
+11
+0	1	1	M	0	0	3	1	MOR	0	0	3	1	MAU
+0	1	2	O	0	0	3	0		0	1	11	1	OPPOSITEWAY
+0	1	3	R	0	0	3	0		0	2	11	1	ROTARYPHONE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	L	0	4	3	1	LIQ	0	4	6	1	LETSEE
+0	1	5	I	0	4	3	0		0	5	3	1	INH
+0	1	6	Q	0	4	3	0		0	6	3	1	QIE
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	C	0	8	3	1	CWT	0	8	11	1	CLARABARTON
+0	1	8	W	0	8	3	0		0	9	11	1	WESTPOINTNY
+0	1	9	T	0	8	3	0		0	10	3	1	TSK
+0	1	10	A	1	0	3	1	APO	0	0	3	0	
+0	0	0	P	1	0	3	0		0	1	11	0	
+0	0	0	O	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	11	E	1	4	7	1	ENISLES	0	4	6	0	
+0	0	0	N	1	4	7	0		0	5	3	0	
+0	0	0	I	1	4	7	0		0	6	3	0	
+0	1	12	S	1	4	7	0		1	7	3	1	STA
+0	0	0	L	1	4	7	0		0	8	11	0	
+0	0	0	E	1	4	7	0		0	9	11	0	
+0	0	0	S	1	4	7	0		0	10	3	0	
+0	1	13	U	2	0	11	1	UPTOTHETASK	0	0	3	0	
+0	0	0	P	2	0	11	0		0	1	11	0	
+0	0	0	T	2	0	11	0		0	2	11	0	
+0	1	14	O	2	0	11	0		2	3	3	1	ORA
+0	0	0	T	2	0	11	0		0	4	6	0	
+0	0	0	H	2	0	11	0		0	5	3	0	
+0	0	0	E	2	0	11	0		0	6	3	0	
+0	0	0	T	2	0	11	0		1	7	3	0	
+0	0	0	A	2	0	11	0		0	8	11	0	
+0	0	0	S	2	0	11	0		0	9	11	0	
+0	0	0	K	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	4	0		4	0	3	0	
+0	1	15	O	3	1	4	1	OARS	0	1	11	0	
+0	0	0	A	3	1	4	0		0	2	11	0	
+0	0	0	R	3	1	4	0		2	3	3	0	
+0	0	0	S	3	1	4	0		0	4	6	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	16	A	3	7	3	1	ART	1	7	3	0	
+0	0	0	R	3	7	3	0		0	8	11	0	
+0	0	0	T	3	7	3	0		0	9	11	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	I	4	0	6	1	ISRAEL	4	0	3	1	IDS
+0	0	0	S	4	0	6	0		0	1	11	0	
+0	0	0	R	4	0	6	0		0	2	11	0	
+0	0	0	A	4	0	6	0		2	3	3	0	
+0	0	0	E	4	0	6	0		0	4	6	0	
+0	1	18	L	4	0	6	0		4	5	3	1	LES
+1	0	0	#	4	7	0	0		5	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	A	4	8	3	1	APA	0	8	11	0	
+0	0	0	P	4	8	3	0		0	9	11	0	
+0	1	20	A	4	8	3	0		4	10	3	1	AIT
+0	1	21	D	5	0	3	1	DIY	4	0	3	0	
+0	0	0	I	5	0	3	0		0	1	11	0	
+0	0	0	Y	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	22	E	5	4	3	1	EES	0	4	6	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	1	23	S	5	4	3	0		5	6	6	1	STYMIE
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	24	B	5	8	3	1	BOI	0	8	11	0	
+0	0	0	O	5	8	3	0		0	9	11	0	
+0	0	0	I	5	8	3	0		4	10	3	0	
+0	1	25	S	6	0	3	1	STP	4	0	3	0	
+0	0	0	T	6	0	3	0		0	1	11	0	
+0	0	0	P	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	6	0		7	4	0	0	
+0	1	26	S	6	5	6	1	STRAIT	4	5	3	0	
+0	0	0	T	6	5	6	0		5	6	6	0	
+0	1	27	R	6	5	6	0		6	7	3	1	RAU
+0	0	0	A	6	5	6	0		0	8	11	0	
+0	0	0	I	6	5	6	0		0	9	11	0	
+0	0	0	T	6	5	6	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	28	E	7	1	3	1	EHS	0	1	11	0	
+0	0	0	H	7	1	3	0		0	2	11	0	
+0	1	29	S	7	1	3	0		7	3	3	1	SIT
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	30	Y	7	6	4	1	YARN	5	6	6	0	
+0	0	0	A	7	6	4	0		6	7	3	0	
+0	0	0	R	7	6	4	0		0	8	11	0	
+0	0	0	N	7	6	4	0		0	9	11	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	A	8	0	11	1	AWOIAWMUTTO	8	0	3	1	ASD
+0	0	0	W	8	0	11	0		0	1	11	0	
+0	0	0	O	8	0	11	0		0	2	11	0	
+0	0	0	I	8	0	11	0		7	3	3	0	
+0	1	32	A	8	0	11	0		8	4	3	1	AIR
+0	1	33	W	8	0	11	0		8	5	3	1	WNW
+0	0	0	M	8	0	11	0		5	6	6	0	
+0	0	0	U	8	0	11	0		6	7	3	0	
+0	0	0	T	8	0	11	0		0	8	11	0	
+0	0	0	T	8	0	11	0		0	9	11	0	
+0	1	34	O	8	0	11	0		8	10	3	1	OAT
+0	1	35	S	9	0	7	1	SANTINI	8	0	3	0	
+0	0	0	A	9	0	7	0		0	1	11	0	
+0	0	0	N	9	0	7	0		0	2	11	0	
+0	0	0	T	9	0	7	0		7	3	3	0	
+0	0	0	I	9	0	7	0		8	4	3	0	
+0	0	0	N	9	0	7	0		8	5	3	0	
+0	0	0	I	9	0	7	0		5	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	36	O	9	8	3	1	ONA	0	8	11	0	
+0	0	0	N	9	8	3	0		0	9	11	0	
+0	0	0	A	9	8	3	0		8	10	3	0	
+0	1	37	D	10	0	3	1	DYE	8	0	3	0	
+0	0	0	Y	10	0	3	0		0	1	11	0	
+0	0	0	E	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	38	R	10	4	3	1	RWE	8	4	3	0	
+0	0	0	W	10	4	3	0		8	5	3	0	
+0	0	0	E	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	39	N	10	8	3	1	NYT	0	8	11	0	
+0	0	0	Y	10	8	3	0		0	9	11	0	
+0	0	0	T	10	8	3	0		8	10	3	0	
+23
+1	MOR	Neighbor of Alg.
+4	LIQ	Subject of a lic.
+7	CWT	Portion of a ton: Abbr.
+10	APO	Mil. drop site
+11	ENISLES	Banishes to Elba, e.g.
+13	UPTOTHETASK	Skilled enough
+15	OARS	Coxswain's lack
+16	ART	Some hangings
+17	ISRAEL	Name given to Jacob after he wrestled with the angel
+19	APA	Shrinks' org.
+21	DIY	Like many a home improvement project, for short
+22	EES	Some wiring whizzes: Abbr.
+24	BOI	"Sk8er ___" (2002 top 10 hit)
+25	STP	Indy 500 logo
+26	STRAIT	Narrow way
+28	EHS	Sounds of surprise
+30	YARN	Adventurers' tale
+31	AWOIAWMUTTO	Radar's hometown, in "M*A*S*H"
+35	SANTINI	"The Great ___" (Pat Conroy novel)
+36	ONA	___ high
+37	DYE	___ job
+38	RWE	"Concord Hymn" writer's inits.
+39	NYT	Largest city paper in the U.S.: Abbr.
+21
+1	MAU	Egyptian ___ (cat breed)
+2	OPPOSITEWAY	Other direction
+3	ROTARYPHONE	Disappearing communication device
+4	LETSEE	Show
+5	INH	Foot part
+6	QIE	Dog in "Dondi" [black]
+7	CLARABARTON	Celebrity born Christmas 1821
+8	WESTPOINTNY	Home of the U.S. Military Academy
+9	TSK	Sound of rebuke
+12	STA	Filament holder
+14	ORA	___ e sempre (now and always): It.
+17	IDS	Cards with photos, for short
+18	LES	Kelly's "___ Girls"
+20	AIT	Islet
+23	STYMIE	Stonewall, say
+27	RAU	Former German president Johannes
+29	SIT	Mind the baby
+31	ASD	Comparable in years
+32	AIR	Space station supply
+33	WNW	Vane dir.
+34	OAT	One makes one Trigger happy

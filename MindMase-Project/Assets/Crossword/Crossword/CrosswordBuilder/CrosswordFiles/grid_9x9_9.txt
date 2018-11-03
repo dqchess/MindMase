@@ -1,0 +1,115 @@
+grid_9x9_9
+9
+0	1	1	N	0	0	3	1	NEH	0	0	3	1	NAW
+0	1	2	E	0	0	3	0		0	1	3	1	EXE
+0	1	3	H	0	0	3	0		0	2	9	1	HELLODOLL
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	M	0	4	3	1	MAN	0	4	9	1	MATUTINAL
+0	1	5	A	0	4	3	0		0	5	3	1	ALI
+0	1	6	N	0	4	3	0		0	6	9	1	NUMBERSIX
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	A	1	0	3	1	AXE	0	0	3	0	
+0	0	0	X	1	0	3	0		0	1	3	0	
+0	0	0	E	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	A	1	4	5	1	ALULA	0	4	9	0	
+0	0	0	L	1	4	5	0		0	5	3	0	
+0	0	0	U	1	4	5	0		0	6	9	0	
+0	1	9	L	1	4	5	0		1	7	4	1	LESS
+0	1	10	A	1	4	5	0		1	8	3	1	ADC
+0	1	11	W	2	0	9	1	WELLTIMED	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	3	0	
+0	0	0	L	2	0	9	0		0	2	9	0	
+0	1	12	L	2	0	9	0		2	3	3	1	LEE
+0	0	0	T	2	0	9	0		0	4	9	0	
+0	0	0	I	2	0	9	0		0	5	3	0	
+0	0	0	M	2	0	9	0		0	6	9	0	
+0	0	0	E	2	0	9	0		1	7	4	0	
+0	0	0	D	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	13	L	3	2	3	1	LEU	0	2	9	0	
+0	0	0	E	3	2	3	0		2	3	3	0	
+0	0	0	U	3	2	3	0		0	4	9	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	B	3	6	3	1	BSC	0	6	9	0	
+0	0	0	S	3	6	3	0		1	7	4	0	
+0	0	0	C	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	15	R	4	1	7	1	ROETTES	4	1	4	1	RCMP
+0	0	0	O	4	1	7	0		0	2	9	0	
+0	0	0	E	4	1	7	0		2	3	3	0	
+0	0	0	T	4	1	7	0		0	4	9	0	
+0	1	16	T	4	1	7	0		4	5	3	1	TET
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		1	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	B	5	0	3	1	BCD	5	0	3	1	BAA
+0	0	0	C	5	0	3	0		4	1	4	0	
+0	0	0	D	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	I	5	4	3	1	IER	0	4	9	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	R	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	A	6	0	9	1	AMOUNTSTO	5	0	3	0	
+0	0	0	M	6	0	9	0		4	1	4	0	
+0	0	0	O	6	0	9	0		0	2	9	0	
+0	1	20	U	6	0	9	0		6	3	3	1	UEA
+0	0	0	N	6	0	9	0		0	4	9	0	
+0	0	0	T	6	0	9	0		4	5	3	0	
+0	0	0	S	6	0	9	0		0	6	9	0	
+0	1	21	T	6	0	9	0		6	7	3	1	TOV
+0	1	22	O	6	0	9	0		6	8	3	1	OUI
+0	1	23	A	7	0	5	1	APLEA	5	0	3	0	
+0	0	0	P	7	0	5	0		4	1	4	0	
+0	0	0	L	7	0	5	0		0	2	9	0	
+0	0	0	E	7	0	5	0		6	3	3	0	
+0	0	0	A	7	0	5	0		0	4	9	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	I	7	6	3	1	IOU	0	6	9	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	U	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	25	L	8	2	3	1	LAL	0	2	9	0	
+0	0	0	A	8	2	3	0		6	3	3	0	
+0	0	0	L	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	X	8	6	3	1	XVI	0	6	9	0	
+0	0	0	V	8	6	3	0		6	7	3	0	
+0	0	0	I	8	6	3	0		6	8	3	0	
+15
+1	NEH	Book between Ezra and Esther: Abbr.
+4	MAN	"Holy smokes!"
+7	AXE	Wood splitter
+8	ALULA	"Be-Bop-___"
+11	WELLTIMED	Serendipitous
+13	LEU	Romanian money
+14	BSC	Deg. in biology or physics
+15	ROETTES	1960s girl group, with "the"
+17	BCD	String after A
+18	IER	Occupational ending
+19	AMOUNTSTO	Totals
+23	APLEA	Cop ___ (negotiate for a lighter sentence)
+24	IOU	Note
+25	LAL	Permitted
+26	XVI	Last Pope Gregory
+15
+1	NAW	No, slangily
+2	EXE	Computer filename extension
+3	HELLODOLL	Pickup artist's line?
+4	MATUTINAL	Of the morning
+5	ALI	One called "The Lion of God"
+6	NUMBERSIX	Bill Russell's was retired
+9	LESS	To a smaller degree
+10	ADC	Military asst.
+12	LEE	One side of a ship
+15	RCMP	Law grp.
+16	TET	Lunar New Year
+17	BAA	Sheepish response
+20	UEA	Pupil's place
+21	TOV	Yom ___ (Jewish holiday)
+22	OUI	Pro vote in a French referendum

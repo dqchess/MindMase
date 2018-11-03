@@ -1,0 +1,169 @@
+grid_11x11_108
+11
+0	1	1	A	0	0	3	1	ADE	0	0	3	1	ANO
+0	1	2	D	0	0	3	0		0	1	3	1	DOE
+0	1	3	E	0	0	3	0		0	2	11	1	EENSYWEENSY
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	6	0		1	4	5	0	
+0	1	4	I	0	5	6	1	INSTAL	0	5	3	1	ILO
+0	1	5	N	0	5	6	0		0	6	3	1	NOO
+0	1	6	S	0	5	6	0		0	7	4	1	SCLS
+0	1	7	T	0	5	6	0		0	8	11	1	TAKETOHARTE
+0	1	8	A	0	5	6	0		0	9	7	1	ANIMIST
+0	1	9	L	0	5	6	0		0	10	3	1	LOT
+0	1	10	N	1	0	3	1	NOE	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	3	0	
+0	0	0	E	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	0	0	
+0	1	11	I	1	4	7	1	ILOCANO	1	4	5	1	ITSNO
+0	0	0	L	1	4	7	0		0	5	3	0	
+0	0	0	O	1	4	7	0		0	6	3	0	
+0	0	0	C	1	4	7	0		0	7	4	0	
+0	0	0	A	1	4	7	0		0	8	11	0	
+0	0	0	N	1	4	7	0		0	9	7	0	
+0	0	0	O	1	4	7	0		0	10	3	0	
+0	1	12	O	2	0	3	1	OEN	0	0	3	0	
+0	0	0	E	2	0	3	0		0	1	3	0	
+0	0	0	N	2	0	3	0		0	2	11	0	
+1	0	0	#	2	4	7	0		3	3	3	0	
+0	1	13	T	2	4	7	1	TOOLKIT	1	4	5	0	
+0	0	0	O	2	4	7	0		0	5	3	0	
+0	0	0	O	2	4	7	0		0	6	3	0	
+0	0	0	L	2	4	7	0		0	7	4	0	
+0	0	0	K	2	4	7	0		0	8	11	0	
+0	0	0	I	2	4	7	0		0	9	7	0	
+0	0	0	T	2	4	7	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	7	0	
+0	1	14	S	3	2	3	1	SDS	0	2	11	0	
+0	1	15	D	3	2	3	0		3	3	3	1	DIY
+0	0	0	S	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	16	S	3	7	3	1	SEM	0	7	4	0	
+0	0	0	E	3	7	3	0		0	8	11	0	
+0	0	0	M	3	7	3	0		0	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	S	4	0	6	1	SAYING	4	0	3	1	SNO
+0	1	18	A	4	0	6	0		4	1	7	1	AEROSOL
+0	0	0	Y	4	0	6	0		0	2	11	0	
+0	0	0	I	4	0	6	0		3	3	3	0	
+0	0	0	N	4	0	6	0		1	4	5	0	
+0	1	19	G	4	0	6	0		4	5	3	1	GRR
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	3	0	
+0	1	20	T	4	8	3	1	TIE	0	8	11	0	
+0	0	0	I	4	8	3	0		0	9	7	0	
+0	1	21	E	4	8	3	0		4	10	3	1	ETS
+0	1	22	N	5	0	11	1	NEWYORKPOST	4	0	3	0	
+0	0	0	E	5	0	11	0		4	1	7	0	
+0	0	0	W	5	0	11	0		0	2	11	0	
+0	0	0	Y	5	0	11	0		3	3	3	0	
+0	0	0	O	5	0	11	0		1	4	5	0	
+0	0	0	R	5	0	11	0		4	5	3	0	
+0	1	23	K	5	0	11	0		5	6	5	1	KISSA
+0	1	24	P	5	0	11	0		5	7	3	1	PGS
+0	0	0	O	5	0	11	0		0	8	11	0	
+0	0	0	S	5	0	11	0		0	9	7	0	
+0	0	0	T	5	0	11	0		4	10	3	0	
+0	1	25	O	6	0	3	1	ORE	4	0	3	0	
+0	0	0	R	6	0	3	0		4	1	7	0	
+0	0	0	E	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	6	0		7	4	0	0	
+0	1	26	R	6	5	6	1	RIGHTS	4	5	3	0	
+0	0	0	I	6	5	6	0		5	6	5	0	
+0	0	0	G	6	5	6	0		5	7	3	0	
+0	0	0	H	6	5	6	0		0	8	11	0	
+0	0	0	T	6	5	6	0		0	9	7	0	
+0	0	0	S	6	5	6	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	27	O	7	1	3	1	OED	4	1	7	0	
+0	0	0	E	7	1	3	0		0	2	11	0	
+0	1	28	D	7	1	3	0		7	3	4	1	DEAE
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	29	S	7	6	3	1	SSA	5	6	5	0	
+0	0	0	S	7	6	3	0		5	7	3	0	
+0	0	0	A	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	30	B	8	0	7	1	BSNESTS	8	0	3	1	BRS
+0	0	0	S	8	0	7	0		4	1	7	0	
+0	0	0	N	8	0	7	0		0	2	11	0	
+0	0	0	E	8	0	7	0		7	3	4	0	
+0	1	31	S	8	0	7	0		8	4	3	1	SLS
+0	1	32	T	8	0	7	0		8	5	3	1	TIT
+0	0	0	S	8	0	7	0		5	6	5	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	33	R	8	8	3	1	RAB	0	8	11	0	
+0	1	34	A	8	8	3	0		8	9	3	1	ABO
+0	1	35	B	8	8	3	0		8	10	3	1	BAS
+0	1	36	R	9	0	7	1	ROSALIA	8	0	3	0	
+0	0	0	O	9	0	7	0		4	1	7	0	
+0	0	0	S	9	0	7	0		0	2	11	0	
+0	0	0	A	9	0	7	0		7	3	4	0	
+0	0	0	L	9	0	7	0		8	4	3	0	
+0	0	0	I	9	0	7	0		8	5	3	0	
+0	0	0	A	9	0	7	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	37	T	9	8	3	1	TBA	0	8	11	0	
+0	0	0	B	9	8	3	0		8	9	3	0	
+0	0	0	A	9	8	3	0		8	10	3	0	
+0	1	38	S	10	0	6	1	SLYEST	8	0	3	0	
+0	0	0	L	10	0	6	0		4	1	7	0	
+0	0	0	Y	10	0	6	0		0	2	11	0	
+0	0	0	E	10	0	6	0		7	3	4	0	
+0	0	0	S	10	0	6	0		8	4	3	0	
+0	0	0	T	10	0	6	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	39	E	10	8	3	1	EOS	0	8	11	0	
+0	0	0	O	10	8	3	0		8	9	3	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+21
+1	ADE	Sidewalk stand product
+4	INSTAL	Hook up: Var.
+10	NOE	Arca de ___ (boat in la biblia)
+11	ILOCANO	Filipino of northern Luzon
+12	OEN	Wine: Prefix
+13	TOOLKIT	Car trunk item
+14	SDS	1960s teach-in grp.
+16	SEM	Part of an academic yr.
+17	SAYING	Saw
+20	TIE	Cause for sudden death
+22	NEWYORKPOST	Gotham tabloid
+25	ORE	Seamy matter
+26	RIGHTS	Subjects of the first 10 Amendments
+27	OED	Lexicon with many citations: Abbr.
+29	SSA	Sender of monthly checks: Abbr.
+30	BSNESTS	Egg holders
+33	RAB	African capital
+36	ROSALIA	Santa ___ (Baja California port)
+37	TBA	Sched. "question mark"
+38	SLYEST	Least ingenuous
+39	EOS	Mother of Zephyrus
+23
+1	ANO	12 months, in Monterrey
+2	DOE	One may pass the buck
+3	EENSYWEENSY	Knee-high to a grasshopper
+4	ILO	U.N. arm
+5	NOO	Emergency call
+6	SCLS	Looks unhappy
+7	TAKETOHARTE	"Consider seriously, Bret"
+8	ANIMIST	Nature worshiper
+9	LOT	Something to bid on
+11	ITSNO	"___ good!"
+15	DIY	Like many a home improvement project, for short
+17	SNO	Commercial prefix for winter products
+18	AEROSOL	Spray
+19	GRR	Unhappy response
+21	ETS	Aliens, briefly
+23	KISSA	"Once You ___ Stranger" (1969 thriller)
+24	PGS	Family-friendly ratings
+28	DEAE	"My stars!"
+30	BRS	Apt. features
+31	SLS	Classic Mercedes roadsters
+32	TIT	Black-throated ___ (Asian bird)
+34	ABO	Blood classification system
+35	BAS	English majors' degs.

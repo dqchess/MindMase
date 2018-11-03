@@ -1,0 +1,235 @@
+grid_13x13_17
+13
+0	1	1	A	0	0	3	1	ASU	0	0	3	1	ATV
+0	1	2	S	0	0	3	0		0	1	3	1	SSI
+0	1	3	U	0	0	3	0		0	2	3	1	URL
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	C	0	4	3	1	CMD	0	4	5	1	CRABS
+0	1	5	M	0	4	3	0		0	5	4	1	MEGR
+0	1	6	D	0	4	3	0		0	6	4	1	DREI
+1	0	0	#	0	8	0	0		1	7	6	0	
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	H	0	9	3	1	HMO	0	9	3	1	HMM
+0	1	8	M	0	9	3	0		0	10	4	1	MOME
+0	1	9	O	0	9	3	0		0	11	4	1	ORON
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	T	1	0	3	1	TSR	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	3	0	
+0	0	0	R	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	4	0		2	3	7	0	
+0	1	11	R	1	4	4	1	RERE	0	4	5	0	
+0	0	0	E	1	4	4	0		0	5	4	0	
+0	0	0	R	1	4	4	0		0	6	4	0	
+0	1	12	E	1	4	4	0		1	7	6	1	ECESIS
+1	0	0	#	1	9	4	0		2	8	4	0	
+0	1	13	M	1	9	4	1	MORO	0	9	3	0	
+0	0	0	O	1	9	4	0		0	10	4	0	
+0	0	0	R	1	9	4	0		0	11	4	0	
+0	1	14	O	1	9	4	0		1	12	3	1	ONS
+0	1	15	V	2	0	13	1	VILLAGECOMMON	0	0	3	0	
+0	0	0	I	2	0	13	0		0	1	3	0	
+0	0	0	L	2	0	13	0		0	2	3	0	
+0	1	16	L	2	0	13	0		2	3	7	1	LOANERS
+0	0	0	A	2	0	13	0		0	4	5	0	
+0	0	0	G	2	0	13	0		0	5	4	0	
+0	0	0	E	2	0	13	0		0	6	4	0	
+0	0	0	C	2	0	13	0		1	7	6	0	
+0	1	17	O	2	0	13	0		2	8	4	1	ONAN
+0	0	0	M	2	0	13	0		0	9	3	0	
+0	0	0	M	2	0	13	0		0	10	4	0	
+0	0	0	O	2	0	13	0		0	11	4	0	
+0	0	0	N	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	6	0		4	2	4	0	
+0	1	18	O	3	3	6	1	OBRIEN	2	3	7	0	
+0	0	0	B	3	3	6	0		0	4	5	0	
+0	0	0	R	3	3	6	0		0	5	4	0	
+0	0	0	I	3	3	6	0		0	6	4	0	
+0	0	0	E	3	3	6	0		1	7	6	0	
+0	0	0	N	3	3	6	0		2	8	4	0	
+1	0	0	#	3	10	3	0		4	9	7	0	
+0	1	19	E	3	10	3	1	ENS	0	10	4	0	
+0	0	0	N	3	10	3	0		0	11	4	0	
+0	0	0	S	3	10	3	0		1	12	3	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	20	D	4	1	4	1	DOAS	4	1	4	1	DAYO
+0	1	21	O	4	1	4	0		4	2	4	1	ORDO
+0	0	0	A	4	1	4	0		2	3	7	0	
+0	0	0	S	4	1	4	0		0	4	5	0	
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	22	S	4	7	3	1	SAO	1	7	6	0	
+0	0	0	A	4	7	3	0		2	8	4	0	
+0	1	23	O	4	7	3	0		4	9	7	1	ODDNESS
+1	0	0	#	4	11	0	0		5	10	4	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	T	5	0	4	1	TARN	5	0	3	1	THD
+0	0	0	A	5	0	4	0		4	1	4	0	
+0	0	0	R	5	0	4	0		4	2	4	0	
+0	0	0	N	5	0	4	0		2	3	7	0	
+1	0	0	#	5	5	0	0		6	4	0	0	
+1	0	0	#	5	6	7	0		6	5	6	0	
+0	1	25	P	5	6	7	1	PINDOWN	5	6	3	1	PEE
+0	0	0	I	5	6	7	0		1	7	6	0	
+0	0	0	N	5	6	7	0		2	8	4	0	
+0	0	0	D	5	6	7	0		4	9	7	0	
+0	1	26	O	5	6	7	0		5	10	4	1	OMEN
+0	1	27	W	5	6	7	0		5	11	4	1	WANG
+0	1	28	N	5	6	7	0		5	12	3	1	NNE
+0	1	29	H	6	0	4	1	HYDE	5	0	3	0	
+0	0	0	Y	6	0	4	0		4	1	4	0	
+0	0	0	D	6	0	4	0		4	2	4	0	
+0	0	0	E	6	0	4	0		2	3	7	0	
+1	0	0	#	6	5	3	0		7	4	4	0	
+0	1	30	G	6	5	3	1	GES	6	5	6	1	GIGGLE
+0	0	0	E	6	5	3	0		5	6	3	0	
+0	0	0	S	6	5	3	0		1	7	6	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	31	D	6	9	4	1	DMAN	4	9	7	0	
+0	0	0	M	6	9	4	0		5	10	4	0	
+0	0	0	A	6	9	4	0		5	11	4	0	
+0	0	0	N	6	9	4	0		5	12	3	0	
+0	1	32	D	7	0	7	1	DOORDIE	5	0	3	0	
+0	0	0	O	7	0	7	0		4	1	4	0	
+0	0	0	O	7	0	7	0		4	2	4	0	
+0	0	0	R	7	0	7	0		2	3	7	0	
+0	1	33	D	7	0	7	0		7	4	4	1	DOBE
+0	0	0	I	7	0	7	0		6	5	6	0	
+0	0	0	E	7	0	7	0		5	6	3	0	
+1	0	0	#	7	8	0	0		8	7	0	0	
+1	0	0	#	7	9	4	0		8	8	5	0	
+0	1	34	N	7	9	4	1	NENE	4	9	7	0	
+0	0	0	E	7	9	4	0		5	10	4	0	
+0	0	0	N	7	9	4	0		5	11	4	0	
+0	0	0	E	7	9	4	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	0	0		9	1	4	0	
+1	0	0	#	8	3	3	0		9	2	4	0	
+0	1	35	S	8	3	3	1	SOG	2	3	7	0	
+0	0	0	O	8	3	3	0		7	4	4	0	
+0	0	0	G	8	3	3	0		6	5	6	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	4	0		9	7	4	0	
+0	1	36	S	8	8	4	1	SENG	8	8	5	1	SLEDS
+0	0	0	E	8	8	4	0		4	9	7	0	
+0	0	0	N	8	8	4	0		5	10	4	0	
+0	0	0	G	8	8	4	0		5	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	37	A	9	0	3	1	ANI	9	0	3	1	ABA
+0	1	38	N	9	0	3	0		9	1	4	1	NAVI
+0	1	39	I	9	0	3	0		9	2	4	1	IRED
+1	0	0	#	9	4	6	0		10	3	3	0	
+0	1	40	B	9	4	6	1	BGIRLS	7	4	4	0	
+0	0	0	G	9	4	6	0		6	5	6	0	
+0	1	41	I	9	4	6	0		9	6	4	1	ICKY
+0	1	42	R	9	4	6	0		9	7	4	1	RHEO
+0	0	0	L	9	4	6	0		8	8	5	0	
+0	0	0	S	9	4	6	0		4	9	7	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	B	10	0	13	1	BARRELCHESTED	9	0	3	0	
+0	0	0	A	10	0	13	0		9	1	4	0	
+0	0	0	R	10	0	13	0		9	2	4	0	
+0	1	44	R	10	0	13	0		10	3	3	1	RSA
+0	0	0	E	10	0	13	0		7	4	4	0	
+0	0	0	L	10	0	13	0		6	5	6	0	
+0	0	0	C	10	0	13	0		9	6	4	0	
+0	0	0	H	10	0	13	0		9	7	4	0	
+0	0	0	E	10	0	13	0		8	8	5	0	
+0	0	0	S	10	0	13	0		4	9	7	0	
+0	1	45	T	10	0	13	0		10	10	3	1	TRI
+0	1	46	E	10	0	13	0		10	11	3	1	EON
+0	1	47	D	10	0	13	0		10	12	3	1	DBS
+0	1	48	A	11	0	4	1	AVES	9	0	3	0	
+0	0	0	V	11	0	4	0		9	1	4	0	
+0	0	0	E	11	0	4	0		9	2	4	0	
+0	0	0	S	11	0	4	0		10	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	49	E	11	5	4	1	EKED	6	5	6	0	
+0	0	0	K	11	5	4	0		9	6	4	0	
+0	0	0	E	11	5	4	0		9	7	4	0	
+0	0	0	D	11	5	4	0		8	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	R	11	10	3	1	ROB	10	10	3	0	
+0	0	0	O	11	10	3	0		10	11	3	0	
+0	0	0	B	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	51	I	12	1	3	1	IDA	9	1	4	0	
+0	0	0	D	12	1	3	0		9	2	4	0	
+0	0	0	A	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	Y	12	6	3	1	YOS	9	6	4	0	
+0	0	0	O	12	6	3	0		9	7	4	0	
+0	0	0	S	12	6	3	0		8	8	5	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	I	12	10	3	1	INS	10	10	3	0	
+0	0	0	N	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+29
+1	ASU	Sch. in Jonesboro
+4	CMD	It follows a chain in the military: Abbr.
+7	HMO	Medical insurance abbr.
+10	TSR	Original Dungeons & Dragons co.
+11	RERE	Midnight alarm giver
+13	MORO	60's-70's Italian P.M.
+15	VILLAGECOMMON	GREEN
+18	OBRIEN	Funnyman Conan
+19	ENS	Junior officer: Abbr.
+20	DOAS	"___ you're told!"
+22	SAO	One with uma aur
+24	TARN	Lake formed by glaciation
+25	PINDOWN	Define clearly
+29	HYDE	Fictional Mr.
+30	GES	Some appliances
+31	DMAN	Superhero played by Liam Neeson in a 1990 film
+32	DOORDIE	All-out
+34	NENE	Endangered state bird
+35	SOG	Soak
+36	SENG	Hong Kong's Hang ___ Index
+37	ANI	Bird that may be groove-billed
+40	BGIRLS	Saloon habitu
+43	BARRELCHESTED	Like some tenors
+48	AVES	Park and Lexington, e.g., in N.Y.C.
+49	EKED	___ out a living (scraped by)
+50	ROB	Laura's 1960s sitcom hubby
+51	IDA	Title girl of Eddie Cantor's theme song
+52	YOS	Hip-hop greetings
+53	INS	Connected crowd
+33
+1	ATV	Yamaha offering, in brief
+2	SSI	Fed. funds
+3	URL	WWW bookmark
+4	CRABS	Shelled critters
+5	MEGR	"You've Got Mail" actress
+6	DREI	Three of a Kind?
+7	HMM	"Well, let me see 
+8	MOME	"And the ___ raths outgrabe" ("Jabberwocky" line)
+9	ORON	"___ Diana's altar to protest": Shak.
+12	ECESIS	Establishment of in a new environment, as a plant
+14	ONS	Carry-___
+16	LOANERS	Repair shop amenities
+17	ONAN	Son of Judah
+20	DAYO	Start of a 1957 hit song
+21	ORDO	Latin word on a dollar bill
+23	ODDNESS	Idiosyncrasy
+24	THD	Letters for a religious scholar
+25	PEE	The third of September
+26	OMEN	Breaking a mirror, maybe?
+27	WANG	Fashion designer Vera
+28	NNE	Route abbr.
+30	GIGGLE	Girlish laugh
+33	DOBE	"___ careful"
+36	SLEDS	They may fly in the winter
+37	ABA	Dr. J's first pro league
+38	NAVI	Humanoid race in "Avatar"
+39	IRED	Enraged
+41	ICKY	Gross
+42	RHEO	Stat start
+44	RSA	Cape Town's home: Abbr.
+45	TRI	Head of state?
+46	EON	String of periods
+47	DBS	Sound units: Abbr.

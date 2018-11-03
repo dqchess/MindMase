@@ -1,0 +1,117 @@
+grid_9x9_175
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	O	0	1	3	1	OMA	0	1	4	1	OMAN
+0	1	2	M	0	1	3	0		0	2	4	1	MSGT
+0	1	3	A	0	1	3	0		0	3	3	1	AUG
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MRI	0	5	5	1	MYNAS
+0	1	5	R	0	5	3	0		0	6	4	1	RAGU
+0	1	6	I	0	5	3	0		0	7	4	1	IPOD
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	M	1	0	4	1	MMSU	1	0	3	1	MRT
+0	0	0	M	1	0	4	0		0	1	4	0	
+0	0	0	S	1	0	4	0		0	2	4	0	
+0	0	0	U	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	8	Y	1	5	4	1	YAPS	0	5	5	0	
+0	0	0	A	1	5	4	0		0	6	4	0	
+0	0	0	P	1	5	4	0		0	7	4	0	
+0	1	9	S	1	5	4	0		1	8	3	1	SNE
+0	1	10	R	2	0	9	1	RAGGINGON	1	0	3	0	
+0	0	0	A	2	0	9	0		0	1	4	0	
+0	0	0	G	2	0	9	0		0	2	4	0	
+0	0	0	G	2	0	9	0		0	3	3	0	
+0	1	11	I	2	0	9	0		2	4	5	1	IMPEL
+0	0	0	N	2	0	9	0		0	5	5	0	
+0	0	0	G	2	0	9	0		0	6	4	0	
+0	0	0	O	2	0	9	0		0	7	4	0	
+0	0	0	N	2	0	9	0		1	8	3	0	
+0	1	12	T	3	0	3	1	TNT	1	0	3	0	
+0	0	0	N	3	0	3	0		0	1	4	0	
+0	0	0	T	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	M	3	4	5	1	MAUDE	2	4	5	0	
+0	0	0	A	3	4	5	0		0	5	5	0	
+0	0	0	U	3	4	5	0		0	6	4	0	
+0	0	0	D	3	4	5	0		0	7	4	0	
+0	0	0	E	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	V	4	3	3	1	VPS	4	3	5	1	VERDE
+0	0	0	P	4	3	3	0		2	4	5	0	
+0	0	0	S	4	3	3	0		0	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	15	A	5	0	5	1	ATREE	5	0	3	1	ARN
+0	1	16	T	5	0	5	0		5	1	4	1	TEAC
+0	1	17	R	5	0	5	0		5	2	4	1	RARE
+0	0	0	E	5	0	5	0		4	3	5	0	
+0	0	0	E	5	0	5	0		2	4	5	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	U	5	6	3	1	UMP	5	6	4	1	UNPC
+0	1	19	M	5	6	3	0		5	7	4	1	MERL
+0	1	20	P	5	6	3	0		5	8	3	1	PSY
+0	1	21	R	6	0	9	1	REARLINES	5	0	3	0	
+0	0	0	E	6	0	9	0		5	1	4	0	
+0	0	0	A	6	0	9	0		5	2	4	0	
+0	0	0	R	6	0	9	0		4	3	5	0	
+0	0	0	L	6	0	9	0		2	4	5	0	
+0	1	22	I	6	0	9	0		6	5	3	1	ISH
+0	0	0	N	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	4	0	
+0	0	0	S	6	0	9	0		5	8	3	0	
+0	1	23	N	7	0	4	1	NARD	5	0	3	0	
+0	0	0	A	7	0	4	0		5	1	4	0	
+0	0	0	R	7	0	4	0		5	2	4	0	
+0	0	0	D	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	S	7	5	4	1	SPRY	6	5	3	0	
+0	0	0	P	7	5	4	0		5	6	4	0	
+0	0	0	R	7	5	4	0		5	7	4	0	
+0	0	0	Y	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	C	8	1	3	1	CEE	5	1	4	0	
+0	0	0	E	8	1	3	0		5	2	4	0	
+0	0	0	E	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	H	8	5	3	1	HCL	6	5	3	0	
+0	0	0	C	8	5	3	0		5	6	4	0	
+0	0	0	L	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	OMA	Granny, in Gelsenkirchen
+4	MRI	Picture of health, for short?
+7	MMSU	Made angry
+8	YAPS	Kennel cries
+10	RAGGINGON	Criticizing, slangily
+12	TNT	Effective leveler
+13	MAUDE	1970s sitcom that ended with the title character in Congress
+14	VPS	Some corp. execs
+15	ATREE	Stumped, after "up"
+18	UMP	Man in black?
+21	REARLINES	Army's back section
+23	NARD	Ancient fragrance
+24	SPRY	Surprisingly lively
+25	CEE	Middle mark
+26	HCL	Stomach acid, symbolically
+17
+1	OMAN	Land on the Arabian Peninsula
+2	MSGT	Certain NCO
+3	AUG	Third qtr. time
+4	MYNAS	Natural mimics
+5	RAGU	Unilever brand
+6	IPOD	Its first ad touted "1,000 songs in your pocket"
+7	MRT	A-Team member
+9	SNE	1983 Indy winner Tom
+11	IMPEL	Drive
+14	VERDE	Cape ___ Islands
+15	ARN	Royal son of the comics
+16	TEAC	Sound system brand
+17	RARE	Facing extinction
+18	UNPC	Potentially offensive
+19	MERL	European black thrush
+20	PSY	Subj. that deals with mixed feelings
+22	ISH	Meeting time suffix

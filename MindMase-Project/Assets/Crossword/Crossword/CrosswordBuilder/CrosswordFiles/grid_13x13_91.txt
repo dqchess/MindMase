@@ -1,0 +1,233 @@
+grid_13x13_91
+13
+0	1	1	D	0	0	3	1	DUN	0	0	3	1	DOT
+0	1	2	U	0	0	3	0		0	1	4	1	UDOS
+0	1	3	N	0	0	3	0		0	2	4	1	NEST
+1	0	0	#	0	4	0	0		1	3	10	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	B	0	6	3	1	BUM	0	6	3	1	BAI
+0	1	5	U	0	6	3	0		0	7	3	1	UAT
+0	1	6	M	0	6	3	0		0	8	6	1	MAHLER
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	S	0	10	3	1	SHS	0	10	8	1	SCOTTISH
+0	1	8	H	0	10	3	0		0	11	3	1	HOV
+0	1	9	S	0	10	3	0		0	12	3	1	SNE
+0	1	10	O	1	0	4	1	ODED	0	0	3	0	
+0	0	0	D	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	4	0	
+0	1	11	D	1	0	4	0		1	3	10	1	DIANEARBUS
+1	0	0	#	1	5	4	0		2	4	4	0	
+0	1	12	A	1	5	4	1	AAAA	1	5	4	1	AWET
+0	0	0	A	1	5	4	0		0	6	3	0	
+0	0	0	A	1	5	4	0		0	7	3	0	
+0	0	0	A	1	5	4	0		0	8	6	0	
+1	0	0	#	1	10	3	0		2	9	10	0	
+0	1	13	C	1	10	3	1	CON	0	10	8	0	
+0	0	0	O	1	10	3	0		0	11	3	0	
+0	0	0	N	1	10	3	0		0	12	3	0	
+0	1	14	T	2	0	13	1	TOSIRWITHLOVE	0	0	3	0	
+0	0	0	O	2	0	13	0		0	1	4	0	
+0	0	0	S	2	0	13	0		0	2	4	0	
+0	0	0	I	2	0	13	0		1	3	10	0	
+0	1	15	R	2	0	13	0		2	4	4	1	RGWJ
+0	0	0	W	2	0	13	0		1	5	4	0	
+0	0	0	I	2	0	13	0		0	6	3	0	
+0	0	0	T	2	0	13	0		0	7	3	0	
+0	0	0	H	2	0	13	0		0	8	6	0	
+0	1	16	L	2	0	13	0		2	9	10	1	LOISACLARK
+0	0	0	O	2	0	13	0		0	10	8	0	
+0	0	0	V	2	0	13	0		0	11	3	0	
+0	0	0	E	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	17	S	3	1	5	1	STAGE	0	1	4	0	
+0	0	0	T	3	1	5	0		0	2	4	0	
+0	0	0	A	3	1	5	0		1	3	10	0	
+0	0	0	G	3	1	5	0		2	4	4	0	
+0	0	0	E	3	1	5	0		1	5	4	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	18	L	3	8	3	1	LOT	0	8	6	0	
+0	0	0	O	3	8	3	0		2	9	10	0	
+0	0	0	T	3	8	3	0		0	10	8	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	8	0	
+0	1	19	N	4	3	3	1	NWT	1	3	10	0	
+0	0	0	W	4	3	3	0		2	4	4	0	
+0	0	0	T	4	3	3	0		1	5	4	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	20	L	4	7	6	1	LEITER	4	7	3	1	LAY
+0	0	0	E	4	7	6	0		0	8	6	0	
+0	0	0	I	4	7	6	0		2	9	10	0	
+0	0	0	T	4	7	6	0		0	10	8	0	
+0	1	21	E	4	7	6	0		4	11	4	1	ETAT
+0	1	22	R	4	7	6	0		4	12	3	1	RYN
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	23	L	5	1	4	1	LEEJ	5	1	4	1	LOOM
+0	1	24	E	5	1	4	0		5	2	8	1	ESTEFANS
+0	0	0	E	5	1	4	0		1	3	10	0	
+0	0	0	J	5	1	4	0		2	4	4	0	
+1	0	0	#	5	6	7	0		6	5	3	0	
+0	1	25	V	5	6	7	1	VARSITY	5	6	3	1	VAS
+0	0	0	A	5	6	7	0		4	7	3	0	
+0	0	0	R	5	6	7	0		0	8	6	0	
+0	0	0	S	5	6	7	0		2	9	10	0	
+0	0	0	I	5	6	7	0		0	10	8	0	
+0	0	0	T	5	6	7	0		4	11	4	0	
+0	0	0	Y	5	6	7	0		4	12	3	0	
+0	1	26	C	6	0	4	1	COSA	6	0	3	1	CHA
+0	0	0	O	6	0	4	0		5	1	4	0	
+0	0	0	S	6	0	4	0		5	2	8	0	
+0	0	0	A	6	0	4	0		1	3	10	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	27	C	6	5	3	1	CAY	6	5	3	1	CDC
+0	0	0	A	6	5	3	0		5	6	3	0	
+0	0	0	Y	6	5	3	0		4	7	3	0	
+1	0	0	#	6	9	4	0		7	8	4	0	
+0	1	28	A	6	9	4	1	ASAN	2	9	10	0	
+0	0	0	S	6	9	4	0		0	10	8	0	
+0	0	0	A	6	9	4	0		4	11	4	0	
+0	0	0	N	6	9	4	0		4	12	3	0	
+0	1	29	H	7	0	7	1	HOTRODS	6	0	3	0	
+0	0	0	O	7	0	7	0		5	1	4	0	
+0	0	0	T	7	0	7	0		5	2	8	0	
+0	0	0	R	7	0	7	0		1	3	10	0	
+0	1	30	O	7	0	7	0		7	4	6	1	OILPAN
+0	0	0	D	7	0	7	0		6	5	3	0	
+0	0	0	S	7	0	7	0		5	6	3	0	
+1	0	0	#	7	8	4	0		8	7	4	0	
+0	1	31	A	7	8	4	1	ACHT	7	8	4	1	APPT
+0	0	0	C	7	8	4	0		2	9	10	0	
+0	0	0	H	7	8	4	0		0	10	8	0	
+0	0	0	T	7	8	4	0		4	11	4	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	32	A	8	0	6	1	AMEBIC	6	0	3	0	
+0	0	0	M	8	0	6	0		5	1	4	0	
+0	0	0	E	8	0	6	0		5	2	8	0	
+0	0	0	B	8	0	6	0		1	3	10	0	
+0	0	0	I	8	0	6	0		7	4	6	0	
+0	0	0	C	8	0	6	0		6	5	3	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	33	C	8	7	3	1	CPL	8	7	4	1	CUSS
+0	0	0	P	8	7	3	0		7	8	4	0	
+0	0	0	L	8	7	3	0		2	9	10	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	34	F	9	2	3	1	FUL	5	2	8	0	
+0	0	0	U	9	2	3	0		1	3	10	0	
+0	0	0	L	9	2	3	0		7	4	6	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	5	0		10	6	3	0	
+0	1	35	U	9	7	5	1	UPAND	8	7	4	0	
+0	0	0	P	9	7	5	0		7	8	4	0	
+0	0	0	A	9	7	5	0		2	9	10	0	
+0	1	36	N	9	7	5	0		9	10	4	1	NANU
+0	1	37	D	9	7	5	0		9	11	4	1	DWAN
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	38	G	10	0	13	1	GRASPATSTRAWS	10	0	3	1	GZO
+0	1	39	R	10	0	13	0		10	1	3	1	RIA
+0	0	0	A	10	0	13	0		5	2	8	0	
+0	0	0	S	10	0	13	0		1	3	10	0	
+0	0	0	P	10	0	13	0		7	4	6	0	
+0	1	40	A	10	0	13	0		10	5	3	1	AMO
+0	1	41	T	10	0	13	0		10	6	3	1	TAD
+0	0	0	S	10	0	13	0		8	7	4	0	
+0	0	0	T	10	0	13	0		7	8	4	0	
+0	0	0	R	10	0	13	0		2	9	10	0	
+0	0	0	A	10	0	13	0		9	10	4	0	
+0	0	0	W	10	0	13	0		9	11	4	0	
+0	1	42	S	10	0	13	0		10	12	3	1	SPI
+0	1	43	Z	11	0	3	1	ZIN	10	0	3	0	
+0	0	0	I	11	0	3	0		10	1	3	0	
+0	0	0	N	11	0	3	0		5	2	8	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	44	A	11	4	4	1	AMAS	7	4	6	0	
+0	0	0	M	11	4	4	0		10	5	3	0	
+0	0	0	A	11	4	4	0		10	6	3	0	
+0	0	0	S	11	4	4	0		8	7	4	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	45	K	11	9	4	1	KNAP	2	9	10	0	
+0	0	0	N	11	9	4	0		9	10	4	0	
+0	0	0	A	11	9	4	0		9	11	4	0	
+0	0	0	P	11	9	4	0		10	12	3	0	
+0	1	46	O	12	0	3	1	OAS	10	0	3	0	
+0	0	0	A	12	0	3	0		10	1	3	0	
+0	0	0	S	12	0	3	0		5	2	8	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	47	N	12	4	3	1	NOD	7	4	6	0	
+0	0	0	O	12	4	3	0		10	5	3	0	
+0	0	0	D	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	48	U	12	10	3	1	UNI	9	10	4	0	
+0	0	0	N	12	10	3	0		9	11	4	0	
+0	0	0	I	12	10	3	0		10	12	3	0	
+29
+1	DUN	Horse color
+4	BUM	Depress, with "out"
+7	SHS	Sounds from a librarian
+10	ODED	Took too many pills, briefly
+12	AAAA	Tiny battery
+13	CON	Pro's opposite
+14	TOSIRWITHLOVE	Film starring 47A with a chart-topping title song
+17	STAGE	Transport in a western
+18	LOT	Studio site
+19	NWT	Yellowknife is its cap.
+20	LEITER	First pitcher to have defeated all 30 major-league teams
+23	LEEJ	Cobb of "12 Angry Men"
+25	VARSITY	Main school team
+26	COSA	___ Nostra
+27	CAY	Many an island in the Bahamas
+28	ASAN	Hot ___ oven
+29	HOTRODS	Some racers
+31	ACHT	Berlin octet
+32	AMEBIC	Protozoan
+33	CPL	Pvt.'s goal?
+34	FUL	Suffix with hand or fist
+35	UPAND	Words before "about" and "at 'em"
+38	GRASPATSTRAWS	Old fashioned leggings are in -- try for the impossible!?
+43	ZIN	Cab alternative
+44	AMAS	Part of a Latin trio
+45	KNAP	Chip, as flint, in Britain
+46	OAS	Western defense grp.
+47	NOD	Tacit assent
+48	UNI	Commercial prefix with vision
+31
+1	DOT	"i" topper
+2	UDOS	Some hairstyles
+3	NEST	Cardinal point?
+4	BAI	Actress ___ Ling of "The Crow"
+5	UAT	Awake by
+6	MAHLER	Inspiration for Mann's "Death in Venice"
+7	SCOTTISH	Like many tartan wearers
+8	HOV	___ lane
+9	SNE	1983 Indy winner Tom
+11	DIANEARBUS	"An Aperture Monograph" photographer
+12	AWET	"S
+15	RGWJ	Actress Gilbert of "Roseanne"
+16	LOISACLARK	1990's TV twosome
+20	LAY	Make, as a wager
+21	ETAT	Virginia, in Versailles
+22	RYN	Rembrandt van ___
+23	LOOM	Weaving machine
+24	ESTEFANS	Pop music's Gloria and Emilio
+25	VAS	Biological duct
+26	CHA	1979 hit "What ___ Gonna Do With My Lovin'"
+27	CDC	Org. that handles outbreaks
+30	OILPAN	Bottom of the crankcase
+31	APPT	Date with a Dr.
+33	CUSS	Codger
+36	NANU	Half of Mork's goodbye
+37	DWAN	Allan who directed "Sands of Iwo Jima"
+38	GZO	LP successors
+39	RIA	Coastal inlet
+40	AMO	"Just ___!" ("Hold on!")
+41	TAD	Skosh
+42	SPI	Slant

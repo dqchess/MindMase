@@ -1,0 +1,167 @@
+grid_11x11_19
+11
+0	1	1	G	0	0	3	1	GSU	0	0	3	1	GED
+0	1	2	S	0	0	3	0		0	1	5	1	SOLED
+0	1	3	U	0	0	3	0		0	2	5	1	UNION
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	I	0	6	3	1	ITI	0	6	6	1	ICANSO
+0	1	5	T	0	6	3	0		0	7	3	1	THR
+0	1	6	I	0	6	3	0		0	8	5	1	IIIII
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	E	1	0	3	1	EON	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	5	0	
+0	0	0	N	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	6	0		2	3	0	0	
+0	1	8	I	1	4	6	1	ISCHIA	1	4	3	1	ISI
+0	1	9	S	1	4	6	0		1	5	9	1	STAIRSTEP
+0	0	0	C	1	4	6	0		0	6	6	0	
+0	0	0	H	1	4	6	0		0	7	3	0	
+0	0	0	I	1	4	6	0		0	8	5	0	
+0	1	10	A	1	4	6	0		1	9	4	1	ANDA
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	D	2	0	3	1	DLI	0	0	3	0	
+0	0	0	L	2	0	3	0		0	1	5	0	
+0	0	0	I	2	0	3	0		0	2	5	0	
+1	0	0	#	2	4	7	0		3	3	4	0	
+0	1	12	S	2	4	7	1	STARING	1	4	3	0	
+0	0	0	T	2	4	7	0		1	5	9	0	
+0	0	0	A	2	4	7	0		0	6	6	0	
+0	0	0	R	2	4	7	0		0	7	3	0	
+0	0	0	I	2	4	7	0		0	8	5	0	
+0	0	0	N	2	4	7	0		1	9	4	0	
+0	1	13	G	2	4	7	0		2	10	3	1	GOH
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	14	E	3	1	6	1	EONIAN	0	1	5	0	
+0	0	0	O	3	1	6	0		0	2	5	0	
+0	1	15	N	3	1	6	0		3	3	4	1	NATS
+0	0	0	I	3	1	6	0		1	4	3	0	
+0	0	0	A	3	1	6	0		1	5	9	0	
+0	0	0	N	3	1	6	0		0	6	6	0	
+1	0	0	#	3	8	3	0		4	7	4	0	
+0	1	16	I	3	8	3	1	IDO	0	8	5	0	
+0	0	0	D	3	8	3	0		1	9	4	0	
+0	0	0	O	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	D	4	1	3	1	DNA	0	1	5	0	
+0	0	0	N	4	1	3	0		0	2	5	0	
+0	0	0	A	4	1	3	0		3	3	4	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	18	I	4	5	6	1	ISAIAH	1	5	9	0	
+0	0	0	S	4	5	6	0		0	6	6	0	
+0	1	19	A	4	5	6	0		4	7	4	1	ASIP
+0	0	0	I	4	5	6	0		0	8	5	0	
+0	0	0	A	4	5	6	0		1	9	4	0	
+0	0	0	H	4	5	6	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	20	T	5	3	5	1	TYROS	3	3	4	0	
+0	1	21	Y	5	3	5	0		5	4	6	1	YOUTOO
+0	0	0	R	5	3	5	0		1	5	9	0	
+0	0	0	O	5	3	5	0		0	6	6	0	
+0	0	0	S	5	3	5	0		4	7	4	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	T	6	0	6	1	TORSOS	6	0	3	1	TAY
+0	1	23	O	6	0	6	0		6	1	4	1	OKED
+0	1	24	R	6	0	6	0		6	2	5	1	RUARK
+0	0	0	S	6	0	6	0		3	3	4	0	
+0	0	0	O	6	0	6	0		5	4	6	0	
+0	0	0	S	6	0	6	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	25	I	6	7	3	1	IES	4	7	4	0	
+0	1	26	E	6	7	3	0		6	8	5	1	EINEN
+0	1	27	S	6	7	3	0		6	9	5	1	SAMSA
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	28	A	7	0	3	1	AKU	6	0	3	0	
+0	0	0	K	7	0	3	0		6	1	4	0	
+0	0	0	U	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	6	0		8	3	3	0	
+0	1	29	U	7	4	6	1	UTOPIA	5	4	6	0	
+0	0	0	T	7	4	6	0		1	5	9	0	
+0	1	30	O	7	4	6	0		7	6	3	1	ODS
+0	0	0	P	7	4	6	0		4	7	4	0	
+0	0	0	I	7	4	6	0		6	8	5	0	
+0	0	0	A	7	4	6	0		6	9	5	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	Y	8	0	7	1	YEASTED	6	0	3	0	
+0	0	0	E	8	0	7	0		6	1	4	0	
+0	0	0	A	8	0	7	0		6	2	5	0	
+0	1	32	S	8	0	7	0		8	3	3	1	SOO
+0	0	0	T	8	0	7	0		5	4	6	0	
+0	0	0	E	8	0	7	0		1	5	9	0	
+0	0	0	D	8	0	7	0		7	6	3	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	33	N	8	8	3	1	NMI	6	8	5	0	
+0	0	0	M	8	8	3	0		6	9	5	0	
+0	1	34	I	8	8	3	0		8	10	3	1	IOS
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	35	D	9	1	6	1	DROOPS	6	1	4	0	
+0	0	0	R	9	1	6	0		6	2	5	0	
+0	0	0	O	9	1	6	0		8	3	3	0	
+0	0	0	O	9	1	6	0		5	4	6	0	
+0	0	0	P	9	1	6	0		1	5	9	0	
+0	0	0	S	9	1	6	0		7	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	36	E	9	8	3	1	ESO	6	8	5	0	
+0	0	0	S	9	8	3	0		6	9	5	0	
+0	0	0	O	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	37	K	10	2	3	1	KOO	6	2	5	0	
+0	0	0	O	10	2	3	0		8	3	3	0	
+0	0	0	O	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	38	N	10	8	3	1	NAS	6	8	5	0	
+0	0	0	A	10	8	3	0		6	9	5	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+21
+1	GSU	Sch. in Atlanta
+4	ITI	"Is ___?"
+7	EON	It's a real stretch
+8	ISCHIA	Resort island off Naples
+11	DLI	Year in Justinian I's reign
+12	STARING	Not averting one's eyes
+14	EONIAN	Lasting forever
+16	IDO	Altar answer
+17	DNA	___ sequence
+18	ISAIAH	Book after Song of Solomon
+20	TYROS	They're just getting started
+22	TORSOS	Museum pieces
+25	IES	Plural suffix
+28	AKU	When repeated, a Thor Heyerdahl title
+29	UTOPIA	Place of dreams
+31	YEASTED	Fermented
+33	NMI	Name placeholder in govt. records
+35	DROOPS	Sags
+36	ESO	What that is in Toledo
+37	KOO	"Rock and Roll, Hoochie ___" (1974 hit)
+38	NAS	1980s TV's "Emerald Point ___"
+21
+1	GED	Document used in coll. admissions
+2	SOLED	Like a shoe
+3	UNION	Matrimony
+4	ICANSO	Daredevil's retort
+5	THR	By way of: Abbr.
+6	IIIII	Abba hit of 1976
+8	ISI	"Woe ___" (classic book for "grammarphobes")
+9	STAIRSTEP	Part of a flight
+10	ANDA	"___ partridge in ..."
+13	GOH	"Get out of here!"
+15	NATS	M.L.B. team with a "W" insignia
+19	ASIP	Take ___ of (sample)
+21	YOUTOO	"I'm not the only one?"
+22	TAY	It flows from a loch to a firth
+23	OKED	Gave a thumbs-up
+24	RUARK	"Something of Value" author Robert
+26	EINEN	German indefinite article
+27	SAMSA	"The Metamorphosis" character Gregor ___
+30	ODS	Serious drug cases, for short
+32	SOO	___ Canals (Great Lakes connectors)
+34	IOS	Island in the Aegean

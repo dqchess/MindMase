@@ -1,0 +1,229 @@
+grid_13x13_11
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	5	0	
+0	1	1	L	0	3	3	1	LEG	0	3	3	1	LPS
+0	1	2	E	0	3	3	0		0	4	3	1	EEE
+0	1	3	G	0	3	3	0		0	5	3	1	GDR
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	4	A	0	8	3	1	ADE	0	8	4	1	AMIS
+0	1	5	D	0	8	3	0		0	9	3	1	DON
+0	1	6	E	0	8	3	0		0	10	6	1	ENTIRE
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	11	0		2	0	0	0	
+0	1	7	H	1	1	11	1	HOPEDIAMOND	1	1	5	1	HLINE
+0	1	8	O	1	1	11	0		1	2	5	1	OARED
+0	0	0	P	1	1	11	0		0	3	3	0	
+0	0	0	E	1	1	11	0		0	4	3	0	
+0	0	0	D	1	1	11	0		0	5	3	0	
+0	1	9	I	1	1	11	0		1	6	11	1	IPHONEEMAIL
+0	1	10	A	1	1	11	0		1	7	3	1	ARM
+0	0	0	M	1	1	11	0		0	8	4	0	
+0	0	0	O	1	1	11	0		0	9	3	0	
+0	0	0	N	1	1	11	0		0	10	6	0	
+0	1	11	D	1	1	11	0		1	11	5	1	DENTE
+1	0	0	#	1	13	0	0		2	12	3	0	
+1	0	0	#	2	1	12	0		3	0	3	0	
+0	1	12	L	2	1	12	1	LASERPRINTER	1	1	5	0	
+0	0	0	A	2	1	12	0		1	2	5	0	
+0	0	0	S	2	1	12	0		0	3	3	0	
+0	0	0	E	2	1	12	0		0	4	3	0	
+0	0	0	R	2	1	12	0		0	5	3	0	
+0	0	0	P	2	1	12	0		1	6	11	0	
+0	0	0	R	2	1	12	0		1	7	3	0	
+0	0	0	I	2	1	12	0		0	8	4	0	
+0	0	0	N	2	1	12	0		0	9	3	0	
+0	0	0	T	2	1	12	0		0	10	6	0	
+0	0	0	E	2	1	12	0		1	11	5	0	
+0	1	13	R	2	1	12	0		2	12	3	1	RFS
+0	1	14	K	3	0	3	1	KIR	3	0	3	1	KER
+0	0	0	I	3	0	3	0		1	1	5	0	
+0	0	0	R	3	0	3	0		1	2	5	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	4	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	15	H	3	6	3	1	HMS	1	6	11	0	
+0	0	0	M	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		0	8	4	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	16	I	3	10	3	1	INF	0	10	6	0	
+0	0	0	N	3	10	3	0		1	11	5	0	
+0	0	0	F	3	10	3	0		2	12	3	0	
+0	1	17	E	4	0	3	1	ENE	3	0	3	0	
+0	0	0	N	4	0	3	0		1	1	5	0	
+0	0	0	E	4	0	3	0		1	2	5	0	
+1	0	0	#	4	4	3	0		5	3	3	0	
+0	1	18	H	4	4	3	1	HOO	4	4	4	1	HANS
+0	1	19	O	4	4	3	0		4	5	3	1	OWS
+0	0	0	O	4	4	3	0		1	6	11	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	0	0		5	8	4	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	20	R	4	10	3	1	RTS	0	10	6	0	
+0	0	0	T	4	10	3	0		1	11	5	0	
+0	0	0	S	4	10	3	0		2	12	3	0	
+0	1	21	R	5	0	7	1	REDDAWN	3	0	3	0	
+0	0	0	E	5	0	7	0		1	1	5	0	
+0	0	0	D	5	0	7	0		1	2	5	0	
+0	1	22	D	5	0	7	0		5	3	3	1	DIK
+0	0	0	A	5	0	7	0		4	4	4	0	
+0	0	0	W	5	0	7	0		4	5	3	0	
+0	0	0	N	5	0	7	0		1	6	11	0	
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	23	I	5	8	4	1	ICEE	5	8	4	1	ITOO
+0	1	24	C	5	8	4	0		5	9	3	1	CST
+0	0	0	E	5	8	4	0		0	10	6	0	
+0	0	0	E	5	8	4	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	25	I	6	3	7	1	INSECTS	5	3	3	0	
+0	0	0	N	6	3	7	0		4	4	4	0	
+0	0	0	S	6	3	7	0		4	5	3	0	
+0	0	0	E	6	3	7	0		1	6	11	0	
+0	1	26	C	6	3	7	0		6	7	3	1	CMI
+0	0	0	T	6	3	7	0		5	8	4	0	
+0	0	0	S	6	3	7	0		5	9	3	0	
+1	0	0	#	6	11	0	0		7	10	5	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	T	7	1	4	1	TSKS	7	1	5	1	TRIOS
+0	1	28	S	7	1	4	0		7	2	6	1	STRUCK
+0	0	0	K	7	1	4	0		5	3	3	0	
+0	0	0	S	7	1	4	0		4	4	4	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	29	E	7	6	7	1	EMOTIVE	1	6	11	0	
+0	0	0	M	7	6	7	0		6	7	3	0	
+0	0	0	O	7	6	7	0		5	8	4	0	
+0	0	0	T	7	6	7	0		5	9	3	0	
+0	1	30	I	7	6	7	0		7	10	5	1	ININK
+0	1	31	V	7	6	7	0		7	11	5	1	VERAS
+0	1	32	E	7	6	7	0		7	12	3	1	EHS
+0	1	33	D	8	0	3	1	DRT	8	0	3	1	DSM
+0	0	0	R	8	0	3	0		7	1	5	0	
+0	0	0	T	8	0	3	0		7	2	6	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	4	0	
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	34	M	8	6	3	1	MIO	1	6	11	0	
+0	0	0	I	8	6	3	0		6	7	3	0	
+0	0	0	O	8	6	3	0		5	8	4	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	35	N	8	10	3	1	NEH	7	10	5	0	
+0	0	0	E	8	10	3	0		7	11	5	0	
+0	0	0	H	8	10	3	0		7	12	3	0	
+0	1	36	S	9	0	3	1	SIR	8	0	3	0	
+0	0	0	I	9	0	3	0		7	1	5	0	
+0	0	0	R	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	37	I	9	4	3	1	IMA	9	4	4	1	ITON
+0	1	38	M	9	4	3	0		9	5	3	1	MNO
+0	0	0	A	9	4	3	0		1	6	11	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	I	9	10	3	1	IRS	7	10	5	0	
+0	0	0	R	9	10	3	0		7	11	5	0	
+0	0	0	S	9	10	3	0		7	12	3	0	
+0	1	40	M	10	0	12	1	MOUNTNIRVANA	8	0	3	0	
+0	0	0	O	10	0	12	0		7	1	5	0	
+0	0	0	U	10	0	12	0		7	2	6	0	
+0	1	41	N	10	0	12	0		10	3	3	1	NHA
+0	0	0	T	10	0	12	0		9	4	4	0	
+0	0	0	N	10	0	12	0		9	5	3	0	
+0	0	0	I	10	0	12	0		1	6	11	0	
+0	1	42	R	10	0	12	0		10	7	3	1	RTE
+0	1	43	V	10	0	12	0		10	8	3	1	VAN
+0	1	44	A	10	0	12	0		10	9	3	1	ACA
+0	0	0	N	10	0	12	0		7	10	5	0	
+0	0	0	A	10	0	12	0		7	11	5	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+1	0	0	#	11	1	11	0		12	0	0	0	
+0	1	45	S	11	1	11	1	SCHOOLTACKS	7	1	5	0	
+0	0	0	C	11	1	11	0		7	2	6	0	
+0	0	0	H	11	1	11	0		10	3	3	0	
+0	0	0	O	11	1	11	0		9	4	4	0	
+0	0	0	O	11	1	11	0		9	5	3	0	
+0	0	0	L	11	1	11	0		1	6	11	0	
+0	0	0	T	11	1	11	0		10	7	3	0	
+0	0	0	A	11	1	11	0		10	8	3	0	
+0	0	0	C	11	1	11	0		10	9	3	0	
+0	0	0	K	11	1	11	0		7	10	5	0	
+0	0	0	S	11	1	11	0		7	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	46	K	12	2	3	1	KAN	7	2	6	0	
+0	0	0	A	12	2	3	0		10	3	3	0	
+0	0	0	N	12	2	3	0		9	4	4	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	47	E	12	7	3	1	ENA	10	7	3	0	
+0	0	0	N	12	7	3	0		10	8	3	0	
+0	0	0	A	12	7	3	0		10	9	3	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	LEG	Part of a journey
+4	ADE	Fruit drink
+7	HOPEDIAMOND	Large gem in the Smithsonian
+12	LASERPRINTER	Desktop publisher's need
+14	KIR	Red ap
+15	HMS	"___ Pinafore"
+16	INF	Data: Abbr.
+17	ENE	16th letter of the Spanish alphabet
+18	HOO	"Yoo-__!"
+20	RTS	Claims, briefly
+21	REDDAWN	1984 Patrick Swayze film, the first movie released with a PG-13 rating
+23	ICEE	Slush Puppie alternative
+25	INSECTS	Food for moles
+27	TSKS	Reproaches
+29	EMOTIVE	Showing a lot of feeling
+33	DRT	Sullivan Travis, in a 2000 film title
+34	MIO	Roman mine
+35	NEH	O.T. book
+36	SIR	___ Barton, first Triple Crown winner, 1919
+37	IMA	"___ girl watcher" (1968 song lyric)
+39	IRS	Levy collector, for short
+40	MOUNTNIRVANA	Highest peak in the Northwest Territories
+45	SCHOOLTACKS	Items holding up teacher notices?
+46	KAN	Where the Cimarron flows: Abbr.
+47	ENA	Former Spanish queen
+31
+1	LPS	Music collector's stack
+2	EEE	Wide shoe spec
+3	GDR	Warsaw Pact member, initially
+4	AMIS	Soci
+5	DON	"___ we now our gay apparel"
+6	ENTIRE	Livelong
+7	HLINE	Palm reader's reading
+8	OARED	Propelled, in a way
+9	IPHONEEMAIL	Messages on an Apple device
+10	ARM	Radius setting
+11	DENTE	Al ___ (a bit firm)
+13	RFS	Baseball positions: Abbr.
+14	KER	Prefix with plop
+18	HANS	Counter inventor Geiger
+19	OWS	Pained cries
+22	DIK	Cartoonist Browne
+23	ITOO	Poem with the lines "Nobody'll dare / Say to me, / 'Eat in the kitchen'"
+24	CST	Winter hrs. in St. Louis
+26	CMI	901, in old Rome
+27	TRIOS	Small bands
+28	STRUCK	X'd
+30	ININK	Permanently written
+31	VERAS	Tennis's Zvonareva and others
+32	EHS	Geezers' interjections
+33	DSM	British mil. decoration
+37	ITON	"Psst! Pass ___!"
+38	MNO	Telephone trigram
+41	NHA	Shelter grp.
+42	RTE	MapQuest offering: Abbr.
+43	VAN	Hauler
+44	ACA	Here, in Toledo

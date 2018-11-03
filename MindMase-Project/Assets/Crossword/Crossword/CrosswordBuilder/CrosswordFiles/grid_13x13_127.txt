@@ -1,0 +1,235 @@
+grid_13x13_127
+13
+0	1	1	L	0	0	3	1	LIU	0	0	3	1	LOL
+0	1	2	I	0	0	3	0		0	1	4	1	IWAS
+0	1	3	U	0	0	3	0		0	2	9	1	ULTIMATUM
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	4	0	
+0	1	4	P	0	5	3	1	PBA	0	5	3	1	PCT
+0	1	5	B	0	5	3	0		0	6	13	1	BABYYESBABYNO
+0	1	6	A	0	5	3	0		0	7	4	1	AGUE
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	6	0	
+0	1	7	T	0	10	3	1	TIO	0	10	3	1	TWA
+0	1	8	I	0	10	3	0		0	11	3	1	IOR
+0	1	9	O	0	10	3	0		0	12	3	1	OLD
+0	1	10	O	1	0	3	1	OWL	0	0	3	0	
+0	0	0	W	1	0	3	0		0	1	4	0	
+0	0	0	L	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	11	S	1	4	4	1	SCAG	1	4	4	1	SSNS
+0	0	0	C	1	4	4	0		0	5	3	0	
+0	0	0	A	1	4	4	0		0	6	13	0	
+0	0	0	G	1	4	4	0		0	7	4	0	
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	12	A	1	9	4	1	AWOL	1	9	6	1	AZSQPD
+0	0	0	W	1	9	4	0		0	10	3	0	
+0	0	0	O	1	9	4	0		0	11	3	0	
+0	0	0	L	1	9	4	0		0	12	3	0	
+0	1	13	L	2	0	13	1	LATESTBUZZARD	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	4	0	
+0	0	0	T	2	0	13	0		0	2	9	0	
+0	1	14	E	2	0	13	0		2	3	3	1	EGO
+0	0	0	S	2	0	13	0		1	4	4	0	
+0	0	0	T	2	0	13	0		0	5	3	0	
+0	0	0	B	2	0	13	0		0	6	13	0	
+0	0	0	U	2	0	13	0		0	7	4	0	
+0	1	15	Z	2	0	13	0		2	8	3	1	ZAP
+0	0	0	Z	2	0	13	0		1	9	6	0	
+0	0	0	A	2	0	13	0		0	10	3	0	
+0	0	0	R	2	0	13	0		0	11	3	0	
+0	0	0	D	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	16	S	3	1	4	1	SIGN	0	1	4	0	
+0	0	0	I	3	1	4	0		0	2	9	0	
+0	0	0	G	3	1	4	0		2	3	3	0	
+0	0	0	N	3	1	4	0		1	4	4	0	
+1	0	0	#	3	6	4	0		4	5	4	0	
+0	1	17	Y	3	6	4	1	YEAS	0	6	13	0	
+0	0	0	E	3	6	4	0		0	7	4	0	
+0	0	0	A	3	6	4	0		2	8	3	0	
+0	0	0	S	3	6	4	0		1	9	6	0	
+1	0	0	#	3	11	0	0		4	10	9	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	18	M	4	2	5	1	MOSEY	0	2	9	0	
+0	0	0	O	4	2	5	0		2	3	3	0	
+0	0	0	S	4	2	5	0		1	4	4	0	
+0	1	19	E	4	2	5	0		4	5	4	1	ELLO
+0	0	0	Y	4	2	5	0		0	6	13	0	
+1	0	0	#	4	8	4	0		5	7	4	0	
+0	1	20	P	4	8	4	1	PQRS	2	8	3	0	
+0	0	0	Q	4	8	4	0		1	9	6	0	
+0	1	21	R	4	8	4	0		4	10	9	1	RENTVSBUY
+0	1	22	S	4	8	4	0		4	11	4	1	STAB
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	N	5	0	3	1	NBA	5	0	3	1	NOE
+0	1	24	B	5	0	3	0		5	1	4	1	BUDS
+0	0	0	A	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	0	0		6	3	6	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	25	L	5	5	3	1	LEO	4	5	4	0	
+0	0	0	E	5	5	3	0		0	6	13	0	
+0	1	26	O	5	5	3	0		5	7	4	1	ODIN
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	27	P	5	9	4	1	PETS	1	9	6	0	
+0	0	0	E	5	9	4	0		4	10	9	0	
+0	0	0	T	5	9	4	0		4	11	4	0	
+0	1	28	S	5	9	4	0		5	12	3	1	SSS
+0	1	29	O	6	0	4	1	OUTA	5	0	3	0	
+0	0	0	U	6	0	4	0		5	1	4	0	
+0	0	0	T	6	0	4	0		0	2	9	0	
+0	1	30	A	6	0	4	0		6	3	6	1	ACTIVE
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	31	L	6	5	3	1	LSD	4	5	4	0	
+0	0	0	S	6	5	3	0		0	6	13	0	
+0	0	0	D	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	32	D	6	9	4	1	DNAS	1	9	6	0	
+0	0	0	N	6	9	4	0		4	10	9	0	
+0	0	0	A	6	9	4	0		4	11	4	0	
+0	0	0	S	6	9	4	0		5	12	3	0	
+0	1	33	E	7	0	4	1	EDUC	5	0	3	0	
+0	0	0	D	7	0	4	0		5	1	4	0	
+0	0	0	U	7	0	4	0		0	2	9	0	
+0	0	0	C	7	0	4	0		6	3	6	0	
+1	0	0	#	7	5	3	0		8	4	3	0	
+0	1	34	O	7	5	3	1	OBI	4	5	4	0	
+0	0	0	B	7	5	3	0		0	6	13	0	
+0	0	0	I	7	5	3	0		5	7	4	0	
+1	0	0	#	7	9	0	0		8	8	4	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	35	T	7	10	3	1	TBS	4	10	9	0	
+0	0	0	B	7	10	3	0		4	11	4	0	
+0	0	0	S	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	36	S	8	1	4	1	SMTE	5	1	4	0	
+0	0	0	M	8	1	4	0		0	2	9	0	
+0	0	0	T	8	1	4	0		6	3	6	0	
+0	1	37	E	8	1	4	0		8	4	3	1	EME
+1	0	0	#	8	6	5	0		9	5	4	0	
+0	1	38	A	8	6	5	1	ANNIV	0	6	13	0	
+0	0	0	N	8	6	5	0		5	7	4	0	
+0	1	39	N	8	6	5	0		8	8	4	1	NAOH
+0	1	40	I	8	6	5	0		8	9	3	1	ISU
+0	0	0	V	8	6	5	0		4	10	9	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	3	0	
+1	0	0	#	9	3	4	0		10	2	3	0	
+0	1	41	I	9	3	4	1	IMDB	6	3	6	0	
+0	0	0	M	9	3	4	0		8	4	3	0	
+0	1	42	D	9	3	4	0		9	5	4	1	DMAJ
+0	0	0	B	9	3	4	0		0	6	13	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	43	A	9	8	4	1	ASST	8	8	4	0	
+0	0	0	S	9	8	4	0		8	9	3	0	
+0	0	0	S	9	8	4	0		4	10	9	0	
+0	1	44	T	9	8	4	0		9	11	4	1	TTTT
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	I	10	0	13	1	IHAVEMYDOUBTS	10	0	3	1	IOU
+0	1	46	H	10	0	13	0		10	1	3	1	HIP
+0	1	47	A	10	0	13	0		10	2	3	1	ASI
+0	0	0	V	10	0	13	0		6	3	6	0	
+0	0	0	E	10	0	13	0		8	4	3	0	
+0	0	0	M	10	0	13	0		9	5	4	0	
+0	0	0	Y	10	0	13	0		0	6	13	0	
+0	1	48	D	10	0	13	0		10	7	3	1	DTS
+0	0	0	O	10	0	13	0		8	8	4	0	
+0	0	0	U	10	0	13	0		8	9	3	0	
+0	0	0	B	10	0	13	0		4	10	9	0	
+0	0	0	T	10	0	13	0		9	11	4	0	
+0	1	49	S	10	0	13	0		10	12	3	1	SID
+0	1	50	O	11	0	4	1	OISE	10	0	3	0	
+0	0	0	I	11	0	4	0		10	1	3	0	
+0	0	0	S	11	0	4	0		10	2	3	0	
+0	0	0	E	11	0	4	0		6	3	6	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	51	A	11	5	4	1	ANTH	9	5	4	0	
+0	0	0	N	11	5	4	0		0	6	13	0	
+0	0	0	T	11	5	4	0		10	7	3	0	
+0	0	0	H	11	5	4	0		8	8	4	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	U	11	10	3	1	UTI	4	10	9	0	
+0	0	0	T	11	10	3	0		9	11	4	0	
+0	0	0	I	11	10	3	0		10	12	3	0	
+0	1	53	U	12	0	3	1	UPI	10	0	3	0	
+0	0	0	P	12	0	3	0		10	1	3	0	
+0	0	0	I	12	0	3	0		10	2	3	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	54	J	12	5	3	1	JOS	9	5	4	0	
+0	0	0	O	12	5	3	0		0	6	13	0	
+0	0	0	S	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	Y	12	10	3	1	YTD	4	10	9	0	
+0	0	0	T	12	10	3	0		9	11	4	0	
+0	0	0	D	12	10	3	0		10	12	3	0	
+31
+1	LIU	Bklyn. campus
+4	PBA	Keglers' grp.
+7	TIO	Part of la familia
+10	OWL	Barn bird
+11	SCAG	Heroin, slangily
+12	AWOL	M.P.'s quarry
+13	LATESTBUZZARD	Chic scavenger?
+16	SIGN	Pickup line request
+17	YEAS	Supportive side
+18	MOSEY	Walk slowly
+20	PQRS	OT filler
+23	NBA	Magic and Wizards org.
+25	LEO	King's name
+27	PETS	Adoptees from shelters
+29	OUTA	"I'm Gonna Wash That Man Right ___ My Hair"
+31	LSD	Much-discussed initials of a 1967 Beatles song
+32	DNAS	Geneticist's studies
+33	EDUC	Cabinet dept.
+34	OBI	Japanese sash
+35	TBS	Cable's "SuperStation"
+36	SMTE	Wallop
+38	ANNIV	Cause for celebration: Abbr.
+41	IMDB	Web site for cinephiles
+43	ASST	Number two: Abbr.
+45	IHAVEMYDOUBTS	Cautionary reply #1
+50	OISE	Seine feeder
+51	ANTH	Lit. collection
+52	UTI	___ possidetis (as you possess, at law)
+53	UPI	Inits. in news
+54	JOS	"___ Boys" (1886 novel)
+55	YTD	Pay stub abbr.
+31
+1	LOL	Response to a joke in an I.M.
+2	IWAS	Elvis Presley's "___ the One"
+3	ULTIMATUM	Action just before a war
+4	PCT	Polling amt.
+5	BABYYESBABYNO	Decision for newlyweds?
+6	AGUE	Tropical fever
+7	TWA	Co. once owned by Howard Hughes
+8	IOR	Super finish?
+9	OLD	OPPOSITE OF 11-DOWN
+11	SSNS	Govt. database entries
+12	AZSQPD	Discount store
+14	EGO	Psych 101 topic
+15	ZAP	Knock out, as with a remote
+19	ELLO	London greeting
+21	RENTVSBUY	Home-seeker's decision
+22	STAB	Attempt
+23	NOE	Arca de ___ (boat in la biblia)
+24	BUDS	Future blooms
+26	ODIN	God of war, magic and poetry
+28	SSS	Teakettle sound
+30	ACTIVE	Still serving
+37	EME	Suffix with morph
+39	NAOH	Caustic soda, symbolically
+40	ISU	Terre Haute sch.
+42	DMAJ	Key with two sharps: Abbr.
+44	TTTT	Timeout signs
+45	IOU	Paper in a pot
+46	HIP	Cool
+47	ASI	"___ live and breathe!"
+48	DTS	Drunkard's woe, for short
+49	SID	Half brother of Tom Sawyer

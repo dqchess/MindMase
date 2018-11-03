@@ -1,0 +1,235 @@
+grid_13x13_95
+13
+0	1	1	G	0	0	3	1	GYN	0	0	3	1	GEE
+0	1	2	Y	0	0	3	0		0	1	5	1	YALIE
+0	1	3	N	0	0	3	0		0	2	5	1	NLERS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	H	0	5	3	1	HHS	0	5	3	1	HIT
+0	1	5	H	0	5	3	0		0	6	3	1	HTO
+0	1	6	S	0	5	3	0		0	7	5	1	SURFS
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	F	0	10	3	1	FRI	0	10	7	1	FISSION
+0	1	8	R	0	10	3	0		0	11	3	1	ROI
+0	1	9	I	0	10	3	0		0	12	3	1	INC
+0	1	10	E	1	0	3	1	EAL	0	0	3	0	
+0	0	0	A	1	0	3	0		0	1	5	0	
+0	0	0	L	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	9	0		2	3	6	0	
+0	1	11	S	1	4	9	1	SITUATION	1	4	3	1	SAN
+0	0	0	I	1	4	9	0		0	5	3	0	
+0	0	0	T	1	4	9	0		0	6	3	0	
+0	0	0	U	1	4	9	0		0	7	5	0	
+0	1	12	A	1	4	9	0		1	8	3	1	AMA
+0	1	13	T	1	4	9	0		1	9	3	1	TUT
+0	0	0	I	1	4	9	0		0	10	7	0	
+0	0	0	O	1	4	9	0		0	11	3	0	
+0	0	0	N	1	4	9	0		0	12	3	0	
+0	1	14	E	2	0	13	1	ELEVATORMUSIC	0	0	3	0	
+0	0	0	L	2	0	13	0		0	1	5	0	
+0	0	0	E	2	0	13	0		0	2	5	0	
+0	1	15	V	2	0	13	0		2	3	6	1	VALETS
+0	0	0	A	2	0	13	0		1	4	3	0	
+0	0	0	T	2	0	13	0		0	5	3	0	
+0	0	0	O	2	0	13	0		0	6	3	0	
+0	0	0	R	2	0	13	0		0	7	5	0	
+0	0	0	M	2	0	13	0		1	8	3	0	
+0	0	0	U	2	0	13	0		1	9	3	0	
+0	0	0	S	2	0	13	0		0	10	7	0	
+0	0	0	I	2	0	13	0		0	11	3	0	
+0	0	0	C	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	16	I	3	1	4	1	IRAN	0	1	5	0	
+0	0	0	R	3	1	4	0		0	2	5	0	
+0	0	0	A	3	1	4	0		2	3	6	0	
+0	0	0	N	3	1	4	0		1	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	17	F	3	7	4	1	FATS	0	7	5	0	
+0	0	0	A	3	7	4	0		1	8	3	0	
+0	0	0	T	3	7	4	0		1	9	3	0	
+0	0	0	S	3	7	4	0		0	10	7	0	
+1	0	0	#	3	12	0	0		4	11	3	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	18	E	4	1	3	1	ESL	0	1	5	0	
+0	0	0	S	4	1	3	0		0	2	5	0	
+0	0	0	L	4	1	3	0		2	3	6	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	19	P	4	5	3	1	PJS	4	5	3	1	PLO
+0	1	20	J	4	5	3	0		4	6	5	1	JEUNE
+0	0	0	S	4	5	3	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	6	0	
+0	1	21	I	4	10	3	1	IGO	0	10	7	0	
+0	1	22	G	4	10	3	0		4	11	3	1	GLI
+0	1	23	O	4	10	3	0		4	12	3	1	OAT
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	4	0		6	2	7	0	
+0	1	24	E	5	3	4	1	EHLE	2	3	6	0	
+0	1	25	H	5	3	4	0		5	4	3	1	HCE
+0	0	0	L	5	3	4	0		4	5	3	0	
+0	0	0	E	5	3	4	0		4	6	5	0	
+1	0	0	#	5	8	5	0		6	7	3	0	
+0	1	26	E	5	8	5	1	EBOLA	5	8	3	1	ETA
+0	1	27	B	5	8	5	0		5	9	6	1	BOTTOM
+0	0	0	O	5	8	5	0		0	10	7	0	
+0	0	0	L	5	8	5	0		4	11	3	0	
+0	0	0	A	5	8	5	0		4	12	3	0	
+0	1	28	D	6	0	13	1	DONTCOUNTONIT	6	0	3	1	DIO
+0	1	29	O	6	0	13	0		6	1	3	1	ONI
+0	1	30	N	6	0	13	0		6	2	7	1	NULLIFY
+0	0	0	T	6	0	13	0		2	3	6	0	
+0	0	0	C	6	0	13	0		5	4	3	0	
+0	0	0	O	6	0	13	0		4	5	3	0	
+0	0	0	U	6	0	13	0		4	6	5	0	
+0	1	31	N	6	0	13	0		6	7	3	1	NEA
+0	0	0	T	6	0	13	0		5	8	3	0	
+0	0	0	O	6	0	13	0		5	9	6	0	
+0	0	0	N	6	0	13	0		0	10	7	0	
+0	0	0	I	6	0	13	0		4	11	3	0	
+0	0	0	T	6	0	13	0		4	12	3	0	
+0	1	32	I	7	0	5	1	INUSE	6	0	3	0	
+0	0	0	N	7	0	5	0		6	1	3	0	
+0	0	0	U	7	0	5	0		6	2	7	0	
+0	0	0	S	7	0	5	0		2	3	6	0	
+0	0	0	E	7	0	5	0		5	4	3	0	
+1	0	0	#	7	6	4	0		8	5	5	0	
+0	1	33	N	7	6	4	1	NEAT	4	6	5	0	
+0	0	0	E	7	6	4	0		6	7	3	0	
+0	0	0	A	7	6	4	0		5	8	3	0	
+0	0	0	T	7	6	4	0		5	9	6	0	
+1	0	0	#	7	11	0	0		8	10	5	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	O	8	0	3	1	OIL	6	0	3	0	
+0	0	0	I	8	0	3	0		6	1	3	0	
+0	0	0	L	8	0	3	0		6	2	7	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	35	S	8	5	3	1	SEA	8	5	5	1	STEIN
+0	0	0	E	8	5	3	0		4	6	5	0	
+0	0	0	A	8	5	3	0		6	7	3	0	
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	36	T	8	9	3	1	TIA	5	9	6	0	
+0	1	37	I	8	9	3	0		8	10	5	1	IWILL
+0	1	38	A	8	9	3	0		8	11	5	1	ASNIT
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	39	L	9	2	4	1	LAUT	6	2	7	0	
+0	1	40	A	9	2	4	0		9	3	3	1	APA
+0	1	41	U	9	2	4	0		9	4	3	1	ULM
+0	0	0	T	9	2	4	0		8	5	5	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	42	M	9	8	4	1	MOWS	9	8	3	1	MAE
+0	0	0	O	9	8	4	0		5	9	6	0	
+0	0	0	W	9	8	4	0		8	10	5	0	
+0	0	0	S	9	8	4	0		8	11	5	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	T	10	0	13	1	TRIPLETEAMING	10	0	3	1	TEL
+0	1	44	R	10	0	13	0		10	1	3	1	RNA
+0	0	0	I	10	0	13	0		6	2	7	0	
+0	0	0	P	10	0	13	0		9	3	3	0	
+0	0	0	L	10	0	13	0		9	4	3	0	
+0	0	0	E	10	0	13	0		8	5	5	0	
+0	1	45	T	10	0	13	0		10	6	3	1	TLC
+0	1	46	E	10	0	13	0		10	7	3	1	ELO
+0	0	0	A	10	0	13	0		9	8	3	0	
+0	0	0	M	10	0	13	0		5	9	6	0	
+0	0	0	I	10	0	13	0		8	10	5	0	
+0	0	0	N	10	0	13	0		8	11	5	0	
+0	1	47	G	10	0	13	0		10	12	3	1	GPS
+0	1	48	E	11	0	9	1	ENFAMILLE	10	0	3	0	
+0	0	0	N	11	0	9	0		10	1	3	0	
+0	0	0	F	11	0	9	0		6	2	7	0	
+0	0	0	A	11	0	9	0		9	3	3	0	
+0	0	0	M	11	0	9	0		9	4	3	0	
+0	0	0	I	11	0	9	0		8	5	5	0	
+0	0	0	L	11	0	9	0		10	6	3	0	
+0	0	0	L	11	0	9	0		10	7	3	0	
+0	0	0	E	11	0	9	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	49	L	11	10	3	1	LIP	8	10	5	0	
+0	0	0	I	11	10	3	0		8	11	5	0	
+0	0	0	P	11	10	3	0		10	12	3	0	
+0	1	50	L	12	0	3	1	LAY	10	0	3	0	
+0	0	0	A	12	0	3	0		10	1	3	0	
+0	0	0	Y	12	0	3	0		6	2	7	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	51	N	12	5	3	1	NCO	8	5	5	0	
+0	0	0	C	12	5	3	0		10	6	3	0	
+0	0	0	O	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	52	L	12	10	3	1	LTS	8	10	5	0	
+0	0	0	T	12	10	3	0		8	11	5	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+27
+1	GYN	Med. specialty
+4	HHS	Donna Shalala's dept.
+7	FRI	It may be casual: Abbr.
+10	EAL	Suffix with ether
+11	SITUATION	One may be out of control
+14	ELEVATORMUSIC	Tunes that might make you want to get out on the floor?
+16	IRAN	Turkey toucher
+17	FATS	Some nutrients
+18	ESL	Class for U.S. citizens-to-be
+19	PJS	Some loungewear
+21	IGO	Billy Joel's "___ to Extremes"
+24	EHLE	"Pride and Prejudice" actress Jennifer
+26	EBOLA	African scourge
+28	DONTCOUNTONIT	... are you all-knowing and all-seeing?
+32	INUSE	Lavatory sign
+33	NEAT	Like some drinks
+34	OIL	Texas tea
+35	SEA	Source of rays
+36	TIA	Aunt, in Madrid
+39	LAUT	Island southeast of Borneo
+42	MOWS	Scythes
+43	TRIPLETEAMING	"Ganging up on, in basketball"
+48	ENFAMILLE	At home: Fr.
+49	LIP	Impudence
+50	LAY	Place
+51	NCO	Sarge, for one
+52	LTS	O.C.S. grads
+35
+1	GEE	"I don't know" lead-in
+2	YALIE	New Haven student
+3	NLERS	Cards, e.g.
+4	HIT	Collide
+5	HTO	Theme of this puzzle
+6	SURFS	Skips around, in a way
+7	FISSION	Atomic energy source
+8	ROI	Chef d'etat, once
+9	INC	Abbr. at the end of a co. name
+11	SAN	Japanese honorific
+12	AMA	G.P. grp.
+13	TUT	King who toured the U.S. in 1977
+15	VALETS	Parking meeters?
+19	PLO	Al Fatah grp.
+20	JEUNE	___ fille (French girl)
+22	GLI	Los : Spanish :: ___ : Italian
+23	OAT	The "O" of Cheerios
+25	HCE	Therefore
+26	ETA	H, to Greeks
+27	BOTTOM	Bench warmer?
+28	DIO	Roman historian ___ Cassius
+29	ONI	Clandestine maritime org.
+30	NULLIFY	Invalidate
+31	NEA	2.3-mil. member union
+35	STEIN	Pub decoration
+37	IWILL	Volunteer's cry
+38	ASNIT	Peeved, after "in"
+40	APA	Therapists' org.
+41	ULM	Einstein's birthplace
+42	MAE	Wild wild West
+43	TEL	Abbr. before a number
+44	RNA	H.S. biology topic
+45	TLC	Lots of hugs, in brief
+46	ELO	"Hold On Tight" rock grp.
+47	GPS	Modern navigation tool, for short

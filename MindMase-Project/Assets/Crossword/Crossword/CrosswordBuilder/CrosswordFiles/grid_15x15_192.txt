@@ -1,0 +1,309 @@
+grid_15x15_192
+15
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	N	0	1	3	1	NEH	0	1	3	1	NSC
+0	1	2	E	0	1	3	0		0	2	15	1	EMOTIONALRESCUE
+0	1	3	H	0	1	3	0		0	3	4	1	HASP
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	6	0	
+0	1	4	U	0	6	3	1	USD	0	6	3	1	UNA
+0	1	5	S	0	6	3	0		0	7	4	1	SNIP
+0	1	6	D	0	6	3	0		0	8	5	1	DALIS
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	M	0	10	3	1	MHO	0	10	3	1	MOW
+0	1	8	H	0	10	3	0		0	11	3	1	HAI
+0	1	9	O	0	10	3	0		0	12	15	1	OFCLEARLANGUAGE
+1	0	0	#	0	14	0	0		1	13	6	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	3	0		2	0	0	0	
+0	1	10	S	1	1	3	1	SMA	0	1	3	0	
+0	0	0	M	1	1	3	0		0	2	15	0	
+0	0	0	A	1	1	3	0		0	3	4	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	11	O	1	5	4	1	ONNA	1	5	6	1	OBSESS
+0	0	0	N	1	5	4	0		0	6	3	0	
+0	0	0	N	1	5	4	0		0	7	4	0	
+0	0	0	A	1	5	4	0		0	8	5	0	
+1	0	0	#	1	10	4	0		2	9	4	0	
+0	1	12	O	1	10	4	1	OAFS	0	10	3	0	
+0	0	0	A	1	10	4	0		0	11	3	0	
+0	0	0	F	1	10	4	0		0	12	15	0	
+0	1	13	S	1	10	4	0		1	13	6	1	SKALDS
+1	0	0	#	1	15	0	0		2	14	3	0	
+1	0	0	#	2	1	3	0		3	0	0	0	
+0	1	14	C	2	1	3	1	COS	0	1	3	0	
+0	0	0	O	2	1	3	0		0	2	15	0	
+0	0	0	S	2	1	3	0		0	3	4	0	
+1	0	0	#	2	5	10	0		3	4	8	0	
+0	1	15	B	2	5	10	1	BAILIWICKS	1	5	6	0	
+0	0	0	A	2	5	10	0		0	6	3	0	
+0	0	0	I	2	5	10	0		0	7	4	0	
+0	0	0	L	2	5	10	0		0	8	5	0	
+0	1	16	I	2	5	10	0		2	9	4	1	IAGO
+0	0	0	W	2	5	10	0		0	10	3	0	
+0	0	0	I	2	5	10	0		0	11	3	0	
+0	0	0	C	2	5	10	0		0	12	15	0	
+0	0	0	K	2	5	10	0		1	13	6	0	
+0	1	17	S	2	5	10	0		2	14	3	1	SKD
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	18	T	3	2	4	1	TPKS	0	2	15	0	
+0	0	0	P	3	2	4	0		0	3	4	0	
+0	1	19	K	3	2	4	0		3	4	8	1	KNELLING
+0	0	0	S	3	2	4	0		1	5	6	0	
+1	0	0	#	3	7	3	0		4	6	5	0	
+0	1	20	P	3	7	3	1	PIA	0	7	4	0	
+0	0	0	I	3	7	3	0		0	8	5	0	
+0	0	0	A	3	7	3	0		2	9	4	0	
+1	0	0	#	3	11	0	0		4	10	8	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	21	L	3	12	3	1	LAK	0	12	15	0	
+0	0	0	A	3	12	3	0		1	13	6	0	
+0	0	0	K	3	12	3	0		2	14	3	0	
+0	1	22	B	4	0	3	1	BOI	4	0	3	1	BRA
+0	1	23	O	4	0	3	0		4	1	3	1	OEN
+0	0	0	I	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	24	N	4	4	3	1	NEC	3	4	8	0	
+0	0	0	E	4	4	3	0		1	5	6	0	
+0	1	25	C	4	4	3	0		4	6	5	1	CAALA
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	26	S	4	8	3	1	SGT	0	8	5	0	
+0	0	0	G	4	8	3	0		2	9	4	0	
+0	1	27	T	4	8	3	0		4	10	8	1	TRADABLE
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	28	E	4	12	3	1	ELD	0	12	15	0	
+0	0	0	L	4	12	3	0		1	13	6	0	
+0	0	0	D	4	12	3	0		2	14	3	0	
+0	1	29	R	5	0	3	1	REO	4	0	3	0	
+0	0	0	E	5	0	3	0		4	1	3	0	
+0	0	0	O	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	30	E	5	4	4	1	ESAS	3	4	8	0	
+0	0	0	S	5	4	4	0		1	5	6	0	
+0	0	0	A	5	4	4	0		4	6	5	0	
+0	1	31	S	5	4	4	0		5	7	5	1	STYLO
+1	0	0	#	5	9	5	0		6	8	5	0	
+0	1	32	O	5	9	5	1	ORBAD	2	9	4	0	
+0	0	0	R	5	9	5	0		4	10	8	0	
+0	1	33	B	5	9	5	0		5	11	3	1	BRO
+0	0	0	A	5	9	5	0		0	12	15	0	
+0	0	0	D	5	9	5	0		1	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	34	A	6	0	3	1	ANN	4	0	3	0	
+0	0	0	N	6	0	3	0		4	1	3	0	
+0	0	0	N	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	5	0		7	3	3	0	
+0	1	35	L	6	4	5	1	LSATS	3	4	8	0	
+0	0	0	S	6	4	5	0		1	5	6	0	
+0	0	0	A	6	4	5	0		4	6	5	0	
+0	0	0	T	6	4	5	0		5	7	5	0	
+0	1	36	S	6	4	5	0		6	8	5	1	SEERS
+1	0	0	#	6	10	4	0		7	9	0	0	
+0	1	37	A	6	10	4	1	ARRS	4	10	8	0	
+0	0	0	R	6	10	4	0		5	11	3	0	
+0	0	0	R	6	10	4	0		0	12	15	0	
+0	0	0	S	6	10	4	0		1	13	6	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	6	0	
+0	1	38	A	7	2	3	1	ASL	0	2	15	0	
+0	1	39	S	7	2	3	0		7	3	3	1	SUI
+0	0	0	L	7	2	3	0		3	4	8	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	40	L	7	6	3	1	LYE	4	6	5	0	
+0	0	0	Y	7	6	3	0		5	7	5	0	
+0	0	0	E	7	6	3	0		6	8	5	0	
+1	0	0	#	7	10	3	0		8	9	6	0	
+0	1	41	D	7	10	3	1	DOL	4	10	8	0	
+0	0	0	O	7	10	3	0		5	11	3	0	
+0	0	0	L	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	3	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	42	G	8	1	4	1	GLUI	8	1	6	1	GOTOIT
+0	0	0	L	8	1	4	0		0	2	15	0	
+0	0	0	U	8	1	4	0		7	3	3	0	
+0	0	0	I	8	1	4	0		3	4	8	0	
+1	0	0	#	8	6	5	0		9	5	4	0	
+0	1	43	A	8	6	5	1	ALEDA	4	6	5	0	
+0	0	0	L	8	6	5	0		5	7	5	0	
+0	0	0	E	8	6	5	0		6	8	5	0	
+0	1	44	D	8	6	5	0		8	9	6	1	DUNCAN
+0	0	0	A	8	6	5	0		4	10	8	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	45	A	8	12	3	1	AER	0	12	15	0	
+0	1	46	E	8	12	3	0		8	13	3	1	EMB
+0	1	47	R	8	12	3	0		8	14	3	1	RIS
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	48	O	9	1	5	1	ORINS	8	1	6	0	
+0	0	0	R	9	1	5	0		0	2	15	0	
+0	0	0	I	9	1	5	0		7	3	3	0	
+0	0	0	N	9	1	5	0		3	4	8	0	
+0	1	49	S	9	1	5	0		9	5	4	1	SYNC
+1	0	0	#	9	7	4	0		10	6	5	0	
+0	1	50	O	9	7	4	1	ORUB	5	7	5	0	
+0	0	0	R	9	7	4	0		6	8	5	0	
+0	0	0	U	9	7	4	0		8	9	6	0	
+0	0	0	B	9	7	4	0		4	10	8	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	51	N	9	12	3	1	NMI	0	12	15	0	
+0	0	0	M	9	12	3	0		8	13	3	0	
+0	0	0	I	9	12	3	0		8	14	3	0	
+0	1	52	G	10	0	3	1	GTE	10	0	3	1	GNP
+0	0	0	T	10	0	3	0		8	1	6	0	
+0	0	0	E	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	53	G	10	4	3	1	GYP	3	4	8	0	
+0	0	0	Y	10	4	3	0		9	5	4	0	
+0	1	54	P	10	4	3	0		10	6	5	1	PRADA
+1	0	0	#	10	8	3	0		11	7	4	0	
+0	1	55	S	10	8	3	1	SNL	6	8	5	0	
+0	0	0	N	10	8	3	0		8	9	6	0	
+0	0	0	L	10	8	3	0		4	10	8	0	
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	56	G	10	12	3	1	GBS	0	12	15	0	
+0	0	0	B	10	12	3	0		8	13	3	0	
+0	0	0	S	10	12	3	0		8	14	3	0	
+0	1	57	N	11	0	3	1	NOS	10	0	3	0	
+0	0	0	O	11	0	3	0		8	1	6	0	
+0	0	0	S	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	58	N	11	5	3	1	NRA	9	5	4	0	
+0	0	0	R	11	5	3	0		10	6	5	0	
+0	1	59	A	11	5	3	0		11	7	4	1	ARAW
+1	0	0	#	11	9	4	0		12	8	3	0	
+0	1	60	C	11	9	4	1	CEBU	8	9	6	0	
+0	0	0	E	11	9	4	0		4	10	8	0	
+0	1	61	B	11	9	4	0		11	11	4	1	BANA
+0	0	0	U	11	9	4	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	0	0	
+0	1	62	P	12	0	10	1	PICNICAREA	10	0	3	0	
+0	0	0	I	12	0	10	0		8	1	6	0	
+0	0	0	C	12	0	10	0		0	2	15	0	
+0	1	63	N	12	0	10	0		12	3	3	1	NRC
+0	1	64	I	12	0	10	0		12	4	3	1	INI
+0	0	0	C	12	0	10	0		9	5	4	0	
+0	0	0	A	12	0	10	0		10	6	5	0	
+0	0	0	R	12	0	10	0		11	7	4	0	
+0	1	65	E	12	0	10	0		12	8	3	1	EWW
+0	0	0	A	12	0	10	0		8	9	6	0	
+1	0	0	#	12	11	3	0		13	10	0	0	
+0	1	66	A	12	11	3	1	AAE	11	11	4	0	
+0	0	0	A	12	11	3	0		0	12	15	0	
+0	1	67	E	12	11	3	0		12	13	3	1	ENS
+1	0	0	#	12	15	0	0		13	14	0	0	
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	68	T	13	1	4	1	TURN	8	1	6	0	
+0	0	0	U	13	1	4	0		0	2	15	0	
+0	0	0	R	13	1	4	0		12	3	3	0	
+0	0	0	N	13	1	4	0		12	4	3	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	69	D	13	6	4	1	DAWN	10	6	5	0	
+0	0	0	A	13	6	4	0		11	7	4	0	
+0	0	0	W	13	6	4	0		12	8	3	0	
+0	0	0	N	13	6	4	0		8	9	6	0	
+1	0	0	#	13	11	3	0		14	10	0	0	
+0	1	70	N	13	11	3	1	NGN	11	11	4	0	
+0	0	0	G	13	11	3	0		0	12	15	0	
+0	0	0	N	13	11	3	0		12	13	3	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	71	E	14	2	3	1	ECI	0	2	15	0	
+0	0	0	C	14	2	3	0		12	3	3	0	
+0	0	0	I	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	72	A	14	6	3	1	AWW	10	6	5	0	
+0	0	0	W	14	6	3	0		11	7	4	0	
+0	0	0	W	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	73	A	14	11	3	1	AES	11	11	4	0	
+0	0	0	E	14	11	3	0		0	12	15	0	
+0	0	0	S	14	11	3	0		12	13	3	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+45
+1	NEH	O.T. book
+4	USD	Alternative to the euro: Abbr.
+7	MHO	Unit of conductance
+10	SMA	Wee, in the Hebrides
+11	ONNA	Tony-nominated choreographer White
+12	OAFS	Fall guys?
+14	COS	NASDAQ listings: Abbr.
+15	BAILIWICKS	Areas of expertise
+18	TPKS	Some hwys.
+20	PIA	Zadora of "Butterfly"
+21	LAK	"Mighty ___ a Rose"
+22	BOI	Avril Lavigne's "Sk8er ___"
+24	NEC	Asian electronics giant
+26	SGT	Lt. hopeful
+28	ELD	Antiquity
+29	REO	Rock's ___ Speedwagon
+30	ESAS	Juan's "those"
+32	ORBAD	"Whether times are good ___, happy ..." (1971 song lyric)
+34	ANN	English novelist Radcliffe
+35	LSATS	Exams for some srs.
+37	ARRS	Airport postings: Abbr.
+38	ASL	Communication without talking: Abbr.
+40	LYE	Caustic alkali
+41	DOL	Currency abbr.
+42	GLUI	Together, musically
+43	ALEDA	Tree-lined promenade
+45	AER	Flying start?
+48	ORINS	"Mourning Becomes Electra" brother and namesakes
+50	ORUB	Day spa offering
+51	NMI	Application letters
+52	GTE	Onetime telecom giant
+53	GYP	Take in
+55	SNL	Skittish show?: Abbr.
+56	GBS	Literary inits.
+57	NOS	They're not positive
+58	NRA	Million Mom March target: Abbr.
+60	CEBU	Island visited by Magellan, 1521
+62	PICNICAREA	Outdoor eating place where you might lay a blanket
+66	AAE	"American Justice" network
+68	TURN	Spin
+69	DAWN	Beginning
+70	NGN	Stitch
+71	ECI	Motel freebie
+72	AWW	"How adorable!"
+73	AES	His "E" was the same as J. R.'s
+35
+1	NSC	Grp. advising the president
+2	EMOTIONALRESCUE	1980 Rolling Stones hit
+3	HASP	Fastener piece
+4	UNA	"Por ___ Cabeza" (tango song)
+5	SNIP	Back-talker
+6	DALIS	"Sleep" and "Spain," for two
+7	MOW	Shorten, in a way
+8	HAI	"Bali ___"
+9	OFCLEARLANGUAGE	More of the quote
+11	OBSESS	Dwell (on)
+13	SKALDS	Ancient Scandinavian poets
+16	IAGO	Cassio's rival
+17	SKD	Dog doc
+19	KNELLING	Quasimodo's job
+22	BRA	Thing with cups and hooks
+23	OEN	Vintner's prefix
+25	CAALA	Occult science
+27	TRADABLE	Like baseball cards
+31	STYLO	French pen
+33	BRO	Buddy
+36	SEERS	Future experts
+39	SUI	___ juris (legal phrase)
+42	GOTOIT	Begin immediately
+44	DUNCAN	Classic yo-yo maker
+46	EMB	Envoy's bldg.
+47	RIS	Loire laugh
+49	SYNC	Harmony
+52	GNP	It has a domestic counterpart: Abbr.
+54	PRADA	Label in a Lauren Weisberger title
+59	ARAW	Got ___ deal (was rooked)
+61	BANA	Eric of "Lucky You"
+63	NRC	Org. concerned with meltdowns
+64	INI	Magician's name ending
+65	EWW	"How disgusting!"
+67	ENS	U.S.N.A. grad.

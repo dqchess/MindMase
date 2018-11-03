@@ -1,0 +1,169 @@
+grid_11x11_173
+11
+0	1	1	B	0	0	3	1	BEI	0	0	3	1	BOX
+0	1	2	E	0	0	3	0		0	1	4	1	ERES
+0	1	3	I	0	0	3	0		0	2	11	1	ITRIEDTOBUY
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	L	0	4	3	1	LSD	0	4	6	1	LWYVYD
+0	1	5	S	0	4	3	0		0	5	11	1	SPREADSHEET
+0	1	6	D	0	4	3	0		0	6	3	1	DAS
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	T	0	8	3	1	TAY	0	8	11	1	TOSSEDSALAD
+0	1	8	A	0	8	3	0		0	9	6	1	ATHAND
+0	1	9	Y	0	8	3	0		0	10	4	1	YARN
+0	1	10	O	1	0	3	1	ORT	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	4	0	
+0	0	0	T	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	3	0		2	3	0	0	
+0	1	11	W	1	4	3	1	WPA	0	4	6	0	
+0	0	0	P	1	4	3	0		0	5	11	0	
+0	0	0	A	1	4	3	0		0	6	3	0	
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	12	O	1	8	3	1	OTA	0	8	11	0	
+0	0	0	T	1	8	3	0		0	9	6	0	
+0	0	0	A	1	8	3	0		0	10	4	0	
+0	1	13	X	2	0	3	1	XER	0	0	3	0	
+0	0	0	E	2	0	3	0		0	1	4	0	
+0	0	0	R	2	0	3	0		0	2	11	0	
+1	0	0	#	2	4	3	0		3	3	5	0	
+0	1	14	Y	2	4	3	1	YRS	0	4	6	0	
+0	0	0	R	2	4	3	0		0	5	11	0	
+0	0	0	S	2	4	3	0		0	6	3	0	
+1	0	0	#	2	8	3	0		3	7	5	0	
+0	1	15	S	2	8	3	1	SHR	0	8	11	0	
+0	0	0	H	2	8	3	0		0	9	6	0	
+0	0	0	R	2	8	3	0		0	10	4	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	16	S	3	1	5	1	SIEVE	0	1	4	0	
+0	0	0	I	3	1	5	0		0	2	11	0	
+0	1	17	E	3	1	5	0		3	3	5	1	ENDIS
+0	0	0	V	3	1	5	0		0	4	6	0	
+0	0	0	E	3	1	5	0		0	5	11	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	18	A	3	7	4	1	ASAN	3	7	5	1	ARDOR
+0	0	0	S	3	7	4	0		0	8	11	0	
+0	0	0	A	3	7	4	0		0	9	6	0	
+0	0	0	N	3	7	4	0		0	10	4	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	4	0		5	1	6	0	
+0	1	19	E	4	2	4	1	ENYA	0	2	11	0	
+0	0	0	N	4	2	4	0		3	3	5	0	
+0	0	0	Y	4	2	4	0		0	4	6	0	
+0	0	0	A	4	2	4	0		0	5	11	0	
+1	0	0	#	4	7	3	0		5	6	6	0	
+0	1	20	R	4	7	3	1	REN	3	7	5	0	
+0	0	0	E	4	7	3	0		0	8	11	0	
+0	0	0	N	4	7	3	0		0	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	21	D	5	1	9	1	DDDDDDDDD	5	1	6	1	DIFFER
+0	0	0	D	5	1	9	0		0	2	11	0	
+0	0	0	D	5	1	9	0		3	3	5	0	
+0	0	0	D	5	1	9	0		0	4	6	0	
+0	0	0	D	5	1	9	0		0	5	11	0	
+0	1	22	D	5	1	9	0		5	6	6	1	DRONER
+0	0	0	D	5	1	9	0		3	7	5	0	
+0	0	0	D	5	1	9	0		0	8	11	0	
+0	0	0	D	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	3	0		7	0	4	0	
+0	1	23	I	6	1	3	1	ITI	5	1	6	0	
+0	0	0	T	6	1	3	0		0	2	11	0	
+0	0	0	I	6	1	3	0		3	3	5	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	S	6	5	4	1	SROS	0	5	11	0	
+0	0	0	R	6	5	4	0		5	6	6	0	
+0	0	0	O	6	5	4	0		3	7	5	0	
+0	0	0	S	6	5	4	0		0	8	11	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	25	C	7	0	4	1	CFOS	7	0	4	1	CAPO
+0	0	0	F	7	0	4	0		5	1	6	0	
+0	0	0	O	7	0	4	0		0	2	11	0	
+0	0	0	S	7	0	4	0		3	3	5	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	26	H	7	5	5	1	HORAS	0	5	11	0	
+0	0	0	O	7	5	5	0		5	6	6	0	
+0	0	0	R	7	5	5	0		3	7	5	0	
+0	0	0	A	7	5	5	0		0	8	11	0	
+0	1	27	S	7	5	5	0		7	9	4	1	SHAM
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	A	8	0	3	1	AFB	7	0	4	0	
+0	0	0	F	8	0	3	0		5	1	6	0	
+0	0	0	B	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	29	O	8	4	3	1	OEN	8	4	3	1	OCC
+0	0	0	E	8	4	3	0		0	5	11	0	
+0	0	0	N	8	4	3	0		5	6	6	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	30	L	8	8	3	1	LHZ	0	8	11	0	
+0	0	0	H	8	8	3	0		7	9	4	0	
+0	1	31	Z	8	8	3	0		8	10	3	1	ZSA
+0	1	32	P	9	0	3	1	PEU	7	0	4	0	
+0	0	0	E	9	0	3	0		5	1	6	0	
+0	0	0	U	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	33	C	9	4	3	1	CEE	8	4	3	0	
+0	0	0	E	9	4	3	0		0	5	11	0	
+0	0	0	E	9	4	3	0		5	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	34	A	9	8	3	1	AAS	0	8	11	0	
+0	0	0	A	9	8	3	0		7	9	4	0	
+0	0	0	S	9	8	3	0		8	10	3	0	
+0	1	35	O	10	0	3	1	ORY	7	0	4	0	
+0	0	0	R	10	0	3	0		5	1	6	0	
+0	0	0	Y	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	36	C	10	4	3	1	CTR	8	4	3	0	
+0	0	0	T	10	4	3	0		0	5	11	0	
+0	0	0	R	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	37	D	10	8	3	1	DMA	0	8	11	0	
+0	0	0	M	10	8	3	0		7	9	4	0	
+0	0	0	A	10	8	3	0		8	10	3	0	
+27
+1	BEI	"___ Mir Bist Du Schoen" (1938 hit)
+4	LSD	It was dropped in the '60s
+7	TAY	Longest river of Scotland
+10	ORT	Leftover
+11	WPA	New Deal inits.
+12	OTA	Taxonomic suffix
+13	XER	Boomer's kid
+14	YRS	Age abbr.
+15	SHR	Amex unit: Abbr.
+16	SIEVE	Kitchen utensil with a mesh
+18	ASAN	Straight ___ arrow
+19	ENYA	New Age singer
+20	REN	Chihuahua on TV
+21	DDDDDDDDD	Call for help
+23	ITI	"Lord, is ___?"
+24	SROS	Cramped urban dwellings, briefly
+25	CFOS	Money bigwigs, for short
+26	HORAS	Lively dances
+28	AFB	Langley, e.g.: Abbr.
+29	OEN	Vintner's prefix
+30	LHZ	Young fellow
+32	PEU	Little bit of French?
+33	CEE	Neighbor of ef on a typewriter
+34	AAS	Smoke detector batteries, often
+35	ORY	Jazz trombonist Kid ___
+36	CTR	Hoops pos.
+37	DMA	Basic teaching
+17
+1	BOX	Kind of seat
+2	ERES	"___ Tu" (1974 hit)
+3	ITRIEDTOBUY	Start of a quip from a hunter
+4	LWYVYD	Steeple tops
+5	SPREADSHEET	Accountant's software
+6	DAS	Court V.I.P.'s
+7	TOSSEDSALAD	Many a first course
+8	ATHAND	Within easy reach
+9	YARN	Knitting ball
+17	ENDIS	"The ___ near!"
+18	ARDOR	Passion
+21	DIFFER	What one might beg to do
+22	DRONER	Yawn-inducing speaker
+25	CAPO	Bar placed across a guitar fingerboard
+27	SHAM	Fraud
+29	OCC	Line of work: Abbr.
+31	ZSA	Doubled, a Hollywood star

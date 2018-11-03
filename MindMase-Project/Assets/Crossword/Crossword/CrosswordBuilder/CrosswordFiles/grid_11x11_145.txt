@@ -1,0 +1,165 @@
+grid_11x11_145
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	B	0	2	3	1	BEC	0	2	11	1	BUTIDRIFTED
+0	1	2	E	0	2	3	0		0	3	4	1	ESTS
+0	1	3	C	0	2	3	0		0	4	3	1	CHI
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	5	0	
+0	1	4	R	0	8	3	1	REO	0	8	11	1	ROMANEMPIRE
+0	1	5	E	0	8	3	0		0	9	5	1	ENTRE
+0	1	6	O	0	8	3	0		0	10	3	1	OIS
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	7	C	1	1	5	1	CUSHY	1	1	4	1	COEN
+0	0	0	U	1	1	5	0		0	2	11	0	
+0	0	0	S	1	1	5	0		0	3	4	0	
+0	0	0	H	1	1	5	0		0	4	3	0	
+0	1	8	Y	1	1	5	0		1	5	9	1	YESINDEED
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	L	1	7	4	1	LONI	1	7	5	1	LEGOS
+0	0	0	O	1	7	4	0		0	8	11	0	
+0	0	0	N	1	7	4	0		0	9	5	0	
+0	0	0	I	1	7	4	0		0	10	3	0	
+0	1	10	D	2	0	6	1	DOTTIE	2	0	3	1	DDE
+0	0	0	O	2	0	6	0		1	1	4	0	
+0	0	0	T	2	0	6	0		0	2	11	0	
+0	0	0	T	2	0	6	0		0	3	4	0	
+0	0	0	I	2	0	6	0		0	4	3	0	
+0	0	0	E	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	11	E	2	7	4	1	EMTS	1	7	5	0	
+0	0	0	M	2	7	4	0		0	8	11	0	
+0	0	0	T	2	7	4	0		0	9	5	0	
+0	0	0	S	2	7	4	0		0	10	3	0	
+0	1	12	D	3	0	4	1	DEIS	2	0	3	0	
+0	0	0	E	3	0	4	0		1	1	4	0	
+0	0	0	I	3	0	4	0		0	2	11	0	
+0	0	0	S	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	5	0		4	4	0	0	
+0	1	13	S	3	5	5	1	SUGAR	1	5	9	0	
+0	1	14	U	3	5	5	0		3	6	3	1	UDO
+0	0	0	G	3	5	5	0		1	7	5	0	
+0	0	0	A	3	5	5	0		0	8	11	0	
+0	0	0	R	3	5	5	0		0	9	5	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	E	4	0	3	1	END	2	0	3	0	
+0	0	0	N	4	0	3	0		1	1	4	0	
+0	0	0	D	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	5	0	
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	16	I	4	5	5	1	IDONE	1	5	9	0	
+0	0	0	D	4	5	5	0		3	6	3	0	
+0	0	0	O	4	5	5	0		1	7	5	0	
+0	0	0	N	4	5	5	0		0	8	11	0	
+0	0	0	E	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	7	0		6	1	5	0	
+0	1	17	R	5	2	7	1	REDNOSE	0	2	11	0	
+0	1	18	E	5	2	7	0		5	3	5	1	ERAOF
+0	1	19	D	5	2	7	0		5	4	3	1	DIG
+0	0	0	N	5	2	7	0		1	5	9	0	
+0	0	0	O	5	2	7	0		3	6	3	0	
+0	0	0	S	5	2	7	0		1	7	5	0	
+0	0	0	E	5	2	7	0		0	8	11	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	20	V	6	1	5	1	VIRID	6	1	5	1	VOTED
+0	0	0	I	6	1	5	0		0	2	11	0	
+0	0	0	R	6	1	5	0		5	3	5	0	
+0	0	0	I	6	1	5	0		5	4	3	0	
+0	0	0	D	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	21	M	6	8	3	1	MAR	0	8	11	0	
+0	1	22	A	6	8	3	0		6	9	4	1	ADOS
+0	1	23	R	6	8	3	0		6	10	3	1	ROT
+1	0	0	#	7	1	5	0		8	0	3	0	
+0	1	24	O	7	1	5	1	OFAGE	6	1	5	0	
+0	0	0	F	7	1	5	0		0	2	11	0	
+0	0	0	A	7	1	5	0		5	3	5	0	
+0	0	0	G	7	1	5	0		5	4	3	0	
+0	0	0	E	7	1	5	0		1	5	9	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	25	U	7	7	4	1	UPDO	7	7	4	1	ULEE
+0	0	0	P	7	7	4	0		0	8	11	0	
+0	0	0	D	7	7	4	0		6	9	4	0	
+0	0	0	O	7	7	4	0		6	10	3	0	
+0	1	26	O	8	0	4	1	OTTO	8	0	3	1	ORO
+0	0	0	T	8	0	4	0		6	1	5	0	
+0	0	0	T	8	0	4	0		0	2	11	0	
+0	0	0	O	8	0	4	0		5	3	5	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	27	E	8	5	6	1	ELLIOT	1	5	9	0	
+0	1	28	L	8	5	6	0		8	6	3	1	LOW
+0	0	0	L	8	5	6	0		7	7	4	0	
+0	0	0	I	8	5	6	0		0	8	11	0	
+0	0	0	O	8	5	6	0		6	9	4	0	
+0	0	0	T	8	5	6	0		6	10	3	0	
+0	1	29	R	9	0	4	1	REEF	8	0	3	0	
+0	0	0	E	9	0	4	0		6	1	5	0	
+0	0	0	E	9	0	4	0		0	2	11	0	
+0	0	0	F	9	0	4	0		5	3	5	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	30	D	9	5	5	1	DOERS	1	5	9	0	
+0	0	0	O	9	5	5	0		8	6	3	0	
+0	0	0	E	9	5	5	0		7	7	4	0	
+0	0	0	R	9	5	5	0		0	8	11	0	
+0	0	0	S	9	5	5	0		6	9	4	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	31	O	10	0	3	1	ODD	8	0	3	0	
+0	0	0	D	10	0	3	0		6	1	5	0	
+0	0	0	D	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	32	W	10	6	3	1	WEE	8	6	3	0	
+0	0	0	E	10	6	3	0		7	7	4	0	
+0	0	0	E	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	BEC	"Je te plumerai le ___" ("Alouette" lyric)
+4	REO	Rock's ___ Speedwagon
+7	CUSHY	Hardly hard
+9	LONI	Portrayer of WKRP's Jennifer
+10	DOTTIE	Golfer Pepper
+11	EMTS	First-aid experts, briefly
+12	DEIS	Agnus ___ (Mass prayers)
+13	SUGAR	Some cubes
+15	END	Share of responsibility
+16	IDONE	"What have ___?"
+17	REDNOSE	Cold development
+20	VIRID	Strongly green
+21	MAR	Natl. Nutrition Mo.
+24	OFAGE	Legal, in a way
+25	UPDO	French twist, e.g.
+26	OTTO	Nobel-winning physicist Stern
+27	ELLIOT	Richardson of Nixon's Cabinet
+29	REEF	Bikini feature
+30	DOERS	People of action
+31	ODD	"How ___!"
+32	WEE	First word of Burns's "To a Mouse"
+19
+1	BUTIDRIFTED	End of the quip
+2	ESTS	Job bidding figs.
+3	CHI	X, to Xenophon
+4	ROMANEMPIRE	Edward Gibbon's subject
+5	ENTRE	___-Deux-Mers (Bordeaux wine appellation)
+6	OIS	French suffix with Qu
+7	COEN	"A Serious Man" co-director, 2009
+8	YESINDEED	"Of course"
+9	LEGOS	Building composition, maybe
+10	DDE	50's monogram
+14	UDO	Japanese vegetable
+18	ERAOF	___ Good Feelings
+19	DIG	Unkind remark
+20	VOTED	Picked a ticket
+22	ADOS	Ceremonies
+23	ROT	Bushwa
+25	ULEE	1997 Fonda role
+26	ORO	Cargo on the Spanish Main
+28	LOW	Depleted

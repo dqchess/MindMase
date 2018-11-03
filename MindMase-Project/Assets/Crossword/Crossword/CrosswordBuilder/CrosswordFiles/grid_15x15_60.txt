@@ -1,0 +1,307 @@
+grid_15x15_60
+15
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	A	0	1	3	1	ABM	0	1	10	1	ATHOMEWITH
+0	1	2	B	0	1	3	0		0	2	10	1	BEDOFROSES
+0	1	3	M	0	1	3	0		0	3	4	1	MAAS
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	W	0	6	3	1	WMD	0	6	3	1	WEA
+0	1	5	M	0	6	3	0		0	7	15	1	MADEAFASTBUCKLE
+0	1	6	D	0	6	3	0		0	8	4	1	DROP
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	U	0	10	3	1	UBS	0	10	3	1	UTI
+0	1	8	B	0	10	3	0		0	11	3	1	BUN
+0	1	9	S	0	10	3	0		0	12	4	1	SSGT
+1	0	0	#	0	14	0	0		1	13	3	0	
+1	0	0	#	0	15	0	0		1	14	3	0	
+1	0	0	#	1	1	4	0		2	0	0	0	
+0	1	10	T	1	1	4	1	TEAR	0	1	10	0	
+0	0	0	E	1	1	4	0		0	2	10	0	
+0	0	0	A	1	1	4	0		0	3	4	0	
+0	1	11	R	1	1	4	0		1	4	4	1	RYES
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	12	E	1	6	3	1	EAR	0	6	3	0	
+0	0	0	A	1	6	3	0		0	7	15	0	
+0	0	0	R	1	6	3	0		0	8	4	0	
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	13	T	1	10	5	1	TUSKS	0	10	3	0	
+0	0	0	U	1	10	5	0		0	11	3	0	
+0	0	0	S	1	10	5	0		0	12	4	0	
+0	1	14	K	1	10	5	0		1	13	3	1	KLU
+0	1	15	S	1	10	5	0		1	14	3	1	SYS
+1	0	0	#	2	1	4	0		3	0	3	0	
+0	1	16	H	2	1	4	1	HDAY	0	1	10	0	
+0	0	0	D	2	1	4	0		0	2	10	0	
+0	0	0	A	2	1	4	0		0	3	4	0	
+0	0	0	Y	2	1	4	0		1	4	4	0	
+1	0	0	#	2	6	9	0		3	5	5	0	
+0	1	17	A	2	6	9	1	ADORINGLY	0	6	3	0	
+0	0	0	D	2	6	9	0		0	7	15	0	
+0	0	0	O	2	6	9	0		0	8	4	0	
+0	1	18	R	2	6	9	0		2	9	3	1	RID
+0	0	0	I	2	6	9	0		0	10	3	0	
+0	0	0	N	2	6	9	0		0	11	3	0	
+0	0	0	G	2	6	9	0		0	12	4	0	
+0	0	0	L	2	6	9	0		1	13	3	0	
+0	0	0	Y	2	6	9	0		1	14	3	0	
+0	1	19	L	3	0	6	1	LOOSED	3	0	3	1	LEA
+0	0	0	O	3	0	6	0		0	1	10	0	
+0	0	0	O	3	0	6	0		0	2	10	0	
+0	0	0	S	3	0	6	0		0	3	4	0	
+0	0	0	E	3	0	6	0		1	4	4	0	
+0	1	20	D	3	0	6	0		3	5	5	1	DIRGE
+1	0	0	#	3	7	3	0		4	6	5	0	
+0	1	21	E	3	7	3	1	EPI	0	7	15	0	
+0	0	0	P	3	7	3	0		0	8	4	0	
+0	0	0	I	3	7	3	0		2	9	3	0	
+1	0	0	#	3	11	0	0		4	10	4	0	
+1	0	0	#	3	12	3	0		4	11	5	0	
+0	1	22	T	3	12	3	1	TUS	0	12	4	0	
+0	0	0	U	3	12	3	0		1	13	3	0	
+0	0	0	S	3	12	3	0		1	14	3	0	
+0	1	23	E	4	0	3	1	EMF	3	0	3	0	
+0	0	0	M	4	0	3	0		0	1	10	0	
+0	0	0	F	4	0	3	0		0	2	10	0	
+1	0	0	#	4	4	4	0		5	3	0	0	
+0	1	24	S	4	4	4	1	SIKA	1	4	4	0	
+0	0	0	I	4	4	4	0		3	5	5	0	
+0	1	25	K	4	4	4	0		4	6	5	1	KELSO
+0	0	0	A	4	4	4	0		0	7	15	0	
+1	0	0	#	4	9	3	0		5	8	0	0	
+0	1	26	D	4	9	3	1	DVR	2	9	3	0	
+0	1	27	V	4	9	3	0		4	10	4	1	VIRG
+0	1	28	R	4	9	3	0		4	11	5	1	RHINO
+1	0	0	#	4	13	0	0		5	12	10	0	
+1	0	0	#	4	14	0	0		5	13	10	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+0	1	29	A	5	0	3	1	AER	3	0	3	0	
+0	0	0	E	5	0	3	0		0	1	10	0	
+0	0	0	R	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	0	0		6	3	5	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	30	R	5	5	3	1	REF	3	5	5	0	
+0	0	0	E	5	5	3	0		4	6	5	0	
+0	0	0	F	5	5	3	0		0	7	15	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	5	0		6	9	0	0	
+0	1	31	I	5	10	5	1	IHADA	4	10	4	0	
+0	0	0	H	5	10	5	0		4	11	5	0	
+0	1	32	A	5	10	5	0		5	12	10	1	ALANHALEJR
+0	1	33	D	5	10	5	0		5	13	10	1	DELINQUENT
+0	1	34	A	5	10	5	0		5	14	3	1	ASS
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	35	W	6	1	3	1	WOO	0	1	10	0	
+0	0	0	O	6	1	3	0		0	2	10	0	
+0	1	36	O	6	1	3	0		6	3	5	1	OTRAS
+1	0	0	#	6	5	4	0		7	4	4	0	
+0	1	37	G	6	5	4	1	GLAD	3	5	5	0	
+0	0	0	L	6	5	4	0		4	6	5	0	
+0	0	0	A	6	5	4	0		0	7	15	0	
+0	1	38	D	6	5	4	0		6	8	5	1	DSOUP
+1	0	0	#	6	10	5	0		7	9	5	0	
+0	1	39	R	6	10	5	1	RILES	4	10	4	0	
+0	0	0	I	6	10	5	0		4	11	5	0	
+0	0	0	L	6	10	5	0		5	12	10	0	
+0	0	0	E	6	10	5	0		5	13	10	0	
+0	0	0	S	6	10	5	0		5	14	3	0	
+0	1	40	D	7	0	15	1	DISTRESSSIGNALS	7	0	3	1	DUO
+0	0	0	I	7	0	15	0		0	1	10	0	
+0	0	0	S	7	0	15	0		0	2	10	0	
+0	0	0	T	7	0	15	0		6	3	5	0	
+0	1	41	R	7	0	15	0		7	4	4	1	ROYS
+0	0	0	E	7	0	15	0		3	5	5	0	
+0	0	0	S	7	0	15	0		4	6	5	0	
+0	0	0	S	7	0	15	0		0	7	15	0	
+0	0	0	S	7	0	15	0		6	8	5	0	
+0	1	42	I	7	0	15	0		7	9	5	1	ISIRA
+0	0	0	G	7	0	15	0		4	10	4	0	
+0	0	0	N	7	0	15	0		4	11	5	0	
+0	0	0	A	7	0	15	0		5	12	10	0	
+0	0	0	L	7	0	15	0		5	13	10	0	
+0	0	0	S	7	0	15	0		5	14	3	0	
+0	1	43	U	8	0	5	1	UTERO	7	0	3	0	
+0	0	0	T	8	0	5	0		0	1	10	0	
+0	0	0	E	8	0	5	0		0	2	10	0	
+0	0	0	R	8	0	5	0		6	3	5	0	
+0	0	0	O	8	0	5	0		7	4	4	0	
+1	0	0	#	8	6	4	0		9	5	0	0	
+0	1	44	O	8	6	4	1	OTOS	4	6	5	0	
+0	0	0	T	8	6	4	0		0	7	15	0	
+0	0	0	O	8	6	4	0		6	8	5	0	
+0	0	0	S	8	6	4	0		7	9	5	0	
+1	0	0	#	8	11	3	0		9	10	0	0	
+0	1	45	O	8	11	3	1	ONI	4	11	5	0	
+0	0	0	N	8	11	3	0		5	12	10	0	
+0	0	0	I	8	11	3	0		5	13	10	0	
+1	0	0	#	8	15	0	0		9	14	3	0	
+0	1	46	O	9	0	5	1	OHSAY	7	0	3	0	
+0	0	0	H	9	0	5	0		0	1	10	0	
+0	0	0	S	9	0	5	0		0	2	10	0	
+0	0	0	A	9	0	5	0		6	3	5	0	
+0	0	0	Y	9	0	5	0		7	4	4	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	47	B	9	7	3	1	BUI	0	7	15	0	
+0	0	0	U	9	7	3	0		6	8	5	0	
+0	0	0	I	9	7	3	0		7	9	5	0	
+1	0	0	#	9	11	0	0		10	10	4	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	48	H	9	12	3	1	HNS	5	12	10	0	
+0	0	0	N	9	12	3	0		5	13	10	0	
+0	1	49	S	9	12	3	0		9	14	3	1	SIB
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	0	0		11	1	3	0	
+1	0	0	#	10	3	3	0		11	2	4	0	
+0	1	50	S	10	3	3	1	SSW	6	3	5	0	
+0	0	0	S	10	3	3	0		7	4	4	0	
+0	1	51	W	10	3	3	0		10	5	3	1	WEI
+1	0	0	#	10	7	4	0		11	6	4	0	
+0	1	52	U	10	7	4	1	UPRI	0	7	15	0	
+0	0	0	P	10	7	4	0		6	8	5	0	
+0	0	0	R	10	7	4	0		7	9	5	0	
+0	1	53	I	10	7	4	0		10	10	4	1	IVAR
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	54	A	10	12	3	1	AQI	5	12	10	0	
+0	0	0	Q	10	12	3	0		5	13	10	0	
+0	0	0	I	10	12	3	0		9	14	3	0	
+0	1	55	B	11	0	3	1	BOA	11	0	3	1	BSS
+0	1	56	O	11	0	3	0		11	1	3	1	OIL
+0	1	57	A	11	0	3	0		11	2	4	1	ADIO
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	58	E	11	5	3	1	ENC	10	5	3	0	
+0	1	59	N	11	5	3	0		11	6	4	1	NCWK
+0	0	0	C	11	5	3	0		0	7	15	0	
+1	0	0	#	11	9	6	0		12	8	3	0	
+0	1	60	A	11	9	6	1	AVCLUB	7	9	5	0	
+0	0	0	V	11	9	6	0		10	10	4	0	
+0	1	61	C	11	9	6	0		11	11	4	1	CDII
+0	0	0	L	11	9	6	0		5	12	10	0	
+0	0	0	U	11	9	6	0		5	13	10	0	
+0	0	0	B	11	9	6	0		9	14	3	0	
+0	1	62	S	12	0	9	1	SIDEKICKS	11	0	3	0	
+0	0	0	I	12	0	9	0		11	1	3	0	
+0	0	0	D	12	0	9	0		11	2	4	0	
+0	1	63	E	12	0	9	0		12	3	3	1	EMS
+0	1	64	K	12	0	9	0		12	4	3	1	KSU
+0	0	0	I	12	0	9	0		10	5	3	0	
+0	0	0	C	12	0	9	0		11	6	4	0	
+0	0	0	K	12	0	9	0		0	7	15	0	
+0	1	65	S	12	0	9	0		12	8	3	1	SER
+1	0	0	#	12	10	4	0		13	9	0	0	
+0	1	66	A	12	10	4	1	ADEE	10	10	4	0	
+0	0	0	D	12	10	4	0		11	11	4	0	
+0	0	0	E	12	10	4	0		5	12	10	0	
+0	0	0	E	12	10	4	0		5	13	10	0	
+1	0	0	#	12	15	0	0		13	14	0	0	
+0	1	67	S	13	0	5	1	SLIMS	11	0	3	0	
+0	0	0	L	13	0	5	0		11	1	3	0	
+0	0	0	I	13	0	5	0		11	2	4	0	
+0	0	0	M	13	0	5	0		12	3	3	0	
+0	0	0	S	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	3	0		14	5	0	0	
+0	1	68	W	13	6	3	1	WLE	11	6	4	0	
+0	0	0	L	13	6	3	0		0	7	15	0	
+0	0	0	E	13	6	3	0		12	8	3	0	
+1	0	0	#	13	10	4	0		14	9	0	0	
+0	1	69	R	13	10	4	1	RIJN	10	10	4	0	
+0	0	0	I	13	10	4	0		11	11	4	0	
+0	0	0	J	13	10	4	0		5	12	10	0	
+0	0	0	N	13	10	4	0		5	13	10	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	70	O	14	2	3	1	OSU	11	2	4	0	
+0	0	0	S	14	2	3	0		12	3	3	0	
+0	0	0	U	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	71	K	14	6	3	1	KER	11	6	4	0	
+0	0	0	E	14	6	3	0		0	7	15	0	
+0	0	0	R	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	72	I	14	11	3	1	IRT	11	11	4	0	
+0	0	0	R	14	11	3	0		5	12	10	0	
+0	0	0	T	14	11	3	0		5	13	10	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	ABM	Defense syst.
+4	WMD	Subj. of a U.N. inspection, maybe
+7	UBS	Financial inst. that bought PaineWebber in 2000
+10	TEAR	Floor it
+12	EAR	Sympathetic attention
+13	TUSKS	Wild boar features
+16	HDAY	Four hours on the job, perhaps
+17	ADORINGLY	One way to gaze
+19	LOOSED	Out of chains
+21	EPI	Prefix with cardium
+22	TUS	Overseer of schools: Abbr.
+23	EMF	Energy expressed in volts: Abbr.
+24	SIKA	Endangered Asian deer
+26	DVR	TiVo, for one
+29	AER	Bubbly beginning?
+30	REF	Fairness determiner
+31	IHADA	"If ___ nickel..."
+35	WOO	"Face/Off" director John
+37	GLAD	Bag brand
+39	RILES	Stirs up
+40	DISTRESSSIGNALS	Attempts to get help
+43	UTERO	In ___ (unborn)
+44	OTOS	Plains Indians
+45	ONI	Clandestine maritime org.
+46	OHSAY	Key opening?
+47	BUI	Century, e.g.
+48	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+50	SSW	Course setting: Abbr.
+52	UPRI	Jacquerie
+54	AQI	Pollution meas.
+55	BOA	Feathery wrap
+58	ENC	Ltr. insert
+60	AVCLUB	Tech-savvy school grp.
+62	SIDEKICKS	Seconds
+66	ADEE	Suffix with chick
+67	SLIMS	Diets
+68	WLE	Corduroy ridge
+69	RIJN	Rembrandt van ___
+70	OSU	The Buckeyes, for short
+71	KER	Prefix with flop or plop
+72	IRT	N.Y.C.'s original subway line
+37
+1	ATHOMEWITH	Handling comfortably
+2	BEDOFROSES	Pleasant place, metaphorically
+3	MAAS	"Serpico" author Peter
+4	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+5	MADEAFASTBUCKLE	Did some quick metalwork?
+6	DROP	Word with anchor or dead
+7	UTI	___ possidetis (as you possess, at law)
+8	BUN	Hamburger helper?
+9	SSGT	A.P.O. addressee
+11	RYES	Some are Jewish
+14	KLU	50's Reds star, familiarly
+15	SYS	___ admin (computer techie, for short)
+18	RID	Completely free
+19	LEA	What "the lowing herd wind slowly o'er" in a Thomas Gray poem
+20	DIRGE	Somber song
+25	KELSO	Five-time Horse of the Year, 1960-64
+27	VIRG	N. Car. neighbor
+28	RHINO	African heavyweight, for short
+32	ALANHALEJR	Player of the Skipper
+33	DELINQUENT	Overdue
+34	ASS	Bonehead
+36	OTRAS	Others, to Pedro
+38	DSOUP	Classic Marx Brothers flick
+40	DUO	The Righteous Brothers, e.g.
+41	ROYS	Popular fast food chain, informally
+42	ISIRA	George Sand title heroine
+49	SIB	Rival, perhaps
+51	WEI	4th- to 6th-century Chinese dynasty
+53	IVAR	Swedish monopolist Kreuger
+55	BSS	Chem. majors' degrees
+56	OIL	Texas tea
+57	ADIO	Sound
+59	NCWK	Enter
+61	CDII	Year of the Battle of Pollentia
+63	EMS	Lifesaving team, for short
+64	KSU	The Wildcats of the Big 12 Conf.
+65	SER	Talk to the flock: Abbr.

@@ -1,0 +1,117 @@
+grid_9x9_184
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	L	0	1	3	1	LEY	0	1	4	1	LUME
+0	1	2	E	0	1	3	0		0	2	4	1	EDAS
+0	1	3	Y	0	1	3	0		0	3	3	1	YAR
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SIS	0	6	4	1	SITE
+0	1	5	I	0	6	3	0		0	7	4	1	IRON
+0	1	6	S	0	6	3	0		0	8	3	1	SRS
+0	1	7	J	1	0	5	1	JUDAS	1	0	3	1	JAY
+0	0	0	U	1	0	5	0		0	1	4	0	
+0	0	0	D	1	0	5	0		0	2	4	0	
+0	0	0	A	1	0	5	0		0	3	3	0	
+0	1	8	S	1	0	5	0		1	4	7	1	SEEHERE
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	I	1	6	3	1	IRR	0	6	4	0	
+0	0	0	R	1	6	3	0		0	7	4	0	
+0	0	0	R	1	6	3	0		0	8	3	0	
+0	1	10	A	2	0	9	1	AMARETTOS	1	0	3	0	
+0	0	0	M	2	0	9	0		0	1	4	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	0	0	R	2	0	9	0		0	3	3	0	
+0	0	0	E	2	0	9	0		1	4	7	0	
+0	1	11	T	2	0	9	0		2	5	3	1	TDP
+0	0	0	T	2	0	9	0		0	6	4	0	
+0	0	0	O	2	0	9	0		0	7	4	0	
+0	0	0	S	2	0	9	0		0	8	3	0	
+0	1	12	Y	3	0	3	1	YES	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	4	0	
+0	0	0	S	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	E	3	4	4	1	EDEN	1	4	7	0	
+0	0	0	D	3	4	4	0		2	5	3	0	
+0	0	0	E	3	4	4	0		0	6	4	0	
+0	0	0	N	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	I	4	3	3	1	IHP	4	3	3	1	IBF
+0	0	0	H	4	3	3	0		1	4	7	0	
+0	0	0	P	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	L	5	1	4	1	LOBE	5	1	4	1	LIMN
+0	1	16	O	5	1	4	0		5	2	4	1	OFST
+0	0	0	B	5	1	4	0		4	3	3	0	
+0	0	0	E	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	A	5	6	3	1	AIM	5	6	4	1	AFIT
+0	1	18	I	5	6	3	0		5	7	4	1	IFNI
+0	1	19	M	5	6	3	0		5	8	3	1	MSG
+0	1	20	R	6	0	9	1	RIFFRAFFS	6	0	3	1	RHE
+0	0	0	I	6	0	9	0		5	1	4	0	
+0	0	0	F	6	0	9	0		5	2	4	0	
+0	0	0	F	6	0	9	0		4	3	3	0	
+0	0	0	R	6	0	9	0		1	4	7	0	
+0	1	21	A	6	0	9	0		6	5	3	1	AKU
+0	0	0	F	6	0	9	0		5	6	4	0	
+0	0	0	F	6	0	9	0		5	7	4	0	
+0	0	0	S	6	0	9	0		5	8	3	0	
+0	1	22	H	7	0	3	1	HMS	6	0	3	0	
+0	0	0	M	7	0	3	0		5	1	4	0	
+0	0	0	S	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	E	7	4	5	1	EKING	1	4	7	0	
+0	0	0	K	7	4	5	0		6	5	3	0	
+0	0	0	I	7	4	5	0		5	6	4	0	
+0	0	0	N	7	4	5	0		5	7	4	0	
+0	0	0	G	7	4	5	0		5	8	3	0	
+0	1	24	E	8	0	3	1	ENT	6	0	3	0	
+0	0	0	N	8	0	3	0		5	1	4	0	
+0	0	0	T	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	U	8	5	3	1	UTI	6	5	3	0	
+0	0	0	T	8	5	3	0		5	6	4	0	
+0	0	0	I	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	LEY	Writer Willy who popularized spaceflight
+4	SIS	Cheer syllable
+7	JUDAS	Untrustworthy one
+9	IRR	Like "to be": Abbr.
+10	AMARETTOS	Italian liqueurs
+12	YES	"I do" preceder
+13	EDEN	Idyllic place
+14	IHP	Restaurant chain since '58
+15	LOBE	Leaf part
+17	AIM	Endeavor
+20	RIFFRAFFS	Disreputable groups
+22	HMS	Initials at sea
+23	EKING	Managing, with "out"
+24	ENT	M.D. who may examine the sinuses
+25	UTI	___ possidetis (as you possess, at law)
+17
+1	LUME	"Before the Devil Knows You're Dead" director, 2007
+2	EDAS	Writer LeShan and others
+3	YAR	Shostakovich's "Babi ___" Symphony
+4	SITE	Venue
+5	IRON	Resolve, with "out"
+6	SRS	Ones of the highest grade: Abbr.
+7	JAY	Late-night name
+8	SEEHERE	"You listen to me"
+11	TDP	Group formed at C.C.N.Y. in 1910
+14	IBF	Pugilists' org.
+15	LIMN	Draw
+16	OFST	"The Bells ___ Mary's"
+17	AFIT	Pitch ___
+18	IFNI	Sidi ___, Morocco
+19	MSG	"No ___" (menu phrase)
+20	RHE	Baseball line score letters
+21	AKU	When repeated, a Thor Heyerdahl title

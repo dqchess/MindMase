@@ -1,0 +1,305 @@
+grid_15x15_125
+15
+1	0	0	#	0	1	4	0		1	0	4	0	
+0	1	1	E	0	1	4	1	EATS	0	1	6	1	ELISHA
+0	1	2	A	0	1	4	0		0	2	15	1	AMBASSADORSHIPS
+0	1	3	T	0	1	4	0		0	3	3	1	TAL
+0	1	4	S	0	1	4	0		0	4	3	1	SNE
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	5	G	0	6	3	1	GAR	0	6	9	1	GUESTSTAR
+0	1	6	A	0	6	3	0		0	7	5	1	APLOT
+0	1	7	R	0	6	3	0		0	8	4	1	RSTU
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	8	A	0	10	3	1	ALF	0	10	3	1	AGS
+0	1	9	L	0	10	3	0		0	11	6	1	LEHRER
+0	1	10	F	0	10	3	0		0	12	15	1	FLOATINGCAPITAL
+1	0	0	#	0	14	0	0		1	13	7	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	11	O	1	0	5	1	OLMAN	1	0	4	1	OBIT
+0	0	0	L	1	0	5	0		0	1	6	0	
+0	0	0	M	1	0	5	0		0	2	15	0	
+0	0	0	A	1	0	5	0		0	3	3	0	
+0	0	0	N	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	3	0		2	5	4	0	
+0	1	12	U	1	6	3	1	UPS	0	6	9	0	
+0	0	0	P	1	6	3	0		0	7	5	0	
+0	0	0	S	1	6	3	0		0	8	4	0	
+1	0	0	#	1	10	4	0		2	9	0	0	
+0	1	13	G	1	10	4	1	GELS	0	10	3	0	
+0	0	0	E	1	10	4	0		0	11	6	0	
+0	0	0	L	1	10	4	0		0	12	15	0	
+0	1	14	S	1	10	4	0		1	13	7	1	SOMALIA
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	15	B	2	0	9	1	BIBLEBELT	1	0	4	0	
+0	0	0	I	2	0	9	0		0	1	6	0	
+0	0	0	B	2	0	9	0		0	2	15	0	
+0	0	0	L	2	0	9	0		0	3	3	0	
+0	0	0	E	2	0	9	0		0	4	3	0	
+0	1	16	B	2	0	9	0		2	5	4	1	BAUD
+0	0	0	E	2	0	9	0		0	6	9	0	
+0	0	0	L	2	0	9	0		0	7	5	0	
+0	0	0	T	2	0	9	0		0	8	4	0	
+1	0	0	#	2	10	4	0		3	9	4	0	
+0	1	17	S	2	10	4	1	SHOO	0	10	3	0	
+0	0	0	H	2	10	4	0		0	11	6	0	
+0	0	0	O	2	10	4	0		0	12	15	0	
+0	0	0	O	2	10	4	0		1	13	7	0	
+1	0	0	#	2	15	0	0		3	14	0	0	
+0	1	18	I	3	0	3	1	ISA	1	0	4	0	
+0	0	0	S	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	5	0		4	4	3	0	
+0	1	19	A	3	5	5	1	ASOUR	2	5	4	0	
+0	0	0	S	3	5	5	0		0	6	9	0	
+0	0	0	O	3	5	5	0		0	7	5	0	
+0	0	0	U	3	5	5	0		0	8	4	0	
+0	1	20	R	3	5	5	0		3	9	4	1	RTEE
+1	0	0	#	3	11	3	0		4	10	3	0	
+0	1	21	R	3	11	3	1	RAM	0	11	6	0	
+0	0	0	A	3	11	3	0		0	12	15	0	
+0	0	0	M	3	11	3	0		1	13	7	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+0	1	22	T	4	0	3	1	THS	1	0	4	0	
+0	0	0	H	4	0	3	0		0	1	6	0	
+0	0	0	S	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	23	M	4	4	4	1	MUTT	4	4	3	1	MAL
+0	0	0	U	4	4	4	0		2	5	4	0	
+0	0	0	T	4	4	4	0		0	6	9	0	
+0	0	0	T	4	4	4	0		0	7	5	0	
+1	0	0	#	4	9	6	0		5	8	0	0	
+0	1	24	T	4	9	6	1	THETAB	3	9	4	0	
+0	1	25	H	4	9	6	0		4	10	3	1	HED
+0	0	0	E	4	9	6	0		0	11	6	0	
+0	0	0	T	4	9	6	0		0	12	15	0	
+0	0	0	A	4	9	6	0		1	13	7	0	
+0	1	26	B	4	9	6	0		4	14	3	1	BYH
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	27	A	5	1	6	1	ASSADS	0	1	6	0	
+0	0	0	S	5	1	6	0		0	2	15	0	
+0	1	28	S	5	1	6	0		5	3	3	1	SOV
+0	0	0	A	5	1	6	0		4	4	3	0	
+0	0	0	D	5	1	6	0		2	5	4	0	
+0	0	0	S	5	1	6	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	6	0		6	8	9	0	
+0	1	29	E	5	9	6	1	EERILY	3	9	4	0	
+0	0	0	E	5	9	6	0		4	10	3	0	
+0	0	0	R	5	9	6	0		0	11	6	0	
+0	0	0	I	5	9	6	0		0	12	15	0	
+0	0	0	L	5	9	6	0		1	13	7	0	
+0	0	0	Y	5	9	6	0		4	14	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	3	0		7	1	7	0	
+0	1	30	A	6	2	3	1	AOL	0	2	15	0	
+0	0	0	O	6	2	3	0		5	3	3	0	
+0	0	0	L	6	2	3	0		4	4	3	0	
+1	0	0	#	6	6	5	0		7	5	0	0	
+0	1	31	T	6	6	5	1	TAMED	0	6	9	0	
+0	1	32	A	6	6	5	0		6	7	3	1	AFB
+0	1	33	M	6	6	5	0		6	8	9	1	MTEVEREST
+0	0	0	E	6	6	5	0		3	9	4	0	
+0	0	0	D	6	6	5	0		4	10	3	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	34	N	6	12	3	1	NIH	0	12	15	0	
+0	0	0	I	6	12	3	0		1	13	7	0	
+0	0	0	H	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	35	T	7	1	3	1	TDV	7	1	7	1	TRANSOM
+0	0	0	D	7	1	3	0		0	2	15	0	
+0	0	0	V	7	1	3	0		5	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	4	0	
+0	1	36	A	7	6	3	1	AFT	0	6	9	0	
+0	0	0	F	7	6	3	0		6	7	3	0	
+0	0	0	T	7	6	3	0		6	8	9	0	
+1	0	0	#	7	10	0	0		8	9	0	0	
+1	0	0	#	7	11	3	0		8	10	3	0	
+0	1	37	P	7	11	3	1	PGA	7	11	3	1	PKG
+0	0	0	G	7	11	3	0		0	12	15	0	
+0	0	0	A	7	11	3	0		1	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	38	O	8	0	3	1	ORO	8	0	3	1	ODE
+0	0	0	R	8	0	3	0		7	1	7	0	
+0	0	0	O	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	5	0		9	3	6	0	
+0	1	39	F	8	4	5	1	FARBE	8	4	3	1	FLA
+0	1	40	A	8	4	5	0		8	5	4	1	ASTI
+0	0	0	R	8	4	5	0		0	6	9	0	
+0	0	0	B	8	4	5	0		6	7	3	0	
+0	0	0	E	8	4	5	0		6	8	9	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	41	R	8	10	3	1	RKC	8	10	3	1	RLS
+0	0	0	K	8	10	3	0		7	11	3	0	
+0	0	0	C	8	10	3	0		0	12	15	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	42	D	9	0	6	1	DARYLS	8	0	3	0	
+0	0	0	A	9	0	6	0		7	1	7	0	
+0	0	0	R	9	0	6	0		0	2	15	0	
+0	1	43	Y	9	0	6	0		9	3	6	1	YESSED
+0	0	0	L	9	0	6	0		8	4	3	0	
+0	0	0	S	9	0	6	0		8	5	4	0	
+1	0	0	#	9	7	0	0		10	6	0	0	
+1	0	0	#	9	8	6	0		10	7	5	0	
+0	1	44	V	9	8	6	1	VULGAR	6	8	9	0	
+0	1	45	U	9	8	6	0		9	9	4	1	USSR
+0	0	0	L	9	8	6	0		8	10	3	0	
+0	0	0	G	9	8	6	0		7	11	3	0	
+0	0	0	A	9	8	6	0		0	12	15	0	
+0	1	46	R	9	8	6	0		9	13	6	1	ROTHKO
+1	0	0	#	9	15	0	0		10	14	4	0	
+0	1	47	E	10	0	6	1	ENSEAT	8	0	3	0	
+0	0	0	N	10	0	6	0		7	1	7	0	
+0	0	0	S	10	0	6	0		0	2	15	0	
+0	0	0	E	10	0	6	0		9	3	6	0	
+0	0	0	A	10	0	6	0		8	4	3	0	
+0	0	0	T	10	0	6	0		8	5	4	0	
+1	0	0	#	10	7	4	0		11	6	4	0	
+0	1	48	L	10	7	4	1	LESS	10	7	5	1	LEBON
+0	0	0	E	10	7	4	0		6	8	9	0	
+0	0	0	S	10	7	4	0		9	9	4	0	
+0	0	0	S	10	7	4	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	49	P	10	12	3	1	POT	0	12	15	0	
+0	0	0	O	10	12	3	0		9	13	6	0	
+0	1	50	T	10	12	3	0		10	14	4	1	TAYE
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	51	S	11	1	3	1	SHS	7	1	7	0	
+0	0	0	H	11	1	3	0		0	2	15	0	
+0	0	0	S	11	1	3	0		9	3	6	0	
+1	0	0	#	11	5	5	0		12	4	3	0	
+0	1	52	I	11	5	5	1	ICERS	8	5	4	0	
+0	1	53	C	11	5	5	0		11	6	4	1	CABE
+0	0	0	E	11	5	5	0		10	7	5	0	
+0	0	0	R	11	5	5	0		6	8	9	0	
+0	0	0	S	11	5	5	0		9	9	4	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	54	I	11	12	3	1	ITA	0	12	15	0	
+0	0	0	T	11	12	3	0		9	13	6	0	
+0	0	0	A	11	12	3	0		10	14	4	0	
+1	0	0	#	12	1	4	0		13	0	0	0	
+0	1	55	O	12	1	4	1	OISE	7	1	7	0	
+0	0	0	I	12	1	4	0		0	2	15	0	
+0	0	0	S	12	1	4	0		9	3	6	0	
+0	1	56	E	12	1	4	0		12	4	3	1	EGS
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	57	A	12	6	9	1	ABERNATHY	11	6	4	0	
+0	0	0	B	12	6	9	0		10	7	5	0	
+0	0	0	E	12	6	9	0		6	8	9	0	
+0	0	0	R	12	6	9	0		9	9	4	0	
+0	1	58	N	12	6	9	0		12	10	3	1	NSA
+0	1	59	A	12	6	9	0		12	11	3	1	ALL
+0	0	0	T	12	6	9	0		0	12	15	0	
+0	0	0	H	12	6	9	0		9	13	6	0	
+0	0	0	Y	12	6	9	0		10	14	4	0	
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	60	M	13	1	4	1	MPEG	7	1	7	0	
+0	0	0	P	13	1	4	0		0	2	15	0	
+0	0	0	E	13	1	4	0		9	3	6	0	
+0	0	0	G	13	1	4	0		12	4	3	0	
+1	0	0	#	13	6	3	0		14	5	0	0	
+0	1	61	B	13	6	3	1	BOS	11	6	4	0	
+0	0	0	O	13	6	3	0		10	7	5	0	
+0	0	0	S	13	6	3	0		6	8	9	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	62	S	13	10	5	1	SLAKE	12	10	3	0	
+0	0	0	L	13	10	5	0		12	11	3	0	
+0	0	0	A	13	10	5	0		0	12	15	0	
+0	0	0	K	13	10	5	0		9	13	6	0	
+0	0	0	E	13	10	5	0		10	14	4	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	63	S	14	2	3	1	SDS	0	2	15	0	
+0	0	0	D	14	2	3	0		9	3	6	0	
+0	0	0	S	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	64	E	14	6	3	1	ENT	11	6	4	0	
+0	0	0	N	14	6	3	0		10	7	5	0	
+0	0	0	T	14	6	3	0		6	8	9	0	
+1	0	0	#	14	10	4	0		15	9	0	0	
+0	1	65	A	14	10	4	1	ALLO	12	10	3	0	
+0	0	0	L	14	10	4	0		12	11	3	0	
+0	0	0	L	14	10	4	0		0	12	15	0	
+0	0	0	O	14	10	4	0		9	13	6	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	EATS	Vittles
+5	GAR	Swimmer with a long snout
+8	ALF	Furry fellow of 80's TV
+11	OLMAN	"___ River"
+12	UPS	FedEx rival
+13	GELS	Toothpaste types
+15	BIBLEBELT	Religious tract?
+17	SHOO	Frighten away
+18	ISA	Book before Jeremiah: Abbr.
+19	ASOUR	Hit ___ note
+21	RAM	Run into
+22	THS	Music, dance, painting, etc.
+23	MUTT	Mixed breed
+24	THETAB	It's often picked up in bars
+27	ASSADS	Syrian presidential family
+29	EERILY	How haunted houses creak
+30	AOL	Prodigy alternative, for short
+31	TAMED	Under control
+34	NIH	Place for med. researchers
+35	TDV	Horned viper
+36	AFT	Rearward
+37	PGA	Couples grp.
+38	ORO	Old peso material
+39	FARBE	"___ it from me..."
+41	RKC	QB Manning
+42	DARYLS	Pop singer Hall and others
+44	VULGAR	Mean
+47	ENSEAT	Put on the throne
+48	LESS	Marked down
+49	POT	Lobster trap
+51	SHS	Sounds from a librarian
+52	ICERS	Anti-___ (airport equipment)
+54	ITA	Suffix with se
+55	OISE	It rises in the Ardennes
+57	ABERNATHY	King's successor as S.C.L.C. president
+60	MPEG	Compressed electronic file format
+61	BOS	Diddley and Derek
+62	SLAKE	Satisfy
+63	SDS	60's campus grp.
+64	ENT	Suffix with absorb
+65	ALLO	When doubled, popular 1980s-'90s British sitcom
+35
+1	ELISHA	Cook on the screen
+2	AMBASSADORSHIPS	Presidential appointments
+3	TAL	1960 chess champion Mikhail
+4	SNE	1983 Indy winner Tom
+5	GUESTSTAR	"Saturday Night Live" has a new one every week
+6	APLOT	Hatch ___
+7	RSTU	Alphabet string
+8	AGS	Reno and Kennedy, e.g.: Abbr.
+9	LEHRER	MacNeil's longtime partner
+10	FLOATINGCAPITAL	Uncommitted money
+11	OBIT	News item often written in advance
+14	SOMALIA	U.N. intervention site
+16	BAUD	Transfer rate
+20	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+23	MAL	Start to adjust?
+25	HED	"It's my work, ___ say, and I do it for pay" (Dylan lyric)
+26	BYH	From memory
+28	SOV	Bands on the run?
+32	AFB	Goodfellow ___, Tex.
+33	MTEVEREST	Subject of the 1997 best seller "Into Thin Air"
+35	TRANSOM	Window over a door
+37	PKG	Env. alternative
+38	ODE	Lines of praise
+39	FLA	State with two time zones: Abbr.
+40	ASTI	Italian wine town
+41	RLS	Initials of Jim Hawkins's creator
+43	YESSED	Assented
+45	USSR	"Evil empire" of the '80s
+46	ROTHKO	"Number 10" Abstract Expressionist
+48	LEBON	Simon of Duran Duran
+50	TAYE	"The Best Man" star Diggs
+53	CABE	"The Daughters of Joshua ___" (1972 Buddy Ebsen film)
+56	EGS	Units in physics
+58	NSA	Supersecretive intelligence org.
+59	ALL	Tie term

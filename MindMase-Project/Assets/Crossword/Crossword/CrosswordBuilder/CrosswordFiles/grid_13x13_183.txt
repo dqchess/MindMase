@@ -1,0 +1,233 @@
+grid_13x13_183
+13
+0	1	1	A	0	0	3	1	AVG	0	0	3	1	AAP
+0	1	2	V	0	0	3	0		0	1	4	1	VIES
+0	1	3	G	0	0	3	0		0	2	13	1	GMANOVERBOARD
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	6	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	H	0	6	3	1	HYP	0	6	4	1	HMOS
+0	1	5	Y	0	6	3	0		0	7	5	1	YENTL
+0	1	6	P	0	6	3	0		0	8	5	1	PEKOE
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	T	0	10	3	1	TOW	0	10	13	1	THEMANOFSTEEL
+0	1	8	O	0	10	3	0		0	11	8	1	OUTSTARE
+0	1	9	W	0	10	3	0		0	12	3	1	WKS
+0	1	10	A	1	0	5	1	AIMES	0	0	3	0	
+0	0	0	I	1	0	5	0		0	1	4	0	
+0	0	0	M	1	0	5	0		0	2	13	0	
+0	1	11	E	1	0	5	0		1	3	4	1	EBON
+0	1	12	S	1	0	5	0		1	4	6	1	SOWETO
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	13	M	1	6	3	1	MEE	0	6	4	0	
+0	0	0	E	1	6	3	0		0	7	5	0	
+0	0	0	E	1	6	3	0		0	8	5	0	
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	H	1	10	3	1	HUK	0	10	13	0	
+0	0	0	U	1	10	3	0		0	11	8	0	
+0	0	0	K	1	10	3	0		0	12	3	0	
+0	1	15	P	2	0	5	1	PEABO	0	0	3	0	
+0	0	0	E	2	0	5	0		0	1	4	0	
+0	0	0	A	2	0	5	0		0	2	13	0	
+0	0	0	B	2	0	5	0		1	3	4	0	
+0	0	0	O	2	0	5	0		1	4	6	0	
+1	0	0	#	2	6	3	0		3	5	4	0	
+0	1	16	O	2	6	3	1	ONK	0	6	4	0	
+0	0	0	N	2	6	3	0		0	7	5	0	
+0	0	0	K	2	6	3	0		0	8	5	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	17	E	2	10	3	1	ETS	0	10	13	0	
+0	0	0	T	2	10	3	0		0	11	8	0	
+0	0	0	S	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	11	0		4	0	0	0	
+0	1	18	S	3	1	11	1	SNOWESTORMS	0	1	4	0	
+0	0	0	N	3	1	11	0		0	2	13	0	
+0	0	0	O	3	1	11	0		1	3	4	0	
+0	0	0	W	3	1	11	0		1	4	6	0	
+0	1	19	E	3	1	11	0		3	5	4	1	ECHO
+0	0	0	S	3	1	11	0		0	6	4	0	
+0	0	0	T	3	1	11	0		0	7	5	0	
+0	0	0	O	3	1	11	0		0	8	5	0	
+0	1	20	R	3	1	11	0		3	9	3	1	RMS
+0	0	0	M	3	1	11	0		0	10	13	0	
+0	0	0	S	3	1	11	0		0	11	8	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	4	0		5	1	8	0	
+0	1	21	O	4	2	4	1	ONEC	0	2	13	0	
+0	0	0	N	4	2	4	0		1	3	4	0	
+0	0	0	E	4	2	4	0		1	4	6	0	
+0	0	0	C	4	2	4	0		3	5	4	0	
+1	0	0	#	4	7	5	0		5	6	3	0	
+0	1	22	L	4	7	5	1	LEMAT	0	7	5	0	
+0	0	0	E	4	7	5	0		0	8	5	0	
+0	0	0	M	4	7	5	0		3	9	3	0	
+0	0	0	A	4	7	5	0		0	10	13	0	
+0	0	0	T	4	7	5	0		0	11	8	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	T	5	0	3	1	TDV	5	0	3	1	TCI
+0	1	24	D	5	0	3	0		5	1	8	1	DIRECTED
+0	0	0	V	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	25	T	5	4	3	1	THY	1	4	6	0	
+0	0	0	H	5	4	3	0		3	5	4	0	
+0	1	26	Y	5	4	3	0		5	6	3	1	YMA
+1	0	0	#	5	8	0	0		6	7	4	0	
+1	0	0	#	5	9	4	0		6	8	6	0	
+0	1	27	S	5	9	4	1	SNAP	3	9	3	0	
+0	0	0	N	5	9	4	0		0	10	13	0	
+0	0	0	A	5	9	4	0		0	11	8	0	
+0	1	28	P	5	9	4	0		5	12	3	1	PSU
+0	1	29	C	6	0	3	1	CIE	5	0	3	0	
+0	0	0	I	6	0	3	0		5	1	8	0	
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	3	0	
+0	1	30	O	6	4	5	1	OOMPH	1	4	6	0	
+0	0	0	O	6	4	5	0		3	5	4	0	
+0	0	0	M	6	4	5	0		5	6	3	0	
+0	1	31	P	6	4	5	0		6	7	4	1	PDFS
+0	1	32	H	6	4	5	0		6	8	6	1	HATTIE
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	33	O	6	10	3	1	ORS	0	10	13	0	
+0	0	0	R	6	10	3	0		0	11	8	0	
+0	0	0	S	6	10	3	0		5	12	3	0	
+0	1	34	I	7	0	4	1	IRRS	5	0	3	0	
+0	0	0	R	7	0	4	0		5	1	8	0	
+0	0	0	R	7	0	4	0		0	2	13	0	
+0	1	35	S	7	0	4	0		7	3	3	1	SOY
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	3	0		8	5	5	0	
+0	1	36	A	7	6	3	1	ADA	5	6	3	0	
+0	0	0	D	7	6	3	0		6	7	4	0	
+0	0	0	A	7	6	3	0		6	8	6	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	37	F	7	10	3	1	FEU	0	10	13	0	
+0	0	0	E	7	10	3	0		0	11	8	0	
+0	0	0	U	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	38	E	8	1	5	1	EBOAT	5	1	8	0	
+0	0	0	B	8	1	5	0		0	2	13	0	
+0	0	0	O	8	1	5	0		7	3	3	0	
+0	1	39	A	8	1	5	0		8	4	5	1	AOLER
+0	1	40	T	8	1	5	0		8	5	5	1	TTIME
+1	0	0	#	8	7	4	0		9	6	4	0	
+0	1	41	F	8	7	4	1	FTHS	6	7	4	0	
+0	0	0	T	8	7	4	0		6	8	6	0	
+0	1	42	H	8	7	4	0		8	9	4	1	HARI
+0	0	0	S	8	7	4	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	11	0		10	0	3	0	
+0	1	43	C	9	1	11	1	COYOTESTATE	5	1	8	0	
+0	0	0	O	9	1	11	0		0	2	13	0	
+0	0	0	Y	9	1	11	0		7	3	3	0	
+0	0	0	O	9	1	11	0		8	4	5	0	
+0	0	0	T	9	1	11	0		8	5	5	0	
+0	1	44	E	9	1	11	0		9	6	4	1	EQUI
+0	0	0	S	9	1	11	0		6	7	4	0	
+0	0	0	T	9	1	11	0		6	8	6	0	
+0	0	0	A	9	1	11	0		8	9	4	0	
+0	0	0	T	9	1	11	0		0	10	13	0	
+0	1	45	E	9	1	11	0		9	11	4	1	ESIT
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	U	10	0	3	1	UTA	10	0	3	1	UDE
+0	0	0	T	10	0	3	0		5	1	8	0	
+0	0	0	A	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	47	L	10	4	3	1	LIQ	8	4	5	0	
+0	0	0	I	10	4	3	0		8	5	5	0	
+0	0	0	Q	10	4	3	0		9	6	4	0	
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	48	I	10	8	5	1	IREST	6	8	6	0	
+0	0	0	R	10	8	5	0		8	9	4	0	
+0	0	0	E	10	8	5	0		0	10	13	0	
+0	0	0	S	10	8	5	0		9	11	4	0	
+0	1	49	T	10	8	5	0		10	12	3	1	TOR
+0	1	50	D	11	0	3	1	DER	10	0	3	0	
+0	0	0	E	11	0	3	0		5	1	8	0	
+0	0	0	R	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	3	0		12	3	0	0	
+0	1	51	E	11	4	3	1	EMU	8	4	5	0	
+0	0	0	M	11	4	3	0		8	5	5	0	
+0	0	0	U	11	4	3	0		9	6	4	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	E	11	8	5	1	EIEIO	6	8	6	0	
+0	0	0	I	11	8	5	0		8	9	4	0	
+0	0	0	E	11	8	5	0		0	10	13	0	
+0	0	0	I	11	8	5	0		9	11	4	0	
+0	0	0	O	11	8	5	0		10	12	3	0	
+0	1	53	E	12	0	3	1	EDD	10	0	3	0	
+0	0	0	D	12	0	3	0		5	1	8	0	
+0	0	0	D	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	54	R	12	4	3	1	REI	8	4	5	0	
+0	0	0	E	12	4	3	0		8	5	5	0	
+0	0	0	I	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	L	12	10	3	1	LTR	0	10	13	0	
+0	0	0	T	12	10	3	0		9	11	4	0	
+0	0	0	R	12	10	3	0		10	12	3	0	
+33
+1	AVG	Batting stat.
+4	HYP	Under: Prefix
+7	TOW	What you need after a breakdown
+10	AIMES	(You) love: Fr.
+13	MEE	English author and editor Arthur ___
+14	HUK	Czech leader ousted in the Velvet Revolution, 1989
+15	PEABO	Singer Bryson
+16	ONK	In tune
+17	ETS	"Star Wars" walk-ons
+18	SNOWESTORMS	Sen. Olympia's rages?
+21	ONEC	"Currently serving" military designation
+22	LEMAT	Paul who won a Golden Globe for "American Graffiti"
+23	TDV	Horned viper
+25	THY	Commandment pronoun
+27	SNAP	Go off
+29	CIE	Fr. firm
+30	OOMPH	Energy
+33	ORS	Stitching posts: Abbr.
+34	IRRS	Factory seconds: Abbr.
+36	ADA	Tooth decay-fighting org.
+37	FEU	Pot-au-___ (meat and vegetable dish)
+38	EBOAT	W.W. II vessel
+41	FTHS	Quarters
+43	COYOTESTATE	South Dakota
+46	UTA	Hagen of Broadway
+47	LIQ	Subject of a lic.
+48	IREST	"Many good nights, my lord; ___ your servant": Shak.
+50	DER	"___ Kommissar" (1983 pop hit)
+51	EMU	Big bird
+52	EIEIO	Refrain from children's singing?
+53	EDD	Byrnes of TV's "77 Sunset Strip"
+54	REI	Portuguese king
+55	LTR	P.O. box item
+27
+1	AAP	Store chain since 1859
+2	VIES	Goes head-to-head
+3	GMANOVERBOARD	Cry for help on an F.B.I. cruise?
+4	HMOS	Co. medical offerings
+5	YENTL	Streisand film about a Jewish girl masquerading as a boy
+6	PEKOE	Sri Lanka export
+7	THEMANOFSTEEL	Moniker suggested by the pattern of white squares in this grid
+8	OUTSTARE	Defeat in a don't-blink contest
+9	WKS	Mo. parts
+11	EBON	Black as night
+12	SOWETO	Site of 1970's marches
+19	ECHO	Bounce back, in a way
+20	RMS	Bldg. units
+23	TCI	Cable TV giant
+24	DIRECTED	Ran
+26	YMA	First name in exotica music
+28	PSU	Sch. in the Big Ten
+31	PDFS	Some E-mail attachments
+32	HATTIE	McDaniel of "Gone With the Wind"
+35	SOY	Kind of ink
+39	AOLER	"You've got mail" hearer
+40	TTIME	Cheat on
+42	HARI	Last name in spydom
+44	EQUI	Prefix with distant
+45	ESIT	"Scratch that!"
+46	UDE	Ending with quiet
+49	TOR	Prominence

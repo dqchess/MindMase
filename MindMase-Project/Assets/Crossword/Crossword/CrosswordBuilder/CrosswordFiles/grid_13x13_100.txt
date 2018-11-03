@@ -1,0 +1,227 @@
+grid_13x13_100
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	6	0	
+1	0	0	#	0	3	3	0		1	2	6	0	
+0	1	1	C	0	3	3	1	CED	0	3	6	1	CEORLS
+0	1	2	E	0	3	3	0		0	4	3	1	EVS
+0	1	3	D	0	3	3	0		0	5	4	1	DESE
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	7	0	
+0	1	4	M	0	9	3	1	MES	0	9	6	1	MOHAVE
+0	1	5	E	0	9	3	0		0	10	5	1	ENOTE
+0	1	6	S	0	9	3	0		0	11	5	1	SCREE
+1	0	0	#	0	13	0	0		1	12	3	0	
+1	0	0	#	1	1	6	0		2	0	5	0	
+0	1	7	B	1	1	6	1	BSEVEN	1	1	6	1	BONTON
+0	1	8	S	1	1	6	0		1	2	6	1	SLEEPS
+0	0	0	E	1	1	6	0		0	3	6	0	
+0	0	0	V	1	1	6	0		0	4	3	0	
+0	0	0	E	1	1	6	0		0	5	4	0	
+0	1	9	N	1	1	6	0		1	6	3	1	NIM
+1	0	0	#	1	8	5	0		2	7	0	0	
+0	1	10	P	1	8	5	1	PONCA	1	8	7	1	PARASKI
+0	0	0	O	1	8	5	0		0	9	6	0	
+0	0	0	N	1	8	5	0		0	10	5	0	
+0	0	0	C	1	8	5	0		0	11	5	0	
+0	1	11	A	1	8	5	0		1	12	3	1	AAS
+0	1	12	C	2	0	7	1	COLOSSI	2	0	5	1	COMTE
+0	0	0	O	2	0	7	0		1	1	6	0	
+0	0	0	L	2	0	7	0		1	2	6	0	
+0	0	0	O	2	0	7	0		0	3	6	0	
+0	0	0	S	2	0	7	0		0	4	3	0	
+0	0	0	S	2	0	7	0		0	5	4	0	
+0	0	0	I	2	0	7	0		1	6	3	0	
+1	0	0	#	2	8	5	0		3	7	4	0	
+0	1	13	A	2	8	5	1	AHORA	1	8	7	0	
+0	0	0	H	2	8	5	0		0	9	6	0	
+0	0	0	O	2	8	5	0		0	10	5	0	
+0	0	0	R	2	8	5	0		0	11	5	0	
+0	0	0	A	2	8	5	0		1	12	3	0	
+0	1	14	O	3	0	4	1	ONER	2	0	5	0	
+0	0	0	N	3	0	4	0		1	1	6	0	
+0	0	0	E	3	0	4	0		1	2	6	0	
+0	0	0	R	3	0	4	0		0	3	6	0	
+1	0	0	#	3	5	8	0		4	4	0	0	
+0	1	15	E	3	5	8	1	EMIRATES	0	5	4	0	
+0	0	0	M	3	5	8	0		1	6	3	0	
+0	1	16	I	3	5	8	0		3	7	4	1	INSC
+0	0	0	R	3	5	8	0		1	8	7	0	
+0	0	0	A	3	5	8	0		0	9	6	0	
+0	0	0	T	3	5	8	0		0	10	5	0	
+0	0	0	E	3	5	8	0		0	11	5	0	
+0	0	0	S	3	5	8	0		1	12	3	0	
+0	1	17	M	4	0	4	1	MTEL	2	0	5	0	
+0	0	0	T	4	0	4	0		1	1	6	0	
+0	0	0	E	4	0	4	0		1	2	6	0	
+0	0	0	L	4	0	4	0		0	3	6	0	
+1	0	0	#	4	5	0	0		5	4	7	0	
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	5	0		5	6	3	0	
+0	1	18	N	4	7	5	1	NAVEE	3	7	4	0	
+0	0	0	A	4	7	5	0		1	8	7	0	
+0	0	0	V	4	7	5	0		0	9	6	0	
+0	0	0	E	4	7	5	0		0	10	5	0	
+0	0	0	E	4	7	5	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	19	T	5	0	5	1	TOPSY	2	0	5	0	
+0	0	0	O	5	0	5	0		1	1	6	0	
+0	0	0	P	5	0	5	0		1	2	6	0	
+0	0	0	S	5	0	5	0		0	3	6	0	
+0	1	20	Y	5	0	5	0		5	4	7	1	YAOMING
+1	0	0	#	5	6	4	0		6	5	4	0	
+0	1	21	O	5	6	4	1	OSSE	5	6	3	1	OOP
+0	0	0	S	5	6	4	0		3	7	4	0	
+0	0	0	S	5	6	4	0		1	8	7	0	
+0	0	0	E	5	6	4	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	6	0	
+1	0	0	#	5	12	0	0		6	11	6	0	
+1	0	0	#	5	13	0	0		6	12	5	0	
+0	1	22	E	6	0	3	1	ENS	2	0	5	0	
+0	0	0	N	6	0	3	0		1	1	6	0	
+0	0	0	S	6	0	3	0		1	2	6	0	
+1	0	0	#	6	4	5	0		7	3	6	0	
+0	1	23	A	6	4	5	1	ASOCK	5	4	7	0	
+0	1	24	S	6	4	5	0		6	5	4	1	SOUT
+0	0	0	O	6	4	5	0		5	6	3	0	
+0	0	0	C	6	4	5	0		3	7	4	0	
+0	0	0	K	6	4	5	0		1	8	7	0	
+1	0	0	#	6	10	3	0		7	9	6	0	
+0	1	25	P	6	10	3	1	PSU	6	10	6	1	PHRASE
+0	1	26	S	6	10	3	0		6	11	6	1	SATINS
+0	1	27	U	6	10	3	0		6	12	5	1	UTILE
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	0	0		8	1	5	0	
+1	0	0	#	7	3	4	0		8	2	5	0	
+0	1	28	N	7	3	4	1	NOOP	7	3	6	1	NANANA
+0	0	0	O	7	3	4	0		5	4	7	0	
+0	0	0	O	7	3	4	0		6	5	4	0	
+0	0	0	P	7	3	4	0		5	6	3	0	
+1	0	0	#	7	8	5	0		8	7	0	0	
+0	1	29	I	7	8	5	1	ICHAT	1	8	7	0	
+0	1	30	C	7	8	5	0		7	9	6	1	CARESS
+0	0	0	H	7	8	5	0		6	10	6	0	
+0	0	0	A	7	8	5	0		6	11	6	0	
+0	0	0	T	7	8	5	0		6	12	5	0	
+1	0	0	#	8	1	5	0		9	0	3	0	
+0	1	31	S	8	1	5	1	SHAMU	8	1	5	1	SCHON
+0	1	32	H	8	1	5	0		8	2	5	1	HUMIR
+0	0	0	A	8	1	5	0		7	3	6	0	
+0	0	0	M	8	1	5	0		5	4	7	0	
+0	0	0	U	8	1	5	0		6	5	4	0	
+1	0	0	#	8	7	0	0		9	6	3	0	
+1	0	0	#	8	8	0	0		9	7	4	0	
+1	0	0	#	8	9	4	0		9	8	0	0	
+0	1	33	A	8	9	4	1	ARTI	7	9	6	0	
+0	0	0	R	8	9	4	0		6	10	6	0	
+0	0	0	T	8	9	4	0		6	11	6	0	
+0	0	0	I	8	9	4	0		6	12	5	0	
+0	1	34	D	9	0	8	1	DCUNITED	9	0	3	1	DOB
+0	0	0	C	9	0	8	0		8	1	5	0	
+0	0	0	U	9	0	8	0		8	2	5	0	
+0	0	0	N	9	0	8	0		7	3	6	0	
+0	0	0	I	9	0	8	0		5	4	7	0	
+0	0	0	T	9	0	8	0		6	5	4	0	
+0	1	35	E	9	0	8	0		9	6	3	1	EDM
+0	1	36	D	9	0	8	0		9	7	4	1	DEUM
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	37	R	9	9	4	1	RAIL	7	9	6	0	
+0	0	0	A	9	9	4	0		6	10	6	0	
+0	0	0	I	9	9	4	0		6	11	6	0	
+0	0	0	L	9	9	4	0		6	12	5	0	
+0	1	38	O	10	0	5	1	OHMAN	9	0	3	0	
+0	0	0	H	10	0	5	0		8	1	5	0	
+0	0	0	M	10	0	5	0		8	2	5	0	
+0	0	0	A	10	0	5	0		7	3	6	0	
+0	0	0	N	10	0	5	0		5	4	7	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	39	D	10	6	7	1	DEMESNE	9	6	3	0	
+0	0	0	E	10	6	7	0		9	7	4	0	
+0	1	40	M	10	6	7	0		10	8	3	1	MSG
+0	0	0	E	10	6	7	0		7	9	6	0	
+0	0	0	S	10	6	7	0		6	10	6	0	
+0	0	0	N	10	6	7	0		6	11	6	0	
+0	0	0	E	10	6	7	0		6	12	5	0	
+0	1	41	B	11	0	5	1	BOING	9	0	3	0	
+0	0	0	O	11	0	5	0		8	1	5	0	
+0	0	0	I	11	0	5	0		8	2	5	0	
+0	0	0	N	11	0	5	0		7	3	6	0	
+0	0	0	G	11	0	5	0		5	4	7	0	
+1	0	0	#	11	6	6	0		12	5	0	0	
+0	1	42	M	11	6	6	1	MUSSES	9	6	3	0	
+0	0	0	U	11	6	6	0		9	7	4	0	
+0	0	0	S	11	6	6	0		10	8	3	0	
+0	0	0	S	11	6	6	0		7	9	6	0	
+0	0	0	E	11	6	6	0		6	10	6	0	
+0	0	0	S	11	6	6	0		6	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	43	N	12	1	3	1	NRA	8	1	5	0	
+0	0	0	R	12	1	3	0		8	2	5	0	
+0	0	0	A	12	1	3	0		7	3	6	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	44	M	12	7	3	1	MGS	9	7	4	0	
+0	0	0	G	12	7	3	0		10	8	3	0	
+0	0	0	S	12	7	3	0		7	9	6	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	CED	Like associates, on some e-mails
+4	MES	Mayo, por ejemplo
+7	BSEVEN	Mark your card!
+10	PONCA	Cousin of an Omaha
+12	COLOSSI	Easter Island statues, e.g.
+13	AHORA	Now, in San Juan
+14	ONER	Pip
+15	EMIRATES	Lands in the Persian Gulf
+17	MTEL	Place for a Christmas card
+18	NAVEE	H.M.S. Pinafore force
+19	TOPSY	Stowe slave
+21	OSSE	Bone: Prefix
+22	ENS	Recent U.S.N.A. grad
+23	ASOCK	"Put ___ in it!"
+25	PSU	The Nittany Lions: Abbr.
+28	NOOP	Informal denial
+29	ICHAT	Instant-messaging program for Macs
+31	SHAMU	Killer whale that does tricks
+33	ARTI	Intro studio class
+34	DCUNITED	Three-time Major League Soccer champs
+37	RAIL	Bus or air alternative
+38	OHMAN	"What now?!"
+39	DEMESNE	Lord's estate
+41	BOING	Spring sound
+42	MUSSES	Disarranges, as the hair
+43	NRA	Piece activists?: Abbr.
+44	MGS	Booker T.'s bandmates in '60s R&B
+27
+1	CEORLS	Anglo-Saxon freemen
+2	EVS	Tiny energy units, for short
+3	DESE	Not those, in Brooklyn
+4	MOHAVE	Native Arizonan
+5	ENOTE	Online message
+6	SCREE	Mountainside debris
+7	BONTON	High society
+8	SLEEPS	Succumbs to narcolepsy
+9	NIM	Matchsticks game
+10	PARASKI	Go down a slope with a chute
+11	AAS	Some small power supplies
+12	COMTE	French noble
+16	INSC	Rare book dealer's abbr.
+20	YAOMING	Star center from Shanghai
+21	OOP	Alley-___
+24	SOUT	Begin
+25	PHRASE	"Wheel of Fortune" category
+26	SATINS	Obi fabrics
+27	UTILE	Not just decorative
+28	NANANA	Lyric stand-in, perhaps
+30	CARESS	Sign of affection
+31	SCHON	"___ gut!" ("All right!"): Ger.
+32	HUMIR	Good place for a smoke
+34	DOB	July 4, 1872, for Calvin Coolidge: Abbr.
+35	EDM	Teacher's deg.
+36	DEUM	"Te ___" (hymn)
+40	MSG	Flavor enhancer, for short

@@ -1,0 +1,165 @@
+grid_11x11_184
+11
+0	1	1	S	0	0	3	1	SAC	0	0	3	1	STK
+0	1	2	A	0	0	3	0		0	1	5	1	ARLES
+0	1	3	C	0	0	3	0		0	2	5	1	CIELO
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	3	0	
+0	1	4	J	0	5	4	1	JTBG	0	5	3	1	JNR
+0	1	5	T	0	5	4	0		0	6	6	1	THATLL
+0	1	6	B	0	5	4	0		0	7	9	1	BECAUSEOF
+0	1	7	G	0	5	4	0		0	8	5	1	GRUNT
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	8	T	1	0	3	1	TRI	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	5	0	
+0	0	0	I	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	6	0		2	3	9	0	
+0	1	9	I	1	4	6	1	INHERE	1	4	3	1	ISA
+0	0	0	N	1	4	6	0		0	5	3	0	
+0	0	0	H	1	4	6	0		0	6	6	0	
+0	0	0	E	1	4	6	0		0	7	9	0	
+0	0	0	R	1	4	6	0		0	8	5	0	
+0	1	10	E	1	4	6	0		1	9	4	1	EDGE
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	K	2	0	11	1	KLEYSRACUDA	0	0	3	0	
+0	0	0	L	2	0	11	0		0	1	5	0	
+0	0	0	E	2	0	11	0		0	2	5	0	
+0	1	12	Y	2	0	11	0		2	3	9	1	YESPLEASE
+0	0	0	S	2	0	11	0		1	4	3	0	
+0	0	0	R	2	0	11	0		0	5	3	0	
+0	0	0	A	2	0	11	0		0	6	6	0	
+0	0	0	C	2	0	11	0		0	7	9	0	
+0	0	0	U	2	0	11	0		0	8	5	0	
+0	0	0	D	2	0	11	0		1	9	4	0	
+0	1	13	A	2	0	11	0		2	10	3	1	AON
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	14	E	3	1	4	1	ELEA	0	1	5	0	
+0	0	0	L	3	1	4	0		0	2	5	0	
+0	0	0	E	3	1	4	0		2	3	9	0	
+0	0	0	A	3	1	4	0		1	4	3	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	15	T	3	6	5	1	TANGO	0	6	6	0	
+0	0	0	A	3	6	5	0		0	7	9	0	
+0	0	0	N	3	6	5	0		0	8	5	0	
+0	0	0	G	3	6	5	0		1	9	4	0	
+0	0	0	O	3	6	5	0		2	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	16	S	4	1	3	1	SOS	0	1	5	0	
+0	0	0	O	4	1	3	0		0	2	5	0	
+0	0	0	S	4	1	3	0		2	3	9	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	17	G	4	5	6	1	GLUTEN	4	5	3	1	GIA
+0	0	0	L	4	5	6	0		0	6	6	0	
+0	0	0	U	4	5	6	0		0	7	9	0	
+0	0	0	T	4	5	6	0		0	8	5	0	
+0	0	0	E	4	5	6	0		1	9	4	0	
+0	0	0	N	4	5	6	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	18	P	5	3	5	1	PAILS	2	3	9	0	
+0	1	19	A	5	3	5	0		5	4	6	1	ALFRED
+0	0	0	I	5	3	5	0		4	5	3	0	
+0	0	0	L	5	3	5	0		0	6	6	0	
+0	0	0	S	5	3	5	0		0	7	9	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	20	P	6	0	6	1	PAELLA	6	0	3	1	PAT
+0	1	21	A	6	0	6	0		6	1	4	1	ACHT
+0	1	22	E	6	0	6	0		6	2	5	1	ELEAN
+0	0	0	L	6	0	6	0		2	3	9	0	
+0	0	0	L	6	0	6	0		5	4	6	0	
+0	0	0	A	6	0	6	0		4	5	3	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	23	E	6	7	3	1	EAP	0	7	9	0	
+0	1	24	A	6	7	3	0		6	8	5	1	AMWAY
+0	1	25	P	6	7	3	0		6	9	5	1	PAAVO
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	A	7	0	5	1	ACLEF	6	0	3	0	
+0	0	0	C	7	0	5	0		6	1	4	0	
+0	0	0	L	7	0	5	0		6	2	5	0	
+0	0	0	E	7	0	5	0		2	3	9	0	
+0	0	0	F	7	0	5	0		5	4	6	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	27	L	7	6	4	1	LOMA	7	6	3	1	LOS
+0	0	0	O	7	6	4	0		0	7	9	0	
+0	0	0	M	7	6	4	0		6	8	5	0	
+0	0	0	A	7	6	4	0		6	9	5	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	T	8	0	11	1	THEARTOFWAR	6	0	3	0	
+0	0	0	H	8	0	11	0		6	1	4	0	
+0	0	0	E	8	0	11	0		6	2	5	0	
+0	0	0	A	8	0	11	0		2	3	9	0	
+0	0	0	R	8	0	11	0		5	4	6	0	
+0	1	29	T	8	0	11	0		8	5	3	1	TRS
+0	0	0	O	8	0	11	0		7	6	3	0	
+0	0	0	F	8	0	11	0		0	7	9	0	
+0	0	0	W	8	0	11	0		6	8	5	0	
+0	0	0	A	8	0	11	0		6	9	5	0	
+0	1	30	R	8	0	11	0		8	10	3	1	RID
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	31	T	9	1	6	1	TASERS	6	1	4	0	
+0	0	0	A	9	1	6	0		6	2	5	0	
+0	0	0	S	9	1	6	0		2	3	9	0	
+0	0	0	E	9	1	6	0		5	4	6	0	
+0	0	0	R	9	1	6	0		8	5	3	0	
+0	0	0	S	9	1	6	0		7	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	32	A	9	8	3	1	AVI	6	8	5	0	
+0	0	0	V	9	8	3	0		6	9	5	0	
+0	0	0	I	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	0	0	
+0	1	33	N	10	2	4	1	NEDS	6	2	5	0	
+0	0	0	E	10	2	4	0		2	3	9	0	
+0	0	0	D	10	2	4	0		5	4	6	0	
+0	0	0	S	10	2	4	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	34	Y	10	8	3	1	YOD	6	8	5	0	
+0	0	0	O	10	8	3	0		6	9	5	0	
+0	0	0	D	10	8	3	0		8	10	3	0	
+19
+1	SAC	Site for spores
+4	JTBG	Architect of Spain
+8	TRI	Prefix with syllabic
+9	INHERE	"Psst!" follower, maybe
+11	KLEYSRACUDA	Sir Charles's pet fish?
+14	ELEA	Philosopher Zeno of ___
+15	TANGO	Radio letter after sierra
+16	SOS	Message that's often repeated
+17	GLUTEN	Substance in wheat flour
+18	PAILS	Hard hats' lunch holders
+20	PAELLA	Spanish entree
+23	EAP	"To Helen" writer's inits.
+26	ACLEF	Roman ___
+27	LOMA	Glen Gray's "Casa ___ Stomp"
+28	THEARTOFWAR	Military treatise by Sun Tzu
+31	TASERS	Cops' stunners
+32	AVI	Prefix with fauna
+33	NEDS	Oldtime radio kids' show "Uncle ___ Squadron"
+34	YOD	Letter after teth
+21
+1	STK	Nasdaq listing: Abbr.
+2	ARLES	Setting for van Gogh's "Cafe Terrace at Night"
+3	CIELO	Spanish sky
+4	JNR	Dad's namesake: Abbr.
+5	THATLL	"___ do!" ("Stop it!")
+6	BECAUSEOF	Owing to
+7	GRUNT	Lowly soldier
+9	ISA	O.T. book
+10	EDGE	Verge
+12	YESPLEASE	Polite acceptance
+13	AON	___ Center, second-tallest building in Chicago
+17	GIA	Supermodel Carangi
+19	ALFRED	Nobel of the Nobel Prizes
+20	PAT	Gesture of affection
+21	ACHT	One more than sieben
+22	ELEAN	Like the earliest Olympic festivals
+24	AMWAY	Direct-sales giant
+25	PAAVO	___ Nurmi, nine-time track gold medalist in 1920s Olympics
+27	LOS	The "L" of L.A.
+29	TRS	___-80 (old computer)
+30	RID	Cleansed

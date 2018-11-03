@@ -1,0 +1,167 @@
+grid_11x11_87
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	I	0	2	3	1	IJK	0	2	11	1	ILTROVATORE
+0	1	2	J	0	2	3	0		0	3	4	1	JOED
+0	1	3	K	0	2	3	0		0	4	3	1	KOR
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	S	0	7	3	1	SLA	0	7	5	1	SAYSA
+0	1	5	L	0	7	3	0		0	8	11	1	LASTTOLEAVE
+0	1	6	A	0	7	3	0		0	9	4	1	AREO
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	5	0		2	0	4	0	
+0	1	7	A	1	1	5	1	ALOOK	1	1	5	1	AFOUL
+0	0	0	L	1	1	5	0		0	2	11	0	
+0	0	0	O	1	1	5	0		0	3	4	0	
+0	0	0	O	1	1	5	0		0	4	3	0	
+0	1	8	K	1	1	5	0		1	5	9	1	KSENGLISH
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	A	1	7	4	1	AARE	0	7	5	0	
+0	0	0	A	1	7	4	0		0	8	11	0	
+0	0	0	R	1	7	4	0		0	9	4	0	
+0	1	10	E	1	7	4	0		1	10	3	1	ERN
+0	1	11	A	2	0	6	1	AFTERS	2	0	4	1	ACDC
+0	0	0	F	2	0	6	0		1	1	5	0	
+0	0	0	T	2	0	6	0		0	2	11	0	
+0	0	0	E	2	0	6	0		0	3	4	0	
+0	0	0	R	2	0	6	0		0	4	3	0	
+0	0	0	S	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	12	Y	2	7	4	1	YSER	0	7	5	0	
+0	0	0	S	2	7	4	0		0	8	11	0	
+0	0	0	E	2	7	4	0		0	9	4	0	
+0	0	0	R	2	7	4	0		1	10	3	0	
+0	1	13	C	3	0	4	1	CORD	2	0	4	0	
+0	0	0	O	3	0	4	0		1	1	5	0	
+0	0	0	R	3	0	4	0		0	2	11	0	
+0	0	0	D	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	6	0		4	4	0	0	
+0	1	14	E	3	5	6	1	EASTON	1	5	9	0	
+0	1	15	A	3	5	6	0		3	6	3	1	ALG
+0	0	0	S	3	5	6	0		0	7	5	0	
+0	0	0	T	3	5	6	0		0	8	11	0	
+0	0	0	O	3	5	6	0		0	9	4	0	
+0	0	0	N	3	5	6	0		1	10	3	0	
+0	1	16	D	4	0	3	1	DUO	2	0	4	0	
+0	0	0	U	4	0	3	0		1	1	5	0	
+0	0	0	O	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	4	0		5	4	3	0	
+0	1	17	N	4	5	4	1	NLAT	1	5	9	0	
+0	0	0	L	4	5	4	0		3	6	3	0	
+0	0	0	A	4	5	4	0		0	7	5	0	
+0	0	0	T	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	4	0	
+0	1	18	C	5	0	3	1	CLV	2	0	4	0	
+0	0	0	L	5	0	3	0		1	1	5	0	
+0	0	0	V	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	19	E	5	4	3	1	EGG	5	4	3	1	EUI
+0	0	0	G	5	4	3	0		1	5	9	0	
+0	0	0	G	5	4	3	0		3	6	3	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	20	O	5	8	3	1	OVO	0	8	11	0	
+0	1	21	V	5	8	3	0		5	9	5	1	VINCE
+0	1	22	O	5	8	3	0		5	10	4	1	OTHE
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	23	A	6	2	4	1	AZUL	0	2	11	0	
+0	1	24	Z	6	2	4	0		6	3	5	1	ZIPIT
+0	0	0	U	6	2	4	0		5	4	3	0	
+0	0	0	L	6	2	4	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	25	L	6	8	3	1	LIT	0	8	11	0	
+0	0	0	I	6	8	3	0		5	9	5	0	
+0	0	0	T	6	8	3	0		5	10	4	0	
+0	1	26	A	7	0	6	1	ACTIII	7	0	3	1	ATS
+0	1	27	C	7	0	6	0		7	1	4	1	CRAG
+0	0	0	T	7	0	6	0		0	2	11	0	
+0	0	0	I	7	0	6	0		6	3	5	0	
+0	0	0	I	7	0	6	0		5	4	3	0	
+0	0	0	I	7	0	6	0		1	5	9	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	28	P	7	7	4	1	PENH	7	7	4	1	PLAY
+0	0	0	E	7	7	4	0		0	8	11	0	
+0	0	0	N	7	7	4	0		5	9	5	0	
+0	0	0	H	7	7	4	0		5	10	4	0	
+0	1	29	T	8	0	4	1	TROP	7	0	3	0	
+0	0	0	R	8	0	4	0		7	1	4	0	
+0	0	0	O	8	0	4	0		0	2	11	0	
+0	0	0	P	8	0	4	0		6	3	5	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	30	S	8	5	6	1	SOLACE	1	5	9	0	
+0	1	31	O	8	5	6	0		8	6	3	1	OER
+0	0	0	L	8	5	6	0		7	7	4	0	
+0	0	0	A	8	5	6	0		0	8	11	0	
+0	0	0	C	8	5	6	0		5	9	5	0	
+0	0	0	E	8	5	6	0		5	10	4	0	
+0	1	32	S	9	0	4	1	SARI	7	0	3	0	
+0	0	0	A	9	0	4	0		7	1	4	0	
+0	0	0	R	9	0	4	0		0	2	11	0	
+0	0	0	I	9	0	4	0		6	3	5	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	33	H	9	5	5	1	HEAVE	1	5	9	0	
+0	0	0	E	9	5	5	0		8	6	3	0	
+0	0	0	A	9	5	5	0		7	7	4	0	
+0	0	0	V	9	5	5	0		0	8	11	0	
+0	0	0	E	9	5	5	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	34	G	10	1	3	1	GET	7	1	4	0	
+0	0	0	E	10	1	3	0		0	2	11	0	
+0	0	0	T	10	1	3	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	35	R	10	6	3	1	RYE	8	6	3	0	
+0	0	0	Y	10	6	3	0		7	7	4	0	
+0	0	0	E	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	IJK	H-L connectors
+4	SLA	70's extremist grp.
+7	ALOOK	"Take ___ at this!"
+9	AARE	It has Swiss banks
+11	AFTERS	Dessert, in Dover
+12	YSER	W.W. I battle locale
+13	CORD	Telephone part
+14	EASTON	City where the Lehigh and Delaware rivers meet
+16	DUO	The Everly Brothers, e.g.
+17	NLAT	About 40 degrees, for N.Y.C.
+18	CLV	Year St. Pius I died
+19	EGG	Bad thing to have on one's face
+20	OVO	Lacto-___-vegetarian
+23	AZUL	Blue, in Bogot
+25	LIT	Soused
+26	ACTIII	When Hamlet says "To be or not to be"
+28	PENH	Phnom ___
+29	TROP	Too much: Fr.
+30	SOLACE	Comfort
+32	SARI	Draped Delhi dress
+33	HEAVE	Pitch
+34	GET	Confound
+35	RYE	"The Catcher in the ___"
+19
+1	ILTROVATORE	Musical work with a duel
+2	JOED	Baseball immortal, familiarly
+3	KOR	It was split in 1948: Abbr.
+4	SAYSA	___ prayer
+5	LASTTOLEAVE	There until the bitter end
+6	AREO	Mars: Prefix
+7	AFOUL	Run ___ of
+8	KSENGLISH	"Proper" speech
+10	ERN	East end?
+11	ACDC	Adapter letters
+15	ALG	It involves many unknowns: Abbr.
+19	EUI	Pins and needles' place
+21	VINCE	Wrestling promoter McMahon
+22	OTHE	Will-___-wisp
+24	ZIPIT	"Button your lip!"
+26	ATS	Symbols like @
+27	CRAG	Lookout point
+28	PLAY	Maneuvering room
+31	OER	"___ courtiers' knees ...": Shak.

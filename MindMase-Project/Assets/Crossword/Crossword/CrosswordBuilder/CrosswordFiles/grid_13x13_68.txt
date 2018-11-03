@@ -1,0 +1,231 @@
+grid_13x13_68
+13
+1	0	0	#	0	1	6	0		1	0	4	0	
+0	1	1	S	0	1	6	1	SAILED	0	1	6	1	SHOTBY
+0	1	2	A	0	1	6	0		0	2	6	1	AIMSAT
+0	1	3	I	0	1	6	0		0	3	4	1	ILEA
+0	1	4	L	0	1	6	0		0	4	3	1	LIT
+0	1	5	E	0	1	6	0		0	5	3	1	EEC
+0	1	6	D	0	1	6	0		0	6	3	1	DSL
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	7	F	0	9	3	1	FRS	0	9	4	1	FINI
+0	1	8	R	0	9	3	0		0	10	6	1	RESCAN
+0	1	9	S	0	9	3	0		0	11	6	1	SNEERS
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	C	1	0	7	1	CHILIES	1	0	4	1	CCII
+0	0	0	H	1	0	7	0		0	1	6	0	
+0	0	0	I	1	0	7	0		0	2	6	0	
+0	0	0	L	1	0	7	0		0	3	4	0	
+0	0	0	I	1	0	7	0		0	4	3	0	
+0	0	0	E	1	0	7	0		0	5	3	0	
+0	0	0	S	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	4	0		2	7	3	0	
+0	1	11	R	1	8	4	1	RIEN	1	8	3	1	RAE
+0	0	0	I	1	8	4	0		0	9	4	0	
+0	0	0	E	1	8	4	0		0	10	6	0	
+0	0	0	N	1	8	4	0		0	11	6	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	12	C	2	0	13	1	COMETCLEANSER	1	0	4	0	
+0	0	0	O	2	0	13	0		0	1	6	0	
+0	0	0	M	2	0	13	0		0	2	6	0	
+0	0	0	E	2	0	13	0		0	3	4	0	
+0	0	0	T	2	0	13	0		0	4	3	0	
+0	0	0	C	2	0	13	0		0	5	3	0	
+0	0	0	L	2	0	13	0		0	6	3	0	
+0	1	13	E	2	0	13	0		2	7	3	1	EDS
+0	0	0	A	2	0	13	0		1	8	3	0	
+0	0	0	N	2	0	13	0		0	9	4	0	
+0	0	0	S	2	0	13	0		0	10	6	0	
+0	0	0	E	2	0	13	0		0	11	6	0	
+0	1	14	R	2	0	13	0		2	12	3	1	RRS
+0	1	15	I	3	0	4	1	ITSA	1	0	4	0	
+0	0	0	T	3	0	4	0		0	1	6	0	
+0	0	0	S	3	0	4	0		0	2	6	0	
+0	0	0	A	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	16	D	3	7	6	1	DEICER	2	7	3	0	
+0	0	0	E	3	7	6	0		1	8	3	0	
+0	0	0	I	3	7	6	0		0	9	4	0	
+0	0	0	C	3	7	6	0		0	10	6	0	
+0	0	0	E	3	7	6	0		0	11	6	0	
+0	0	0	R	3	7	6	0		2	12	3	0	
+0	1	17	I	4	0	3	1	IBA	1	0	4	0	
+0	0	0	B	4	0	3	0		0	1	6	0	
+0	0	0	A	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	18	G	4	5	3	1	GTS	4	5	3	1	GIE
+0	1	19	T	4	5	3	0		4	6	5	1	TALIA
+0	0	0	S	4	5	3	0		2	7	3	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	20	A	4	10	3	1	ARS	0	10	6	0	
+0	0	0	R	4	10	3	0		0	11	6	0	
+0	0	0	S	4	10	3	0		2	12	3	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	21	Y	5	1	6	1	YTTRIA	0	1	6	0	
+0	0	0	T	5	1	6	0		0	2	6	0	
+0	1	22	T	5	1	6	0		5	3	3	1	TOC
+0	1	23	R	5	1	6	0		5	4	3	1	RNA
+0	0	0	I	5	1	6	0		4	5	3	0	
+0	0	0	A	5	1	6	0		4	6	5	0	
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	24	S	5	8	4	1	SENS	5	8	3	1	SNL
+0	1	25	E	5	8	4	0		5	9	3	1	EEE
+0	0	0	N	5	8	4	0		0	10	6	0	
+0	0	0	S	5	8	4	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	6	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	26	O	6	3	7	1	ONELANE	5	3	3	0	
+0	0	0	N	6	3	7	0		5	4	3	0	
+0	0	0	E	6	3	7	0		4	5	3	0	
+0	0	0	L	6	3	7	0		4	6	5	0	
+0	1	27	A	6	3	7	0		6	7	3	1	ADZ
+0	0	0	N	6	3	7	0		5	8	3	0	
+0	0	0	E	6	3	7	0		5	9	3	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	28	L	7	1	4	1	LUCA	7	1	6	1	LAGOON
+0	1	29	U	7	1	4	0		7	2	6	1	UTOPIA
+0	0	0	C	7	1	4	0		5	3	3	0	
+0	0	0	A	7	1	4	0		5	4	3	0	
+1	0	0	#	7	6	6	0		8	5	3	0	
+0	1	30	I	7	6	6	1	IDLERS	4	6	5	0	
+0	0	0	D	7	6	6	0		6	7	3	0	
+0	0	0	L	7	6	6	0		5	8	3	0	
+0	0	0	E	7	6	6	0		5	9	3	0	
+0	1	31	R	7	6	6	0		7	10	6	1	ROCKIE
+0	1	32	S	7	6	6	0		7	11	6	1	SEVENS
+1	0	0	#	7	13	0	0		8	12	4	0	
+0	1	33	O	8	0	3	1	OAT	8	0	3	1	OIS
+0	0	0	A	8	0	3	0		7	1	6	0	
+0	0	0	T	8	0	3	0		7	2	6	0	
+1	0	0	#	8	4	0	0		9	3	4	0	
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	34	L	8	5	3	1	LAZ	8	5	3	1	LAE
+0	0	0	A	8	5	3	0		4	6	5	0	
+0	0	0	Z	8	5	3	0		6	7	3	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	35	O	8	10	3	1	OER	7	10	6	0	
+0	0	0	E	8	10	3	0		7	11	6	0	
+0	1	36	R	8	10	3	0		8	12	4	1	RIRE
+0	1	37	I	9	0	6	1	IGOTTA	8	0	3	0	
+0	0	0	G	9	0	6	0		7	1	6	0	
+0	0	0	O	9	0	6	0		7	2	6	0	
+0	1	38	T	9	0	6	0		9	3	4	1	THSE
+0	1	39	T	9	0	6	0		9	4	3	1	TIE
+0	0	0	A	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	40	D	9	9	4	1	DCVI	9	9	4	1	DCCL
+0	0	0	C	9	9	4	0		7	10	6	0	
+0	0	0	V	9	9	4	0		7	11	6	0	
+0	0	0	I	9	9	4	0		8	12	4	0	
+0	1	41	S	10	0	13	1	SOPHIETRUCKER	8	0	3	0	
+0	0	0	O	10	0	13	0		7	1	6	0	
+0	0	0	P	10	0	13	0		7	2	6	0	
+0	0	0	H	10	0	13	0		9	3	4	0	
+0	0	0	I	10	0	13	0		9	4	3	0	
+0	0	0	E	10	0	13	0		8	5	3	0	
+0	1	42	T	10	0	13	0		10	6	3	1	TPS
+0	1	43	R	10	0	13	0		10	7	3	1	ROM
+0	1	44	U	10	0	13	0		10	8	3	1	URI
+0	0	0	C	10	0	13	0		9	9	4	0	
+0	0	0	K	10	0	13	0		7	10	6	0	
+0	0	0	E	10	0	13	0		7	11	6	0	
+0	0	0	R	10	0	13	0		8	12	4	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	45	O	11	1	4	1	OISE	7	1	6	0	
+0	0	0	I	11	1	4	0		7	2	6	0	
+0	0	0	S	11	1	4	0		9	3	4	0	
+0	0	0	E	11	1	4	0		9	4	3	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	46	P	11	6	7	1	PORCINE	10	6	3	0	
+0	0	0	O	11	6	7	0		10	7	3	0	
+0	0	0	R	11	6	7	0		10	8	3	0	
+0	0	0	C	11	6	7	0		9	9	4	0	
+0	0	0	I	11	6	7	0		7	10	6	0	
+0	0	0	N	11	6	7	0		7	11	6	0	
+0	0	0	E	11	6	7	0		8	12	4	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	47	N	12	1	3	1	NAE	7	1	6	0	
+0	0	0	A	12	1	3	0		7	2	6	0	
+0	0	0	E	12	1	3	0		9	3	4	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	6	0		13	5	0	0	
+0	1	48	S	12	6	6	1	SMILES	10	6	3	0	
+0	0	0	M	12	6	6	0		10	7	3	0	
+0	0	0	I	12	6	6	0		10	8	3	0	
+0	0	0	L	12	6	6	0		9	9	4	0	
+0	0	0	E	12	6	6	0		7	10	6	0	
+0	0	0	S	12	6	6	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	SAILED	Breezed
+7	FRS	Priests: Abbr.
+10	CHILIES	Spicy ingredients
+11	RIEN	Nothing, in Paris
+12	COMETCLEANSER	Rival of Ajax
+15	ITSA	"___ Long Way to Tipperary"
+16	DEICER	Windshield clearer
+17	IBA	Hall-of-Fame basketball coach Hank
+18	GTS	Some sports cars
+20	ARS	___ Gratia Artis
+21	YTTRIA	Rare-earth oxide
+24	SENS	D.C. pols
+26	ONELANE	Not suitable for passing
+28	LUCA	___ Brasi (Corleone hood)
+30	IDLERS	They're unproductive
+33	OAT	It may be rolled
+34	LAZ	___-Boy recliner
+35	OER	"___ the land of the free ..."
+37	IGOTTA	"Who Do ___ Kill?" (1992 movie)
+40	DCVI	7th-century date
+41	SOPHIETRUCKER	Vaudeville star working at a van company?
+45	OISE	Seine feeder
+46	PORCINE	Snout-nosed and grunting
+47	NAE	"No way, laddie!"
+48	SMILES	Flexes one's zygomatic muscles
+33
+1	SHOTBY	Passed quickly
+2	AIMSAT	Targets
+3	ILEA	Intestinal parts
+4	LIT	Berated, with "into"
+5	EEC	Treaty of Rome org.
+6	DSL	Step up from dial-up
+7	FINI	Artist's "Done!"
+8	RESCAN	Potential checkout correction
+9	SNEERS	Bad looks
+10	CCII	202, to Tiberius
+11	RAE	TV actress Charlotte
+13	EDS	Newspaper staffers, for short
+14	RRS	Trains: Abbr.
+18	GIE	Bestow on, to Burns
+19	TALIA	Shire of "The Godfather" films
+22	TOC	Tic-___ (metronome sound)
+23	RNA	Genetic info dispenser
+24	SNL	Inits. in comedy
+25	EEE	Like very wide shoes
+27	ADZ	Cooper's tool
+28	LAGOON	Middle of an atoll
+29	UTOPIA	Place of dreams
+31	ROCKIE	1993 expansion team member
+32	SEVENS	Common rolls
+33	OIS	Sue Grafton's "___ for Outlaw"
+34	LAE	New Guinea port
+36	RIRE	To laugh, to Lafayette
+38	THSE	"Just hear ___ sleigh bells jingling 
+39	TIE	Dead heat
+40	DCCL	Three-quarters of M
+42	TPS	Pranks, in a way, informally
+43	ROM	CD-___
+44	URI	The Rams' sch.

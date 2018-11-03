@@ -1,0 +1,231 @@
+grid_13x13_47
+13
+0	1	1	S	0	0	3	1	SPN	0	0	5	1	STUNS
+0	1	2	P	0	0	3	0		0	1	6	1	PONIED
+0	1	3	N	0	0	3	0		0	2	6	1	NSIGNS
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	5	0		1	5	0	0	
+0	1	4	W	0	6	5	1	WALLS	0	6	3	1	WWF
+0	1	5	A	0	6	5	0		0	7	3	1	ARF
+0	1	6	L	0	6	5	0		0	8	3	1	LEI
+0	1	7	L	0	6	5	0		0	9	3	1	LAC
+0	1	8	S	0	6	5	0		0	10	6	1	SKIHAT
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	9	T	1	0	5	1	TOSCA	0	0	5	0	
+0	0	0	O	1	0	5	0		0	1	6	0	
+0	0	0	S	1	0	5	0		0	2	6	0	
+0	1	10	C	1	0	5	0		1	3	3	1	COH
+0	1	11	A	1	0	5	0		1	4	3	1	ANE
+1	0	0	#	1	6	6	0		2	5	3	0	
+0	1	12	W	1	6	6	1	WREAKS	0	6	3	0	
+0	0	0	R	1	6	6	0		0	7	3	0	
+0	0	0	E	1	6	6	0		0	8	3	0	
+0	0	0	A	1	6	6	0		0	9	3	0	
+0	0	0	K	1	6	6	0		0	10	6	0	
+0	1	13	S	1	6	6	0		1	11	5	1	SAREE
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	U	2	0	13	1	UNIONOFFICIAL	0	0	5	0	
+0	0	0	N	2	0	13	0		0	1	6	0	
+0	0	0	I	2	0	13	0		0	2	6	0	
+0	0	0	O	2	0	13	0		1	3	3	0	
+0	0	0	N	2	0	13	0		1	4	3	0	
+0	1	15	O	2	0	13	0		2	5	3	1	ORY
+0	0	0	F	2	0	13	0		0	6	3	0	
+0	0	0	F	2	0	13	0		0	7	3	0	
+0	0	0	I	2	0	13	0		0	8	3	0	
+0	0	0	C	2	0	13	0		0	9	3	0	
+0	0	0	I	2	0	13	0		0	10	6	0	
+0	0	0	A	2	0	13	0		1	11	5	0	
+0	1	16	L	2	0	13	0		2	12	3	1	LER
+0	1	17	N	3	0	6	1	NIGHER	0	0	5	0	
+0	0	0	I	3	0	6	0		0	1	6	0	
+0	0	0	G	3	0	6	0		0	2	6	0	
+0	0	0	H	3	0	6	0		1	3	3	0	
+0	0	0	E	3	0	6	0		1	4	3	0	
+0	0	0	R	3	0	6	0		2	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	18	H	3	10	3	1	HRE	0	10	6	0	
+0	0	0	R	3	10	3	0		1	11	5	0	
+0	0	0	E	3	10	3	0		2	12	3	0	
+0	1	19	S	4	0	3	1	SEN	0	0	5	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	N	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	4	0		5	4	0	0	
+0	1	20	Y	4	5	4	1	YACK	2	5	3	0	
+0	1	21	A	4	5	4	0		4	6	5	1	ALETA
+0	1	22	C	4	5	4	0		4	7	3	1	CUR
+0	1	23	K	4	5	4	0		4	8	3	1	KCS
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	24	A	4	10	3	1	AER	0	10	6	0	
+0	0	0	E	4	10	3	0		1	11	5	0	
+0	0	0	R	4	10	3	0		2	12	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	25	D	5	1	3	1	DST	0	1	6	0	
+0	0	0	S	5	1	3	0		0	2	6	0	
+0	1	26	T	5	1	3	0		5	3	3	1	TRI
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	6	0		6	5	3	0	
+0	1	27	L	5	6	6	1	LUCITE	4	6	5	0	
+0	0	0	U	5	6	6	0		4	7	3	0	
+0	0	0	C	5	6	6	0		4	8	3	0	
+0	1	28	I	5	6	6	0		5	9	3	1	IED
+0	0	0	T	5	6	6	0		0	10	6	0	
+0	0	0	E	5	6	6	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	29	R	6	3	7	1	REVERSE	5	3	3	0	
+0	1	30	E	6	3	7	0		6	4	3	1	ERR
+0	1	31	V	6	3	7	0		6	5	3	1	VSO
+0	0	0	E	6	3	7	0		4	6	5	0	
+0	0	0	R	6	3	7	0		4	7	3	0	
+0	0	0	S	6	3	7	0		4	8	3	0	
+0	0	0	E	6	3	7	0		5	9	3	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	32	T	7	1	6	1	THIRST	7	1	5	1	TTOPS
+0	1	33	H	7	1	6	0		7	2	6	1	HTOTOE
+0	0	0	I	7	1	6	0		5	3	3	0	
+0	0	0	R	7	1	6	0		6	4	3	0	
+0	0	0	S	7	1	6	0		6	5	3	0	
+0	0	0	T	7	1	6	0		4	6	5	0	
+1	0	0	#	7	8	0	0		8	7	3	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	34	D	7	9	3	1	DOC	5	9	3	0	
+0	1	35	O	7	9	3	0		7	10	6	1	OCCUPY
+0	1	36	C	7	9	3	0		7	11	6	1	CHUTED
+1	0	0	#	7	13	0	0		8	12	5	0	
+0	1	37	I	8	0	3	1	ITT	8	0	3	1	IOU
+0	0	0	T	8	0	3	0		7	1	5	0	
+0	0	0	T	8	0	3	0		7	2	6	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	38	R	8	4	4	1	ROAM	6	4	3	0	
+0	0	0	O	8	4	4	0		6	5	3	0	
+0	0	0	A	8	4	4	0		4	6	5	0	
+0	1	39	M	8	4	4	0		8	7	3	1	MEM
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	40	C	8	10	3	1	CHA	7	10	6	0	
+0	0	0	H	8	10	3	0		7	11	6	0	
+0	1	41	A	8	10	3	0		8	12	5	1	APERS
+0	1	42	O	9	0	3	1	OOO	8	0	3	0	
+0	0	0	O	9	0	3	0		7	1	5	0	
+0	0	0	O	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	43	E	9	7	6	1	EGGCUP	8	7	3	0	
+0	1	44	G	9	7	6	0		9	8	3	1	GIS
+0	1	45	G	9	7	6	0		9	9	3	1	GNU
+0	0	0	C	9	7	6	0		7	10	6	0	
+0	0	0	U	9	7	6	0		7	11	6	0	
+0	0	0	P	9	7	6	0		8	12	5	0	
+0	1	46	U	10	0	13	1	UPTOTHEMINUTE	8	0	3	0	
+0	0	0	P	10	0	13	0		7	1	5	0	
+0	0	0	T	10	0	13	0		7	2	6	0	
+0	1	47	O	10	0	13	0		10	3	3	1	OWL
+0	1	48	T	10	0	13	0		10	4	3	1	THI
+0	1	49	H	10	0	13	0		10	5	3	1	HAE
+0	1	50	E	10	0	13	0		10	6	3	1	ETS
+0	0	0	M	10	0	13	0		8	7	3	0	
+0	0	0	I	10	0	13	0		9	8	3	0	
+0	0	0	N	10	0	13	0		9	9	3	0	
+0	0	0	U	10	0	13	0		7	10	6	0	
+0	0	0	T	10	0	13	0		7	11	6	0	
+0	0	0	E	10	0	13	0		8	12	5	0	
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	51	S	11	1	6	1	SOWHAT	7	1	5	0	
+0	0	0	O	11	1	6	0		7	2	6	0	
+0	0	0	W	11	1	6	0		10	3	3	0	
+0	0	0	H	11	1	6	0		10	4	3	0	
+0	0	0	A	11	1	6	0		10	5	3	0	
+0	0	0	T	11	1	6	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	S	11	8	5	1	SUPER	9	8	3	0	
+0	0	0	U	11	8	5	0		9	9	3	0	
+0	0	0	P	11	8	5	0		7	10	6	0	
+0	0	0	E	11	8	5	0		7	11	6	0	
+0	0	0	R	11	8	5	0		8	12	5	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	5	0		13	1	0	0	
+0	1	53	E	12	2	5	1	ELIES	7	2	6	0	
+0	0	0	L	12	2	5	0		10	3	3	0	
+0	0	0	I	12	2	5	0		10	4	3	0	
+0	0	0	E	12	2	5	0		10	5	3	0	
+0	0	0	S	12	2	5	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	Y	12	10	3	1	YDS	7	10	6	0	
+0	0	0	D	12	10	3	0		7	11	6	0	
+0	0	0	S	12	10	3	0		8	12	5	0	
+25
+1	SPN	"Wheel of Fortune" option
+4	WALLS	Places for plaques
+9	TOSCA	Fictional diva Floria
+12	WREAKS	Produces
+14	UNIONOFFICIAL	#6: Justice of the peace?
+17	NIGHER	Closer
+18	HRE	Its spiritual head was the pope: Abbr.
+19	SEN	Committee worker, maybe: Abbr.
+20	YACK	Talk idly
+24	AER	Gas: Prefix
+25	DST	Ben Franklin proposal: Abbr.
+27	LUCITE	Trademarked plastic
+29	REVERSE	What a car may be put into
+32	THIRST	Common companion of a dry throat
+34	DOC	Disney dwarf with glasses
+37	ITT	TV's Cousin ___
+38	ROAM	Emulate Odysseus
+40	CHA	When repeated, a dance
+42	OOO	Hockey shutout
+43	EGGCUP	Breakfast container
+46	UPTOTHEMINUTE	What's NEW?
+51	SOWHAT	"Who cares?"
+52	SUPER	Apartment 1-A resident, maybe
+53	ELIES	Mournful songs
+54	YDS	Football amts.
+33
+1	STUNS	Blows the mind of
+2	PONIED	Paid, with "up"
+3	NSIGNS	You'll need six of them to finish this puzzle
+4	WWF	Former grapplers' org.
+5	ARF	Speak to the owner?
+6	LEI	Waikiki welcome
+7	LAC	Fond du ___, Wis.
+8	SKIHAT	Top of the Alps?
+10	COH	"Suzanne" songwriter
+11	ANE	Compound ending
+13	SAREE	One-piece garment: Var.
+15	ORY	Suffix with contradict
+16	LER	Celtic Neptune
+21	ALETA	Queen in a long-running comic strip
+22	CUR	Mangy mutt
+23	KCS	Basketball coach Jones and others
+26	TRI	Prefix with -logy
+28	IED	Weapon for Iraqi insurgents: Abbr.
+30	ERR	Muff one
+31	VSO	Abbr. on a brandy label
+32	TTOPS	Camaro options
+33	HTOTOE	All over
+35	OCCUPY	Live in
+36	CHUTED	Skydived
+37	IOU	Paper in a pot
+39	MEM	One with dues: Abbr.
+41	APERS	Parrots
+44	GIS	Ones "over there"
+45	GNU	Wildebeest
+47	OWL	Mousehawk
+48	THI	Summer comfort stat
+49	HAE	"O Tibbie, I ___ seen the day": Burns
+50	ETS	Klingons, e.g.

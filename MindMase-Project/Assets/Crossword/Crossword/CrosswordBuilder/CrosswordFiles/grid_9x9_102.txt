@@ -1,0 +1,117 @@
+grid_9x9_102
+9
+0	1	1	V	0	0	3	1	VEG	0	0	3	1	VOX
+0	1	2	E	0	0	3	0		0	1	4	1	EDIN
+0	1	3	G	0	0	3	0		0	2	9	1	GINGERALE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	S	0	5	3	1	SHH	0	5	3	1	SSR
+0	1	5	H	0	5	3	0		0	6	9	1	HADATASTE
+0	1	6	H	0	5	3	0		0	7	4	1	HUAC
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	O	1	0	4	1	ODIE	0	0	3	0	
+0	0	0	D	1	0	4	0		0	1	4	0	
+0	0	0	I	1	0	4	0		0	2	9	0	
+0	1	8	E	1	0	4	0		1	3	4	1	EGAL
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	S	1	5	4	1	SAUL	0	5	3	0	
+0	0	0	A	1	5	4	0		0	6	9	0	
+0	0	0	U	1	5	4	0		0	7	4	0	
+0	1	10	L	1	5	4	0		1	8	3	1	LSE
+0	1	11	X	2	0	4	1	XING	0	0	3	0	
+0	0	0	I	2	0	4	0		0	1	4	0	
+0	0	0	N	2	0	4	0		0	2	9	0	
+0	0	0	G	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	R	2	5	4	1	RDAS	0	5	3	0	
+0	0	0	D	2	5	4	0		0	6	9	0	
+0	0	0	A	2	5	4	0		0	7	4	0	
+0	0	0	S	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	N	3	1	4	1	NGAS	0	1	4	0	
+0	0	0	G	3	1	4	0		0	2	9	0	
+0	0	0	A	3	1	4	0		1	3	4	0	
+0	1	14	S	3	1	4	0		3	4	3	1	SIG
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	A	3	6	3	1	ACE	0	6	9	0	
+0	0	0	C	3	6	3	0		0	7	4	0	
+0	0	0	E	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	16	E	4	2	5	1	ELIST	0	2	9	0	
+0	0	0	L	4	2	5	0		1	3	4	0	
+0	0	0	I	4	2	5	0		3	4	3	0	
+0	1	17	S	4	2	5	0		4	5	4	1	SIMP
+0	0	0	T	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	E	5	0	3	1	EUR	5	0	3	1	EGO
+0	1	19	U	5	0	3	0		5	1	4	1	URIM
+0	0	0	R	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	G	5	4	4	1	GIAN	3	4	3	0	
+0	0	0	I	5	4	4	0		4	5	4	0	
+0	0	0	A	5	4	4	0		0	6	9	0	
+0	1	21	N	5	4	4	0		5	7	4	1	NOEL
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	G	6	0	4	1	GRAT	5	0	3	0	
+0	0	0	R	6	0	4	0		5	1	4	0	
+0	0	0	A	6	0	4	0		0	2	9	0	
+0	1	23	T	6	0	4	0		6	3	3	1	TYE
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	M	6	5	4	1	MSON	4	5	4	0	
+0	0	0	S	6	5	4	0		0	6	9	0	
+0	0	0	O	6	5	4	0		5	7	4	0	
+0	1	25	N	6	5	4	0		6	8	3	1	NRA
+0	1	26	O	7	0	4	1	OILY	5	0	3	0	
+0	0	0	I	7	0	4	0		5	1	4	0	
+0	0	0	L	7	0	4	0		0	2	9	0	
+0	0	0	Y	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	P	7	5	4	1	PTER	4	5	4	0	
+0	0	0	T	7	5	4	0		0	6	9	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	R	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	M	8	1	3	1	MEE	5	1	4	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	E	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	E	8	6	3	1	ELA	0	6	9	0	
+0	0	0	L	8	6	3	0		5	7	4	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+17
+1	VEG	___ out (relax, like, totally)
+4	SHH	Admonition to a cell phone user in a theater
+7	ODIE	Jon Arbuckle's pooch
+9	SAUL	Bellow in a library
+11	XING	Place to walk, for short
+12	RDAS	Vitamin label amts.
+13	NGAS	Piped fuel
+15	ACE	Domino with one spot
+16	ELIST	Group-mailing aid
+18	EUR	Prefix with -asian
+20	GIAN	Sculptor ___ Lorenzo Bernini
+22	GRAT	Au ___
+24	MSON	Singer Marilyn
+26	OILY	Bootlicking
+27	PTER	Feather: Prefix
+28	MEE	English author and editor Arthur ___
+29	ELA	Musical high note
+15
+1	VOX	It came out of Cicero's mouth
+2	EDIN	___ chief (publ. honcho)
+3	GINGERALE	Mixer
+4	SSR	Georgia was one: Abbr.
+5	HADATASTE	Sipped
+6	HUAC	Sen. McCarthy ally
+8	EGAL	On a par, in Paris
+10	LSE	End of many an E-mail address
+14	SIG	Milano Mr.
+17	SIMP	Lamebrain
+18	EGO	It might get in the way of an apology
+19	URIM	___ and Thummin (Judaic objects)
+21	NOEL	Song sung by candlelight, perhaps
+23	TYE	Mast-to-tackle rope on a ship
+25	NRA	Grp. whose mascot is Eddie Eagle

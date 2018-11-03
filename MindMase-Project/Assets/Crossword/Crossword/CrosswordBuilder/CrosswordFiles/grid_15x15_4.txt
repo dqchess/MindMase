@@ -1,0 +1,311 @@
+grid_15x15_4
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	D	0	1	3	1	DNY	0	1	4	1	DOLT
+0	1	2	N	0	1	3	0		0	2	10	1	NILESCRANE
+0	1	3	Y	0	1	3	0		0	3	3	1	YRS
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	O	0	6	3	1	OHS	0	6	6	1	OPTSTO
+0	1	5	H	0	6	3	0		0	7	3	1	HBS
+0	1	6	S	0	6	3	0		0	8	3	1	SSS
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	5	0	
+0	1	7	E	0	12	3	1	EAR	0	12	4	1	ELHI
+0	1	8	A	0	12	3	0		0	13	4	1	ALEE
+0	1	9	R	0	12	3	0		0	14	3	1	ROD
+0	1	10	V	1	0	4	1	VOIR	1	0	3	1	VAS
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	I	1	0	4	0		0	2	10	0	
+0	0	0	R	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	3	0	
+0	1	11	A	1	5	4	1	APBS	1	5	4	1	AIME
+0	0	0	P	1	5	4	0		0	6	6	0	
+0	0	0	B	1	5	4	0		0	7	3	0	
+0	0	0	S	1	5	4	0		0	8	3	0	
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	12	P	1	10	5	1	POLLO	1	10	4	1	PARK
+0	1	13	O	1	10	5	0		1	11	5	1	OSTEO
+0	0	0	L	1	10	5	0		0	12	4	0	
+0	0	0	L	1	10	5	0		0	13	4	0	
+0	0	0	O	1	10	5	0		0	14	3	0	
+0	1	14	A	2	0	15	1	ALLSUITSSLASHED	1	0	3	0	
+0	0	0	L	2	0	15	0		0	1	4	0	
+0	0	0	L	2	0	15	0		0	2	10	0	
+0	0	0	S	2	0	15	0		0	3	3	0	
+0	1	15	U	2	0	15	0		2	4	3	1	UHF
+0	0	0	I	2	0	15	0		1	5	4	0	
+0	0	0	T	2	0	15	0		0	6	6	0	
+0	0	0	S	2	0	15	0		0	7	3	0	
+0	0	0	S	2	0	15	0		0	8	3	0	
+0	1	16	L	2	0	15	0		2	9	3	1	LAI
+0	0	0	A	2	0	15	0		1	10	4	0	
+0	0	0	S	2	0	15	0		1	11	5	0	
+0	0	0	H	2	0	15	0		0	12	4	0	
+0	0	0	E	2	0	15	0		0	13	4	0	
+0	0	0	D	2	0	15	0		0	14	3	0	
+0	1	17	S	3	0	3	1	STE	1	0	3	0	
+0	0	0	T	3	0	3	0		0	1	4	0	
+0	0	0	E	3	0	3	0		0	2	10	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	18	H	3	4	3	1	HMS	2	4	3	0	
+0	0	0	M	3	4	3	0		1	5	4	0	
+0	0	0	S	3	4	3	0		0	6	6	0	
+1	0	0	#	3	8	0	0		4	7	0	0	
+1	0	0	#	3	9	5	0		4	8	4	0	
+0	1	19	A	3	9	5	1	ARTIE	2	9	3	0	
+0	0	0	R	3	9	5	0		1	10	4	0	
+0	0	0	T	3	9	5	0		1	11	5	0	
+0	0	0	I	3	9	5	0		0	12	4	0	
+0	0	0	E	3	9	5	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	5	0	
+0	1	20	S	4	2	5	1	SAFET	0	2	10	0	
+0	1	21	A	4	2	5	0		4	3	3	1	AAU
+0	0	0	F	4	2	5	0		2	4	3	0	
+0	0	0	E	4	2	5	0		1	5	4	0	
+0	0	0	T	4	2	5	0		0	6	6	0	
+1	0	0	#	4	8	4	0		5	7	5	0	
+0	1	22	M	4	8	4	1	MIKE	4	8	4	1	MILL
+0	0	0	I	4	8	4	0		2	9	3	0	
+0	0	0	K	4	8	4	0		1	10	4	0	
+0	0	0	E	4	8	4	0		1	11	5	0	
+1	0	0	#	4	13	0	0		5	12	10	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	23	D	5	1	3	1	DCA	5	1	5	1	DERMS
+0	0	0	C	5	1	3	0		0	2	10	0	
+0	0	0	A	5	1	3	0		4	3	3	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	24	O	5	6	3	1	OBI	0	6	6	0	
+0	1	25	B	5	6	3	0		5	7	5	1	BUYUP
+0	0	0	I	5	6	3	0		4	8	4	0	
+1	0	0	#	5	10	0	0		6	9	3	0	
+1	0	0	#	5	11	3	0		6	10	3	0	
+0	1	26	O	5	11	3	1	OER	1	11	5	0	
+0	1	27	E	5	11	3	0		5	12	10	1	ELEPHANTOM
+0	1	28	R	5	11	3	0		5	13	5	1	RUMEN
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	29	N	6	0	6	1	NERUDA	6	0	3	1	NCR
+0	0	0	E	6	0	6	0		5	1	5	0	
+0	0	0	R	6	0	6	0		0	2	10	0	
+0	0	0	U	6	0	6	0		4	3	3	0	
+0	1	30	D	6	0	6	0		6	4	3	1	DEW
+0	1	31	A	6	0	6	0		6	5	3	1	AMC
+1	0	0	#	6	7	4	0		7	6	4	0	
+0	1	32	U	6	7	4	1	ULAN	5	7	5	0	
+0	0	0	L	6	7	4	0		4	8	4	0	
+0	1	33	A	6	7	4	0		6	9	3	1	AOL
+0	1	34	N	6	7	4	0		6	10	3	1	NUI
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	35	L	6	12	3	1	LUC	5	12	10	0	
+0	0	0	U	6	12	3	0		5	13	5	0	
+0	1	36	C	6	12	3	0		6	14	3	1	CST
+0	1	37	C	7	0	3	1	CRA	6	0	3	0	
+0	0	0	R	7	0	3	0		5	1	5	0	
+0	0	0	A	7	0	3	0		0	2	10	0	
+1	0	0	#	7	4	7	0		8	3	0	0	
+0	1	38	E	7	4	7	1	EMMYLOU	6	4	3	0	
+0	0	0	M	7	4	7	0		6	5	3	0	
+0	1	39	M	7	4	7	0		7	6	4	1	MTLE
+0	0	0	Y	7	4	7	0		5	7	5	0	
+0	0	0	L	7	4	7	0		4	8	4	0	
+0	0	0	O	7	4	7	0		6	9	3	0	
+0	0	0	U	7	4	7	0		6	10	3	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	40	E	7	12	3	1	EMS	5	12	10	0	
+0	0	0	M	7	12	3	0		5	13	5	0	
+0	0	0	S	7	12	3	0		6	14	3	0	
+0	1	41	R	8	0	3	1	RMN	6	0	3	0	
+0	0	0	M	8	0	3	0		5	1	5	0	
+0	0	0	N	8	0	3	0		0	2	10	0	
+1	0	0	#	8	4	4	0		9	3	5	0	
+0	1	42	W	8	4	4	1	WCTU	6	4	3	0	
+0	0	0	C	8	4	4	0		6	5	3	0	
+0	0	0	T	8	4	4	0		7	6	4	0	
+0	0	0	U	8	4	4	0		5	7	5	0	
+1	0	0	#	8	9	6	0		9	8	6	0	
+0	1	43	L	8	9	6	1	LIMPET	6	9	3	0	
+0	0	0	I	8	9	6	0		6	10	3	0	
+0	1	44	M	8	9	6	0		8	11	3	1	MTT
+0	0	0	P	8	9	6	0		5	12	10	0	
+0	0	0	E	8	9	6	0		5	13	5	0	
+0	0	0	T	8	9	6	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	45	S	9	1	3	1	SEG	5	1	5	0	
+0	0	0	E	9	1	3	0		0	2	10	0	
+0	1	46	G	9	1	3	0		9	3	5	1	GORKI
+1	0	0	#	9	5	0	0		10	4	4	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	47	L	9	6	3	1	LPS	7	6	4	0	
+0	0	0	P	9	6	3	0		5	7	5	0	
+0	1	48	S	9	6	3	0		9	8	6	1	SOLOED
+1	0	0	#	9	10	0	0		10	9	4	0	
+1	0	0	#	9	11	3	0		10	10	3	0	
+0	1	49	T	9	11	3	1	THN	8	11	3	0	
+0	0	0	H	9	11	3	0		5	12	10	0	
+0	0	0	N	9	11	3	0		5	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	4	0	
+1	0	0	#	10	3	4	0		11	2	4	0	
+0	1	50	O	10	3	4	1	OBIE	9	3	5	0	
+0	1	51	B	10	3	4	0		10	4	4	1	BAAS
+0	1	52	I	10	3	4	0		10	5	3	1	IDN
+0	0	0	E	10	3	4	0		7	6	4	0	
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	53	O	10	8	5	1	OUTTA	9	8	6	0	
+0	1	54	U	10	8	5	0		10	9	4	1	UELE
+0	1	55	T	10	8	5	0		10	10	3	1	TRL
+0	0	0	T	10	8	5	0		8	11	3	0	
+0	0	0	A	10	8	5	0		5	12	10	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	5	0		12	0	3	0	
+0	1	56	F	11	1	5	1	FARAD	11	1	4	1	FOES
+0	1	57	A	11	1	5	0		11	2	4	1	ACTH
+0	0	0	R	11	1	5	0		9	3	5	0	
+0	0	0	A	11	1	5	0		10	4	4	0	
+0	0	0	D	11	1	5	0		10	5	3	0	
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	58	L	11	8	3	1	LER	9	8	6	0	
+0	0	0	E	11	8	3	0		10	9	4	0	
+0	0	0	R	11	8	3	0		10	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	59	N	11	12	3	1	NGN	5	12	10	0	
+0	1	60	G	11	12	3	0		11	13	4	1	GAFF
+0	1	61	N	11	12	3	0		11	14	3	1	NRA
+0	1	62	R	12	0	15	1	ROCKANDROLLSTAR	12	0	3	1	RYS
+0	0	0	O	12	0	15	0		11	1	4	0	
+0	0	0	C	12	0	15	0		11	2	4	0	
+0	0	0	K	12	0	15	0		9	3	5	0	
+0	0	0	A	12	0	15	0		10	4	4	0	
+0	0	0	N	12	0	15	0		10	5	3	0	
+0	1	63	D	12	0	15	0		12	6	3	1	DCI
+0	1	64	R	12	0	15	0		12	7	3	1	RHE
+0	0	0	O	12	0	15	0		9	8	6	0	
+0	0	0	L	12	0	15	0		10	9	4	0	
+0	0	0	L	12	0	15	0		10	10	3	0	
+0	1	65	S	12	0	15	0		12	11	3	1	SUA
+0	0	0	T	12	0	15	0		5	12	10	0	
+0	0	0	A	12	0	15	0		11	13	4	0	
+0	0	0	R	12	0	15	0		11	14	3	0	
+0	1	66	Y	13	0	5	1	YETIS	12	0	3	0	
+0	0	0	E	13	0	5	0		11	1	4	0	
+0	0	0	T	13	0	5	0		11	2	4	0	
+0	0	0	I	13	0	5	0		9	3	5	0	
+0	0	0	S	13	0	5	0		10	4	4	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	67	C	13	6	4	1	CHEE	12	6	3	0	
+0	0	0	H	13	6	4	0		12	7	3	0	
+0	0	0	E	13	6	4	0		9	8	6	0	
+0	0	0	E	13	6	4	0		10	9	4	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	68	U	13	11	4	1	UOFA	12	11	3	0	
+0	0	0	O	13	11	4	0		5	12	10	0	
+0	0	0	F	13	11	4	0		11	13	4	0	
+0	0	0	A	13	11	4	0		11	14	3	0	
+0	1	69	S	14	0	3	1	SSH	12	0	3	0	
+0	0	0	S	14	0	3	0		11	1	4	0	
+0	0	0	H	14	0	3	0		11	2	4	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	70	I	14	6	3	1	IED	12	6	3	0	
+0	0	0	E	14	6	3	0		12	7	3	0	
+0	0	0	D	14	6	3	0		9	8	6	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	71	A	14	11	3	1	AMF	12	11	3	0	
+0	0	0	M	14	11	3	0		5	12	10	0	
+0	0	0	F	14	11	3	0		11	13	4	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	DNY	Letters after Daniel Moynihan's name
+4	OHS	Quaker cereal
+7	EAR	Object near a temple
+10	VOIR	___ dire (legal process)
+11	APBS	Getaway stoppers, briefly
+12	POLLO	Burrito meat
+14	ALLSUITSSLASHED	Odd sign at Men's Wearhouse?
+17	STE	Marie or Jeanne: Abbr.
+18	HMS	Britannia letters
+19	ARTIE	First name in swing
+20	SAFET	It's darn likely
+22	MIKE	Phone bug, e.g.
+23	DCA	Bing Crosby's record label
+24	OBI	Butterfly wrapping?
+26	OER	Preposition in "Jingle Bells"
+29	NERUDA	"Canto General" poet
+32	ULAN	Asian capital name starter
+35	LUC	19-season N.H.L.'er Robitaille
+37	CRA	Bow
+38	EMMYLOU	Singer Harris
+40	EMS	Ambulance inits.
+41	RMN	Old presidential inits.
+42	WCTU	Teetotalers
+43	LIMPET	Cousin of a conch
+45	SEG	Part: Abbr.
+47	LPS	The Beatles
+49	THN	Ending with tele-
+50	OBIE	Big Apple award
+53	OUTTA	"Get ___ here!"
+56	FARAD	Unit of capacitance
+58	LER	Celtic Poseidon
+59	NGN	Stitch
+62	ROCKANDROLLSTAR	One with a guitar and shades, stereotypically
+66	YETIS	Some unsubstantiated sightings
+67	CHEE	Tony Hillerman detective Jim
+68	UOFA	Fayetteville campus, briefly
+69	SSH	Library sound: Var.
+70	IED	Weapon for Iraqi insurgents: Abbr.
+71	AMF	Bowling alley initials
+43
+1	DOLT	Fumble-fingers
+2	NILESCRANE	1990s-2000s sitcom shrink
+3	YRS	Timeline info: Abbr.
+4	OPTSTO	Decides one will
+5	HBS	N.F.L. ball carriers
+6	SSS	Serpentine signal
+7	ELHI	Like some textbooks
+8	ALEE	How a ship may be turned
+9	ROD	Wand
+10	VAS	___ in victory
+11	AIME	It's love, in Lille
+12	PARK	Use a lot
+13	OSTEO	Prefix with arthritis
+15	UHF	300 to 3,000 MHz range
+16	LAI	"Love Story" score composer
+21	AAU	Sports org.
+22	MILL	Rumor generator?
+23	DERMS	Skin suffixes
+25	BUYUP	Get all of
+27	ELEPHANTOM	Peanut-loving ghost?
+28	RUMEN	Cow's first stomach
+29	NCR	Big mfr. of A.T.M.'s
+30	DEW	Night deposit?
+31	AMC	Car co. bought by Chrysler
+33	AOL	Yahoo! competitor
+34	NUI	"Mahalo ___ loa" ("Thank you very much," in Maui)
+36	CST	New Orleans setting: Abbr.
+39	MTLE	Famed "7" wearer
+44	MTT	Ball catcher
+46	GORKI	"The Lower Depths" playwright
+48	SOLOED	Was helpless?
+51	BAAS	Kids' greetings
+52	IDN	Insurance card info
+54	UELE	Ubangi feeder
+55	TRL	Bygone daily MTV series, informally
+56	FOES	They're against each other
+57	ACTH	Pituitary hormone
+60	GAFF	Ship's spar
+61	NRA	Pro-gun rights org.
+62	RYS	Roads with train tracks: Abbr.
+63	DCI	Early seventh-century date
+64	RHE	Line score letters
+65	SUA	"Don Giovanni" aria "Dalla ___ pace"

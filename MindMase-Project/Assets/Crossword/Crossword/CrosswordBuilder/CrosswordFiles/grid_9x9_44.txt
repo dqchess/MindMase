@@ -1,0 +1,117 @@
+grid_9x9_44
+9
+0	1	1	L	0	0	3	1	LAB	0	0	3	1	LEE
+0	1	2	A	0	0	3	0		0	1	4	1	AGNI
+0	1	3	B	0	0	3	0		0	2	4	1	BGDV
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	R	0	5	3	1	RIS	0	5	3	1	RIB
+0	1	5	I	0	5	3	0		0	6	4	1	IYAR
+0	1	6	S	0	5	3	0		0	7	4	1	SARD
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	E	1	0	4	1	EGGB	0	0	3	0	
+0	0	0	G	1	0	4	0		0	1	4	0	
+0	0	0	G	1	0	4	0		0	2	4	0	
+0	1	8	B	1	0	4	0		1	3	4	1	BEES
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	I	1	5	4	1	IYAM	0	5	3	0	
+0	0	0	Y	1	5	4	0		0	6	4	0	
+0	0	0	A	1	5	4	0		0	7	4	0	
+0	1	10	M	1	5	4	0		1	8	3	1	MTA
+0	1	11	E	2	0	9	1	ENDEDBART	0	0	3	0	
+0	0	0	N	2	0	9	0		0	1	4	0	
+0	0	0	D	2	0	9	0		0	2	4	0	
+0	0	0	E	2	0	9	0		1	3	4	0	
+0	1	12	D	2	0	9	0		2	4	5	1	DYKES
+0	0	0	B	2	0	9	0		0	5	3	0	
+0	0	0	A	2	0	9	0		0	6	4	0	
+0	0	0	R	2	0	9	0		0	7	4	0	
+0	0	0	T	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	I	3	1	4	1	IVEY	0	1	4	0	
+0	0	0	V	3	1	4	0		0	2	4	0	
+0	0	0	E	3	1	4	0		1	3	4	0	
+0	0	0	Y	3	1	4	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	R	3	6	3	1	RDA	0	6	4	0	
+0	0	0	D	3	6	3	0		0	7	4	0	
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	S	4	3	3	1	SKA	1	3	4	0	
+0	0	0	K	4	3	3	0		2	4	5	0	
+0	1	16	A	4	3	3	0		4	5	4	1	ALKA
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	O	5	0	3	1	ONE	5	0	3	1	OSA
+0	1	18	N	5	0	3	0		5	1	4	1	NLER
+0	1	19	E	5	0	3	0		5	2	4	1	EURO
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	E	5	4	4	1	ELFS	2	4	5	0	
+0	0	0	L	5	4	4	0		4	5	4	0	
+0	1	21	F	5	4	4	0		5	6	4	1	FALK
+0	1	22	S	5	4	4	0		5	7	4	1	SYLL
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	23	S	6	0	9	1	SLUTSKAYA	5	0	3	0	
+0	0	0	L	6	0	9	0		5	1	4	0	
+0	0	0	U	6	0	9	0		5	2	4	0	
+0	1	24	T	6	0	9	0		6	3	3	1	TYE
+0	0	0	S	6	0	9	0		2	4	5	0	
+0	0	0	K	6	0	9	0		4	5	4	0	
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	Y	6	0	9	0		5	7	4	0	
+0	1	25	A	6	0	9	0		6	8	3	1	ARM
+0	1	26	A	7	0	4	1	AERY	5	0	3	0	
+0	0	0	E	7	0	4	0		5	1	4	0	
+0	0	0	R	7	0	4	0		5	2	4	0	
+0	0	0	Y	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	A	7	5	4	1	ALLR	4	5	4	0	
+0	0	0	L	7	5	4	0		5	6	4	0	
+0	0	0	L	7	5	4	0		5	7	4	0	
+0	0	0	R	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	R	8	1	3	1	ROE	5	1	4	0	
+0	0	0	O	8	1	3	0		5	2	4	0	
+0	0	0	E	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	K	8	6	3	1	KLM	5	6	4	0	
+0	0	0	L	8	6	3	0		5	7	4	0	
+0	0	0	M	8	6	3	0		6	8	3	0	
+15
+1	LAB	Science class feature
+4	RIS	Laugh, in Lyon
+7	EGGB	It's whipped to make mousse
+9	IYAM	Part of Popeye's credo
+11	ENDEDBART	Dropped "The Simpsons" from the TV schedule?
+13	IVEY	"Hurlyburly" Tony winner Judith
+14	RDA	Vitamin bottle info, for short
+15	SKA	Cousin of reggae
+17	ONE	Wee hour
+20	ELFS	Small toymakers: Var.
+23	SLUTSKAYA	Champion figure skater Irina
+26	AERY	Unsubstantial
+27	ALLR	"Now you're talking!"
+28	ROE	Anonymous party to a legal suit
+29	KLM	S.A.S. competitor
+17
+1	LEE	Jeans name
+2	AGNI	Latin lambs
+3	BGDV	Understands
+4	RIB	Corduroy feature
+5	IYAR	Month after Nisan
+6	SARD	Variety of chalcedony
+8	BEES	Some parties
+10	MTA	N.Y.C. subway inits.
+12	DYKES	Flood barriers: Var.
+16	ALKA	___-Mints chewable antacid
+17	OSA	Granada bear
+18	NLER	Pirate or Padre, for short
+19	EURO	Currency worth a little over a dollar
+21	FALK	Colombo portrayer
+22	SYLL	Word div.
+24	TYE	Tackle-to-mast rope on a ship
+25	ARM	Hand waver?

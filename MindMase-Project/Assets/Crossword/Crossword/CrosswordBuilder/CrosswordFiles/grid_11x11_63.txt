@@ -1,0 +1,169 @@
+grid_11x11_63
+11
+0	1	1	O	0	0	3	1	OXO	0	0	6	1	OOLALA
+0	1	2	X	0	0	3	0		0	1	6	1	XRAYED
+0	1	3	O	0	0	3	0		0	2	11	1	OADEEDOODAH
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	G	0	4	3	1	GTI	0	4	3	1	GIE
+0	1	5	T	0	4	3	0		0	5	3	1	TOS
+0	1	6	I	0	4	3	0		0	6	6	1	INFORM
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	C	0	8	3	1	CFS	0	8	11	1	CHRISTMASSY
+0	1	8	F	0	8	3	0		0	9	4	1	FOSS
+0	1	9	S	0	8	3	0		0	10	3	1	SGT
+0	1	10	O	1	0	7	1	ORATION	0	0	6	0	
+0	0	0	R	1	0	7	0		0	1	6	0	
+0	0	0	A	1	0	7	0		0	2	11	0	
+0	1	11	T	1	0	7	0		1	3	3	1	TIN
+0	0	0	I	1	0	7	0		0	4	3	0	
+0	0	0	O	1	0	7	0		0	5	3	0	
+0	0	0	N	1	0	7	0		0	6	6	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	12	H	1	8	3	1	HOG	0	8	11	0	
+0	0	0	O	1	8	3	0		0	9	4	0	
+0	0	0	G	1	8	3	0		0	10	3	0	
+0	1	13	L	2	0	11	1	LADIESFIRST	0	0	6	0	
+0	0	0	A	2	0	11	0		0	1	6	0	
+0	0	0	D	2	0	11	0		0	2	11	0	
+0	0	0	I	2	0	11	0		1	3	3	0	
+0	0	0	E	2	0	11	0		0	4	3	0	
+0	0	0	S	2	0	11	0		0	5	3	0	
+0	0	0	F	2	0	11	0		0	6	6	0	
+0	1	14	I	2	0	11	0		2	7	3	1	ITI
+0	0	0	R	2	0	11	0		0	8	11	0	
+0	0	0	S	2	0	11	0		0	9	4	0	
+0	0	0	T	2	0	11	0		0	10	3	0	
+0	1	15	A	3	0	4	1	AYEN	0	0	6	0	
+0	0	0	Y	3	0	4	0		0	1	6	0	
+0	0	0	E	3	0	4	0		0	2	11	0	
+0	0	0	N	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	16	O	3	6	4	1	OTIS	0	6	6	0	
+0	0	0	T	3	6	4	0		2	7	3	0	
+0	0	0	I	3	6	4	0		0	8	11	0	
+0	0	0	S	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	17	L	4	0	3	1	LEE	0	0	6	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	E	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	4	0		5	4	6	0	
+0	1	18	I	4	5	4	1	IRIS	4	5	3	1	IES
+0	0	0	R	4	5	4	0		0	6	6	0	
+0	0	0	I	4	5	4	0		2	7	3	0	
+0	0	0	S	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	6	0	
+0	1	19	A	5	0	3	1	ADD	0	0	6	0	
+0	0	0	D	5	0	3	0		0	1	6	0	
+0	0	0	D	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	M	5	4	3	1	MEM	5	4	6	1	MANRAY
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	M	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	T	5	8	3	1	TNT	0	8	11	0	
+0	1	22	N	5	8	3	0		5	9	6	1	NEREID
+0	1	23	T	5	8	3	0		5	10	6	1	THETAS
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	24	O	6	2	4	1	OMAS	0	2	11	0	
+0	1	25	M	6	2	4	0		6	3	3	1	MAT
+0	0	0	A	6	2	4	0		5	4	6	0	
+0	0	0	S	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	26	M	6	8	3	1	MEH	0	8	11	0	
+0	0	0	E	6	8	3	0		5	9	6	0	
+0	0	0	H	6	8	3	0		5	10	6	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	L	7	1	4	1	LOAN	7	1	4	1	LODE
+0	0	0	O	7	1	4	0		0	2	11	0	
+0	0	0	A	7	1	4	0		6	3	3	0	
+0	0	0	N	7	1	4	0		5	4	6	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	28	R	7	7	4	1	RARE	7	7	3	1	RNA
+0	0	0	A	7	7	4	0		0	8	11	0	
+0	0	0	R	7	7	4	0		5	9	6	0	
+0	0	0	E	7	7	4	0		5	10	6	0	
+0	1	29	M	8	0	11	1	MODTRAINSET	8	0	3	1	MIN
+0	0	0	O	8	0	11	0		7	1	4	0	
+0	0	0	D	8	0	11	0		0	2	11	0	
+0	0	0	T	8	0	11	0		6	3	3	0	
+0	0	0	R	8	0	11	0		5	4	6	0	
+0	1	30	A	8	0	11	0		8	5	3	1	API
+0	1	31	I	8	0	11	0		8	6	3	1	IHP
+0	0	0	N	8	0	11	0		7	7	3	0	
+0	0	0	S	8	0	11	0		0	8	11	0	
+0	0	0	E	8	0	11	0		5	9	6	0	
+0	0	0	T	8	0	11	0		5	10	6	0	
+0	1	32	I	9	0	3	1	IDA	8	0	3	0	
+0	0	0	D	9	0	3	0		7	1	4	0	
+0	0	0	A	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	33	A	9	4	7	1	APHASIA	5	4	6	0	
+0	0	0	P	9	4	7	0		8	5	3	0	
+0	0	0	H	9	4	7	0		8	6	3	0	
+0	0	0	A	9	4	7	0		7	7	3	0	
+0	0	0	S	9	4	7	0		0	8	11	0	
+0	0	0	I	9	4	7	0		5	9	6	0	
+0	0	0	A	9	4	7	0		5	10	6	0	
+0	1	34	N	10	0	3	1	NEH	8	0	3	0	
+0	0	0	E	10	0	3	0		7	1	4	0	
+0	0	0	H	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	35	Y	10	4	3	1	YIP	5	4	6	0	
+0	0	0	I	10	4	3	0		8	5	3	0	
+0	0	0	P	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	Y	10	8	3	1	YDS	0	8	11	0	
+0	0	0	D	10	8	3	0		5	9	6	0	
+0	0	0	S	10	8	3	0		5	10	6	0	
+23
+1	OXO	Tic-tac-toe loser
+4	GTI	Popular Volkswagen model
+7	CFS	Ty Cobb and Willie Mays, positionally: Abbr.
+10	ORATION	Keynote, e.g.
+12	HOG	Animal in a sty
+13	LADIESFIRST	Tenet of chivalry
+15	AYEN	Have ___ for (desire)
+16	OTIS	James who originated the phrase "Taxation without representation"
+17	LEE	Old western actor Van Cleef
+18	IRIS	Center of the eye
+19	ADD	Recipe word
+20	MEM	Part of a grp.
+21	TNT	Coyote's supply in Road Runner cartoons
+24	OMAS	Some Siouan speakers
+26	MEH	"Doesn't thrill me"
+27	LOAN	The "L" in S.&L.
+28	RARE	Book classification
+29	MODTRAINSET	Stylish Lionel?
+32	IDA	Girl "sweet as apple cider"
+33	APHASIA	Loss of speaking ability
+34	NEH	Book before Esth.
+35	YIP	Sharp bark
+36	YDS	Passing stats: Abbr.
+21
+1	OOLALA	"So chic!"
+2	XRAYED	Got an inside look at?
+3	OADEEDOODAH	Academy Award song of 1947
+4	GIE	Bestow on, to Burns
+5	TOS	How-___
+6	INFORM	Enlighten
+7	CHRISTMASSY	Festive
+8	FOSS	Conductor Lukas ___
+9	SGT	Driller?: Abbr.
+11	TIN	Kind of foil
+14	ITI	"Is ___?"
+18	IES	Suffix with pant
+20	MANRAY	Noted Dadaist
+22	NEREID	Calypso, e.g.
+23	THETAS	Sorority members such as Ann-Margret and Laura Bush
+25	MAT	Yoga class need
+27	LODE	Big deposit
+28	RNA	Genetic letters
+29	MIN	Like some mus. keys
+30	API	Bee: Prefix
+31	IHP	Restaurant chain since '58

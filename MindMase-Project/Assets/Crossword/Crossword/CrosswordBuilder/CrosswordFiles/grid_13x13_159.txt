@@ -1,0 +1,235 @@
+grid_13x13_159
+13
+0	1	1	M	0	0	6	1	MAULER	0	0	3	1	MTM
+0	1	2	A	0	0	6	0		0	1	3	1	AIR
+0	1	3	U	0	0	6	0		0	2	13	1	UDDERNONSENSE
+0	1	4	L	0	0	6	0		0	3	5	1	LYELL
+0	1	5	E	0	0	6	0		0	4	5	1	EIEIO
+0	1	6	R	0	0	6	0		0	5	3	1	RND
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	4	0	
+0	1	7	L	0	9	3	1	LLC	0	9	3	1	LOC
+0	1	8	L	0	9	3	0		0	10	13	1	LUCKOTHEIRISH
+0	1	9	C	0	9	3	0		0	11	4	1	CPAS
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	T	1	0	7	1	TIDYING	0	0	3	0	
+0	0	0	I	1	0	7	0		0	1	3	0	
+0	0	0	D	1	0	7	0		0	2	13	0	
+0	0	0	Y	1	0	7	0		0	3	5	0	
+0	0	0	I	1	0	7	0		0	4	5	0	
+0	0	0	N	1	0	7	0		0	5	3	0	
+0	1	11	G	1	0	7	0		1	6	3	1	GSO
+1	0	0	#	1	8	5	0		2	7	0	0	
+0	1	12	S	1	8	5	1	SOUPS	1	8	4	1	SODA
+0	0	0	O	1	8	5	0		0	9	3	0	
+0	0	0	U	1	8	5	0		0	10	13	0	
+0	0	0	P	1	8	5	0		0	11	4	0	
+0	1	13	S	1	8	5	0		1	12	3	1	SMU
+0	1	14	M	2	0	7	1	MRDEEDS	0	0	3	0	
+0	0	0	R	2	0	7	0		0	1	3	0	
+0	0	0	D	2	0	7	0		0	2	13	0	
+0	0	0	E	2	0	7	0		0	3	5	0	
+0	0	0	E	2	0	7	0		0	4	5	0	
+0	0	0	D	2	0	7	0		0	5	3	0	
+0	0	0	S	2	0	7	0		1	6	3	0	
+1	0	0	#	2	8	5	0		3	7	6	0	
+0	1	15	O	2	8	5	1	OCCAM	1	8	4	0	
+0	0	0	C	2	8	5	0		0	9	3	0	
+0	0	0	C	2	8	5	0		0	10	13	0	
+0	0	0	A	2	8	5	0		0	11	4	0	
+0	0	0	M	2	8	5	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	16	E	3	2	3	1	ELI	0	2	13	0	
+0	0	0	L	3	2	3	0		0	3	5	0	
+0	0	0	I	3	2	3	0		0	4	5	0	
+1	0	0	#	3	6	3	0		4	5	6	0	
+0	1	17	O	3	6	3	1	ORD	1	6	3	0	
+0	1	18	R	3	6	3	0		3	7	6	1	RICHIE
+0	0	0	D	3	6	3	0		1	8	4	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	19	K	3	10	3	1	KSU	0	10	13	0	
+0	0	0	S	3	10	3	0		0	11	4	0	
+0	0	0	U	3	10	3	0		1	12	3	0	
+1	0	0	#	4	1	5	0		5	0	3	0	
+0	1	20	A	4	1	5	1	ARLOS	4	1	4	1	ATMS
+0	0	0	R	4	1	5	0		0	2	13	0	
+0	0	0	L	4	1	5	0		0	3	5	0	
+0	0	0	O	4	1	5	0		0	4	5	0	
+0	1	21	S	4	1	5	0		4	5	6	1	SEALYS
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	22	I	4	7	4	1	IAGO	3	7	6	0	
+0	0	0	A	4	7	4	0		1	8	4	0	
+0	1	23	G	4	7	4	0		4	9	3	1	GRR
+0	0	0	O	4	7	4	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	S	5	0	3	1	STN	5	0	3	1	SDS
+0	0	0	T	5	0	3	0		4	1	4	0	
+0	0	0	N	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	0	0		6	3	3	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	25	E	5	5	3	1	ESC	4	5	6	0	
+0	1	26	S	5	5	3	0		5	6	3	1	SHU
+0	0	0	C	5	5	3	0		3	7	6	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	27	R	5	9	4	1	RTEE	4	9	3	0	
+0	0	0	T	5	9	4	0		0	10	13	0	
+0	1	28	E	5	9	4	0		5	11	4	1	EELS
+0	1	29	E	5	9	4	0		5	12	3	1	EAP
+0	1	30	D	6	0	4	1	DMOP	5	0	3	0	
+0	0	0	M	6	0	4	0		4	1	4	0	
+0	0	0	O	6	0	4	0		0	2	13	0	
+0	1	31	P	6	0	4	0		6	3	3	1	PSS
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	32	A	6	5	3	1	AHH	4	5	6	0	
+0	0	0	H	6	5	3	0		5	6	3	0	
+0	0	0	H	6	5	3	0		3	7	6	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	33	R	6	9	4	1	RHEA	4	9	3	0	
+0	0	0	H	6	9	4	0		0	10	13	0	
+0	0	0	E	6	9	4	0		5	11	4	0	
+0	0	0	A	6	9	4	0		5	12	3	0	
+0	1	34	S	7	0	4	1	SSNS	5	0	3	0	
+0	0	0	S	7	0	4	0		4	1	4	0	
+0	0	0	N	7	0	4	0		0	2	13	0	
+0	0	0	S	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	3	0		8	4	4	0	
+0	1	35	L	7	5	3	1	LUI	4	5	6	0	
+0	0	0	U	7	5	3	0		5	6	3	0	
+0	0	0	I	7	5	3	0		3	7	6	0	
+1	0	0	#	7	9	0	0		8	8	5	0	
+1	0	0	#	7	10	3	0		8	9	5	0	
+0	1	36	E	7	10	3	1	ELP	0	10	13	0	
+0	0	0	L	7	10	3	0		5	11	4	0	
+0	0	0	P	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	4	0		9	1	4	0	
+0	1	37	S	8	2	4	1	SSBY	0	2	13	0	
+0	0	0	S	8	2	4	0		6	3	3	0	
+0	1	38	B	8	2	4	0		8	4	4	1	BONO
+0	0	0	Y	8	2	4	0		4	5	6	0	
+1	0	0	#	8	7	5	0		9	6	3	0	
+0	1	39	E	8	7	5	1	ENNIS	3	7	6	0	
+0	1	40	N	8	7	5	0		8	8	5	1	NOCAN
+0	1	41	N	8	7	5	0		8	9	5	1	NEALS
+0	0	0	I	8	7	5	0		0	10	13	0	
+0	0	0	S	8	7	5	0		5	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	42	G	9	0	3	1	GTE	9	0	3	1	GRO
+0	1	43	T	9	0	3	0		9	1	4	1	TUSH
+0	0	0	E	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	44	O	9	4	3	1	OSA	8	4	4	0	
+0	0	0	S	9	4	3	0		4	5	6	0	
+0	1	45	A	9	4	3	0		9	6	3	1	ACA
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	46	O	9	8	3	1	OER	8	8	5	0	
+0	0	0	E	9	8	3	0		8	9	5	0	
+0	0	0	R	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	47	R	10	0	5	1	RUNON	9	0	3	0	
+0	0	0	U	10	0	5	0		9	1	4	0	
+0	0	0	N	10	0	5	0		0	2	13	0	
+0	1	48	O	10	0	5	0		10	3	3	1	OED
+0	0	0	N	10	0	5	0		8	4	4	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	49	C	10	6	7	1	COCAINE	9	6	3	0	
+0	1	50	O	10	6	7	0		10	7	3	1	ORU
+0	0	0	C	10	6	7	0		8	8	5	0	
+0	0	0	A	10	6	7	0		8	9	5	0	
+0	0	0	I	10	6	7	0		0	10	13	0	
+0	1	51	N	10	6	7	0		10	11	3	1	NEU
+0	1	52	E	10	6	7	0		10	12	3	1	EAT
+0	1	53	O	11	0	5	1	OSSEO	9	0	3	0	
+0	0	0	S	11	0	5	0		9	1	4	0	
+0	0	0	S	11	0	5	0		0	2	13	0	
+0	0	0	E	11	0	5	0		10	3	3	0	
+0	0	0	O	11	0	5	0		8	4	4	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	54	A	11	6	7	1	ARALSEA	9	6	3	0	
+0	0	0	R	11	6	7	0		10	7	3	0	
+0	0	0	A	11	6	7	0		8	8	5	0	
+0	0	0	L	11	6	7	0		8	9	5	0	
+0	0	0	S	11	6	7	0		0	10	13	0	
+0	0	0	E	11	6	7	0		10	11	3	0	
+0	0	0	A	11	6	7	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	55	H	12	1	3	1	HED	9	1	4	0	
+0	0	0	E	12	1	3	0		0	2	13	0	
+0	0	0	D	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	6	0		13	6	0	0	
+0	1	56	U	12	7	6	1	UNSHUT	10	7	3	0	
+0	0	0	N	12	7	6	0		8	8	5	0	
+0	0	0	S	12	7	6	0		8	9	5	0	
+0	0	0	H	12	7	6	0		0	10	13	0	
+0	0	0	U	12	7	6	0		10	11	3	0	
+0	0	0	T	12	7	6	0		10	12	3	0	
+31
+1	MAULER	Ruffian
+7	LLC	Cousin of Inc.
+10	TIDYING	Spiffing (up)
+12	SOUPS	Jazzes (up)
+14	MRDEEDS	2002 Adam Sandler title role
+15	OCCAM	Razor handle?
+16	ELI	Lilly of Lilly Pharmaceutical
+17	ORD	California's Fort ___
+19	KSU	The Wildcats of the N.C.A.A.
+20	ARLOS	Guthrie and others
+22	IAGO	Shakespearean character who says "I am not what I am"
+24	STN	Subway stop: Abbr.
+25	ESC	PC way out?
+27	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+30	DMOP	Janitorial tool
+32	AHH	"So nice!"
+33	RHEA	Cassowary's cousin
+34	SSNS	I.R.S. info
+35	LUI	Chabrier's "Le Roi malgr
+36	ELP	Assist, to Eliza Doolittle
+37	SSBY	Is loyal to
+39	ENNIS	Bandleader Skinnay ___
+42	GTE	Communications conglomerate
+44	OSA	Massen of the 1940s film "Tokyo Rose"
+46	OER	"Star-Spangled Banner" preposition
+47	RUNON	Never seem to end
+49	COCAINE	Some contraband
+53	OSSEO	Bone: Prefix
+54	ARALSEA	Noted lake with more than 10% salinity
+55	HED	"___ sow't with nettle-seed": Shak.
+56	UNSHUT	Open
+31
+1	MTM	1970s TV production co.
+2	AIR	Inspired stuff
+3	UDDERNONSENSE	Dairy frivolity?
+4	LYELL	Geology pioneer Sir Charles ___
+5	EIEIO	Farm letters?
+6	RND	Not sq.
+7	LOC	___ cit.
+8	LUCKOTHEIRISH	"Good fortune, informally"
+9	CPAS	Book auditors, for short
+11	GSO	Mil. aide
+12	SODA	It's not good when it's flat
+13	SMU	Mustangs' home, for short
+18	RICHIE	Potsie's pal on "Happy Days"
+20	ATMS	Note passers?
+21	SEALYS	Some mattresses
+23	GRR	Dog's sound
+24	SDS	Vietnam War-era org.
+26	SHU	Moo ___ pork
+28	EELS	Fish lacking ventral fins
+29	EAP	"The Raven" writer's monogram
+31	PSS	They follow signatures
+38	BONO	Pro ___ (like some lawyers' work)
+40	NOCAN	"___ do" ("Not possible")
+41	NEALS	Country singer McCoy and others
+42	GRO	Miracle-___
+43	TUSH	Sitting spot
+45	ACA	Here, in Hidalgo
+48	OED	Wordsmith's ref.
+50	ORU	Educational inits. in Tulsa, Okla.
+51	NEU	Big word in German ads
+52	EAT	Mother's cry at a dinner table

@@ -1,0 +1,229 @@
+grid_13x13_135
+13
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	8	0	
+1	0	0	#	0	3	0	0		1	2	12	0	
+1	0	0	#	0	4	3	0		1	3	6	0	
+0	1	1	K	0	4	3	1	KIN	0	4	3	1	KAY
+0	1	2	I	0	4	3	0		0	5	3	1	ICC
+0	1	3	N	0	4	3	0		0	6	3	1	NEA
+1	0	0	#	0	8	0	0		1	7	8	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	4	W	0	10	3	1	WIM	0	10	12	1	WILBURWRIGHT
+0	1	5	I	0	10	3	0		0	11	3	1	ISE
+0	1	6	M	0	10	3	0		0	12	3	1	MIG
+0	1	7	E	1	0	8	1	EASYACES	1	0	3	1	EAL
+0	1	8	A	1	0	8	0		1	1	8	1	ALAMODES
+0	1	9	S	1	0	8	0		1	2	12	1	SLOANESTREET
+0	1	10	Y	1	0	8	0		1	3	6	1	YESMAN
+0	0	0	A	1	0	8	0		0	4	3	0	
+0	0	0	C	1	0	8	0		0	5	3	0	
+0	0	0	E	1	0	8	0		0	6	3	0	
+0	1	11	S	1	0	8	0		1	7	8	1	STARWARS
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	12	S	1	9	4	1	SISI	1	9	3	1	SDI
+0	0	0	I	1	9	4	0		0	10	12	0	
+0	0	0	S	1	9	4	0		0	11	3	0	
+0	0	0	I	1	9	4	0		0	12	3	0	
+0	1	13	A	2	0	8	1	ALLEYCAT	1	0	3	0	
+0	0	0	L	2	0	8	0		1	1	8	0	
+0	0	0	L	2	0	8	0		1	2	12	0	
+0	0	0	E	2	0	8	0		1	3	6	0	
+0	0	0	Y	2	0	8	0		0	4	3	0	
+0	0	0	C	2	0	8	0		0	5	3	0	
+0	0	0	A	2	0	8	0		0	6	3	0	
+0	0	0	T	2	0	8	0		1	7	8	0	
+1	0	0	#	2	9	4	0		3	8	4	0	
+0	1	14	D	2	9	4	1	DLEG	1	9	3	0	
+0	0	0	L	2	9	4	0		0	10	12	0	
+0	0	0	E	2	9	4	0		0	11	3	0	
+0	0	0	G	2	9	4	0		0	12	3	0	
+0	1	15	L	3	0	4	1	LAOS	1	0	3	0	
+0	0	0	A	3	0	4	0		1	1	8	0	
+0	0	0	O	3	0	4	0		1	2	12	0	
+0	0	0	S	3	0	4	0		1	3	6	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	0	0		4	5	8	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	16	A	3	7	4	1	ARIB	1	7	8	0	
+0	1	17	R	3	7	4	0		3	8	4	1	ROTL
+0	0	0	I	3	7	4	0		1	9	3	0	
+0	0	0	B	3	7	4	0		0	10	12	0	
+1	0	0	#	3	12	0	0		4	11	8	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	18	M	4	1	3	1	MAM	1	1	8	0	
+0	0	0	A	4	1	3	0		1	2	12	0	
+0	0	0	M	4	1	3	0		1	3	6	0	
+1	0	0	#	4	5	4	0		5	4	0	0	
+0	1	19	A	4	5	4	1	ACRO	4	5	8	1	ANISEEDS
+0	1	20	C	4	5	4	0		4	6	5	1	CECIL
+0	0	0	R	4	5	4	0		1	7	8	0	
+0	0	0	O	4	5	4	0		3	8	4	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	21	U	4	10	3	1	UBU	0	10	12	0	
+0	1	22	B	4	10	3	0		4	11	8	1	BRINGOUT
+0	1	23	U	4	10	3	0		4	12	3	1	URN
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	24	O	5	1	3	1	ONA	1	1	8	0	
+0	0	0	N	5	1	3	0		1	2	12	0	
+0	0	0	A	5	1	3	0		1	3	6	0	
+1	0	0	#	5	5	4	0		6	4	4	0	
+0	1	25	N	5	5	4	1	NEWT	4	5	8	0	
+0	0	0	E	5	5	4	0		4	6	5	0	
+0	0	0	W	5	5	4	0		1	7	8	0	
+0	0	0	T	5	5	4	0		3	8	4	0	
+1	0	0	#	5	10	3	0		6	9	6	0	
+0	1	26	R	5	10	3	1	RRR	0	10	12	0	
+0	0	0	R	5	10	3	0		4	11	8	0	
+0	0	0	R	5	10	3	0		4	12	3	0	
+0	1	27	I	6	0	13	1	IDENTICALTWIN	6	0	3	1	ICI
+0	0	0	D	6	0	13	0		1	1	8	0	
+0	0	0	E	6	0	13	0		1	2	12	0	
+0	0	0	N	6	0	13	0		1	3	6	0	
+0	1	28	T	6	0	13	0		6	4	4	1	TAGS
+0	0	0	I	6	0	13	0		4	5	8	0	
+0	0	0	C	6	0	13	0		4	6	5	0	
+0	0	0	A	6	0	13	0		1	7	8	0	
+0	0	0	L	6	0	13	0		3	8	4	0	
+0	1	29	T	6	0	13	0		6	9	6	1	TAPETA
+0	0	0	W	6	0	13	0		0	10	12	0	
+0	0	0	I	6	0	13	0		4	11	8	0	
+0	0	0	N	6	0	13	0		4	12	3	0	
+0	1	30	C	7	0	3	1	CES	6	0	3	0	
+0	0	0	E	7	0	3	0		1	1	8	0	
+0	0	0	S	7	0	3	0		1	2	12	0	
+1	0	0	#	7	4	4	0		8	3	0	0	
+0	1	31	A	7	4	4	1	ASIR	6	4	4	0	
+0	0	0	S	7	4	4	0		4	5	8	0	
+0	0	0	I	7	4	4	0		4	6	5	0	
+0	0	0	R	7	4	4	0		1	7	8	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	32	A	7	9	3	1	ARN	6	9	6	0	
+0	0	0	R	7	9	3	0		0	10	12	0	
+0	0	0	N	7	9	3	0		4	11	8	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	I	8	0	3	1	IST	6	0	3	0	
+0	0	0	S	8	0	3	0		1	1	8	0	
+0	0	0	T	8	0	3	0		1	2	12	0	
+1	0	0	#	8	4	4	0		9	3	3	0	
+0	1	34	G	8	4	4	1	GELS	6	4	4	0	
+0	0	0	E	8	4	4	0		4	5	8	0	
+0	0	0	L	8	4	4	0		4	6	5	0	
+0	0	0	S	8	4	4	0		1	7	8	0	
+1	0	0	#	8	9	3	0		9	8	0	0	
+0	1	35	P	8	9	3	1	PIG	6	9	6	0	
+0	0	0	I	8	9	3	0		0	10	12	0	
+0	0	0	G	8	9	3	0		4	11	8	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	36	R	9	2	4	1	RASE	1	2	12	0	
+0	1	37	A	9	2	4	0		9	3	3	1	AGR
+0	0	0	S	9	2	4	0		6	4	4	0	
+0	0	0	E	9	2	4	0		4	5	8	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	38	E	9	9	4	1	EGOS	6	9	6	0	
+0	0	0	G	9	9	4	0		0	10	12	0	
+0	0	0	O	9	9	4	0		4	11	8	0	
+0	1	39	S	9	9	4	0		9	12	3	1	SSE
+0	1	40	I	10	0	4	1	IBEG	10	0	3	1	IRA
+0	1	41	B	10	0	4	0		10	1	3	1	BUT
+0	0	0	E	10	0	4	0		1	2	12	0	
+0	0	0	G	10	0	4	0		9	3	3	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	42	D	10	5	8	1	DIANTHUS	4	5	8	0	
+0	1	43	I	10	5	8	0		10	6	3	1	IOR
+0	1	44	A	10	5	8	0		10	7	3	1	AYE
+0	1	45	N	10	5	8	0		10	8	3	1	NLQ
+0	0	0	T	10	5	8	0		6	9	6	0	
+0	0	0	H	10	5	8	0		0	10	12	0	
+0	0	0	U	10	5	8	0		4	11	8	0	
+0	0	0	S	10	5	8	0		9	12	3	0	
+0	1	46	R	11	0	4	1	RUER	10	0	3	0	
+0	0	0	U	11	0	4	0		10	1	3	0	
+0	0	0	E	11	0	4	0		1	2	12	0	
+0	0	0	R	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	8	0		12	4	0	0	
+0	1	47	S	11	5	8	1	SOYLATTE	4	5	8	0	
+0	0	0	O	11	5	8	0		10	6	3	0	
+0	0	0	Y	11	5	8	0		10	7	3	0	
+0	0	0	L	11	5	8	0		10	8	3	0	
+0	0	0	A	11	5	8	0		6	9	6	0	
+0	0	0	T	11	5	8	0		0	10	12	0	
+0	0	0	T	11	5	8	0		4	11	8	0	
+0	0	0	E	11	5	8	0		9	12	3	0	
+0	1	48	A	12	0	3	1	ATT	10	0	3	0	
+0	0	0	T	12	0	3	0		10	1	3	0	
+0	0	0	T	12	0	3	0		1	2	12	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	49	R	12	6	3	1	REQ	10	6	3	0	
+0	0	0	E	12	6	3	0		10	7	3	0	
+0	0	0	Q	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	0	0		13	9	0	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	KIN	Cousins
+4	WIM	Director Wenders
+7	EASYACES	Classic 30's-40's radio comedy
+12	SISI	Emphatic assent
+13	ALLEYCAT	Prowling feline
+14	DLEG	Golfer's challenge
+15	LAOS	Part of French Indochina
+16	ARIB	Bust ___ (laugh hard)
+18	MAM	Mother: Var.
+19	ACRO	Prefix with phobia
+21	UBU	"___ Roi" (Alfred Jarry play)
+24	ONA	"Based ___ novel by ..."
+25	NEWT	Pond creature
+26	RRR	School basics, in a way
+27	IDENTICALTWIN	Person who looks exactly like another
+30	CES	These, in Oise
+31	ASIR	Saudi Arabian province
+32	ARN	Prince Valiant's son
+33	IST	Guitar attachment?
+34	GELS	Firms
+35	PIG	Source of blood for blood pudding
+36	RASE	Level, in London
+38	EGOS	Divas have them
+40	IBEG	"___ your pardon!"
+42	DIANTHUS	Plant of the pink family
+46	RUER	One having second thoughts
+47	SOYLATTE	Starbucks offering
+48	ATT	Long-distance letters
+49	REQ	Abbr. in some class descriptions
+27
+1	KAY	Braggart knight of the Round Table
+2	ICC	Former transportation regulation agcy.
+3	NEA	Cultural grant giver, for short
+4	WILBURWRIGHT	Flier at Kitty Hawk
+5	ISE	British verb ending
+6	MIG	"Top Gun" target
+7	EAL	Suffix with ether
+8	ALAMODES	Glossy scarf fabrics
+9	SLOANESTREET	London locale of Prada, Dior, Gucci and Giorgio Armani
+10	YESMAN	Lackey
+11	STARWARS	1977 Best Picture nominee
+12	SDI	U.S. Star Wars program
+17	ROTL	Mideast dry measure
+19	ANISEEDS	Liqueur ingredients
+20	CECIL	Heavy-hitting Fielder
+22	BRINGOUT	Elicit
+23	URN	Spigot holder
+27	ICI	French roll call response
+28	TAGS	Makes "it"
+29	TAPETA	Retina layers
+37	AGR	Farmer's field: Abbr.
+39	SSE	Pilot's heading
+40	IRA	Glass of public radio
+41	BUT	"___ no-o-o ..."
+43	IOR	Super finish?
+44	AYE	Sailor's yes
+45	NLQ	Place to hang a ring

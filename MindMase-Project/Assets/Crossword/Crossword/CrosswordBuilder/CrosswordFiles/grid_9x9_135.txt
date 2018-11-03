@@ -1,0 +1,115 @@
+grid_9x9_135
+9
+0	1	1	C	0	0	3	1	CPI	0	0	3	1	CBY
+0	1	2	P	0	0	3	0		0	1	3	1	PAT
+0	1	3	I	0	0	3	0		0	2	9	1	ILTABARRO
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	C	0	5	3	1	CCL	0	5	3	1	CAB
+0	1	5	C	0	5	3	0		0	6	9	1	CHISELLER
+0	1	6	L	0	5	3	0		0	7	5	1	LOUTS
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	B	1	0	4	1	BALT	0	0	3	0	
+0	0	0	A	1	0	4	0		0	1	3	0	
+0	0	0	L	1	0	4	0		0	2	9	0	
+0	1	8	T	1	0	4	0		1	3	4	1	TETO
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	A	1	5	4	1	AHOY	0	5	3	0	
+0	0	0	H	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	5	0	
+0	1	10	Y	1	5	4	0		1	8	3	1	YMA
+0	1	11	Y	2	0	9	1	YTTERBIUM	0	0	3	0	
+0	0	0	T	2	0	9	0		0	1	3	0	
+0	0	0	T	2	0	9	0		0	2	9	0	
+0	0	0	E	2	0	9	0		1	3	4	0	
+0	1	12	R	2	0	9	0		2	4	5	1	RONIN
+0	0	0	B	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	9	0	
+0	0	0	U	2	0	9	0		0	7	5	0	
+0	0	0	M	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	A	3	2	3	1	ATO	0	2	9	0	
+0	0	0	T	3	2	3	0		1	3	4	0	
+0	0	0	O	3	2	3	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	S	3	6	3	1	STA	0	6	9	0	
+0	0	0	T	3	6	3	0		0	7	5	0	
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	15	E	4	1	7	1	EBONIES	4	1	5	1	ENDOW
+0	0	0	B	4	1	7	0		0	2	9	0	
+0	0	0	O	4	1	7	0		1	3	4	0	
+0	0	0	N	4	1	7	0		2	4	5	0	
+0	1	16	I	4	1	7	0		4	5	4	1	IEAT
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	S	5	0	3	1	SNA	5	0	3	1	SAX
+0	0	0	N	5	0	3	0		4	1	5	0	
+0	0	0	A	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	I	5	4	3	1	IEL	2	4	5	0	
+0	0	0	E	5	4	3	0		4	5	4	0	
+0	0	0	L	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	A	6	0	9	1	ADRENALIN	5	0	3	0	
+0	0	0	D	6	0	9	0		4	1	5	0	
+0	0	0	R	6	0	9	0		0	2	9	0	
+0	1	20	E	6	0	9	0		6	3	3	1	EOE
+0	0	0	N	6	0	9	0		2	4	5	0	
+0	0	0	A	6	0	9	0		4	5	4	0	
+0	0	0	L	6	0	9	0		0	6	9	0	
+0	1	21	I	6	0	9	0		6	7	3	1	IRE
+0	1	22	N	6	0	9	0		6	8	3	1	NAE
+0	1	23	X	7	0	4	1	XORO	5	0	3	0	
+0	0	0	O	7	0	4	0		4	1	5	0	
+0	0	0	R	7	0	4	0		0	2	9	0	
+0	0	0	O	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	T	7	5	4	1	TERA	4	5	4	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	R	7	5	4	0		6	7	3	0	
+0	0	0	A	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	W	8	1	3	1	WOE	4	1	5	0	
+0	0	0	O	8	1	3	0		0	2	9	0	
+0	0	0	E	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	R	8	6	3	1	REE	0	6	9	0	
+0	0	0	E	8	6	3	0		6	7	3	0	
+0	0	0	E	8	6	3	0		6	8	3	0	
+15
+1	CPI	Economic stat.
+4	CCL	250, in old Rome
+7	BALT	Riga resident, e.g.
+9	AHOY	Deck call
+11	YTTERBIUM	One of the rare earths
+13	ATO	___ Z (the gamut)
+14	STA	Times Sq., e.g., on the IRT
+15	EBONIES	Piano's 36, familiarly
+17	SNA	Dundee precip
+18	IEL	Drive forward
+19	ADRENALIN	Epinephrine trademark
+23	XORO	Tic-tac-toe choice
+24	TERA	Prefix with byte
+25	WOE	"___ is me!"
+26	REE	Riddle-me-___
+15
+1	CBY	Intimate
+2	PAT	Single serving of butter
+3	ILTABARRO	1918 Met premiere
+4	CAB	Trucker's place
+5	CHISELLER	Petty crook
+6	LOUTS	Lummoxes
+8	TETO	Fasten on
+10	YMA	First name in exotica music
+12	RONIN	1998 De Niro film
+15	ENDOW	Help set up chairs for?
+16	IEAT	"I earn that ___": "As You Like It"
+17	SAX	Lisa Simpson plays it
+20	EOE	Job ad abbr.
+21	IRE	E.U. member
+22	NAE	Highlander's negative

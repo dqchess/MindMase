@@ -1,0 +1,115 @@
+grid_9x9_151
+9
+0	1	1	D	0	0	3	1	DEO	0	0	3	1	DTS
+0	1	2	E	0	0	3	0		0	1	4	1	EONS
+0	1	3	O	0	0	3	0		0	2	4	1	OMOO
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	4	A	0	6	3	1	AGO	0	6	4	1	ATLI
+0	1	5	G	0	6	3	0		0	7	4	1	GAEA
+0	1	6	O	0	6	3	0		0	8	3	1	ORD
+0	1	7	T	1	0	3	1	TOM	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	4	0	
+0	0	0	M	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	N	1	4	5	1	NSTAR	1	4	7	1	NEAREST
+0	1	9	S	1	4	5	0		1	5	5	1	SERBS
+0	0	0	T	1	4	5	0		0	6	4	0	
+0	0	0	A	1	4	5	0		0	7	4	0	
+0	0	0	R	1	4	5	0		0	8	3	0	
+0	1	10	S	2	0	3	1	SNO	0	0	3	0	
+0	0	0	N	2	0	3	0		0	1	4	0	
+0	0	0	O	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	5	0		3	3	5	0	
+0	1	11	E	2	4	5	1	EELED	1	4	7	0	
+0	0	0	E	2	4	5	0		1	5	5	0	
+0	0	0	L	2	4	5	0		0	6	4	0	
+0	0	0	E	2	4	5	0		0	7	4	0	
+0	0	0	D	2	4	5	0		0	8	3	0	
+1	0	0	#	3	1	7	0		4	0	0	0	
+0	1	12	S	3	1	7	1	SOLARIA	0	1	4	0	
+0	0	0	O	3	1	7	0		0	2	4	0	
+0	1	13	L	3	1	7	0		3	3	5	1	LOSIN
+0	0	0	A	3	1	7	0		1	4	7	0	
+0	0	0	R	3	1	7	0		1	5	5	0	
+0	0	0	I	3	1	7	0		0	6	4	0	
+0	0	0	A	3	1	7	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	O	4	3	3	1	ORB	3	3	5	0	
+0	0	0	R	4	3	3	0		1	4	7	0	
+0	0	0	B	4	3	3	0		1	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	7	0		6	0	3	0	
+0	1	15	R	5	1	7	1	RISESTO	5	1	4	1	RUNA
+0	1	16	I	5	1	7	0		5	2	4	1	INEZ
+0	0	0	S	5	1	7	0		3	3	5	0	
+0	0	0	E	5	1	7	0		1	4	7	0	
+0	0	0	S	5	1	7	0		1	5	5	0	
+0	1	17	T	5	1	7	0		5	6	4	1	TRON
+0	1	18	O	5	1	7	0		5	7	4	1	ONKP
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	T	6	0	5	1	TUNIS	6	0	3	1	TAT
+0	0	0	U	6	0	5	0		5	1	4	0	
+0	0	0	N	6	0	5	0		5	2	4	0	
+0	0	0	I	6	0	5	0		3	3	5	0	
+0	0	0	S	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	20	R	6	6	3	1	RND	5	6	4	0	
+0	0	0	N	6	6	3	0		5	7	4	0	
+0	1	21	D	6	6	3	0		6	8	3	1	DER
+0	1	22	A	7	0	5	1	ANENT	6	0	3	0	
+0	0	0	N	7	0	5	0		5	1	4	0	
+0	0	0	E	7	0	5	0		5	2	4	0	
+0	0	0	N	7	0	5	0		3	3	5	0	
+0	0	0	T	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	O	7	6	3	1	OKE	5	6	4	0	
+0	0	0	K	7	6	3	0		5	7	4	0	
+0	0	0	E	7	6	3	0		6	8	3	0	
+0	1	24	T	8	0	3	1	TAZ	6	0	3	0	
+0	0	0	A	8	0	3	0		5	1	4	0	
+0	0	0	Z	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	N	8	6	3	1	NPR	5	6	4	0	
+0	0	0	P	8	6	3	0		5	7	4	0	
+0	0	0	R	8	6	3	0		6	8	3	0	
+15
+1	DEO	"___ gratias"
+4	AGO	Months ___
+7	TOM	The piper's son
+8	NSTAR	Cool, very red celestial body
+10	SNO	___-Cat (off-road vehicle)
+11	EELED	Fished for congers
+12	SOLARIA	Tanning places
+14	ORB	Christmas bulb
+15	RISESTO	Meets, as a challenge
+19	TUNIS	Gulf of ___ (arm of the Mediterranean)
+20	RND	Not sq.
+22	ANENT	In regard to
+23	OKE	Fine and dandy, in old slang
+24	TAZ	Looney Tunes nickname
+25	NPR	Popular news source, briefly
+15
+1	DTS	Juicer's problem
+2	EONS	Long stretches
+3	OMOO	Melville work
+4	ATLI	Mythical Hun king
+5	GAEA	Greek earth goddess
+6	ORD	JFK : New York :: ___ : Chicago
+8	NEAREST	Like a relative notified in an emergency, maybe
+9	SERBS	Most Yugoslavs
+13	LOSIN	"___ It" (1983 Tom Cruise film)
+15	RUNA	___ close second
+16	INEZ	"Mockingbird" singer Foxx, 1963
+17	TRON	Beta follower
+18	ONKP	Making a mess in the army?
+19	TAT	Feline, to Tweety
+21	DER	Article in the German constitution

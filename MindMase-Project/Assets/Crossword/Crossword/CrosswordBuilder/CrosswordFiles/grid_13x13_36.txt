@@ -1,0 +1,235 @@
+grid_13x13_36
+13
+0	1	1	M	0	0	3	1	MER	0	0	3	1	MCC
+0	1	2	E	0	0	3	0		0	1	3	1	ERA
+0	1	3	R	0	0	3	0		0	2	13	1	ROYAABERTHALL
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	I	0	6	3	1	ICH	0	6	3	1	ITI
+0	1	5	C	0	6	3	0		0	7	3	1	CVS
+0	1	6	H	0	6	3	0		0	8	3	1	HAL
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	C	0	10	3	1	COP	0	10	13	1	CENSUSEXTRACT
+0	1	8	O	0	10	3	0		0	11	5	1	ORDIE
+0	1	9	P	0	10	3	0		0	12	3	1	PRS
+0	1	10	C	1	0	5	1	CROCE	0	0	3	0	
+0	0	0	R	1	0	5	0		0	1	3	0	
+0	0	0	O	1	0	5	0		0	2	13	0	
+0	1	11	C	1	0	5	0		1	3	3	1	CMI
+0	1	12	E	1	0	5	0		1	4	3	1	EAR
+1	0	0	#	1	6	3	0		2	5	7	0	
+0	1	13	T	1	6	3	1	TVA	0	6	3	0	
+0	0	0	V	1	6	3	0		0	7	3	0	
+0	0	0	A	1	6	3	0		0	8	3	0	
+1	0	0	#	1	10	3	0		2	9	4	0	
+0	1	14	E	1	10	3	1	ERR	0	10	13	0	
+0	0	0	R	1	10	3	0		0	11	5	0	
+0	0	0	R	1	10	3	0		0	12	3	0	
+0	1	15	C	2	0	13	1	CAYMANISLANDS	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	3	0	
+0	0	0	Y	2	0	13	0		0	2	13	0	
+0	0	0	M	2	0	13	0		1	3	3	0	
+0	0	0	A	2	0	13	0		1	4	3	0	
+0	1	16	N	2	0	13	0		2	5	7	1	NETSCPE
+0	0	0	I	2	0	13	0		0	6	3	0	
+0	0	0	S	2	0	13	0		0	7	3	0	
+0	0	0	L	2	0	13	0		0	8	3	0	
+0	1	17	A	2	0	13	0		2	9	4	1	ACCT
+0	0	0	N	2	0	13	0		0	10	13	0	
+0	0	0	D	2	0	13	0		0	11	5	0	
+0	0	0	S	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	18	A	3	2	4	1	AIRE	0	2	13	0	
+0	0	0	I	3	2	4	0		1	3	3	0	
+0	0	0	R	3	2	4	0		1	4	3	0	
+0	0	0	E	3	2	4	0		2	5	7	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	19	C	3	9	3	1	CSI	2	9	4	0	
+0	0	0	S	3	9	3	0		0	10	13	0	
+0	0	0	I	3	9	3	0		0	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	20	T	4	0	3	1	THA	4	0	3	1	TSR
+0	1	21	H	4	0	3	0		4	1	3	1	HOH
+0	0	0	A	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	22	T	4	5	3	1	TIN	2	5	7	0	
+0	1	23	I	4	5	3	0		4	6	5	1	ICKES
+0	1	24	N	4	5	3	0		4	7	7	1	NOENTRY
+1	0	0	#	4	9	3	0		5	8	3	0	
+0	1	25	C	4	9	3	1	CUE	2	9	4	0	
+0	0	0	U	4	9	3	0		0	10	13	0	
+0	0	0	E	4	9	3	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	26	S	5	0	3	1	SOB	4	0	3	0	
+0	0	0	O	5	0	3	0		4	1	3	0	
+0	0	0	B	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	7	0		6	3	0	0	
+0	1	27	E	5	4	7	1	ESCORTS	5	4	3	1	EMO
+0	0	0	S	5	4	7	0		2	5	7	0	
+0	0	0	C	5	4	7	0		4	6	5	0	
+0	0	0	O	5	4	7	0		4	7	7	0	
+0	1	28	R	5	4	7	0		5	8	3	1	RES
+0	0	0	T	5	4	7	0		2	9	4	0	
+0	0	0	S	5	4	7	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	R	6	0	3	1	RHE	4	0	3	0	
+0	0	0	H	6	0	3	0		4	1	3	0	
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	4	0	
+0	1	30	M	6	4	5	1	MCKEE	5	4	3	0	
+0	0	0	C	6	4	5	0		2	5	7	0	
+0	0	0	K	6	4	5	0		4	6	5	0	
+0	0	0	E	6	4	5	0		4	7	7	0	
+0	0	0	E	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	E	6	10	3	1	EMI	0	10	13	0	
+0	1	32	M	6	10	3	0		6	11	3	1	MOR
+0	1	33	I	6	10	3	0		6	12	3	1	IOU
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	7	0		8	1	5	0	
+0	1	34	R	7	2	7	1	REOPENS	0	2	13	0	
+0	1	35	E	7	2	7	0		7	3	4	1	ETON
+0	0	0	O	7	2	7	0		5	4	3	0	
+0	0	0	P	7	2	7	0		2	5	7	0	
+0	0	0	E	7	2	7	0		4	6	5	0	
+0	0	0	N	7	2	7	0		4	7	7	0	
+0	0	0	S	7	2	7	0		5	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	36	X	7	10	3	1	XOO	0	10	13	0	
+0	0	0	O	7	10	3	0		6	11	3	0	
+0	0	0	O	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	37	T	8	1	3	1	TTT	8	1	5	1	TOLLS
+0	0	0	T	8	1	3	0		0	2	13	0	
+0	0	0	T	8	1	3	0		7	3	4	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	38	E	8	5	3	1	EST	2	5	7	0	
+0	0	0	S	8	5	3	0		4	6	5	0	
+0	0	0	T	8	5	3	0		4	7	7	0	
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	39	T	8	10	3	1	TRU	0	10	13	0	
+0	0	0	R	8	10	3	0		6	11	3	0	
+0	0	0	U	8	10	3	0		6	12	3	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	40	O	9	1	3	1	OHO	8	1	5	0	
+0	0	0	H	9	1	3	0		0	2	13	0	
+0	0	0	O	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	41	R	9	7	4	1	RAER	4	7	7	0	
+0	1	42	A	9	7	4	0		9	8	3	1	ABE
+0	1	43	E	9	7	4	0		9	9	3	1	ELM
+0	0	0	R	9	7	4	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	B	10	0	13	1	BLANKETYBLANK	10	0	3	1	BEY
+0	0	0	L	10	0	13	0		8	1	5	0	
+0	0	0	A	10	0	13	0		0	2	13	0	
+0	0	0	N	10	0	13	0		7	3	4	0	
+0	1	45	K	10	0	13	0		10	4	3	1	KNX
+0	1	46	E	10	0	13	0		10	5	3	1	EAL
+0	1	47	T	10	0	13	0		10	6	3	1	TGI
+0	0	0	Y	10	0	13	0		4	7	7	0	
+0	0	0	B	10	0	13	0		9	8	3	0	
+0	0	0	L	10	0	13	0		9	9	3	0	
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	1	48	N	10	0	13	0		10	11	3	1	NEN
+0	1	49	K	10	0	13	0		10	12	3	1	KEN
+0	1	50	E	11	0	3	1	ELL	10	0	3	0	
+0	0	0	L	11	0	3	0		8	1	5	0	
+0	0	0	L	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	3	0		12	3	0	0	
+0	1	51	N	11	4	3	1	NAG	10	4	3	0	
+0	0	0	A	11	4	3	0		10	5	3	0	
+0	0	0	G	11	4	3	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	E	11	8	5	1	EMCEE	9	8	3	0	
+0	0	0	M	11	8	5	0		9	9	3	0	
+0	0	0	C	11	8	5	0		0	10	13	0	
+0	0	0	E	11	8	5	0		10	11	3	0	
+0	0	0	E	11	8	5	0		10	12	3	0	
+0	1	53	Y	12	0	3	1	YSL	10	0	3	0	
+0	0	0	S	12	0	3	0		8	1	5	0	
+0	0	0	L	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	54	X	12	4	3	1	XLI	10	4	3	0	
+0	0	0	L	12	4	3	0		10	5	3	0	
+0	0	0	I	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	T	12	10	3	1	TNN	0	10	13	0	
+0	0	0	N	12	10	3	0		10	11	3	0	
+0	0	0	N	12	10	3	0		10	12	3	0	
+31
+1	MER	Eau naturelle?
+4	ICH	I, in Innsbruck
+7	COP	Radar gun wielder
+10	CROCE	"You Don't Mess Around With Jim" singer, 1972
+13	TVA	Wilson Dam org.
+14	ERR	Slip
+15	CAYMANISLANDS	George Town is its capital
+18	AIRE	Suffix with billion
+19	CSI	Drama set in Las Vegas
+20	THA	Article in hip-hop
+22	TIN	Old can material
+25	CUE	Shuffleboard stick
+26	SOB	Boo-hoo
+27	ESCORTS	Ones providing arms
+29	RHE	Baseball line score letters
+30	MCKEE	Lonette of "The Cotton Club" and "Malcolm X"
+31	EMI	Old record label
+34	REOPENS	Gets back in business
+36	XOO	Losing tic-tac-toe row
+37	TTT	Fort Smith-to-Little Rock dir.
+38	EST	Wilfred Owen poem "Dulce et Decorum ___"
+39	TRU	Capote nickname
+40	OHO	"Caught you!"
+41	RAER	Critic, at times
+44	BLANKETYBLANK	Darned
+50	ELL	Pipe bend
+51	NAG	Badger
+52	EMCEE	Toaster, or roaster
+53	YSL	Couturier initials
+54	XLI	Year Claudius I became emperor
+55	TNN	Viacom-owned cable channel
+31
+1	MCC	Turn-of-the-century year
+2	ERA	Former polit. cause
+3	ROYAABERTHALL	London landmark
+4	ITI	"Is ___?"
+5	CVS	Walgreens rival
+6	HAL	"Prince Valiant" cartoonist Foster
+7	CENSUSEXTRACT	Population figure?
+8	ORDIE	"Live Free ___" (New Hampshire motto)
+9	PRS	Duos: Abbr.
+11	CMI	Third year in the reign of Edward the Elder
+12	EAR	Corn order
+16	NETSCPE	Former big name in browsers
+17	ACCT	Thing pulled up in a bank: Abbr.
+20	TSR	Game co. that originated Dungeons & Dragons
+21	HOH	Water, chemically
+23	ICKES	Clinton staffer Harold
+24	NOENTRY	"Private - keep out"
+27	EMO	Philips of stand-up fame
+28	RES	Hi-___ graphics
+32	MOR	Commercial suffix with 
+33	IOU	Short person's slip?
+35	ETON	Town on the Thames
+37	TOLLS	Turnpike tabs
+42	ABE	Face on a fiver
+43	ELM	Hard wood
+44	BEY	Old Ottoman governor
+45	KNX	1942-45 stats disseminator: Abbr.
+46	EAL	Suffix with ether
+47	TGI	___ Friday's (restaurant chain)
+48	NEN	Former Giant Robb ___
+49	KEN	Football Hall-of-Famer Strong

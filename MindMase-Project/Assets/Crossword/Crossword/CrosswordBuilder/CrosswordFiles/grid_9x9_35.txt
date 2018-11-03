@@ -1,0 +1,117 @@
+grid_9x9_35
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	3	0	
+0	1	1	D	0	2	3	1	DCI	0	2	4	1	DYED
+0	1	2	C	0	2	3	0		0	3	3	1	CBS
+0	1	3	I	0	2	3	0		0	4	9	1	IREMEMBER
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	B	0	6	3	1	BUG	0	6	4	1	BLVT
+0	1	5	U	0	6	3	0		0	7	4	1	USES
+0	1	6	G	0	6	3	0		0	8	3	1	GTD
+0	1	7	S	1	0	5	1	SAYBR	1	0	3	1	SPR
+0	1	8	A	1	0	5	0		1	1	3	1	ARB
+0	0	0	Y	1	0	5	0		0	2	4	0	
+0	0	0	B	1	0	5	0		0	3	3	0	
+0	0	0	R	1	0	5	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	L	1	6	3	1	LST	0	6	4	0	
+0	0	0	S	1	6	3	0		0	7	4	0	
+0	0	0	T	1	6	3	0		0	8	3	0	
+0	1	10	P	2	0	9	1	PRESERVED	1	0	3	0	
+0	0	0	R	2	0	9	0		1	1	3	0	
+0	0	0	E	2	0	9	0		0	2	4	0	
+0	0	0	S	2	0	9	0		0	3	3	0	
+0	0	0	E	2	0	9	0		0	4	9	0	
+0	1	11	R	2	0	9	0		2	5	3	1	ROB
+0	0	0	V	2	0	9	0		0	6	4	0	
+0	0	0	E	2	0	9	0		0	7	4	0	
+0	0	0	D	2	0	9	0		0	8	3	0	
+0	1	12	R	3	0	3	1	RBD	1	0	3	0	
+0	0	0	B	3	0	3	0		1	1	3	0	
+0	0	0	D	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	M	3	4	4	1	MOTS	0	4	9	0	
+0	0	0	O	3	4	4	0		2	5	3	0	
+0	0	0	T	3	4	4	0		0	6	4	0	
+0	0	0	S	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	J	4	3	3	1	JEB	4	3	3	1	JOE
+0	0	0	E	4	3	3	0		0	4	9	0	
+0	0	0	B	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	3	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	B	5	1	4	1	BOOM	5	1	4	1	BADS
+0	1	16	O	5	1	4	0		5	2	4	1	OSSA
+0	0	0	O	5	1	4	0		4	3	3	0	
+0	0	0	M	5	1	4	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	S	5	6	3	1	SAE	5	6	4	1	SLRS
+0	1	18	A	5	6	3	0		5	7	3	1	ALT
+0	1	19	E	5	6	3	0		5	8	3	1	EDO
+0	1	20	B	6	0	9	1	BASEBALLD	6	0	3	1	BBB
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	S	6	0	9	0		5	2	4	0	
+0	0	0	E	6	0	9	0		4	3	3	0	
+0	0	0	B	6	0	9	0		0	4	9	0	
+0	1	21	A	6	0	9	0		6	5	3	1	AAP
+0	0	0	L	6	0	9	0		5	6	4	0	
+0	0	0	L	6	0	9	0		5	7	3	0	
+0	0	0	D	6	0	9	0		5	8	3	0	
+0	1	22	B	7	0	3	1	BDS	6	0	3	0	
+0	0	0	D	7	0	3	0		5	1	4	0	
+0	0	0	S	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	E	7	4	5	1	EARTO	0	4	9	0	
+0	0	0	A	7	4	5	0		6	5	3	0	
+0	0	0	R	7	4	5	0		5	6	4	0	
+0	0	0	T	7	4	5	0		5	7	3	0	
+0	0	0	O	7	4	5	0		5	8	3	0	
+0	1	24	B	8	0	3	1	BSA	6	0	3	0	
+0	0	0	S	8	0	3	0		5	1	4	0	
+0	0	0	A	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	25	R	8	4	3	1	RPS	0	4	9	0	
+0	0	0	P	8	4	3	0		6	5	3	0	
+0	0	0	S	8	4	3	0		5	6	4	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	DCI	Early seventh-century year
+4	BUG	PC glitch
+7	SAYBR	Old ___, Conn. [black]
+9	LST	W.W. II vessel: Abbr.
+10	PRESERVED	Kept
+12	RBD	Hosp. areas
+13	MOTS	Zingers
+14	JEB	W's brother
+15	BOOM	Ka-blam!
+17	SAE	R.S.V.P. facilitator: Abbr.
+20	BASEBALLD	Home setting
+22	BDS	What directors sit on: Abbr.
+23	EARTO	Keep an ___ the ground
+24	BSA	Badge distributor: Abbr.
+25	RPS	Spin meas.
+17
+1	DYED	Like some wool
+2	CBS	"Rescue 911" network
+3	IREMEMBER	"Time was ..."
+4	BLVT	"Like that would really happen!": 2 wds.
+5	USES	Puts to work
+6	GTD	Ensured: Abbr.
+7	SPR	Abbr. in a resort's name
+8	ARB	Wall St. worker
+11	ROB	Swindle
+14	JOE	Average guy
+15	BADS	Minstrel songs
+16	OSSA	Bones, in anatomy
+17	SLRS	Some cameras, for short
+18	ALT	Hgt.
+19	EDO	Samurai's home
+20	BBB	Grp. battling consumer fraud
+21	AAP	Store chain since 1859

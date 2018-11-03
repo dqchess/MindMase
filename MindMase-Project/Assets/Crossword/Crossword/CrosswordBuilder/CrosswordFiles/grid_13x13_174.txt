@@ -1,0 +1,233 @@
+grid_13x13_174
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	P	0	1	3	1	PNC	0	1	7	1	PANJABI
+0	1	2	N	0	1	3	0		0	2	7	1	NOTATES
+0	1	3	C	0	1	3	0		0	3	3	1	CNS
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	S	0	6	3	1	SLC	0	6	4	1	SSET
+0	1	5	L	0	6	3	0		0	7	3	1	LTR
+0	1	6	C	0	6	3	0		0	8	6	1	CRITIC
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	A	0	10	3	1	AWL	0	10	5	1	ALEXA
+0	1	8	W	0	10	3	0		0	11	5	1	WISER
+0	1	9	L	0	10	3	0		0	12	4	1	LASS
+1	0	0	#	1	1	3	0		2	0	0	0	
+0	1	10	A	1	1	3	1	AON	0	1	7	0	
+0	0	0	O	1	1	3	0		0	2	7	0	
+0	0	0	N	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	11	E	1	5	4	1	ESTR	1	5	3	1	EEC
+0	0	0	S	1	5	4	0		0	6	4	0	
+0	0	0	T	1	5	4	0		0	7	3	0	
+0	0	0	R	1	5	4	0		0	8	6	0	
+1	0	0	#	1	10	3	0		2	9	7	0	
+0	1	12	L	1	10	3	1	LIA	0	10	5	0	
+0	0	0	I	1	10	3	0		0	11	5	0	
+0	0	0	A	1	10	3	0		0	12	4	0	
+1	0	0	#	2	1	3	0		3	0	3	0	
+0	1	13	N	2	1	3	1	NTS	0	1	7	0	
+0	0	0	T	2	1	3	0		0	2	7	0	
+0	0	0	S	2	1	3	0		0	3	3	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	14	E	2	5	8	1	EERINESS	1	5	3	0	
+0	0	0	E	2	5	8	0		0	6	4	0	
+0	0	0	R	2	5	8	0		0	7	3	0	
+0	0	0	I	2	5	8	0		0	8	6	0	
+0	1	15	N	2	5	8	0		2	9	7	1	NATHANS
+0	0	0	E	2	5	8	0		0	10	5	0	
+0	0	0	S	2	5	8	0		0	11	5	0	
+0	0	0	S	2	5	8	0		0	12	4	0	
+0	1	16	A	3	0	3	1	AJA	3	0	3	1	ANU
+0	0	0	J	3	0	3	0		0	1	7	0	
+0	0	0	A	3	0	3	0		0	2	7	0	
+1	0	0	#	3	4	3	0		4	3	7	0	
+0	1	17	E	3	4	3	1	ECT	3	4	3	1	ELM
+0	0	0	C	3	4	3	0		1	5	3	0	
+0	0	0	T	3	4	3	0		0	6	4	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	18	T	3	8	5	1	TAXES	0	8	6	0	
+0	0	0	A	3	8	5	0		2	9	7	0	
+0	0	0	X	3	8	5	0		0	10	5	0	
+0	0	0	E	3	8	5	0		0	11	5	0	
+0	0	0	S	3	8	5	0		0	12	4	0	
+0	1	19	N	4	0	5	1	NATAL	3	0	3	0	
+0	0	0	A	4	0	5	0		0	1	7	0	
+0	0	0	T	4	0	5	0		0	2	7	0	
+0	1	20	A	4	0	5	0		4	3	7	1	ARISING
+0	0	0	L	4	0	5	0		3	4	3	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	4	0		5	7	3	0	
+0	1	21	I	4	8	4	1	ITAR	0	8	6	0	
+0	0	0	T	4	8	4	0		2	9	7	0	
+0	0	0	A	4	8	4	0		0	10	5	0	
+0	0	0	R	4	8	4	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	22	U	5	0	10	1	UBERMENSCH	3	0	3	0	
+0	0	0	B	5	0	10	0		0	1	7	0	
+0	0	0	E	5	0	10	0		0	2	7	0	
+0	0	0	R	5	0	10	0		4	3	7	0	
+0	0	0	M	5	0	10	0		3	4	3	0	
+0	1	23	E	5	0	10	0		5	5	3	1	EVE
+0	1	24	N	5	0	10	0		5	6	3	1	NAP
+0	1	25	S	5	0	10	0		5	7	3	1	SSH
+0	0	0	C	5	0	10	0		0	8	6	0	
+0	0	0	H	5	0	10	0		2	9	7	0	
+1	0	0	#	5	11	0	0		6	10	7	0	
+1	0	0	#	5	12	0	0		6	11	7	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	26	I	6	1	3	1	ISI	0	1	7	0	
+0	0	0	S	6	1	3	0		0	2	7	0	
+0	0	0	I	6	1	3	0		4	3	7	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	27	V	6	5	3	1	VAS	5	5	3	0	
+0	0	0	A	6	5	3	0		5	6	3	0	
+0	0	0	S	6	5	3	0		5	7	3	0	
+1	0	0	#	6	9	3	0		7	8	3	0	
+0	1	28	A	6	9	3	1	ADO	2	9	7	0	
+0	1	29	D	6	9	3	0		6	10	7	1	DROVEAT
+0	1	30	O	6	9	3	0		6	11	7	1	OEDIPUS
+1	0	0	#	6	13	0	0		7	12	3	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	0	0		8	1	5	0	
+1	0	0	#	7	3	10	0		8	2	5	0	
+0	1	31	S	7	3	10	1	STEPHENREA	4	3	7	0	
+0	1	32	T	7	3	10	0		7	4	6	1	TRAILS
+0	0	0	E	7	3	10	0		5	5	3	0	
+0	0	0	P	7	3	10	0		5	6	3	0	
+0	0	0	H	7	3	10	0		5	7	3	0	
+0	1	33	E	7	3	10	0		7	8	3	1	EAN
+0	0	0	N	7	3	10	0		2	9	7	0	
+0	0	0	R	7	3	10	0		6	10	7	0	
+0	0	0	E	7	3	10	0		6	11	7	0	
+0	1	34	A	7	3	10	0		7	12	3	1	ADE
+1	0	0	#	8	1	4	0		9	0	4	0	
+0	1	35	W	8	1	4	1	WEIR	8	1	5	1	WIRES
+0	1	36	E	8	1	4	0		8	2	5	1	ERITU
+0	0	0	I	8	1	4	0		4	3	7	0	
+0	0	0	R	8	1	4	0		7	4	6	0	
+1	0	0	#	8	6	0	0		9	5	0	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	5	0		9	7	3	0	
+0	1	37	A	8	8	5	1	ASODD	7	8	3	0	
+0	0	0	S	8	8	5	0		2	9	7	0	
+0	0	0	O	8	8	5	0		6	10	7	0	
+0	0	0	D	8	8	5	0		6	11	7	0	
+0	0	0	D	8	8	5	0		7	12	3	0	
+0	1	38	V	9	0	5	1	VIRNA	9	0	4	1	VOGT
+0	0	0	I	9	0	5	0		8	1	5	0	
+0	0	0	R	9	0	5	0		8	2	5	0	
+0	0	0	N	9	0	5	0		4	3	7	0	
+0	0	0	A	9	0	5	0		7	4	6	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	39	N	9	6	3	1	NAN	9	6	4	1	NATS
+0	1	40	A	9	6	3	0		9	7	3	1	ALA
+0	0	0	N	9	6	3	0		7	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	41	V	9	10	3	1	VIE	6	10	7	0	
+0	0	0	I	9	10	3	0		6	11	7	0	
+0	0	0	E	9	10	3	0		7	12	3	0	
+0	1	42	O	10	0	8	1	ORIGINAL	9	0	4	0	
+0	0	0	R	10	0	8	0		8	1	5	0	
+0	0	0	I	10	0	8	0		8	2	5	0	
+0	0	0	G	10	0	8	0		4	3	7	0	
+0	0	0	I	10	0	8	0		7	4	6	0	
+0	1	43	N	10	0	8	0		10	5	3	1	NEC
+0	0	0	A	10	0	8	0		9	6	4	0	
+0	0	0	L	10	0	8	0		9	7	3	0	
+1	0	0	#	10	9	3	0		11	8	0	0	
+0	1	44	Y	10	9	3	1	YEP	10	9	3	1	YAR
+0	0	0	E	10	9	3	0		6	10	7	0	
+0	0	0	P	10	9	3	0		6	11	7	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+0	1	45	G	11	0	3	1	GET	9	0	4	0	
+0	0	0	E	11	0	3	0		8	1	5	0	
+0	0	0	T	11	0	3	0		8	2	5	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	46	L	11	4	4	1	LETA	7	4	6	0	
+0	0	0	E	11	4	4	0		10	5	3	0	
+0	0	0	T	11	4	4	0		9	6	4	0	
+0	0	0	A	11	4	4	0		9	7	3	0	
+1	0	0	#	11	9	3	0		12	8	0	0	
+0	1	47	A	11	9	3	1	AAU	10	9	3	0	
+0	0	0	A	11	9	3	0		6	10	7	0	
+0	0	0	U	11	9	3	0		6	11	7	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	48	T	12	0	3	1	TSU	9	0	4	0	
+0	0	0	S	12	0	3	0		8	1	5	0	
+0	0	0	U	12	0	3	0		8	2	5	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	49	S	12	4	3	1	SCS	7	4	6	0	
+0	0	0	C	12	4	3	0		10	5	3	0	
+0	0	0	S	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	50	R	12	9	3	1	RTS	10	9	3	0	
+0	0	0	T	12	9	3	0		6	10	7	0	
+0	0	0	S	12	9	3	0		6	11	7	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	PNC	___ Park, home for the Pittsburgh Pirates
+4	SLC	2002 Olympics host: Abbr.
+7	AWL	One might find it boring
+10	AON	___ Center, second-tallest building in Chicago
+11	ESTR	Old Testament book
+12	LIA	___ Fail (Irish coronation stone)
+13	NTS	Some Windows systems
+14	EERINESS	Creepy feeling
+16	AJA	1977 double-platinum album by Steely Dan
+17	ECT	Outer: Prefix
+18	TAXES	Colonists' annoyances
+19	NATAL	Concerning one's coming out?
+21	ITAR	___-Tass (Russian news agency)
+22	UBERMENSCH	Superior being
+26	ISI	"Whatever it ___ don't care!"
+27	VAS	___ deferens
+28	ADO	___ Annie, of "Oklahoma!"
+31	STEPHENREA	Loser to Al Pacino for Best Actor of 1992
+35	WEIR	Peter who directed "The Truman Show"
+37	ASODD	"Doesn't this strike you ___?"
+38	VIRNA	Actress Lisi
+39	NAN	Asian flatbread
+41	VIE	Struggle
+42	ORIGINAL	One of a kind
+44	YEP	Oater affirmative
+45	GET	Dig
+46	LETA	"___ joy keep you" (start of a Sandburg poem)
+47	AAU	Org. with the annual Junior Olympic Games
+48	TSU	Nashville inst.
+49	SCS	Barges
+50	RTS	Some football linemen: Abbr.
+29
+1	PANJABI	Most-spoken language in Pakistan
+2	NOTATES	Writes between the lines?
+3	CNS	Brain and spinal cord: Abbr.
+4	SSET	Fixed at an acute angle
+5	LTR	P.O. box item
+6	CRITIC	Role played by everyone, it's said
+7	ALEXA	Vega of "Spy Kids"
+8	WISER	More likely to mouth off
+9	LASS	Bonny girl
+11	EEC	U.S. trading partner, formerly
+15	NATHANS	Famous name in hot dogs
+16	ANU	Akkadian god of heaven
+17	ELM	Shade provider
+20	ARISING	Stemming
+23	EVE	Adam's mate
+24	NAP	Day break
+25	SSH	Library sound: Var.
+29	DROVEAT	Intended to convey
+30	OEDIPUS	Antigone's father
+32	TRAILS	Ranger's knowledge
+33	EAN	Suffix with Mozart
+34	ADE	Sidewalk stand drink
+35	WIRES	Electrical lines
+36	ERITU	"A Masked Ball" aria
+38	VOGT	Science fiction author A. E. van ___
+39	NATS	Insurrectionist Turner and others
+40	ALA	___ vapeur (steamed)
+43	NEC	Japanese computer inits.
+44	YAR	Yevtushenko's "Babi ___"

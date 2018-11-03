@@ -1,0 +1,167 @@
+grid_11x11_166
+11
+0	1	1	N	0	0	3	1	NIE	0	0	3	1	NEB
+0	1	2	I	0	0	3	0		0	1	4	1	IGET
+0	1	3	E	0	0	3	0		0	2	11	1	EIGHTMENOUT
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	Y	0	6	3	1	YAT	0	6	4	1	YAHI
+0	1	5	A	0	6	3	0		0	7	3	1	AID
+0	1	6	T	0	6	3	0		0	8	11	1	TRANSPARENT
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	E	1	0	4	1	EGIS	0	0	3	0	
+0	0	0	G	1	0	4	0		0	1	4	0	
+0	0	0	I	1	0	4	0		0	2	11	0	
+0	1	8	S	1	0	4	0		1	3	4	1	SSET
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	9	H	1	5	5	1	HAIRS	1	5	9	1	HOBNAILED
+0	0	0	A	1	5	5	0		0	6	4	0	
+0	0	0	I	1	5	5	0		0	7	3	0	
+0	0	0	R	1	5	5	0		0	8	11	0	
+0	1	10	S	1	5	5	0		1	9	5	1	SROOT
+1	0	0	#	1	11	0	0		2	10	4	0	
+0	1	11	B	2	0	4	1	BEGS	0	0	3	0	
+0	0	0	E	2	0	4	0		0	1	4	0	
+0	0	0	G	2	0	4	0		0	2	11	0	
+0	0	0	S	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	12	O	2	5	6	1	OHDARN	1	5	9	0	
+0	0	0	H	2	5	6	0		0	6	4	0	
+0	0	0	D	2	5	6	0		0	7	3	0	
+0	0	0	A	2	5	6	0		0	8	11	0	
+0	0	0	R	2	5	6	0		1	9	5	0	
+0	1	13	N	2	5	6	0		2	10	4	1	NABS
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	14	T	3	1	6	1	THEFBI	0	1	4	0	
+0	0	0	H	3	1	6	0		0	2	11	0	
+0	0	0	E	3	1	6	0		1	3	4	0	
+0	1	15	F	3	1	6	0		3	4	3	1	FED
+0	0	0	B	3	1	6	0		1	5	9	0	
+0	0	0	I	3	1	6	0		0	6	4	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	16	N	3	8	3	1	NOA	0	8	11	0	
+0	0	0	O	3	8	3	0		1	9	5	0	
+0	0	0	A	3	8	3	0		2	10	4	0	
+1	0	0	#	4	1	0	0		5	0	4	0	
+1	0	0	#	4	2	4	0		5	1	5	0	
+0	1	17	T	4	2	4	1	TTEN	0	2	11	0	
+0	0	0	T	4	2	4	0		1	3	4	0	
+0	0	0	E	4	2	4	0		3	4	3	0	
+0	0	0	N	4	2	4	0		1	5	9	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	18	S	4	8	3	1	SOB	0	8	11	0	
+0	0	0	O	4	8	3	0		1	9	5	0	
+0	0	0	B	4	8	3	0		2	10	4	0	
+0	1	19	O	5	0	3	1	OHM	5	0	4	1	OOZY
+0	1	20	H	5	0	3	0		5	1	5	1	HMEEC
+0	0	0	M	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	D	5	4	3	1	DAY	3	4	3	0	
+0	0	0	A	5	4	3	0		1	5	9	0	
+0	1	22	Y	5	4	3	0		5	6	3	1	YAH
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	23	P	5	8	3	1	PTS	0	8	11	0	
+0	0	0	T	5	8	3	0		1	9	5	0	
+0	0	0	S	5	8	3	0		2	10	4	0	
+0	1	24	O	6	0	3	1	OME	5	0	4	0	
+0	0	0	M	6	0	3	0		5	1	5	0	
+0	0	0	E	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	4	0		7	4	4	0	
+0	1	25	I	6	5	4	1	IANA	1	5	9	0	
+0	0	0	A	6	5	4	0		5	6	3	0	
+0	1	26	N	6	5	4	0		6	7	4	1	NICE
+0	0	0	A	6	5	4	0		0	8	11	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	Z	7	0	3	1	ZEN	5	0	4	0	
+0	0	0	E	7	0	3	0		5	1	5	0	
+0	0	0	N	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	6	0		8	3	3	0	
+0	1	28	A	7	4	6	1	ALHIRT	7	4	4	1	ADIT
+0	0	0	L	7	4	6	0		1	5	9	0	
+0	0	0	H	7	4	6	0		5	6	3	0	
+0	0	0	I	7	4	6	0		6	7	4	0	
+0	0	0	R	7	4	6	0		0	8	11	0	
+0	1	29	T	7	4	6	0		7	9	4	1	TTTT
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	30	Y	8	0	6	1	YEOLDE	5	0	4	0	
+0	0	0	E	8	0	6	0		5	1	5	0	
+0	0	0	O	8	0	6	0		0	2	11	0	
+0	1	31	L	8	0	6	0		8	3	3	1	LPN
+0	0	0	D	8	0	6	0		7	4	4	0	
+0	0	0	E	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	32	C	8	7	4	1	CETA	6	7	4	0	
+0	0	0	E	8	7	4	0		0	8	11	0	
+0	0	0	T	8	7	4	0		7	9	4	0	
+0	1	33	A	8	7	4	0		8	10	3	1	AOL
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	34	C	9	1	5	1	CUPID	5	1	5	0	
+0	0	0	U	9	1	5	0		0	2	11	0	
+0	0	0	P	9	1	5	0		8	3	3	0	
+0	0	0	I	9	1	5	0		7	4	4	0	
+0	0	0	D	9	1	5	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	35	E	9	7	4	1	ENTO	6	7	4	0	
+0	0	0	N	9	7	4	0		0	8	11	0	
+0	0	0	T	9	7	4	0		7	9	4	0	
+0	0	0	O	9	7	4	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	36	T	10	2	3	1	TNT	0	2	11	0	
+0	0	0	N	10	2	3	0		8	3	3	0	
+0	0	0	T	10	2	3	0		7	4	4	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	37	T	10	8	3	1	TTL	0	8	11	0	
+0	0	0	T	10	8	3	0		7	9	4	0	
+0	0	0	L	10	8	3	0		8	10	3	0	
+23
+1	NIE	Never, in Berlin
+4	YAT	Sun ___-sen
+7	EGIS	Authority: Var.
+9	HAIRS	Crime scene evidence, often
+11	BEGS	Importunes
+12	OHDARN	"Shoot!"
+14	THEFBI	It began in 1908 with 34 agts.
+16	NOA	When doubled, a book by Gauguin
+17	TTEN	Kind of list
+18	SOB	Boo-hoo
+19	OHM	Man with a law
+21	DAY	Word repeated before "in" and "out"
+23	PTS	N, E, S and W
+24	OME	Alfie's residence
+25	IANA	Collector's suffix
+27	ZEN	Buddhist school
+28	ALHIRT	Bourbon Street legend
+30	YEOLDE	Start of many an English inn's name
+32	CETA	Job legislation estab. in 1973
+34	CUPID	He brings people together
+35	ENTO	Opposite of exo-
+36	TNT	It may come with charges
+37	TTL	Lumberjack's tool
+19
+1	NEB	S. Dak. neighbor
+2	IGET	The Beach Boys' "___ Around"
+3	EIGHTMENOUT	1988 Cusack film
+4	YAHI	California tribe that died out in 1916
+5	AID	Square on un calendario
+6	TRANSPARENT	Easy to see or impossible to see
+8	SSET	Fixed at an acute angle
+9	HOBNAILED	Like loggers' boots
+10	SROOT	Radical
+13	NABS	Picks up
+15	FED	Catered
+19	OOZY	Leaking
+20	HMEEC	Course for course preparers
+22	YAH	Derisive interjection
+26	NICE	Riviera city
+28	ADIT	Shaft entrance
+29	TTTT	Sri Lankan exports
+31	LPN	I.C.U. worker
+33	AOL	Prodigy competitor, for short

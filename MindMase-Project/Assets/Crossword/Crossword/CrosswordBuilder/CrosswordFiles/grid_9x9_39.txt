@@ -1,0 +1,117 @@
+grid_9x9_39
+9
+0	1	1	G	0	0	3	1	GHI	0	0	3	1	GUS
+0	1	2	H	0	0	3	0		0	1	4	1	HCHI
+0	1	3	I	0	0	3	0		0	2	4	1	ILIA
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	V	0	5	3	1	VIC	0	5	3	1	VAR
+0	1	5	I	0	5	3	0		0	6	4	1	IMIT
+0	1	6	C	0	5	3	0		0	7	4	1	CITI
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	U	1	0	4	1	UCLA	0	0	3	0	
+0	0	0	C	1	0	4	0		0	1	4	0	
+0	0	0	L	1	0	4	0		0	2	4	0	
+0	1	8	A	1	0	4	0		1	3	4	1	APIN
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	A	1	5	4	1	AMIE	0	5	3	0	
+0	0	0	M	1	5	4	0		0	6	4	0	
+0	0	0	I	1	5	4	0		0	7	4	0	
+0	1	10	E	1	5	4	0		1	8	3	1	EER
+0	1	11	S	2	0	9	1	SHIPWRITE	0	0	3	0	
+0	0	0	H	2	0	9	0		0	1	4	0	
+0	0	0	I	2	0	9	0		0	2	4	0	
+0	0	0	P	2	0	9	0		1	3	4	0	
+0	1	12	W	2	0	9	0		2	4	5	1	WMEAT
+0	0	0	R	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	4	0	
+0	0	0	T	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	I	3	1	4	1	IAIM	0	1	4	0	
+0	0	0	A	3	1	4	0		0	2	4	0	
+0	0	0	I	3	1	4	0		1	3	4	0	
+0	0	0	M	3	1	4	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	T	3	6	3	1	TIR	0	6	4	0	
+0	0	0	I	3	6	3	0		0	7	4	0	
+0	0	0	R	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	N	4	3	3	1	NER	1	3	4	0	
+0	0	0	E	4	3	3	0		2	4	5	0	
+0	1	16	R	4	3	3	0		4	5	4	1	RPMS
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	L	5	0	3	1	LIB	5	0	3	1	LHZ
+0	1	18	I	5	0	3	0		5	1	4	1	IATE
+0	1	19	B	5	0	3	0		5	2	4	1	BDOG
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	A	5	4	4	1	APIS	2	4	5	0	
+0	0	0	P	5	4	4	0		4	5	4	0	
+0	1	21	I	5	4	4	0		5	6	4	1	IAMA
+0	1	22	S	5	4	4	0		5	7	4	1	SDAK
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	23	H	6	0	9	1	HADITMADE	5	0	3	0	
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	D	6	0	9	0		5	2	4	0	
+0	1	24	I	6	0	9	0		6	3	3	1	IPS
+0	0	0	T	6	0	9	0		2	4	5	0	
+0	0	0	M	6	0	9	0		4	5	4	0	
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	D	6	0	9	0		5	7	4	0	
+0	1	25	E	6	0	9	0		6	8	3	1	ENA
+0	1	26	Z	7	0	4	1	ZTOP	5	0	3	0	
+0	0	0	T	7	0	4	0		5	1	4	0	
+0	0	0	O	7	0	4	0		5	2	4	0	
+0	0	0	P	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	S	7	5	4	1	SMAN	4	5	4	0	
+0	0	0	M	7	5	4	0		5	6	4	0	
+0	0	0	A	7	5	4	0		5	7	4	0	
+0	0	0	N	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	E	8	1	3	1	EGS	5	1	4	0	
+0	0	0	G	8	1	3	0		5	2	4	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	A	8	6	3	1	AKA	5	6	4	0	
+0	0	0	K	8	6	3	0		5	7	4	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+15
+1	GHI	4, on a phone
+4	VIC	London's Old ___
+7	UCLA	11-time N.C.A.A. basketball champs
+9	AMIE	Alain's girlfriend
+11	SHIPWRITE	Word processor for sailors?
+13	IAIM	"___ to please!"
+14	TIR	French shooting match
+15	NER	___ Tamid (synagogue lamp)
+17	LIB	Women
+20	APIS	Sacred bull of Egyptian myth
+23	HADITMADE	Was on easy street
+26	ZTOP	Rock trio known for its bearded members
+27	SMAN	One on a mission, maybe
+28	EGS	Units in physics
+29	AKA	Rap sheet shorthand
+17
+1	GUS	Director Van Sant
+2	HCHI	Start of a 1940's-60's world leader's name
+3	ILIA	Winter Olympics gold medalist Kulik
+4	VAR	Dictionary abbr.
+5	IMIT	Not an orig.
+6	CITI	Field opening?
+8	APIN	"... on the head of ___?"
+10	EER	Musket end?
+12	WMEAT	Wing or breast
+16	RPMS	High ones may produce a roar
+17	LHZ	Young fellow
+18	IATE	"Must've been something ___"
+19	BDOG	Retriever
+21	IAMA	"___ Rock"
+22	SDAK	Mount Rushmore's site: Abbr.
+24	IPS	Tape recorder speed meas.
+25	ENA	Old Spanish queen

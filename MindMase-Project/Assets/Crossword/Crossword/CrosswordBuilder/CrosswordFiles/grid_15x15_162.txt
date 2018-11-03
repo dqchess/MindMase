@@ -1,0 +1,305 @@
+grid_15x15_162
+15
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	E	0	2	3	1	ECH	0	2	15	1	ENDOFDISCUSSION
+0	1	2	C	0	2	3	0		0	3	3	1	CEN
+0	1	3	H	0	2	3	0		0	4	3	1	HRE
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	S	0	7	3	1	SKO	0	7	4	1	SEUL
+0	1	5	K	0	7	3	0		0	8	3	1	KPS
+0	1	6	O	0	7	3	0		0	9	3	1	OCT
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	7	B	0	11	3	1	BYO	0	11	6	1	BRAISE
+0	1	8	Y	0	11	3	0		0	12	15	1	YELLOWBRICKROAD
+0	1	9	O	0	11	3	0		0	13	9	1	ONIONRING
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	10	B	1	0	5	1	BONER	1	0	3	1	BSC
+0	1	11	O	1	0	5	0		1	1	4	1	OYEZ
+0	0	0	N	1	0	5	0		0	2	15	0	
+0	0	0	E	1	0	5	0		0	3	3	0	
+0	0	0	R	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	4	0		2	5	5	0	
+0	1	12	H	1	6	4	1	HEPC	1	6	3	1	HAN
+0	0	0	E	1	6	4	0		0	7	4	0	
+0	0	0	P	1	6	4	0		0	8	3	0	
+0	0	0	C	1	6	4	0		0	9	3	0	
+1	0	0	#	1	11	4	0		2	10	3	0	
+0	1	13	R	1	11	4	1	REND	0	11	6	0	
+0	0	0	E	1	11	4	0		0	12	15	0	
+0	0	0	N	1	11	4	0		0	13	9	0	
+0	1	14	D	1	11	4	0		1	14	3	1	DAS
+0	1	15	S	2	0	15	1	SYDNEYAUSTRALIA	1	0	3	0	
+0	0	0	Y	2	0	15	0		1	1	4	0	
+0	0	0	D	2	0	15	0		0	2	15	0	
+0	0	0	N	2	0	15	0		0	3	3	0	
+0	0	0	E	2	0	15	0		0	4	3	0	
+0	1	16	Y	2	0	15	0		2	5	5	1	YETIS
+0	0	0	A	2	0	15	0		1	6	3	0	
+0	0	0	U	2	0	15	0		0	7	4	0	
+0	0	0	S	2	0	15	0		0	8	3	0	
+0	0	0	T	2	0	15	0		0	9	3	0	
+0	1	17	R	2	0	15	0		2	10	3	1	RSA
+0	0	0	A	2	0	15	0		0	11	6	0	
+0	0	0	L	2	0	15	0		0	12	15	0	
+0	0	0	I	2	0	15	0		0	13	9	0	
+0	0	0	A	2	0	15	0		1	14	3	0	
+0	1	18	C	3	0	3	1	CEO	1	0	3	0	
+0	0	0	E	3	0	3	0		1	1	4	0	
+0	0	0	O	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	0	0		4	3	4	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	19	E	3	5	3	1	ENL	2	5	5	0	
+0	0	0	N	3	5	3	0		1	6	3	0	
+0	0	0	L	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	5	0	
+1	0	0	#	3	10	5	0		4	9	3	0	
+0	1	20	S	3	10	5	1	SILOS	2	10	3	0	
+0	0	0	I	3	10	5	0		0	11	6	0	
+0	0	0	L	3	10	5	0		0	12	15	0	
+0	0	0	O	3	10	5	0		0	13	9	0	
+0	0	0	S	3	10	5	0		1	14	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	21	Z	4	1	5	1	ZFEET	1	1	4	0	
+0	0	0	F	4	1	5	0		0	2	15	0	
+0	1	22	E	4	1	5	0		4	3	4	1	ELLA
+0	1	23	E	4	1	5	0		4	4	3	1	EVO
+0	0	0	T	4	1	5	0		2	5	5	0	
+1	0	0	#	4	7	0	0		5	6	0	0	
+1	0	0	#	4	8	6	0		5	7	5	0	
+0	1	24	A	4	8	6	1	ASASON	4	8	5	1	AWHIT
+0	1	25	S	4	8	6	0		4	9	3	1	SKY
+0	0	0	A	4	8	6	0		2	10	3	0	
+0	0	0	S	4	8	6	0		0	11	6	0	
+0	0	0	O	4	8	6	0		0	12	15	0	
+0	0	0	N	4	8	6	0		0	13	9	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	4	0		6	1	9	0	
+0	1	26	D	5	2	4	1	DLVI	0	2	15	0	
+0	0	0	L	5	2	4	0		4	3	4	0	
+0	0	0	V	5	2	4	0		4	4	3	0	
+0	0	0	I	5	2	4	0		2	5	5	0	
+1	0	0	#	5	7	3	0		6	6	5	0	
+0	1	27	A	5	7	3	1	AWK	5	7	5	1	APATH
+0	0	0	W	5	7	3	0		4	8	5	0	
+0	0	0	K	5	7	3	0		4	9	3	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	28	E	5	11	3	1	EWR	0	11	6	0	
+0	0	0	W	5	11	3	0		0	12	15	0	
+0	0	0	R	5	11	3	0		0	13	9	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	29	P	6	0	10	1	PHILOSOPHY	6	0	3	1	PLA
+0	1	30	H	6	0	10	0		6	1	9	1	HINDERERS
+0	0	0	I	6	0	10	0		0	2	15	0	
+0	0	0	L	6	0	10	0		4	3	4	0	
+0	0	0	O	6	0	10	0		4	4	3	0	
+0	0	0	S	6	0	10	0		2	5	5	0	
+0	1	31	O	6	0	10	0		6	6	5	1	ORION
+0	0	0	P	6	0	10	0		5	7	5	0	
+0	0	0	H	6	0	10	0		4	8	5	0	
+0	0	0	Y	6	0	10	0		4	9	3	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+1	0	0	#	6	12	3	0		7	11	4	0	
+0	1	32	B	6	12	3	1	BIG	0	12	15	0	
+0	0	0	I	6	12	3	0		0	13	9	0	
+0	1	33	G	6	12	3	0		6	14	3	1	GSS
+0	1	34	L	7	0	4	1	LISA	6	0	3	0	
+0	0	0	I	7	0	4	0		6	1	9	0	
+0	0	0	S	7	0	4	0		0	2	15	0	
+0	0	0	A	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	35	R	7	6	3	1	RAI	6	6	5	0	
+0	0	0	A	7	6	3	0		5	7	5	0	
+0	0	0	I	7	6	3	0		4	8	5	0	
+1	0	0	#	7	10	0	0		8	9	5	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	36	U	7	11	4	1	URNS	7	11	4	1	UPDO
+0	0	0	R	7	11	4	0		0	12	15	0	
+0	0	0	N	7	11	4	0		0	13	9	0	
+0	0	0	S	7	11	4	0		6	14	3	0	
+0	1	37	A	8	0	3	1	ANC	6	0	3	0	
+0	0	0	N	8	0	3	0		6	1	9	0	
+0	0	0	C	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	0	0		9	3	6	0	
+1	0	0	#	8	5	10	0		9	4	0	0	
+0	1	38	L	8	5	10	1	LITTLEPIGS	8	5	3	1	LOE
+0	0	0	I	8	5	10	0		6	6	5	0	
+0	0	0	T	8	5	10	0		5	7	5	0	
+0	0	0	T	8	5	10	0		4	8	5	0	
+0	1	39	L	8	5	10	0		8	9	5	1	LIEST
+0	1	40	E	8	5	10	0		8	10	3	1	ENV
+0	0	0	P	8	5	10	0		7	11	4	0	
+0	0	0	I	8	5	10	0		0	12	15	0	
+0	0	0	G	8	5	10	0		0	13	9	0	
+0	0	0	S	8	5	10	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	41	D	9	1	3	1	DUH	6	1	9	0	
+0	0	0	U	9	1	3	0		0	2	15	0	
+0	1	42	H	9	1	3	0		9	3	6	1	HAIRDO
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	43	O	9	5	3	1	OOH	8	5	3	0	
+0	0	0	O	9	5	3	0		6	6	5	0	
+0	0	0	H	9	5	3	0		5	7	5	0	
+1	0	0	#	9	9	4	0		10	8	0	0	
+0	1	44	I	9	9	4	1	INDC	8	9	5	0	
+0	0	0	N	9	9	4	0		8	10	3	0	
+0	0	0	D	9	9	4	0		7	11	4	0	
+0	0	0	C	9	9	4	0		0	12	15	0	
+1	0	0	#	9	14	0	0		10	13	4	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	6	0		11	0	3	0	
+0	1	45	E	10	1	6	1	ESALEN	6	1	9	0	
+0	0	0	S	10	1	6	0		0	2	15	0	
+0	0	0	A	10	1	6	0		9	3	6	0	
+0	1	46	L	10	1	6	0		10	4	3	1	LST
+0	0	0	E	10	1	6	0		8	5	3	0	
+0	0	0	N	10	1	6	0		6	6	5	0	
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	5	0		11	8	3	0	
+0	1	47	E	10	9	5	1	EVOKE	8	9	5	0	
+0	0	0	V	10	9	5	0		8	10	3	0	
+0	0	0	O	10	9	5	0		7	11	4	0	
+0	0	0	K	10	9	5	0		0	12	15	0	
+0	1	48	E	10	9	5	0		10	13	4	1	ETNA
+1	0	0	#	10	15	0	0		11	14	3	0	
+0	1	49	A	11	0	5	1	ARSIS	11	0	3	1	AHA
+0	0	0	R	11	0	5	0		6	1	9	0	
+0	0	0	S	11	0	5	0		0	2	15	0	
+0	0	0	I	11	0	5	0		9	3	6	0	
+0	0	0	S	11	0	5	0		10	4	3	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	50	S	11	7	3	1	SCS	11	7	4	1	SHES
+0	1	51	C	11	7	3	0		11	8	3	1	CES
+0	0	0	S	11	7	3	0		8	9	5	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	52	R	11	12	3	1	RTE	0	12	15	0	
+0	0	0	T	11	12	3	0		10	13	4	0	
+0	1	53	E	11	12	3	0		11	14	3	1	EEC
+0	1	54	H	12	0	15	1	HEIRTOTHETHRONE	11	0	3	0	
+0	0	0	E	12	0	15	0		6	1	9	0	
+0	0	0	I	12	0	15	0		0	2	15	0	
+0	0	0	R	12	0	15	0		9	3	6	0	
+0	0	0	T	12	0	15	0		10	4	3	0	
+0	1	55	O	12	0	15	0		12	5	3	1	OZT
+0	1	56	T	12	0	15	0		12	6	3	1	TOM
+0	0	0	H	12	0	15	0		11	7	4	0	
+0	0	0	E	12	0	15	0		11	8	3	0	
+0	0	0	T	12	0	15	0		8	9	5	0	
+0	1	57	H	12	0	15	0		12	10	3	1	HIE
+0	1	58	R	12	0	15	0		12	11	3	1	RST
+0	0	0	O	12	0	15	0		0	12	15	0	
+0	0	0	N	12	0	15	0		10	13	4	0	
+0	0	0	E	12	0	15	0		11	14	3	0	
+0	1	59	A	13	0	4	1	AROD	11	0	3	0	
+0	0	0	R	13	0	4	0		6	1	9	0	
+0	0	0	O	13	0	4	0		0	2	15	0	
+0	0	0	D	13	0	4	0		9	3	6	0	
+1	0	0	#	13	5	4	0		14	4	0	0	
+0	1	60	Z	13	5	4	1	ZOES	12	5	3	0	
+0	0	0	O	13	5	4	0		12	6	3	0	
+0	0	0	E	13	5	4	0		11	7	4	0	
+0	0	0	S	13	5	4	0		11	8	3	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	61	I	13	10	5	1	ISAAC	12	10	3	0	
+0	0	0	S	13	10	5	0		12	11	3	0	
+0	0	0	A	13	10	5	0		0	12	15	0	
+0	0	0	A	13	10	5	0		10	13	4	0	
+0	0	0	C	13	10	5	0		11	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	62	S	14	1	3	1	SNO	6	1	9	0	
+0	0	0	N	14	1	3	0		0	2	15	0	
+0	0	0	O	14	1	3	0		9	3	6	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	63	T	14	5	3	1	TMS	12	5	3	0	
+0	0	0	M	14	5	3	0		12	6	3	0	
+0	0	0	S	14	5	3	0		11	7	4	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	64	E	14	10	3	1	ETD	12	10	3	0	
+0	0	0	T	14	10	3	0		12	11	3	0	
+0	0	0	D	14	10	3	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+37
+1	ECH	Command level: Abbr.
+4	SKO	Grinder
+7	BYO	Caveat on a party invitation: Abbr.
+10	BONER	Blockheaded move
+12	HEPC	Jazz buff
+13	REND	Rip apart
+15	SYDNEYAUSTRALIA	2000 site
+18	CEO	Wharton grad's aspiration, maybe
+19	ENL	Photo lab abbr.
+20	SILOS	Fodder storers
+21	ZFEET	Low visibility figure
+24	ASASON	How a particularly close nephew may be treated
+26	DLVI	Mid sixth-century year
+27	AWK	Parrot's cry
+28	EWR	Airport alternative to JFK or LGA
+29	PHILOSOPHY	Field of Plato and Aristotle
+32	BIG	Worth mentioning
+34	LISA	Actress Edelstein of TV's "House"
+35	RAI	Vessel for Thor Heyerdahl
+36	URNS	Big coffee holders
+37	ANC	Org. led by Mandela, once
+38	LITTLEPIGS	Fortune-seeking trio
+41	DUH	"I am such a dope!"
+43	OOH	"Oh wow!"
+44	INDC	Where to find Pennsylvania Ave.
+45	ESALEN	West Coast wellness retreat
+47	EVOKE	Call forth
+49	ARSIS	Accented part of a poetic foot
+50	SCS	Barges
+52	RTE	Rd. map line
+54	HEIRTOTHETHRONE	Prince Charles, beginning in 1952
+59	AROD	A.L. M.V.P. in 2005 and 2007, informally
+60	ZOES	Writer Akins and others
+61	ISAAC	Violinist Stern
+62	SNO	Cone head?
+63	TMS	They often accompany logos: Abbr.
+64	ETD	J.F.K. posting: Abbr.
+39
+1	ENDOFDISCUSSION	"Case closed!"
+2	CEN	Fivescore yrs.
+3	HRE	Land once ruled by the Hapsburgs: Abbr.
+4	SEUL	Alone, in Paris
+5	KPS	Military mess workers, for short
+6	OCT	10, in a way: Abbr.
+7	BRAISE	Brown and simmer
+8	YELLOWBRICKROAD	Dorothy followed it
+9	ONIONRING	Alternative to a steak fry
+10	BSC	Deg. in biology or physics
+11	OYEZ	Courtroom attention-getter
+12	HAN	Chinese dynasty name
+14	DAS	Some "Law & Order" figs.
+16	YETIS	Some unsubstantiated sightings
+17	RSA	Cape Town's country: Abbr.
+22	ELLA	First name in jazz
+23	EVO	Bolivian president Morales
+24	AWHIT	In the least
+25	SKY	Heaven
+27	APATH	"Beat ___ to ..."
+29	PLA	Mao's group: Abbr.
+30	HINDERERS	Roadblocks
+31	ORION	Wooer of Merope, in myth
+33	GSS	Snare
+36	UPDO	Hair-raiser?
+38	LOE	Star of "Youngblood," 1986
+39	LIEST	"Thou ___, most ignorant monster": Shak.
+40	ENV	P.O. delivery
+42	HAIRDO	Bob or weave
+46	LST	D-Day transport: Abbr.
+48	ETNA	Lab burner
+49	AHA	Revelation response
+50	SHES	Women
+51	CES	These, overseas
+53	EEC	Intl. org. begun in 1958
+55	OZT	Fever reading, maybe
+56	TOM	Alley denizen
+57	HIE	Skater of cinema
+58	RST	Run in front of U

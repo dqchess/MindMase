@@ -1,0 +1,165 @@
+grid_11x11_4
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	S	0	2	3	1	SOR	0	2	6	1	SURETO
+0	1	2	O	0	2	3	0		0	3	3	1	OTE
+0	1	3	R	0	2	3	0		0	4	3	1	RZB
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	6	0	
+1	0	0	#	0	8	3	0		1	7	5	0	
+0	1	4	B	0	8	3	1	BTU	0	8	4	1	BENZ
+0	1	5	T	0	8	3	0		0	9	4	1	TIEA
+0	1	6	U	0	8	3	0		0	10	3	1	UND
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	L	1	1	4	1	LUTZ	1	1	5	1	LARAS
+0	0	0	U	1	1	4	0		0	2	6	0	
+0	0	0	T	1	1	4	0		0	3	3	0	
+0	0	0	Z	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	8	T	1	6	5	1	TIEIN	1	6	6	1	TALKTO
+0	1	9	I	1	6	5	0		1	7	5	1	IIIII
+0	0	0	E	1	6	5	0		0	8	4	0	
+0	0	0	I	1	6	5	0		0	9	4	0	
+0	0	0	N	1	6	5	0		0	10	3	0	
+0	1	10	H	2	0	11	1	HAREBRAINED	2	0	3	1	HUM
+0	0	0	A	2	0	11	0		1	1	5	0	
+0	0	0	R	2	0	11	0		0	2	6	0	
+0	0	0	E	2	0	11	0		0	3	3	0	
+0	0	0	B	2	0	11	0		0	4	3	0	
+0	1	11	R	2	0	11	0		2	5	7	1	RETAPED
+0	0	0	A	2	0	11	0		1	6	6	0	
+0	0	0	I	2	0	11	0		1	7	5	0	
+0	0	0	N	2	0	11	0		0	8	4	0	
+0	0	0	E	2	0	11	0		0	9	4	0	
+0	0	0	D	2	0	11	0		0	10	3	0	
+0	1	12	U	3	0	3	1	URE	2	0	3	0	
+0	0	0	R	3	0	3	0		1	1	5	0	
+0	0	0	E	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	5	0		4	4	6	0	
+0	1	13	E	3	5	5	1	ELIZA	2	5	7	0	
+0	0	0	L	3	5	5	0		1	6	6	0	
+0	0	0	I	3	5	5	0		1	7	5	0	
+0	0	0	Z	3	5	5	0		0	8	4	0	
+0	0	0	A	3	5	5	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	14	M	4	0	3	1	MAT	2	0	3	0	
+0	0	0	A	4	0	3	0		1	1	5	0	
+0	0	0	T	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	4	0		5	3	5	0	
+0	1	15	D	4	4	4	1	DTKI	4	4	6	1	DROIDS
+0	0	0	T	4	4	4	0		2	5	7	0	
+0	0	0	K	4	4	4	0		1	6	6	0	
+0	0	0	I	4	4	4	0		1	7	5	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	16	S	5	1	9	1	SOCRATICS	1	1	5	0	
+0	0	0	O	5	1	9	0		0	2	6	0	
+0	1	17	C	5	1	9	0		5	3	5	1	CROUP
+0	0	0	R	5	1	9	0		4	4	6	0	
+0	0	0	A	5	1	9	0		2	5	7	0	
+0	0	0	T	5	1	9	0		1	6	6	0	
+0	0	0	I	5	1	9	0		1	7	5	0	
+0	1	18	C	5	1	9	0		5	8	6	1	CHASSE
+0	1	19	S	5	1	9	0		5	9	5	1	SEUSS
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	4	0		7	2	4	0	
+0	1	20	R	6	3	4	1	ROPO	5	3	5	0	
+0	0	0	O	6	3	4	0		4	4	6	0	
+0	0	0	P	6	3	4	0		2	5	7	0	
+0	0	0	O	6	3	4	0		1	6	6	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	21	H	6	8	3	1	HEC	5	8	6	0	
+0	0	0	E	6	8	3	0		5	9	5	0	
+0	1	22	C	6	8	3	0		6	10	3	1	CRY
+1	0	0	#	7	1	5	0		8	0	3	0	
+0	1	23	L	7	1	5	1	LOOIE	7	1	4	1	LLBS
+0	1	24	O	7	1	5	0		7	2	4	1	OAST
+0	0	0	O	7	1	5	0		5	3	5	0	
+0	0	0	I	7	1	5	0		4	4	6	0	
+0	0	0	E	7	1	5	0		2	5	7	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	25	A	7	8	3	1	AUR	5	8	6	0	
+0	0	0	U	7	8	3	0		5	9	5	0	
+0	0	0	R	7	8	3	0		6	10	3	0	
+0	1	26	C	8	0	11	1	CLAUDDBUSSY	8	0	3	1	CTA
+0	0	0	L	8	0	11	0		7	1	4	0	
+0	0	0	A	8	0	11	0		7	2	4	0	
+0	0	0	U	8	0	11	0		5	3	5	0	
+0	0	0	D	8	0	11	0		4	4	6	0	
+0	0	0	D	8	0	11	0		2	5	7	0	
+0	1	27	B	8	0	11	0		8	6	3	1	BTP
+0	1	28	U	8	0	11	0		8	7	3	1	UEY
+0	0	0	S	8	0	11	0		5	8	6	0	
+0	0	0	S	8	0	11	0		5	9	5	0	
+0	0	0	Y	8	0	11	0		6	10	3	0	
+0	1	29	T	9	0	5	1	TBSPS	8	0	3	0	
+0	0	0	B	9	0	5	0		7	1	4	0	
+0	0	0	S	9	0	5	0		7	2	4	0	
+0	0	0	P	9	0	5	0		5	3	5	0	
+0	0	0	S	9	0	5	0		4	4	6	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	30	T	9	6	4	1	TESS	8	6	3	0	
+0	0	0	E	9	6	4	0		8	7	3	0	
+0	0	0	S	9	6	4	0		5	8	6	0	
+0	0	0	S	9	6	4	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	31	A	10	0	3	1	AST	8	0	3	0	
+0	0	0	S	10	0	3	0		7	1	4	0	
+0	0	0	T	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	32	P	10	6	3	1	PYE	8	6	3	0	
+0	0	0	Y	10	6	3	0		8	7	3	0	
+0	0	0	E	10	6	3	0		5	8	6	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	SOR	Frat. counterpart
+4	BTU	Air conditioner measure, for short
+7	LUTZ	Skating maneuver
+8	TIEIN	Marketing device
+10	HAREBRAINED	Foolish [2011]
+12	URE	Mary of "Where Eagles Dare"
+13	ELIZA	The "her" of "I've Grown Accustomed to Her Face"
+14	MAT	A welcome sight?
+15	DTKI	Cave, in poetry
+16	SOCRATICS	Plato and others
+20	ROPO	El ___ (cheap cigar, in slang)
+21	HEC	"___ Ramsey" (1970s western)
+23	LOOIE	Military V.I.P.
+25	AUR	Gold: Prefix
+26	CLAUDDBUSSY	"L'Isle joyeuse" composer
+29	TBSPS	Cookbook amts.
+30	TESS	Hardy girl
+31	AST	Hrs. in Halifax
+32	PYE	___-dog (Indian stray)
+21
+1	SURETO	Definitely gonna
+2	OTE	Inhabitant: Suffix
+3	RZB	Rum ___ Tugger (
+4	BENZ	German auto pioneer
+5	TIEA	"___ yellow ribbon ..."
+6	UND	___ so weiter (et cetera): Ger.
+7	LARAS	"___ Theme" (hit soundtrack tune)
+8	TALKTO	Admonish, as a child
+9	IIIII	Abba hit of 1976
+10	HUM	Accompany musically, maybe
+11	RETAPED	Filmed over
+15	DROIDS	"Star Wars" characters
+17	CROUP	Baby's woe
+18	CHASSE	Gliding step
+19	SEUSS	Who's creator
+22	CRY	Bawl
+23	LLBS	Foreign attorneys' degs.
+24	OAST	Brewer's kiln
+26	CTA	El-overseeing org.
+27	BTP	Group formed at Miami University in 1839
+28	UEY	180 degree turn, in slang

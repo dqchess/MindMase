@@ -1,0 +1,233 @@
+grid_13x13_8
+13
+0	1	1	E	0	0	3	1	ELS	0	0	5	1	EULER
+0	1	2	L	0	0	3	0		0	1	5	1	LSATS
+0	1	3	S	0	0	3	0		0	2	13	1	SANTASSHELVES
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	I	0	6	3	1	ISE	0	6	3	1	IAL
+0	1	5	S	0	6	3	0		0	7	3	1	SRI
+0	1	6	E	0	6	3	0		0	8	3	1	EBN
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	B	0	10	3	1	BAB	0	10	13	1	BROWNIEPOINTS
+0	1	8	A	0	10	3	0		0	11	7	1	AILMENT
+0	1	9	B	0	10	3	0		0	12	3	1	BON
+0	1	10	U	1	0	5	1	USAIR	0	0	5	0	
+0	0	0	S	1	0	5	0		0	1	5	0	
+0	0	0	A	1	0	5	0		0	2	13	0	
+0	1	11	I	1	0	5	0		1	3	3	1	IDI
+0	1	12	R	1	0	5	0		1	4	3	1	RON
+1	0	0	#	1	6	7	0		2	5	3	0	
+0	1	13	A	1	6	7	1	ARBORIO	0	6	3	0	
+0	0	0	R	1	6	7	0		0	7	3	0	
+0	0	0	B	1	6	7	0		0	8	3	0	
+0	1	14	O	1	6	7	0		1	9	3	1	OCS
+0	0	0	R	1	6	7	0		0	10	13	0	
+0	0	0	I	1	6	7	0		0	11	7	0	
+0	0	0	O	1	6	7	0		0	12	3	0	
+0	1	15	L	2	0	13	1	LANDOFLINCOLN	0	0	5	0	
+0	0	0	A	2	0	13	0		0	1	5	0	
+0	0	0	N	2	0	13	0		0	2	13	0	
+0	0	0	D	2	0	13	0		1	3	3	0	
+0	0	0	O	2	0	13	0		1	4	3	0	
+0	1	16	F	2	0	13	0		2	5	3	1	FGH
+0	0	0	L	2	0	13	0		0	6	3	0	
+0	0	0	I	2	0	13	0		0	7	3	0	
+0	0	0	N	2	0	13	0		0	8	3	0	
+0	0	0	C	2	0	13	0		1	9	3	0	
+0	0	0	O	2	0	13	0		0	10	13	0	
+0	0	0	L	2	0	13	0		0	11	7	0	
+0	0	0	N	2	0	13	0		0	12	3	0	
+0	1	17	E	3	0	6	1	ETTING	0	0	5	0	
+0	0	0	T	3	0	6	0		0	1	5	0	
+0	0	0	T	3	0	6	0		0	2	13	0	
+0	0	0	I	3	0	6	0		1	3	3	0	
+0	0	0	N	3	0	6	0		1	4	3	0	
+0	0	0	G	3	0	6	0		2	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	18	S	3	9	3	1	SWM	1	9	3	0	
+0	0	0	W	3	9	3	0		0	10	13	0	
+0	0	0	M	3	9	3	0		0	11	7	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+0	1	19	R	4	0	3	1	RSA	0	0	5	0	
+0	0	0	S	4	0	3	0		0	1	5	0	
+0	0	0	A	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	20	H	4	5	3	1	HAG	2	5	3	0	
+0	1	21	A	4	5	3	0		4	6	5	1	ATBAR
+0	1	22	G	4	5	3	0		4	7	3	1	GSU
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	23	N	4	10	3	1	NEC	0	10	13	0	
+0	0	0	E	4	10	3	0		0	11	7	0	
+0	1	24	C	4	10	3	0		4	12	3	1	CAS
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	25	S	5	2	3	1	SSS	0	2	13	0	
+0	1	26	S	5	2	3	0		5	3	3	1	STE
+0	1	27	S	5	2	3	0		5	4	3	1	SID
+1	0	0	#	5	6	7	0		6	5	3	0	
+0	1	28	T	5	6	7	1	TSARINA	4	6	5	0	
+0	0	0	S	5	6	7	0		4	7	3	0	
+0	1	29	A	5	6	7	0		5	8	3	1	ACK
+0	1	30	R	5	6	7	0		5	9	3	1	RKO
+0	0	0	I	5	6	7	0		0	10	13	0	
+0	0	0	N	5	6	7	0		0	11	7	0	
+0	0	0	A	5	6	7	0		4	12	3	0	
+0	1	31	R	6	0	13	1	RUSTICBUCKETS	6	0	3	1	REM
+0	1	32	U	6	0	13	0		6	1	7	1	UPLOADS
+0	0	0	S	6	0	13	0		0	2	13	0	
+0	0	0	T	6	0	13	0		5	3	3	0	
+0	0	0	I	6	0	13	0		5	4	3	0	
+0	1	33	C	6	0	13	0		6	5	3	1	CRT
+0	0	0	B	6	0	13	0		4	6	5	0	
+0	0	0	U	6	0	13	0		4	7	3	0	
+0	0	0	C	6	0	13	0		5	8	3	0	
+0	0	0	K	6	0	13	0		5	9	3	0	
+0	0	0	E	6	0	13	0		0	10	13	0	
+0	0	0	T	6	0	13	0		0	11	7	0	
+0	0	0	S	6	0	13	0		4	12	3	0	
+0	1	34	E	7	0	7	1	EPHEDRA	6	0	3	0	
+0	0	0	P	7	0	7	0		6	1	7	0	
+0	0	0	H	7	0	7	0		0	2	13	0	
+0	0	0	E	7	0	7	0		5	3	3	0	
+0	0	0	D	7	0	7	0		5	4	3	0	
+0	0	0	R	7	0	7	0		6	5	3	0	
+0	0	0	A	7	0	7	0		4	6	5	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	35	K	7	8	3	1	KOP	5	8	3	0	
+0	0	0	O	7	8	3	0		5	9	3	0	
+0	0	0	P	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	5	0	
+0	1	36	M	8	0	3	1	MLE	6	0	3	0	
+0	0	0	L	8	0	3	0		6	1	7	0	
+0	0	0	E	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	37	T	8	5	3	1	TRW	6	5	3	0	
+0	0	0	R	8	5	3	0		4	6	5	0	
+0	1	38	W	8	5	3	0		8	7	3	1	WOP
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	39	O	8	10	3	1	OIS	0	10	13	0	
+0	1	40	I	8	10	3	0		8	11	5	1	IDEAL
+0	1	41	S	8	10	3	0		8	12	5	1	SETSA
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	42	O	9	1	3	1	OLY	6	1	7	0	
+0	0	0	L	9	1	3	0		0	2	13	0	
+0	1	43	Y	9	1	3	0		9	3	3	1	YEA
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	44	O	9	7	6	1	OXHIDE	8	7	3	0	
+0	1	45	X	9	7	6	0		9	8	3	1	XLI
+0	1	46	H	9	7	6	0		9	9	3	1	HAO
+0	0	0	I	9	7	6	0		0	10	13	0	
+0	0	0	D	9	7	6	0		8	11	5	0	
+0	0	0	E	9	7	6	0		8	12	5	0	
+0	1	47	S	10	0	13	1	SAVETHEPLANET	10	0	3	1	SIG
+0	0	0	A	10	0	13	0		6	1	7	0	
+0	0	0	V	10	0	13	0		0	2	13	0	
+0	0	0	E	10	0	13	0		9	3	3	0	
+0	1	48	T	10	0	13	0		10	4	3	1	TTL
+0	1	49	H	10	0	13	0		10	5	3	1	HES
+0	1	50	E	10	0	13	0		10	6	3	1	EDH
+0	0	0	P	10	0	13	0		8	7	3	0	
+0	0	0	L	10	0	13	0		9	8	3	0	
+0	0	0	A	10	0	13	0		9	9	3	0	
+0	0	0	N	10	0	13	0		0	10	13	0	
+0	0	0	E	10	0	13	0		8	11	5	0	
+0	0	0	T	10	0	13	0		8	12	5	0	
+0	1	51	I	11	0	7	1	IDEATED	10	0	3	0	
+0	0	0	D	11	0	7	0		6	1	7	0	
+0	0	0	E	11	0	7	0		0	2	13	0	
+0	0	0	A	11	0	7	0		9	3	3	0	
+0	0	0	T	11	0	7	0		10	4	3	0	
+0	0	0	E	11	0	7	0		10	5	3	0	
+0	0	0	D	11	0	7	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	I	11	8	5	1	IOTAS	9	8	3	0	
+0	0	0	O	11	8	5	0		9	9	3	0	
+0	0	0	T	11	8	5	0		0	10	13	0	
+0	0	0	A	11	8	5	0		8	11	5	0	
+0	0	0	S	11	8	5	0		8	12	5	0	
+0	1	53	G	12	0	3	1	GSS	10	0	3	0	
+0	0	0	S	12	0	3	0		6	1	7	0	
+0	0	0	S	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	54	L	12	4	3	1	LSH	10	4	3	0	
+0	0	0	S	12	4	3	0		10	5	3	0	
+0	0	0	H	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	S	12	10	3	1	SLA	0	10	13	0	
+0	0	0	L	12	10	3	0		8	11	5	0	
+0	0	0	A	12	10	3	0		8	12	5	0	
+27
+1	ELS	Mass transit choices
+4	ISE	Suffix with expert
+7	BAB	Offerer of cozy accommodations
+10	USAIR	Company once called Allegheny
+13	ARBORIO	Kind of rice used in risotto
+15	LANDOFLINCOLN	Illinois
+17	ETTING	Her theme song was "Love Me or Leave Me"
+18	SWM	Certain guy, in personals shorthand
+19	RSA	Cape Town's home: Abbr.
+20	HAG	Hardly a nymph
+23	NEC	I.B.M. competitor
+25	SSS	Viper's sound
+28	TSARINA	Alexandra Feodorovna, for one
+31	RUSTICBUCKETS	Farm pails?
+34	EPHEDRA	Banned medicine used to treat asthma
+35	KOP	Keystone figure
+36	MLE	Uncooperative one
+37	TRW	Big inits. in credit reporting
+39	OIS	Grafton's "___ for Outlaw"
+42	OLY	Popular beer, for short
+44	OXHIDE	Leather type
+47	SAVETHEPLANET	Green line
+51	IDEATED	Thought
+52	IOTAS	Scintillas
+53	GSS	Snare
+54	LSH	Sorority letters
+55	SLA	Kidnappers in 70's news
+33
+1	EULER	Noted blind mathematician
+2	LSATS	They have five sects. of multiple-choice questions
+3	SANTASSHELVES	Gift holders?
+4	IAL	Suffix with different
+5	SRI	Asian title
+6	EBN	Surveyor's dir.
+7	BROWNIEPOINTS	Credits for doing nice things
+8	AILMENT	Malady
+9	BON	Nice way to say nice
+11	IDI	A mean Amin
+12	RON	Wood of the Rolling Stones
+14	OCS	Training acad.
+16	FGH	String after E
+21	ATBAR	Being tried
+22	GSU	Sch. in Atlanta
+24	CAS	Job for Hercule Poirot
+26	STE	___ Jeanne d'Arc
+27	SID	Tom Sawyer's younger half brother
+29	ACK	"Oh, no!"
+30	RKO	"Suspicion" studio
+31	REM	Sleep state
+32	UPLOADS	Does some file transfers
+33	CRT	PC screen
+38	WOP	Doo-___ music
+40	IDEAL	Rarely-met goal
+41	SETSA	___ course (plans)
+43	YEA	"___, though I walk ..."
+45	XLI	Year Caligula was assassinated
+46	HAO	Vietnamese coin
+47	SIG	Mr., in Milano
+48	TTL	Lumberjack's tool
+49	HES	Peggy Lee's "___ a Tramp"
+50	EDH	Old letter

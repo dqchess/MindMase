@@ -1,0 +1,233 @@
+grid_13x13_4
+13
+0	1	1	S	0	0	3	1	SHH	0	0	3	1	SPI
+0	1	2	H	0	0	3	0		0	1	3	1	HIM
+0	1	3	H	0	0	3	0		0	2	7	1	HNSFQPT
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	A	0	5	3	1	AHA	0	5	3	1	ALL
+0	1	5	H	0	5	3	0		0	6	13	1	HALFSERIOUSLY
+0	1	6	A	0	5	3	0		0	7	8	1	ASTOUNDS
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	I	0	9	3	1	ITA	0	9	3	1	IDE
+0	1	8	T	0	9	3	0		0	10	5	1	TSOIL
+0	1	9	A	0	9	3	0		0	11	5	1	ATNOS
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	P	1	0	8	1	PINELLAS	0	0	3	0	
+0	0	0	I	1	0	8	0		0	1	3	0	
+0	0	0	N	1	0	8	0		0	2	7	0	
+0	1	11	E	1	0	8	0		1	3	3	1	ETE
+0	1	12	L	1	0	8	0		1	4	3	1	LIZ
+0	0	0	L	1	0	8	0		0	5	3	0	
+0	0	0	A	1	0	8	0		0	6	13	0	
+0	0	0	S	1	0	8	0		0	7	8	0	
+1	0	0	#	1	9	3	0		2	8	5	0	
+0	1	13	D	1	9	3	1	DST	0	9	3	0	
+0	0	0	S	1	9	3	0		0	10	5	0	
+0	0	0	T	1	9	3	0		0	11	5	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	I	2	0	13	1	IMSTILLTHEONE	0	0	3	0	
+0	0	0	M	2	0	13	0		0	1	3	0	
+0	0	0	S	2	0	13	0		0	2	7	0	
+0	0	0	T	2	0	13	0		1	3	3	0	
+0	0	0	I	2	0	13	0		1	4	3	0	
+0	0	0	L	2	0	13	0		0	5	3	0	
+0	0	0	L	2	0	13	0		0	6	13	0	
+0	0	0	T	2	0	13	0		0	7	8	0	
+0	1	15	H	2	0	13	0		2	8	5	1	HEIDI
+0	0	0	E	2	0	13	0		0	9	3	0	
+0	0	0	O	2	0	13	0		0	10	5	0	
+0	0	0	N	2	0	13	0		0	11	5	0	
+0	1	16	E	2	0	13	0		2	12	3	1	EST
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	3	0	
+0	1	17	F	3	2	3	1	FEZ	0	2	7	0	
+0	0	0	E	3	2	3	0		1	3	3	0	
+0	0	0	Z	3	2	3	0		1	4	3	0	
+1	0	0	#	3	6	3	0		4	5	0	0	
+0	1	18	F	3	6	3	1	FOE	0	6	13	0	
+0	0	0	O	3	6	3	0		0	7	8	0	
+0	0	0	E	3	6	3	0		2	8	5	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	19	I	3	10	3	1	IOS	0	10	5	0	
+0	0	0	O	3	10	3	0		0	11	5	0	
+0	0	0	S	3	10	3	0		2	12	3	0	
+0	1	20	E	4	0	3	1	ESQ	4	0	3	1	EAL
+0	1	21	S	4	0	3	0		4	1	3	1	SLA
+0	0	0	Q	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	3	0		5	5	8	0	
+0	1	22	S	4	6	3	1	SUI	0	6	13	0	
+0	0	0	U	4	6	3	0		0	7	8	0	
+0	0	0	I	4	6	3	0		2	8	5	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	23	L	4	10	3	1	LST	0	10	5	0	
+0	0	0	S	4	10	3	0		0	11	5	0	
+0	0	0	T	4	10	3	0		2	12	3	0	
+0	1	24	A	5	0	4	1	ALPS	4	0	3	0	
+0	0	0	L	5	0	4	0		4	1	3	0	
+0	0	0	P	5	0	4	0		0	2	7	0	
+0	1	25	S	5	0	4	0		5	3	3	1	SEE
+1	0	0	#	5	5	5	0		6	4	5	0	
+0	1	26	F	5	5	5	1	FENDS	5	5	8	1	FORGETIT
+0	0	0	E	5	5	5	0		0	6	13	0	
+0	0	0	N	5	5	5	0		0	7	8	0	
+0	0	0	D	5	5	5	0		2	8	5	0	
+0	1	27	S	5	5	5	0		5	9	3	1	SNL
+1	0	0	#	5	11	0	0		6	10	7	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	L	6	0	13	1	LATEFORDINNER	4	0	3	0	
+0	0	0	A	6	0	13	0		4	1	3	0	
+0	0	0	T	6	0	13	0		0	2	7	0	
+0	0	0	E	6	0	13	0		5	3	3	0	
+0	1	29	F	6	0	13	0		6	4	5	1	FRANC
+0	0	0	O	6	0	13	0		5	5	8	0	
+0	0	0	R	6	0	13	0		0	6	13	0	
+0	0	0	D	6	0	13	0		0	7	8	0	
+0	0	0	I	6	0	13	0		2	8	5	0	
+0	0	0	N	6	0	13	0		5	9	3	0	
+0	1	30	N	6	0	13	0		6	10	7	1	NEREIDS
+0	1	31	E	6	0	13	0		6	11	3	1	ECI
+0	1	32	R	6	0	13	0		6	12	3	1	RHO
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	5	0	
+1	0	0	#	7	3	5	0		8	2	5	0	
+0	1	33	E	7	3	5	1	ERRIS	5	3	3	0	
+0	0	0	R	7	3	5	0		6	4	5	0	
+0	0	0	R	7	3	5	0		5	5	8	0	
+0	0	0	I	7	3	5	0		0	6	13	0	
+0	0	0	S	7	3	5	0		0	7	8	0	
+1	0	0	#	7	9	4	0		8	8	0	0	
+0	1	34	L	7	9	4	1	LECH	5	9	3	0	
+0	0	0	E	7	9	4	0		6	10	7	0	
+0	0	0	C	7	9	4	0		6	11	3	0	
+0	0	0	H	7	9	4	0		6	12	3	0	
+0	1	35	C	8	0	3	1	CIS	8	0	3	1	CED
+0	1	36	I	8	0	3	0		8	1	5	1	IXION
+0	1	37	S	8	0	3	0		8	2	5	1	SOREN
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	38	A	8	4	3	1	AGO	6	4	5	0	
+0	0	0	G	8	4	3	0		5	5	8	0	
+0	0	0	O	8	4	3	0		0	6	13	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	39	R	8	10	3	1	RIO	6	10	7	0	
+0	0	0	I	8	10	3	0		6	11	3	0	
+0	0	0	O	8	10	3	0		6	12	3	0	
+0	1	40	E	9	0	3	1	EXO	8	0	3	0	
+0	0	0	X	9	0	3	0		8	1	5	0	
+0	0	0	O	9	0	3	0		8	2	5	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	41	N	9	4	3	1	NEU	6	4	5	0	
+0	0	0	E	9	4	3	0		5	5	8	0	
+0	0	0	U	9	4	3	0		0	6	13	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	42	O	9	8	3	1	OTE	9	8	3	1	ORV
+0	1	43	T	9	8	3	0		9	9	3	1	TAE
+0	0	0	E	9	8	3	0		6	10	7	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	D	10	0	13	1	DIRECTSTRAITS	8	0	3	0	
+0	0	0	I	10	0	13	0		8	1	5	0	
+0	0	0	R	10	0	13	0		8	2	5	0	
+0	1	45	E	10	0	13	0		10	3	3	1	ENE
+0	0	0	C	10	0	13	0		6	4	5	0	
+0	0	0	T	10	0	13	0		5	5	8	0	
+0	0	0	S	10	0	13	0		0	6	13	0	
+0	1	46	T	10	0	13	0		10	7	3	1	TOS
+0	0	0	R	10	0	13	0		9	8	3	0	
+0	0	0	A	10	0	13	0		9	9	3	0	
+0	0	0	I	10	0	13	0		6	10	7	0	
+0	1	47	T	10	0	13	0		10	11	3	1	TIO
+0	1	48	S	10	0	13	0		10	12	3	1	STS
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	49	O	11	1	3	1	OEN	8	1	5	0	
+0	0	0	E	11	1	3	0		8	2	5	0	
+0	0	0	N	11	1	3	0		10	3	3	0	
+1	0	0	#	11	5	8	0		12	4	0	0	
+0	1	50	I	11	5	8	1	ILOVEDIT	5	5	8	0	
+0	0	0	L	11	5	8	0		0	6	13	0	
+0	0	0	O	11	5	8	0		10	7	3	0	
+0	0	0	V	11	5	8	0		9	8	3	0	
+0	0	0	E	11	5	8	0		9	9	3	0	
+0	0	0	D	11	5	8	0		6	10	7	0	
+0	0	0	I	11	5	8	0		10	11	3	0	
+0	0	0	T	11	5	8	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	51	N	12	1	3	1	NNE	8	1	5	0	
+0	0	0	N	12	1	3	0		8	2	5	0	
+0	0	0	E	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	52	T	12	5	3	1	TYS	5	5	8	0	
+0	0	0	Y	12	5	3	0		0	6	13	0	
+0	0	0	S	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	S	12	10	3	1	SOS	6	10	7	0	
+0	0	0	O	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+29
+1	SHH	Library admonishment
+4	AHA	"Oh, I see"
+7	ITA	Call-day connection
+10	PINELLAS	___ Park, Fla.
+13	DST	It ends in Oct.
+14	IMSTILLTHEONE	Shania Twain song for egotists
+17	FEZ	Cousin of a tarboosh
+18	FOE	One to counter
+19	IOS	Aegean tourist mecca
+20	ESQ	Abbr. on a shingle
+22	SUI	___ generis
+23	LST	W.W. II craft: Abbr.
+24	ALPS	Locale of the world's longest road tunnel
+26	FENDS	___ for oneself (goes it alone)
+28	LATEFORDINNER	"""Tardy at Eight"" by George S. Kaufman"
+33	ERRIS	Words before "human"
+34	LECH	First name in Polish politics
+35	CIS	U.S.S.R. successor
+38	AGO	"Fourscore and seven years ___ ..."
+39	RIO	"Notorious" setting, 1946
+40	EXO	Outside: Prefix
+41	NEU	Modern: Ger.
+42	OTE	Suffix with Capri
+44	DIRECTSTRAITS	Water passages that don't turn?
+49	OEN	Vintner's prefix
+50	ILOVEDIT	Rave review
+51	NNE	Munich-to-Berlin dir.
+52	TYS	Country singers England and Herndon
+53	SOS	Message from a desert isle, perhaps
+31
+1	SPI	Slant
+2	HIM	"She Done ___ Wrong"
+3	HNSFQPT	Deli meats
+4	ALL	Penultimate word of Warner Brothers cartoons
+5	HALFSERIOUSLY	In a semi-joking way
+6	ASTOUNDS	Blows away
+7	IDE	Suffix with cyan-
+8	TSOIL	Plowed layer
+9	ATNOS	B and O figures: Abbr.
+11	ETE	Summer abroad
+12	LIZ	Designer Claiborne
+15	HEIDI	"Project Runway" host Klum
+16	EST	N.Y.C. zone
+20	EAL	Suffix with ether
+21	SLA	Kidnappers in 70's news
+25	SEE	Envision
+26	FORGETIT	"Don't even bother!"
+27	SNL	Show with skits, for short
+29	FRANC	Coin with a laurel branch on the back
+30	NEREIDS	Sea nymphs of myth
+31	ECI	Motel freebie
+32	RHO	Letter from the Corinthians
+35	CED	Like associates, on some e-mails
+36	IXION	Zeus bound him to an eternally revolving wheel
+37	SOREN	Theologian Kierkegaard
+42	ORV	One of the Wright brothers, for short
+43	TAE	Menlo Park monogram
+45	ENE	Phoenix-to-Albuquerque dir.
+46	TOS	How-___ (instructional books)
+47	TIO	Member of an extended familia
+48	STS	Patrick and Paul: Abbr.

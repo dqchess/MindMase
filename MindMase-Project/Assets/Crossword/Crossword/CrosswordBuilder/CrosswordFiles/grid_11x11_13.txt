@@ -1,0 +1,167 @@
+grid_11x11_13
+11
+1	0	0	#	0	1	5	0		1	0	5	0	
+0	1	1	F	0	1	5	1	FARMS	0	1	7	1	FOMENTS
+0	1	2	A	0	1	5	0		0	2	11	1	ACORNSQUASH
+0	1	3	R	0	1	5	0		0	3	4	1	RANA
+0	1	4	M	0	1	5	0		0	4	3	1	MTT
+0	1	5	S	0	1	5	0		0	5	3	1	SCI
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	6	S	0	8	3	1	SER	0	8	11	1	SWASHBUCKLE
+0	1	7	E	0	8	3	0		0	9	3	1	EAD
+0	1	8	R	0	8	3	0		0	10	3	1	RHO
+0	1	9	N	1	0	7	1	NOCATCH	1	0	5	1	NASAL
+0	0	0	O	1	0	7	0		0	1	7	0	
+0	0	0	C	1	0	7	0		0	2	11	0	
+0	0	0	A	1	0	7	0		0	3	4	0	
+0	0	0	T	1	0	7	0		0	4	3	0	
+0	0	0	C	1	0	7	0		0	5	3	0	
+0	1	10	H	1	0	7	0		1	6	5	1	HLAND
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	11	W	1	8	3	1	WAH	0	8	11	0	
+0	0	0	A	1	8	3	0		0	9	3	0	
+0	0	0	H	1	8	3	0		0	10	3	0	
+0	1	12	A	2	0	11	1	AMONTILLADO	1	0	5	0	
+0	0	0	M	2	0	11	0		0	1	7	0	
+0	0	0	O	2	0	11	0		0	2	11	0	
+0	0	0	N	2	0	11	0		0	3	4	0	
+0	0	0	T	2	0	11	0		0	4	3	0	
+0	0	0	I	2	0	11	0		0	5	3	0	
+0	0	0	L	2	0	11	0		1	6	5	0	
+0	1	13	L	2	0	11	0		2	7	3	1	LEK
+0	0	0	A	2	0	11	0		0	8	11	0	
+0	0	0	D	2	0	11	0		0	9	3	0	
+0	0	0	O	2	0	11	0		0	10	3	0	
+0	1	14	S	3	0	4	1	SERA	1	0	5	0	
+0	0	0	E	3	0	4	0		0	1	7	0	
+0	0	0	R	3	0	4	0		0	2	11	0	
+0	0	0	A	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	15	A	3	6	3	1	AES	1	6	5	0	
+0	0	0	E	3	6	3	0		2	7	3	0	
+0	0	0	S	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	A	4	0	3	1	ANN	1	0	5	0	
+0	0	0	N	4	0	3	0		0	1	7	0	
+0	0	0	N	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	17	H	4	5	5	1	HNKHF	4	5	3	1	HET
+0	0	0	N	4	5	5	0		1	6	5	0	
+0	0	0	K	4	5	5	0		2	7	3	0	
+0	0	0	H	4	5	5	0		0	8	11	0	
+0	1	18	F	4	5	5	0		4	9	7	1	FENNELS
+1	0	0	#	4	11	0	0		5	10	5	0	
+0	1	19	L	5	0	3	1	LTS	1	0	5	0	
+0	0	0	T	5	0	3	0		0	1	7	0	
+0	0	0	S	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	P	5	4	3	1	PED	5	4	5	1	PAUSE
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	D	5	4	3	0		1	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	B	5	8	3	1	BET	0	8	11	0	
+0	0	0	E	5	8	3	0		4	9	7	0	
+0	1	22	T	5	8	3	0		5	10	5	1	THEYS
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	23	S	6	1	5	1	SQUAT	0	1	7	0	
+0	0	0	Q	6	1	5	0		0	2	11	0	
+0	1	24	U	6	1	5	0		6	3	3	1	UBS
+0	0	0	A	6	1	5	0		5	4	5	0	
+0	0	0	T	6	1	5	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	25	U	6	8	3	1	UNH	0	8	11	0	
+0	0	0	N	6	8	3	0		4	9	7	0	
+0	0	0	H	6	8	3	0		5	10	5	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	26	U	7	2	3	1	UBU	0	2	11	0	
+0	0	0	B	7	2	3	0		6	3	3	0	
+0	0	0	U	7	2	3	0		5	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	27	A	7	7	4	1	ACNE	7	7	4	1	ANOS
+0	0	0	C	7	7	4	0		0	8	11	0	
+0	0	0	N	7	7	4	0		4	9	7	0	
+0	0	0	E	7	7	4	0		5	10	5	0	
+0	1	28	B	8	0	11	1	BRASSMONKEY	8	0	3	1	BIL
+0	1	29	R	8	0	11	0		8	1	3	1	RIS
+0	0	0	A	8	0	11	0		0	2	11	0	
+0	0	0	S	8	0	11	0		6	3	3	0	
+0	0	0	S	8	0	11	0		5	4	5	0	
+0	1	30	M	8	0	11	0		8	5	3	1	MNO
+0	1	31	O	8	0	11	0		8	6	3	1	ORA
+0	0	0	N	8	0	11	0		7	7	4	0	
+0	0	0	K	8	0	11	0		0	8	11	0	
+0	0	0	E	8	0	11	0		4	9	7	0	
+0	0	0	Y	8	0	11	0		5	10	5	0	
+0	1	32	I	9	0	3	1	IIS	8	0	3	0	
+0	0	0	I	9	0	3	0		8	1	3	0	
+0	0	0	S	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	33	E	9	4	7	1	ENROLLS	5	4	5	0	
+0	0	0	N	9	4	7	0		8	5	3	0	
+0	0	0	R	9	4	7	0		8	6	3	0	
+0	0	0	O	9	4	7	0		7	7	4	0	
+0	0	0	L	9	4	7	0		0	8	11	0	
+0	0	0	L	9	4	7	0		4	9	7	0	
+0	0	0	S	9	4	7	0		5	10	5	0	
+0	1	34	L	10	0	3	1	LSH	8	0	3	0	
+0	0	0	S	10	0	3	0		8	1	3	0	
+0	0	0	H	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	35	O	10	5	5	1	OASES	8	5	3	0	
+0	0	0	A	10	5	5	0		8	6	3	0	
+0	0	0	S	10	5	5	0		7	7	4	0	
+0	0	0	E	10	5	5	0		0	8	11	0	
+0	0	0	S	10	5	5	0		4	9	7	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	FARMS	Grows crops
+6	SER	Sunday offering: Abbr.
+9	NOCATCH	Instant replay ruling
+11	WAH	Baby's wail
+12	AMONTILLADO	Spanish sherry
+14	SERA	Word repeated in a Doris Day song
+15	AES	D.D.E.'s political rival
+16	ANN	Massachusetts cape
+17	HNKHF	Drug-yielding plant
+19	LTS	Some "JAG" roles: Abbr.
+20	PED	___ Xing (sign)
+21	BET	See or call
+23	SQUAT	Baseball catcher's position
+25	UNH	The Wildcats of the America East Conf.
+26	UBU	"___ Roi" (Alfred Jarry play)
+27	ACNE	Teen annoyance
+28	BRASSMONKEY	Rum/vodka cocktail
+32	IIS	"___ for igloo"
+33	ENROLLS	Signs up
+34	LSH	Sorority letters
+35	OASES	Desert havens
+21
+1	FOMENTS	Works up
+2	ACORNSQUASH	Garden gourd
+3	RANA	___ fever
+4	MTT	Ball catcher
+5	SCI	Fi leader
+6	SWASHBUCKLE	Emulate Errol Flynn
+7	EAD	Year that Augustus exiled Ovid
+8	RHO	Density symbol, in physics
+9	NASAL	Like some blocked passages
+10	HLAND	Middle of the country
+13	LEK	100 qintars
+17	HET	Steamed (up)
+18	FENNELS	Aniselike herbs
+20	PAUSE	Time-out
+22	THEYS	Bridge opponents
+24	UBS	Financial inst. that bought PaineWebber in 2000
+27	ANOS	A long time in Lisbon
+28	BIL	Puppeteer Baird
+29	RIS	Sue Grafton's "___ for Ricochet"
+30	MNO	6 letters
+31	ORA	"... boy ___ girl?"

@@ -1,0 +1,115 @@
+grid_9x9_199
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	W	0	1	3	1	WIM	0	1	5	1	WELDS
+0	1	2	I	0	1	3	0		0	2	9	1	IVORYSOAP
+0	1	3	M	0	1	3	0		0	3	3	1	MOB
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	G	0	6	3	1	GRE	0	6	9	1	GLISSANDO
+0	1	5	R	0	6	3	0		0	7	3	1	ROS
+0	1	6	E	0	6	3	0		0	8	3	1	ELM
+0	1	7	L	1	0	5	1	LEVON	1	0	3	1	LGA
+0	0	0	E	1	0	5	0		0	1	5	0	
+0	0	0	V	1	0	5	0		0	2	9	0	
+0	0	0	O	1	0	5	0		0	3	3	0	
+0	1	8	N	1	0	5	0		1	4	7	1	NATALIE
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	L	1	6	3	1	LOL	0	6	9	0	
+0	0	0	O	1	6	3	0		0	7	3	0	
+0	0	0	L	1	6	3	0		0	8	3	0	
+0	1	10	G	2	0	9	1	GLOBALISM	1	0	3	0	
+0	0	0	L	2	0	9	0		0	1	5	0	
+0	0	0	O	2	0	9	0		0	2	9	0	
+0	0	0	B	2	0	9	0		0	3	3	0	
+0	0	0	A	2	0	9	0		1	4	7	0	
+0	1	11	L	2	0	9	0		2	5	3	1	LAP
+0	0	0	I	2	0	9	0		0	6	9	0	
+0	0	0	S	2	0	9	0		0	7	3	0	
+0	0	0	M	2	0	9	0		0	8	3	0	
+0	1	12	A	3	0	3	1	ADR	1	0	3	0	
+0	0	0	D	3	0	3	0		0	1	5	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	T	3	4	3	1	TAS	1	4	7	0	
+0	0	0	A	3	4	3	0		2	5	3	0	
+0	0	0	S	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	S	4	1	7	1	SYNAPSE	0	1	5	0	
+0	0	0	Y	4	1	7	0		0	2	9	0	
+0	1	15	N	4	1	7	0		4	3	3	1	NUT
+0	0	0	A	4	1	7	0		1	4	7	0	
+0	0	0	P	4	1	7	0		2	5	3	0	
+0	0	0	S	4	1	7	0		0	6	9	0	
+0	1	16	E	4	1	7	0		4	7	5	1	ENATE
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	S	5	2	3	1	SUL	0	2	9	0	
+0	0	0	U	5	2	3	0		4	3	3	0	
+0	0	0	L	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	A	5	6	3	1	ANS	0	6	9	0	
+0	0	0	N	5	6	3	0		4	7	5	0	
+0	1	19	S	5	6	3	0		5	8	3	1	SLO
+0	1	20	E	6	0	9	1	EMOTIONAL	6	0	3	1	ECI
+0	1	21	M	6	0	9	0		6	1	3	1	MMM
+0	0	0	O	6	0	9	0		0	2	9	0	
+0	0	0	T	6	0	9	0		4	3	3	0	
+0	0	0	I	6	0	9	0		1	4	7	0	
+0	1	22	O	6	0	9	0		6	5	3	1	ONT
+0	0	0	N	6	0	9	0		0	6	9	0	
+0	0	0	A	6	0	9	0		4	7	5	0	
+0	0	0	L	6	0	9	0		5	8	3	0	
+0	1	23	C	7	0	3	1	CMA	6	0	3	0	
+0	0	0	M	7	0	3	0		6	1	3	0	
+0	0	0	A	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	E	7	4	5	1	ENDTO	1	4	7	0	
+0	0	0	N	7	4	5	0		6	5	3	0	
+0	0	0	D	7	4	5	0		0	6	9	0	
+0	0	0	T	7	4	5	0		4	7	5	0	
+0	0	0	O	7	4	5	0		5	8	3	0	
+0	1	25	I	8	0	3	1	IMP	6	0	3	0	
+0	0	0	M	8	0	3	0		6	1	3	0	
+0	0	0	P	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	T	8	5	3	1	TOE	6	5	3	0	
+0	0	0	O	8	5	3	0		0	6	9	0	
+0	0	0	E	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	WIM	Director Wenders
+4	GRE	Test for coll. seniors
+7	LEVON	1972 Elton John hit
+9	LOL	Cyber-chortle
+10	GLOBALISM	Doctrine that de-emphasizes regional interests
+12	ADR	Worker in the TV biz
+13	TAS	Some grad students, for short
+14	SYNAPSE	Neurotransmission site
+17	SUL	South of Brazil?
+18	ANS	Follow-up to a ques.
+20	EMOTIONAL	Quick to cry
+23	CMA	Nashville-based awards org.
+24	ENDTO	"Is there no ___ this?"
+25	IMP	Mischief-maker
+26	TOE	Little piggy?
+15
+1	WELDS	Joins
+2	IVORYSOAP	Bar since 1879
+3	MOB	"The Godfather" crowd, with "the"
+4	GLISSANDO	Dramatic piano passage
+5	ROS	Children's writer Asquith
+6	ELM	Bite for a bark beetle
+7	LGA	It's 11 miles NNW of JFK
+8	NATALIE	Merchant of music
+11	LAP	Drink like a dog
+15	NUT	Loony bird
+16	ENATE	Growing out
+19	SLO	Driver's caution
+20	ECI	Motel freebie
+21	MMM	"Tasty!"
+22	ONT	Minn. neighbor

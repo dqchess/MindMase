@@ -1,0 +1,117 @@
+grid_9x9_59
+9
+0	1	1	O	0	0	3	1	OBS	0	0	3	1	ORE
+0	1	2	B	0	0	3	0		0	1	4	1	BULK
+0	1	3	S	0	0	3	0		0	2	4	1	SPIT
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	M	0	5	3	1	MFA	0	5	3	1	MEH
+0	1	5	F	0	5	3	0		0	6	4	1	FLOP
+0	1	6	A	0	5	3	0		0	7	4	1	AIWA
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	R	1	0	3	1	RUP	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	4	0	
+0	0	0	P	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	C	1	4	5	1	CELIA	1	4	7	1	CSLEWIS
+0	0	0	E	1	4	5	0		0	5	3	0	
+0	0	0	L	1	4	5	0		0	6	4	0	
+0	0	0	I	1	4	5	0		0	7	4	0	
+0	1	9	A	1	4	5	0		1	8	3	1	AES
+0	1	10	E	2	0	9	1	ELIASHOWE	0	0	3	0	
+0	0	0	L	2	0	9	0		0	1	4	0	
+0	0	0	I	2	0	9	0		0	2	4	0	
+0	1	11	A	2	0	9	0		2	3	3	1	AEC
+0	0	0	S	2	0	9	0		1	4	7	0	
+0	0	0	H	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	4	0	
+0	0	0	W	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	K	3	1	4	1	KTEL	0	1	4	0	
+0	0	0	T	3	1	4	0		0	2	4	0	
+0	0	0	E	3	1	4	0		2	3	3	0	
+0	0	0	L	3	1	4	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	P	3	6	3	1	PAS	0	6	4	0	
+0	0	0	A	3	6	3	0		0	7	4	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	C	4	3	3	1	CEE	2	3	3	0	
+0	0	0	E	4	3	3	0		1	4	7	0	
+0	1	15	E	4	3	3	0		4	5	3	1	EEK
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	F	5	0	3	1	FRE	5	0	3	1	FDA
+0	1	17	R	5	0	3	0		5	1	4	1	RIRE
+0	1	18	E	5	0	3	0		5	2	4	1	ESSU
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	19	W	5	4	4	1	WEIR	1	4	7	0	
+0	0	0	E	5	4	4	0		4	5	3	0	
+0	1	20	I	5	4	4	0		5	6	4	1	IIII
+0	1	21	R	5	4	4	0		5	7	4	1	RNAS
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	D	6	0	9	1	DISLIKING	5	0	3	0	
+0	0	0	I	6	0	9	0		5	1	4	0	
+0	0	0	S	6	0	9	0		5	2	4	0	
+0	1	23	L	6	0	9	0		6	3	3	1	LID
+0	0	0	I	6	0	9	0		1	4	7	0	
+0	0	0	K	6	0	9	0		4	5	3	0	
+0	0	0	I	6	0	9	0		5	6	4	0	
+0	0	0	N	6	0	9	0		5	7	4	0	
+0	1	24	G	6	0	9	0		6	8	3	1	GLI
+0	1	25	A	7	0	5	1	ARSIS	5	0	3	0	
+0	0	0	R	7	0	5	0		5	1	4	0	
+0	0	0	S	7	0	5	0		5	2	4	0	
+0	0	0	I	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	26	I	7	6	3	1	IAL	5	6	4	0	
+0	0	0	A	7	6	3	0		5	7	4	0	
+0	0	0	L	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	E	8	1	3	1	EUD	5	1	4	0	
+0	0	0	U	8	1	3	0		5	2	4	0	
+0	0	0	D	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	28	I	8	6	3	1	ISI	5	6	4	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	0	0	I	8	6	3	0		6	8	3	0	
+15
+1	OBS	Out-of-date: Abbr.
+4	MFA	Deg. from Parsons, perhaps
+7	RUP	Was revolting
+8	CELIA	Oliver's "As You Like It" love
+10	ELIASHOWE	Garment industry innovator
+12	KTEL	"Hooked on Classics" record company
+13	PAS	Stage setups, for short
+14	CEE	Epcot center?
+16	FRE	Boatload
+19	WEIR	Dam across a creek
+22	DISLIKING	Not taking kindly to
+25	ARSIS	Upbeat, in music
+26	IAL	Suffix with resident
+27	EUD	Fix a squeak
+28	ISI	"Whatever it ___ don't care!"
+17
+1	ORE	Mine metal
+2	BULK	Major portion
+3	SPIT	It turns at a pig roast
+4	MEH	"Doesn't thrill me"
+5	FLOP	Turkey, businesswise
+6	AIWA	Panasonic competitor
+8	CSLEWIS	"Perelandra" novelist
+9	AES	J.F.K.'s U.N. ambassador
+11	AEC	Agcy. replaced by the N.R.C.
+15	EEK	Hair-raising shriek
+16	FDA	Org. overseeing trials
+17	RIRE	Laugh, in Lille
+18	ESSU	"Mi casa ___ casa"
+20	IIII	Late afternoon on a sundial
+21	RNAS	Cytoplasmic molecules
+23	LID	Something to flip
+24	GLI	Los : Spanish :: ___ : Italian

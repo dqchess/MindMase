@@ -1,0 +1,117 @@
+grid_9x9_94
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	M	0	1	3	1	MIB	0	1	4	1	MONA
+0	1	2	I	0	1	3	0		0	2	9	1	IMTELLING
+0	1	3	B	0	1	3	0		0	3	3	1	BAS
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	W	0	6	3	1	WAF	0	6	9	1	WIREPHOTO
+0	1	5	A	0	6	3	0		0	7	4	1	ACAT
+0	1	6	F	0	6	3	0		0	8	3	1	FST
+0	1	7	L	1	0	4	1	LOMA	1	0	3	1	LTS
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	M	1	0	4	0		0	2	9	0	
+0	0	0	A	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	R	1	5	4	1	RICS	1	5	4	1	RECU
+0	0	0	I	1	5	4	0		0	6	9	0	
+0	0	0	C	1	5	4	0		0	7	4	0	
+0	0	0	S	1	5	4	0		0	8	3	0	
+0	1	9	T	2	0	4	1	TNTS	1	0	3	0	
+0	0	0	N	2	0	4	0		0	1	4	0	
+0	0	0	T	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	E	2	5	4	1	ERAT	1	5	4	0	
+0	0	0	R	2	5	4	0		0	6	9	0	
+0	0	0	A	2	5	4	0		0	7	4	0	
+0	0	0	T	2	5	4	0		0	8	3	0	
+0	1	11	S	3	0	3	1	SAE	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	4	0	
+0	0	0	E	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	I	3	4	4	1	ICET	3	4	3	1	ITO
+0	0	0	C	3	4	4	0		1	5	4	0	
+0	0	0	E	3	4	4	0		0	6	9	0	
+0	0	0	T	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	13	L	4	2	5	1	LITUP	0	2	9	0	
+0	1	14	I	4	2	5	0		4	3	4	1	IMNO
+0	0	0	T	4	2	5	0		3	4	3	0	
+0	0	0	U	4	2	5	0		1	5	4	0	
+0	0	0	P	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	E	5	1	4	1	ELMO	5	1	4	1	ELMA
+0	0	0	L	5	1	4	0		0	2	9	0	
+0	0	0	M	5	1	4	0		4	3	4	0	
+0	0	0	O	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	16	H	5	6	3	1	HBO	0	6	9	0	
+0	1	17	B	5	6	3	0		5	7	4	1	BERM
+0	1	18	O	5	6	3	0		5	8	3	1	OLA
+0	1	19	M	6	0	4	1	MLIN	6	0	3	1	MLB
+0	0	0	L	6	0	4	0		5	1	4	0	
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	0	0	N	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	20	J	6	5	4	1	JOEL	6	5	3	1	JOT
+0	0	0	O	6	5	4	0		0	6	9	0	
+0	0	0	E	6	5	4	0		5	7	4	0	
+0	0	0	L	6	5	4	0		5	8	3	0	
+0	1	21	L	7	0	4	1	LMNO	6	0	3	0	
+0	0	0	M	7	0	4	0		5	1	4	0	
+0	0	0	N	7	0	4	0		0	2	9	0	
+0	0	0	O	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	O	7	5	4	1	OTRA	6	5	3	0	
+0	0	0	T	7	5	4	0		0	6	9	0	
+0	0	0	R	7	5	4	0		5	7	4	0	
+0	0	0	A	7	5	4	0		5	8	3	0	
+0	1	23	B	8	0	3	1	BAG	6	0	3	0	
+0	0	0	A	8	0	3	0		5	1	4	0	
+0	0	0	G	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	T	8	5	3	1	TOM	6	5	3	0	
+0	0	0	O	8	5	3	0		0	6	9	0	
+0	0	0	M	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	MIB	1997 Will Smith/Tommy Lee Jones blockbuster, for short
+4	WAF	Old U.S. military aux.
+7	LOMA	1989's ___ Prieta earthquake
+8	RICS	Wrestler Flair and others
+9	TNTS	Demolition supplies
+10	ERAT	Ezra Pound's "___ Hora"
+11	SAE	Encl. to an editor
+12	ICET	His debut album was "Rhyme Pays"
+13	LITUP	Shining
+15	ELMO	Must-have toy of 1996
+16	HBO	"The Chris Rock Show" shower
+19	MLIN	Prized game fish
+20	JOEL	Director Schumacher
+21	LMNO	Alphabet quartet
+22	OTRA	Not this or that, below the border
+23	BAG	Base in baseball
+24	TOM	Singer Waits
+15
+1	MONA	"The Best Little Whorehouse in Texas" woman
+2	IMTELLING	Schoolyard snitch's words
+3	BAS	Some degs.
+4	WIREPHOTO	A.P. transmission
+5	ACAT	Nervous as ___
+6	FST	Camera setting
+7	LTS	Mil. figures
+8	RECU	Obtained: Fr.
+12	ITO	Robert of "Quincy"
+14	IMNO	"___ Angel" (Mae West film)
+15	ELMA	Town outside of Buffalo
+17	BERM	Road's shoulder
+18	OLA	Motor suffix, commercially
+19	MLB	Org. for Mariners
+20	JOT	Smidgen

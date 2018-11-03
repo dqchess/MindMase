@@ -1,0 +1,311 @@
+grid_15x15_14
+15
+0	1	1	A	0	0	5	1	ANILE	0	0	3	1	ASC
+0	1	2	N	0	0	5	0		0	1	8	1	NTHPOWER
+0	1	3	I	0	0	5	0		0	2	8	1	IRRITATE
+0	1	4	L	0	0	5	0		0	3	4	1	LUIS
+0	1	5	E	0	0	5	0		0	4	3	1	EGS
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	7	0	
+0	1	6	G	0	7	3	1	GEE	0	7	4	1	GAOL
+0	1	7	E	0	7	3	0		0	8	5	1	ENCES
+0	1	8	E	0	7	3	0		0	9	3	1	ESK
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	9	C	0	11	3	1	CCI	0	11	4	1	CELL
+0	1	10	C	0	11	3	0		0	12	6	1	CLAIRE
+0	1	11	I	0	11	3	0		0	13	6	1	ISLAER
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	12	S	1	0	5	1	STRUG	0	0	3	0	
+0	0	0	T	1	0	5	0		0	1	8	0	
+0	0	0	R	1	0	5	0		0	2	8	0	
+0	0	0	U	1	0	5	0		0	3	4	0	
+0	0	0	G	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	4	0		2	5	9	0	
+0	1	13	T	1	6	4	1	TANS	1	6	7	1	TREKKED
+0	0	0	A	1	6	4	0		0	7	4	0	
+0	0	0	N	1	6	4	0		0	8	5	0	
+0	0	0	S	1	6	4	0		0	9	3	0	
+1	0	0	#	1	11	3	0		2	10	0	0	
+0	1	14	E	1	11	3	1	ELS	0	11	4	0	
+0	0	0	L	1	11	3	0		0	12	6	0	
+0	0	0	S	1	11	3	0		0	13	6	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	C	2	0	10	1	CHRISFROCK	0	0	3	0	
+0	0	0	H	2	0	10	0		0	1	8	0	
+0	0	0	R	2	0	10	0		0	2	8	0	
+0	0	0	I	2	0	10	0		0	3	4	0	
+0	0	0	S	2	0	10	0		0	4	3	0	
+0	1	16	F	2	0	10	0		2	5	9	1	FULLTIMER
+0	0	0	R	2	0	10	0		1	6	7	0	
+0	0	0	O	2	0	10	0		0	7	4	0	
+0	0	0	C	2	0	10	0		0	8	5	0	
+0	0	0	K	2	0	10	0		0	9	3	0	
+1	0	0	#	2	11	4	0		3	10	4	0	
+0	1	17	L	2	11	4	1	LALA	0	11	4	0	
+0	0	0	A	2	11	4	0		0	12	6	0	
+0	0	0	L	2	11	4	0		0	13	6	0	
+0	1	18	A	2	11	4	0		2	14	3	1	ADL
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	19	P	3	1	3	1	PIS	0	1	8	0	
+0	0	0	I	3	1	3	0		0	2	8	0	
+0	0	0	S	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	4	0		4	4	3	0	
+0	1	20	U	3	5	4	1	UELE	2	5	9	0	
+0	0	0	E	3	5	4	0		1	6	7	0	
+0	0	0	L	3	5	4	0		0	7	4	0	
+0	0	0	E	3	5	4	0		0	8	5	0	
+1	0	0	#	3	10	5	0		4	9	9	0	
+0	1	21	I	3	10	5	1	ILIAD	3	10	4	1	IMNO
+0	0	0	L	3	10	5	0		0	11	4	0	
+0	0	0	I	3	10	5	0		0	12	6	0	
+0	0	0	A	3	10	5	0		0	13	6	0	
+0	0	0	D	3	10	5	0		2	14	3	0	
+0	1	22	L	4	0	3	1	LOT	4	0	3	1	LSH
+0	0	0	O	4	0	3	0		0	1	8	0	
+0	0	0	T	4	0	3	0		0	2	8	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	23	E	4	4	3	1	ELK	4	4	3	1	EIS
+0	0	0	L	4	4	3	0		2	5	9	0	
+0	0	0	K	4	4	3	0		1	6	7	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	24	S	4	8	3	1	SWM	0	8	5	0	
+0	1	25	W	4	8	3	0		4	9	9	1	WINDSCALE
+0	0	0	M	4	8	3	0		3	10	4	0	
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	26	R	4	12	3	1	REL	0	12	6	0	
+0	0	0	E	4	12	3	0		0	13	6	0	
+0	0	0	L	4	12	3	0		2	14	3	0	
+0	1	27	S	5	0	3	1	SWA	4	0	3	0	
+0	0	0	W	5	0	3	0		0	1	8	0	
+0	0	0	A	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	28	I	5	4	3	1	ILK	4	4	3	0	
+0	0	0	L	5	4	3	0		2	5	9	0	
+0	0	0	K	5	4	3	0		1	6	7	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	0	0	
+0	1	29	I	5	9	5	1	INHER	4	9	9	0	
+0	0	0	N	5	9	5	0		3	10	4	0	
+0	1	30	H	5	9	5	0		5	11	3	1	HEP
+0	0	0	E	5	9	5	0		0	12	6	0	
+0	0	0	R	5	9	5	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	H	6	0	3	1	HET	4	0	3	0	
+0	0	0	E	6	0	3	0		0	1	8	0	
+0	0	0	T	6	0	3	0		0	2	8	0	
+1	0	0	#	6	4	4	0		7	3	3	0	
+0	1	32	S	6	4	4	1	STEM	4	4	3	0	
+0	0	0	T	6	4	4	0		2	5	9	0	
+0	0	0	E	6	4	4	0		1	6	7	0	
+0	1	33	M	6	4	4	0		6	7	3	1	MLK
+1	0	0	#	6	9	3	0		7	8	7	0	
+0	1	34	N	6	9	3	1	NOE	4	9	9	0	
+0	0	0	O	6	9	3	0		3	10	4	0	
+0	0	0	E	6	9	3	0		5	11	3	0	
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	35	R	7	1	3	1	REN	0	1	8	0	
+0	0	0	E	7	1	3	0		0	2	8	0	
+0	1	36	N	7	1	3	0		7	3	3	1	NIK
+1	0	0	#	7	5	5	0		8	4	4	0	
+0	1	37	I	7	5	5	1	IDLED	2	5	9	0	
+0	0	0	D	7	5	5	0		1	6	7	0	
+0	0	0	L	7	5	5	0		6	7	3	0	
+0	1	38	E	7	5	5	0		7	8	7	1	EMERITA
+0	0	0	D	7	5	5	0		4	9	9	0	
+1	0	0	#	7	11	3	0		8	10	3	0	
+0	1	39	P	7	11	3	1	PUR	5	11	3	0	
+0	1	40	U	7	11	3	0		7	12	8	1	UNDERAGE
+0	1	41	R	7	11	3	0		7	13	8	1	RESTYLES
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	6	0	
+1	0	0	#	8	3	3	0		9	2	6	0	
+0	1	42	I	8	3	3	1	IAM	7	3	3	0	
+0	1	43	A	8	3	3	0		8	4	4	1	AKIO
+0	0	0	M	8	3	3	0		2	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	44	K	8	7	4	1	KMSP	6	7	3	0	
+0	0	0	M	8	7	4	0		7	8	7	0	
+0	0	0	S	8	7	4	0		4	9	9	0	
+0	1	45	P	8	7	4	0		8	10	3	1	POW
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	46	N	8	12	3	1	NEL	7	12	8	0	
+0	0	0	E	8	12	3	0		7	13	8	0	
+0	1	47	L	8	12	3	0		8	14	3	1	LCD
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	48	B	9	1	5	1	BAKKE	9	1	6	1	BARBED
+0	1	49	A	9	1	5	0		9	2	6	1	AGARIC
+0	0	0	K	9	1	5	0		7	3	3	0	
+0	0	0	K	9	1	5	0		8	4	4	0	
+0	0	0	E	9	1	5	0		2	5	9	0	
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	50	E	9	8	3	1	ECO	7	8	7	0	
+0	0	0	C	9	8	3	0		4	9	9	0	
+0	0	0	O	9	8	3	0		8	10	3	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	51	D	9	12	3	1	DSC	7	12	8	0	
+0	0	0	S	9	12	3	0		7	13	8	0	
+0	0	0	C	9	12	3	0		8	14	3	0	
+0	1	52	T	10	0	3	1	TAG	10	0	3	1	TEE
+0	0	0	A	10	0	3	0		9	1	6	0	
+0	0	0	G	10	0	3	0		9	2	6	0	
+1	0	0	#	10	4	3	0		11	3	4	0	
+0	1	53	I	10	4	3	1	IRS	8	4	4	0	
+0	0	0	R	10	4	3	0		2	5	9	0	
+0	1	54	S	10	4	3	0		10	6	5	1	SHEBA
+1	0	0	#	10	8	3	0		11	7	4	0	
+0	1	55	R	10	8	3	1	RAW	7	8	7	0	
+0	0	0	A	10	8	3	0		4	9	9	0	
+0	0	0	W	10	8	3	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	56	E	10	12	3	1	ETD	7	12	8	0	
+0	0	0	T	10	12	3	0		7	13	8	0	
+0	0	0	D	10	12	3	0		8	14	3	0	
+0	1	57	E	11	0	5	1	ERATO	10	0	3	0	
+0	0	0	R	11	0	5	0		9	1	6	0	
+0	0	0	A	11	0	5	0		9	2	6	0	
+0	1	58	T	11	0	5	0		11	3	4	1	TONO
+0	0	0	O	11	0	5	0		8	4	4	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	59	H	11	6	4	1	HAIL	10	6	5	0	
+0	1	60	A	11	6	4	0		11	7	4	1	ATRA
+0	0	0	I	11	6	4	0		7	8	7	0	
+0	0	0	L	11	6	4	0		4	9	9	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	61	W	11	11	3	1	WRY	11	11	4	1	WHAT
+0	0	0	R	11	11	3	0		7	12	8	0	
+0	0	0	Y	11	11	3	0		7	13	8	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	62	E	12	0	4	1	EBRO	10	0	3	0	
+0	0	0	B	12	0	4	0		9	1	6	0	
+0	0	0	R	12	0	4	0		9	2	6	0	
+0	0	0	O	12	0	4	0		11	3	4	0	
+1	0	0	#	12	5	10	0		13	4	0	0	
+0	1	63	B	12	5	10	1	BETTERHALF	12	5	3	1	BUB
+0	0	0	E	12	5	10	0		10	6	5	0	
+0	0	0	T	12	5	10	0		11	7	4	0	
+0	0	0	T	12	5	10	0		7	8	7	0	
+0	0	0	E	12	5	10	0		4	9	9	0	
+0	1	64	R	12	5	10	0		12	10	3	1	RNS
+0	0	0	H	12	5	10	0		11	11	4	0	
+0	0	0	A	12	5	10	0		7	12	8	0	
+0	0	0	L	12	5	10	0		7	13	8	0	
+0	1	65	F	12	5	10	0		12	14	3	1	FLU
+1	0	0	#	13	1	3	0		14	0	0	0	
+0	1	66	E	13	1	3	1	EIN	9	1	6	0	
+0	0	0	I	13	1	3	0		9	2	6	0	
+0	0	0	N	13	1	3	0		11	3	4	0	
+1	0	0	#	13	5	4	0		14	4	0	0	
+0	1	67	U	13	5	4	1	UBRA	12	5	3	0	
+0	0	0	B	13	5	4	0		10	6	5	0	
+0	0	0	R	13	5	4	0		11	7	4	0	
+0	0	0	A	13	5	4	0		7	8	7	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	68	N	13	10	5	1	NAGEL	12	10	3	0	
+0	0	0	A	13	10	5	0		11	11	4	0	
+0	0	0	G	13	10	5	0		7	12	8	0	
+0	0	0	E	13	10	5	0		7	13	8	0	
+0	0	0	L	13	10	5	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	69	D	14	1	3	1	DCO	9	1	6	0	
+0	0	0	C	14	1	3	0		9	2	6	0	
+0	0	0	O	14	1	3	0		11	3	4	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	70	B	14	5	3	1	BAA	12	5	3	0	
+0	0	0	A	14	5	3	0		10	6	5	0	
+0	0	0	A	14	5	3	0		11	7	4	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	5	0		15	9	0	0	
+0	1	71	S	14	10	5	1	STESU	12	10	3	0	
+0	0	0	T	14	10	5	0		11	11	4	0	
+0	0	0	E	14	10	5	0		7	12	8	0	
+0	0	0	S	14	10	5	0		7	13	8	0	
+0	0	0	U	14	10	5	0		12	14	3	0	
+45
+1	ANILE	Old-womanish
+6	GEE	"Wow, I didn't know that!"
+9	CCI	Year in the papacy of St. Zephyrinus
+12	STRUG	Olympic gymnast Kerri
+13	TANS	Catches some rays
+14	ELS	Golf's Big Easy
+15	CHRISFROCK	Cross-dressing comedian?
+17	LALA	Fa followers
+19	PIS	Tecs
+20	UELE	River to the Ubangi
+21	ILIAD	Inspiration for "Troilus and Cressida"
+22	LOT	Nephew of Abraham
+23	ELK	Forest ranger
+24	SWM	Certain guy, in personals shorthand
+26	REL	Kind of affiliation: Abbr.
+27	SWA	United competitor: Abbr.
+28	ILK	Family
+29	INHER	"And to those thorns that ___ bosom lodge": Shak.
+31	HET	Excited, with "up"
+32	STEM	Spring (from)
+34	NOE	French caricaturist Comte de ___
+35	REN	Cartoon character whose last name is H
+37	IDLED	Ran in neutral
+39	PUR	Big name in water filters
+42	IAM	Descartes conclusion
+44	KMSP	North Carolina college
+46	NEL	"Volare (___ Blu Dipinto di Blu)"
+48	BAKKE	Winner of a noted 1978 Supreme Court case
+50	ECO	Prefix with terrorism
+51	DSC	Mil. decoration
+52	TAG	Follow closely (along)
+53	IRS	Returns home?
+55	RAW	Cold and wet
+56	ETD	Sched. approximation
+57	ERATO	Muse for Whitman
+59	HAIL	Approve enthusiastically
+61	WRY	Twisted, as humor
+62	EBRO	Catalan river
+63	BETTERHALF	Spouse, jokingly
+66	EIN	Kafka's "___ Hungerk
+67	UBRA	Shadow
+68	NAGEL	Actor Conrad of old films
+69	DCO	Mexican-style fast-food chain
+70	BAA	Ewe's cry
+71	STESU	Bothers
+37
+1	ASC	Camera operator's org.
+2	NTHPOWER	Ultimate degree
+3	IRRITATE	Needle
+4	LUIS	"Los Olvidados" director Bu
+5	EGS	Units in physics
+6	GAOL	Canterbury can
+7	ENCES	Suffixes with depend and differ
+8	ESK	Northern Amer.
+9	CELL	It makes a bit of a stir
+10	CLAIRE	Bloom in movies
+11	ISLAER	Frequent ferry rider
+13	TREKKED	Migrated like the Boers
+16	FULLTIMER	40-hour-a-weeker
+18	ADL	B'nai B'rith watchdog org.
+21	IMNO	"___ Angel" (1933 comedy)
+22	LSH	Sorority letters
+23	EIS	Cologne cooler
+25	WINDSCALE	Beaufort, for one
+30	HEP	In the know, in old slang
+33	MLK	January holiday inits.
+36	NIK	Suffix with no-good
+38	EMERITA	Professor ___
+40	UNDERAGE	Using a fake ID, perhaps
+41	RESTYLES	Does up differently
+43	AKIO	Sony founder Morita
+45	POW	"Wham!"
+47	LCD	30, for 1/5 and 1/6, e.g.: Abbr.
+48	BARBED	Cutting
+49	AGARIC	Kind of mushroom
+52	TEE	Kickoff aid
+54	SHEBA	Title dog in an Inge play
+58	TONO	___ end
+60	ATRA	Gillette ___ Plus
+61	WHAT	Request for repetition
+63	BUB	Pal
+64	RNS	Hosp. employees
+65	FLU	Winter bug

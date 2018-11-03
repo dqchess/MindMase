@@ -1,0 +1,309 @@
+grid_15x15_122
+15
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	Y	0	1	3	1	YFR	0	1	6	1	YOUNGS
+0	1	2	F	0	1	3	0		0	2	6	1	FASCIA
+0	1	3	R	0	1	3	0		0	3	3	1	RLS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	E	0	6	3	1	EGG	0	6	6	1	EGNOPS
+0	1	5	G	0	6	3	0		0	7	5	1	GORKI
+0	1	6	G	0	6	3	0		0	8	3	1	GOO
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	4	0		1	10	3	0	
+0	1	7	L	0	11	4	1	LABS	0	11	5	1	LIESL
+0	1	8	A	0	11	4	0		0	12	3	1	AGT
+0	1	9	B	0	11	4	0		0	13	3	1	BHT
+0	1	10	S	0	11	4	0		0	14	3	1	STE
+0	1	11	T	1	0	15	1	TOALLAGOODNIGHT	1	0	4	1	TRAC
+0	0	0	O	1	0	15	0		0	1	6	0	
+0	0	0	A	1	0	15	0		0	2	6	0	
+0	0	0	L	1	0	15	0		0	3	3	0	
+0	1	12	L	1	0	15	0		1	4	3	1	LII
+0	1	13	A	1	0	15	0		1	5	3	1	AAM
+0	0	0	G	1	0	15	0		0	6	6	0	
+0	0	0	O	1	0	15	0		0	7	5	0	
+0	0	0	O	1	0	15	0		0	8	3	0	
+0	1	14	D	1	0	15	0		1	9	3	1	DUI
+0	1	15	N	1	0	15	0		1	10	3	1	NLQ
+0	0	0	I	1	0	15	0		0	11	5	0	
+0	0	0	G	1	0	15	0		0	12	3	0	
+0	0	0	H	1	0	15	0		0	13	3	0	
+0	0	0	T	1	0	15	0		0	14	3	0	
+0	1	16	R	2	0	15	1	RUSSIANROULETTE	1	0	4	0	
+0	0	0	U	2	0	15	0		0	1	6	0	
+0	0	0	S	2	0	15	0		0	2	6	0	
+0	0	0	S	2	0	15	0		0	3	3	0	
+0	0	0	I	2	0	15	0		1	4	3	0	
+0	0	0	A	2	0	15	0		1	5	3	0	
+0	0	0	N	2	0	15	0		0	6	6	0	
+0	0	0	R	2	0	15	0		0	7	5	0	
+0	0	0	O	2	0	15	0		0	8	3	0	
+0	0	0	U	2	0	15	0		1	9	3	0	
+0	0	0	L	2	0	15	0		1	10	3	0	
+0	0	0	E	2	0	15	0		0	11	5	0	
+0	0	0	T	2	0	15	0		0	12	3	0	
+0	0	0	T	2	0	15	0		0	13	3	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+0	1	17	A	3	0	3	1	ANC	1	0	4	0	
+0	0	0	N	3	0	3	0		0	1	6	0	
+0	0	0	C	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	18	I	3	4	4	1	IMOK	1	4	3	0	
+0	0	0	M	3	4	4	0		1	5	3	0	
+0	0	0	O	3	4	4	0		0	6	6	0	
+0	0	0	K	3	4	4	0		0	7	5	0	
+1	0	0	#	3	9	3	0		4	8	4	0	
+0	1	19	I	3	9	3	1	IQS	1	9	3	0	
+0	0	0	Q	3	9	3	0		1	10	3	0	
+0	0	0	S	3	9	3	0		0	11	5	0	
+1	0	0	#	3	13	0	0		4	12	4	0	
+1	0	0	#	3	14	0	0		4	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	20	C	4	0	3	1	CGI	1	0	4	0	
+0	0	0	G	4	0	3	0		0	1	6	0	
+0	0	0	I	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	0	0		5	4	5	0	
+1	0	0	#	4	6	3	0		5	5	5	0	
+0	1	21	P	4	6	3	1	PIT	0	6	6	0	
+0	0	0	I	4	6	3	0		0	7	5	0	
+0	1	22	T	4	6	3	0		4	8	4	1	TOPU
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	3	0		5	10	5	0	
+0	1	23	L	4	11	3	1	LSI	0	11	5	0	
+0	1	24	S	4	11	3	0		4	12	4	1	SHAH
+0	1	25	I	4	11	3	0		4	13	4	1	IAGO
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	26	S	5	1	6	1	SAVERS	0	1	6	0	
+0	0	0	A	5	1	6	0		0	2	6	0	
+0	1	27	V	5	1	6	0		5	3	3	1	VAT
+0	1	28	E	5	1	6	0		5	4	5	1	EXPAT
+0	1	29	R	5	1	6	0		5	5	5	1	RHINO
+0	0	0	S	5	1	6	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	30	O	5	8	3	1	OYE	4	8	4	0	
+0	1	31	Y	5	8	3	0		5	9	5	1	YURTS
+0	1	32	E	5	8	3	0		5	10	5	1	ENEST
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	33	H	5	12	3	1	HAE	4	12	4	0	
+0	0	0	A	5	12	3	0		4	13	4	0	
+0	1	34	E	5	12	3	0		5	14	3	1	EEW
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	35	A	6	3	3	1	AXH	5	3	3	0	
+0	0	0	X	6	3	3	0		5	4	5	0	
+0	0	0	H	6	3	3	0		5	5	5	0	
+1	0	0	#	6	7	4	0		7	6	4	0	
+0	1	36	S	6	7	4	1	SPUN	6	7	3	1	STP
+0	0	0	P	6	7	4	0		4	8	4	0	
+0	0	0	U	6	7	4	0		5	9	5	0	
+0	0	0	N	6	7	4	0		5	10	5	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	37	A	6	12	3	1	AGE	4	12	4	0	
+0	0	0	G	6	12	3	0		4	13	4	0	
+0	0	0	E	6	12	3	0		5	14	3	0	
+0	1	38	L	7	0	15	1	LASTPICTURESHOW	7	0	3	1	LAZ
+0	1	39	A	7	0	15	0		7	1	4	1	AYEN
+0	1	40	S	7	0	15	0		7	2	4	1	SEER
+0	0	0	T	7	0	15	0		5	3	3	0	
+0	0	0	P	7	0	15	0		5	4	5	0	
+0	0	0	I	7	0	15	0		5	5	5	0	
+0	1	41	C	7	0	15	0		7	6	4	1	CAGY
+0	0	0	T	7	0	15	0		6	7	3	0	
+0	0	0	U	7	0	15	0		4	8	4	0	
+0	0	0	R	7	0	15	0		5	9	5	0	
+0	0	0	E	7	0	15	0		5	10	5	0	
+0	1	42	S	7	0	15	0		7	11	3	1	SRO
+0	0	0	H	7	0	15	0		4	12	4	0	
+0	0	0	O	7	0	15	0		4	13	4	0	
+0	0	0	W	7	0	15	0		5	14	3	0	
+0	1	43	A	8	0	3	1	AYE	7	0	3	0	
+0	0	0	Y	8	0	3	0		7	1	4	0	
+0	0	0	E	8	0	3	0		7	2	4	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	44	A	8	4	4	1	ANAP	5	4	5	0	
+0	0	0	N	8	4	4	0		5	5	5	0	
+0	0	0	A	8	4	4	0		7	6	4	0	
+0	0	0	P	8	4	4	0		6	7	3	0	
+1	0	0	#	8	9	3	0		9	8	6	0	
+0	1	45	T	8	9	3	1	TSR	5	9	5	0	
+0	0	0	S	8	9	3	0		5	10	5	0	
+0	0	0	R	8	9	3	0		7	11	3	0	
+1	0	0	#	8	13	0	0		9	12	6	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	46	Z	9	0	3	1	ZEE	7	0	3	0	
+0	0	0	E	9	0	3	0		7	1	4	0	
+0	0	0	E	9	0	3	0		7	2	4	0	
+1	0	0	#	9	4	3	0		10	3	5	0	
+0	1	47	T	9	4	3	1	TOG	5	4	5	0	
+0	0	0	O	9	4	3	0		5	5	5	0	
+0	0	0	G	9	4	3	0		7	6	4	0	
+1	0	0	#	9	8	6	0		10	7	5	0	
+0	1	48	C	9	8	6	1	CSTONE	9	8	6	1	CRABBE
+0	0	0	S	9	8	6	0		5	9	5	0	
+0	0	0	T	9	8	6	0		5	10	5	0	
+0	0	0	O	9	8	6	0		7	11	3	0	
+0	1	49	N	9	8	6	0		9	12	6	1	NOMAAM
+0	1	50	E	9	8	6	0		9	13	6	1	EMERIL
+1	0	0	#	9	15	0	0		10	14	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	51	N	10	1	3	1	NRA	7	1	4	0	
+0	0	0	R	10	1	3	0		7	2	4	0	
+0	1	52	A	10	1	3	0		10	3	5	1	ASPIE
+1	0	0	#	10	5	0	0		11	4	3	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	53	Y	10	6	3	1	YAR	7	6	4	0	
+0	1	54	A	10	6	3	0		10	7	5	1	ABEAM
+0	0	0	R	10	6	3	0		9	8	6	0	
+1	0	0	#	10	10	0	0		11	9	3	0	
+1	0	0	#	10	11	0	0		11	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	55	O	10	12	3	1	OMA	9	12	6	0	
+0	0	0	M	10	12	3	0		9	13	6	0	
+0	1	56	A	10	12	3	0		10	14	4	1	ADDN
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	57	S	11	3	3	1	SEN	10	3	5	0	
+0	1	58	E	11	3	3	0		11	4	3	1	EEK
+0	1	59	N	11	3	3	0		11	5	3	1	NAE
+1	0	0	#	11	7	4	0		12	6	3	0	
+0	1	60	B	11	7	4	1	BANC	10	7	5	0	
+0	0	0	A	11	7	4	0		9	8	6	0	
+0	1	61	N	11	7	4	0		11	9	3	1	NIA
+0	1	62	C	11	7	4	0		11	10	3	1	CTR
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	63	M	11	12	3	1	MED	9	12	6	0	
+0	0	0	E	11	12	3	0		9	13	6	0	
+0	0	0	D	11	12	3	0		10	14	4	0	
+0	1	64	S	12	0	15	1	SWIPEADEBITCARD	12	0	3	1	SSI
+0	1	65	W	12	0	15	0		12	1	3	1	WTA
+0	1	66	I	12	0	15	0		12	2	3	1	IRT
+0	0	0	P	12	0	15	0		10	3	5	0	
+0	0	0	E	12	0	15	0		11	4	3	0	
+0	0	0	A	12	0	15	0		11	5	3	0	
+0	1	67	D	12	0	15	0		12	6	3	1	DSM
+0	0	0	E	12	0	15	0		10	7	5	0	
+0	0	0	B	12	0	15	0		9	8	6	0	
+0	0	0	I	12	0	15	0		11	9	3	0	
+0	0	0	T	12	0	15	0		11	10	3	0	
+0	1	68	C	12	0	15	0		12	11	3	1	CGS
+0	0	0	A	12	0	15	0		9	12	6	0	
+0	0	0	R	12	0	15	0		9	13	6	0	
+0	0	0	D	12	0	15	0		10	14	4	0	
+0	1	69	S	13	0	15	1	STRIKESABARGAIN	12	0	3	0	
+0	0	0	T	13	0	15	0		12	1	3	0	
+0	0	0	R	13	0	15	0		12	2	3	0	
+0	0	0	I	13	0	15	0		10	3	5	0	
+0	0	0	K	13	0	15	0		11	4	3	0	
+0	0	0	E	13	0	15	0		11	5	3	0	
+0	0	0	S	13	0	15	0		12	6	3	0	
+0	0	0	A	13	0	15	0		10	7	5	0	
+0	0	0	B	13	0	15	0		9	8	6	0	
+0	0	0	A	13	0	15	0		11	9	3	0	
+0	0	0	R	13	0	15	0		11	10	3	0	
+0	0	0	G	13	0	15	0		12	11	3	0	
+0	0	0	A	13	0	15	0		9	12	6	0	
+0	0	0	I	13	0	15	0		9	13	6	0	
+0	0	0	N	13	0	15	0		10	14	4	0	
+0	1	70	I	14	0	4	1	IATE	12	0	3	0	
+0	0	0	A	14	0	4	0		12	1	3	0	
+0	0	0	T	14	0	4	0		12	2	3	0	
+0	0	0	E	14	0	4	0		10	3	5	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	71	M	14	6	3	1	MME	12	6	3	0	
+0	0	0	M	14	6	3	0		10	7	5	0	
+0	0	0	E	14	6	3	0		9	8	6	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	72	S	14	11	3	1	SML	12	11	3	0	
+0	0	0	M	14	11	3	0		9	12	6	0	
+0	0	0	L	14	11	3	0		9	13	6	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+35
+1	YFR	N.B.A.
+4	EGG	Breakfast staple
+7	LABS	Sites for some analyses
+11	TOALLAGOODNIGHT	Sign-off a la Clement Moore
+16	RUSSIANROULETTE	This might provide a last shot
+17	ANC	Nelson Mandela's org.
+18	IMOK	Reassuring words after an accident
+19	IQS	They average 100
+20	CGI	Technology for "Avatar," e.g.: Abbr.
+21	PIT	Band's place on Broadway
+23	LSI	Long-running B'way musical seen by couples?
+26	SAVERS	Bank patrons
+30	OYE	"___ of little faith ..."
+33	HAE	"O Tibbie, I ___ seen the day": Burns
+35	AXH	Chopping part of a chopper
+36	SPUN	Made a web
+37	AGE	Well-kept secret, for some
+38	LASTPICTURESHOW	1971 film that was Cybill Shepherd's debut, with "The"
+43	AYE	Word of support
+44	ANAP	Take ___ (doze)
+45	TSR	Longtime Dungeons & Dragons maker
+46	ZEE	New York's Tappan ___ Bridge
+47	TOG	Enclothe
+48	CSTONE	Building block
+51	NRA	New Deal agcy.
+53	YAR	Yevtushenko's "Babi ___"
+55	OMA	Granny, in Gelsenkirchen
+57	SEN	D.C. legislator
+60	BANC	Judges' seat
+63	MED	___ school
+64	SWIPEADEBITCARD	Pay, in a modern way
+69	STRIKESABARGAIN	Haggles successfully
+70	IATE	"___ it up and spit it out" ("My Way" lyric)
+71	MME	Title of Dickens's Defarge: Abbr.
+72	SML	Choice of sizes: Abbr.
+45
+1	YOUNGS	Neil and Loretta
+2	FASCIA	Hair band
+3	RLS	Inits. associated with Hyde
+4	EGNOPS	Squishy dish cleaner
+5	GORKI	Russian novelist Maxim
+6	GOO	Melted chocolate, e.g.
+7	LIESL	Von Trapp girl who's "sixteen going on seventeen"
+8	AGT	Insurance co. employee
+9	BHT	Common preservative
+10	STE	Jeanne d'Arc, e.g.: Abbr.
+11	TRAC	Deere product: Abbr.
+12	LII	Year before Trajan was born
+13	AAM	Texas school
+14	DUI	Motorist's offense, briefly
+15	NLQ	Place to hang a ring
+22	TOPU	Refill when you don't really need to
+24	SHAH	Ayatollah's predecessor
+25	IAGO	"I am not what I am" speaker
+27	VAT	Liquor store?
+28	EXPAT	American in Paris, perhaps
+29	RHINO	Thick-skinned critter
+31	YURTS	Mongolian tents
+32	ENEST	Older couple's home, often
+34	EEW	"Ick!"
+36	STP	Gas station product
+38	LAZ	___-Boy
+39	AYEN	Have ___ for (desire)
+40	SEER	Nostradamus, e.g.
+41	CAGY	Shrewd
+42	SRO	Full-house indication
+48	CRABBE	Tarzan portrayer
+49	NOMAAM	Frequent Sgt. Friday rejoinder
+50	EMERIL	Food Network star
+52	ASPIE	Easy ___
+54	ABEAM	Sideways on a ship
+56	ADDN	Codicil, e.g.
+58	EEK	"Horrors!"
+59	NAE	"___ doubt but they were fain o' ither": Burns
+61	NIA	Actress Peeples or Long
+62	CTR	Abbr. after Lincoln or Kennedy
+64	SSI	Fed. funds
+65	WTA	Org. for Venus and Serena Williams
+66	IRT	Operator of the original N.Y.C. subway
+67	DSM	Mil. honor
+68	CGS	Like a system of scientific meas.

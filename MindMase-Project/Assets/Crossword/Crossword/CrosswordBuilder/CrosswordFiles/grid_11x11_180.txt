@@ -1,0 +1,169 @@
+grid_11x11_180
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	L	0	1	3	1	LAZ	0	1	6	1	LODGES
+0	1	2	A	0	1	3	0		0	2	11	1	ANOTHERWORD
+0	1	3	Z	0	1	3	0		0	3	3	1	ZEB
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	R	0	7	3	1	RST	0	7	3	1	RIC
+0	1	5	S	0	7	3	0		0	8	11	1	SEANCONNERY
+0	1	6	T	0	7	3	0		0	9	4	1	TLMA
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	T	1	0	5	1	TONED	1	0	3	1	TAR
+0	0	0	O	1	0	5	0		0	1	6	0	
+0	0	0	N	1	0	5	0		0	2	11	0	
+0	0	0	E	1	0	5	0		0	3	3	0	
+0	1	8	D	1	0	5	0		1	4	3	1	DEA
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	9	R	1	6	5	1	RIELS	1	6	5	1	RILED
+0	0	0	I	1	6	5	0		0	7	3	0	
+0	0	0	E	1	6	5	0		0	8	11	0	
+0	0	0	L	1	6	5	0		0	9	4	0	
+0	1	10	S	1	6	5	0		1	10	3	1	SEM
+0	1	11	A	2	0	5	1	ADOBE	1	0	3	0	
+0	0	0	D	2	0	5	0		0	1	6	0	
+0	0	0	O	2	0	5	0		0	2	11	0	
+0	0	0	B	2	0	5	0		0	3	3	0	
+0	0	0	E	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	I	2	6	5	1	ICAME	1	6	5	0	
+0	0	0	C	2	6	5	0		0	7	3	0	
+0	0	0	A	2	6	5	0		0	8	11	0	
+0	0	0	M	2	6	5	0		0	9	4	0	
+0	0	0	E	2	6	5	0		1	10	3	0	
+0	1	13	R	3	0	3	1	RGT	1	0	3	0	
+0	0	0	G	3	0	3	0		0	1	6	0	
+0	0	0	T	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	A	3	4	3	1	ATL	1	4	3	0	
+0	1	15	T	3	4	3	0		3	5	5	1	TENPM
+0	0	0	L	3	4	3	0		1	6	5	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	N	3	8	3	1	NAM	0	8	11	0	
+0	0	0	A	3	8	3	0		0	9	4	0	
+0	0	0	M	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	E	4	1	3	1	EHS	0	1	6	0	
+0	0	0	H	4	1	3	0		0	2	11	0	
+0	1	18	S	4	1	3	0		4	3	3	1	SWA
+1	0	0	#	4	5	4	0		5	4	5	0	
+0	1	19	E	4	5	4	1	EEOC	3	5	5	0	
+0	0	0	E	4	5	4	0		1	6	5	0	
+0	1	20	O	4	5	4	0		4	7	3	1	OSA
+0	0	0	C	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	21	S	5	1	9	1	SEWANDSOW	0	1	6	0	
+0	0	0	E	5	1	9	0		0	2	11	0	
+0	0	0	W	5	1	9	0		4	3	3	0	
+0	1	22	A	5	1	9	0		5	4	5	1	AMASS
+0	0	0	N	5	1	9	0		3	5	5	0	
+0	0	0	D	5	1	9	0		1	6	5	0	
+0	0	0	S	5	1	9	0		4	7	3	0	
+0	0	0	O	5	1	9	0		0	8	11	0	
+0	1	23	W	5	1	9	0		5	9	6	1	WYNTON
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	24	R	6	2	4	1	RAMP	0	2	11	0	
+0	0	0	A	6	2	4	0		4	3	3	0	
+0	0	0	M	6	2	4	0		5	4	5	0	
+0	0	0	P	6	2	4	0		3	5	5	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	25	A	6	7	3	1	ANY	4	7	3	0	
+0	0	0	N	6	7	3	0		0	8	11	0	
+0	0	0	Y	6	7	3	0		5	9	6	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	26	R	7	0	3	1	RAW	7	0	3	1	RFK
+0	1	27	A	7	0	3	0		7	1	4	1	AOUT
+0	0	0	W	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	28	A	7	4	3	1	AMC	5	4	5	0	
+0	0	0	M	7	4	3	0		3	5	5	0	
+0	1	29	C	7	4	3	0		7	6	3	1	COT
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	30	N	7	8	3	1	NNW	0	8	11	0	
+0	0	0	N	7	8	3	0		5	9	6	0	
+0	1	31	W	7	8	3	0		7	10	3	1	WAS
+0	1	32	F	8	0	5	1	FOOLS	7	0	3	0	
+0	0	0	O	8	0	5	0		7	1	4	0	
+0	0	0	O	8	0	5	0		0	2	11	0	
+0	1	33	L	8	0	5	0		8	3	3	1	LDS
+0	0	0	S	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	34	O	8	6	5	1	OLETA	7	6	3	0	
+0	1	35	L	8	6	5	0		8	7	3	1	LOL
+0	0	0	E	8	6	5	0		0	8	11	0	
+0	0	0	T	8	6	5	0		5	9	6	0	
+0	0	0	A	8	6	5	0		7	10	3	0	
+0	1	36	K	9	0	5	1	KURDS	7	0	3	0	
+0	0	0	U	9	0	5	0		7	1	4	0	
+0	0	0	R	9	0	5	0		0	2	11	0	
+0	0	0	D	9	0	5	0		8	3	3	0	
+0	0	0	S	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	37	T	9	6	5	1	TOROS	7	6	3	0	
+0	0	0	O	9	6	5	0		8	7	3	0	
+0	0	0	R	9	6	5	0		0	8	11	0	
+0	0	0	O	9	6	5	0		5	9	6	0	
+0	0	0	S	9	6	5	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	38	T	10	1	3	1	TDS	7	1	4	0	
+0	0	0	D	10	1	3	0		0	2	11	0	
+0	0	0	S	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	39	L	10	7	3	1	LYN	8	7	3	0	
+0	0	0	Y	10	7	3	0		0	8	11	0	
+0	0	0	N	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	LAZ	___-Boy (brand of furniture)
+4	RST	Letter series
+7	TONED	Got in shape, with "up"
+9	RIELS	Cambodian cash
+11	ADOBE	Pueblo material
+12	ICAME	Start of a boast
+13	RGT	Mil. unit
+14	ATL	N.H.L. div.
+16	NAM	Former service site
+17	EHS	Replies from the hard of hearing
+19	EEOC	Antidiscrimination agcy.
+21	SEWANDSOW	What quilting farmers do?
+24	RAMP	Wheelchair access
+25	ANY	At ___ rate
+26	RAW	Like vegetables in salads
+28	AMC	Jeep maker, once: Abbr.
+30	NNW	Weather report abbr.
+32	FOOLS	April ___ Day
+34	OLETA	Soul singer Adams
+36	KURDS	Some Iranians
+37	TOROS	Ring rampagers
+38	TDS	Gridiron goals, briefly
+39	LYN	___ St. James, first woman to be named the Indy 500 Rookie of the Year, 1992
+21
+1	LODGES	Famous Massachusetts political family
+2	ANOTHERWORD	Don't say this!
+3	ZEB	"The Waltons" grandpa
+4	RIC	Rapper ___-A-Che
+5	SEANCONNERY	*1962-67, 1971
+6	TLMA	Longtime Vicki Lawrence character
+7	TAR	Driveway covering
+8	DEA	Traffic cop's org.?
+9	RILED	Worked (up)
+10	SEM	Place for a father-to-be: Abbr.
+15	TENPM	Prime-time time
+18	SWA	United competitor: Abbr.
+20	OSA	Mother bear, in M
+22	AMASS	Put together
+23	WYNTON	One of the Marsalis brothers
+26	RFK	___ Bridge, connecting Manhattan, Queens and the Bronx
+27	AOUT	Hot month in Qu
+29	COT	Visitor's sleeping spot, maybe
+31	WAS	Is past?
+33	LDS	Mormons, initially
+35	LOL	Online "ha-ha"

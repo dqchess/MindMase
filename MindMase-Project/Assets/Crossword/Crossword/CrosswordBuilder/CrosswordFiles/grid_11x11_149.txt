@@ -1,0 +1,167 @@
+grid_11x11_149
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	H	0	2	3	1	HUT	0	2	6	1	HOTDOG
+0	1	2	U	0	2	3	0		0	3	3	1	UNA
+0	1	3	T	0	2	3	0		0	4	3	1	TKL
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	6	0	
+0	1	4	O	0	8	3	1	OAK	0	8	4	1	ODIU
+0	1	5	A	0	8	3	0		0	9	4	1	ADIP
+0	1	6	K	0	8	3	0		0	10	3	1	KAI
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	7	M	1	1	5	1	MONKS	1	1	5	1	MILLI
+0	0	0	O	1	1	5	0		0	2	6	0	
+0	0	0	N	1	1	5	0		0	3	3	0	
+0	0	0	K	1	1	5	0		0	4	3	0	
+0	1	8	S	1	1	5	0		1	5	9	1	SLUTSKAYA
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	E	1	7	4	1	EDDA	1	7	6	1	EVELKS
+0	0	0	D	1	7	4	0		0	8	4	0	
+0	0	0	D	1	7	4	0		0	9	4	0	
+0	0	0	A	1	7	4	0		0	10	3	0	
+1	0	0	#	2	1	5	0		3	0	3	0	
+0	1	10	I	2	1	5	1	ITALL	1	1	5	0	
+0	0	0	T	2	1	5	0		0	2	6	0	
+0	0	0	A	2	1	5	0		0	3	3	0	
+0	0	0	L	2	1	5	0		0	4	3	0	
+0	0	0	L	2	1	5	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	11	V	2	7	4	1	VIII	1	7	6	0	
+0	0	0	I	2	7	4	0		0	8	4	0	
+0	0	0	I	2	7	4	0		0	9	4	0	
+0	0	0	I	2	7	4	0		0	10	3	0	
+0	1	12	O	3	0	3	1	OLD	3	0	3	1	OSH
+0	0	0	L	3	0	3	0		1	1	5	0	
+0	0	0	D	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	0	0		4	3	6	0	
+1	0	0	#	3	5	5	0		4	4	0	0	
+0	1	13	U	3	5	5	1	USEUP	1	5	9	0	
+0	1	14	S	3	5	5	0		3	6	3	1	STA
+0	0	0	E	3	5	5	0		1	7	6	0	
+0	0	0	U	3	5	5	0		0	8	4	0	
+0	0	0	P	3	5	5	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	S	4	0	4	1	SLOT	3	0	3	0	
+0	0	0	L	4	0	4	0		1	1	5	0	
+0	0	0	O	4	0	4	0		0	2	6	0	
+0	1	16	T	4	0	4	0		4	3	6	1	THEFED
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	17	T	4	5	3	1	TTL	1	5	9	0	
+0	0	0	T	4	5	3	0		3	6	3	0	
+0	0	0	L	4	5	3	0		1	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	18	H	5	0	11	1	HIGHASAKITE	3	0	3	0	
+0	0	0	I	5	0	11	0		1	1	5	0	
+0	0	0	G	5	0	11	0		0	2	6	0	
+0	0	0	H	5	0	11	0		4	3	6	0	
+0	1	19	A	5	0	11	0		5	4	3	1	ASK
+0	0	0	S	5	0	11	0		1	5	9	0	
+0	0	0	A	5	0	11	0		3	6	3	0	
+0	0	0	K	5	0	11	0		1	7	6	0	
+0	1	20	I	5	0	11	0		5	8	6	1	INVITE
+0	1	21	T	5	0	11	0		5	9	5	1	TIPSY
+0	1	22	E	5	0	11	0		5	10	3	1	ETS
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	23	E	6	3	3	1	ESK	4	3	6	0	
+0	0	0	S	6	3	3	0		5	4	3	0	
+0	0	0	K	6	3	3	0		1	5	9	0	
+1	0	0	#	6	7	4	0		7	6	0	0	
+0	1	24	S	6	7	4	1	SNIT	1	7	6	0	
+0	0	0	N	6	7	4	0		5	8	6	0	
+0	0	0	I	6	7	4	0		5	9	5	0	
+0	0	0	T	6	7	4	0		5	10	3	0	
+1	0	0	#	7	1	5	0		8	0	3	0	
+0	1	25	K	7	1	5	1	KAFKA	7	1	4	1	KERN
+0	1	26	A	7	1	5	0		7	2	4	1	AAAA
+0	0	0	F	7	1	5	0		4	3	6	0	
+0	0	0	K	7	1	5	0		5	4	3	0	
+0	0	0	A	7	1	5	0		1	5	9	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	V	7	8	3	1	VPS	5	8	6	0	
+0	0	0	P	7	8	3	0		5	9	5	0	
+0	0	0	S	7	8	3	0		5	10	3	0	
+0	1	28	D	8	0	4	1	DEAE	8	0	3	1	DTS
+0	0	0	E	8	0	4	0		7	1	4	0	
+0	0	0	A	8	0	4	0		7	2	4	0	
+0	0	0	E	8	0	4	0		4	3	6	0	
+1	0	0	#	8	5	5	0		9	4	0	0	
+0	1	29	Y	8	5	5	1	YOGIS	1	5	9	0	
+0	1	30	O	8	5	5	0		8	6	3	1	OCS
+0	1	31	G	8	5	5	0		8	7	3	1	GIT
+0	0	0	I	8	5	5	0		5	8	6	0	
+0	0	0	S	8	5	5	0		5	9	5	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	32	T	9	0	4	1	TRAD	8	0	3	0	
+0	0	0	R	9	0	4	0		7	1	4	0	
+0	0	0	A	9	0	4	0		7	2	4	0	
+0	0	0	D	9	0	4	0		4	3	6	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	33	A	9	5	5	1	ACITY	1	5	9	0	
+0	0	0	C	9	5	5	0		8	6	3	0	
+0	0	0	I	9	5	5	0		8	7	3	0	
+0	0	0	T	9	5	5	0		5	8	6	0	
+0	0	0	Y	9	5	5	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	S	10	0	3	1	SNA	8	0	3	0	
+0	0	0	N	10	0	3	0		7	1	4	0	
+0	0	0	A	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	35	S	10	6	3	1	STE	8	6	3	0	
+0	0	0	T	10	6	3	0		8	7	3	0	
+0	0	0	E	10	6	3	0		5	8	6	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	HUT	Home for a hermit
+4	OAK	Cask material
+7	MONKS	Abbey residents
+9	EDDA	Work of mythology
+10	ITALL	"Darn ___!"
+11	VIII	The last Pope Urban
+12	OLD	Unmodernized
+13	USEUP	Run through
+15	SLOT	Place on the schedule
+17	TTL	Lumberjack's tool
+18	HIGHASAKITE	Wasted
+23	ESK	Northern Amer.
+24	SNIT	Tiff
+25	KAFKA	"The Castle" novelist
+27	VPS	They may report to C.E.O.'s
+28	DEAE	"My stars!"
+29	YOGIS	Mystics
+32	TRAD	Frequent abbr. on sheet music for folk songs
+33	ACITY	"___ on a hill cannot be hidden": Matt. 5:14
+34	SNA	White stuff, in Dundee
+35	STE	Marthe or Marie: Abbr.
+21
+1	HOTDOG	Frank
+2	UNA	___ voce (without dissent)
+3	TKL	Damascus's land: Abbr.
+4	ODIU	Detestation
+5	ADIP	Take ___ (go swimming)
+6	KAI	Trombonist Winding
+7	MILLI	Rock's ___ Vanilli
+8	SLUTSKAYA	Champion figure skater Irina
+9	EVELKS	Look over again
+12	OSH	Kyrgyz city
+14	STA	Where folks go off and on: Abbr.
+16	THEFED	It's interested in interest
+19	ASK	Appeal
+20	INVITE	Beckon
+21	TIPSY	A little drunk
+22	ETS	Visitors from afar
+25	KERN	Jerome who composed "The Last Time I Saw Paris"
+26	AAAA	High rating
+28	DTS	Juicer's problem
+30	OCS	Where lts. are trained
+31	GIT	"I said ... out!"

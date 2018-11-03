@@ -1,0 +1,165 @@
+grid_11x11_49
+11
+0	1	1	S	0	0	3	1	SDI	0	0	3	1	SHH
+0	1	2	D	0	0	3	0		0	1	3	1	DAO
+0	1	3	I	0	0	3	0		0	2	10	1	IRRATIONAL
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	D	0	5	3	1	DSM	0	5	3	1	DOW
+0	1	5	S	0	5	3	0		0	6	6	1	SHOGUN
+0	1	6	M	0	5	3	0		0	7	5	1	MAMET
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	H	1	0	10	1	HARTTOHART	0	0	3	0	
+0	0	0	A	1	0	10	0		0	1	3	0	
+0	0	0	R	1	0	10	0		0	2	10	0	
+0	1	8	T	1	0	10	0		1	3	3	1	TSR
+0	1	9	T	1	0	10	0		1	4	3	1	TEA
+0	0	0	O	1	0	10	0		0	5	3	0	
+0	0	0	H	1	0	10	0		0	6	6	0	
+0	0	0	A	1	0	10	0		0	7	5	0	
+0	1	10	R	1	0	10	0		1	8	10	1	RATATATTAT
+0	1	11	T	1	0	10	0		1	9	6	1	TNOTES
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	12	H	2	0	10	1	HORSEWOMAN	0	0	3	0	
+0	0	0	O	2	0	10	0		0	1	3	0	
+0	0	0	R	2	0	10	0		0	2	10	0	
+0	0	0	S	2	0	10	0		1	3	3	0	
+0	0	0	E	2	0	10	0		1	4	3	0	
+0	0	0	W	2	0	10	0		0	5	3	0	
+0	0	0	O	2	0	10	0		0	6	6	0	
+0	0	0	M	2	0	10	0		0	7	5	0	
+0	0	0	A	2	0	10	0		1	8	10	0	
+0	0	0	N	2	0	10	0		1	9	6	0	
+1	0	0	#	2	11	0	0		3	10	4	0	
+1	0	0	#	3	1	0	0		4	0	4	0	
+1	0	0	#	3	2	3	0		4	1	6	0	
+0	1	13	A	3	2	3	1	ARA	0	2	10	0	
+0	0	0	R	3	2	3	0		1	3	3	0	
+0	0	0	A	3	2	3	0		1	4	3	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	14	G	3	6	5	1	GETON	0	6	6	0	
+0	0	0	E	3	6	5	0		0	7	5	0	
+0	0	0	T	3	6	5	0		1	8	10	0	
+0	0	0	O	3	6	5	0		1	9	6	0	
+0	1	15	N	3	6	5	0		3	10	4	1	NEST
+0	1	16	E	4	0	3	1	ECT	4	0	4	1	ERTE
+0	1	17	C	4	0	3	0		4	1	6	1	CELEBS
+0	0	0	T	4	0	3	0		0	2	10	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	18	M	4	5	6	1	MUTATE	4	5	3	1	MIZ
+0	0	0	U	4	5	6	0		0	6	6	0	
+0	0	0	T	4	5	6	0		0	7	5	0	
+0	0	0	A	4	5	6	0		1	8	10	0	
+0	0	0	T	4	5	6	0		1	9	6	0	
+0	0	0	E	4	5	6	0		3	10	4	0	
+0	1	19	R	5	0	3	1	REI	4	0	4	0	
+0	0	0	E	5	0	3	0		4	1	6	0	
+0	0	0	I	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	20	S	5	4	3	1	SIN	5	4	6	1	SPEEDO
+0	0	0	I	5	4	3	0		4	5	3	0	
+0	0	0	N	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	T	5	8	3	1	TES	1	8	10	0	
+0	0	0	E	5	8	3	0		1	9	6	0	
+0	0	0	S	5	8	3	0		3	10	4	0	
+0	1	22	T	6	0	6	1	TLOFPZ	4	0	4	0	
+0	0	0	L	6	0	6	0		4	1	6	0	
+0	0	0	O	6	0	6	0		0	2	10	0	
+0	1	23	F	6	0	6	0		6	3	5	1	FITIN
+0	0	0	P	6	0	6	0		5	4	6	0	
+0	0	0	Z	6	0	6	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	3	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	24	A	6	8	3	1	AST	1	8	10	0	
+0	0	0	S	6	8	3	0		1	9	6	0	
+0	0	0	T	6	8	3	0		3	10	4	0	
+0	1	25	E	7	0	5	1	EENIE	4	0	4	0	
+0	0	0	E	7	0	5	0		4	1	6	0	
+0	0	0	N	7	0	5	0		0	2	10	0	
+0	0	0	I	7	0	5	0		6	3	5	0	
+0	0	0	E	7	0	5	0		5	4	6	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	26	G	7	6	3	1	GIT	7	6	3	1	GMS
+0	1	27	I	7	6	3	0		7	7	3	1	IOC
+0	0	0	T	7	6	3	0		1	8	10	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	28	B	8	1	10	1	BATESMOTEL	4	1	6	0	
+0	0	0	A	8	1	10	0		0	2	10	0	
+0	0	0	T	8	1	10	0		6	3	5	0	
+0	0	0	E	8	1	10	0		5	4	6	0	
+0	1	29	S	8	1	10	0		8	5	3	1	SEM
+0	0	0	M	8	1	10	0		7	6	3	0	
+0	0	0	O	8	1	10	0		7	7	3	0	
+0	0	0	T	8	1	10	0		1	8	10	0	
+0	1	30	E	8	1	10	0		8	9	3	1	ELF
+0	1	31	L	8	1	10	0		8	10	3	1	LEX
+1	0	0	#	9	1	10	0		10	0	0	0	
+0	1	32	S	9	1	10	1	SLIDESCALE	4	1	6	0	
+0	0	0	L	9	1	10	0		0	2	10	0	
+0	0	0	I	9	1	10	0		6	3	5	0	
+0	0	0	D	9	1	10	0		5	4	6	0	
+0	0	0	E	9	1	10	0		8	5	3	0	
+0	0	0	S	9	1	10	0		7	6	3	0	
+0	0	0	C	9	1	10	0		7	7	3	0	
+0	0	0	A	9	1	10	0		1	8	10	0	
+0	0	0	L	9	1	10	0		8	9	3	0	
+0	0	0	E	9	1	10	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	33	N	10	3	3	1	NOM	6	3	5	0	
+0	0	0	O	10	3	3	0		5	4	6	0	
+0	0	0	M	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	34	T	10	8	3	1	TFX	1	8	10	0	
+0	0	0	F	10	8	3	0		8	9	3	0	
+0	0	0	X	10	8	3	0		8	10	3	0	
+19
+1	SDI	Star Wars mil. project
+4	DSM	Mil. award
+7	HARTTOHART	Sidney Sheldon TV series
+12	HORSEWOMAN	Miss in a derby?
+13	ARA	Coach Parseghian
+14	GETON	Age
+16	ECT	Outer, at the outset
+18	MUTATE	Change
+19	REI	Portuguese king
+20	SIN	No good deed
+21	TES	French pronoun
+22	TLOFPZ	Reveals one's feelings: 2 wds.
+24	AST	Nova Scotia clock setting: Abbr.
+25	EENIE	___, meenie, miney, mo
+26	GIT	"Scram!"
+28	BATESMOTEL	Chilly shower setting?
+32	SLIDESCALE	From gentle to steep for some playground equipment?
+33	NOM	Jean Paul, e.g.
+34	TFX	Summer, in France
+21
+1	SHH	"Can it!"
+2	DAO	1957 Physics Nobelist Tsung-___ Lee
+3	IRRATIONAL	Like some fears
+4	DOW	Noted index, with "the"
+5	SHOGUN	Japanese leader of old
+6	MAMET	"American Buffalo" playwright
+8	TSR	Dungeons & Dragons co., once
+9	TEA	Kind of service
+10	RATATATTAT	Knocking sound
+11	TNOTES	Investment option, informally
+15	NEST	Digs in the forest
+16	ERTE	Art Deco master
+17	CELEBS	Hollywood sightings
+18	MIZ	"Les ___"
+20	SPEEDO	Small suit
+23	FITIN	Conform
+26	GMS	Baseball C.E.O.'s
+27	IOC	Sports org. since 1894
+29	SEM	Half a year of coll.
+30	ELF	Dobby or Winky, in Harry Potter
+31	LEX	Superman enemy ___ Luthor

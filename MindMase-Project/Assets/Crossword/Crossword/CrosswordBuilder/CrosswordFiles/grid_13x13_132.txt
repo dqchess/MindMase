@@ -1,0 +1,225 @@
+grid_13x13_132
+13
+0	1	1	F	0	0	6	1	FOCSLE	0	0	3	1	FER
+0	1	2	O	0	0	6	0		0	1	4	1	ONEL
+0	1	3	C	0	0	6	0		0	2	13	1	CAPTAINSDIMES
+0	1	4	S	0	0	6	0		0	3	6	1	SMARTS
+0	1	5	L	0	0	6	0		0	4	3	1	LOI
+0	1	6	E	0	0	6	0		0	5	3	1	ERR
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	7	R	0	8	3	1	RKC	0	8	4	1	RUNE
+0	1	8	K	0	8	3	0		0	9	5	1	KAUAI
+0	1	9	C	0	8	3	0		0	10	13	1	CLASSIFIEDADO
+1	0	0	#	0	12	0	0		1	11	7	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	E	1	0	6	1	ENAMOR	0	0	3	0	
+0	0	0	N	1	0	6	0		0	1	4	0	
+0	0	0	A	1	0	6	0		0	2	13	0	
+0	0	0	M	1	0	6	0		0	3	6	0	
+0	0	0	O	1	0	6	0		0	4	3	0	
+0	0	0	R	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	5	0		2	6	9	0	
+0	1	11	D	1	7	5	1	DUALS	1	7	4	1	DATS
+0	0	0	U	1	7	5	0		0	8	4	0	
+0	0	0	A	1	7	5	0		0	9	5	0	
+0	0	0	L	1	7	5	0		0	10	13	0	
+0	1	12	S	1	7	5	0		1	11	7	1	SLEUTHS
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	R	2	0	12	1	REPAIRMANUAL	0	0	3	0	
+0	0	0	E	2	0	12	0		0	1	4	0	
+0	0	0	P	2	0	12	0		0	2	13	0	
+0	0	0	A	2	0	12	0		0	3	6	0	
+0	0	0	I	2	0	12	0		0	4	3	0	
+0	0	0	R	2	0	12	0		0	5	3	0	
+0	1	14	M	2	0	12	0		2	6	9	1	MADRILENE
+0	0	0	A	2	0	12	0		1	7	4	0	
+0	0	0	N	2	0	12	0		0	8	4	0	
+0	0	0	U	2	0	12	0		0	9	5	0	
+0	0	0	A	2	0	12	0		0	10	13	0	
+0	0	0	L	2	0	12	0		1	11	7	0	
+1	0	0	#	2	13	0	0		3	12	0	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	15	L	3	1	3	1	LTR	0	1	4	0	
+0	0	0	T	3	1	3	0		0	2	13	0	
+0	0	0	R	3	1	3	0		0	3	6	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	6	0		4	5	3	0	
+0	1	16	A	3	6	6	1	ATEASE	2	6	9	0	
+0	0	0	T	3	6	6	0		1	7	4	0	
+0	0	0	E	3	6	6	0		0	8	4	0	
+0	0	0	A	3	6	6	0		0	9	5	0	
+0	0	0	S	3	6	6	0		0	10	13	0	
+0	0	0	E	3	6	6	0		1	11	7	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	6	0		5	1	7	0	
+0	1	17	A	4	2	6	1	ATODDS	0	2	13	0	
+0	0	0	T	4	2	6	0		0	3	6	0	
+0	1	18	O	4	2	6	0		4	4	3	1	ONA
+0	1	19	D	4	2	6	0		4	5	3	1	DEN
+0	0	0	D	4	2	6	0		2	6	9	0	
+0	0	0	S	4	2	6	0		1	7	4	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	20	I	4	9	4	1	ISUP	0	9	5	0	
+0	0	0	S	4	9	4	0		0	10	13	0	
+0	0	0	U	4	9	4	0		1	11	7	0	
+0	1	21	P	4	9	4	0		4	12	3	1	PAS
+1	0	0	#	5	1	6	0		6	0	3	0	
+0	1	22	E	5	1	6	1	EISNER	5	1	7	1	ERMINED
+0	0	0	I	5	1	6	0		0	2	13	0	
+0	0	0	S	5	1	6	0		0	3	6	0	
+0	0	0	N	5	1	6	0		4	4	3	0	
+0	0	0	E	5	1	6	0		4	5	3	0	
+0	0	0	R	5	1	6	0		2	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	23	I	5	10	3	1	ITA	0	10	13	0	
+0	0	0	T	5	10	3	0		1	11	7	0	
+0	0	0	A	5	10	3	0		4	12	3	0	
+0	1	24	E	6	0	3	1	ERN	6	0	3	1	EMM
+0	0	0	R	6	0	3	0		5	1	7	0	
+0	0	0	N	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	25	A	6	4	5	1	ANICE	4	4	3	0	
+0	0	0	N	6	4	5	0		4	5	3	0	
+0	0	0	I	6	4	5	0		2	6	9	0	
+0	1	26	C	6	4	5	0		6	7	3	1	CAL
+0	1	27	E	6	4	5	0		6	8	3	1	ENA
+1	0	0	#	6	10	3	0		7	9	6	0	
+0	1	28	F	6	10	3	1	FHS	0	10	13	0	
+0	0	0	H	6	10	3	0		1	11	7	0	
+0	0	0	S	6	10	3	0		4	12	3	0	
+0	1	29	M	7	0	3	1	MMS	6	0	3	0	
+0	0	0	M	7	0	3	0		5	1	7	0	
+0	0	0	S	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	0	0		8	3	5	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	6	0		8	5	4	0	
+0	1	30	L	7	6	6	1	LANAIS	2	6	9	0	
+0	0	0	A	7	6	6	0		6	7	3	0	
+0	0	0	N	7	6	6	0		6	8	3	0	
+0	1	31	A	7	6	6	0		7	9	6	1	AGORAS
+0	0	0	I	7	6	6	0		0	10	13	0	
+0	0	0	S	7	6	6	0		1	11	7	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	32	M	8	0	4	1	MIDI	6	0	3	0	
+0	0	0	I	8	0	4	0		5	1	7	0	
+0	0	0	D	8	0	4	0		0	2	13	0	
+0	1	33	I	8	0	4	0		8	3	5	1	IAGOS
+1	0	0	#	8	5	6	0		9	4	4	0	
+0	1	34	P	8	5	6	1	PELAGE	8	5	4	1	PIES
+0	0	0	E	8	5	6	0		2	6	9	0	
+0	0	0	L	8	5	6	0		6	7	3	0	
+0	0	0	A	8	5	6	0		6	8	3	0	
+0	0	0	G	8	5	6	0		7	9	6	0	
+0	0	0	E	8	5	6	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	35	N	9	1	6	1	NIACIN	5	1	7	0	
+0	0	0	I	9	1	6	0		0	2	13	0	
+0	0	0	A	9	1	6	0		8	3	5	0	
+0	1	36	C	9	1	6	0		9	4	4	1	CENS
+0	0	0	I	9	1	6	0		8	5	4	0	
+0	0	0	N	9	1	6	0		2	6	9	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	37	O	9	9	3	1	ODO	7	9	6	0	
+0	0	0	D	9	9	3	0		0	10	13	0	
+0	1	38	O	9	9	3	0		9	11	4	1	ONON
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	39	E	10	1	12	1	EMGEEEMGRAND	5	1	7	0	
+0	0	0	M	10	1	12	0		0	2	13	0	
+0	0	0	G	10	1	12	0		8	3	5	0	
+0	0	0	E	10	1	12	0		9	4	4	0	
+0	0	0	E	10	1	12	0		8	5	4	0	
+0	0	0	E	10	1	12	0		2	6	9	0	
+0	1	40	M	10	1	12	0		10	7	3	1	MLI
+0	1	41	G	10	1	12	0		10	8	3	1	GEN
+0	0	0	R	10	1	12	0		7	9	6	0	
+0	0	0	A	10	1	12	0		0	10	13	0	
+0	0	0	N	10	1	12	0		9	11	4	0	
+0	1	42	D	10	1	12	0		10	12	3	1	DNG
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	43	D	11	1	5	1	DEONS	5	1	7	0	
+0	0	0	E	11	1	5	0		0	2	13	0	
+0	0	0	O	11	1	5	0		8	3	5	0	
+0	0	0	N	11	1	5	0		9	4	4	0	
+0	0	0	S	11	1	5	0		8	5	4	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	44	L	11	7	6	1	LEADON	10	7	3	0	
+0	0	0	E	11	7	6	0		10	8	3	0	
+0	0	0	A	11	7	6	0		7	9	6	0	
+0	0	0	D	11	7	6	0		0	10	13	0	
+0	0	0	O	11	7	6	0		9	11	4	0	
+0	0	0	N	11	7	6	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	45	S	12	2	3	1	SSS	0	2	13	0	
+0	0	0	S	12	2	3	0		8	3	5	0	
+0	0	0	S	12	2	3	0		9	4	4	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	6	0		13	6	0	0	
+0	1	46	I	12	7	6	1	INSONG	10	7	3	0	
+0	0	0	N	12	7	6	0		10	8	3	0	
+0	0	0	S	12	7	6	0		7	9	6	0	
+0	0	0	O	12	7	6	0		0	10	13	0	
+0	0	0	N	12	7	6	0		9	11	4	0	
+0	0	0	G	12	7	6	0		10	12	3	0	
+25
+1	FOCSLE	Bo's'n's quarters
+7	RKC	QB Manning
+10	ENAMOR	Fill with love
+11	DUALS	Some exhaust systems
+13	REPAIRMANUAL	Memo about a dating guide?
+15	LTR	Common Amer. paper size
+16	ATEASE	Camp order
+17	ATODDS	In conflict
+20	ISUP	Has an at-bat
+22	EISNER	Disney exec Michael
+23	ITA	Overseas "-ess"
+24	ERN	Sea cliff dweller
+25	ANICE	"Have ___ day!"
+28	FHS	Violin cutouts
+29	MMS	Music degrees
+30	LANAIS	Verandas
+32	MIDI	Skirt that goes below the knee
+34	PELAGE	Fur
+35	NIACIN	Pellagra preventer
+37	ODO	Prefix with meter
+39	EMGEEEMGRAND	Las Vegas landmark
+43	DEONS	Actor Richmond and singer Jackson
+44	LEADON	Entice
+45	SSS	Snake's sound
+46	INSONG	How Broadway characters may break out
+27
+1	FER	___-de-lance
+2	ONEL	Scott Turow title
+3	CAPTAINSDIMES	"Nicest room on a ship, probably"
+4	SMARTS	Intelligence
+5	LOI	Law, in Lyon
+6	ERR	Stray
+7	RUNE	Ancient inscription
+8	KAUAI	One of the five counties of Hawaii
+9	CLASSIFIEDADO	Top-secret turmoil?
+11	DATS	"___ all!" ("Fini!")
+12	SLEUTHS	Investigators
+14	MADRILENE	Tomato consomm
+18	ONA	"Cat ___ Hot Tin Roof"
+19	DEN	Room with an easy chair
+21	PAS	Dance step
+22	ERMINED	Regally attired
+24	EMM	Kind of film, in brief
+26	CAL	Oriole Ripken
+27	ENA	Bygone Spanish queen
+31	AGORAS	Ancient meeting places
+33	IAGOS	Villainous Shakespearean roles
+34	PIES	"Chatt'ring" birds in Shakespeare
+36	CENS	Long times: Abbr.
+38	ONON	"___, you noblest English ...!": "Henry V"
+40	MLI	1051 on monuments
+41	GEN	Not spec.
+42	DNG	Half a ring

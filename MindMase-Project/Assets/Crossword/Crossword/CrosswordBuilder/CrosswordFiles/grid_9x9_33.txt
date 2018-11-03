@@ -1,0 +1,117 @@
+grid_9x9_33
+9
+0	1	1	I	0	0	3	1	IBF	0	0	3	1	INQ
+0	1	2	B	0	0	3	0		0	1	4	1	BOUT
+0	1	3	F	0	0	3	0		0	2	4	1	FOAM
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	D	0	5	3	1	DEL	0	5	3	1	DIU
+0	1	5	E	0	5	3	0		0	6	4	1	ESPS
+0	1	6	L	0	5	3	0		0	7	4	1	LEER
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	N	1	0	4	1	NOON	0	0	3	0	
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	O	1	0	4	0		0	2	4	0	
+0	1	8	N	1	0	4	0		1	3	4	1	NDAK
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	I	1	5	4	1	ISET	0	5	3	0	
+0	0	0	S	1	5	4	0		0	6	4	0	
+0	0	0	E	1	5	4	0		0	7	4	0	
+0	1	10	T	1	5	4	0		1	8	3	1	TDS
+0	1	11	Q	2	0	9	1	QUADRUPED	0	0	3	0	
+0	0	0	U	2	0	9	0		0	1	4	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	0	0	D	2	0	9	0		1	3	4	0	
+0	1	12	R	2	0	9	0		2	4	5	1	RNASE
+0	0	0	U	2	0	9	0		0	5	3	0	
+0	0	0	P	2	0	9	0		0	6	4	0	
+0	0	0	E	2	0	9	0		0	7	4	0	
+0	0	0	D	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	T	3	1	4	1	TMAN	0	1	4	0	
+0	0	0	M	3	1	4	0		0	2	4	0	
+0	0	0	A	3	1	4	0		1	3	4	0	
+0	0	0	N	3	1	4	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	S	3	6	3	1	SRS	0	6	4	0	
+0	0	0	R	3	6	3	0		0	7	4	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	K	4	3	3	1	KAS	1	3	4	0	
+0	0	0	A	4	3	3	0		2	4	5	0	
+0	1	16	S	4	3	3	0		4	5	4	1	SWAN
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	E	5	0	3	1	EDB	5	0	3	1	EME
+0	1	18	D	5	0	3	0		5	1	4	1	DORK
+0	1	19	B	5	0	3	0		5	2	4	1	BTEN
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	S	5	4	4	1	SWIT	2	4	5	0	
+0	0	0	W	5	4	4	0		4	5	4	0	
+0	1	21	I	5	4	4	0		5	6	4	1	ITSI
+0	1	22	T	5	4	4	0		5	7	4	1	TEEM
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	23	M	6	0	9	1	MOTHEATEN	5	0	3	0	
+0	0	0	O	6	0	9	0		5	1	4	0	
+0	0	0	T	6	0	9	0		5	2	4	0	
+0	1	24	H	6	0	9	0		6	3	3	1	HST
+0	0	0	E	6	0	9	0		2	4	5	0	
+0	0	0	A	6	0	9	0		4	5	4	0	
+0	0	0	T	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	4	0	
+0	1	25	N	6	0	9	0		6	8	3	1	NCO
+0	1	26	E	7	0	4	1	ERES	5	0	3	0	
+0	0	0	R	7	0	4	0		5	1	4	0	
+0	0	0	E	7	0	4	0		5	2	4	0	
+0	0	0	S	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	N	7	5	4	1	NSEC	4	5	4	0	
+0	0	0	S	7	5	4	0		5	6	4	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	C	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	K	8	1	3	1	KNT	5	1	4	0	
+0	0	0	N	8	1	3	0		5	2	4	0	
+0	0	0	T	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	I	8	6	3	1	IMO	5	6	4	0	
+0	0	0	M	8	6	3	0		5	7	4	0	
+0	0	0	O	8	6	3	0		6	8	3	0	
+15
+1	IBF	Pugilists' org.
+4	DEL	One of the 13 colonies: Abbr.
+7	NOON	Nautical day's beginning
+9	ISET	"You go not till ___ you up a glass": Hamlet
+11	QUADRUPED	Mammal, usually
+13	TMAN	Eliot Ness, e.g.
+14	SRS	Educ. higher-ups?
+15	KAS	___ in kangaroo
+17	EDB	Teacher's deg.
+20	SWIT	"M*A*S*H" co-star
+23	MOTHEATEN	Decayed
+26	ERES	"___ Tu" (1974 song)
+27	NSEC	Tiny time period: Abbr.
+28	KNT	Round Table title: Abbr.
+29	IMO	Chat room shorthand
+17
+1	INQ	Govt. investigation
+2	BOUT	Item on a card
+3	FOAM	Whitecap formation
+4	DIU	Island off India's coast
+5	ESPS	Intuitive feelings
+6	LEER	Lecherous look
+8	NDAK	Home of Grand Forks: Abbr.
+10	TDS	Super Bowl stats
+12	RNASE	Pancreatic enzyme
+16	SWAN	Beautiful swimmer
+17	EME	Suffix with morph-
+18	DORK	Nerdy sort
+19	BTEN	Bingo call
+21	ITSI	Formal/informal response to "Who's there?"
+22	TEEM	Overbrim
+24	HST	Pres. when the C.I.A. was created
+25	NCO	Kind of mil. club

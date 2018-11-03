@@ -1,0 +1,309 @@
+grid_15x15_115
+15
+0	1	1	B	0	0	3	1	BLT	0	0	3	1	BEL
+0	1	2	L	0	0	3	0		0	1	5	1	LXDBX
+0	1	3	T	0	0	3	0		0	2	15	1	TELEVISIONPILOT
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	6	0	
+0	1	4	P	0	5	4	1	PALO	0	5	3	1	PAM
+0	1	5	A	0	5	4	0		0	6	3	1	ANO
+0	1	6	L	0	5	4	0		0	7	3	1	LIN
+0	1	7	O	0	5	4	0		0	8	11	1	ONTHEDOTCOM
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	8	B	0	11	3	1	BTP	0	11	3	1	BIL
+0	1	9	T	0	11	3	0		0	12	15	1	TVADVERTISEMENT
+0	1	10	P	0	11	3	0		0	13	5	1	PEDRO
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	11	E	1	0	3	1	EXE	0	0	3	0	
+0	0	0	X	1	0	3	0		0	1	5	0	
+0	0	0	E	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	6	0		2	3	0	0	
+0	1	12	W	1	4	6	1	WANING	1	4	6	1	WAKING
+0	0	0	A	1	4	6	0		0	5	3	0	
+0	0	0	N	1	4	6	0		0	6	3	0	
+0	0	0	I	1	4	6	0		0	7	3	0	
+0	0	0	N	1	4	6	0		0	8	11	0	
+0	1	13	G	1	4	6	0		1	9	4	1	GIAS
+1	0	0	#	1	11	3	0		2	10	4	0	
+0	1	14	I	1	11	3	1	IVE	0	11	3	0	
+0	0	0	V	1	11	3	0		0	12	15	0	
+0	0	0	E	1	11	3	0		0	13	5	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	L	2	0	3	1	LDL	0	0	3	0	
+0	0	0	D	2	0	3	0		0	1	5	0	
+0	0	0	L	2	0	3	0		0	2	15	0	
+1	0	0	#	2	4	11	0		3	3	3	0	
+0	1	16	A	2	4	11	1	AMONTILLADO	1	4	6	0	
+0	0	0	M	2	4	11	0		0	5	3	0	
+0	0	0	O	2	4	11	0		0	6	3	0	
+0	0	0	N	2	4	11	0		0	7	3	0	
+0	0	0	T	2	4	11	0		0	8	11	0	
+0	0	0	I	2	4	11	0		1	9	4	0	
+0	1	17	L	2	4	11	0		2	10	4	1	LBOS
+0	0	0	L	2	4	11	0		0	11	3	0	
+0	0	0	A	2	4	11	0		0	12	15	0	
+0	0	0	D	2	4	11	0		0	13	5	0	
+0	1	18	O	2	4	11	0		2	14	3	1	OEN
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	19	B	3	1	4	1	BEAK	0	1	5	0	
+0	0	0	E	3	1	4	0		0	2	15	0	
+0	1	20	A	3	1	4	0		3	3	3	1	AID
+0	0	0	K	3	1	4	0		1	4	6	0	
+1	0	0	#	3	6	0	0		4	5	0	0	
+1	0	0	#	3	7	0	0		4	6	11	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	21	H	3	8	3	1	HAB	0	8	11	0	
+0	0	0	A	3	8	3	0		1	9	4	0	
+0	0	0	B	3	8	3	0		2	10	4	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	22	D	3	12	3	1	DRE	0	12	15	0	
+0	0	0	R	3	12	3	0		0	13	5	0	
+0	0	0	E	3	12	3	0		2	14	3	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	23	X	4	1	4	1	XVII	0	1	5	0	
+0	0	0	V	4	1	4	0		0	2	15	0	
+0	0	0	I	4	1	4	0		3	3	3	0	
+0	0	0	I	4	1	4	0		1	4	6	0	
+1	0	0	#	4	6	5	0		5	5	0	0	
+0	1	24	A	4	6	5	1	ARESO	4	6	11	1	ABSTENTIONS
+0	1	25	R	4	6	5	0		4	7	7	1	ROMANCE
+0	0	0	E	4	6	5	0		0	8	11	0	
+0	0	0	S	4	6	5	0		1	9	4	0	
+0	0	0	O	4	6	5	0		2	10	4	0	
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	26	V	4	12	3	1	VON	0	12	15	0	
+0	0	0	O	4	12	3	0		0	13	5	0	
+0	0	0	N	4	12	3	0		2	14	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	27	I	5	2	3	1	IDN	0	2	15	0	
+0	0	0	D	5	2	3	0		3	3	3	0	
+0	0	0	N	5	2	3	0		1	4	6	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	28	B	5	6	3	1	BOD	4	6	11	0	
+0	0	0	O	5	6	3	0		4	7	7	0	
+0	0	0	D	5	6	3	0		0	8	11	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	29	S	5	10	3	1	SSE	2	10	4	0	
+0	1	30	S	5	10	3	0		5	11	3	1	SSR
+0	0	0	E	5	10	3	0		0	12	15	0	
+1	0	0	#	5	14	0	0		6	13	3	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	31	S	6	0	3	1	SOS	6	0	3	1	STP
+0	1	32	O	6	0	3	0		6	1	3	1	ORR
+0	0	0	S	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	6	0		7	3	3	0	
+0	1	33	G	6	4	6	1	GISMOS	1	4	6	0	
+0	1	34	I	6	4	6	0		6	5	3	1	ISP
+0	0	0	S	6	4	6	0		4	6	11	0	
+0	0	0	M	6	4	6	0		4	7	7	0	
+0	0	0	O	6	4	6	0		0	8	11	0	
+0	1	35	S	6	4	6	0		6	9	3	1	SSI
+1	0	0	#	6	11	4	0		7	10	0	0	
+0	1	36	S	6	11	4	1	SRIS	5	11	3	0	
+0	0	0	R	6	11	4	0		0	12	15	0	
+0	1	37	I	6	11	4	0		6	13	3	1	IES
+0	1	38	S	6	11	4	0		6	14	3	1	SEA
+0	1	39	T	7	0	4	1	TRIS	6	0	3	0	
+0	0	0	R	7	0	4	0		6	1	3	0	
+0	0	0	I	7	0	4	0		0	2	15	0	
+0	1	40	S	7	0	4	0		7	3	3	1	SVU
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	41	S	7	5	5	1	STATS	6	5	3	0	
+0	0	0	T	7	5	5	0		4	6	11	0	
+0	0	0	A	7	5	5	0		4	7	7	0	
+0	0	0	T	7	5	5	0		0	8	11	0	
+0	0	0	S	7	5	5	0		6	9	3	0	
+1	0	0	#	7	11	4	0		8	10	6	0	
+0	1	42	R	7	11	4	1	RTEE	5	11	3	0	
+0	0	0	T	7	11	4	0		0	12	15	0	
+0	0	0	E	7	11	4	0		6	13	3	0	
+0	0	0	E	7	11	4	0		6	14	3	0	
+0	1	43	P	8	0	4	1	PROV	6	0	3	0	
+0	0	0	R	8	0	4	0		6	1	3	0	
+0	0	0	O	8	0	4	0		0	2	15	0	
+0	0	0	V	8	0	4	0		7	3	3	0	
+1	0	0	#	8	5	6	0		9	4	4	0	
+0	1	44	P	8	5	6	1	PENCIL	6	5	3	0	
+0	0	0	E	8	5	6	0		4	6	11	0	
+0	0	0	N	8	5	6	0		4	7	7	0	
+0	0	0	C	8	5	6	0		0	8	11	0	
+0	0	0	I	8	5	6	0		6	9	3	0	
+0	1	45	L	8	5	6	0		8	10	6	1	LOCKER
+1	0	0	#	8	12	3	0		9	11	3	0	
+0	1	46	I	8	12	3	1	ISA	0	12	15	0	
+0	0	0	S	8	12	3	0		6	13	3	0	
+0	0	0	A	8	12	3	0		6	14	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	5	0	
+0	1	47	N	9	2	3	1	NUL	0	2	15	0	
+0	0	0	U	9	2	3	0		7	3	3	0	
+0	1	48	L	9	2	3	0		9	4	4	1	LLBS
+1	0	0	#	9	6	3	0		10	5	4	0	
+0	1	49	N	9	6	3	1	NCO	4	6	11	0	
+0	0	0	C	9	6	3	0		4	7	7	0	
+0	0	0	O	9	6	3	0		0	8	11	0	
+1	0	0	#	9	10	3	0		10	9	0	0	
+0	1	50	O	9	10	3	1	OKS	8	10	6	0	
+0	1	51	K	9	10	3	0		9	11	3	1	KNE
+0	0	0	S	9	10	3	0		0	12	15	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	52	V	10	0	3	1	VIP	10	0	3	1	VIC
+0	1	53	I	10	0	3	0		10	1	5	1	ICONS
+0	0	0	P	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	5	0		11	3	0	0	
+0	1	54	L	10	4	5	1	LETEM	9	4	4	0	
+0	1	55	E	10	4	5	0		10	5	4	1	EMTS
+0	0	0	T	10	4	5	0		4	6	11	0	
+0	0	0	E	10	4	5	0		4	7	7	0	
+0	0	0	M	10	4	5	0		0	8	11	0	
+1	0	0	#	10	10	4	0		11	9	0	0	
+0	1	56	C	10	10	4	1	CNET	8	10	6	0	
+0	0	0	N	10	10	4	0		9	11	3	0	
+0	0	0	E	10	10	4	0		0	12	15	0	
+0	1	57	T	10	10	4	0		10	13	5	1	TOMAS
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	58	I	11	0	3	1	ICI	10	0	3	0	
+0	0	0	C	11	0	3	0		10	1	5	0	
+0	0	0	I	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	59	B	11	4	3	1	BMI	9	4	4	0	
+0	0	0	M	11	4	3	0		10	5	4	0	
+0	0	0	I	11	4	3	0		4	6	11	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	4	0		12	9	3	0	
+0	1	60	K	11	10	4	1	KEMO	8	10	6	0	
+0	0	0	E	11	10	4	0		9	11	3	0	
+0	0	0	M	11	10	4	0		0	12	15	0	
+0	0	0	O	11	10	4	0		10	13	5	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	61	C	12	0	11	1	COLDSTORAGE	10	0	3	0	
+0	0	0	O	12	0	11	0		10	1	5	0	
+0	0	0	L	12	0	11	0		0	2	15	0	
+0	1	62	D	12	0	11	0		12	3	3	1	DHS
+0	0	0	S	12	0	11	0		9	4	4	0	
+0	0	0	T	12	0	11	0		10	5	4	0	
+0	0	0	O	12	0	11	0		4	6	11	0	
+0	1	63	R	12	0	11	0		12	7	3	1	RAP
+0	1	64	A	12	0	11	0		12	8	3	1	AKA
+0	1	65	G	12	0	11	0		12	9	3	1	GER
+0	0	0	E	12	0	11	0		8	10	6	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	66	E	12	12	3	1	EMB	0	12	15	0	
+0	0	0	M	12	12	3	0		10	13	5	0	
+0	1	67	B	12	12	3	0		12	14	3	1	BYO
+1	0	0	#	13	1	3	0		14	0	0	0	
+0	1	68	N	13	1	3	1	NOH	10	1	5	0	
+0	0	0	O	13	1	3	0		0	2	15	0	
+0	0	0	H	13	1	3	0		12	3	3	0	
+1	0	0	#	13	5	6	0		14	4	0	0	
+0	1	69	S	13	5	6	1	SNAKER	10	5	4	0	
+0	0	0	N	13	5	6	0		4	6	11	0	
+0	0	0	A	13	5	6	0		12	7	3	0	
+0	0	0	K	13	5	6	0		12	8	3	0	
+0	0	0	E	13	5	6	0		12	9	3	0	
+0	0	0	R	13	5	6	0		8	10	6	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	70	N	13	12	3	1	NAY	0	12	15	0	
+0	0	0	A	13	12	3	0		10	13	5	0	
+0	0	0	Y	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	71	S	14	1	3	1	STS	10	1	5	0	
+0	0	0	T	14	1	3	0		0	2	15	0	
+0	0	0	S	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	4	0		15	5	0	0	
+0	1	72	S	14	6	4	1	SPAR	4	6	11	0	
+0	0	0	P	14	6	4	0		12	7	3	0	
+0	0	0	A	14	6	4	0		12	8	3	0	
+0	0	0	R	14	6	4	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	73	T	14	12	3	1	TSO	0	12	15	0	
+0	0	0	S	14	12	3	0		10	13	5	0	
+0	0	0	O	14	12	3	0		12	14	3	0	
+43
+1	BLT	Lunch counter order
+4	PALO	___ Pinto (Texas county or its seat)
+8	BTP	Group formed at Miami University in 1839
+11	EXE	Windows program suffix
+12	WANING	On the decline
+14	IVE	Suffix with correct
+15	LDL	"Bad" cholesterol, initially
+16	AMONTILLADO	Spanish sherry
+19	BEAK	Bird's-eye view?
+21	HAB	Bell Centre team member, familiarly
+22	DRE	Hip-hop's Dr. ___
+23	XVII	17, in old Rome
+24	ARESO	"Ain't!" retort
+26	VON	German name starter
+27	IDN	Insurance card info
+28	BOD	Workout concern
+29	SSE	Atlanta-to-Miami dir.
+31	SOS	Letters of distress
+33	GISMOS	Thingies: Var.
+36	SRIS	Hindu titles
+39	TRIS	Speaker from Cleveland
+41	STATS	Field goal percentages and such
+42	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+43	PROV	Can. division
+44	PENCIL	Tentatively schedule, with "in"
+46	ISA	Rodgers and Hart's "What ___ Man?"
+47	NUL	Void, in Vichy
+49	NCO	Cpl., e.g.
+50	OKS	Stamps, say
+52	VIP	Bigwig
+54	LETEM	"I'm not gonna stand in their way"
+56	CNET	Site for techies
+58	ICI	Tocqueville's here
+59	BMI	Ascap alternative
+60	KEMO	___ Sabe
+61	COLDSTORAGE	Warehouse function, maybe
+66	EMB	Envoy's bldg.
+68	NOH	Drama with lots of fans
+69	SNAKER	Twister
+70	NAY	Senate response
+71	STS	Fleet, Wall, etc.: Abbr.
+72	SPAR	Quarrel
+73	TSO	Name on a Chinese menu
+37
+1	BEL	Ann Patchett novel "___ Canto"
+2	LXDBX	Ant, in dialect
+3	TELEVISIONPILOT	Start of a series
+4	PAM	ConAgra Foods brand
+5	ANO	"Feliz ___ Nuevo!"
+6	LIN	Small harpsichord
+7	ONTHEDOTCOM	Exact-time Web site?
+8	BIL	Puppeteer Baird
+9	TVADVERTISEMENT	Show interrupter
+10	PEDRO	Spanish playwright Calderon
+12	WAKING	Regaining consciousness
+13	GIAS	Actress Scala and others
+17	LBOS	Wall St. deals
+18	OEN	Vintner's prefix
+20	AID	Lend a hand to
+24	ABSTENTIONS	No-votes?
+25	ROMANCE	Court
+30	SSR	Old union member: Abbr.
+31	STP	Onetime sponsor of Richard Petty and Mario Andretti
+32	ORR	Yossarian's tentmate in "Catch-22"
+34	ISP	Co. with a lot of connections?
+35	SSI	Fed. stipend
+37	IES	Plural ending
+38	SEA	Word with snake or quake
+40	SVU	"Law & Order" spinoff, informally
+45	LOCKER	Meat site
+48	LLBS	Foreign attorneys' degs.
+51	KNE	Show obeisance
+52	VIC	1951 A.L. strikeout leader Raschi
+53	ICONS	Folders, wastebaskets and such
+55	EMTS	"Chicago Hope" extras, familiarly
+57	TOMAS	Tennis's Berdych
+62	DHS	Some A.L. sluggers
+63	RAP	Bum ___
+64	AKA	Blotter letters
+65	GER	Berlin's home: Abbr.
+67	BYO	Caveat on a party invitation: Abbr.

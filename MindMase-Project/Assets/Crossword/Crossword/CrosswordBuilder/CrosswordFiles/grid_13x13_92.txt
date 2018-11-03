@@ -1,0 +1,233 @@
+grid_13x13_92
+13
+0	1	1	U	0	0	3	1	UBU	0	0	3	1	UBI
+0	1	2	B	0	0	3	0		0	1	3	1	BUM
+0	1	3	U	0	0	3	0		0	2	13	1	UNSTABLEMATES
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	5	0	
+0	1	4	D	0	5	3	1	DAR	0	5	3	1	DHL
+0	1	5	A	0	5	3	0		0	6	3	1	AOL
+0	1	6	R	0	5	3	0		0	7	3	1	RET
+1	0	0	#	0	9	3	0		1	8	5	0	
+0	1	7	E	0	9	3	1	EAL	0	9	5	1	EIEIO
+0	1	8	A	0	9	3	0		0	10	13	1	ACOMEDYOFERAS
+0	1	9	L	0	9	3	0		0	11	4	1	LINN
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	B	1	0	3	1	BUN	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	3	0	
+0	0	0	N	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	9	0		2	3	3	0	
+0	1	11	P	1	4	9	1	PHOENICIA	1	4	5	1	PIUSI
+0	0	0	H	1	4	9	0		0	5	3	0	
+0	0	0	O	1	4	9	0		0	6	3	0	
+0	0	0	E	1	4	9	0		0	7	3	0	
+0	1	12	N	1	4	9	0		1	8	5	1	NHLER
+0	0	0	I	1	4	9	0		0	9	5	0	
+0	0	0	C	1	4	9	0		0	10	13	0	
+0	0	0	I	1	4	9	0		0	11	4	0	
+0	1	13	A	1	4	9	0		1	12	3	1	AES
+0	1	14	I	2	0	13	1	IMSTILLTHEONE	0	0	3	0	
+0	0	0	M	2	0	13	0		0	1	3	0	
+0	0	0	S	2	0	13	0		0	2	13	0	
+0	1	15	T	2	0	13	0		2	3	3	1	TCI
+0	0	0	I	2	0	13	0		1	4	5	0	
+0	0	0	L	2	0	13	0		0	5	3	0	
+0	0	0	L	2	0	13	0		0	6	3	0	
+0	0	0	T	2	0	13	0		0	7	3	0	
+0	0	0	H	2	0	13	0		1	8	5	0	
+0	0	0	E	2	0	13	0		0	9	5	0	
+0	0	0	O	2	0	13	0		0	10	13	0	
+0	0	0	N	2	0	13	0		0	11	4	0	
+0	0	0	E	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	16	T	3	2	3	1	TCU	0	2	13	0	
+0	0	0	C	3	2	3	0		2	3	3	0	
+0	0	0	U	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	17	L	3	8	5	1	LIMNS	1	8	5	0	
+0	0	0	I	3	8	5	0		0	9	5	0	
+0	0	0	M	3	8	5	0		0	10	13	0	
+0	0	0	N	3	8	5	0		0	11	4	0	
+0	0	0	S	3	8	5	0		1	12	3	0	
+1	0	0	#	4	1	6	0		5	0	3	0	
+0	1	18	M	4	1	6	1	MAISIE	4	1	4	1	MUIR
+0	0	0	A	4	1	6	0		0	2	13	0	
+0	0	0	I	4	1	6	0		2	3	3	0	
+0	0	0	S	4	1	6	0		1	4	5	0	
+0	1	19	I	4	1	6	0		4	5	4	1	INTR
+0	1	20	E	4	1	6	0		4	6	5	1	EKMAQ
+1	0	0	#	4	8	3	0		5	7	4	0	
+0	1	21	E	4	8	3	1	EOE	1	8	5	0	
+0	0	0	O	4	8	3	0		0	9	5	0	
+0	0	0	E	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	22	H	5	0	3	1	HUB	5	0	3	1	HOD
+0	0	0	U	5	0	3	0		4	1	4	0	
+0	0	0	B	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	23	I	5	4	5	1	INKER	1	4	5	0	
+0	0	0	N	5	4	5	0		4	5	4	0	
+0	0	0	K	5	4	5	0		4	6	5	0	
+0	1	24	E	5	4	5	0		5	7	4	1	ECCL
+0	0	0	R	5	4	5	0		1	8	5	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	25	D	5	10	3	1	DUI	0	10	13	0	
+0	1	26	U	5	10	3	0		5	11	4	1	UTAH
+0	1	27	I	5	10	3	0		5	12	3	1	IDS
+0	1	28	O	6	0	3	1	OIL	5	0	3	0	
+0	0	0	I	6	0	3	0		4	1	4	0	
+0	0	0	L	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	5	0	
+0	1	29	T	6	5	3	1	TMC	4	5	4	0	
+0	0	0	M	6	5	3	0		4	6	5	0	
+0	0	0	C	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	0	0		7	8	5	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	30	Y	6	10	3	1	YTD	0	10	13	0	
+0	0	0	T	6	10	3	0		5	11	4	0	
+0	0	0	D	6	10	3	0		5	12	3	0	
+0	1	31	D	7	0	3	1	DRE	5	0	3	0	
+0	0	0	R	7	0	3	0		4	1	4	0	
+0	0	0	E	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	5	0		8	3	5	0	
+0	1	32	D	7	4	5	1	DRACO	7	4	5	1	DRANG
+0	0	0	R	7	4	5	0		4	5	4	0	
+0	0	0	A	7	4	5	0		4	6	5	0	
+0	0	0	C	7	4	5	0		5	7	4	0	
+0	1	33	O	7	4	5	0		7	8	5	1	OUNCE
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	34	O	7	10	3	1	OAS	0	10	13	0	
+0	0	0	A	7	10	3	0		5	11	4	0	
+0	0	0	S	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	35	M	8	2	3	1	MOR	0	2	13	0	
+0	1	36	O	8	2	3	0		8	3	5	1	ODILE
+0	0	0	R	8	2	3	0		7	4	5	0	
+1	0	0	#	8	6	6	0		9	5	0	0	
+0	1	37	Q	8	6	6	1	QLUPFH	4	6	5	0	
+0	0	0	L	8	6	6	0		5	7	4	0	
+0	0	0	U	8	6	6	0		7	8	5	0	
+0	1	38	P	8	6	6	0		8	9	3	1	PEA
+0	0	0	F	8	6	6	0		0	10	13	0	
+0	0	0	H	8	6	6	0		5	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	39	I	9	0	5	1	IHADA	9	0	3	1	INA
+0	1	40	H	9	0	5	0		9	1	4	1	HOBS
+0	0	0	A	9	0	5	0		0	2	13	0	
+0	0	0	D	9	0	5	0		8	3	5	0	
+0	0	0	A	9	0	5	0		7	4	5	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	41	N	9	8	3	1	NEE	7	8	5	0	
+0	0	0	E	9	8	3	0		8	9	3	0	
+0	0	0	E	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	N	10	0	13	1	NOTINTHECARDS	9	0	3	0	
+0	0	0	O	10	0	13	0		9	1	4	0	
+0	0	0	T	10	0	13	0		0	2	13	0	
+0	0	0	I	10	0	13	0		8	3	5	0	
+0	0	0	N	10	0	13	0		7	4	5	0	
+0	1	43	T	10	0	13	0		10	5	3	1	TAV
+0	1	44	H	10	0	13	0		10	6	3	1	HNS
+0	1	45	E	10	0	13	0		10	7	3	1	ECO
+0	0	0	C	10	0	13	0		7	8	5	0	
+0	0	0	A	10	0	13	0		8	9	3	0	
+0	0	0	R	10	0	13	0		0	10	13	0	
+0	1	46	D	10	0	13	0		10	11	3	1	DAO
+0	1	47	S	10	0	13	0		10	12	3	1	SUL
+0	1	48	A	11	0	9	1	ABELGANCE	9	0	3	0	
+0	0	0	B	11	0	9	0		9	1	4	0	
+0	0	0	E	11	0	9	0		0	2	13	0	
+0	0	0	L	11	0	9	0		8	3	5	0	
+0	0	0	G	11	0	9	0		7	4	5	0	
+0	0	0	A	11	0	9	0		10	5	3	0	
+0	0	0	N	11	0	9	0		10	6	3	0	
+0	0	0	C	11	0	9	0		10	7	3	0	
+0	0	0	E	11	0	9	0		7	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	49	A	11	10	3	1	AAU	0	10	13	0	
+0	0	0	A	11	10	3	0		10	11	3	0	
+0	0	0	U	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	50	S	12	1	3	1	SSE	9	1	4	0	
+0	0	0	S	12	1	3	0		0	2	13	0	
+0	0	0	E	12	1	3	0		8	3	5	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	51	V	12	5	3	1	VSO	10	5	3	0	
+0	0	0	S	12	5	3	0		10	6	3	0	
+0	0	0	O	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	52	S	12	10	3	1	SOL	0	10	13	0	
+0	0	0	O	12	10	3	0		10	11	3	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+29
+1	UBU	"___ Roi" (Alfred Jarry play)
+4	DAR	"God, home and country" org.
+7	EAL	Suffix with ether
+10	BUN	Atkins diet no-no
+11	PHOENICIA	Tyre's ancient land
+14	IMSTILLTHEONE	Shania Twain song for egotists
+16	TCU	Western Athletic Conference sch.
+17	LIMNS	Portrays in words
+18	MAISIE	Henry James title character
+21	EOE	Want-ad abbr.
+22	HUB	Core
+23	INKER	Printing press part
+25	DUI	It saddens SADD
+28	OIL	___ and vinegar
+29	TMC	Inits. for a film buff
+30	YTD	Abbr. on a pay stub
+31	DRE	Rapping Dr.
+32	DRACO	___ Malfoy, Harry Potter antagonist
+34	OAS	Group west of the Atlantic: Abbr.
+35	MOR	Neighbor of Alg.
+37	QLUPFH	Oust from office
+39	IHADA	"If ___ nickel..."
+41	NEE	Born, in bios
+42	NOTINTHECARDS	SAIN LOUIS BASEBALL SQUAD
+48	ABELGANCE	"Napoleon" director, 1927
+49	AAU	Sports org.
+50	SSE	Florence-to-Rome dir.
+51	VSO	Brandy label letters
+52	SOL	Scale tone
+31
+1	UBI	___ supra (text comment)
+2	BUM	Spare change seeker
+3	UNSTABLEMATES	Chess endings that don't hold up?
+4	DHL	FedEx rival
+5	AOL	Netscape's owner
+6	RET	Part of some mil. titles
+7	EIEIO	Kids' song refrain
+8	ACOMEDYOFERAS	"""Back to the Future"" tagline?"
+9	LINN	Philatelist George, founder of the largest weekly newspaper for stamp collectors
+11	PIUSI	First of 12 popes with a religious-sounding name
+12	NHLER	Ranger, e.g.
+13	AES	Pol. monogram of '52 and '56
+15	TCI	Cable co. that merged with AT&T
+18	MUIR	Sierra Club co-founder
+19	INTR	Preface: Abbr.
+20	EKMAQ	Camera lens setting
+22	HOD	Mason's need
+24	ECCL	Book after Proverbs: Abbr.
+26	UTAH	Where the 2002 Winter Olympics were held
+27	IDS	Badges, e.g., in brief
+32	DRANG	Sturm und ___
+33	OUNCE	Post office unit
+36	ODILE	"Swan Lake" role
+38	PEA	Salad tidbit
+39	INA	One-million link
+40	HOBS	Quoits pegs
+43	TAV	Torah's beginning?
+44	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+45	ECO	Writer Umberto
+46	DAO	1957 Physics Nobelist Tsung-___ Lee
+47	SUL	South of Brazil?

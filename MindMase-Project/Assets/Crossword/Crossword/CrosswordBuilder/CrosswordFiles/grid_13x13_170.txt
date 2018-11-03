@@ -1,0 +1,235 @@
+grid_13x13_170
+13
+0	1	1	O	0	0	3	1	OBI	0	0	3	1	OLS
+0	1	2	B	0	0	3	0		0	1	3	1	BCE
+0	1	3	I	0	0	3	0		0	2	13	1	IDENTICALTWIN
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	O	0	4	3	1	OCA	0	4	5	1	ORIBI
+0	1	5	C	0	4	3	0		0	5	5	1	CRESC
+0	1	6	A	0	4	3	0		0	6	3	1	ANS
+1	0	0	#	0	8	0	0		1	7	6	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	F	0	10	3	1	FAR	0	10	13	1	FJORDEXPLORER
+0	1	8	A	0	10	3	0		0	11	3	1	AGS
+0	1	9	R	0	10	3	0		0	12	3	1	RRS
+0	1	10	L	1	0	3	1	LCD	0	0	3	0	
+0	0	0	C	1	0	3	0		0	1	3	0	
+0	0	0	D	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	5	0	
+0	1	11	R	1	4	4	1	RRNA	0	4	5	0	
+0	0	0	R	1	4	4	0		0	5	5	0	
+0	0	0	N	1	4	4	0		0	6	3	0	
+0	1	12	A	1	4	4	0		1	7	6	1	ATBEST
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	13	M	1	9	4	1	MJGR	1	9	3	1	MME
+0	0	0	J	1	9	4	0		0	10	13	0	
+0	0	0	G	1	9	4	0		0	11	3	0	
+0	0	0	R	1	9	4	0		0	12	3	0	
+0	1	14	S	2	0	8	1	SEEDIEST	0	0	3	0	
+0	0	0	E	2	0	8	0		0	1	3	0	
+0	0	0	E	2	0	8	0		0	2	13	0	
+0	1	15	D	2	0	8	0		2	3	5	1	DORAL
+0	0	0	I	2	0	8	0		0	4	5	0	
+0	0	0	E	2	0	8	0		0	5	5	0	
+0	0	0	S	2	0	8	0		0	6	3	0	
+0	0	0	T	2	0	8	0		1	7	6	0	
+1	0	0	#	2	9	4	0		3	8	3	0	
+0	1	16	M	2	9	4	1	MOSS	1	9	3	0	
+0	0	0	O	2	9	4	0		0	10	13	0	
+0	0	0	S	2	9	4	0		0	11	3	0	
+0	0	0	S	2	9	4	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	4	0		4	1	5	0	
+0	1	17	N	3	2	4	1	NOBS	0	2	13	0	
+0	0	0	O	3	2	4	0		2	3	5	0	
+0	0	0	B	3	2	4	0		0	4	5	0	
+0	0	0	S	3	2	4	0		0	5	5	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	18	B	3	7	4	1	BNER	1	7	6	0	
+0	1	19	N	3	7	4	0		3	8	3	1	NRC
+0	0	0	E	3	7	4	0		1	9	3	0	
+0	0	0	R	3	7	4	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	4	0	
+1	0	0	#	4	1	8	0		5	0	4	0	
+0	1	20	S	4	1	8	1	STRICTER	4	1	5	1	SLAVS
+0	0	0	T	4	1	8	0		0	2	13	0	
+0	0	0	R	4	1	8	0		2	3	5	0	
+0	0	0	I	4	1	8	0		0	4	5	0	
+0	0	0	C	4	1	8	0		0	5	5	0	
+0	1	21	T	4	1	8	0		4	6	5	1	TENON
+0	0	0	E	4	1	8	0		1	7	6	0	
+0	0	0	R	4	1	8	0		3	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	D	4	10	3	1	DAP	0	10	13	0	
+0	1	23	A	4	10	3	0		4	11	5	1	ALLEY
+0	1	24	P	4	10	3	0		4	12	4	1	PAVE
+0	1	25	I	5	0	4	1	ILIA	5	0	4	1	INTD
+0	0	0	L	5	0	4	0		4	1	5	0	
+0	0	0	I	5	0	4	0		0	2	13	0	
+0	0	0	A	5	0	4	0		2	3	5	0	
+1	0	0	#	5	5	0	0		6	4	0	0	
+1	0	0	#	5	6	3	0		6	5	6	0	
+0	1	26	E	5	6	3	1	ESC	4	6	5	0	
+0	0	0	S	5	6	3	0		1	7	6	0	
+0	0	0	C	5	6	3	0		3	8	3	0	
+1	0	0	#	5	10	3	0		6	9	5	0	
+0	1	27	E	5	10	3	1	ELA	0	10	13	0	
+0	0	0	L	5	10	3	0		4	11	5	0	
+0	0	0	A	5	10	3	0		4	12	4	0	
+0	1	28	N	6	0	4	1	NACL	5	0	4	0	
+0	0	0	A	6	0	4	0		4	1	5	0	
+0	0	0	C	6	0	4	0		0	2	13	0	
+0	0	0	L	6	0	4	0		2	3	5	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	29	K	6	5	3	1	KNT	6	5	6	1	KAYAKS
+0	0	0	N	6	5	3	0		4	6	5	0	
+0	0	0	T	6	5	3	0		1	7	6	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	30	M	6	9	4	1	MXLV	6	9	5	1	MEARA
+0	0	0	X	6	9	4	0		0	10	13	0	
+0	0	0	L	6	9	4	0		4	11	5	0	
+0	0	0	V	6	9	4	0		4	12	4	0	
+0	1	31	T	7	0	3	1	TVA	5	0	4	0	
+0	0	0	V	7	0	3	0		4	1	5	0	
+0	0	0	A	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	32	S	7	4	3	1	SAO	7	4	3	1	STO
+0	0	0	A	7	4	3	0		6	5	6	0	
+0	0	0	O	7	4	3	0		4	6	5	0	
+1	0	0	#	7	8	0	0		8	7	5	0	
+1	0	0	#	7	9	4	0		8	8	5	0	
+0	1	33	E	7	9	4	1	EPEE	6	9	5	0	
+0	0	0	P	7	9	4	0		0	10	13	0	
+0	0	0	E	7	9	4	0		4	11	5	0	
+0	0	0	E	7	9	4	0		4	12	4	0	
+0	1	34	D	8	0	3	1	DSL	5	0	4	0	
+0	0	0	S	8	0	3	0		4	1	5	0	
+0	0	0	L	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	8	0		9	3	3	0	
+0	1	35	T	8	4	8	1	TYNEDALY	7	4	3	0	
+0	0	0	Y	8	4	8	0		6	5	6	0	
+0	0	0	N	8	4	8	0		4	6	5	0	
+0	1	36	E	8	4	8	0		8	7	5	1	EASER
+0	1	37	D	8	4	8	0		8	8	5	1	DEPTS
+0	0	0	A	8	4	8	0		6	9	5	0	
+0	0	0	L	8	4	8	0		0	10	13	0	
+0	0	0	Y	8	4	8	0		4	11	5	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	38	T	9	2	4	1	TWOA	0	2	13	0	
+0	1	39	W	9	2	4	0		9	3	3	1	WSW
+0	0	0	O	9	2	4	0		7	4	3	0	
+0	0	0	A	9	2	4	0		6	5	6	0	
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	40	A	9	7	4	1	AERO	8	7	5	0	
+0	0	0	E	9	7	4	0		8	8	5	0	
+0	0	0	R	9	7	4	0		6	9	5	0	
+0	0	0	O	9	7	4	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	J	10	0	4	1	JEWS	10	0	3	1	JFK
+0	1	42	E	10	0	4	0		10	1	3	1	EWE
+0	0	0	W	10	0	4	0		0	2	13	0	
+0	0	0	S	10	0	4	0		9	3	3	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	43	K	10	5	8	1	KASPAROV	6	5	6	0	
+0	1	44	A	10	5	8	0		10	6	3	1	ASO
+0	0	0	S	10	5	8	0		8	7	5	0	
+0	0	0	P	10	5	8	0		8	8	5	0	
+0	0	0	A	10	5	8	0		6	9	5	0	
+0	0	0	R	10	5	8	0		0	10	13	0	
+0	1	45	O	10	5	8	0		10	11	3	1	ODA
+0	1	46	V	10	5	8	0		10	12	3	1	VSO
+0	1	47	F	11	0	4	1	FWIW	10	0	3	0	
+0	0	0	W	11	0	4	0		10	1	3	0	
+0	0	0	I	11	0	4	0		0	2	13	0	
+0	0	0	W	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	48	S	11	5	4	1	SSET	6	5	6	0	
+0	0	0	S	11	5	4	0		10	6	3	0	
+0	0	0	E	11	5	4	0		8	7	5	0	
+0	0	0	T	11	5	4	0		8	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	49	E	11	10	3	1	EDS	0	10	13	0	
+0	0	0	D	11	10	3	0		10	11	3	0	
+0	0	0	S	11	10	3	0		10	12	3	0	
+0	1	50	K	12	0	3	1	KEN	10	0	3	0	
+0	0	0	E	12	0	3	0		10	1	3	0	
+0	0	0	N	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	51	O	12	6	3	1	ORS	10	6	3	0	
+0	0	0	R	12	6	3	0		8	7	5	0	
+0	0	0	S	12	6	3	0		8	8	5	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	52	R	12	10	3	1	RAO	0	10	13	0	
+0	0	0	A	12	10	3	0		10	11	3	0	
+0	0	0	O	12	10	3	0		10	12	3	0	
+33
+1	OBI	Asian waist product?
+4	OCA	South American tuber
+7	FAR	A long way (off)
+10	LCD	Watch readout, for short
+11	RRNA	Cell stuff that fabricates protein, for short
+13	MJGR	Work ___ many levels (succeed)
+14	SEEDIEST	Most flea-bitten
+16	MOSS	Peat source
+17	NOBS	Loaded Londoners
+18	BNER	Toothpaste ingredient
+20	STRICTER	Less lax
+22	DAP	Skip across the water's surface
+25	ILIA	Pelvic bones
+26	ESC	Computer key: Abbr.
+27	ELA	She, in Bras
+28	NACL	Crystal on the dinner table?
+29	KNT	Chess piece: Abbr.
+30	MXLV	The year 1045
+31	TVA	Norris Dam project: Abbr.
+32	SAO	___ Jorge (Azores island)
+33	EPEE	Pentathlon weapon
+34	DSL	Hi-speed connection
+35	TYNEDALY	"Judging Amy" co-star
+38	TWOA	60's draft deferment category
+40	AERO	Flying start?
+41	JEWS	Instrument played in the mouth
+43	KASPAROV	Deep Blue's opponent in chess
+47	FWIW	Bit of cyberchat shorthand
+48	SSET	Fixed at an acute angle
+49	EDS	Money managers?: Abbr.
+50	KEN	Author Follett
+51	ORS	Surgery sites, for short
+52	RAO	1990's Indian P.M.
+29
+1	OLS	Suffixes with glycer- and phen-
+2	BCE	Letters accompanying some 2,000-year-old+ dates
+3	IDENTICALTWIN	Person who looks exactly like another
+4	ORIBI	Antelope with spikelike horns
+5	CRESC	Opposite of dimin.
+6	ANS	R.S.V.P., e.g.: Abbr.
+7	FJORDEXPLORER	Vehicle for touring Scandinavia?
+8	AGS	Eastern titles
+9	RRS	Reading and others: Abbr.
+12	ATBEST	If all goes exactly according to plan
+13	MME	Fr. title
+15	DORAL	Golf's ___- Ryder Open
+19	NRC	Protective agcy. since 1974
+20	SLAVS	Polish populace, e.g.
+21	TENON	Part of a dovetail
+23	ALLEY	Back street
+24	PAVE	Put blacktop on
+25	INTD	Having depth
+29	KAYAKS	Transportation around the Aleutians
+30	MEARA	Funny Anne
+32	STO	I stand: Lat.
+36	EASER	Assuaging agent
+37	DEPTS	Govt. divisions
+39	WSW	Wind dir.
+41	JFK	Stone work
+42	EWE	She that is shorn
+44	ASO	Japanese volcano
+45	ODA	Harem chamber
+46	VSO	Brandy label letters

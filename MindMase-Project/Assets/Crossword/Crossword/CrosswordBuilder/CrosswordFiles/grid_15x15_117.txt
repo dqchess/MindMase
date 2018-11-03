@@ -1,0 +1,311 @@
+grid_15x15_117
+15
+0	1	1	D	0	0	3	1	DUI	0	0	3	1	DID
+0	1	2	U	0	0	3	0		0	1	3	1	UNA
+0	1	3	I	0	0	3	0		0	2	15	1	ITISTHENEXTNOTE
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	C	0	5	3	1	CDT	0	5	5	1	CROAK
+0	1	5	D	0	5	3	0		0	6	6	1	DECREE
+0	1	6	T	0	5	3	0		0	7	3	1	TIC
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	M	0	12	3	1	MAE	0	12	15	1	MANUALTREADMILL
+0	1	8	A	0	12	3	0		0	13	3	1	AEC
+0	1	9	E	0	12	3	0		0	14	3	1	ERE
+0	1	10	I	1	0	4	1	INTD	0	0	3	0	
+0	0	0	N	1	0	4	0		0	1	3	0	
+0	0	0	T	1	0	4	0		0	2	15	0	
+0	1	11	D	1	0	4	0		1	3	3	1	DLI
+1	0	0	#	1	5	6	0		2	4	3	0	
+0	1	12	R	1	5	6	1	REINAS	0	5	5	0	
+0	0	0	E	1	5	6	0		0	6	6	0	
+0	0	0	I	1	5	6	0		0	7	3	0	
+0	1	13	N	1	5	6	0		1	8	3	1	NUM
+0	1	14	A	1	5	6	0		1	9	3	1	ARA
+0	1	15	S	1	5	6	0		1	10	4	1	SRTA
+1	0	0	#	1	12	3	0		2	11	4	0	
+0	1	16	A	1	12	3	1	AER	0	12	15	0	
+0	0	0	E	1	12	3	0		0	13	3	0	
+0	0	0	R	1	12	3	0		0	14	3	0	
+0	1	17	D	2	0	15	1	DAILYOCCURRENCE	0	0	3	0	
+0	0	0	A	2	0	15	0		0	1	3	0	
+0	0	0	I	2	0	15	0		0	2	15	0	
+0	0	0	L	2	0	15	0		1	3	3	0	
+0	1	18	Y	2	0	15	0		2	4	3	1	YDS
+0	0	0	O	2	0	15	0		0	5	5	0	
+0	0	0	C	2	0	15	0		0	6	6	0	
+0	0	0	C	2	0	15	0		0	7	3	0	
+0	0	0	U	2	0	15	0		1	8	3	0	
+0	0	0	R	2	0	15	0		1	9	3	0	
+0	0	0	R	2	0	15	0		1	10	4	0	
+0	1	19	E	2	0	15	0		2	11	4	1	ESME
+0	0	0	N	2	0	15	0		0	12	15	0	
+0	0	0	C	2	0	15	0		0	13	3	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	5	0		4	1	3	0	
+0	1	20	S	3	2	5	1	SIDAR	0	2	15	0	
+0	0	0	I	3	2	5	0		1	3	3	0	
+0	0	0	D	3	2	5	0		2	4	3	0	
+0	0	0	A	3	2	5	0		0	5	5	0	
+0	0	0	R	3	2	5	0		0	6	6	0	
+1	0	0	#	3	8	5	0		4	7	7	0	
+0	1	21	M	3	8	5	1	MATSU	1	8	3	0	
+0	0	0	A	3	8	5	0		1	9	3	0	
+0	0	0	T	3	8	5	0		1	10	4	0	
+0	0	0	S	3	8	5	0		2	11	4	0	
+0	0	0	U	3	8	5	0		0	12	15	0	
+1	0	0	#	3	14	0	0		4	13	3	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+0	1	22	P	4	0	3	1	PST	4	0	3	1	PPP
+0	1	23	S	4	0	3	0		4	1	3	1	SSR
+0	0	0	T	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	24	S	4	4	4	1	SKEE	2	4	3	0	
+0	0	0	K	4	4	4	0		0	5	5	0	
+0	0	0	E	4	4	4	0		0	6	6	0	
+0	1	25	E	4	4	4	0		4	7	7	1	EPICENE
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	5	0		5	9	3	0	
+0	1	26	A	4	10	5	1	AMASS	1	10	4	0	
+0	0	0	M	4	10	5	0		2	11	4	0	
+0	0	0	A	4	10	5	0		0	12	15	0	
+0	1	27	S	4	10	5	0		4	13	3	1	SMU
+0	1	28	S	4	10	5	0		4	14	3	1	SST
+0	1	29	P	5	0	4	1	PSHC	4	0	3	0	
+0	0	0	S	5	0	4	0		4	1	3	0	
+0	0	0	H	5	0	4	0		0	2	15	0	
+0	1	30	C	5	0	4	0		5	3	3	1	COE
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	4	0		6	5	0	0	
+0	1	31	E	5	6	4	1	EPEE	0	6	6	0	
+0	0	0	P	5	6	4	0		4	7	7	0	
+0	1	32	E	5	6	4	0		5	8	3	1	EWE
+0	1	33	E	5	6	4	0		5	9	3	1	EON
+1	0	0	#	5	11	4	0		6	10	3	0	
+0	1	34	E	5	11	4	1	ELMS	2	11	4	0	
+0	0	0	L	5	11	4	0		0	12	15	0	
+0	0	0	M	5	11	4	0		4	13	3	0	
+0	0	0	S	5	11	4	0		4	14	3	0	
+0	1	35	P	6	0	5	1	PREOP	4	0	3	0	
+0	0	0	R	6	0	5	0		4	1	3	0	
+0	0	0	E	6	0	5	0		0	2	15	0	
+0	0	0	O	6	0	5	0		5	3	3	0	
+0	1	36	P	6	0	5	0		6	4	3	1	PRO
+1	0	0	#	6	6	0	0		7	5	3	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	37	I	6	7	4	1	IWON	4	7	7	0	
+0	0	0	W	6	7	4	0		5	8	3	0	
+0	0	0	O	6	7	4	0		5	9	3	0	
+0	1	38	N	6	7	4	0		6	10	3	1	NTS
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	39	T	6	12	3	1	TUT	0	12	15	0	
+0	0	0	U	6	12	3	0		4	13	3	0	
+0	0	0	T	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	11	0		8	1	3	0	
+0	1	40	N	7	2	11	1	NERVECENTER	0	2	15	0	
+0	0	0	E	7	2	11	0		5	3	3	0	
+0	0	0	R	7	2	11	0		6	4	3	0	
+0	1	41	V	7	2	11	0		7	5	3	1	VOA
+0	1	42	E	7	2	11	0		7	6	3	1	EZR
+0	0	0	C	7	2	11	0		4	7	7	0	
+0	0	0	E	7	2	11	0		5	8	3	0	
+0	0	0	N	7	2	11	0		5	9	3	0	
+0	0	0	T	7	2	11	0		6	10	3	0	
+0	1	43	E	7	2	11	0		7	11	3	1	EHS
+0	0	0	R	7	2	11	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	3	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+0	1	44	G	8	0	3	1	GEE	8	0	3	1	GMT
+0	1	45	E	8	0	3	0		8	1	3	1	ECI
+0	0	0	E	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	4	0		9	3	4	0	
+0	1	46	O	8	4	4	1	OOZE	6	4	3	0	
+0	0	0	O	8	4	4	0		7	5	3	0	
+0	0	0	Z	8	4	4	0		7	6	3	0	
+0	0	0	E	8	4	4	0		4	7	7	0	
+1	0	0	#	8	9	0	0		9	8	6	0	
+1	0	0	#	8	10	5	0		9	9	0	0	
+0	1	47	S	8	10	5	1	SHERA	6	10	3	0	
+0	0	0	H	8	10	5	0		7	11	3	0	
+0	0	0	E	8	10	5	0		0	12	15	0	
+0	1	48	R	8	10	5	0		8	13	3	1	RMN
+0	1	49	A	8	10	5	0		8	14	3	1	ALC
+0	1	50	M	9	0	4	1	MCXC	8	0	3	0	
+0	0	0	C	9	0	4	0		8	1	3	0	
+0	0	0	X	9	0	4	0		0	2	15	0	
+0	1	51	C	9	0	4	0		9	3	4	1	CREW
+1	0	0	#	9	5	4	0		10	4	4	0	
+0	1	52	A	9	5	4	1	ARNO	7	5	3	0	
+0	0	0	R	9	5	4	0		7	6	3	0	
+0	0	0	N	9	5	4	0		4	7	7	0	
+0	1	53	O	9	5	4	0		9	8	6	1	OLATHE
+1	0	0	#	9	10	0	0		10	9	5	0	
+1	0	0	#	9	11	4	0		10	10	3	0	
+0	1	54	S	9	11	4	1	SAML	7	11	3	0	
+0	0	0	A	9	11	4	0		0	12	15	0	
+0	0	0	M	9	11	4	0		8	13	3	0	
+0	0	0	L	9	11	4	0		8	14	3	0	
+0	1	55	T	10	0	5	1	TITRE	8	0	3	0	
+0	0	0	I	10	0	5	0		8	1	3	0	
+0	0	0	T	10	0	5	0		0	2	15	0	
+0	0	0	R	10	0	5	0		9	3	4	0	
+0	1	56	E	10	0	5	0		10	4	4	1	ERIS
+1	0	0	#	10	6	0	0		11	5	3	0	
+1	0	0	#	10	7	4	0		11	6	3	0	
+0	1	57	E	10	7	4	1	ELOI	4	7	7	0	
+0	0	0	L	10	7	4	0		9	8	6	0	
+0	1	58	O	10	7	4	0		10	9	5	1	OCHOS
+0	1	59	I	10	7	4	0		10	10	3	1	ILE
+1	0	0	#	10	12	3	0		11	11	3	0	
+0	1	60	D	10	12	3	1	DNC	0	12	15	0	
+0	0	0	N	10	12	3	0		8	13	3	0	
+0	0	0	C	10	12	3	0		8	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	5	0		12	1	3	0	
+0	1	61	N	11	2	5	1	NERDY	0	2	15	0	
+0	0	0	E	11	2	5	0		9	3	4	0	
+0	0	0	R	11	2	5	0		10	4	4	0	
+0	1	62	D	11	2	5	0		11	5	3	1	DNA
+0	1	63	Y	11	2	5	0		11	6	3	1	YIP
+1	0	0	#	11	8	5	0		12	7	3	0	
+0	1	64	A	11	8	5	1	ACLAM	9	8	6	0	
+0	0	0	C	11	8	5	0		10	9	5	0	
+0	0	0	L	11	8	5	0		10	10	3	0	
+0	1	65	A	11	8	5	0		11	11	3	1	AWW
+0	0	0	M	11	8	5	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	66	B	12	0	15	1	BLOWININTHEWIND	12	0	3	1	BAI
+0	1	67	L	12	0	15	0		12	1	3	1	LUM
+0	0	0	O	12	0	15	0		0	2	15	0	
+0	0	0	W	12	0	15	0		9	3	4	0	
+0	0	0	I	12	0	15	0		10	4	4	0	
+0	0	0	N	12	0	15	0		11	5	3	0	
+0	0	0	I	12	0	15	0		11	6	3	0	
+0	1	68	N	12	0	15	0		12	7	3	1	NPR
+0	0	0	T	12	0	15	0		9	8	6	0	
+0	0	0	H	12	0	15	0		10	9	5	0	
+0	0	0	E	12	0	15	0		10	10	3	0	
+0	0	0	W	12	0	15	0		11	11	3	0	
+0	0	0	I	12	0	15	0		0	12	15	0	
+0	1	69	N	12	0	15	0		12	13	3	1	NOV
+0	1	70	D	12	0	15	0		12	14	3	1	DOI
+0	1	71	A	13	0	3	1	AUT	12	0	3	0	
+0	0	0	U	13	0	3	0		12	1	3	0	
+0	0	0	T	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	6	0		14	3	0	0	
+0	1	72	S	13	4	6	1	SAPPHO	10	4	4	0	
+0	0	0	A	13	4	6	0		11	5	3	0	
+0	0	0	P	13	4	6	0		11	6	3	0	
+0	0	0	P	13	4	6	0		12	7	3	0	
+0	0	0	H	13	4	6	0		9	8	6	0	
+0	0	0	O	13	4	6	0		10	9	5	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	73	W	13	11	4	1	WLOO	11	11	3	0	
+0	0	0	L	13	11	4	0		0	12	15	0	
+0	0	0	O	13	11	4	0		12	13	3	0	
+0	0	0	O	13	11	4	0		12	14	3	0	
+0	1	74	I	14	0	3	1	IME	12	0	3	0	
+0	0	0	M	14	0	3	0		12	1	3	0	
+0	0	0	E	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	75	R	14	7	3	1	RES	12	7	3	0	
+0	0	0	E	14	7	3	0		9	8	6	0	
+0	0	0	S	14	7	3	0		10	9	5	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	76	L	14	12	3	1	LVI	0	12	15	0	
+0	0	0	V	14	12	3	0		12	13	3	0	
+0	0	0	I	14	12	3	0		12	14	3	0	
+37
+1	DUI	It saddens SADD
+4	CDT	What the Cubs play games in: Abbr.
+7	MAE	Screen siren West
+10	INTD	Having depth
+12	REINAS	Isabella and Sofia
+16	AER	Ireland's ___ Lingus
+17	DAILYOCCURRENCE	Sunrise, say
+20	SIDAR	Biker's add-on
+21	MATSU	Disputed island in the East China Sea
+22	PST	L.A. clock setting
+24	SKEE	"I Wish" rapper ___-Lo
+26	AMASS	Get together
+29	PSHC	Sean Connery, for one
+31	EPEE	Sport with lunges
+34	ELMS	O'Neill's "Desire Under the ___"
+35	PREOP	Before surgery
+37	IWON	Champion's shout
+39	TUT	Boy king of Egypt
+40	NERVECENTER	Headquarters
+44	GEE	"Wow"
+46	OOZE	Go very slowly
+47	SHERA	He-Man's toon sister
+50	MCXC	Year that Emperor Frederick I died
+52	ARNO	River under the Ponte Vecchio
+54	SAML	___ Adams, signature on the Declaration of Independence
+55	TITRE	British chemist's solution strength
+57	ELOI	Patron saint of goldsmiths
+60	DNC	Leadership org. opposed to the G.O.P.
+61	NERDY	Square, maybe
+64	ACLAM	Happy as ___
+66	BLOWININTHEWIND	1960s weather song by Peter, Paul and Mary
+71	AUT	Self: Prefix
+72	SAPPHO	Early Greek lyric poet
+73	WLOO	Defeat
+74	IME	The Beatles' "___ Mine"
+75	RES	Legal item
+76	LVI	Year in Nero's reign
+45
+1	DID	Performed
+2	UNA	Merkel of old movies
+3	ITISTHENEXTNOTE	Quote, part 3
+4	CROAK	Barely speak
+5	DECREE	Dictate
+6	TIC	Muscle spasm
+7	MANUALTREADMILL	Workout machine
+8	AEC	N.R.C. forerunner
+9	ERE	Ahead of, in verse
+11	DLI	551, in Latium
+13	NUM	Deut. preceder
+14	ARA	Parseghian of Notre Dame
+15	SRTA	Mlle., in Mallorca
+18	YDS	Gridiron divs.
+19	ESME	Salinger story subject
+22	PPP	Supremely softly, in music
+23	SSR	Georgia, once: Abbr.
+25	EPICENE	Unmanly
+27	SMU	Mustangs' home, for short
+28	SST	It has an adjustable nose
+30	COE	Cedar Rapids college
+32	EWE	Woolly mama
+33	EON	Long stretch
+36	PRO	Voting "yea"
+38	NTS	Windows options
+41	VOA	Big inits. in overseas broadcasting
+42	EZR	Book before Neh.
+43	EHS	Geezers' queries
+44	GMT	Chronometric std.
+45	ECI	Motel freebie
+48	RMN	Loser to J.F.K.
+49	ALC	Intoxicating agent: Abbr.
+51	CREW	All hands on deck
+53	OLATHE	City SW of Kansas City
+56	ERIS	Thrower of the apple of discord
+58	OCHOS	Spanish figure eights
+59	ILE	___ Perrot, Qu
+62	DNA	Kind of testing
+63	YIP	Sharp bark
+65	AWW	"That is so-o-o-o cute!"
+66	BAI	Actress ___ Ling of "The Crow"
+67	LUM	Abner's radio partner
+68	NPR	Big inits. in news
+69	NOV	Follower of Oct.
+70	DOI	"___ dare to eat a peach?": Eliot

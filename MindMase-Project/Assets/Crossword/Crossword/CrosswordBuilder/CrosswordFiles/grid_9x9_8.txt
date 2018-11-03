@@ -1,0 +1,115 @@
+grid_9x9_8
+9
+0	1	1	I	0	0	3	1	IBF	0	0	3	1	IHS
+0	1	2	B	0	0	3	0		0	1	3	1	BEA
+0	1	3	F	0	0	3	0		0	2	9	1	FBSKINNER
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	I	0	4	3	1	IMS	0	4	9	1	IPURITANI
+0	1	5	M	0	4	3	0		0	5	3	1	MOA
+0	1	6	S	0	4	3	0		0	6	9	1	SETSAPART
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	H	1	0	3	1	HEB	0	0	3	0	
+0	0	0	E	1	0	3	0		0	1	3	0	
+0	0	0	B	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	P	1	4	4	1	POEM	0	4	9	0	
+0	0	0	O	1	4	4	0		0	5	3	0	
+0	0	0	E	1	4	4	0		0	6	9	0	
+0	1	9	M	1	4	4	0		1	7	4	1	MCML
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	10	S	2	0	9	1	SASQUATCH	0	0	3	0	
+0	0	0	A	2	0	9	0		0	1	3	0	
+0	0	0	S	2	0	9	0		0	2	9	0	
+0	1	11	Q	2	0	9	0		2	3	3	1	QOM
+0	0	0	U	2	0	9	0		0	4	9	0	
+0	0	0	A	2	0	9	0		0	5	3	0	
+0	0	0	T	2	0	9	0		0	6	9	0	
+0	0	0	C	2	0	9	0		1	7	4	0	
+0	1	12	H	2	0	9	0		2	8	3	1	HAS
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	13	K	3	2	3	1	KOR	0	2	9	0	
+0	0	0	O	3	2	3	0		2	3	3	0	
+0	0	0	R	3	2	3	0		0	4	9	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	S	3	6	3	1	SMA	0	6	9	0	
+0	0	0	M	3	6	3	0		1	7	4	0	
+0	0	0	A	3	6	3	0		2	8	3	0	
+0	1	15	C	4	0	9	1	CRIMINALS	4	0	3	1	COT
+0	1	16	R	4	0	9	0		4	1	4	1	ROOK
+0	0	0	I	4	0	9	0		0	2	9	0	
+0	0	0	M	4	0	9	0		2	3	3	0	
+0	0	0	I	4	0	9	0		0	4	9	0	
+0	1	17	N	4	0	9	0		4	5	3	1	NEV
+0	0	0	A	4	0	9	0		0	6	9	0	
+0	0	0	L	4	0	9	0		1	7	4	0	
+0	0	0	S	4	0	9	0		2	8	3	0	
+0	1	18	O	5	0	3	1	OON	4	0	3	0	
+0	0	0	O	5	0	3	0		4	1	4	0	
+0	0	0	N	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	19	T	5	4	3	1	TEP	0	4	9	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	P	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	T	6	0	9	1	TONOAVAIL	4	0	3	0	
+0	0	0	O	6	0	9	0		4	1	4	0	
+0	0	0	N	6	0	9	0		0	2	9	0	
+0	1	21	O	6	0	9	0		6	3	3	1	ORB
+0	0	0	A	6	0	9	0		0	4	9	0	
+0	0	0	V	6	0	9	0		4	5	3	0	
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	1	22	I	6	0	9	0		6	7	3	1	IPO
+0	1	23	L	6	0	9	0		6	8	3	1	LIX
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	24	K	7	1	4	1	KERN	4	1	4	0	
+0	0	0	E	7	1	4	0		0	2	9	0	
+0	0	0	R	7	1	4	0		6	3	3	0	
+0	0	0	N	7	1	4	0		0	4	9	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	25	R	7	6	3	1	RPI	0	6	9	0	
+0	0	0	P	7	6	3	0		6	7	3	0	
+0	0	0	I	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	26	R	8	2	3	1	RBI	0	2	9	0	
+0	0	0	B	8	2	3	0		6	3	3	0	
+0	0	0	I	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	27	T	8	6	3	1	TOX	0	6	9	0	
+0	0	0	O	8	6	3	0		6	7	3	0	
+0	0	0	X	8	6	3	0		6	8	3	0	
+15
+1	IBF	Pugilists' org.
+4	IMS	Contacts 21st century-style
+7	HEB	Likud lang.
+8	POEM	Stressful work?
+10	SASQUATCH	Subject of a classic hoax
+13	KOR	Asian peninsula: Abbr.
+14	SMA	Little, to Robert Burns
+15	CRIMINALS	Ones in joint custody?
+18	OON	Suffix with pont-
+19	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+20	TONOAVAIL	In vain
+24	KERN	"Can't Help Lovin' Dat Man" composer
+25	RPI	N.C.A.A. rival of Vassar
+26	RBI	A single may get you one, briefly
+27	TOX	Medical examiner's subj.
+15
+1	IHS	Christian trigram
+2	BEA	"Don't ___ fool!"
+3	FBSKINNER	Psychologist-turned-N.F.L. runner?
+4	IPURITANI	Bellini opera set in the English Civil War
+5	MOA	Bygone bird
+6	SETSAPART	Earmarks
+9	MCML	Credits date for "Cinderella" or "All About Eve"
+11	QOM	Iranian city
+12	HAS	Includes
+15	COT	Item in a tent
+16	ROOK	Man in a corner
+17	NEV	Ida. neighbor
+21	ORB	Space ball
+22	IPO	Bus. page news
+23	LIX	Year Agrippina was murdered

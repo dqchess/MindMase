@@ -1,0 +1,165 @@
+grid_11x11_44
+11
+0	1	1	D	0	0	3	1	DCA	0	0	3	1	DOM
+0	1	2	C	0	0	3	0		0	1	5	1	COLET
+0	1	3	A	0	0	3	0		0	2	10	1	AMBERALERT
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	M	0	4	3	1	MEW	0	4	6	1	MENSAL
+0	1	5	E	0	4	3	0		0	5	3	1	EDO
+0	1	6	W	0	4	3	0		0	6	3	1	WIT
+1	0	0	#	0	8	0	0		1	7	7	0	
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	O	1	0	3	1	OOM	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	5	0	
+0	0	0	M	1	0	3	0		0	2	10	0	
+1	0	0	#	1	4	7	0		2	3	0	0	
+0	1	8	E	1	4	7	1	EDIFIER	0	4	6	0	
+0	0	0	D	1	4	7	0		0	5	3	0	
+0	0	0	I	1	4	7	0		0	6	3	0	
+0	1	9	F	1	4	7	0		1	7	7	1	FINAGLE
+0	1	10	I	1	4	7	0		1	8	10	1	ICEPELLETS
+0	1	11	E	1	4	7	0		1	9	4	1	EENS
+0	1	12	R	1	4	7	0		1	10	3	1	RSA
+0	1	13	M	2	0	3	1	MLB	0	0	3	0	
+0	0	0	L	2	0	3	0		0	1	5	0	
+0	0	0	B	2	0	3	0		0	2	10	0	
+1	0	0	#	2	4	7	0		3	3	7	0	
+0	1	14	N	2	4	7	1	NOTICES	0	4	6	0	
+0	0	0	O	2	4	7	0		0	5	3	0	
+0	0	0	T	2	4	7	0		0	6	3	0	
+0	0	0	I	2	4	7	0		1	7	7	0	
+0	0	0	C	2	4	7	0		1	8	10	0	
+0	0	0	E	2	4	7	0		1	9	4	0	
+0	0	0	S	2	4	7	0		1	10	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	15	E	3	1	4	1	EEGS	0	1	5	0	
+0	0	0	E	3	1	4	0		0	2	10	0	
+0	1	16	G	3	1	4	0		3	3	7	1	GOABOUT
+0	0	0	S	3	1	4	0		0	4	6	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	17	N	3	7	4	1	NENA	1	7	7	0	
+0	0	0	E	3	7	4	0		1	8	10	0	
+0	0	0	N	3	7	4	0		1	9	4	0	
+0	0	0	A	3	7	4	0		1	10	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	18	T	4	1	5	1	TROAS	0	1	5	0	
+0	0	0	R	4	1	5	0		0	2	10	0	
+0	0	0	O	4	1	5	0		3	3	7	0	
+0	0	0	A	4	1	5	0		0	4	6	0	
+0	1	19	S	4	1	5	0		4	5	3	1	SAM
+1	0	0	#	4	7	3	0		5	6	6	0	
+0	1	20	A	4	7	3	1	APS	1	7	7	0	
+0	0	0	P	4	7	3	0		1	8	10	0	
+0	0	0	S	4	7	3	0		1	9	4	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	7	0		6	1	4	0	
+0	1	21	A	5	2	7	1	AALARGE	0	2	10	0	
+0	0	0	A	5	2	7	0		3	3	7	0	
+0	0	0	L	5	2	7	0		0	4	6	0	
+0	0	0	A	5	2	7	0		4	5	3	0	
+0	1	22	R	5	2	7	0		5	6	6	1	RACHEL
+0	0	0	G	5	2	7	0		1	7	7	0	
+0	0	0	E	5	2	7	0		1	8	10	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	23	I	6	1	3	1	ILB	6	1	4	1	INCE
+0	0	0	L	6	1	3	0		0	2	10	0	
+0	0	0	B	6	1	3	0		3	3	7	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	24	M	6	5	5	1	MALLS	4	5	3	0	
+0	0	0	A	6	5	5	0		5	6	6	0	
+0	0	0	L	6	5	5	0		1	7	7	0	
+0	0	0	L	6	5	5	0		1	8	10	0	
+0	1	25	S	6	5	5	0		6	9	5	1	SOLUS
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	O	7	0	4	1	ONEO	7	0	3	1	OSS
+0	0	0	N	7	0	4	0		6	1	4	0	
+0	0	0	E	7	0	4	0		0	2	10	0	
+0	0	0	O	7	0	4	0		3	3	7	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	27	C	7	6	4	1	CELO	5	6	6	0	
+0	0	0	E	7	6	4	0		1	7	7	0	
+0	0	0	L	7	6	4	0		1	8	10	0	
+0	0	0	O	7	6	4	0		6	9	5	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	S	8	0	7	1	SCRUNCH	7	0	3	0	
+0	0	0	C	8	0	7	0		6	1	4	0	
+0	0	0	R	8	0	7	0		0	2	10	0	
+0	0	0	U	8	0	7	0		3	3	7	0	
+0	1	29	N	8	0	7	0		8	4	3	1	NYM
+0	1	30	C	8	0	7	0		8	5	3	1	CPI
+0	0	0	H	8	0	7	0		5	6	6	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	31	E	8	8	3	1	ELM	1	8	10	0	
+0	0	0	L	8	8	3	0		6	9	5	0	
+0	1	32	M	8	8	3	0		8	10	3	1	MAI
+0	1	33	S	9	0	7	1	SETTYPE	7	0	3	0	
+0	0	0	E	9	0	7	0		6	1	4	0	
+0	0	0	T	9	0	7	0		0	2	10	0	
+0	0	0	T	9	0	7	0		3	3	7	0	
+0	0	0	Y	9	0	7	0		8	4	3	0	
+0	0	0	P	9	0	7	0		8	5	3	0	
+0	0	0	E	9	0	7	0		5	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	34	T	9	8	3	1	TUA	1	8	10	0	
+0	0	0	U	9	8	3	0		6	9	5	0	
+0	0	0	A	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	0	0		11	2	0	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	35	M	10	4	3	1	MIL	8	4	3	0	
+0	0	0	I	10	4	3	0		8	5	3	0	
+0	0	0	L	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	S	10	8	3	1	SSI	1	8	10	0	
+0	0	0	S	10	8	3	0		6	9	5	0	
+0	0	0	I	10	8	3	0		8	10	3	0	
+21
+1	DCA	Bing Crosby's record label
+4	MEW	Kitten's cry
+7	OOM	Start of an "Oliver!" song title
+8	EDIFIER	Teacher
+13	MLB	World Series org.
+14	NOTICES	Classifieds, e.g.
+15	EEGS	Brain tests, briefly
+17	NENA	"99 Red Balloons" singer, 1984
+18	TROAS	Locale for a vision of the Apostle Paul
+20	APS	Tests for college credit, briefly
+21	AALARGE	Egg carton spec
+23	ILB	16 oz.
+24	MALLS	Shopping meccas
+26	ONEO	___ cat
+27	CELO	Singer Green with multiple Grammys
+28	SCRUNCH	Compress
+31	ELM	Wood with a twisted, spiral grain
+33	SETTYPE	Do printer's work
+34	TUA	Your, in Roma
+35	MIL	N.L. Central team, on scoreboards
+36	SSI	Fed. stipend
+19
+1	DOM	Suffix with serf
+2	COLET	St. Paul's School founder John ___
+3	AMBERALERT	Means of recapturing one's youth?
+4	MENSAL	Monthly
+5	EDO	Tokyo's ___ Castle
+6	WIT	Punning and such
+9	FINAGLE	Achieve through trickery
+10	ICEPELLETS	Hail
+11	EENS	Poetic periods
+12	RSA	Mandela's land: Abbr.
+16	GOABOUT	Tend to
+19	SAM	The U.S.A.'s "uncle"
+22	RACHEL	Mother of Joseph
+23	INCE	"Civilization" director Thomas
+25	SOLUS	Stage direction that means "alone"
+26	OSS	W.W. II intelligence org.
+29	NYM	N.L. team, on scoreboards
+30	CPI	Cost-of-living stat.
+32	MAI	French month

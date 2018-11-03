@@ -1,0 +1,115 @@
+grid_9x9_166
+9
+0	1	1	B	0	0	3	1	BIN	0	0	3	1	BUM
+0	1	2	I	0	0	3	0		0	1	5	1	IMING
+0	1	3	N	0	0	3	0		0	2	5	1	NPEPA
+1	0	0	#	0	4	0	0		1	3	7	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	7	0	
+0	1	4	D	0	6	3	1	DOC	0	6	3	1	DCI
+0	1	5	O	0	6	3	0		0	7	3	1	OBE
+0	1	6	C	0	6	3	0		0	8	3	1	CYS
+0	1	7	U	1	0	4	1	UMPS	0	0	3	0	
+0	0	0	M	1	0	4	0		0	1	5	0	
+0	0	0	P	1	0	4	0		0	2	5	0	
+0	1	8	S	1	0	4	0		1	3	7	1	SNIPERS
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	T	1	5	4	1	TCBY	1	5	7	1	TUSSLES
+0	0	0	C	1	5	4	0		0	6	3	0	
+0	0	0	B	1	5	4	0		0	7	3	0	
+0	0	0	Y	1	5	4	0		0	8	3	0	
+0	1	10	M	2	0	4	1	MIEN	0	0	3	0	
+0	0	0	I	2	0	4	0		0	1	5	0	
+0	0	0	E	2	0	4	0		0	2	5	0	
+0	0	0	N	2	0	4	0		1	3	7	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	U	2	5	4	1	UIES	1	5	7	0	
+0	0	0	I	2	5	4	0		0	6	3	0	
+0	0	0	E	2	5	4	0		0	7	3	0	
+0	0	0	S	2	5	4	0		0	8	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	12	N	3	1	5	1	NPINS	0	1	5	0	
+0	0	0	P	3	1	5	0		0	2	5	0	
+0	0	0	I	3	1	5	0		1	3	7	0	
+0	1	13	N	3	1	5	0		3	4	3	1	NEU
+0	0	0	S	3	1	5	0		1	5	7	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	G	4	1	7	1	GAPESAT	0	1	5	0	
+0	0	0	A	4	1	7	0		0	2	5	0	
+0	0	0	P	4	1	7	0		1	3	7	0	
+0	0	0	E	4	1	7	0		3	4	3	0	
+0	0	0	S	4	1	7	0		1	5	7	0	
+0	1	15	A	4	1	7	0		4	6	5	1	AESOP
+0	1	16	T	4	1	7	0		4	7	5	1	TROLL
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	5	0		6	2	3	0	
+0	1	17	E	5	3	5	1	EULER	1	3	7	0	
+0	0	0	U	5	3	5	0		3	4	3	0	
+0	0	0	L	5	3	5	0		1	5	7	0	
+0	0	0	E	5	3	5	0		4	6	5	0	
+0	0	0	R	5	3	5	0		4	7	5	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	B	6	0	4	1	BIER	6	0	3	1	BIC
+0	1	19	I	6	0	4	0		6	1	3	1	IRV
+0	1	20	E	6	0	4	0		6	2	3	1	EVS
+0	0	0	R	6	0	4	0		1	3	7	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	E	6	5	4	1	ESOS	1	5	7	0	
+0	0	0	S	6	5	4	0		4	6	5	0	
+0	0	0	O	6	5	4	0		4	7	5	0	
+0	1	22	S	6	5	4	0		6	8	3	1	SSS
+0	1	23	I	7	0	4	1	IRVS	6	0	3	0	
+0	0	0	R	7	0	4	0		6	1	3	0	
+0	0	0	V	7	0	4	0		6	2	3	0	
+0	0	0	S	7	0	4	0		1	3	7	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	S	7	5	4	1	SOLS	1	5	7	0	
+0	0	0	O	7	5	4	0		4	6	5	0	
+0	0	0	L	7	5	4	0		4	7	5	0	
+0	0	0	S	7	5	4	0		6	8	3	0	
+0	1	25	C	8	0	3	1	CVS	6	0	3	0	
+0	0	0	V	8	0	3	0		6	1	3	0	
+0	0	0	S	8	0	3	0		6	2	3	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	P	8	6	3	1	PLS	4	6	5	0	
+0	0	0	L	8	6	3	0		4	7	5	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	BIN	Bargain basement unit
+4	DOC	"Recipient" of a Bugs Bunny question
+7	UMPS	Officials behind batters
+9	TCBY	National frozen dessert chain
+10	MIEN	Demeanor
+11	UIES	Turnarounds, informally
+12	NPINS	Skittles
+14	GAPESAT	Watches in astonishment
+17	EULER	Noted Swiss mathematician
+18	BIER	Stand at a wake
+21	ESOS	Those, to Tom
+23	IRVS	Kupcinet and Cross
+24	SOLS	Short answers?
+25	CVS	Walgreens competitor
+26	PLS	Abbr. of politeness
+15
+1	BUM	No-goodnik
+2	IMING	Cyberchatting
+3	NPEPA	Salt-___ (rap trio)
+4	DCI	Start of the seventh century
+5	OBE	Award bestowed by a queen: Abbr.
+6	CYS	Baseball's Young and others
+8	SNIPERS	Long-range shooters
+9	TUSSLES	Fights
+13	NEU	Twin cities Ulm and ___-Ulm
+15	AESOP	"The Wolf in Sheep's Clothing" author
+16	TROLL	Fairy tale figure
+18	BIC	Razor brand
+19	IRV	Newspaper columnist Kupcinet
+20	EVS	Tiny energy units, for short
+22	SSS	Old draft initials

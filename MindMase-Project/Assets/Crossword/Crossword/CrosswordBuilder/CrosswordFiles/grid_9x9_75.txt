@@ -1,0 +1,115 @@
+grid_9x9_75
+9
+0	1	1	E	0	0	3	1	ETE	0	0	3	1	ERG
+0	1	2	T	0	0	3	0		0	1	3	1	TSY
+0	1	3	E	0	0	3	0		0	2	9	1	ETRURIANS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	I	0	5	3	1	IRA	0	5	3	1	ICC
+0	1	5	R	0	5	3	0		0	6	9	1	ROOSEVELT
+0	1	6	A	0	5	3	0		0	7	5	1	AMPED
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	R	1	0	3	1	RST	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	3	0	
+0	0	0	T	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	A	1	4	5	1	ACOMA	1	4	7	1	ASSORTS
+0	0	0	C	1	4	5	0		0	5	3	0	
+0	0	0	O	1	4	5	0		0	6	9	0	
+0	0	0	M	1	4	5	0		0	7	5	0	
+0	1	9	A	1	4	5	0		1	8	3	1	AES
+0	1	10	G	2	0	9	1	GYROSCOPE	0	0	3	0	
+0	0	0	Y	2	0	9	0		0	1	3	0	
+0	0	0	R	2	0	9	0		0	2	9	0	
+0	1	11	O	2	0	9	0		2	3	3	1	OSO
+0	0	0	S	2	0	9	0		1	4	7	0	
+0	0	0	C	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	P	2	0	9	0		0	7	5	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	U	3	2	3	1	USS	0	2	9	0	
+0	0	0	S	3	2	3	0		2	3	3	0	
+0	0	0	S	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	S	3	6	3	1	SES	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	C	4	1	7	1	CROONED	4	1	5	1	CLOTS
+0	0	0	R	4	1	7	0		0	2	9	0	
+0	0	0	O	4	1	7	0		2	3	3	0	
+0	0	0	O	4	1	7	0		1	4	7	0	
+0	1	15	N	4	1	7	0		4	5	3	1	NEB
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	D	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	C	5	0	3	1	CLI	5	0	3	1	CRE
+0	0	0	L	5	0	3	0		4	1	5	0	
+0	0	0	I	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	R	5	4	3	1	REV	1	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	V	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	R	6	0	9	1	ROASTBEEF	5	0	3	0	
+0	0	0	O	6	0	9	0		4	1	5	0	
+0	0	0	A	6	0	9	0		0	2	9	0	
+0	1	19	S	6	0	9	0		6	3	3	1	SAW
+0	0	0	T	6	0	9	0		1	4	7	0	
+0	0	0	B	6	0	9	0		4	5	3	0	
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	1	20	E	6	0	9	0		6	7	3	1	EGH
+0	1	21	F	6	0	9	0		6	8	3	1	FEY
+0	1	22	E	7	0	5	1	ETNAS	5	0	3	0	
+0	0	0	T	7	0	5	0		4	1	5	0	
+0	0	0	N	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	L	7	6	3	1	LGE	0	6	9	0	
+0	0	0	G	7	6	3	0		6	7	3	0	
+0	0	0	E	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	S	8	1	3	1	SSW	4	1	5	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	W	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	T	8	6	3	1	THY	0	6	9	0	
+0	0	0	H	8	6	3	0		6	7	3	0	
+0	0	0	Y	8	6	3	0		6	8	3	0	
+15
+1	ETE	A season abroad
+4	IRA	Sen. Roth created one
+7	RST	Letter sequence
+8	ACOMA	In ___ (unconscious)
+10	GYROSCOPE	Rocket part
+12	USS	Letters starting a ship's name
+13	SES	Parisian possessive
+14	CROONED	Sang
+16	CLI	Year in the papacy of St. Pius I
+17	REV	Ministerial nickname
+18	ROASTBEEF	Entree carved by a chef
+22	ETNAS	Old lab items akin to Bunsen burners
+23	LGE	It's bigger than a med.
+24	SSW	Colo. Springs-to-Santa Fe direction
+25	THY	Lord's Prayer pronoun
+15
+1	ERG	Ten-millionth of a joule
+2	TSY	Stowe girl
+3	ETRURIANS	Tuscan ancients
+4	ICC	Govt. org., 1887-1996
+5	ROOSEVELT	Nobelist who proposed a League of Peace
+6	AMPED	Energized
+8	ASSORTS	Divides by type
+9	AES	Norse pantheon
+11	OSO	Bolivian bear
+14	CLOTS	Stops flowing
+15	NEB	Wyo. neighbor
+16	CRE	Egg protector
+19	SAW	Espied
+20	EGH	French vineyard
+21	FEY	Magical

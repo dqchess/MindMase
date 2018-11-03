@@ -1,0 +1,167 @@
+grid_11x11_138
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	4	0		1	1	6	0	
+0	1	1	A	0	2	4	1	ASCH	0	2	11	1	ARSENIOHALL
+0	1	2	S	0	2	4	0		0	3	5	1	SAUNA
+0	1	3	C	0	2	4	0		0	4	3	1	CDS
+0	1	4	H	0	2	4	0		0	5	3	1	HYP
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	5	U	0	8	3	1	UTE	0	8	11	1	UPTOTHETASK
+0	1	6	T	0	8	3	0		0	9	3	1	TES
+0	1	7	E	0	8	3	0		0	10	3	1	EGO
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	8	B	1	1	5	1	BRADY	1	1	6	1	BIONDI
+0	0	0	R	1	1	5	0		0	2	11	0	
+0	0	0	A	1	1	5	0		0	3	5	0	
+0	0	0	D	1	1	5	0		0	4	3	0	
+0	0	0	Y	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	5	0	
+0	1	9	J	1	7	4	1	JPEG	1	7	3	1	JCE
+0	0	0	P	1	7	4	0		0	8	11	0	
+0	0	0	E	1	7	4	0		0	9	3	0	
+0	0	0	G	1	7	4	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	0	0	
+0	1	10	I	2	1	10	1	ISUSPECTSO	1	1	6	0	
+0	0	0	S	2	1	10	0		0	2	11	0	
+0	0	0	U	2	1	10	0		0	3	5	0	
+0	0	0	S	2	1	10	0		0	4	3	0	
+0	0	0	P	2	1	10	0		0	5	3	0	
+0	1	11	E	2	1	10	0		2	6	5	1	ELION
+0	0	0	C	2	1	10	0		1	7	3	0	
+0	0	0	T	2	1	10	0		0	8	11	0	
+0	0	0	S	2	1	10	0		0	9	3	0	
+0	0	0	O	2	1	10	0		0	10	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	12	O	3	1	3	1	OEN	1	1	6	0	
+0	0	0	E	3	1	3	0		0	2	11	0	
+0	0	0	N	3	1	3	0		0	3	5	0	
+1	0	0	#	3	5	0	0		4	4	5	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	L	3	6	3	1	LEO	2	6	5	0	
+0	0	0	E	3	6	3	0		1	7	3	0	
+0	0	0	O	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	14	A	4	0	7	1	ANNASUI	4	0	3	1	AID
+0	0	0	N	4	0	7	0		1	1	6	0	
+0	0	0	N	4	0	7	0		0	2	11	0	
+0	0	0	A	4	0	7	0		0	3	5	0	
+0	1	15	S	4	0	7	0		4	4	5	1	SEDUM
+0	1	16	U	4	0	7	0		4	5	3	1	UNU
+0	0	0	I	4	0	7	0		2	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	17	T	4	8	3	1	TLC	0	8	11	0	
+0	1	18	L	4	8	3	0		4	9	6	1	LAOTSE
+0	1	19	C	4	8	3	0		4	10	3	1	CNN
+0	1	20	I	5	0	3	1	IDI	4	0	3	0	
+0	0	0	D	5	0	3	0		1	1	6	0	
+0	0	0	I	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	E	5	4	3	1	ENO	4	4	5	0	
+0	0	0	N	5	4	3	0		4	5	3	0	
+0	0	0	O	5	4	3	0		2	6	5	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	H	5	8	3	1	HAN	0	8	11	0	
+0	0	0	A	5	8	3	0		4	9	6	0	
+0	0	0	N	5	8	3	0		4	10	3	0	
+0	1	23	D	6	0	3	1	DIO	4	0	3	0	
+0	0	0	I	6	0	3	0		1	1	6	0	
+0	0	0	O	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	7	0		7	3	3	0	
+0	1	24	D	6	4	7	1	DUNGEON	4	4	5	0	
+0	0	0	U	6	4	7	0		4	5	3	0	
+0	0	0	N	6	4	7	0		2	6	5	0	
+0	1	25	G	6	4	7	0		6	7	5	1	GAHAN
+0	0	0	E	6	4	7	0		0	8	11	0	
+0	0	0	O	6	4	7	0		4	9	6	0	
+0	0	0	N	6	4	7	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	26	H	7	2	3	1	HOU	0	2	11	0	
+0	1	27	O	7	2	3	0		7	3	3	1	OSS
+0	0	0	U	7	2	3	0		4	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	28	A	7	7	3	1	ATT	6	7	5	0	
+0	0	0	T	7	7	3	0		0	8	11	0	
+0	0	0	T	7	7	3	0		4	9	6	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+0	1	29	I	8	0	10	1	INASMUCHAS	8	0	3	1	IBA
+0	1	30	N	8	0	10	0		8	1	3	1	NAH
+0	0	0	A	8	0	10	0		0	2	11	0	
+0	0	0	S	8	0	10	0		7	3	3	0	
+0	0	0	M	8	0	10	0		4	4	5	0	
+0	1	31	U	8	0	10	0		8	5	3	1	UTZ
+0	1	32	C	8	0	10	0		8	6	3	1	CEO
+0	0	0	H	8	0	10	0		6	7	5	0	
+0	0	0	A	8	0	10	0		0	8	11	0	
+0	0	0	S	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	33	B	9	0	4	1	BALS	8	0	3	0	
+0	0	0	A	9	0	4	0		8	1	3	0	
+0	0	0	L	9	0	4	0		0	2	11	0	
+0	0	0	S	9	0	4	0		7	3	3	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	34	T	9	5	5	1	TEASE	8	5	3	0	
+0	0	0	E	9	5	5	0		8	6	3	0	
+0	0	0	A	9	5	5	0		6	7	5	0	
+0	0	0	S	9	5	5	0		0	8	11	0	
+0	0	0	E	9	5	5	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	35	A	10	0	3	1	AHL	8	0	3	0	
+0	0	0	H	10	0	3	0		8	1	3	0	
+0	0	0	L	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	4	0		11	4	0	0	
+0	1	36	Z	10	5	4	1	ZONK	8	5	3	0	
+0	0	0	O	10	5	4	0		8	6	3	0	
+0	0	0	N	10	5	4	0		6	7	5	0	
+0	0	0	K	10	5	4	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	ASCH	"The Nazarene" writer Sholem
+5	UTE	Tribal language
+8	BRADY	Two-time Super Bowl M.V.P. Tom
+9	JPEG	Computer image file format
+10	ISUSPECTSO	"Seems likely"
+12	OEN	Wine: Prefix
+13	LEO	Fifth sign of the zodiac
+14	ANNASUI	Designer with the Night of Fancy fragrance
+17	TLC	What good R.N.'s dispense
+20	IDI	Despot ___ Amin
+21	ENO	"Another Green World" musician
+22	HAN	River to the Yangtze
+23	DIO	Divine one, to Dante
+24	DUNGEON	"The Count of Monte Cristo" setting
+26	HOU	The Astros, on scoreboards
+28	ATT	Court figure: Abbr.
+29	INASMUCHAS	Because
+33	BALS	Debutantes' affairs
+34	TEASE	Fluff up, as hair
+35	AHL	Sports org. with the Calder Cup
+36	ZONK	Stupefy, slangily
+21
+1	ARSENIOHALL	"Coming to America" co-star
+2	SAUNA	Where to find sweaters?
+3	CDS	Many records
+4	HYP	Under: Prefix
+5	UPTOTHETASK	Skilled enough
+6	TES	Your, in Tours
+7	EGO	Oneself
+8	BIONDI	1988 Olympics swimming sensation
+9	JCE	"Dubliners" author
+11	ELION	Gertrude ___, 1988 Medicine Nobelist
+14	AID	Square on un calendario
+15	SEDUM	Rock garden herb
+16	UNU	Bygone P.M. with a palindromic name
+18	LAOTSE	Elder of Confucius
+19	CNN	"House Call" airer
+25	GAHAN	Cartoonist Wilson
+27	OSS	1942 F.D.R. creation
+29	IBA	Hall-of-Fame basketball coach Hank
+30	NAH	Down-home turndown
+31	UTZ	Snack food brand
+32	CEO	M.B.A. holder, maybe

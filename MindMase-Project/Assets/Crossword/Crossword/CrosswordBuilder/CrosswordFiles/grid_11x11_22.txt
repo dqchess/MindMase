@@ -1,0 +1,167 @@
+grid_11x11_22
+11
+0	1	1	X	0	0	3	1	XES	0	0	3	1	XYZ
+0	1	2	E	0	0	3	0		0	1	3	1	EEE
+0	1	3	S	0	0	3	0		0	2	3	1	SCS
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	O	0	6	3	1	OLA	0	6	4	1	ODOR
+0	1	5	L	0	6	3	0		0	7	3	1	LAC
+0	1	6	A	0	6	3	0		0	8	7	1	ANCHOVY
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	Y	1	0	5	1	YECCH	0	0	3	0	
+0	0	0	E	1	0	5	0		0	1	3	0	
+0	0	0	C	1	0	5	0		0	2	3	0	
+0	1	8	C	1	0	5	0		1	3	5	1	CTIES
+0	1	9	H	1	0	5	0		1	4	5	1	HAHAS
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	10	D	1	6	4	1	DANL	0	6	4	0	
+0	0	0	A	1	6	4	0		0	7	3	0	
+0	0	0	N	1	6	4	0		0	8	7	0	
+0	1	11	L	1	6	4	0		1	9	6	1	LAALAA
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	12	Z	2	0	5	1	ZESTA	0	0	3	0	
+0	0	0	E	2	0	5	0		0	1	3	0	
+0	0	0	S	2	0	5	0		0	2	3	0	
+0	0	0	T	2	0	5	0		1	3	5	0	
+0	0	0	A	2	0	5	0		1	4	5	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	13	O	2	6	5	1	OCCAM	0	6	4	0	
+0	0	0	C	2	6	5	0		0	7	3	0	
+0	0	0	C	2	6	5	0		0	8	7	0	
+0	0	0	A	2	6	5	0		1	9	6	0	
+0	1	14	M	2	6	5	0		2	10	3	1	MDS
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	6	0	
+1	0	0	#	3	3	4	0		4	2	7	0	
+0	1	15	I	3	3	4	1	IHDR	1	3	5	0	
+0	0	0	H	3	3	4	0		1	4	5	0	
+0	1	16	D	3	3	4	0		3	5	5	1	DMASS
+0	0	0	R	3	3	4	0		0	6	4	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	17	H	3	8	3	1	HAD	0	8	7	0	
+0	0	0	A	3	8	3	0		1	9	6	0	
+0	0	0	D	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	18	B	4	1	5	1	BTEAM	4	1	6	1	BBATHS
+0	1	19	T	4	1	5	0		4	2	7	1	TOWARDS
+0	0	0	E	4	1	5	0		1	3	5	0	
+0	0	0	A	4	1	5	0		1	4	5	0	
+0	0	0	M	4	1	5	0		3	5	5	0	
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	20	O	4	8	3	1	OLS	0	8	7	0	
+0	0	0	L	4	8	3	0		1	9	6	0	
+0	0	0	S	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	9	0		6	0	3	0	
+0	1	21	B	5	1	9	1	BOSSANOVA	4	1	6	0	
+0	0	0	O	5	1	9	0		4	2	7	0	
+0	0	0	S	5	1	9	0		1	3	5	0	
+0	0	0	S	5	1	9	0		1	4	5	0	
+0	0	0	A	5	1	9	0		3	5	5	0	
+0	1	22	N	5	1	9	0		5	6	5	1	NOCKS
+0	1	23	O	5	1	9	0		5	7	5	1	ONSET
+0	0	0	V	5	1	9	0		0	8	7	0	
+0	0	0	A	5	1	9	0		1	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	24	Y	6	0	3	1	YAW	6	0	3	1	YET
+0	0	0	A	6	0	3	0		4	1	6	0	
+0	0	0	W	6	0	3	0		4	2	7	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	5	0		7	4	4	0	
+0	1	25	S	6	5	5	1	SONYA	3	5	5	0	
+0	0	0	O	6	5	5	0		5	6	5	0	
+0	0	0	N	6	5	5	0		5	7	5	0	
+0	0	0	Y	6	5	5	0		0	8	7	0	
+0	0	0	A	6	5	5	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	E	7	0	3	1	ETA	6	0	3	0	
+0	0	0	T	7	0	3	0		4	1	6	0	
+0	0	0	A	7	0	3	0		4	2	7	0	
+1	0	0	#	7	4	4	0		8	3	3	0	
+0	1	27	D	7	4	4	1	DSCS	7	4	4	1	DEKE
+0	0	0	S	7	4	4	0		3	5	5	0	
+0	0	0	C	7	4	4	0		5	6	5	0	
+0	0	0	S	7	4	4	0		5	7	5	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	T	8	0	5	1	THROE	6	0	3	0	
+0	0	0	H	8	0	5	0		4	1	6	0	
+0	0	0	R	8	0	5	0		4	2	7	0	
+0	1	29	O	8	0	5	0		8	3	3	1	OAS
+0	0	0	E	8	0	5	0		7	4	4	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	30	K	8	6	5	1	KENDO	5	6	5	0	
+0	0	0	E	8	6	5	0		5	7	5	0	
+0	1	31	N	8	6	5	0		8	8	3	1	NIA
+0	1	32	D	8	6	5	0		8	9	3	1	DEX
+0	1	33	O	8	6	5	0		8	10	3	1	OBE
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	34	S	9	1	4	1	SDAK	4	1	6	0	
+0	0	0	D	9	1	4	0		4	2	7	0	
+0	0	0	A	9	1	4	0		8	3	3	0	
+0	0	0	K	9	1	4	0		7	4	4	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	35	S	9	6	5	1	STIEB	5	6	5	0	
+0	0	0	T	9	6	5	0		5	7	5	0	
+0	0	0	I	9	6	5	0		8	8	3	0	
+0	0	0	E	9	6	5	0		8	9	3	0	
+0	0	0	B	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	36	S	10	2	3	1	SSE	4	2	7	0	
+0	0	0	S	10	2	3	0		8	3	3	0	
+0	0	0	E	10	2	3	0		7	4	4	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	37	A	10	8	3	1	AXE	8	8	3	0	
+0	0	0	X	10	8	3	0		8	9	3	0	
+0	0	0	E	10	8	3	0		8	10	3	0	
+21
+1	XES	Letters in some ratings
+4	OLA	Pay extender?
+7	YECCH	"Gr-r-ross!"
+10	DANL	Twain's jumping frog
+12	ZESTA	Saltine brand
+13	OCCAM	Philosopher William of ___
+15	IHDR	Scarlett O'Hara's home
+17	HAD	Cozened
+18	BTEAM	Second string
+20	OLS	Suffixes with glycer- and phen-
+21	BOSSANOVA	Music style derived from samba and jazz
+24	YAW	Deviation
+25	SONYA	"Crime and Punishment" heroine
+26	ETA	Seventh chapter of a fraternity
+27	DSCS	Mil. awards
+28	THROE	Severe pang
+30	KENDO	Japanese martial art
+34	SDAK	Badlands Natl. Park's state
+35	STIEB	Former Toronto pitching ace
+36	SSE	Tampa-to-Fort Myers dir.
+37	AXE	Hacker
+21
+1	XYZ	Ending sequence
+2	EEE	Width measure
+3	SCS	Barges
+4	ODOR	Wavy lines, in the comics
+5	LAC	Anita Brookner's "Hotel du ___"
+6	ANCHOVY	Tapenade ingredient
+8	CTIES	Rail supports
+9	HAHAS	What the Laugh Factory produces
+11	LAALAA	Playmate of Tinky Winky, Dipsy and Po
+14	MDS	Hospital V.I.P.'s
+16	DMASS	Abbr. after Ted Kennedy's name
+18	BBATHS	Garden fixtures
+19	TOWARDS	Facing
+22	NOCKS	Prepares to shoot, as an arrow
+23	ONSET	Get-go
+24	YET	Even
+27	DEKE	Apollo astronaut Slayton
+29	OAS	Peace grp. since 1948
+31	NIA	Long in films
+32	DEX	Jazz saxophonist Gordon, familiarly
+33	OBE	Medal bestowed by Eliz. II

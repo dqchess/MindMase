@@ -1,0 +1,167 @@
+grid_11x11_133
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	M	0	1	3	1	MIL	0	1	6	1	MOSHER
+0	1	2	I	0	1	3	0		0	2	6	1	ISAYSO
+0	1	3	L	0	1	3	0		0	3	4	1	LASE
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	E	0	6	3	1	ETE	0	6	3	1	EVE
+0	1	5	T	0	6	3	0		0	7	6	1	TOWHEE
+0	1	6	E	0	6	3	0		0	8	4	1	EKCO
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	7	O	1	1	3	1	OSA	0	1	6	0	
+0	0	0	S	1	1	3	0		0	2	6	0	
+0	0	0	A	1	1	3	0		0	3	4	0	
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	8	E	1	5	6	1	EVOKED	1	5	9	1	ENHANCING
+0	0	0	V	1	5	6	0		0	6	3	0	
+0	0	0	O	1	5	6	0		0	7	6	0	
+0	0	0	K	1	5	6	0		0	8	4	0	
+0	1	9	E	1	5	6	0		1	9	3	1	EAP
+0	1	10	D	1	5	6	0		1	10	3	1	DRE
+0	1	11	I	2	0	4	1	ISAS	2	0	3	1	IOC
+0	0	0	S	2	0	4	0		0	1	6	0	
+0	0	0	A	2	0	4	0		0	2	6	0	
+0	0	0	S	2	0	4	0		0	3	4	0	
+1	0	0	#	2	5	6	0		3	4	4	0	
+0	1	12	N	2	5	6	1	NEWCAR	1	5	9	0	
+0	0	0	E	2	5	6	0		0	6	3	0	
+0	0	0	W	2	5	6	0		0	7	6	0	
+0	0	0	C	2	5	6	0		0	8	4	0	
+0	0	0	A	2	5	6	0		1	9	3	0	
+0	0	0	R	2	5	6	0		1	10	3	0	
+0	1	13	O	3	0	6	1	OHYEAH	2	0	3	0	
+0	0	0	H	3	0	6	0		0	1	6	0	
+0	0	0	Y	3	0	6	0		0	2	6	0	
+0	0	0	E	3	0	6	0		0	3	4	0	
+0	1	14	A	3	0	6	0		3	4	4	1	ARAY
+0	0	0	H	3	0	6	0		1	5	9	0	
+1	0	0	#	3	7	4	0		4	6	4	0	
+0	1	15	H	3	7	4	1	HOPE	0	7	6	0	
+0	0	0	O	3	7	4	0		0	8	4	0	
+0	0	0	P	3	7	4	0		1	9	3	0	
+0	0	0	E	3	7	4	0		1	10	3	0	
+0	1	16	C	4	0	3	1	CES	2	0	3	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	S	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	4	0		5	3	6	0	
+0	1	17	R	4	4	4	1	RASE	3	4	4	0	
+0	0	0	A	4	4	4	0		1	5	9	0	
+0	1	18	S	4	4	4	0		4	6	4	1	SCOT
+0	0	0	E	4	4	4	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	19	R	5	1	9	1	ROMANCERS	0	1	6	0	
+0	0	0	O	5	1	9	0		0	2	6	0	
+0	1	20	M	5	1	9	0		5	3	6	1	MTSNOW
+0	0	0	A	5	1	9	0		3	4	4	0	
+0	0	0	N	5	1	9	0		1	5	9	0	
+0	0	0	C	5	1	9	0		4	6	4	0	
+0	0	0	E	5	1	9	0		0	7	6	0	
+0	1	21	R	5	1	9	0		5	8	6	1	RAHRAH
+0	1	22	S	5	1	9	0		5	9	6	1	SLOANS
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	3	0	
+1	0	0	#	6	3	4	0		7	2	4	0	
+0	1	23	T	6	3	4	1	TYCO	5	3	6	0	
+0	0	0	Y	6	3	4	0		3	4	4	0	
+0	0	0	C	6	3	4	0		1	5	9	0	
+0	0	0	O	6	3	4	0		4	6	4	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	24	A	6	8	3	1	ALT	5	8	6	0	
+0	0	0	L	6	8	3	0		5	9	6	0	
+0	1	25	T	6	8	3	0		6	10	3	1	TTT
+0	1	26	S	7	0	4	1	SISS	7	0	3	1	SAO
+0	1	27	I	7	0	4	0		7	1	3	1	ILO
+0	1	28	S	7	0	4	0		7	2	4	1	SALO
+0	0	0	S	7	0	4	0		5	3	6	0	
+1	0	0	#	7	5	6	0		8	4	3	0	
+0	1	29	I	7	5	6	1	ITSHOT	1	5	9	0	
+0	0	0	T	7	5	6	0		4	6	4	0	
+0	1	30	S	7	5	6	0		7	7	4	1	SEWN
+0	0	0	H	7	5	6	0		5	8	6	0	
+0	0	0	O	7	5	6	0		5	9	6	0	
+0	0	0	T	7	5	6	0		6	10	3	0	
+0	1	31	A	8	0	6	1	ALANON	7	0	3	0	
+0	0	0	L	8	0	6	0		7	1	3	0	
+0	0	0	A	8	0	6	0		7	2	4	0	
+0	0	0	N	8	0	6	0		5	3	6	0	
+0	1	32	O	8	0	6	0		8	4	3	1	ONS
+0	0	0	N	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	33	E	8	7	4	1	ERAT	7	7	4	0	
+0	0	0	R	8	7	4	0		5	8	6	0	
+0	0	0	A	8	7	4	0		5	9	6	0	
+0	0	0	T	8	7	4	0		6	10	3	0	
+0	1	34	O	9	0	6	1	OOLONG	7	0	3	0	
+0	0	0	O	9	0	6	0		7	1	3	0	
+0	0	0	L	9	0	6	0		7	2	4	0	
+0	0	0	O	9	0	6	0		5	3	6	0	
+0	0	0	N	9	0	6	0		8	4	3	0	
+0	0	0	G	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	35	W	9	7	3	1	WAN	7	7	4	0	
+0	0	0	A	9	7	3	0		5	8	6	0	
+0	0	0	N	9	7	3	0		5	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	36	O	10	2	3	1	OWS	7	2	4	0	
+0	0	0	W	10	2	3	0		5	3	6	0	
+0	0	0	S	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	37	N	10	7	3	1	NHS	7	7	4	0	
+0	0	0	H	10	7	3	0		5	8	6	0	
+0	0	0	S	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	MIL	Measure of thickness
+4	ETE	It includes juillet
+7	OSA	Mother bear, in M
+8	EVOKED	Conjured up
+11	ISAS	"Stupid ___ stupid does"
+12	NEWCAR	Kind of smell
+13	OHYEAH	"You bet!"
+15	HOPE	"A waking dream": Aristotle
+16	CES	These, in Thiers
+17	RASE	Flatten, in Falmouth
+19	ROMANCERS	Beaus
+23	TYCO	___ Toys, maker of the Magic 8-Ball
+24	ALT	PC key near the space bar
+26	SISS	Puncture sound
+29	ITSHOT	Summer complaint
+31	ALANON	Its motto is "To help them, you have to help yourself first"
+33	ERAT	Word after quod
+34	OOLONG	Chinese brew
+35	WAN	In need of blusher, say
+36	OWS	Pain reactions
+37	NHS	Selective high-school org.
+21
+1	MOSHER	Participant at a 90's dance club
+2	ISAYSO	Arbitrary parental "explanation"
+3	LASE	Do some high-tech surgery
+4	EVE	Christmas ___
+5	TOWHEE	Long-tailed finch
+6	EKCO	Kitchenware brand
+8	ENHANCING	Touching up
+9	EAP	"The Raven" writer's monogram
+10	DRE	Dr. ___ formerly of Death Row Records
+11	IOC	Org. that oversees quadrennial games
+14	ARAY	Without ___ of hope
+18	SCOT	Edinburgh native
+20	MTSNOW	Vt. ski resort
+21	RAHRAH	Flag-waving
+22	SLOANS	Popular liniment brand
+25	TTT	Fort Smith-to-Little Rock dir.
+26	SAO	One with uma aur
+27	ILO	Workers' rights agcy.
+28	SALO	Eastern European pork fat dish
+30	SEWN	Stitched
+32	ONS	Clip-___

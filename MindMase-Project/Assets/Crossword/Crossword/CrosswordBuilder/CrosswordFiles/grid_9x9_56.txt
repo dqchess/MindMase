@@ -1,0 +1,117 @@
+grid_9x9_56
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	H	0	1	3	1	HAG	0	1	4	1	HUED
+0	1	2	A	0	1	3	0		0	2	4	1	ATAT
+0	1	3	G	0	1	3	0		0	3	3	1	GAS
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	R	0	5	3	1	RMS	0	5	5	1	RIFLE
+0	1	5	M	0	5	3	0		0	6	4	1	MCII
+0	1	6	S	0	5	3	0		0	7	4	1	SURD
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	P	1	0	4	1	PUTA	1	0	3	1	PCP
+0	0	0	U	1	0	4	0		0	1	4	0	
+0	0	0	T	1	0	4	0		0	2	4	0	
+0	0	0	A	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	8	I	1	5	4	1	ICUS	0	5	5	0	
+0	0	0	C	1	5	4	0		0	6	4	0	
+0	0	0	U	1	5	4	0		0	7	4	0	
+0	1	9	S	1	5	4	0		1	8	3	1	SEA
+0	1	10	C	2	0	9	1	CEASEFIRE	1	0	3	0	
+0	0	0	E	2	0	9	0		0	1	4	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	0	0	S	2	0	9	0		0	3	3	0	
+0	1	11	E	2	0	9	0		2	4	5	1	EAGAN
+0	0	0	F	2	0	9	0		0	5	5	0	
+0	0	0	I	2	0	9	0		0	6	4	0	
+0	0	0	R	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+0	1	12	P	3	0	3	1	PDT	1	0	3	0	
+0	0	0	D	3	0	3	0		0	1	4	0	
+0	0	0	T	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	A	3	4	5	1	ALIDA	2	4	5	0	
+0	0	0	L	3	4	5	0		0	5	5	0	
+0	0	0	I	3	4	5	0		0	6	4	0	
+0	0	0	D	3	4	5	0		0	7	4	0	
+0	0	0	A	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	U	4	3	3	1	UGE	4	3	5	1	URAWA
+0	0	0	G	4	3	3	0		2	4	5	0	
+0	0	0	E	4	3	3	0		0	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	15	L	5	0	5	1	LAURA	5	0	3	1	LGA
+0	1	16	A	5	0	5	0		5	1	4	1	AORB
+0	1	17	U	5	0	5	0		5	2	4	1	UBER
+0	0	0	R	5	0	5	0		4	3	5	0	
+0	0	0	A	5	0	5	0		2	4	5	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	I	5	6	3	1	IAM	5	6	4	1	INAN
+0	1	19	A	5	6	3	0		5	7	4	1	AANI
+0	1	20	M	5	6	3	0		5	8	3	1	MSG
+0	1	21	G	6	0	9	1	GOBANANAS	5	0	3	0	
+0	0	0	O	6	0	9	0		5	1	4	0	
+0	0	0	B	6	0	9	0		5	2	4	0	
+0	0	0	A	6	0	9	0		4	3	5	0	
+0	0	0	N	6	0	9	0		2	4	5	0	
+0	1	22	A	6	0	9	0		6	5	3	1	ASO
+0	0	0	N	6	0	9	0		5	6	4	0	
+0	0	0	A	6	0	9	0		5	7	4	0	
+0	0	0	S	6	0	9	0		5	8	3	0	
+0	1	23	A	7	0	4	1	AREW	5	0	3	0	
+0	0	0	R	7	0	4	0		5	1	4	0	
+0	0	0	E	7	0	4	0		5	2	4	0	
+0	0	0	W	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	S	7	5	4	1	SANG	6	5	3	0	
+0	0	0	A	7	5	4	0		5	6	4	0	
+0	0	0	N	7	5	4	0		5	7	4	0	
+0	0	0	G	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	B	8	1	3	1	BRA	5	1	4	0	
+0	0	0	R	8	1	3	0		5	2	4	0	
+0	0	0	A	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	O	8	5	3	1	ONI	6	5	3	0	
+0	0	0	N	8	5	3	0		5	6	4	0	
+0	0	0	I	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	HAG	Wizened woman
+4	RMS	Bldg. units
+7	PUTA	___ hold on
+8	ICUS	Some hosp. rooms
+10	CEASEFIRE	Occasion to drop one's arms
+12	PDT	L.A. summer setting
+13	ALIDA	Actress Valli of "The Third Man"
+14	UGE	Treatment
+15	LAURA	First lady after Hillary
+18	IAM	Dr. Seuss's Sam ___
+21	GOBANANAS	Wig out
+23	AREW	Hard-hitting 1992 hurricane
+24	SANG	Tattled
+25	BRA	Piece worn under a blouse
+26	ONI	Clandestine maritime org.
+17
+1	HUED	In color
+2	ATAT	Rat tail?
+3	GAS	Main feature?
+4	RIFLE	M-1, for one
+5	MCII	Year in Henry I's reign
+6	SURD	Voiceless, in phonetics
+7	PCP	Narc's find, for short
+9	SEA	Marine
+11	EAGAN	1991 Tony winner Daisy
+14	URAWA	Suburb of Tokyo
+15	LGA	J.F.K. alternative
+16	AORB	Simplest of choices
+17	UBER	Super, slangily
+18	INAN	"Back ___ hour" (shop sign)
+19	AANI	Emporio ___
+20	MSG	"No ___"
+22	ASO	Japan's largest active volcano

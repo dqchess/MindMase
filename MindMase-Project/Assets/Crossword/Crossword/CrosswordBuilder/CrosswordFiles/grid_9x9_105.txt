@@ -1,0 +1,117 @@
+grid_9x9_105
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	W	0	1	3	1	WOP	0	1	4	1	WETS
+0	1	2	O	0	1	3	0		0	2	9	1	ODORNIZER
+0	1	3	P	0	1	3	0		0	3	3	1	PEP
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	D	0	6	3	1	DOT	0	6	9	1	DELMONICO
+0	1	5	O	0	6	3	0		0	7	4	1	ONES
+0	1	6	T	0	6	3	0		0	8	3	1	TSA
+0	1	7	R	1	0	4	1	REDE	1	0	3	1	RTS
+0	0	0	E	1	0	4	0		0	1	4	0	
+0	0	0	D	1	0	4	0		0	2	9	0	
+0	0	0	E	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	P	1	5	4	1	PENS	1	5	4	1	PEUT
+0	0	0	E	1	5	4	0		0	6	9	0	
+0	0	0	N	1	5	4	0		0	7	4	0	
+0	0	0	S	1	5	4	0		0	8	3	0	
+0	1	9	T	2	0	4	1	TTOP	1	0	3	0	
+0	0	0	T	2	0	4	0		0	1	4	0	
+0	0	0	O	2	0	4	0		0	2	9	0	
+0	0	0	P	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	E	2	5	4	1	ELEA	1	5	4	0	
+0	0	0	L	2	5	4	0		0	6	9	0	
+0	0	0	E	2	5	4	0		0	7	4	0	
+0	0	0	A	2	5	4	0		0	8	3	0	
+0	1	11	S	3	0	3	1	SSR	1	0	3	0	
+0	0	0	S	3	0	3	0		0	1	4	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	B	3	4	4	1	BUMS	3	4	3	1	BAT
+0	0	0	U	3	4	4	0		1	5	4	0	
+0	0	0	M	3	4	4	0		0	6	9	0	
+0	0	0	S	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	13	N	4	2	5	1	NEATO	0	2	9	0	
+0	1	14	E	4	2	5	0		4	3	4	1	EAUX
+0	0	0	A	4	2	5	0		3	4	3	0	
+0	0	0	T	4	2	5	0		1	5	4	0	
+0	0	0	O	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	L	5	1	4	1	LIAT	5	1	4	1	LAPP
+0	0	0	I	5	1	4	0		0	2	9	0	
+0	0	0	A	5	1	4	0		4	3	4	0	
+0	0	0	T	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	16	N	5	6	3	1	NBA	0	6	9	0	
+0	1	17	B	5	6	3	0		5	7	4	1	BASE
+0	1	18	A	5	6	3	0		5	8	3	1	ALB
+0	1	19	Z	6	0	4	1	ZAZU	6	0	3	1	ZSA
+0	0	0	A	6	0	4	0		5	1	4	0	
+0	0	0	Z	6	0	4	0		0	2	9	0	
+0	0	0	U	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	20	D	6	5	4	1	DIAL	6	5	3	1	DUC
+0	0	0	I	6	5	4	0		0	6	9	0	
+0	0	0	A	6	5	4	0		5	7	4	0	
+0	0	0	L	6	5	4	0		5	8	3	0	
+0	1	21	S	7	0	4	1	SPEX	6	0	3	0	
+0	0	0	P	7	0	4	0		5	1	4	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	X	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	U	7	5	4	1	UCSB	6	5	3	0	
+0	0	0	C	7	5	4	0		0	6	9	0	
+0	0	0	S	7	5	4	0		5	7	4	0	
+0	0	0	B	7	5	4	0		5	8	3	0	
+0	1	23	A	8	0	3	1	APR	6	0	3	0	
+0	0	0	P	8	0	3	0		5	1	4	0	
+0	0	0	R	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	C	8	5	3	1	COE	6	5	3	0	
+0	0	0	O	8	5	3	0		0	6	9	0	
+0	0	0	E	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	WOP	Doo-___ music
+4	DOT	Part of some letters
+7	REDE	Counsel, in English dialect
+8	PENS	What stylophiles collect
+9	TTOP	Sports car option
+10	ELEA	Where Zeno taught
+11	SSR	Pre-Yeltsin abbr.
+12	BUMS	Depresses, with "out"
+13	NEATO	Old-fashioned "Sweet!"
+15	LIAT	"South Pacific" role
+16	NBA	Org. for the Nets and Nuggets
+19	ZAZU	Bird in "The Lion King"
+20	DIAL	I-XII locale
+21	SPEX	X-ray ___
+22	UCSB	Campus 100 miles NW of L.A.
+23	APR	0% ___
+24	COE	Runner Sebastian
+15
+1	WETS	Licks, say
+2	ODORNIZER	It freshens the air
+3	PEP	Vitality
+4	DELMONICO	Club steak
+5	ONES	Billfold bills
+6	TSA	Air passenger protection org.
+7	RTS	They may get waived: Abbr.
+8	PEUT	___-
+12	BAT	Be up
+14	EAUX	___ de vie (brandies)
+15	LAPP	Scandinavian native
+17	BASE	Hard-core followers, in politics
+18	ALB	Neighbor of Greece: Abbr.
+19	ZSA	Eva's half-sister?
+20	DUC	Titled Frenchman

@@ -1,0 +1,231 @@
+grid_13x13_96
+13
+0	1	1	C	0	0	3	1	CEY	0	0	3	1	CHO
+0	1	2	E	0	0	3	0		0	1	5	1	EMPTY
+0	1	3	Y	0	0	3	0		0	2	13	1	YOURFLYISOPEN
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GUS	0	4	4	1	GAEA
+0	1	5	U	0	4	3	0		0	5	3	1	USN
+0	1	6	S	0	4	3	0		0	6	3	1	SIC
+1	0	0	#	0	8	0	0		1	7	6	0	
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	U	0	9	3	1	UPA	0	9	4	1	USED
+0	1	8	P	0	9	3	0		0	10	13	1	PERSONALITIES
+0	1	9	A	0	9	3	0		0	11	7	1	ALDORAY
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	H	1	0	3	1	HMO	0	0	3	0	
+0	0	0	M	1	0	3	0		0	1	5	0	
+0	0	0	O	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	5	0	
+0	1	11	A	1	4	4	1	ASIP	0	4	4	0	
+0	0	0	S	1	4	4	0		0	5	3	0	
+0	0	0	I	1	4	4	0		0	6	3	0	
+0	1	12	P	1	4	4	0		1	7	6	1	PEOPLE
+1	0	0	#	1	9	3	0		2	8	0	0	
+0	1	13	S	1	9	3	1	SEL	0	9	4	0	
+0	0	0	E	1	9	3	0		0	10	13	0	
+0	0	0	L	1	9	3	0		0	11	7	0	
+1	0	0	#	1	13	0	0		2	12	4	0	
+0	1	14	O	2	0	8	1	OPULENCE	0	0	3	0	
+0	0	0	P	2	0	8	0		0	1	5	0	
+0	0	0	U	2	0	8	0		0	2	13	0	
+0	1	15	L	2	0	8	0		2	3	5	1	LEROY
+0	0	0	E	2	0	8	0		0	4	4	0	
+0	0	0	N	2	0	8	0		0	5	3	0	
+0	0	0	C	2	0	8	0		0	6	3	0	
+0	0	0	E	2	0	8	0		1	7	6	0	
+1	0	0	#	2	9	4	0		3	8	5	0	
+0	1	16	E	2	9	4	1	ERDE	0	9	4	0	
+0	0	0	R	2	9	4	0		0	10	13	0	
+0	0	0	D	2	9	4	0		0	11	7	0	
+0	1	17	E	2	9	4	0		2	12	4	1	ENDE
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	18	T	3	1	4	1	TREA	0	1	5	0	
+0	0	0	R	3	1	4	0		0	2	13	0	
+0	0	0	E	3	1	4	0		2	3	5	0	
+0	0	0	A	3	1	4	0		0	4	4	0	
+1	0	0	#	3	6	0	0		4	5	0	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	19	O	3	7	6	1	ODDSON	1	7	6	0	
+0	1	20	D	3	7	6	0		3	8	5	1	DOERR
+0	0	0	D	3	7	6	0		0	9	4	0	
+0	0	0	S	3	7	6	0		0	10	13	0	
+0	0	0	O	3	7	6	0		0	11	7	0	
+0	0	0	N	3	7	6	0		2	12	4	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	21	Y	4	1	3	1	YFR	0	1	5	0	
+0	0	0	F	4	1	3	0		0	2	13	0	
+0	0	0	R	4	1	3	0		2	3	5	0	
+1	0	0	#	4	5	0	0		5	4	5	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	22	G	4	6	3	1	GPO	4	6	5	1	GOTIT
+0	0	0	P	4	6	3	0		1	7	6	0	
+0	0	0	O	4	6	3	0		3	8	5	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	23	O	4	10	3	1	ORD	0	10	13	0	
+0	0	0	R	4	10	3	0		0	11	7	0	
+0	0	0	D	4	10	3	0		2	12	4	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	24	L	5	2	3	1	LOG	0	2	13	0	
+0	0	0	O	5	2	3	0		2	3	5	0	
+0	1	25	G	5	2	3	0		5	4	5	1	GEHRY
+1	0	0	#	5	6	3	0		6	5	6	0	
+0	1	26	O	5	6	3	1	OLE	4	6	5	0	
+0	0	0	L	5	6	3	0		1	7	6	0	
+0	0	0	E	5	6	3	0		3	8	5	0	
+1	0	0	#	5	10	3	0		6	9	5	0	
+0	1	27	N	5	10	3	1	NAE	0	10	13	0	
+0	0	0	A	5	10	3	0		0	11	7	0	
+0	0	0	E	5	10	3	0		2	12	4	0	
+1	0	0	#	6	1	11	0		7	0	4	0	
+0	1	28	B	6	1	11	1	BYYESTERDAY	6	1	7	1	BUTLERS
+0	0	0	Y	6	1	11	0		0	2	13	0	
+0	0	0	Y	6	1	11	0		2	3	5	0	
+0	0	0	E	6	1	11	0		5	4	5	0	
+0	1	29	S	6	1	11	0		6	5	6	1	SOPSUP
+0	0	0	T	6	1	11	0		4	6	5	0	
+0	0	0	E	6	1	11	0		1	7	6	0	
+0	0	0	R	6	1	11	0		3	8	5	0	
+0	1	30	D	6	1	11	0		6	9	5	1	DEMOS
+0	0	0	A	6	1	11	0		0	10	13	0	
+0	0	0	Y	6	1	11	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	31	C	7	0	3	1	CUI	7	0	4	1	COZY
+0	0	0	U	7	0	3	0		6	1	7	0	
+0	0	0	I	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	32	H	7	4	3	1	HOI	5	4	5	0	
+0	0	0	O	7	4	3	0		6	5	6	0	
+0	0	0	I	7	4	3	0		4	6	5	0	
+1	0	0	#	7	8	3	0		8	7	0	0	
+0	1	33	R	7	8	3	1	REL	3	8	5	0	
+0	0	0	E	7	8	3	0		6	9	5	0	
+0	0	0	L	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	O	8	0	3	1	OTS	7	0	4	0	
+0	0	0	T	8	0	3	0		6	1	7	0	
+0	0	0	S	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	3	0		9	3	4	0	
+0	1	35	R	8	4	3	1	RPT	5	4	5	0	
+0	0	0	P	8	4	3	0		6	5	6	0	
+0	0	0	T	8	4	3	0		4	6	5	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	3	0		9	8	4	0	
+0	1	36	M	8	9	3	1	MIV	6	9	5	0	
+0	0	0	I	8	9	3	0		0	10	13	0	
+0	1	37	V	8	9	3	0		8	11	5	1	VOLTA
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	38	Z	9	0	6	1	ZLOTYS	7	0	4	0	
+0	0	0	L	9	0	6	0		6	1	7	0	
+0	0	0	O	9	0	6	0		0	2	13	0	
+0	1	39	T	9	0	6	0		9	3	4	1	TSCA
+0	0	0	Y	9	0	6	0		5	4	5	0	
+0	0	0	S	9	0	6	0		6	5	6	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	40	S	9	8	4	1	SOTO	9	8	4	1	SAID
+0	0	0	O	9	8	4	0		6	9	5	0	
+0	0	0	T	9	8	4	0		0	10	13	0	
+0	0	0	O	9	8	4	0		8	11	5	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	Y	10	0	4	1	YEPS	7	0	4	0	
+0	0	0	E	10	0	4	0		6	1	7	0	
+0	0	0	P	10	0	4	0		0	2	13	0	
+0	0	0	S	10	0	4	0		9	3	4	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	42	U	10	5	8	1	UNEASILY	6	5	6	0	
+0	1	43	N	10	5	8	0		10	6	3	1	NOU
+0	1	44	E	10	5	8	0		10	7	3	1	ELS
+0	0	0	A	10	5	8	0		9	8	4	0	
+0	0	0	S	10	5	8	0		6	9	5	0	
+0	0	0	I	10	5	8	0		0	10	13	0	
+0	0	0	L	10	5	8	0		8	11	5	0	
+0	1	45	Y	10	5	8	0		10	12	3	1	YON
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	46	R	11	1	3	1	REC	6	1	7	0	
+0	0	0	E	11	1	3	0		0	2	13	0	
+0	0	0	C	11	1	3	0		9	3	4	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	47	P	11	5	4	1	POLI	6	5	6	0	
+0	0	0	O	11	5	4	0		10	6	3	0	
+0	0	0	L	11	5	4	0		10	7	3	0	
+0	0	0	I	11	5	4	0		9	8	4	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	48	E	11	10	3	1	ETO	0	10	13	0	
+0	0	0	T	11	10	3	0		8	11	5	0	
+0	0	0	O	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	49	S	12	1	3	1	SNA	6	1	7	0	
+0	0	0	N	12	1	3	0		0	2	13	0	
+0	0	0	A	12	1	3	0		9	3	4	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	50	U	12	6	3	1	USD	10	6	3	0	
+0	0	0	S	12	6	3	0		10	7	3	0	
+0	0	0	D	12	6	3	0		9	8	4	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	S	12	10	3	1	SAN	0	10	13	0	
+0	0	0	A	12	10	3	0		8	11	5	0	
+0	0	0	N	12	10	3	0		10	12	3	0	
+33
+1	CEY	All-Star third baseman Ron
+4	GUS	Nickname aboard Apollo 1
+7	UPA	Work ___ sweat
+10	HMO	Grp. with a co-pay
+11	ASIP	Take ___ (try some)
+13	SEL	"S" on a French shaker
+14	OPULENCE	Plenty
+16	ERDE	Third planet from die Sonne
+18	TREA	Pay the entire check
+19	ODDSON	Heavily favored
+21	YFR	N.B.A.
+22	GPO	Main mailbox locale: Abbr.
+23	ORD	Certain no.
+24	LOG	Record keeper
+26	OLE	Comedian Olsen
+27	NAE	Macduff rebuff
+28	BYYESTERDAY	"Pronto!"
+31	CUI	___ bono (for whose benefit?: Lat.)
+32	HOI	Part of "the many," literally
+33	REL	Islam, e.g.: Abbr.
+34	OTS	N.F.L. tiebreakers
+35	RPT	Sch. assignment
+36	MIV	Year in Basil II's rule
+38	ZLOTYS	Pole vault units?
+40	SOTO	De ___ (Dallas suburb)
+41	YEPS	Cowboy affirmatives
+42	UNEASILY	With reservations
+46	REC	Ping-Pong or dancing, for short
+47	POLI	___ Sci
+48	ETO	War zone, in brief
+49	SNA	Dundee precip
+50	USD	Foreign exchange abbr.
+51	SAN	Marino or Gabriel
+25
+1	CHO	Funnywoman Margaret
+2	EMPTY	Pour out from
+3	YOURFLYISOPEN	Exposure warning?
+4	GAEA	Earth personified
+5	USN	American mil. wing
+6	SIC	Set (on)
+7	USED	Like most yard sale goods
+8	PERSONALITIES	"Quip, part 2"
+9	ALDORAY	"The Naked and the Dead" star
+12	PEOPLE	Nation
+15	LEROY	"Quo Vadis?" director Mervyn
+17	ENDE	"The Neverending Story" writer
+20	DOERR	Baseball Hall-of-Famer Bobby
+22	GOTIT	"I have the answer!"
+25	GEHRY	Architect of the Guggenheim Museum in Bilbao
+28	BUTLERS	The usual suspects?
+29	SOPSUP	Absorbs, as gravy
+30	DEMOS	Floor models
+31	COZY	Snug
+37	VOLTA	Physicist Alessandro
+39	TSCA	Puccini soprano
+40	SAID	Uttered
+43	NOU	Over
+44	ELS	Lines up?
+45	YON	Thataway

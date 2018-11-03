@@ -1,0 +1,165 @@
+grid_11x11_50
+11
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	O	0	1	3	1	ODS	0	1	5	1	OCHOS
+0	1	2	D	0	1	3	0		0	2	5	1	DCUPS
+0	1	3	S	0	1	3	0		0	3	6	1	SIMPER
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	7	0	
+0	1	4	M	0	7	3	1	MIT	0	7	3	1	MAG
+0	1	5	I	0	7	3	0		0	8	5	1	IWERE
+0	1	6	T	0	7	3	0		0	9	5	1	TSARS
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	M	1	0	4	1	MCCI	1	0	4	1	MAMA
+0	0	0	C	1	0	4	0		0	1	5	0	
+0	0	0	C	1	0	4	0		0	2	5	0	
+0	0	0	I	1	0	4	0		0	3	6	0	
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	8	C	1	5	5	1	CLAWS	1	5	9	1	CATTREATS
+0	1	9	L	1	5	5	0		1	6	7	1	LESSENS
+0	0	0	A	1	5	5	0		0	7	3	0	
+0	0	0	W	1	5	5	0		0	8	5	0	
+0	0	0	S	1	5	5	0		0	9	5	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	10	A	2	0	4	1	AHUM	1	0	4	0	
+0	0	0	H	2	0	4	0		0	1	5	0	
+0	0	0	U	2	0	4	0		0	2	5	0	
+0	0	0	M	2	0	4	0		0	3	6	0	
+1	0	0	#	2	5	6	0		3	4	7	0	
+0	1	11	A	2	5	6	1	AEGEAN	1	5	9	0	
+0	0	0	E	2	5	6	0		1	6	7	0	
+0	0	0	G	2	5	6	0		0	7	3	0	
+0	0	0	E	2	5	6	0		0	8	5	0	
+0	0	0	A	2	5	6	0		0	9	5	0	
+0	1	12	N	2	5	6	0		2	10	3	1	NSA
+0	1	13	M	3	0	7	1	MOPPETS	1	0	4	0	
+0	0	0	O	3	0	7	0		0	1	5	0	
+0	0	0	P	3	0	7	0		0	2	5	0	
+0	0	0	P	3	0	7	0		0	3	6	0	
+0	1	14	E	3	0	7	0		3	4	7	1	ENTRIES
+0	0	0	T	3	0	7	0		1	5	9	0	
+0	0	0	S	3	0	7	0		1	6	7	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	15	R	3	8	3	1	RRS	0	8	5	0	
+0	0	0	R	3	8	3	0		0	9	5	0	
+0	0	0	S	3	8	3	0		2	10	3	0	
+0	1	16	A	4	0	7	1	ASSENTS	1	0	4	0	
+0	0	0	S	4	0	7	0		0	1	5	0	
+0	0	0	S	4	0	7	0		0	2	5	0	
+0	0	0	E	4	0	7	0		0	3	6	0	
+0	0	0	N	4	0	7	0		3	4	7	0	
+0	0	0	T	4	0	7	0		1	5	9	0	
+0	0	0	S	4	0	7	0		1	6	7	0	
+1	0	0	#	4	8	3	0		5	7	6	0	
+0	1	17	E	4	8	3	1	ESA	0	8	5	0	
+0	0	0	S	4	8	3	0		0	9	5	0	
+0	0	0	A	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	18	R	5	3	5	1	RTREV	0	3	6	0	
+0	0	0	T	5	3	5	0		3	4	7	0	
+0	0	0	R	5	3	5	0		1	5	9	0	
+0	0	0	E	5	3	5	0		1	6	7	0	
+0	1	19	V	5	3	5	0		5	7	6	1	VESTEE
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	4	0	
+0	1	20	E	6	0	3	1	EMF	6	0	3	1	EXC
+0	1	21	M	6	0	3	0		6	1	5	1	MEHTA
+0	1	22	F	6	0	3	0		6	2	5	1	FRAHT
+1	0	0	#	6	4	7	0		7	3	0	0	
+0	1	23	R	6	4	7	1	RENEGED	3	4	7	0	
+0	0	0	E	6	4	7	0		1	5	9	0	
+0	0	0	N	6	4	7	0		1	6	7	0	
+0	0	0	E	6	4	7	0		5	7	6	0	
+0	1	24	G	6	4	7	0		6	8	5	1	GUTEN
+0	1	25	E	6	4	7	0		6	9	5	1	EMEND
+0	1	26	D	6	4	7	0		6	10	4	1	DENY
+0	1	27	X	7	0	3	1	XER	6	0	3	0	
+0	0	0	E	7	0	3	0		6	1	5	0	
+0	0	0	R	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	7	0		8	3	3	0	
+0	1	28	I	7	4	7	1	IASSUME	3	4	7	0	
+0	0	0	A	7	4	7	0		1	5	9	0	
+0	0	0	S	7	4	7	0		1	6	7	0	
+0	0	0	S	7	4	7	0		5	7	6	0	
+0	0	0	U	7	4	7	0		6	8	5	0	
+0	0	0	M	7	4	7	0		6	9	5	0	
+0	0	0	E	7	4	7	0		6	10	4	0	
+0	1	29	C	8	0	6	1	CHALET	6	0	3	0	
+0	0	0	H	8	0	6	0		6	1	5	0	
+0	0	0	A	8	0	6	0		6	2	5	0	
+0	1	30	L	8	0	6	0		8	3	3	1	LIM
+0	0	0	E	8	0	6	0		3	4	7	0	
+0	0	0	T	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	31	T	8	7	4	1	TTEN	5	7	6	0	
+0	0	0	T	8	7	4	0		6	8	5	0	
+0	0	0	E	8	7	4	0		6	9	5	0	
+0	0	0	N	8	7	4	0		6	10	4	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	32	T	9	1	5	1	THISS	6	1	5	0	
+0	0	0	H	9	1	5	0		6	2	5	0	
+0	0	0	I	9	1	5	0		8	3	3	0	
+0	0	0	S	9	1	5	0		3	4	7	0	
+0	0	0	S	9	1	5	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	33	E	9	7	4	1	EENY	5	7	6	0	
+0	0	0	E	9	7	4	0		6	8	5	0	
+0	0	0	N	9	7	4	0		6	9	5	0	
+0	0	0	Y	9	7	4	0		6	10	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	34	A	10	1	3	1	ATM	6	1	5	0	
+0	0	0	T	10	1	3	0		6	2	5	0	
+0	0	0	M	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	35	E	10	7	3	1	END	5	7	6	0	
+0	0	0	N	10	7	3	0		6	8	5	0	
+0	0	0	D	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	ODS	Some hosp. cases
+4	MIT	Sch. in the New England Football Conference
+7	MCCI	Thirteenth-century starter
+8	CLAWS	Talons
+10	AHUM	Buzzing
+11	AEGEAN	Cyclades' sea
+13	MOPPETS	Rug rats
+15	RRS	Monopoly props.
+16	ASSENTS	Some nods
+17	ESA	That, in Toledo
+18	RTREV	Prelate's title: Abbr.
+20	EMF	It's expressed in volts: Abbr.
+23	RENEGED	Broke a promise
+27	XER	Boomer's kid, informally
+28	IASSUME	"It seems evident that ..."
+29	CHALET	Home with a wide overhang
+31	TTEN	Kind of list
+32	THISS	At once
+33	EENY	Choice word?
+34	ATM	Balance provider, briefly
+35	END	Cessation
+19
+1	OCHOS	Spanish skating figures
+2	DCUPS	Big top features?
+3	SIMPER	Coy expression
+4	MAG	Rack item, for short
+5	IWERE	"If ___ you 
+6	TSARS	Peter and Paul
+7	MAMA	Baby doll's cry
+8	CATTREATS	They feed the kitty
+9	LESSENS	Ebbs
+12	NSA	Secretive org.
+14	ENTRIES	Mail at contest central
+19	VESTEE	Decorative neckline insert
+20	EXC	A+: Abbr.
+21	MEHTA	Former Los Angeles and New York Philharmonic conductor
+22	FRAHT	Filled (with)
+24	GUTEN	Word before "Morgen" or "Tag"
+25	EMEND	Alter, as text
+26	DENY	Say it ain't so
+30	LIM	Draw

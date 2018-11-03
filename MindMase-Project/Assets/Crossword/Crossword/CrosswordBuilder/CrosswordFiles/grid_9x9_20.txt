@@ -1,0 +1,115 @@
+grid_9x9_20
+9
+0	1	1	A	0	0	3	1	AAR	0	0	3	1	AWN
+0	1	2	A	0	0	3	0		0	1	4	1	APIG
+0	1	3	R	0	0	3	0		0	2	9	1	RANRAGGED
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GMA	0	4	9	1	GETSCARDS
+0	1	5	M	0	4	3	0		0	5	3	1	MNO
+0	1	6	A	0	4	3	0		0	6	9	1	ASSONANCE
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	W	1	0	3	1	WPA	0	0	3	0	
+0	0	0	P	1	0	3	0		0	1	4	0	
+0	0	0	A	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	E	1	4	5	1	ENSOR	0	4	9	0	
+0	0	0	N	1	4	5	0		0	5	3	0	
+0	0	0	S	1	4	5	0		0	6	9	0	
+0	1	9	O	1	4	5	0		1	7	3	1	OIL
+0	1	10	R	1	4	5	0		1	8	3	1	RXS
+0	1	11	N	2	0	9	1	NINETOSIX	0	0	3	0	
+0	0	0	I	2	0	9	0		0	1	4	0	
+0	0	0	N	2	0	9	0		0	2	9	0	
+0	1	12	E	2	0	9	0		2	3	3	1	EIN
+0	0	0	T	2	0	9	0		0	4	9	0	
+0	0	0	O	2	0	9	0		0	5	3	0	
+0	0	0	S	2	0	9	0		0	6	9	0	
+0	0	0	I	2	0	9	0		1	7	3	0	
+0	0	0	X	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	G	3	1	4	1	GRIS	0	1	4	0	
+0	0	0	R	3	1	4	0		0	2	9	0	
+0	0	0	I	3	1	4	0		2	3	3	0	
+0	0	0	S	3	1	4	0		0	4	9	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	O	3	6	3	1	OLS	0	6	9	0	
+0	0	0	L	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	3	0	
+0	1	15	A	4	2	5	1	ANCON	0	2	9	0	
+0	0	0	N	4	2	5	0		2	3	3	0	
+0	0	0	C	4	2	5	0		0	4	9	0	
+0	1	16	O	4	2	5	0		4	5	3	1	ODE
+0	0	0	N	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	I	5	0	3	1	ING	5	0	3	1	ILK
+0	1	18	N	5	0	3	0		5	1	3	1	NUN
+0	0	0	G	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	19	A	5	4	4	1	ADAB	0	4	9	0	
+0	0	0	D	5	4	4	0		4	5	3	0	
+0	0	0	A	5	4	4	0		0	6	9	0	
+0	1	20	B	5	4	4	0		5	7	4	1	BCAT
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	21	L	6	0	9	1	LUGWRENCH	5	0	3	0	
+0	0	0	U	6	0	9	0		5	1	3	0	
+0	0	0	G	6	0	9	0		0	2	9	0	
+0	1	22	W	6	0	9	0		6	3	3	1	WAR
+0	0	0	R	6	0	9	0		0	4	9	0	
+0	0	0	E	6	0	9	0		4	5	3	0	
+0	0	0	N	6	0	9	0		0	6	9	0	
+0	0	0	C	6	0	9	0		5	7	4	0	
+0	1	23	H	6	0	9	0		6	8	3	1	HMO
+0	1	24	K	7	0	5	1	KNEAD	5	0	3	0	
+0	0	0	N	7	0	5	0		5	1	3	0	
+0	0	0	E	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		6	3	3	0	
+0	0	0	D	7	0	5	0		0	4	9	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	25	C	7	6	3	1	CAM	0	6	9	0	
+0	0	0	A	7	6	3	0		5	7	4	0	
+0	0	0	M	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	26	D	8	2	3	1	DRS	0	2	9	0	
+0	0	0	R	8	2	3	0		6	3	3	0	
+0	0	0	S	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	27	E	8	6	3	1	ETO	0	6	9	0	
+0	0	0	T	8	6	3	0		5	7	4	0	
+0	0	0	O	8	6	3	0		6	8	3	0	
+15
+1	AAR	River past Solothurn
+4	GMA	TV debut of 11/3/75: Abbr.
+7	WPA	F.D.R. initiative: Abbr.
+8	ENSOR	"Entry of Christ Into Brussels" painter James
+11	NINETOSIX	Long hours
+13	GRIS	Cubist who painted "Violin and Glass"
+14	OLS	Suffixes with glycer- and phen-
+15	ANCON	Cornice support
+17	ING	Like Dvor
+19	ADAB	Very little
+21	LUGWRENCH	Trunk item
+24	KNEAD	Press, fold and stretch
+25	CAM	Picture taker, in combinations
+26	DRS	They give you the treatment: Abbr.
+27	ETO	Overlord's area: Abbr.
+15
+1	AWN	Barley bristle
+2	APIG	Like ___ in a poke
+3	RANRAGGED	Wore out
+4	GETSCARDS	Draws
+5	MNO	Alphabetical sequence
+6	ASSONANCE	Alternative to rhyme
+9	OIL	Joint application
+10	RXS	Dr.'s orders
+12	EIN	A, in Aachen
+16	ODE	Wordsworth's "___ to Duty"
+17	ILK	Class
+18	NUN	Taker of vows
+20	BCAT	Worry for the superstitious
+22	WAR	Dove's aversion
+23	HMO	Grp. handling insurance forms

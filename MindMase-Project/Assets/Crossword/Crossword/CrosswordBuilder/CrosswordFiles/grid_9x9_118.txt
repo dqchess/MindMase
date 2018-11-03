@@ -1,0 +1,117 @@
+grid_9x9_118
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	W	0	1	3	1	WYE	0	1	4	1	WANG
+0	1	2	Y	0	1	3	0		0	2	9	1	YESINDEED
+0	1	3	E	0	1	3	0		0	3	3	1	ESE
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	S	0	6	3	1	SLA	0	6	9	1	SENESCENT
+0	1	5	L	0	6	3	0		0	7	4	1	LIBS
+0	1	6	A	0	6	3	0		0	8	3	1	ALC
+0	1	7	R	1	0	4	1	RAES	1	0	3	1	ROT
+0	0	0	A	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	9	0	
+0	0	0	S	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	C	1	5	4	1	CEIL	1	5	4	1	CCUT
+0	0	0	E	1	5	4	0		0	6	9	0	
+0	0	0	I	1	5	4	0		0	7	4	0	
+0	0	0	L	1	5	4	0		0	8	3	0	
+0	1	9	O	2	0	4	1	ONSE	1	0	3	0	
+0	0	0	N	2	0	4	0		0	1	4	0	
+0	0	0	S	2	0	4	0		0	2	9	0	
+0	0	0	E	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	C	2	5	4	1	CNBC	1	5	4	0	
+0	0	0	N	2	5	4	0		0	6	9	0	
+0	0	0	B	2	5	4	0		0	7	4	0	
+0	0	0	C	2	5	4	0		0	8	3	0	
+0	1	11	T	3	0	3	1	TGI	1	0	3	0	
+0	0	0	G	3	0	3	0		0	1	4	0	
+0	0	0	I	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	Q	3	4	4	1	QUES	3	4	3	1	QUA
+0	0	0	U	3	4	4	0		1	5	4	0	
+0	0	0	E	3	4	4	0		0	6	9	0	
+0	0	0	S	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	13	N	4	2	5	1	NAUTS	0	2	9	0	
+0	1	14	A	4	2	5	0		4	3	4	1	ANTE
+0	0	0	U	4	2	5	0		3	4	3	0	
+0	0	0	T	4	2	5	0		1	5	4	0	
+0	0	0	S	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	E	5	1	4	1	EDNA	5	1	4	1	EYES
+0	0	0	D	5	1	4	0		0	2	9	0	
+0	0	0	N	5	1	4	0		4	3	4	0	
+0	0	0	A	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	16	C	5	6	3	1	CII	0	6	9	0	
+0	1	17	I	5	6	3	0		5	7	4	1	IVAN
+0	1	18	I	5	6	3	0		5	8	3	1	IST
+0	1	19	N	6	0	4	1	NYET	6	0	3	1	NEE
+0	0	0	Y	6	0	4	0		5	1	4	0	
+0	0	0	E	6	0	4	0		0	2	9	0	
+0	0	0	T	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	20	R	6	5	4	1	REVS	6	5	3	1	ROS
+0	0	0	E	6	5	4	0		0	6	9	0	
+0	0	0	V	6	5	4	0		5	7	4	0	
+0	0	0	S	6	5	4	0		5	8	3	0	
+0	1	21	E	7	0	4	1	EEEE	6	0	3	0	
+0	0	0	E	7	0	4	0		5	1	4	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	E	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	O	7	5	4	1	ONAT	6	5	3	0	
+0	0	0	N	7	5	4	0		0	6	9	0	
+0	0	0	A	7	5	4	0		5	7	4	0	
+0	0	0	T	7	5	4	0		5	8	3	0	
+0	1	23	E	8	0	3	1	ESD	6	0	3	0	
+0	0	0	S	8	0	3	0		5	1	4	0	
+0	0	0	D	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	S	8	5	3	1	STN	6	5	3	0	
+0	0	0	T	8	5	3	0		0	6	9	0	
+0	0	0	N	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	WYE	Fork
+4	SLA	Grp. in 1974 news
+7	RAES	Victoria Island explorer and family
+8	CEIL	Overlay with wood or plaster
+9	ONSE	Beginning
+10	CNBC	"Mad Money" network
+11	TGI	___ Friday's (restaurant chain)
+12	QUES	Who, what or where sentence: Abbr.
+13	NAUTS	Voyagers: Suffix
+15	EDNA	Ferber of "Show Boat"
+16	CII	Second-century date
+19	NYET	Duma disavowal
+20	REVS	Powers (up)
+21	EEEE	Extra-large shoe spec
+22	ONAT	Go ___ great length
+23	ESD	Either of two books of the Apocrypha: Abbr.
+24	STN	Depot: Abbr.
+15
+1	WANG	Designer Vera
+2	YESINDEED	"Most certainly!"
+3	ESE	Telegraph ender
+4	SENESCENT	Growing old
+5	LIBS	Left-wingers
+6	ALC	Still product: Abbr.
+7	ROT	Go to seed
+8	CCUT	Kind of saw
+12	QUA	It may be taken with a bow
+14	ANTE	Amount to be raised?
+15	EYES	Blinkers
+17	IVAN	Scientist Pavlov
+18	IST	Social addition
+19	NEE	Separator of family names
+20	ROS	Children's writer Asquith

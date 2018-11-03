@@ -1,0 +1,171 @@
+grid_11x11_51
+11
+0	1	1	O	0	0	5	1	OCEAN	0	0	3	1	ONI
+0	1	2	C	0	0	5	0		0	1	7	1	COTTONY
+0	1	3	E	0	0	5	0		0	2	7	1	ETHICAL
+0	1	4	A	0	0	5	0		0	3	4	1	ACES
+0	1	5	N	0	0	5	0		0	4	3	1	NHL
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	6	P	0	8	3	1	PAL	0	8	3	1	PLA
+0	1	7	A	0	8	3	0		0	9	3	1	AAU
+0	1	8	L	0	8	3	0		0	10	3	1	LTS
+0	1	9	N	1	0	6	1	NOTCHY	0	0	3	0	
+0	0	0	O	1	0	6	0		0	1	7	0	
+0	0	0	T	1	0	6	0		0	2	7	0	
+0	0	0	C	1	0	6	0		0	3	4	0	
+0	0	0	H	1	0	6	0		0	4	3	0	
+0	1	10	Y	1	0	6	0		1	5	9	1	YPSILANTI
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	11	N	1	7	4	1	NLAT	1	7	4	1	NEUE
+0	0	0	L	1	7	4	0		0	8	3	0	
+0	0	0	A	1	7	4	0		0	9	3	0	
+0	0	0	T	1	7	4	0		0	10	3	0	
+0	1	12	I	2	0	6	1	ITHELP	0	0	3	0	
+0	0	0	T	2	0	6	0		0	1	7	0	
+0	0	0	H	2	0	6	0		0	2	7	0	
+0	0	0	E	2	0	6	0		0	3	4	0	
+0	0	0	L	2	0	6	0		0	4	3	0	
+0	0	0	P	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	13	E	2	7	4	1	EAUS	1	7	4	0	
+0	0	0	A	2	7	4	0		0	8	3	0	
+0	0	0	U	2	7	4	0		0	9	3	0	
+0	0	0	S	2	7	4	0		0	10	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	14	T	3	1	3	1	TIS	0	1	7	0	
+0	0	0	I	3	1	3	0		0	2	7	0	
+0	0	0	S	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	15	S	3	5	3	1	SMU	1	5	9	0	
+0	1	16	M	3	5	3	0		3	6	3	1	MVI
+0	0	0	U	3	5	3	0		1	7	4	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	I	4	0	3	1	IOC	4	0	3	1	IOS
+0	0	0	O	4	0	3	0		0	1	7	0	
+0	0	0	C	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	3	0	
+0	1	18	I	4	5	6	1	IVEGOT	1	5	9	0	
+0	0	0	V	4	5	6	0		3	6	3	0	
+0	0	0	E	4	5	6	0		1	7	4	0	
+0	1	19	G	4	5	6	0		4	8	7	1	GETCUTE
+0	1	20	O	4	5	6	0		4	9	7	1	ONTOPIC
+0	1	21	T	4	5	6	0		4	10	3	1	TEL
+0	1	22	O	5	0	3	1	ONA	4	0	3	0	
+0	0	0	N	5	0	3	0		0	1	7	0	
+0	0	0	A	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	23	X	5	4	3	1	XLI	5	4	3	1	XII
+0	0	0	L	5	4	3	0		1	5	9	0	
+0	0	0	I	5	4	3	0		3	6	3	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	24	E	5	8	3	1	ENE	4	8	7	0	
+0	0	0	N	5	8	3	0		4	9	7	0	
+0	0	0	E	5	8	3	0		4	10	3	0	
+0	1	25	S	6	0	6	1	SYLVIA	4	0	3	0	
+0	0	0	Y	6	0	6	0		0	1	7	0	
+0	0	0	L	6	0	6	0		0	2	7	0	
+0	1	26	V	6	0	6	0		6	3	4	1	VKZV
+0	0	0	I	6	0	6	0		5	4	3	0	
+0	0	0	A	6	0	6	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	27	T	6	8	3	1	TTL	4	8	7	0	
+0	0	0	T	6	8	3	0		4	9	7	0	
+0	0	0	L	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	3	0		8	2	3	0	
+0	1	28	K	7	3	3	1	KIN	6	3	4	0	
+0	0	0	I	7	3	3	0		5	4	3	0	
+0	0	0	N	7	3	3	0		1	5	9	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	29	N	7	7	3	1	NCO	7	7	4	1	NEAL
+0	0	0	C	7	7	3	0		4	8	7	0	
+0	0	0	O	7	7	3	0		4	9	7	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	30	P	8	0	4	1	PHIZ	8	0	3	1	PIC
+0	1	31	H	8	0	4	0		8	1	3	1	HRE
+0	1	32	I	8	0	4	0		8	2	3	1	IOR
+0	0	0	Z	8	0	4	0		6	3	4	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	33	T	8	5	6	1	TIEUPS	1	5	9	0	
+0	1	34	I	8	5	6	0		8	6	3	1	INE
+0	0	0	E	8	5	6	0		7	7	4	0	
+0	0	0	U	8	5	6	0		4	8	7	0	
+0	0	0	P	8	5	6	0		4	9	7	0	
+0	1	35	S	8	5	6	0		8	10	3	1	SET
+0	1	36	I	9	0	4	1	IROV	8	0	3	0	
+0	0	0	R	9	0	4	0		8	1	3	0	
+0	0	0	O	9	0	4	0		8	2	3	0	
+0	0	0	V	9	0	4	0		6	3	4	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	37	I	9	5	6	1	INATIE	1	5	9	0	
+0	0	0	N	9	5	6	0		8	6	3	0	
+0	0	0	A	9	5	6	0		7	7	4	0	
+0	0	0	T	9	5	6	0		4	8	7	0	
+0	0	0	I	9	5	6	0		4	9	7	0	
+0	0	0	E	9	5	6	0		8	10	3	0	
+0	1	38	C	10	0	3	1	CER	8	0	3	0	
+0	0	0	E	10	0	3	0		8	1	3	0	
+0	0	0	R	10	0	3	0		8	2	3	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	5	0		11	5	0	0	
+0	1	39	E	10	6	5	1	ELECT	8	6	3	0	
+0	0	0	L	10	6	5	0		7	7	4	0	
+0	0	0	E	10	6	5	0		4	8	7	0	
+0	0	0	C	10	6	5	0		4	9	7	0	
+0	0	0	T	10	6	5	0		8	10	3	0	
+23
+1	OCEAN	Milieu for Queen Elizabeth II
+6	PAL	Goombah
+9	NOTCHY	Cut irregularly
+11	NLAT	About 40 degrees, for N.Y.C.
+12	ITHELP	What PC gurus provide
+13	EAUS	Waters, informally
+14	TIS	"___ in the breath of heaven...": Keats
+15	SMU	The Mustangs, for short
+17	IOC	Sports governing body: Abbr.
+18	IVEGOT	Lead-in to "Five Dollars" and "Sixpence" in song titles
+22	ONA	___ case-by-case basis
+23	XLI	Year Caligula was assassinated
+24	ENE	Detroit-to-Toronto dir.
+25	SYLVIA	Popular Nicole Hollander comic
+27	TTL	Lumberjack's tool
+28	KIN	Consanguine folks
+29	NCO	One who's earned stripes, e.g.
+30	PHIZ	Illustrator for Charles Dickens
+33	TIEUPS	Jams
+36	IROV	Spontaneous skits
+37	INATIE	How baseball games rarely end
+38	CER	Shrink
+39	ELECT	Occasional suffix on political titles
+23
+1	ONI	Clandestine maritime org.
+2	COTTONY	Soft
+3	ETHICAL	Unlikely to cheat
+4	ACES	Super-duper
+5	NHL	Flyers' and Rangers' org.
+6	PLA	Mao's group: Abbr.
+7	AAU	Sports org.
+8	LTS	Columbo and others: Abbr.
+10	YPSILANTI	Home of Eastern Michigan University
+11	NEUE	Modern, in M
+16	MVI	1,006, in old Rome
+17	IOS	Island SSW of Naxos
+19	GETCUTE	Be too precious
+20	ONTOPIC	Pertinent
+21	TEL	___ Aviv
+23	XII	Top of a dial
+26	VKZV	Not in jeopardy
+29	NEAL	Actress Patricia
+30	PIC	It's a snap
+31	HRE	Longtime Hapsburg domain: Abbr.
+32	IOR	"Should ___ shouldn't ..."
+34	INE	Glass finish
+35	SET	Match part

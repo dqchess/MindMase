@@ -1,0 +1,233 @@
+grid_13x13_180
+13
+0	1	1	C	0	0	3	1	CDR	0	0	3	1	CDP
+0	1	2	D	0	0	3	0		0	1	3	1	DCA
+0	1	3	R	0	0	3	0		0	2	12	1	RUPEETUESDAY
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	4	0		1	4	0	0	
+0	1	4	M	0	5	4	1	MAHI	0	5	3	1	MME
+0	1	5	A	0	5	4	0		0	6	3	1	ATM
+0	1	6	H	0	5	4	0		0	7	3	1	HSI
+0	1	7	I	0	5	4	0		0	8	3	1	IHN
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	D	1	0	4	1	DCUP	0	0	3	0	
+0	0	0	C	1	0	4	0		0	1	3	0	
+0	0	0	U	1	0	4	0		0	2	12	0	
+0	1	9	P	1	0	4	0		1	3	3	1	PAS
+1	0	0	#	1	5	8	0		2	4	3	0	
+0	1	10	M	1	5	8	1	MTSHASTA	0	5	3	0	
+0	0	0	T	1	5	8	0		0	6	3	0	
+0	0	0	S	1	5	8	0		0	7	3	0	
+0	0	0	H	1	5	8	0		0	8	3	0	
+0	1	11	A	1	5	8	0		1	9	5	1	AGIST
+0	1	12	S	1	5	8	0		1	10	12	1	SWEETCHARITY
+0	1	13	T	1	5	8	0		1	11	4	1	TARE
+0	1	14	A	1	5	8	0		1	12	3	1	AYE
+0	1	15	P	2	0	13	1	PAPAHEMINGWAY	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	3	0	
+0	0	0	P	2	0	13	0		0	2	12	0	
+0	0	0	A	2	0	13	0		1	3	3	0	
+0	1	16	H	2	0	13	0		2	4	3	1	HTS
+0	0	0	E	2	0	13	0		0	5	3	0	
+0	0	0	M	2	0	13	0		0	6	3	0	
+0	0	0	I	2	0	13	0		0	7	3	0	
+0	0	0	N	2	0	13	0		0	8	3	0	
+0	0	0	G	2	0	13	0		1	9	5	0	
+0	0	0	W	2	0	13	0		1	10	12	0	
+0	0	0	A	2	0	13	0		1	11	4	0	
+0	0	0	Y	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	3	0	
+0	1	17	E	3	2	3	1	EST	0	2	12	0	
+0	0	0	S	3	2	3	0		1	3	3	0	
+0	0	0	T	3	2	3	0		2	4	3	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	0	0	
+1	0	0	#	3	9	4	0		4	8	3	0	
+0	1	18	I	3	9	4	1	IERE	1	9	5	0	
+0	0	0	E	3	9	4	0		1	10	12	0	
+0	0	0	R	3	9	4	0		1	11	4	0	
+0	0	0	E	3	9	4	0		1	12	3	0	
+0	1	19	S	4	0	3	1	SHE	4	0	3	1	SUF
+0	1	20	H	4	0	3	0		4	1	3	1	HAS
+0	0	0	E	4	0	3	0		0	2	12	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	21	S	4	4	3	1	SNE	2	4	3	0	
+0	1	22	N	4	4	3	0		4	5	4	1	NAIL
+0	1	23	E	4	4	3	0		4	6	5	1	ELKES
+1	0	0	#	4	8	4	0		5	7	4	0	
+0	1	24	S	4	8	4	1	SSEE	4	8	3	1	SOR
+0	0	0	S	4	8	4	0		1	9	5	0	
+0	0	0	E	4	8	4	0		1	10	12	0	
+0	0	0	E	4	8	4	0		1	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	U	5	0	3	1	UAT	4	0	3	0	
+0	0	0	A	5	0	3	0		4	1	3	0	
+0	0	0	T	5	0	3	0		0	2	12	0	
+1	0	0	#	5	4	0	0		6	3	0	0	
+1	0	0	#	5	5	6	0		6	4	3	0	
+0	1	26	A	5	5	6	1	ALCOTT	4	5	4	0	
+0	0	0	L	5	5	6	0		4	6	5	0	
+0	1	27	C	5	5	6	0		5	7	4	1	CENO
+0	0	0	O	5	5	6	0		4	8	3	0	
+0	0	0	T	5	5	6	0		1	9	5	0	
+0	0	0	T	5	5	6	0		1	10	12	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	F	6	0	3	1	FSU	4	0	3	0	
+0	0	0	S	6	0	3	0		4	1	3	0	
+0	0	0	U	6	0	3	0		0	2	12	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	29	P	6	4	5	1	PIKER	6	4	3	1	PAX
+0	0	0	I	6	4	5	0		4	5	4	0	
+0	0	0	K	6	4	5	0		4	6	5	0	
+0	0	0	E	6	4	5	0		5	7	4	0	
+0	0	0	R	6	4	5	0		4	8	3	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	30	C	6	10	3	1	CIG	1	10	12	0	
+0	1	31	I	6	10	3	0		6	11	3	1	IBN
+0	1	32	G	6	10	3	0		6	12	3	1	GSS
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	6	0		8	1	4	0	
+0	1	33	E	7	2	6	1	ESALEN	0	2	12	0	
+0	1	34	S	7	2	6	0		7	3	5	1	SILLS
+0	0	0	A	7	2	6	0		6	4	3	0	
+0	0	0	L	7	2	6	0		4	5	4	0	
+0	0	0	E	7	2	6	0		4	6	5	0	
+0	0	0	N	7	2	6	0		5	7	4	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	35	H	7	10	3	1	HBS	1	10	12	0	
+0	0	0	B	7	10	3	0		6	11	3	0	
+0	0	0	S	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	36	G	8	1	4	1	GSIX	8	1	4	1	GETA
+0	0	0	S	8	1	4	0		0	2	12	0	
+0	0	0	I	8	1	4	0		7	3	5	0	
+0	0	0	X	8	1	4	0		6	4	3	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	37	S	8	6	3	1	SOP	4	6	5	0	
+0	0	0	O	8	6	3	0		5	7	4	0	
+0	1	38	P	8	6	3	0		8	8	3	1	PHR
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	39	A	8	10	3	1	ANS	1	10	12	0	
+0	0	0	N	8	10	3	0		6	11	3	0	
+0	0	0	S	8	10	3	0		6	12	3	0	
+0	1	40	B	9	0	4	1	BEDL	9	0	3	1	BSS
+0	0	0	E	9	0	4	0		8	1	4	0	
+0	0	0	D	9	0	4	0		0	2	12	0	
+0	0	0	L	9	0	4	0		7	3	5	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	41	H	9	8	3	1	HAR	8	8	3	0	
+0	1	42	A	9	8	3	0		9	9	3	1	ATO
+0	0	0	R	9	8	3	0		1	10	12	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	S	10	0	13	1	STALLSFORTIME	9	0	3	0	
+0	0	0	T	10	0	13	0		8	1	4	0	
+0	0	0	A	10	0	13	0		0	2	12	0	
+0	0	0	L	10	0	13	0		7	3	5	0	
+0	1	44	L	10	0	13	0		10	4	3	1	LHZ
+0	1	45	S	10	0	13	0		10	5	3	1	SIE
+0	1	46	F	10	0	13	0		10	6	3	1	FTD
+0	1	47	O	10	0	13	0		10	7	3	1	OOS
+0	0	0	R	10	0	13	0		8	8	3	0	
+0	0	0	T	10	0	13	0		9	9	3	0	
+0	0	0	I	10	0	13	0		1	10	12	0	
+0	1	48	M	10	0	13	0		10	11	3	1	MIT
+0	1	49	E	10	0	13	0		10	12	3	1	ECK
+0	1	50	S	11	0	8	1	SAYSHITO	9	0	3	0	
+0	0	0	A	11	0	8	0		8	1	4	0	
+0	0	0	Y	11	0	8	0		0	2	12	0	
+0	0	0	S	11	0	8	0		7	3	5	0	
+0	0	0	H	11	0	8	0		10	4	3	0	
+0	0	0	I	11	0	8	0		10	5	3	0	
+0	0	0	T	11	0	8	0		10	6	3	0	
+0	0	0	O	11	0	8	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	51	O	11	9	4	1	OTIC	9	9	3	0	
+0	0	0	T	11	9	4	0		1	10	12	0	
+0	0	0	I	11	9	4	0		10	11	3	0	
+0	0	0	C	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	0	0		13	2	0	0	
+1	0	0	#	12	4	4	0		13	3	0	0	
+0	1	52	Z	12	4	4	1	ZEDS	10	4	3	0	
+0	0	0	E	12	4	4	0		10	5	3	0	
+0	0	0	D	12	4	4	0		10	6	3	0	
+0	0	0	S	12	4	4	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	Y	12	10	3	1	YTK	1	10	12	0	
+0	0	0	T	12	10	3	0		10	11	3	0	
+0	0	0	K	12	10	3	0		10	12	3	0	
+27
+1	CDR	Digital file holder: Abbr.
+4	MAHI	When repeated, a fish
+8	DCUP	Large bra feature
+10	MTSHASTA	N. Calif. peak
+15	PAPAHEMINGWAY	Nickname for author Ernest
+17	EST	Pa. hours
+18	IERE	"Able was ___ ..."
+19	SHE	___-devil
+21	SNE	1983 Indy winner Tom
+24	SSEE	Go on a vacation tour
+25	UAT	Awake by
+26	ALCOTT	"Little Men" author
+28	FSU	Seminoles' sch.
+29	PIKER	Cheapskate
+30	CIG	A smoker might bum one
+33	ESALEN	West Coast wellness retreat
+35	HBS	N.F.L. ball carriers
+36	GSIX	E.U. group
+37	SOP	Bribe
+39	ANS	FAQ part: Abbr.
+40	BEDL	Total chaos
+41	HAR	Part of a laugh
+43	STALLSFORTIME	Magazine stands?
+50	SAYSHITO	Greets
+51	OTIC	Suffix with psych-
+52	ZEDS	London finales
+53	YTK	Kind of bug
+33
+1	CDP	Prefix with center or gram
+2	DCA	Bing Crosby's record label
+3	RUPEETUESDAY	Rolling Stones hit that made money abroad?
+4	MME	Fr. address
+5	ATM	Cash dispenser, for short
+6	HSI	Chu ___ (legendary Confucian sage)
+7	IHN	Him, in Heidelberg
+9	PAS	Hearing aids, for short
+11	AGIST	Feed for a fee, as cattle
+12	SWEETCHARITY	1966 musical starring Gwen Verdon
+13	TARE	Gross minus net, to a trucker
+14	AYE	Word of support
+16	HTS	Abbr. after Cleveland or Brooklyn
+19	SUF	"-er" or "-ing," e.g.: Abbr.
+20	HAS	Controls
+22	NAIL	One taking a pounding
+23	ELKES	Actress Sommer et al.
+24	SOR	Sisters' org.
+27	CENO	Prefix with -zoic
+29	PAX	Opposite of bellum
+31	IBN	Part of a Mideast name
+32	GSS	Snare
+34	SILLS	Sash supporters
+36	GETA	"___ Job" (1958 hit)
+38	PHR	Idiom: Abbr.
+40	BSS	First degs.
+42	ATO	Volume 1 heading starter
+44	LHZ	Young fellow
+45	SIE	"Sprechen ___ Deutsch?"
+46	FTD	Busy co. on Mother's Day
+47	OOS	Long-running film role
+48	MIT	Sch. in the New England Football Conference
+49	ECK	Theologian Johann

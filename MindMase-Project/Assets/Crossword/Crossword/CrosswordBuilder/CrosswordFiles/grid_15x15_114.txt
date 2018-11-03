@@ -1,0 +1,299 @@
+grid_15x15_114
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	6	0	
+1	0	0	#	0	3	3	0		1	2	14	0	
+0	1	1	E	0	3	3	1	EMO	0	3	6	1	EMBEDS
+0	1	2	M	0	3	3	0		0	4	3	1	MEE
+0	1	3	O	0	3	3	0		0	5	3	1	OIR
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	8	0	
+1	0	0	#	0	10	4	0		1	9	5	0	
+0	1	4	O	0	10	4	1	OUTA	0	10	6	1	OTSEGO
+0	1	5	U	0	10	4	0		0	11	3	1	ULT
+0	1	6	T	0	10	4	0		0	12	14	1	TIEUPLOOSEENDS
+0	1	7	A	0	10	4	0		0	13	7	1	ATISKET
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	8	T	1	1	5	1	TOMEI	1	1	6	1	TAYLOR
+0	1	9	O	1	1	5	0		1	2	14	1	OLDERBUDWEISER
+0	0	0	M	1	1	5	0		0	3	6	0	
+0	0	0	E	1	1	5	0		0	4	3	0	
+0	0	0	I	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	7	0		2	6	3	0	
+0	1	10	S	1	7	7	1	SPOTLIT	1	7	4	1	SELL
+0	1	11	P	1	7	7	0		1	8	8	1	PICONETS
+0	1	12	O	1	7	7	0		1	9	5	1	ONENO
+0	0	0	T	1	7	7	0		0	10	6	0	
+0	0	0	L	1	7	7	0		0	11	3	0	
+0	0	0	I	1	7	7	0		0	12	14	0	
+0	0	0	T	1	7	7	0		0	13	7	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+1	0	0	#	2	1	14	0		3	0	4	0	
+0	1	13	A	2	1	14	1	ALBERTEINSTEIN	1	1	6	0	
+0	0	0	L	2	1	14	0		1	2	14	0	
+0	0	0	B	2	1	14	0		0	3	6	0	
+0	0	0	E	2	1	14	0		0	4	3	0	
+0	0	0	R	2	1	14	0		0	5	3	0	
+0	1	14	T	2	1	14	0		2	6	3	1	TAB
+0	0	0	E	2	1	14	0		1	7	4	0	
+0	0	0	I	2	1	14	0		1	8	8	0	
+0	0	0	N	2	1	14	0		1	9	5	0	
+0	0	0	S	2	1	14	0		0	10	6	0	
+0	0	0	T	2	1	14	0		0	11	3	0	
+0	0	0	E	2	1	14	0		0	12	14	0	
+0	0	0	I	2	1	14	0		0	13	7	0	
+0	1	15	N	2	1	14	0		2	14	3	1	NEG
+0	1	16	H	3	0	4	1	HYDE	3	0	4	1	HITA
+0	0	0	Y	3	0	4	0		1	1	6	0	
+0	0	0	D	3	0	4	0		1	2	14	0	
+0	0	0	E	3	0	4	0		0	3	6	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	17	A	3	6	5	1	ALCEE	2	6	3	0	
+0	0	0	L	3	6	5	0		1	7	4	0	
+0	0	0	C	3	6	5	0		1	8	8	0	
+0	0	0	E	3	6	5	0		1	9	5	0	
+0	0	0	E	3	6	5	0		0	10	6	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	18	U	3	12	3	1	USE	0	12	14	0	
+0	0	0	S	3	12	3	0		0	13	7	0	
+0	0	0	E	3	12	3	0		2	14	3	0	
+0	1	19	I	4	0	4	1	ILED	3	0	4	0	
+0	0	0	L	4	0	4	0		1	1	6	0	
+0	0	0	E	4	0	4	0		1	2	14	0	
+0	0	0	D	4	0	4	0		0	3	6	0	
+1	0	0	#	4	5	6	0		5	4	3	0	
+0	1	20	O	4	5	6	1	OBLONG	4	5	3	1	OSU
+0	0	0	B	4	5	6	0		2	6	3	0	
+0	0	0	L	4	5	6	0		1	7	4	0	
+0	0	0	O	4	5	6	0		1	8	8	0	
+0	0	0	N	4	5	6	0		1	9	5	0	
+0	0	0	G	4	5	6	0		0	10	6	0	
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	21	P	4	12	3	1	PKG	0	12	14	0	
+0	0	0	K	4	12	3	0		0	13	7	0	
+0	0	0	G	4	12	3	0		2	14	3	0	
+0	1	22	T	5	0	6	1	TORSOS	3	0	4	0	
+0	0	0	O	5	0	6	0		1	1	6	0	
+0	0	0	R	5	0	6	0		1	2	14	0	
+0	0	0	S	5	0	6	0		0	3	6	0	
+0	1	23	O	5	0	6	0		5	4	3	1	OTS
+0	0	0	S	5	0	6	0		4	5	3	0	
+1	0	0	#	5	7	0	0		6	6	8	0	
+1	0	0	#	5	8	6	0		6	7	3	0	
+0	1	24	N	5	8	6	1	NOODLE	1	8	8	0	
+0	0	0	O	5	8	6	0		1	9	5	0	
+0	0	0	O	5	8	6	0		0	10	6	0	
+0	1	25	D	5	8	6	0		5	11	3	1	DPI
+0	0	0	L	5	8	6	0		0	12	14	0	
+0	0	0	E	5	8	6	0		0	13	7	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	26	A	6	0	3	1	ARB	3	0	4	0	
+0	0	0	R	6	0	3	0		1	1	6	0	
+0	0	0	B	6	0	3	0		1	2	14	0	
+1	0	0	#	6	4	5	0		7	3	3	0	
+0	1	27	T	6	4	5	1	TUTEE	5	4	3	0	
+0	0	0	U	6	4	5	0		4	5	3	0	
+0	1	28	T	6	4	5	0		6	6	8	1	TRADESIN
+0	1	29	E	6	4	5	0		6	7	3	1	EON
+0	0	0	E	6	4	5	0		1	8	8	0	
+1	0	0	#	6	10	0	0		7	9	0	0	
+1	0	0	#	6	11	3	0		7	10	3	0	
+0	1	30	P	6	11	3	1	POT	5	11	3	0	
+0	0	0	O	6	11	3	0		0	12	14	0	
+0	0	0	T	6	11	3	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	7	0	
+0	1	31	U	7	2	3	1	UBS	1	2	14	0	
+0	1	32	B	7	2	3	0		7	3	3	1	BMI
+0	0	0	S	7	2	3	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	33	R	7	6	3	1	ROT	6	6	8	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	T	7	6	3	0		1	8	8	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	34	C	7	10	3	1	CIO	7	10	3	1	CRS
+0	0	0	I	7	10	3	0		5	11	3	0	
+0	0	0	O	7	10	3	0		0	12	14	0	
+1	0	0	#	7	14	0	0		8	13	6	0	
+1	0	0	#	7	15	0	0		8	14	4	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	35	A	8	1	3	1	ADM	8	1	7	1	ATRIFLE
+0	0	0	D	8	1	3	0		1	2	14	0	
+0	0	0	M	8	1	3	0		7	3	3	0	
+1	0	0	#	8	5	0	0		9	4	6	0	
+1	0	0	#	8	6	5	0		9	5	5	0	
+0	1	36	A	8	6	5	1	ANSER	6	6	8	0	
+0	0	0	N	8	6	5	0		6	7	3	0	
+0	0	0	S	8	6	5	0		1	8	8	0	
+0	1	37	E	8	6	5	0		8	9	3	1	EEN
+0	0	0	R	8	6	5	0		7	10	3	0	
+1	0	0	#	8	12	3	0		9	11	6	0	
+0	1	38	S	8	12	3	1	SSA	0	12	14	0	
+0	1	39	S	8	12	3	0		8	13	6	1	SEREST
+0	1	40	A	8	12	3	0		8	14	4	1	ASIR
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	41	T	9	1	6	1	TWINED	8	1	7	0	
+0	0	0	W	9	1	6	0		1	2	14	0	
+0	0	0	I	9	1	6	0		7	3	3	0	
+0	1	42	N	9	1	6	0		9	4	6	1	NOELLE
+0	1	43	E	9	1	6	0		9	5	5	1	ENOLA
+0	0	0	D	9	1	6	0		6	6	8	0	
+1	0	0	#	9	8	0	0		10	7	4	0	
+1	0	0	#	9	9	6	0		10	8	3	0	
+0	1	44	E	9	9	6	1	ESTEES	8	9	3	0	
+0	0	0	S	9	9	6	0		7	10	3	0	
+0	1	45	T	9	9	6	0		9	11	6	1	TABOOS
+0	0	0	E	9	9	6	0		0	12	14	0	
+0	0	0	E	9	9	6	0		8	13	6	0	
+0	0	0	S	9	9	6	0		8	14	4	0	
+0	1	46	T	10	0	3	1	TRE	10	0	3	1	TWO
+0	0	0	R	10	0	3	0		8	1	7	0	
+0	0	0	E	10	0	3	0		1	2	14	0	
+1	0	0	#	10	4	6	0		11	3	0	0	
+0	1	47	O	10	4	6	1	ONEMAN	9	4	6	0	
+0	0	0	N	10	4	6	0		9	5	5	0	
+0	0	0	E	10	4	6	0		6	6	8	0	
+0	1	48	M	10	4	6	0		10	7	4	1	MINI
+0	1	49	A	10	4	6	0		10	8	3	1	ANG
+0	0	0	N	10	4	6	0		8	9	3	0	
+1	0	0	#	10	11	4	0		11	10	0	0	
+0	1	50	A	10	11	4	1	AERI	9	11	6	0	
+0	0	0	E	10	11	4	0		0	12	14	0	
+0	0	0	R	10	11	4	0		8	13	6	0	
+0	0	0	I	10	11	4	0		8	14	4	0	
+0	1	51	W	11	0	3	1	WII	10	0	3	0	
+0	0	0	I	11	0	3	0		8	1	7	0	
+0	0	0	I	11	0	3	0		1	2	14	0	
+1	0	0	#	11	4	5	0		12	3	3	0	
+0	1	52	E	11	4	5	1	EOSIN	9	4	6	0	
+0	0	0	O	11	4	5	0		9	5	5	0	
+0	0	0	S	11	4	5	0		6	6	8	0	
+0	0	0	I	11	4	5	0		10	7	4	0	
+0	0	0	N	11	4	5	0		10	8	3	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	4	0		12	10	3	0	
+0	1	53	B	11	11	4	1	BNER	9	11	6	0	
+0	0	0	N	11	11	4	0		0	12	14	0	
+0	0	0	E	11	11	4	0		8	13	6	0	
+0	0	0	R	11	11	4	0		8	14	4	0	
+0	1	54	O	12	0	14	1	OFSELLINGGOODS	10	0	3	0	
+0	0	0	F	12	0	14	0		8	1	7	0	
+0	0	0	S	12	0	14	0		1	2	14	0	
+0	1	55	E	12	0	14	0		12	3	3	1	EIN
+0	0	0	L	12	0	14	0		9	4	6	0	
+0	0	0	L	12	0	14	0		9	5	5	0	
+0	0	0	I	12	0	14	0		6	6	8	0	
+0	0	0	N	12	0	14	0		10	7	4	0	
+0	0	0	G	12	0	14	0		10	8	3	0	
+0	1	56	G	12	0	14	0		12	9	3	1	GAL
+0	1	57	O	12	0	14	0		12	10	3	1	OLA
+0	0	0	O	12	0	14	0		9	11	6	0	
+0	0	0	D	12	0	14	0		0	12	14	0	
+0	0	0	S	12	0	14	0		8	13	6	0	
+1	0	0	#	12	15	0	0		13	14	0	0	
+1	0	0	#	13	1	7	0		14	0	0	0	
+0	1	58	L	13	1	7	1	LEILANI	8	1	7	0	
+0	0	0	E	13	1	7	0		1	2	14	0	
+0	0	0	I	13	1	7	0		12	3	3	0	
+0	0	0	L	13	1	7	0		9	4	6	0	
+0	0	0	A	13	1	7	0		9	5	5	0	
+0	0	0	N	13	1	7	0		6	6	8	0	
+0	0	0	I	13	1	7	0		10	7	4	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	59	A	13	9	5	1	ALOST	12	9	3	0	
+0	0	0	L	13	9	5	0		12	10	3	0	
+0	0	0	O	13	9	5	0		9	11	6	0	
+0	0	0	S	13	9	5	0		0	12	14	0	
+0	0	0	T	13	9	5	0		8	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	4	0		15	0	0	0	
+0	1	60	E	14	1	4	1	ERNE	8	1	7	0	
+0	0	0	R	14	1	4	0		1	2	14	0	
+0	0	0	N	14	1	4	0		12	3	3	0	
+0	0	0	E	14	1	4	0		9	4	6	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	3	0		15	8	0	0	
+0	1	61	L	14	9	3	1	LAS	12	9	3	0	
+0	0	0	A	14	9	3	0		12	10	3	0	
+0	0	0	S	14	9	3	0		9	11	6	0	
+1	0	0	#	14	13	0	0		15	12	0	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+35
+1	EMO	Angsty music genre
+4	OUTA	"I'm ___ here!"
+8	TOMEI	"My Cousin Vinny" actress
+10	SPOTLIT	Put the focus on
+13	ALBERTEINSTEIN	Notable who died April 1955
+16	HYDE	1995-2001 House Judiciary Committee chairman
+17	ALCEE	Rep. ___ Hastings of the House intelligence committee
+18	USE	Advantage
+19	ILED	___'Orl
+20	OBLONG	Like papaw leaves
+21	PKG	U.P.S. cargo: Abbr.
+22	TORSOS	Museum pieces
+24	NOODLE	Brain, slangily
+26	ARB	Wall St. whiz
+27	TUTEE	One in a class by himself
+30	POT	Put a lid on it
+31	UBS	Financial inst. that bought PaineWebber in 2000
+33	ROT	Spoil
+34	CIO	A.F.L. merger partner
+35	ADM	Navy chief: Abbr.
+36	ANSER	Goose genus
+38	SSA	Retiree server: Abbr.
+41	TWINED	Interlaced
+44	ESTEES	Actress Chandler and others
+46	TRE	Three for Sophia
+47	ONEMAN	Kind of army or show
+50	AERI	Ethereal: Prefix
+51	WII	Xbox 360 competitor
+52	EOSIN	Red stain in a lab
+53	BNER	Toothpaste ingredient
+54	OFSELLINGGOODS	Quote, part 5
+58	LEILANI	"Sweet ___" (1937 Oscar song)
+59	ALOST	"It's ___ cause"
+60	ERNE	Coastal flier
+61	LAS	Song syllables
+35
+1	EMBEDS	Fixes firmly
+2	MEE	English author and editor Arthur ___
+3	OIR	Listen: Sp.
+4	OTSEGO	Lake that James Fenimore Cooper called Glimmerglass
+5	ULT	Last in a sequence: Abbr.
+6	TIEUPLOOSEENDS	Finish the job
+7	ATISKET	Start of an Ella Fitzgerald standard
+8	TAYLOR	Fortensky's ex
+9	OLDERBUDWEISER	Having the experience of years of beer drinking?
+10	SELL	Broker's advice, at times
+11	PICONETS	Modern ad-hoc collections of computing devices
+12	ONENO	Terse bridge bid
+14	TAB	Web browser subwindow
+15	NEG	Blood-typing abbr.
+16	HITA	___ run of bad luck
+20	OSU	Big Ten powerhouse, for short
+23	OTS	Fifth qtrs.
+25	DPI	Meas. of screen resolution
+28	TRADESIN	Gets rid of, as an old car
+29	EON	Long stretch
+32	BMI	Abbr. on every original Beatles song
+34	CRS	Some accounting entries: Abbr.
+35	ATRIFLE	Slightly
+37	EEN	Poetic time
+39	SEREST	Most withered
+40	ASIR	Saudi Arabian province
+42	NOELLE	Girl with a festive-sounding name
+43	ENOLA	Name on an old Boeing B-29
+45	TABOOS	No-nos
+46	TWO	A doubleheader
+48	MINI	It's bigger than a Nano
+49	ANG	Geom. measure
+55	EIN	Freudian one
+56	GAL	It comes before Friday
+57	OLA	Suffix with pay or plug

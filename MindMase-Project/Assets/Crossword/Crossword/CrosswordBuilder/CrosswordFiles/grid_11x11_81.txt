@@ -1,0 +1,171 @@
+grid_11x11_81
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	E	0	1	3	1	ELG	0	1	4	1	ELIS
+0	1	2	L	0	1	3	0		0	2	4	1	LIFT
+0	1	3	G	0	1	3	0		0	3	3	1	GFF
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	S	0	7	3	1	STL	0	7	3	1	SHE
+0	1	5	T	0	7	3	0		0	8	6	1	TERCEL
+0	1	6	L	0	7	3	0		0	9	6	1	LASTRD
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	A	1	0	5	1	ALIFE	1	0	3	1	ARG
+0	0	0	L	1	0	5	0		0	1	4	0	
+0	0	0	I	1	0	5	0		0	2	4	0	
+0	0	0	F	1	0	5	0		0	3	3	0	
+0	1	8	E	1	0	5	0		1	4	5	1	ESTAD
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	9	T	1	6	4	1	THEA	1	6	3	1	TVA
+0	0	0	H	1	6	4	0		0	7	3	0	
+0	0	0	E	1	6	4	0		0	8	6	0	
+0	0	0	A	1	6	4	0		0	9	6	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	10	R	2	0	5	1	RIFFS	1	0	3	0	
+0	0	0	I	2	0	5	0		0	1	4	0	
+0	0	0	F	2	0	5	0		0	2	4	0	
+0	0	0	F	2	0	5	0		0	3	3	0	
+0	0	0	S	2	0	5	0		1	4	5	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	11	V	2	6	5	1	VERST	1	6	3	0	
+0	0	0	E	2	6	5	0		0	7	3	0	
+0	0	0	R	2	6	5	0		0	8	6	0	
+0	0	0	S	2	6	5	0		0	9	6	0	
+0	1	12	T	2	6	5	0		2	10	3	1	TSO
+0	1	13	G	3	0	3	1	GST	1	0	3	0	
+0	0	0	S	3	0	3	0		0	1	4	0	
+0	0	0	T	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	T	3	4	3	1	THA	1	4	5	0	
+0	1	15	H	3	4	3	0		3	5	5	1	HLFSX
+0	0	0	A	3	4	3	0		1	6	3	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	C	3	8	3	1	CTS	0	8	6	0	
+0	0	0	T	3	8	3	0		0	9	6	0	
+0	0	0	S	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	17	W	4	3	3	1	WAL	4	3	3	1	WLE
+0	0	0	A	4	3	3	0		1	4	5	0	
+0	0	0	L	4	3	3	0		3	5	5	0	
+1	0	0	#	4	7	4	0		5	6	5	0	
+0	1	18	Z	4	7	4	1	ZERO	4	7	3	1	ZEN
+0	0	0	E	4	7	4	0		0	8	6	0	
+0	0	0	R	4	7	4	0		0	9	6	0	
+0	0	0	O	4	7	4	0		2	10	3	0	
+1	0	0	#	5	1	9	0		6	0	3	0	
+0	1	19	G	5	1	9	1	GOLDFIELD	5	1	6	1	GRUNGE
+0	1	20	O	5	1	9	0		5	2	6	1	OSSIAN
+0	0	0	L	5	1	9	0		4	3	3	0	
+0	0	0	D	5	1	9	0		1	4	5	0	
+0	0	0	F	5	1	9	0		3	5	5	0	
+0	1	21	I	5	1	9	0		5	6	5	1	ITSIN
+0	0	0	E	5	1	9	0		4	7	3	0	
+0	0	0	L	5	1	9	0		0	8	6	0	
+0	0	0	D	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	O	6	0	4	1	ORSE	6	0	3	1	ONO
+0	0	0	R	6	0	4	0		5	1	6	0	
+0	0	0	S	6	0	4	0		5	2	6	0	
+0	0	0	E	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	23	S	6	5	3	1	STN	3	5	5	0	
+0	0	0	T	6	5	3	0		5	6	5	0	
+0	0	0	N	6	5	3	0		4	7	3	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	24	N	7	0	3	1	NUS	6	0	3	0	
+0	0	0	U	7	0	3	0		5	1	6	0	
+0	0	0	S	7	0	3	0		5	2	6	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	25	M	7	4	3	1	MXS	7	4	3	1	MEE
+0	0	0	X	7	4	3	0		3	5	5	0	
+0	0	0	S	7	4	3	0		5	6	5	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	26	P	7	8	3	1	PAT	7	8	4	1	PELT
+0	1	27	A	7	8	3	0		7	9	4	1	ARES
+0	1	28	T	7	8	3	0		7	10	3	1	TSR
+0	1	29	O	8	0	5	1	ONICE	6	0	3	0	
+0	0	0	N	8	0	5	0		5	1	6	0	
+0	0	0	I	8	0	5	0		5	2	6	0	
+0	1	30	C	8	0	5	0		8	3	3	1	CRT
+0	0	0	E	8	0	5	0		7	4	3	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	31	I	8	6	5	1	ITERS	5	6	5	0	
+0	1	32	T	8	6	5	0		8	7	3	1	THN
+0	0	0	E	8	6	5	0		7	8	4	0	
+0	0	0	R	8	6	5	0		7	9	4	0	
+0	0	0	S	8	6	5	0		7	10	3	0	
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	33	G	9	1	4	1	GARE	5	1	6	0	
+0	0	0	A	9	1	4	0		5	2	6	0	
+0	0	0	R	9	1	4	0		8	3	3	0	
+0	0	0	E	9	1	4	0		7	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	34	N	9	6	5	1	NHLER	5	6	5	0	
+0	0	0	H	9	6	5	0		8	7	3	0	
+0	0	0	L	9	6	5	0		7	8	4	0	
+0	0	0	E	9	6	5	0		7	9	4	0	
+0	0	0	R	9	6	5	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	35	E	10	1	3	1	ENT	5	1	6	0	
+0	0	0	N	10	1	3	0		5	2	6	0	
+0	0	0	T	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	36	N	10	7	3	1	NTS	8	7	3	0	
+0	0	0	T	10	7	3	0		7	8	4	0	
+0	0	0	S	10	7	3	0		7	9	4	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	ELG	"Les Girls" actress Taina
+4	STL	Cardinal's insignia
+7	ALIFE	Elia Kazan's autobiography
+9	THEA	"___ Team"
+10	RIFFS	Jazz phrases
+11	VERST	Experienced, old-style
+13	GST	Clock std.
+14	THA	Jennifer Lopez album "J to ___ LO!"
+16	CTS	Abbr. for change
+17	WAL	Retail store opening?
+18	ZERO	One of 50
+19	GOLDFIELD	Place to pick up valuable nuggets
+22	ORSE	Charger, to a Cockney
+23	STN	Stop: Abbr.
+24	NUS	Symbols for neutrinos
+25	MXS	Cold war threat
+26	PAT	Unisex name
+29	ONICE	Reserved
+31	ITERS	Anatomical canals
+33	GARE	French rail station
+34	NHLER	Panther, e.g.
+35	ENT	Treebeard in "The Lord of the Rings," e.g.
+36	NTS	Some Windows systems
+23
+1	ELIS	Skull and Bones members
+2	LIFT	Brit's elevator
+3	GFF	Maven
+4	SHE	"Steady as ___ goes"
+5	TERCEL	Onetime Toyota model
+6	LASTRD	Discussion conclusion
+7	ARG	S.A. republic
+8	ESTAD	Michigan, e.g., to a Spaniard
+9	TVA	Hydroelectric org.
+12	TSO	General for whom a style of chicken is named
+15	HLFSX	___ metabolism
+17	WLE	Corduroy ridge
+18	ZEN	Pursuit of satori
+19	GRUNGE	1990's rock genre
+20	OSSIAN	Legendary Irish bard
+21	ITSIN	"___ his kiss" (1964 pop lyric)
+22	ONO	"Double Fantasy" singer
+25	MEE	English author and editor Arthur ___
+26	PELT	What hailstones do
+27	ARES	God with a chariot drawn by fire-breathing stallions
+28	TSR	Dungeons & Dragons game co.
+30	CRT	TV screen: Abbr.
+32	THN	Ending with tele-

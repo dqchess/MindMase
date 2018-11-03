@@ -1,0 +1,169 @@
+grid_11x11_121
+11
+1	0	0	#	0	1	3	0		1	0	5	0	
+0	1	1	T	0	1	3	1	TIT	0	1	7	1	TACONIC
+0	1	2	I	0	1	3	0		0	2	7	1	ICELAND
+0	1	3	T	0	1	3	0		0	3	3	1	TRL
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	4	0		1	6	5	0	
+0	1	4	U	0	7	4	1	UCSB	0	7	5	1	UTTER
+0	1	5	C	0	7	4	0		0	8	3	1	CLI
+0	1	6	S	0	7	4	0		0	9	3	1	SEL
+0	1	7	B	0	7	4	0		0	10	3	1	BYE
+0	1	8	S	1	0	5	1	SACRE	1	0	5	1	SCHED
+0	0	0	A	1	0	5	0		0	1	7	0	
+0	0	0	C	1	0	5	0		0	2	7	0	
+0	0	0	R	1	0	5	0		0	3	3	0	
+0	1	9	E	1	0	5	0		1	4	3	1	ELI
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	10	U	1	6	5	1	UTLEY	1	6	5	1	UZBEK
+0	0	0	T	1	6	5	0		0	7	5	0	
+0	0	0	L	1	6	5	0		0	8	3	0	
+0	0	0	E	1	6	5	0		0	9	3	0	
+0	0	0	Y	1	6	5	0		0	10	3	0	
+0	1	11	C	2	0	5	1	CCELL	1	0	5	0	
+0	0	0	C	2	0	5	0		0	1	7	0	
+0	0	0	E	2	0	5	0		0	2	7	0	
+0	0	0	L	2	0	5	0		0	3	3	0	
+0	0	0	L	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	Z	2	6	5	1	ZTILE	1	6	5	0	
+0	0	0	T	2	6	5	0		0	7	5	0	
+0	0	0	I	2	6	5	0		0	8	3	0	
+0	0	0	L	2	6	5	0		0	9	3	0	
+0	0	0	E	2	6	5	0		0	10	3	0	
+0	1	13	H	3	0	3	1	HOL	1	0	5	0	
+0	0	0	O	3	0	3	0		0	1	7	0	
+0	0	0	L	3	0	3	0		0	2	7	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	14	I	3	4	4	1	ITBE	1	4	3	0	
+0	1	15	T	3	4	4	0		3	5	5	1	TRIED
+0	0	0	B	3	4	4	0		1	6	5	0	
+0	0	0	E	3	4	4	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	E	4	0	3	1	ENA	1	0	5	0	
+0	0	0	N	4	0	3	0		0	1	7	0	
+0	0	0	A	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	17	R	4	5	5	1	RERIG	3	5	5	0	
+0	0	0	E	4	5	5	0		1	6	5	0	
+0	0	0	R	4	5	5	0		0	7	5	0	
+0	1	18	I	4	5	5	0		4	8	7	1	INCITES
+0	1	19	G	4	5	5	0		4	9	7	1	GYPSIES
+1	0	0	#	4	11	0	0		5	10	5	0	
+0	1	20	D	5	0	3	1	DIN	1	0	5	0	
+0	0	0	I	5	0	3	0		0	1	7	0	
+0	0	0	N	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	21	E	5	4	3	1	EIK	5	4	5	1	EGADS
+0	0	0	I	5	4	3	0		3	5	5	0	
+0	0	0	K	5	4	3	0		1	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	22	N	5	8	3	1	NYT	4	8	7	0	
+0	0	0	Y	5	8	3	0		4	9	7	0	
+0	1	23	T	5	8	3	0		5	10	5	1	TURKS
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	24	C	6	1	5	1	CDAGE	0	1	7	0	
+0	0	0	D	6	1	5	0		0	2	7	0	
+0	1	25	A	6	1	5	0		6	3	5	1	ASOCK
+0	0	0	G	6	1	5	0		5	4	5	0	
+0	0	0	E	6	1	5	0		3	5	5	0	
+1	0	0	#	6	7	0	0		7	6	3	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	26	C	6	8	3	1	CPU	4	8	7	0	
+0	0	0	P	6	8	3	0		4	9	7	0	
+0	0	0	U	6	8	3	0		5	10	5	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	4	0		8	2	3	0	
+0	1	27	S	7	3	4	1	SADO	6	3	5	0	
+0	0	0	A	7	3	4	0		5	4	5	0	
+0	0	0	D	7	3	4	0		3	5	5	0	
+0	1	28	O	7	3	4	0		7	6	3	1	OBI
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	29	I	7	8	3	1	ISR	4	8	7	0	
+0	0	0	S	7	8	3	0		4	9	7	0	
+0	0	0	R	7	8	3	0		5	10	5	0	
+0	1	30	O	8	0	5	1	OHGOD	8	0	3	1	OCA
+0	1	31	H	8	0	5	0		8	1	3	1	HRS
+0	1	32	G	8	0	5	0		8	2	3	1	GOO
+0	0	0	O	8	0	5	0		6	3	5	0	
+0	0	0	D	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	33	B	8	6	5	1	BATIK	7	6	3	0	
+0	1	34	A	8	6	5	0		8	7	3	1	ACS
+0	0	0	T	8	6	5	0		4	8	7	0	
+0	0	0	I	8	6	5	0		4	9	7	0	
+0	0	0	K	8	6	5	0		5	10	5	0	
+0	1	35	C	9	0	5	1	CROCS	8	0	3	0	
+0	0	0	R	9	0	5	0		8	1	3	0	
+0	0	0	O	9	0	5	0		8	2	3	0	
+0	0	0	C	9	0	5	0		6	3	5	0	
+0	0	0	S	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	36	I	9	6	5	1	ICEES	7	6	3	0	
+0	0	0	C	9	6	5	0		8	7	3	0	
+0	0	0	E	9	6	5	0		4	8	7	0	
+0	0	0	E	9	6	5	0		4	9	7	0	
+0	0	0	S	9	6	5	0		5	10	5	0	
+0	1	37	A	10	0	4	1	ASOK	8	0	3	0	
+0	0	0	S	10	0	4	0		8	1	3	0	
+0	0	0	O	10	0	4	0		8	2	3	0	
+0	0	0	K	10	0	4	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	38	S	10	7	3	1	SSS	8	7	3	0	
+0	0	0	S	10	7	3	0		4	8	7	0	
+0	0	0	S	10	7	3	0		4	9	7	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	TIT	Songbird
+4	UCSB	Campus 100 miles NW of L.A.
+8	SACRE	Part of a French oath
+10	UTLEY	Newsman Garrick
+11	CCELL	Flashlight battery
+12	ZTILE	Scrabble 10-pointer
+13	HOL	___ Hamoed (Passover period)
+14	ITBE	"What'll ___?" (bartender's question)
+16	ENA	Old Spanish queen
+17	RERIG	Hook up again
+20	DIN	Hubbub
+21	EIK	Apt. feature, in the classifieds
+22	NYT	Big Apple media inits.
+24	CDAGE	Clone of an optical medium's contents
+26	CPU	PC's "brain"
+27	SADO	___-masochism
+29	ISR	Levantine land: Abbr.
+30	OHGOD	"This can't be happening!"
+33	BATIK	Certain fabric worker's work
+35	CROCS	Big reptiles, informally
+36	ICEES	They're served with spoon-straws
+37	ASOK	"Dilbert" intern
+38	SSS	60's demonstration target
+21
+1	TACONIC	New York's ___ State Parkway
+2	ICELAND	Member of NATO
+3	TRL	Bygone daily MTV series, informally
+4	UTTER	Unqualified
+5	CLI	Cato's 151
+6	SEL	French seasoning
+7	BYE	"See you later"
+8	SCHED	Part of an I.R.S. return: Abbr.
+9	ELI	Peabody Museum patron, perhaps
+10	UZBEK	Language spoken in Tashkent
+15	TRIED	Tasted
+18	INCITES	Provokes
+19	GYPSIES	Chorus dancers
+21	EGADS	"Good grief!"
+23	TURKS	Izmir natives
+25	ASOCK	"Put ___ in it!"
+28	OBI	It may take a bow
+30	OCA	Wood sorrel
+31	HRS	Over-the-wall wallops: Abbr.
+32	GOO	Melted ice cream, e.g.
+34	ACS	Heat beaters: Abbr.

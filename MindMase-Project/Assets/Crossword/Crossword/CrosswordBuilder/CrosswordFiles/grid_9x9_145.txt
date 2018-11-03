@@ -1,0 +1,117 @@
+grid_9x9_145
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	U	0	1	3	1	UIE	0	1	4	1	USCG
+0	1	2	I	0	1	3	0		0	2	4	1	ISTS
+0	1	3	E	0	1	3	0		0	3	3	1	ETS
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	C	0	6	3	1	CBY	0	6	4	1	CCII
+0	1	5	B	0	6	3	0		0	7	4	1	BLVD
+0	1	6	Y	0	6	3	0		0	8	3	1	YEE
+0	1	7	A	1	0	5	1	ASSTS	1	0	3	1	AAE
+0	0	0	S	1	0	5	0		0	1	4	0	
+0	0	0	S	1	0	5	0		0	2	4	0	
+0	0	0	T	1	0	5	0		0	3	3	0	
+0	1	8	S	1	0	5	0		1	4	7	1	SNIFFLE
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	C	1	6	3	1	CLE	0	6	4	0	
+0	0	0	L	1	6	3	0		0	7	4	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	10	A	2	0	9	1	ACTSNAIVE	1	0	3	0	
+0	0	0	C	2	0	9	0		0	1	4	0	
+0	0	0	T	2	0	9	0		0	2	4	0	
+0	0	0	S	2	0	9	0		0	3	3	0	
+0	0	0	N	2	0	9	0		1	4	7	0	
+0	1	11	A	2	0	9	0		2	5	3	1	ARG
+0	0	0	I	2	0	9	0		0	6	4	0	
+0	0	0	V	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		0	8	3	0	
+0	1	12	E	3	0	3	1	EGS	1	0	3	0	
+0	0	0	G	3	0	3	0		0	1	4	0	
+0	0	0	S	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	I	3	4	4	1	IRID	1	4	7	0	
+0	0	0	R	3	4	4	0		2	5	3	0	
+0	0	0	I	3	4	4	0		0	6	4	0	
+0	0	0	D	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	E	4	3	3	1	EFG	4	3	3	1	ELA
+0	0	0	F	4	3	3	0		1	4	7	0	
+0	0	0	G	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	C	5	1	4	1	CALF	5	1	4	1	CLEO
+0	1	16	A	5	1	4	0		5	2	4	1	ABRA
+0	0	0	L	5	1	4	0		4	3	3	0	
+0	0	0	F	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	A	5	6	3	1	AIK	5	6	4	1	ANNI
+0	1	18	I	5	6	3	0		5	7	4	1	IGET
+0	1	19	K	5	6	3	0		5	8	3	1	KAS
+0	1	20	A	6	0	9	1	ALBALONGA	6	0	3	1	ASK
+0	0	0	L	6	0	9	0		5	1	4	0	
+0	0	0	B	6	0	9	0		5	2	4	0	
+0	0	0	A	6	0	9	0		4	3	3	0	
+0	0	0	L	6	0	9	0		1	4	7	0	
+0	1	21	O	6	0	9	0		6	5	3	1	ONT
+0	0	0	N	6	0	9	0		5	6	4	0	
+0	0	0	G	6	0	9	0		5	7	4	0	
+0	0	0	A	6	0	9	0		5	8	3	0	
+0	1	22	S	7	0	3	1	SER	6	0	3	0	
+0	0	0	E	7	0	3	0		5	1	4	0	
+0	0	0	R	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	E	7	4	5	1	ENNES	1	4	7	0	
+0	0	0	N	7	4	5	0		6	5	3	0	
+0	0	0	N	7	4	5	0		5	6	4	0	
+0	0	0	E	7	4	5	0		5	7	4	0	
+0	0	0	S	7	4	5	0		5	8	3	0	
+0	1	24	K	8	0	3	1	KOA	6	0	3	0	
+0	0	0	O	8	0	3	0		5	1	4	0	
+0	0	0	A	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	T	8	5	3	1	TIT	6	5	3	0	
+0	0	0	I	8	5	3	0		5	6	4	0	
+0	0	0	T	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	UIE	Turnabout, in slang
+4	CBY	Intimate
+7	ASSTS	Paralegals, e.g.: Abbr.
+9	CLE	The Browns, on sports tickers
+10	ACTSNAIVE	Feigns ignorance
+12	EGS	Units in physics
+13	IRID	Crocus or freesia, botanically
+14	EFG	Letter trio
+15	CALF	Roping target
+17	AIK	Rio producer
+20	ALBALONGA	Romulus and Remus's legendary birthplace
+22	SER	Sun. speech
+23	ENNES	Feminine suffixes
+24	KOA	R.V. hookup provider
+25	TIT	Black-throated ___
+17
+1	USCG	Maritime grp.
+2	ISTS	Cult followers?
+3	ETS	"The X-Files" extras
+4	CCII	Third-century year
+5	BLVD	Road map abbr.
+6	YEE	"___-haw!"
+7	AAE	Cable channel
+8	SNIFFLE	Show signs of a cold
+11	ARG	Neighbor of Bol.
+14	ELA	Guido's high note
+15	CLEO	Nile queen, informally
+16	ABRA	Spelling start?
+17	ANNI	MCI and others
+18	IGET	"___ that a lot"
+19	KAS	___ in kangaroo
+20	ASK	Press (for)
+21	ONT	Prov. bordering Hudson Bay

@@ -1,0 +1,117 @@
+grid_9x9_114
+9
+0	1	1	V	0	0	3	1	VFW	0	0	3	1	VQF
+0	1	2	F	0	0	3	0		0	1	4	1	FUNT
+0	1	3	W	0	0	3	0		0	2	9	1	WOMENSLIB
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	F	0	5	3	1	FRA	0	5	3	1	FHA
+0	1	5	R	0	5	3	0		0	6	9	1	RIGHTSIDE
+0	1	6	A	0	5	3	0		0	7	4	1	AERY
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	Q	1	0	4	1	QUOD	0	0	3	0	
+0	0	0	U	1	0	4	0		0	1	4	0	
+0	0	0	O	1	0	4	0		0	2	9	0	
+0	1	8	D	1	0	4	0		1	3	4	1	DADA
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	H	1	5	4	1	HIER	0	5	3	0	
+0	0	0	I	1	5	4	0		0	6	9	0	
+0	0	0	E	1	5	4	0		0	7	4	0	
+0	1	10	R	1	5	4	0		1	8	3	1	RAP
+0	1	11	F	2	0	4	1	FNMA	0	0	3	0	
+0	0	0	N	2	0	4	0		0	1	4	0	
+0	0	0	M	2	0	4	0		0	2	9	0	
+0	0	0	A	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	A	2	5	4	1	AGRA	0	5	3	0	
+0	0	0	G	2	5	4	0		0	6	9	0	
+0	0	0	R	2	5	4	0		0	7	4	0	
+0	0	0	A	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	T	3	1	4	1	TEDS	0	1	4	0	
+0	0	0	E	3	1	4	0		0	2	9	0	
+0	0	0	D	3	1	4	0		1	3	4	0	
+0	1	14	S	3	1	4	0		3	4	3	1	SGT
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	H	3	6	3	1	HYP	0	6	9	0	
+0	0	0	Y	3	6	3	0		0	7	4	0	
+0	0	0	P	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	16	N	4	2	5	1	NAGAT	0	2	9	0	
+0	0	0	A	4	2	5	0		1	3	4	0	
+0	0	0	G	4	2	5	0		3	4	3	0	
+0	1	17	A	4	2	5	0		4	5	4	1	AURI
+0	0	0	T	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	A	5	0	3	1	AAS	5	0	3	1	AIK
+0	1	19	A	5	0	3	0		5	1	4	1	ADEN
+0	0	0	S	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	T	5	4	4	1	TUSH	3	4	3	0	
+0	0	0	U	5	4	4	0		4	5	4	0	
+0	0	0	S	5	4	4	0		0	6	9	0	
+0	1	21	H	5	4	4	0		5	7	4	1	HEEP
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	I	6	0	4	1	IDLY	5	0	3	0	
+0	0	0	D	6	0	4	0		5	1	4	0	
+0	0	0	L	6	0	4	0		0	2	9	0	
+0	1	23	Y	6	0	4	0		6	3	3	1	YRS
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	R	6	5	4	1	RIEN	4	5	4	0	
+0	0	0	I	6	5	4	0		0	6	9	0	
+0	0	0	E	6	5	4	0		5	7	4	0	
+0	1	25	N	6	5	4	0		6	8	3	1	NSA
+0	1	26	K	7	0	4	1	KEIR	5	0	3	0	
+0	0	0	E	7	0	4	0		5	1	4	0	
+0	0	0	I	7	0	4	0		0	2	9	0	
+0	0	0	R	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	I	7	5	4	1	IDES	4	5	4	0	
+0	0	0	D	7	5	4	0		0	6	9	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	S	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	N	8	1	3	1	NBS	5	1	4	0	
+0	0	0	B	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	E	8	6	3	1	EPA	0	6	9	0	
+0	0	0	P	8	6	3	0		5	7	4	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+17
+1	VFW	Ex-G.I.'s grp.
+4	FRA	Bartolommeo, for one
+7	QUOD	Q.E.D. part
+9	HIER	Relatively robust
+11	FNMA	Low-cost home loan corp.
+12	AGRA	City on the Jumna
+13	TEDS	Turner and Williams
+15	HYP	Triangle part: Abbr.
+16	NAGAT	Bedevil
+18	AAS	Some remote power sources
+20	TUSH	Sitting spot
+22	IDLY	One way to sit
+24	RIEN	Nothing, in Paris
+26	KEIR	Actor Dullea
+27	IDES	Mid-month, in old Rome
+28	NBS	Measurements overseer: Abbr.
+29	EPA	Emissions tester: Abbr.
+15
+1	VQF	Owns
+2	FUNT	Allen of "Candid Camera"
+3	WOMENSLIB	1960s movement rejecting traditional gender roles
+4	FHA	Govt. mortgage provider
+5	RIGHTSIDE	Starboard
+6	AERY	Hawk's home: Var.
+8	DADA	1910's-20's movement
+10	RAP	Urban music
+14	SGT	Driller?: Abbr.
+17	AURI	Hearing: Prefix
+18	AIK	Rio producer
+19	ADEN	Yemeni capital
+21	HEEP	Villain in "David Copperfield"
+23	YRS	1812, 2001, etc.: Abbr.
+25	NSA	Codebreakers' org.

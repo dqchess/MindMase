@@ -1,0 +1,313 @@
+grid_15x15_57
+15
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	K	0	1	3	1	KOD	0	1	6	1	KERNEL
+0	1	2	O	0	1	3	0		0	2	10	1	OCEANTIDES
+0	1	3	D	0	1	3	0		0	3	3	1	DOE
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	9	0	
+0	1	4	A	0	7	3	1	AMT	0	7	5	1	AUDIE
+0	1	5	M	0	7	3	0		0	8	3	1	MMD
+0	1	6	T	0	7	3	0		0	9	3	1	TPS
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	7	R	0	11	3	1	RYS	0	11	5	1	ROACH
+0	1	8	Y	0	11	3	0		0	12	4	1	YOKO
+0	1	9	S	0	11	3	0		0	13	4	1	SHEL
+1	0	0	#	0	15	0	0		1	14	3	0	
+1	0	0	#	1	1	4	0		2	0	4	0	
+0	1	10	E	1	1	4	1	ECOL	0	1	6	0	
+0	0	0	C	1	1	4	0		0	2	10	0	
+0	0	0	O	1	1	4	0		0	3	3	0	
+0	1	11	L	1	1	4	0		1	4	3	1	LHZ
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	12	G	1	6	4	1	GUMP	1	6	9	1	GOTZAPPED
+0	0	0	U	1	6	4	0		0	7	5	0	
+0	0	0	M	1	6	4	0		0	8	3	0	
+0	0	0	P	1	6	4	0		0	9	3	0	
+1	0	0	#	1	11	4	0		2	10	4	0	
+0	1	13	O	1	11	4	1	OOHS	0	11	5	0	
+0	0	0	O	1	11	4	0		0	12	4	0	
+0	0	0	H	1	11	4	0		0	13	4	0	
+0	1	14	S	1	11	4	0		1	14	3	1	SRI
+0	1	15	F	2	0	5	1	FREEH	2	0	4	1	FETA
+0	0	0	R	2	0	5	0		0	1	6	0	
+0	0	0	E	2	0	5	0		0	2	10	0	
+0	0	0	E	2	0	5	0		0	3	3	0	
+0	0	0	H	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	9	0		3	5	3	0	
+0	1	16	O	2	6	9	1	ODDSMAKER	1	6	9	0	
+0	0	0	D	2	6	9	0		0	7	5	0	
+0	0	0	D	2	6	9	0		0	8	3	0	
+0	0	0	S	2	6	9	0		0	9	3	0	
+0	1	17	M	2	6	9	0		2	10	4	1	MERL
+0	0	0	A	2	6	9	0		0	11	5	0	
+0	0	0	K	2	6	9	0		0	12	4	0	
+0	0	0	E	2	6	9	0		0	13	4	0	
+0	0	0	R	2	6	9	0		1	14	3	0	
+0	1	18	E	3	0	3	1	ENA	2	0	4	0	
+0	0	0	N	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	10	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	19	Z	3	4	4	1	ZITI	1	4	3	0	
+0	1	20	I	3	4	4	0		3	5	3	1	ITY
+0	0	0	T	3	4	4	0		1	6	9	0	
+0	0	0	I	3	4	4	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	3	10	5	0		4	9	4	0	
+0	1	21	E	3	10	5	1	ECOLI	2	10	4	0	
+0	0	0	C	3	10	5	0		0	11	5	0	
+0	0	0	O	3	10	5	0		0	12	4	0	
+0	0	0	L	3	10	5	0		0	13	4	0	
+0	0	0	I	3	10	5	0		1	14	3	0	
+0	1	22	T	4	0	3	1	TEN	2	0	4	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	N	4	0	3	0		0	2	10	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	23	T	4	5	3	1	TZE	3	5	3	0	
+0	0	0	Z	4	5	3	0		1	6	9	0	
+0	0	0	E	4	5	3	0		0	7	5	0	
+1	0	0	#	4	9	3	0		5	8	9	0	
+0	1	24	H	4	9	3	1	HRH	4	9	4	1	HITA
+0	0	0	R	4	9	3	0		2	10	4	0	
+0	0	0	H	4	9	3	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	10	0	
+1	0	0	#	4	14	0	0		5	13	3	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+0	1	25	A	5	0	3	1	ALT	2	0	4	0	
+0	0	0	L	5	0	3	0		0	1	6	0	
+0	0	0	T	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	26	R	5	4	3	1	RYA	5	4	3	1	RAF
+0	0	0	Y	5	4	3	0		3	5	3	0	
+0	0	0	A	5	4	3	0		1	6	9	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	27	A	5	8	3	1	AIL	5	8	9	1	AEROPLANE
+0	0	0	I	5	8	3	0		4	9	4	0	
+0	0	0	L	5	8	3	0		2	10	4	0	
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	28	T	5	12	3	1	THU	5	12	10	1	TRAUMATIZE
+0	1	29	H	5	12	3	0		5	13	3	1	HOP
+0	1	30	U	5	12	3	0		5	14	3	1	UNH
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	3	0		7	1	3	0	
+0	1	31	I	6	2	3	1	ILA	0	2	10	0	
+0	1	32	L	6	2	3	0		6	3	3	1	LOS
+0	0	0	A	6	2	3	0		5	4	3	0	
+1	0	0	#	6	6	4	0		7	5	4	0	
+0	1	33	P	6	6	4	1	POET	1	6	9	0	
+0	1	34	O	6	6	4	0		6	7	3	1	OAS
+0	0	0	E	6	6	4	0		5	8	9	0	
+0	0	0	T	6	6	4	0		4	9	4	0	
+1	0	0	#	6	11	4	0		7	10	3	0	
+0	1	35	I	6	11	4	1	IRON	6	11	3	1	IRR
+0	0	0	R	6	11	4	0		5	12	10	0	
+0	0	0	O	6	11	4	0		5	13	3	0	
+0	0	0	N	6	11	4	0		5	14	3	0	
+0	1	36	E	7	0	15	1	ENDOFAPARAGRAPH	7	0	3	1	EAP
+0	1	37	N	7	0	15	0		7	1	3	1	NYE
+0	0	0	D	7	0	15	0		0	2	10	0	
+0	0	0	O	7	0	15	0		6	3	3	0	
+0	0	0	F	7	0	15	0		5	4	3	0	
+0	1	38	A	7	0	15	0		7	5	4	1	AMPM
+0	0	0	P	7	0	15	0		1	6	9	0	
+0	0	0	A	7	0	15	0		6	7	3	0	
+0	0	0	R	7	0	15	0		5	8	9	0	
+0	0	0	A	7	0	15	0		4	9	4	0	
+0	1	39	G	7	0	15	0		7	10	3	1	GUY
+0	0	0	R	7	0	15	0		6	11	3	0	
+0	0	0	A	7	0	15	0		5	12	10	0	
+0	0	0	P	7	0	15	0		5	13	3	0	
+0	0	0	H	7	0	15	0		5	14	3	0	
+0	1	40	A	8	0	4	1	AYES	7	0	3	0	
+0	0	0	Y	8	0	4	0		7	1	3	0	
+0	0	0	E	8	0	4	0		0	2	10	0	
+0	0	0	S	8	0	4	0		6	3	3	0	
+1	0	0	#	8	5	4	0		9	4	4	0	
+0	1	41	M	8	5	4	1	MESO	7	5	4	0	
+0	0	0	E	8	5	4	0		1	6	9	0	
+0	0	0	S	8	5	4	0		6	7	3	0	
+0	0	0	O	8	5	4	0		5	8	9	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	42	U	8	10	3	1	URU	7	10	3	0	
+0	0	0	R	8	10	3	0		6	11	3	0	
+0	0	0	U	8	10	3	0		5	12	10	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	4	0	
+0	1	43	P	9	0	3	1	PES	7	0	3	0	
+0	0	0	E	9	0	3	0		7	1	3	0	
+0	0	0	S	9	0	3	0		0	2	10	0	
+1	0	0	#	9	4	3	0		10	3	5	0	
+0	1	44	P	9	4	3	1	PPD	9	4	4	1	PLEA
+0	0	0	P	9	4	3	0		7	5	4	0	
+0	0	0	D	9	4	3	0		1	6	9	0	
+1	0	0	#	9	8	3	0		10	7	5	0	
+0	1	45	P	9	8	3	1	PLY	5	8	9	0	
+0	1	46	L	9	8	3	0		9	9	3	1	LAR
+0	0	0	Y	9	8	3	0		7	10	3	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	47	M	9	12	3	1	MTM	5	12	10	0	
+0	1	48	T	9	12	3	0		9	13	6	1	TALIAS
+0	1	49	M	9	12	3	0		9	14	4	1	MMCI
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	0	0		11	1	4	0	
+1	0	0	#	10	3	3	0		11	2	4	0	
+0	1	50	K	10	3	3	1	KLM	10	3	5	1	KATEY
+0	0	0	L	10	3	3	0		9	4	4	0	
+0	0	0	M	10	3	3	0		7	5	4	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	51	G	10	7	3	1	GLA	10	7	5	1	GOALS
+0	0	0	L	10	7	3	0		5	8	9	0	
+0	0	0	A	10	7	3	0		9	9	3	0	
+1	0	0	#	10	11	0	0		11	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	52	A	10	12	3	1	AAM	5	12	10	0	
+0	0	0	A	10	12	3	0		9	13	6	0	
+0	0	0	M	10	12	3	0		9	14	4	0	
+0	1	53	U	11	0	5	1	ULNAE	11	0	3	1	UEA
+0	1	54	L	11	0	5	0		11	1	4	1	LADI
+0	1	55	N	11	0	5	0		11	2	4	1	NSEC
+0	0	0	A	11	0	5	0		10	3	5	0	
+0	0	0	E	11	0	5	0		9	4	4	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	4	0		12	6	3	0	
+0	1	56	O	11	7	4	1	OARS	10	7	5	0	
+0	0	0	A	11	7	4	0		5	8	9	0	
+0	0	0	R	11	7	4	0		9	9	3	0	
+0	1	57	S	11	7	4	0		11	10	3	1	SML
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	58	T	11	12	3	1	TLC	5	12	10	0	
+0	0	0	L	11	12	3	0		9	13	6	0	
+0	0	0	C	11	12	3	0		9	14	4	0	
+0	1	59	E	12	0	9	1	EASTASIAN	11	0	3	0	
+0	0	0	A	12	0	9	0		11	1	4	0	
+0	0	0	S	12	0	9	0		11	2	4	0	
+0	0	0	T	12	0	9	0		10	3	5	0	
+0	0	0	A	12	0	9	0		9	4	4	0	
+0	1	60	S	12	0	9	0		12	5	3	1	SEW
+0	1	61	I	12	0	9	0		12	6	3	1	IHN
+0	0	0	A	12	0	9	0		10	7	5	0	
+0	0	0	N	12	0	9	0		5	8	9	0	
+1	0	0	#	12	10	5	0		13	9	0	0	
+0	1	62	M	12	10	5	1	MVIII	11	10	3	0	
+0	1	63	V	12	10	5	0		12	11	3	1	VIC
+0	0	0	I	12	10	5	0		5	12	10	0	
+0	0	0	I	12	10	5	0		9	13	6	0	
+0	0	0	I	12	10	5	0		9	14	4	0	
+0	1	64	A	13	0	4	1	ADEE	11	0	3	0	
+0	0	0	D	13	0	4	0		11	1	4	0	
+0	0	0	E	13	0	4	0		11	2	4	0	
+0	0	0	E	13	0	4	0		10	3	5	0	
+1	0	0	#	13	5	4	0		14	4	0	0	
+0	1	65	E	13	5	4	1	EHLE	12	5	3	0	
+0	0	0	H	13	5	4	0		12	6	3	0	
+0	0	0	L	13	5	4	0		10	7	5	0	
+0	0	0	E	13	5	4	0		5	8	9	0	
+1	0	0	#	13	10	4	0		14	9	0	0	
+0	1	66	L	13	10	4	1	LIZA	11	10	3	0	
+0	0	0	I	13	10	4	0		12	11	3	0	
+0	0	0	Z	13	10	4	0		5	12	10	0	
+0	0	0	A	13	10	4	0		9	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	67	I	14	1	3	1	ICY	11	1	4	0	
+0	0	0	C	14	1	3	0		11	2	4	0	
+0	0	0	Y	14	1	3	0		10	3	5	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	68	W	14	5	3	1	WNS	12	5	3	0	
+0	0	0	N	14	5	3	0		12	6	3	0	
+0	0	0	S	14	5	3	0		10	7	5	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	69	C	14	11	3	1	CES	12	11	3	0	
+0	0	0	E	14	11	3	0		5	12	10	0	
+0	0	0	S	14	11	3	0		9	13	6	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+43
+1	KOD	Sent to the mat
+4	AMT	Tsp. or tbs.
+7	RYS	Roads with train tracks: Abbr.
+10	ECOL	Bionomics: Abbr.
+12	GUMP	Hanks role
+13	OOHS	Cries at fireworks
+15	FREEH	Louis of the F.B.I.
+16	ODDSMAKER	One might create a spread
+18	ENA	Spain's Victoria Eugenia, familiarly
+19	ZITI	Casserole pasta
+21	ECOLI	Unwanted breakout
+22	TEN	Highest non-face card
+23	TZE	Philosopher Mo-___
+24	HRH	Initials for a prince
+25	ALT	Key abbr.
+26	RYA	Hand-woven Scandinavian rug
+27	AIL	Feel sick
+28	THU	Day after so-called "hump day": Abbr.
+31	ILA	Dockers' grp.
+33	POET	Yeats or Keats
+35	IRON	Word after pig or before horse
+36	ENDOFAPARAGRAPH	Short Line
+40	AYES	Words said in passing?
+41	MESO	Middle: Prefix
+42	URU	Arg. neighbor
+43	PES	Foot, to a zoologist
+44	PPD	Mail order abbr.
+45	PLY	Perform, as one's trade
+47	MTM	'70s TV production co.
+50	KLM	Carrier to Amsterdam
+51	GLA	Liver, e.g.
+52	AAM	Texas school
+53	ULNAE	Attachments to pronator quadratus muscles
+56	OARS	Water skimmers
+58	TLC	Motherly ministering, for short
+59	EASTASIAN	Japanese or Korean
+62	MVIII	1008 on a monument
+64	ADEE	Chick chaser?
+65	EHLE	"Pride and Prejudice" actress Jennifer
+66	LIZA	"___ With a Z" (1972 Emmy-winning show)
+67	ICY	Wintry
+68	WNS	Bleaches
+69	CES	These, overseas
+41
+1	KERNEL	Heart
+2	OCEANTIDES	They're controlled by the moon
+3	DOE	Buck's mate
+4	AUDIE	W.W.II hero Murphy
+5	MMD	Roman square?
+6	TPS	Festoons with Charmin, informally
+7	ROACH	Raid target
+8	YOKO	John Lennon's "Dear ___"
+9	SHEL	Illustrator Silverstein
+11	LHZ	Young fellow
+12	GOTZAPPED	Lost at laser tag, maybe
+14	SRI	Respectful title
+15	FETA	Soft, white cheese
+17	MERL	European black thrush
+20	ITY	Suffix with theatrical
+24	HITA	Words with snag or home run
+26	RAF	Battle of Britain grp.
+27	AEROPLANE	Part of a Virgin Atlantic fleet
+28	TRAUMATIZE	Shock
+29	HOP	Infield bounce
+30	UNH	New Eng. school
+32	LOS	___ Fresnos, Tex.
+34	OAS	Grp. of which Cuba is a member
+35	IRR	Discount rack abbr.
+36	EAP	"To Helen" writer's inits.
+37	NYE	"Baled Hay" humorist
+38	AMPM	Like 12-hour clocks
+39	GUY	Kind of wire
+44	PLEA	Court statement
+46	LAR	Actress Park-Lincoln of "Knots Landing"
+48	TALIAS	Actresses Shire and Balsam
+49	MMCI	Start of the 22nd century
+50	KATEY	Peg Bundy portrayer ___ Sagal
+51	GOALS	Scores for the Maple Leafs
+53	UEA	Pupil's place
+54	LADI	___-da (pretentious)
+55	NSEC	Small interval of time: Abbr.
+57	SML	Tee sizes, on signs
+60	SEW	Needle
+61	IHN	Him, in Heidelberg
+63	VIC	Singer Dana

@@ -1,0 +1,231 @@
+grid_13x13_150
+13
+0	1	1	C	0	0	3	1	CHI	0	0	4	1	CENS
+0	1	2	H	0	0	3	0		0	1	5	1	HTEST
+0	1	3	I	0	0	3	0		0	2	13	1	IDONOTBOLIVIA
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	A	0	4	3	1	ATM	0	4	3	1	AUG
+0	1	5	T	0	4	3	0		0	5	4	1	TBAR
+0	1	6	M	0	4	3	0		0	6	13	1	MUSTANGESCAPE
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	H	0	8	3	1	HOB	0	8	3	1	HHS
+0	1	8	O	0	8	3	0		0	9	4	1	OBOE
+0	1	9	B	0	8	3	0		0	10	13	1	BOURBONSTREET
+1	0	0	#	0	12	0	0		1	11	6	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	E	1	0	3	1	ETD	0	0	4	0	
+0	0	0	T	1	0	3	0		0	1	5	0	
+0	0	0	D	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	3	0		2	3	6	0	
+0	1	11	U	1	4	3	1	UBU	0	4	3	0	
+0	0	0	B	1	4	3	0		0	5	4	0	
+0	0	0	U	1	4	3	0		0	6	13	0	
+1	0	0	#	1	8	4	0		2	7	0	0	
+0	1	12	H	1	8	4	1	HBOS	0	8	3	0	
+0	0	0	B	1	8	4	0		0	9	4	0	
+0	0	0	O	1	8	4	0		0	10	13	0	
+0	1	13	S	1	8	4	0		1	11	6	1	STRAND
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	N	2	0	7	1	NEONGAS	0	0	4	0	
+0	0	0	E	2	0	7	0		0	1	5	0	
+0	0	0	O	2	0	7	0		0	2	13	0	
+0	1	15	N	2	0	7	0		2	3	6	1	NSPOOL
+0	0	0	G	2	0	7	0		0	4	3	0	
+0	0	0	A	2	0	7	0		0	5	4	0	
+0	0	0	S	2	0	7	0		0	6	13	0	
+1	0	0	#	2	8	5	0		3	7	4	0	
+0	1	16	S	2	8	5	1	SOUTH	0	8	3	0	
+0	0	0	O	2	8	5	0		0	9	4	0	
+0	0	0	U	2	8	5	0		0	10	13	0	
+0	0	0	T	2	8	5	0		1	11	6	0	
+0	1	17	H	2	8	5	0		2	12	3	1	HST
+0	1	18	S	3	0	4	1	SSNS	0	0	4	0	
+0	0	0	S	3	0	4	0		0	1	5	0	
+0	0	0	N	3	0	4	0		0	2	13	0	
+0	0	0	S	3	0	4	0		2	3	6	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	19	R	3	5	3	1	RTE	0	5	4	0	
+0	0	0	T	3	5	3	0		0	6	13	0	
+0	1	20	E	3	5	3	0		3	7	4	1	EWER
+1	0	0	#	3	9	4	0		4	8	4	0	
+0	1	21	E	3	9	4	1	ERRS	0	9	4	0	
+0	0	0	R	3	9	4	0		0	10	13	0	
+0	0	0	R	3	9	4	0		1	11	6	0	
+0	0	0	S	3	9	4	0		2	12	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	22	T	4	1	3	1	TOP	0	1	5	0	
+0	0	0	O	4	1	3	0		0	2	13	0	
+0	0	0	P	4	1	3	0		2	3	6	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	23	A	4	6	3	1	AWK	0	6	13	0	
+0	0	0	W	4	6	3	0		3	7	4	0	
+0	1	24	K	4	6	3	0		4	8	4	1	KOOL
+1	0	0	#	4	10	3	0		5	9	6	0	
+0	1	25	B	4	10	3	1	BAT	0	10	13	0	
+0	0	0	A	4	10	3	0		1	11	6	0	
+0	0	0	T	4	10	3	0		2	12	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	6	0	
+0	1	26	T	5	2	3	1	TOX	0	2	13	0	
+0	0	0	O	5	2	3	0		2	3	6	0	
+0	1	27	X	5	2	3	0		5	4	4	1	XVII
+1	0	0	#	5	6	6	0		6	5	4	0	
+0	1	28	N	5	6	6	1	NEOCON	0	6	13	0	
+0	0	0	E	5	6	6	0		3	7	4	0	
+0	0	0	O	5	6	6	0		4	8	4	0	
+0	1	29	C	5	6	6	0		5	9	6	1	CUTTER
+0	0	0	O	5	6	6	0		0	10	13	0	
+0	0	0	N	5	6	6	0		1	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	11	0		7	0	0	0	
+0	1	30	A	6	1	11	1	ABOVEGROUND	6	1	6	1	AMONRA
+0	0	0	B	6	1	11	0		0	2	13	0	
+0	0	0	O	6	1	11	0		2	3	6	0	
+0	0	0	V	6	1	11	0		5	4	4	0	
+0	1	31	E	6	1	11	0		6	5	4	1	ENLS
+0	0	0	G	6	1	11	0		0	6	13	0	
+0	0	0	R	6	1	11	0		3	7	4	0	
+0	0	0	O	6	1	11	0		4	8	4	0	
+0	0	0	U	6	1	11	0		5	9	6	0	
+0	0	0	N	6	1	11	0		0	10	13	0	
+0	0	0	D	6	1	11	0		1	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	32	M	7	1	6	1	MOLINE	6	1	6	0	
+0	0	0	O	7	1	6	0		0	2	13	0	
+0	0	0	L	7	1	6	0		2	3	6	0	
+0	0	0	I	7	1	6	0		5	4	4	0	
+0	0	0	N	7	1	6	0		6	5	4	0	
+0	0	0	E	7	1	6	0		0	6	13	0	
+1	0	0	#	7	8	3	0		8	7	0	0	
+0	1	33	L	7	8	3	1	LTS	4	8	4	0	
+0	0	0	T	7	8	3	0		5	9	6	0	
+0	0	0	S	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	L	8	0	3	1	LOL	8	0	3	1	LOI
+0	0	0	O	8	0	3	0		6	1	6	0	
+0	0	0	L	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	3	0		9	3	4	0	
+0	1	35	I	8	4	3	1	ILS	5	4	4	0	
+0	0	0	L	8	4	3	0		6	5	4	0	
+0	0	0	S	8	4	3	0		0	6	13	0	
+1	0	0	#	8	8	0	0		9	7	4	0	
+1	0	0	#	8	9	3	0		9	8	0	0	
+0	1	36	T	8	9	3	1	TTL	5	9	6	0	
+0	0	0	T	8	9	3	0		0	10	13	0	
+0	1	37	L	8	9	3	0		8	11	5	1	LIANG
+1	0	0	#	8	13	0	0		9	12	4	0	
+0	1	38	O	9	0	4	1	ONIN	8	0	3	0	
+0	0	0	N	9	0	4	0		6	1	6	0	
+0	0	0	I	9	0	4	0		0	2	13	0	
+0	1	39	N	9	0	4	0		9	3	4	1	NINA
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	40	S	9	5	3	1	SCI	6	5	4	0	
+0	0	0	C	9	5	3	0		0	6	13	0	
+0	1	41	I	9	5	3	0		9	7	4	1	ISIT
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	42	E	9	9	4	1	ERIC	5	9	6	0	
+0	0	0	R	9	9	4	0		0	10	13	0	
+0	0	0	I	9	9	4	0		8	11	5	0	
+0	1	43	C	9	9	4	0		9	12	4	1	CMVI
+0	1	44	I	10	0	5	1	IRVIN	8	0	3	0	
+0	0	0	R	10	0	5	0		6	1	6	0	
+0	0	0	V	10	0	5	0		0	2	13	0	
+0	0	0	I	10	0	5	0		9	3	4	0	
+0	1	45	N	10	0	5	0		10	4	3	1	NTH
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	46	A	10	6	7	1	ASCREAM	0	6	13	0	
+0	0	0	S	10	6	7	0		9	7	4	0	
+0	1	47	C	10	6	7	0		10	8	3	1	CPO
+0	0	0	R	10	6	7	0		5	9	6	0	
+0	0	0	E	10	6	7	0		0	10	13	0	
+0	0	0	A	10	6	7	0		8	11	5	0	
+0	0	0	M	10	6	7	0		9	12	4	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	48	A	11	1	4	1	AINT	6	1	6	0	
+0	0	0	I	11	1	4	0		0	2	13	0	
+0	0	0	N	11	1	4	0		9	3	4	0	
+0	0	0	T	11	1	4	0		10	4	3	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	49	P	11	6	3	1	PIP	0	6	13	0	
+0	0	0	I	11	6	3	0		9	7	4	0	
+0	0	0	P	11	6	3	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	E	11	10	3	1	ENV	0	10	13	0	
+0	0	0	N	11	10	3	0		8	11	5	0	
+0	0	0	V	11	10	3	0		9	12	4	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	51	A	12	2	3	1	AAH	0	2	13	0	
+0	0	0	A	12	2	3	0		9	3	4	0	
+0	0	0	H	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	E	12	6	3	1	ETO	0	6	13	0	
+0	0	0	T	12	6	3	0		9	7	4	0	
+0	0	0	O	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	T	12	10	3	1	TGI	0	10	13	0	
+0	0	0	G	12	10	3	0		8	11	5	0	
+0	0	0	I	12	10	3	0		9	12	4	0	
+33
+1	CHI	Loop setting, briefly
+4	ATM	Bread box?
+7	HOB	Quoits game
+10	ETD	Capt.'s announcement
+11	UBU	"___ Roi" (Alfred Jarry play)
+12	HBOS	Wanderers
+14	NEONGAS	Diner sign filler
+16	SOUTH	Deep place?
+18	SSNS	ID's, of sorts
+19	RTE	A.A.A. suggestion: Abbr.
+21	ERRS	Shows one's human side
+22	TOP	Foremost
+23	AWK	Parrot's cry
+25	BAT	Mammal that sleeps upside-down
+26	TOX	Study of poisons: Abbr.
+28	NEOCON	Biodegradable pipe material
+30	ABOVEGROUND	GROUCHY
+32	MOLINE	Illinois home of Black Hawk College
+33	LTS	Mil. officers
+34	LOL	Equivalent of "ur 2 funny"
+35	ILS	They: Fr.
+36	TTL	Lumberjack's tool
+38	ONIN	"Hey, what's going ___ there?"
+40	SCI	"The Cat in the Hat Knows a Lot About That!" subj.
+42	ERIC	Rocker Clapton
+44	IRVIN	Rea ___, noted New Yorker cartoonist
+46	ASCREAM	Really funny
+48	AINT	"Is so!" rebuttal
+49	PIP	Mr. Jaggers's ward, in Dickens
+50	ENV	Prop for the Acad. Awards
+51	AAH	"What a relief!"
+52	ETO	Ike's W.W. II command
+53	TGI	___ Friday's (restaurant)
+25
+1	CENS	Millennium divs.
+2	HTEST	Poisonous mushroom producer, briefly?
+3	IDONOTBOLIVIA	"""Baloney!"" abroad?"
+4	AUG	Summer mo.
+5	TBAR	Skiers' lift
+6	MUSTANGESCAPE	"Start of a stampede, maybe [think Ford]"
+7	HHS	Donna Shalala's dept.
+8	OBOE	Bassoon's cousin
+9	BOURBONSTREET	New Orleans hot spot
+13	STRAND	Hair piece
+15	NSPOOL	Illegal lottery game
+17	HST	First U.S. pres. to travel in a submarine
+20	EWER	Basin accompanier
+24	KOOL	Newport rival
+27	XVII	1983 Super Bowl designation
+29	CUTTER	Coast Guard boat
+30	AMONRA	Dualistic deity
+31	ENLS	Requests for developers: Abbr.
+34	LOI	French law
+37	LIANG	Sixth-century Chinese dynasty
+39	NINA	First in a historical trio
+41	ISIT	Start of a guess
+43	CMVI	Year in Sergius III's papacy
+45	NTH	To the ___ power
+47	CPO	U.S.N. noncom

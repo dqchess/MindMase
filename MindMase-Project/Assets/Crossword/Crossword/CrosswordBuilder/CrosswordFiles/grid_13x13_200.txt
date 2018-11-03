@@ -1,0 +1,233 @@
+grid_13x13_200
+13
+0	1	1	R	0	0	5	1	REBAS	0	0	3	1	RMN
+0	1	2	E	0	0	5	0		0	1	7	1	EELLIKE
+0	1	3	B	0	0	5	0		0	2	13	1	BREEDINGROUND
+0	1	4	A	0	0	5	0		0	3	4	1	AMAD
+0	1	5	S	0	0	5	0		0	4	3	1	SES
+1	0	0	#	0	6	0	0		1	5	6	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	6	R	0	8	3	1	ROG	0	8	3	1	ROB
+0	1	7	O	0	8	3	0		0	9	6	1	ONEISH
+0	1	8	G	0	8	3	0		0	10	13	1	GIANTANTEATER
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	9	M	1	0	6	1	MERMEN	0	0	3	0	
+0	0	0	E	1	0	6	0		0	1	7	0	
+0	0	0	R	1	0	6	0		0	2	13	0	
+0	0	0	M	1	0	6	0		0	3	4	0	
+0	0	0	E	1	0	6	0		0	4	3	0	
+0	1	10	N	1	0	6	0		1	5	6	1	NTESTS
+1	0	0	#	1	7	5	0		2	6	0	0	
+0	1	11	T	1	7	5	1	TONIC	1	7	4	1	THAW
+0	0	0	O	1	7	5	0		0	8	3	0	
+0	0	0	N	1	7	5	0		0	9	6	0	
+0	0	0	I	1	7	5	0		0	10	13	0	
+0	1	12	C	1	7	5	0		1	11	4	1	CTRL
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	N	2	0	6	1	NLEAST	0	0	3	0	
+0	0	0	L	2	0	6	0		0	1	7	0	
+0	0	0	E	2	0	6	0		0	2	13	0	
+0	0	0	A	2	0	6	0		0	3	4	0	
+0	0	0	S	2	0	6	0		0	4	3	0	
+0	0	0	T	2	0	6	0		1	5	6	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	14	H	2	7	6	1	HBEATS	1	7	4	0	
+0	0	0	B	2	7	6	0		0	8	3	0	
+0	0	0	E	2	7	6	0		0	9	6	0	
+0	0	0	A	2	7	6	0		0	10	13	0	
+0	0	0	T	2	7	6	0		1	11	4	0	
+0	1	15	S	2	7	6	0		2	12	3	1	SOO
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	16	L	3	1	3	1	LED	0	1	7	0	
+0	0	0	E	3	1	3	0		0	2	13	0	
+0	0	0	D	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	17	E	3	5	3	1	ERA	1	5	6	0	
+0	1	18	R	3	5	3	0		3	6	7	1	ROOFERS
+0	0	0	A	3	5	3	0		1	7	4	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	19	I	3	9	4	1	INRO	0	9	6	0	
+0	0	0	N	3	9	4	0		0	10	13	0	
+0	0	0	R	3	9	4	0		1	11	4	0	
+0	0	0	O	3	9	4	0		2	12	3	0	
+0	1	20	R	4	0	3	1	RID	4	0	3	1	RST
+0	0	0	I	4	0	3	0		0	1	7	0	
+0	0	0	D	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	21	S	4	5	3	1	SOW	1	5	6	0	
+0	0	0	O	4	5	3	0		3	6	7	0	
+0	0	0	W	4	5	3	0		1	7	4	0	
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	22	S	4	9	4	1	STLO	0	9	6	0	
+0	0	0	T	4	9	4	0		0	10	13	0	
+0	0	0	L	4	9	4	0		1	11	4	0	
+0	0	0	O	4	9	4	0		2	12	3	0	
+0	1	23	S	5	0	3	1	SKI	4	0	3	0	
+0	0	0	K	5	0	3	0		0	1	7	0	
+0	0	0	I	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	24	H	5	4	3	1	HTO	5	4	3	1	HIP
+0	0	0	T	5	4	3	0		1	5	6	0	
+0	0	0	O	5	4	3	0		3	6	7	0	
+1	0	0	#	5	8	3	0		6	7	6	0	
+0	1	25	C	5	8	3	1	CHA	5	8	3	1	CRU
+0	0	0	H	5	8	3	0		0	9	6	0	
+0	0	0	A	5	8	3	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	7	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	26	T	6	0	3	1	TEN	4	0	3	0	
+0	0	0	E	6	0	3	0		0	1	7	0	
+0	0	0	N	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	6	0	
+0	1	27	I	6	4	5	1	ISFOR	5	4	3	0	
+0	0	0	S	6	4	5	0		1	5	6	0	
+0	0	0	F	6	4	5	0		3	6	7	0	
+0	1	28	O	6	4	5	0		6	7	6	1	OAXACA
+0	0	0	R	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	29	N	6	10	3	1	NUN	0	10	13	0	
+0	1	30	U	6	10	3	0		6	11	7	1	UKULELE
+0	1	31	N	6	10	3	0		6	12	3	1	NOI
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	4	0	
+0	1	32	G	7	2	3	1	GAP	0	2	13	0	
+0	1	33	A	7	2	3	0		7	3	6	1	ASSISI
+0	0	0	P	7	2	3	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	4	0	
+0	1	34	E	7	6	3	1	EAU	3	6	7	0	
+0	0	0	A	7	6	3	0		6	7	6	0	
+0	0	0	U	7	6	3	0		5	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	35	T	7	10	3	1	TKO	0	10	13	0	
+0	0	0	K	7	10	3	0		6	11	7	0	
+0	0	0	O	7	10	3	0		6	12	3	0	
+0	1	36	A	8	0	4	1	ARRS	8	0	3	1	ALT
+0	1	37	R	8	0	4	0		8	1	4	1	RERE
+0	0	0	R	8	0	4	0		0	2	13	0	
+0	0	0	S	8	0	4	0		7	3	6	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	38	D	8	5	3	1	DRX	8	5	4	1	DEME
+0	0	0	R	8	5	3	0		3	6	7	0	
+0	0	0	X	8	5	3	0		6	7	6	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	39	E	8	10	3	1	EUI	0	10	13	0	
+0	0	0	U	8	10	3	0		6	11	7	0	
+0	0	0	I	8	10	3	0		6	12	3	0	
+0	1	40	L	9	0	4	1	LEOS	8	0	3	0	
+0	0	0	E	9	0	4	0		8	1	4	0	
+0	0	0	O	9	0	4	0		0	2	13	0	
+0	0	0	S	9	0	4	0		7	3	6	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	41	E	9	5	3	1	ESA	8	5	4	0	
+0	0	0	S	9	5	3	0		3	6	7	0	
+0	0	0	A	9	5	3	0		6	7	6	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	42	E	9	9	3	1	EAL	9	9	4	1	ERGO
+0	0	0	A	9	9	3	0		0	10	13	0	
+0	0	0	L	9	9	3	0		6	11	7	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	T	10	0	6	1	TRUISM	8	0	3	0	
+0	0	0	R	10	0	6	0		8	1	4	0	
+0	0	0	U	10	0	6	0		0	2	13	0	
+0	0	0	I	10	0	6	0		7	3	6	0	
+0	1	44	S	10	0	6	0		10	4	3	1	SUD
+0	0	0	M	10	0	6	0		8	5	4	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	45	C	10	7	6	1	CARTES	6	7	6	0	
+0	1	46	A	10	7	6	0		10	8	3	1	AND
+0	0	0	R	10	7	6	0		9	9	4	0	
+0	0	0	T	10	7	6	0		0	10	13	0	
+0	0	0	E	10	7	6	0		6	11	7	0	
+0	1	47	S	10	7	6	0		10	12	3	1	SAN
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	48	E	11	1	5	1	ENSUE	8	1	4	0	
+0	0	0	N	11	1	5	0		0	2	13	0	
+0	0	0	S	11	1	5	0		7	3	6	0	
+0	0	0	U	11	1	5	0		10	4	3	0	
+0	0	0	E	11	1	5	0		8	5	4	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	49	A	11	7	6	1	ANGELA	6	7	6	0	
+0	0	0	N	11	7	6	0		10	8	3	0	
+0	0	0	G	11	7	6	0		9	9	4	0	
+0	0	0	E	11	7	6	0		0	10	13	0	
+0	0	0	L	11	7	6	0		6	11	7	0	
+0	0	0	A	11	7	6	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	50	D	12	2	3	1	DID	0	2	13	0	
+0	0	0	I	12	2	3	0		7	3	6	0	
+0	0	0	D	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	51	D	12	8	5	1	DOREN	10	8	3	0	
+0	0	0	O	12	8	5	0		9	9	4	0	
+0	0	0	R	12	8	5	0		0	10	13	0	
+0	0	0	E	12	8	5	0		6	11	7	0	
+0	0	0	N	12	8	5	0		10	12	3	0	
+33
+1	REBAS	McEntire and others
+6	ROG	Baseball's Maris, for short
+9	MERMEN	Sea creatures of myth
+11	TONIC	Vodka ___
+13	NLEAST	The Atl. Braves are in it
+14	HBEATS	1950's doo-wop group with the hit "A Thousand Miles Away," with "the"
+16	LED	Had charge of
+17	ERA	It's low for aces: Abbr.
+19	INRO	Obi accessory
+20	RID	Disencumber
+21	SOW	Broadcast
+22	STLO	July 1944 battle area
+23	SKI	Kind of pole
+24	HTO	Rain, essentially
+25	CHA	Half a Latin dance
+26	TEN	Top mark
+27	ISFOR	Supports
+29	NUN	Mother, maybe
+32	GAP	Old Navy's parent, with "The"
+34	EAU	___ Claire
+35	TKO	Match end, maybe
+36	ARRS	Musical settings: Abbr.
+38	DRX	1939 Bogart title role
+39	EUI	Pins and needles' place
+40	LEOS	Bill Clinton and Arnold Schwarzenegger, to the stars?
+41	ESA	That one, in Tijuana
+42	EAL	Suffix with ether
+43	TRUISM	Obvious statement
+45	CARTES	Menus, in Metz
+48	ENSUE	Happen as a consequence
+49	ANGELA	"Who's the Boss?" woman
+50	DID	Iced, with "in"
+51	DOREN	Pulitzer-winning poet Mark Van ___
+27
+1	RMN	Old White House inits.
+2	EELLIKE	Hard to get a grip on
+3	BREEDINGROUND	Dog show event?
+4	AMAD	Make ___ dash for
+5	SES	His, in France
+6	ROB	Swindle
+7	ONEISH	Vague early afternoon time
+8	GIANTANTEATER	*Toothless South American animal
+10	NTESTS	Bikini explosions
+11	THAW	Become less reserved
+12	CTRL	___-Alt-Del
+15	SOO	The Great Lakes' ___ Locks
+18	ROOFERS	Ones at the top of their business?
+20	RST	Run in front of U
+24	HIP	In the groove
+25	CRU	Premier ___ (wine designation)
+28	OAXACA	Mexican state south of Veracruz
+30	UKULELE	A musician might pick it
+31	NOI	"___ won't!" (curt refusal)
+33	ASSISI	St. Clare's home
+36	ALT	___-rock
+37	RERE	Midnight alarm giver
+38	DEME	Greek township
+42	ERGO	So it follows that
+44	SUD	Nord's oppostie
+46	AND	Common joiner
+47	SAN	Cio-Cio-___ (Madame Butterfly)

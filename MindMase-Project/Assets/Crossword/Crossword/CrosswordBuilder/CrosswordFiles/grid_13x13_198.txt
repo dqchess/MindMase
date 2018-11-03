@@ -1,0 +1,229 @@
+grid_13x13_198
+13
+0	1	1	R	0	0	3	1	RHO	0	0	3	1	REC
+0	1	2	H	0	0	3	0		0	1	3	1	HBO
+0	1	3	O	0	0	3	0		0	2	13	1	ONENIGHTSTAND
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	U	0	5	3	1	URI	0	5	5	1	UPONA
+0	1	5	R	0	5	3	0		0	6	13	1	RANCHERSRAISE
+0	1	6	I	0	5	3	0		0	7	7	1	IDLESSE
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	S	0	9	3	1	SOR	0	9	3	1	SSN
+0	1	8	O	0	9	3	0		0	10	13	1	ONEMOREMINUTE
+0	1	9	R	0	9	3	0		0	11	9	1	ROADTORIO
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	E	1	0	3	1	EBN	0	0	3	0	
+0	0	0	B	1	0	3	0		0	1	3	0	
+0	0	0	N	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	0	0	
+0	1	11	S	1	4	4	1	SPAD	1	4	3	1	SNA
+0	0	0	P	1	4	4	0		0	5	5	0	
+0	0	0	A	1	4	4	0		0	6	13	0	
+0	0	0	D	1	4	4	0		0	7	7	0	
+1	0	0	#	1	9	3	0		2	8	5	0	
+0	1	12	S	1	9	3	1	SNO	0	9	3	0	
+0	0	0	N	1	9	3	0		0	10	13	0	
+0	0	0	O	1	9	3	0		0	11	9	0	
+1	0	0	#	1	13	0	0		2	12	4	0	
+0	1	13	C	2	0	3	1	COE	0	0	3	0	
+0	0	0	O	2	0	3	0		0	1	3	0	
+0	0	0	E	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	9	0		3	3	4	0	
+0	1	14	N	2	4	9	1	NONLINEAR	1	4	3	0	
+0	0	0	O	2	4	9	0		0	5	5	0	
+0	0	0	N	2	4	9	0		0	6	13	0	
+0	0	0	L	2	4	9	0		0	7	7	0	
+0	1	15	I	2	4	9	0		2	8	5	1	ISOLA
+0	0	0	N	2	4	9	0		0	9	3	0	
+0	0	0	E	2	4	9	0		0	10	13	0	
+0	0	0	A	2	4	9	0		0	11	9	0	
+0	1	16	R	2	4	9	0		2	12	4	1	RLCG
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	7	0		4	1	9	0	
+0	1	17	N	3	2	7	1	NUANCES	0	2	13	0	
+0	1	18	U	3	2	7	0		3	3	4	1	USNA
+0	0	0	A	3	2	7	0		1	4	3	0	
+0	0	0	N	3	2	7	0		0	5	5	0	
+0	0	0	C	3	2	7	0		0	6	13	0	
+0	0	0	E	3	2	7	0		0	7	7	0	
+0	0	0	S	3	2	7	0		2	8	5	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	19	M	3	10	3	1	MDL	0	10	13	0	
+0	0	0	D	3	10	3	0		0	11	9	0	
+0	0	0	L	3	10	3	0		2	12	4	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	20	P	4	1	3	1	PIS	4	1	9	1	PATCONROY
+0	0	0	I	4	1	3	0		0	2	13	0	
+0	0	0	S	4	1	3	0		3	3	4	0	
+1	0	0	#	4	5	4	0		5	4	0	0	
+0	1	21	A	4	5	4	1	AHSO	0	5	5	0	
+0	0	0	H	4	5	4	0		0	6	13	0	
+0	0	0	S	4	5	4	0		0	7	7	0	
+0	0	0	O	4	5	4	0		2	8	5	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	O	4	10	3	1	OTC	0	10	13	0	
+0	0	0	T	4	10	3	0		0	11	9	0	
+0	0	0	C	4	10	3	0		2	12	4	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	23	A	5	1	3	1	AGN	4	1	9	0	
+0	0	0	G	5	1	3	0		0	2	13	0	
+0	0	0	N	5	1	3	0		3	3	4	0	
+1	0	0	#	5	5	0	0		6	4	5	0	
+1	0	0	#	5	6	3	0		6	5	7	0	
+0	1	24	E	5	6	3	1	ESL	0	6	13	0	
+0	0	0	S	5	6	3	0		0	7	7	0	
+0	0	0	L	5	6	3	0		2	8	5	0	
+1	0	0	#	5	10	3	0		6	9	4	0	
+0	1	25	R	5	10	3	1	ROG	0	10	13	0	
+0	0	0	O	5	10	3	0		0	11	9	0	
+0	0	0	G	5	10	3	0		2	12	4	0	
+1	0	0	#	6	1	11	0		7	0	4	0	
+0	1	26	T	6	1	11	1	THAIBREAKER	4	1	9	0	
+0	0	0	H	6	1	11	0		0	2	13	0	
+0	0	0	A	6	1	11	0		3	3	4	0	
+0	1	27	I	6	1	11	0		6	4	5	1	INCAN
+0	1	28	B	6	1	11	0		6	5	7	1	BUILTIN
+0	0	0	R	6	1	11	0		0	6	13	0	
+0	0	0	E	6	1	11	0		0	7	7	0	
+0	0	0	A	6	1	11	0		2	8	5	0	
+0	1	29	K	6	1	11	0		6	9	4	1	KERI
+0	0	0	E	6	1	11	0		0	10	13	0	
+0	0	0	R	6	1	11	0		0	11	9	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	O	7	0	3	1	OCT	7	0	4	1	ONED
+0	0	0	C	7	0	3	0		4	1	9	0	
+0	0	0	T	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	31	N	7	4	3	1	NUS	6	4	5	0	
+0	0	0	U	7	4	3	0		6	5	7	0	
+0	0	0	S	7	4	3	0		0	6	13	0	
+1	0	0	#	7	8	0	0		8	7	5	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	32	E	7	9	3	1	EMI	6	9	4	0	
+0	0	0	M	7	9	3	0		0	10	13	0	
+0	0	0	I	7	9	3	0		0	11	9	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	N	8	0	3	1	NOS	7	0	4	0	
+0	0	0	O	8	0	3	0		4	1	9	0	
+0	0	0	S	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	34	C	8	4	4	1	CIRC	6	4	5	0	
+0	0	0	I	8	4	4	0		6	5	7	0	
+0	0	0	R	8	4	4	0		0	6	13	0	
+0	1	35	C	8	4	4	0		8	7	5	1	CDLIV
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	36	R	8	9	3	1	RIO	6	9	4	0	
+0	0	0	I	8	9	3	0		0	10	13	0	
+0	0	0	O	8	9	3	0		0	11	9	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	37	E	9	0	3	1	ENT	7	0	4	0	
+0	0	0	N	9	0	3	0		4	1	9	0	
+0	0	0	T	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	7	0		10	3	3	0	
+0	1	38	A	9	4	7	1	ALADDIN	6	4	5	0	
+0	0	0	L	9	4	7	0		6	5	7	0	
+0	0	0	A	9	4	7	0		0	6	13	0	
+0	0	0	D	9	4	7	0		8	7	5	0	
+0	1	39	D	9	4	7	0		9	8	3	1	DET
+0	0	0	I	9	4	7	0		6	9	4	0	
+0	0	0	N	9	4	7	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	40	D	10	0	9	1	DRAINTILE	7	0	4	0	
+0	0	0	R	10	0	9	0		4	1	9	0	
+0	0	0	A	10	0	9	0		0	2	13	0	
+0	1	41	I	10	0	9	0		10	3	3	1	IOS
+0	0	0	N	10	0	9	0		6	4	5	0	
+0	0	0	T	10	0	9	0		6	5	7	0	
+0	0	0	I	10	0	9	0		0	6	13	0	
+0	0	0	L	10	0	9	0		8	7	5	0	
+0	0	0	E	10	0	9	0		9	8	3	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	42	U	10	10	3	1	UND	0	10	13	0	
+0	1	43	N	10	10	3	0		10	11	3	1	NUL
+0	1	44	D	10	10	3	0		10	12	3	1	DTS
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	45	O	11	1	3	1	ONO	4	1	9	0	
+0	0	0	N	11	1	3	0		0	2	13	0	
+0	0	0	O	11	1	3	0		10	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	46	I	11	5	4	1	ISIT	6	5	7	0	
+0	0	0	S	11	5	4	0		0	6	13	0	
+0	0	0	I	11	5	4	0		8	7	5	0	
+0	0	0	T	11	5	4	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	47	T	11	10	3	1	TUT	0	10	13	0	
+0	0	0	U	11	10	3	0		10	11	3	0	
+0	0	0	T	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	48	Y	12	1	3	1	YDS	4	1	9	0	
+0	0	0	D	12	1	3	0		0	2	13	0	
+0	0	0	S	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	49	N	12	5	3	1	NEV	6	5	7	0	
+0	0	0	E	12	5	3	0		0	6	13	0	
+0	0	0	V	12	5	3	0		8	7	5	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	E	12	10	3	1	ELS	0	10	13	0	
+0	0	0	L	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+33
+1	RHO	When said three times, a crew member's fraternity?
+4	URI	Altdorf is its capital
+7	SOR	Sisters' org.
+10	EBN	Surveyor's dir.
+11	SPAD	W.W. I fighter plane
+12	SNO	___-Caps (movie snacks)
+13	COE	Miler Sebastian
+14	NONLINEAR	Inspired kind of thinking
+17	NUANCES	Shades
+19	MDL	Roman 1,550
+20	PIS	Math ratios
+21	AHSO	"I get it now"
+22	OTC	Like some securities, for short
+23	AGN	Once more: Abbr.
+24	ESL	Subj. for new citizens
+25	ROG	Yankee Maris, informally
+26	THAIBREAKER	Game decider in Bangkok?
+30	OCT	Canadian Thanksgiving mo.
+31	NUS	Preceders of xis
+32	EMI	RCA competitor
+33	NOS	Directory data: Abbr.
+34	CIRC	Mag. sales info
+36	RIO	"A Rainy Night in ___" (1946 hit)
+37	ENT	Sinus specialist, briefly
+38	ALADDIN	Jafar's nemesis, in film
+40	DRAINTILE	Item used in basement waterproofing
+42	UND	"Tristan ___ Isolde"
+45	ONO	Beatle lover
+46	ISIT	"___ something I said?"
+47	TUT	He was well-preserved
+48	YDS	Passing stats: Abbr.
+49	NEV	Home of the Black Rock Desert: Abbr.
+50	ELS	Urban rollers
+23
+1	REC	Camcorder button abbr.
+2	HBO	"There's No Place Like ___" (old TV slogan)
+3	ONENIGHTSTAND	Short-term relationship
+4	UPONA	"Once ___ midnight dreary ..."
+5	RANCHERSRAISE	Middle of the query
+6	IDLESSE	Do-nothing's state
+7	SSN	ID digits
+8	ONEMOREMINUTE	End of the quotation
+9	ROADTORIO	Fifth in a series of seven old comedy films
+11	SNA	White stuff, in Dundee
+15	ISOLA	Sicilia, e.g.
+16	RLCG	Cockney greeting
+18	USNA	Annapolis inst.
+20	PATCONROY	"The Great Santini" novelist
+27	INCAN	Quechua, e.g.
+28	BUILTIN	There from the start
+29	KERI	R&B singer Hilson
+30	ONED	Superficial, briefly
+35	CDLIV	454, in old Rome
+39	DET	Ford Field team, on scoreboards
+41	IOS	Island near Naxos
+43	NUL	It's void in Vichy
+44	DTS	Toper's woe

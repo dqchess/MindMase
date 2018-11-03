@@ -1,0 +1,167 @@
+grid_11x11_80
+11
+0	1	1	S	0	0	5	1	SUMUP	0	0	3	1	SUM
+0	1	2	U	0	0	5	0		0	1	4	1	UPON
+0	1	3	M	0	0	5	0		0	2	11	1	MATEFORLIFE
+0	1	4	U	0	0	5	0		0	3	5	1	UNITS
+0	1	5	P	0	0	5	0		0	4	3	1	PDF
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	6	0	
+0	1	6	F	0	7	3	1	FLA	0	7	4	1	FLOZ
+0	1	7	L	0	7	3	0		0	8	11	1	LEDZEPPELIN
+0	1	8	A	0	7	3	0		0	9	6	1	ASYLUM
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	9	U	1	0	5	1	UPAND	0	0	3	0	
+0	0	0	P	1	0	5	0		0	1	4	0	
+0	0	0	A	1	0	5	0		0	2	11	0	
+0	0	0	N	1	0	5	0		0	3	5	0	
+0	0	0	D	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	10	I	1	6	4	1	ILES	1	6	6	1	ICICLE
+0	0	0	L	1	6	4	0		0	7	4	0	
+0	0	0	E	1	6	4	0		0	8	11	0	
+0	0	0	S	1	6	4	0		0	9	6	0	
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	M	2	0	5	1	MOTIF	0	0	3	0	
+0	0	0	O	2	0	5	0		0	1	4	0	
+0	0	0	T	2	0	5	0		0	2	11	0	
+0	0	0	I	2	0	5	0		0	3	5	0	
+0	0	0	F	2	0	5	0		0	4	3	0	
+1	0	0	#	2	6	4	0		3	5	5	0	
+0	1	12	C	2	6	4	1	CODY	1	6	6	0	
+0	0	0	O	2	6	4	0		0	7	4	0	
+0	0	0	D	2	6	4	0		0	8	11	0	
+0	0	0	Y	2	6	4	0		0	9	6	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	13	N	3	1	3	1	NET	0	1	4	0	
+0	0	0	E	3	1	3	0		0	2	11	0	
+0	0	0	T	3	1	3	0		0	3	5	0	
+1	0	0	#	3	5	6	0		4	4	6	0	
+0	1	14	S	3	5	6	1	SIZZLE	3	5	5	1	SILTY
+0	0	0	I	3	5	6	0		1	6	6	0	
+0	0	0	Z	3	5	6	0		0	7	4	0	
+0	0	0	Z	3	5	6	0		0	8	11	0	
+0	0	0	L	3	5	6	0		0	9	6	0	
+0	1	15	E	3	5	6	0		3	10	3	1	EIS
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	6	0	
+0	1	16	F	4	2	5	1	FSLIC	0	2	11	0	
+0	0	0	S	4	2	5	0		0	3	5	0	
+0	1	17	L	4	2	5	0		4	4	6	1	LIANAS
+0	0	0	I	4	2	5	0		3	5	5	0	
+0	0	0	C	4	2	5	0		1	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	18	E	4	8	3	1	EUI	0	8	11	0	
+0	0	0	U	4	8	3	0		0	9	6	0	
+0	0	0	I	4	8	3	0		3	10	3	0	
+0	1	19	O	5	0	3	1	OOO	5	0	3	1	OED
+0	1	20	O	5	0	3	0		5	1	6	1	OWEDON
+0	0	0	O	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	I	5	4	3	1	ILL	4	4	6	0	
+0	0	0	L	5	4	3	0		3	5	5	0	
+0	0	0	L	5	4	3	0		1	6	6	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	P	5	8	3	1	PMS	0	8	11	0	
+0	0	0	M	5	8	3	0		0	9	6	0	
+0	0	0	S	5	8	3	0		3	10	3	0	
+0	1	23	E	6	0	3	1	EWR	5	0	3	0	
+0	0	0	W	6	0	3	0		5	1	6	0	
+0	0	0	R	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	5	0		7	3	4	0	
+0	1	24	A	6	4	5	1	ATEUP	4	4	6	0	
+0	0	0	T	6	4	5	0		3	5	5	0	
+0	0	0	E	6	4	5	0		1	6	6	0	
+0	1	25	U	6	4	5	0		6	7	5	1	UQWNW
+0	0	0	P	6	4	5	0		0	8	11	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	D	7	0	6	1	DELANY	5	0	3	0	
+0	0	0	E	7	0	6	0		5	1	6	0	
+0	0	0	L	7	0	6	0		0	2	11	0	
+0	1	27	A	7	0	6	0		7	3	4	1	ADUE
+0	0	0	N	7	0	6	0		4	4	6	0	
+0	0	0	Y	7	0	6	0		3	5	5	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	28	Q	7	7	3	1	QED	6	7	5	0	
+0	0	0	E	7	7	3	0		0	8	11	0	
+0	1	29	D	7	7	3	0		7	9	4	1	DESE
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	30	D	8	1	4	1	DIDA	5	1	6	0	
+0	0	0	I	8	1	4	0		0	2	11	0	
+0	0	0	D	8	1	4	0		7	3	4	0	
+0	0	0	A	8	1	4	0		4	4	6	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	31	O	8	6	5	1	OWLET	8	6	3	1	OKA
+0	0	0	W	8	6	5	0		6	7	5	0	
+0	0	0	L	8	6	5	0		0	8	11	0	
+0	0	0	E	8	6	5	0		7	9	4	0	
+0	1	32	T	8	6	5	0		8	10	3	1	THD
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	33	O	9	1	4	1	OFUS	5	1	6	0	
+0	0	0	F	9	1	4	0		0	2	11	0	
+0	0	0	U	9	1	4	0		7	3	4	0	
+0	0	0	S	9	1	4	0		4	4	6	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	34	K	9	6	5	1	KNISH	8	6	3	0	
+0	0	0	N	9	6	5	0		6	7	5	0	
+0	0	0	I	9	6	5	0		0	8	11	0	
+0	0	0	S	9	6	5	0		7	9	4	0	
+0	0	0	H	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	35	N	10	1	3	1	NEE	5	1	6	0	
+0	0	0	E	10	1	3	0		0	2	11	0	
+0	0	0	E	10	1	3	0		7	3	4	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	5	0		11	5	0	0	
+0	1	36	A	10	6	5	1	AWNED	8	6	3	0	
+0	0	0	W	10	6	5	0		6	7	5	0	
+0	0	0	N	10	6	5	0		0	8	11	0	
+0	0	0	E	10	6	5	0		7	9	4	0	
+0	0	0	D	10	6	5	0		8	10	3	0	
+23
+1	SUMUP	Recapitulate
+6	FLA	Naples's home: Abbr.
+9	UPAND	Words before "about" and "at 'em"
+10	ILES	France's ___ d'Hy
+11	MOTIF	Recurring melody
+12	CODY	Buffalo Bill
+13	NET	Make
+14	SIZZLE	Thing often heard in short order?
+16	FSLIC	Former org. protecting depositors
+18	EUI	Pins and needles' place
+19	OOO	Tic-tac-toe victory
+21	ILL	Poorly
+22	PMS	10 Downing St. residents
+23	EWR	Airport alternative to JFK or LGA
+24	ATEUP	Truly enjoyed
+26	DELANY	Dana of "Wild Palms"
+28	QED	Proof letters
+30	DIDA	___ number on (psyched out)
+31	OWLET	Miniature hooter
+33	OFUS	"The Sum ___" (Russell Crowe movie)
+34	KNISH	Turnover
+35	NEE	Mary Lincoln ___ Todd
+36	AWNED	Bristly, like barley
+19
+1	SUM	Addition solution
+2	UPON	Knowing about
+3	MATEFORLIFE	Be monogamous, among animals
+4	UNITS	Wholes or parts
+5	PDF	Suffix for many a sharable computer file
+6	FLOZ	Abbr. on a soda bottle
+7	LEDZEPPELIN	Plant group
+8	ASYLUM	Sanctuary
+10	ICICLE	Makeshift dagger
+14	SILTY	Like a delta
+15	EIS	German "rocks"
+17	LIANAS	Tropical vines
+19	OED	Philologist's ref.
+20	OWEDON	As yet uncollected for
+25	UQWNW	Fished for lampreys
+27	ADUE	As a twosome, musically
+29	DESE	Brooklynese pronoun
+31	OKA	900-plus-mile Volga feeder
+32	THD	Letters for a religious scholar

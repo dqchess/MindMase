@@ -1,0 +1,229 @@
+grid_13x13_116
+13
+0	1	1	M	0	0	3	1	MID	0	0	3	1	MVI
+0	1	2	I	0	0	3	0		0	1	3	1	IAS
+0	1	3	D	0	0	3	0		0	2	13	1	DISSEDHILLARY
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	O	0	5	3	1	ORL	0	5	3	1	ONA
+0	1	5	R	0	5	3	0		0	6	13	1	RINGADINGDING
+0	1	6	L	0	5	3	0		0	7	4	1	LEDI
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	7	U	0	9	3	1	UPI	0	9	5	1	USEAS
+0	1	8	P	0	9	3	0		0	10	13	1	PEATORCHESTRA
+0	1	9	I	0	9	3	0		0	11	9	1	INSOFARAS
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	V	1	0	4	1	VAIO	0	0	3	0	
+0	0	0	A	1	0	4	0		0	1	3	0	
+0	0	0	I	1	0	4	0		0	2	13	0	
+0	1	11	O	1	0	4	0		1	3	4	1	OYER
+1	0	0	#	1	5	7	0		2	4	0	0	
+0	1	12	N	1	5	7	1	NIELSEN	0	5	3	0	
+0	0	0	I	1	5	7	0		0	6	13	0	
+0	0	0	E	1	5	7	0		0	7	4	0	
+0	1	13	L	1	5	7	0		1	8	3	1	LRG
+0	0	0	S	1	5	7	0		0	9	5	0	
+0	0	0	E	1	5	7	0		0	10	13	0	
+0	0	0	N	1	5	7	0		0	11	9	0	
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	14	I	2	0	4	1	ISSY	0	0	3	0	
+0	0	0	S	2	0	4	0		0	1	3	0	
+0	0	0	S	2	0	4	0		0	2	13	0	
+0	0	0	Y	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	7	0		3	4	5	0	
+0	1	15	A	2	5	7	1	ANDREAS	0	5	3	0	
+0	0	0	N	2	5	7	0		0	6	13	0	
+0	0	0	D	2	5	7	0		0	7	4	0	
+0	0	0	R	2	5	7	0		1	8	3	0	
+0	0	0	E	2	5	7	0		0	9	5	0	
+0	0	0	A	2	5	7	0		0	10	13	0	
+0	0	0	S	2	5	7	0		0	11	9	0	
+1	0	0	#	2	13	0	0		3	12	5	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	9	0	
+0	1	16	S	3	2	3	1	SEE	0	2	13	0	
+0	0	0	E	3	2	3	0		1	3	4	0	
+0	1	17	E	3	2	3	0		3	4	5	1	EOSIN
+1	0	0	#	3	6	7	0		4	5	4	0	
+0	1	18	G	3	6	7	1	GIGATON	0	6	13	0	
+0	0	0	I	3	6	7	0		0	7	4	0	
+0	0	0	G	3	6	7	0		1	8	3	0	
+0	0	0	A	3	6	7	0		0	9	5	0	
+0	0	0	T	3	6	7	0		0	10	13	0	
+0	0	0	O	3	6	7	0		0	11	9	0	
+0	1	19	N	3	6	7	0		3	12	5	1	NTEST
+1	0	0	#	4	1	6	0		5	0	5	0	
+0	1	20	V	4	1	6	1	VERONA	4	1	9	1	VENTILATE
+0	0	0	E	4	1	6	0		0	2	13	0	
+0	0	0	R	4	1	6	0		1	3	4	0	
+0	0	0	O	4	1	6	0		3	4	5	0	
+0	1	21	N	4	1	6	0		4	5	4	1	NALA
+0	0	0	A	4	1	6	0		0	6	13	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	4	0		5	8	5	0	
+0	1	22	S	4	9	4	1	SOFT	0	9	5	0	
+0	0	0	O	4	9	4	0		0	10	13	0	
+0	0	0	F	4	9	4	0		0	11	9	0	
+0	0	0	T	4	9	4	0		3	12	5	0	
+0	1	23	L	5	0	3	1	LED	5	0	5	1	LUISA
+0	0	0	E	5	0	3	0		4	1	9	0	
+0	0	0	D	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	24	S	5	4	5	1	SADIE	3	4	5	0	
+0	0	0	A	5	4	5	0		4	5	4	0	
+0	0	0	D	5	4	5	0		0	6	13	0	
+0	1	25	I	5	4	5	0		5	7	4	1	IANA
+0	1	26	E	5	4	5	0		5	8	5	1	ECASH
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	R	5	10	3	1	RAE	0	10	13	0	
+0	0	0	A	5	10	3	0		0	11	9	0	
+0	0	0	E	5	10	3	0		3	12	5	0	
+0	1	28	U	6	0	3	1	UNH	5	0	5	0	
+0	0	0	N	6	0	3	0		4	1	9	0	
+0	0	0	H	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	29	I	6	4	5	1	ILIAC	3	4	5	0	
+0	0	0	L	6	4	5	0		4	5	4	0	
+0	0	0	I	6	4	5	0		0	6	13	0	
+0	0	0	A	6	4	5	0		5	7	4	0	
+0	0	0	C	6	4	5	0		5	8	5	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	30	C	6	10	3	1	CRS	0	10	13	0	
+0	0	0	R	6	10	3	0		0	11	9	0	
+0	0	0	S	6	10	3	0		3	12	5	0	
+0	1	31	I	7	0	3	1	ITI	5	0	5	0	
+0	0	0	T	7	0	3	0		4	1	9	0	
+0	0	0	I	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	5	0		8	3	5	0	
+0	1	32	N	7	4	5	1	NANNA	3	4	5	0	
+0	0	0	A	7	4	5	0		4	5	4	0	
+0	0	0	N	7	4	5	0		0	6	13	0	
+0	0	0	N	7	4	5	0		5	7	4	0	
+0	0	0	A	7	4	5	0		5	8	5	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	33	H	7	10	3	1	HAT	0	10	13	0	
+0	0	0	A	7	10	3	0		0	11	9	0	
+0	0	0	T	7	10	3	0		3	12	5	0	
+0	1	34	S	8	0	4	1	SILL	5	0	5	0	
+0	0	0	I	8	0	4	0		4	1	9	0	
+0	0	0	L	8	0	4	0		0	2	13	0	
+0	1	35	L	8	0	4	0		8	3	5	1	LURIE
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	6	0		9	5	4	0	
+0	1	36	G	8	6	6	1	GASHES	0	6	13	0	
+0	0	0	A	8	6	6	0		5	7	4	0	
+0	0	0	S	8	6	6	0		5	8	5	0	
+0	1	37	H	8	6	6	0		8	9	4	1	HUBS
+0	0	0	E	8	6	6	0		0	10	13	0	
+0	0	0	S	8	6	6	0		0	11	9	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	38	A	9	0	7	1	ALLURED	5	0	5	0	
+0	0	0	L	9	0	7	0		4	1	9	0	
+0	0	0	L	9	0	7	0		0	2	13	0	
+0	0	0	U	9	0	7	0		8	3	5	0	
+0	1	39	R	9	0	7	0		9	4	3	1	RCT
+0	1	40	E	9	0	7	0		9	5	4	1	ETON
+0	0	0	D	9	0	7	0		0	6	13	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	41	H	9	8	3	1	HUS	5	8	5	0	
+0	0	0	U	9	8	3	0		8	9	4	0	
+0	0	0	S	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	7	0		11	0	0	0	
+0	1	42	A	10	1	7	1	AARCTIC	4	1	9	0	
+0	0	0	A	10	1	7	0		0	2	13	0	
+0	0	0	R	10	1	7	0		8	3	5	0	
+0	0	0	C	10	1	7	0		9	4	3	0	
+0	0	0	T	10	1	7	0		9	5	4	0	
+0	0	0	I	10	1	7	0		0	6	13	0	
+0	1	43	C	10	1	7	0		10	7	3	1	CES
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	44	B	10	9	4	1	BTPS	8	9	4	0	
+0	0	0	T	10	9	4	0		0	10	13	0	
+0	1	45	P	10	9	4	0		10	11	3	1	POR
+0	1	46	S	10	9	4	0		10	12	3	1	SSN
+1	0	0	#	11	1	7	0		12	0	0	0	
+0	1	47	T	11	1	7	1	TRITONE	4	1	9	0	
+0	0	0	R	11	1	7	0		0	2	13	0	
+0	0	0	I	11	1	7	0		8	3	5	0	
+0	0	0	T	11	1	7	0		9	4	3	0	
+0	0	0	O	11	1	7	0		9	5	4	0	
+0	0	0	N	11	1	7	0		0	6	13	0	
+0	0	0	E	11	1	7	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	S	11	9	4	1	SROS	8	9	4	0	
+0	0	0	R	11	9	4	0		0	10	13	0	
+0	0	0	O	11	9	4	0		10	11	3	0	
+0	0	0	S	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	49	E	12	1	3	1	EYE	4	1	9	0	
+0	0	0	Y	12	1	3	0		0	2	13	0	
+0	0	0	E	12	1	3	0		8	3	5	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	50	N	12	5	3	1	NGS	9	5	4	0	
+0	0	0	G	12	5	3	0		0	6	13	0	
+0	0	0	S	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	A	12	10	3	1	ARN	0	10	13	0	
+0	0	0	R	12	10	3	0		10	11	3	0	
+0	0	0	N	12	10	3	0		10	12	3	0	
+31
+1	MID	Prefix with night or day
+4	ORL	Magic on a scoreboard?
+7	UPI	News letters
+10	VAIO	Sony computer brand
+12	NIELSEN	Big name in ratings
+14	ISSY	Paris suburb on the Seine
+15	ANDREAS	Former Greek P.M. Papandreou
+16	SEE	Meet with
+18	GIGATON	Unit of explosive force
+20	VERONA	"The Two Gentlemen of ___"
+22	SOFT	Easily molded
+23	LED	___ Zeppelin
+24	SADIE	"Sexy" lady of Beatles song
+27	RAE	Norma ___, Sally Field Oscar-winning role
+28	UNH	The Wildcats of the America East Conf.
+29	ILIAC	___ artery
+30	CRS	Some accounting entries: Abbr.
+31	ITI	"That's ___ quit!"
+32	NANNA	Norse goddess married to Balder
+33	HAT	Sou'wester, e.g.
+34	SILL	Place for a hot pie to cool
+36	GASHES	Big cuts
+38	ALLURED	Led on
+41	HUS	Czech martyr Jan
+42	AARCTIC	Pole position?
+44	BTPS	Without ___ (unprotected)
+47	TRITONE	Musical interval
+48	SROS	Some low-budget hotels, for short
+49	EYE	Ogle
+50	NGS	Riot-stopping grps.
+51	ARN	Hal Foster comic character
+25
+1	MVI	Year in Ethelred the Unready's reign
+2	IAS	"___ in ice"
+3	DISSEDHILLARY	What the First Lady's critics did over a bottle of bathtub gin?
+4	ONA	___ diet
+5	RINGADINGDING	1961 Sinatra album
+6	LEDI	Ushered / Showed the door
+7	USEAS	"___ directed"
+8	PEATORCHESTRA	Musicians at a marsh?
+9	INSOFARAS	To the degree that
+11	OYER	Hearing in open court
+13	LRG	Big: Abbr.
+17	EOSIN	Red stain in a lab
+19	NTEST	Event outlawed by intl. treaty
+20	VENTILATE	Open the windows in
+21	NALA	"The Lion King" queen
+23	LUISA	Soprano Tetrazzini
+25	IANA	Suffix for a collection
+26	ECASH	What online shoppers may spend
+35	LURIE	Pulitzer-winning novelist Alison
+37	HUBS	Cores
+39	RCT	Sales slip: Abbr.
+40	ETON	Thames school
+43	CES	These: Fr.
+45	POR	___ lo tanto (therefore, in Spain)
+46	SSN	It has two dashes: Abbr.

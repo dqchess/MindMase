@@ -1,0 +1,169 @@
+grid_11x11_70
+11
+0	1	1	B	0	0	3	1	BBH	0	0	3	1	BEY
+0	1	2	B	0	0	3	0		0	1	11	1	BAERSCLAUSE
+0	1	3	H	0	0	3	0		0	2	11	1	HUSHPUPPIES
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GSS	0	4	3	1	GEO
+0	1	5	S	0	4	3	0		0	5	3	1	STU
+0	1	6	S	0	4	3	0		0	6	3	1	SAR
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	F	0	8	3	1	FDR	0	8	11	1	FILLSPECTER
+0	1	8	D	0	8	3	0		0	9	11	1	DANIELSTERN
+0	1	9	R	0	8	3	0		0	10	6	1	RECOPY
+0	1	10	E	1	0	3	1	EAU	0	0	3	0	
+0	0	0	A	1	0	3	0		0	1	11	0	
+0	0	0	U	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	11	E	1	4	7	1	ETALIAE	0	4	3	0	
+0	0	0	T	1	4	7	0		0	5	3	0	
+0	0	0	A	1	4	7	0		0	6	3	0	
+0	1	12	L	1	4	7	0		1	7	3	1	LXO
+0	0	0	I	1	4	7	0		0	8	11	0	
+0	0	0	A	1	4	7	0		0	9	11	0	
+0	0	0	E	1	4	7	0		0	10	6	0	
+0	1	13	Y	2	0	11	1	YESYOURXLNC	0	0	3	0	
+0	0	0	E	2	0	11	0		0	1	11	0	
+0	0	0	S	2	0	11	0		0	2	11	0	
+0	1	14	Y	2	0	11	0		2	3	3	1	YEA
+0	0	0	O	2	0	11	0		0	4	3	0	
+0	0	0	U	2	0	11	0		0	5	3	0	
+0	0	0	R	2	0	11	0		0	6	3	0	
+0	0	0	X	2	0	11	0		1	7	3	0	
+0	0	0	L	2	0	11	0		0	8	11	0	
+0	0	0	N	2	0	11	0		0	9	11	0	
+0	0	0	C	2	0	11	0		0	10	6	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	15	R	3	1	3	1	RHE	0	1	11	0	
+0	0	0	H	3	1	3	0		0	2	11	0	
+0	0	0	E	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	3	0	
+0	1	16	O	3	7	4	1	OLIO	1	7	3	0	
+0	0	0	L	3	7	4	0		0	8	11	0	
+0	0	0	I	3	7	4	0		0	9	11	0	
+0	0	0	O	3	7	4	0		0	10	6	0	
+1	0	0	#	4	1	6	0		5	0	6	0	
+0	1	17	S	4	1	6	1	SPACED	0	1	11	0	
+0	0	0	P	4	1	6	0		0	2	11	0	
+0	0	0	A	4	1	6	0		2	3	3	0	
+0	1	18	C	4	1	6	0		4	4	3	1	CWM
+0	1	19	E	4	1	6	0		4	5	3	1	ETO
+0	1	20	D	4	1	6	0		4	6	3	1	DSO
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	21	S	4	8	3	1	SEP	0	8	11	0	
+0	0	0	E	4	8	3	0		0	9	11	0	
+0	0	0	P	4	8	3	0		0	10	6	0	
+0	1	22	T	5	0	3	1	TCU	5	0	6	1	TAGSUP
+0	0	0	C	5	0	3	0		0	1	11	0	
+0	0	0	U	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	23	W	5	4	3	1	WTS	4	4	3	0	
+0	0	0	T	5	4	3	0		4	5	3	0	
+0	0	0	S	5	4	3	0		4	6	3	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	24	P	5	8	3	1	PLY	0	8	11	0	
+0	0	0	L	5	8	3	0		0	9	11	0	
+0	0	0	Y	5	8	3	0		0	10	6	0	
+0	1	25	A	6	0	3	1	ALP	5	0	6	0	
+0	0	0	L	6	0	3	0		0	1	11	0	
+0	0	0	P	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	6	0		7	3	3	0	
+0	1	26	M	6	4	6	1	MOOSES	4	4	3	0	
+0	0	0	O	6	4	6	0		4	5	3	0	
+0	0	0	O	6	4	6	0		4	6	3	0	
+0	1	27	S	6	4	6	0		6	7	3	1	SOA
+0	0	0	E	6	4	6	0		0	8	11	0	
+0	0	0	S	6	4	6	0		0	9	11	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	28	G	7	0	4	1	GAPE	5	0	6	0	
+0	0	0	A	7	0	4	0		0	1	11	0	
+0	0	0	P	7	0	4	0		0	2	11	0	
+0	1	29	E	7	0	4	0		7	3	3	1	ETD
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	30	O	7	7	3	1	OCT	6	7	3	0	
+0	0	0	C	7	7	3	0		0	8	11	0	
+0	0	0	T	7	7	3	0		0	9	11	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	S	8	0	11	1	SUITSTOATEE	5	0	6	0	
+0	0	0	U	8	0	11	0		0	1	11	0	
+0	0	0	I	8	0	11	0		0	2	11	0	
+0	0	0	T	8	0	11	0		7	3	3	0	
+0	1	32	S	8	0	11	0		8	4	3	1	SPI
+0	1	33	T	8	0	11	0		8	5	3	1	TOL
+0	1	34	O	8	0	11	0		8	6	3	1	OTS
+0	0	0	A	8	0	11	0		6	7	3	0	
+0	0	0	T	8	0	11	0		0	8	11	0	
+0	0	0	E	8	0	11	0		0	9	11	0	
+0	1	35	E	8	0	11	0		8	10	3	1	EIS
+0	1	36	U	9	0	7	1	USEDPOT	5	0	6	0	
+0	0	0	S	9	0	7	0		0	1	11	0	
+0	0	0	E	9	0	7	0		0	2	11	0	
+0	0	0	D	9	0	7	0		7	3	3	0	
+0	0	0	P	9	0	7	0		8	4	3	0	
+0	0	0	O	9	0	7	0		8	5	3	0	
+0	0	0	T	9	0	7	0		8	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	37	E	9	8	3	1	ERI	0	8	11	0	
+0	0	0	R	9	8	3	0		0	9	11	0	
+0	0	0	I	9	8	3	0		8	10	3	0	
+0	1	38	P	10	0	3	1	PES	5	0	6	0	
+0	0	0	E	10	0	3	0		0	1	11	0	
+0	0	0	S	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	39	I	10	4	3	1	ILS	8	4	3	0	
+0	0	0	L	10	4	3	0		8	5	3	0	
+0	0	0	S	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	40	R	10	8	3	1	RNS	0	8	11	0	
+0	0	0	N	10	8	3	0		0	9	11	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+23
+1	BBH	Picnic pest
+4	GSS	Snare
+7	FDR	New Deal pres.
+10	EAU	___ de cologne
+11	ETALIAE	And other women: Lat.
+13	YESYOURXLNC	"Absolutely, ambassador"
+15	RHE	Baseball summary inits.
+16	OLIO	Hash
+17	SPACED	Loopy
+21	SEP	National Chicken Mo.
+22	TCU	The Horned Frogs, initially
+23	WTS	Lb. and kg.
+24	PLY	Thickness
+25	ALP	2006 Winter Olympics backdrop
+26	MOOSES	Yellowstone animals, facetiously
+28	GAPE	Open wide
+30	OCT	Beer festival mo.
+31	SUITSTOATEE	Fits perfectly
+36	USEDPOT	Experimented with drugs, say
+37	ERI	"___ tu che macchiavi quell'anima"
+38	PES	Latin foot
+39	ILS	They, to Th
+40	RNS	IV givers
+21
+1	BEY	Old Turkish title
+2	BAERSCLAUSE	Contract term for a 1930's heavyweight champ?
+3	HUSHPUPPIES	Cornmeal cakes, in the South
+4	GEO	General Motors division
+5	STU	1950's-70's senator Symington, for short
+6	SAR	Mediterranean isl.
+7	FILLSPECTER	Satiate a ghost?
+8	DANIELSTERN	"Diner" actor
+9	RECOPY	Back up again, as a disk
+12	LXO	Tubby
+14	YEA	Vote in a legislative body
+18	CWM	Welsh valley
+19	ETO	Ike's command in W.W. II
+20	DSO	British mil. decoration
+22	TAGSUP	Returns to base
+27	SOA	"___ man walks into a bar ..."
+29	ETD	Sched. approximation
+32	SPI	Slant
+33	TOL	"My Mama Done ___ Me"
+34	OTS	Tiebreakers, briefly
+35	EIS	___ for elephant

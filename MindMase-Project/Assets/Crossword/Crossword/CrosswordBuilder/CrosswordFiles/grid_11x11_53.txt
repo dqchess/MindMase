@@ -1,0 +1,167 @@
+grid_11x11_53
+11
+0	1	1	D	0	0	3	1	DBA	0	0	3	1	DRK
+0	1	2	B	0	0	3	0		0	1	3	1	BAI
+0	1	3	A	0	0	3	0		0	2	3	1	ANN
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	C	0	6	3	1	CDT	0	6	6	1	CROWDS
+0	1	5	D	0	6	3	0		0	7	5	1	DAFOE
+0	1	6	T	0	6	3	0		0	8	7	1	TFORTWO
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	R	1	0	5	1	RANIN	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	3	0	
+0	0	0	N	1	0	5	0		0	2	3	0	
+0	1	8	I	1	0	5	0		1	3	4	1	IDNO
+0	1	9	N	1	0	5	0		1	4	3	1	NAE
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	10	R	1	6	4	1	RAFT	0	6	6	0	
+0	0	0	A	1	6	4	0		0	7	5	0	
+0	0	0	F	1	6	4	0		0	8	7	0	
+0	1	11	T	1	6	4	0		1	9	6	1	TUTTED
+1	0	0	#	1	11	0	0		2	10	4	0	
+0	1	12	K	2	0	5	1	KINDA	0	0	3	0	
+0	0	0	I	2	0	5	0		0	1	3	0	
+0	0	0	N	2	0	5	0		0	2	3	0	
+0	0	0	D	2	0	5	0		1	3	4	0	
+0	0	0	A	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	13	O	2	6	5	1	OFOUR	0	6	6	0	
+0	0	0	F	2	6	5	0		0	7	5	0	
+0	0	0	O	2	6	5	0		0	8	7	0	
+0	0	0	U	2	6	5	0		1	9	6	0	
+0	1	14	R	2	6	5	0		2	10	4	1	RHET
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	6	0	
+1	0	0	#	3	3	8	0		4	2	7	0	
+0	1	15	N	3	3	8	1	NETWORTH	1	3	4	0	
+0	0	0	E	3	3	8	0		1	4	3	0	
+0	1	16	T	3	3	8	0		3	5	5	1	TONED
+0	0	0	W	3	3	8	0		0	6	6	0	
+0	0	0	O	3	3	8	0		0	7	5	0	
+0	0	0	R	3	3	8	0		0	8	7	0	
+0	0	0	T	3	3	8	0		1	9	6	0	
+0	0	0	H	3	3	8	0		2	10	4	0	
+1	0	0	#	4	1	3	0		5	0	4	0	
+0	1	17	B	4	1	3	1	BLO	4	1	6	1	BUMRAP
+0	1	18	L	4	1	3	0		4	2	7	1	LIBERAL
+0	0	0	O	4	1	3	0		1	3	4	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	19	O	4	5	6	1	ODETTE	3	5	5	0	
+0	0	0	D	4	5	6	0		0	6	6	0	
+0	0	0	E	4	5	6	0		0	7	5	0	
+0	0	0	T	4	5	6	0		0	8	7	0	
+0	0	0	T	4	5	6	0		1	9	6	0	
+0	0	0	E	4	5	6	0		2	10	4	0	
+0	1	20	S	5	0	3	1	SUI	5	0	4	1	SIPE
+0	0	0	U	5	0	3	0		4	1	6	0	
+0	0	0	I	5	0	3	0		4	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	21	A	5	4	3	1	ANS	5	4	6	1	ABIDED
+0	0	0	N	5	4	3	0		3	5	5	0	
+0	0	0	S	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	22	W	5	8	3	1	WET	0	8	7	0	
+0	0	0	E	5	8	3	0		1	9	6	0	
+0	0	0	T	5	8	3	0		2	10	4	0	
+0	1	23	I	6	0	6	1	IMBIBE	5	0	4	0	
+0	0	0	M	6	0	6	0		4	1	6	0	
+0	0	0	B	6	0	6	0		4	2	7	0	
+0	1	24	I	6	0	6	0		6	3	5	1	ISERE
+0	0	0	B	6	0	6	0		5	4	6	0	
+0	0	0	E	6	0	6	0		3	5	5	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	25	L	6	7	3	1	LOD	6	7	4	1	LAVA
+0	0	0	O	6	7	3	0		0	8	7	0	
+0	0	0	D	6	7	3	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	P	7	0	8	1	PRESIDIA	5	0	4	0	
+0	0	0	R	7	0	8	0		4	1	6	0	
+0	0	0	E	7	0	8	0		4	2	7	0	
+0	0	0	S	7	0	8	0		6	3	5	0	
+0	0	0	I	7	0	8	0		5	4	6	0	
+0	0	0	D	7	0	8	0		3	5	5	0	
+0	1	27	I	7	0	8	0		7	6	3	1	ILA
+0	0	0	A	7	0	8	0		6	7	4	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	E	8	0	5	1	EARED	5	0	4	0	
+0	0	0	A	8	0	5	0		4	1	6	0	
+0	0	0	R	8	0	5	0		4	2	7	0	
+0	0	0	E	8	0	5	0		6	3	5	0	
+0	0	0	D	8	0	5	0		5	4	6	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	29	L	8	6	5	1	LVIPG	7	6	3	0	
+0	0	0	V	8	6	5	0		6	7	4	0	
+0	1	30	I	8	6	5	0		8	8	3	1	IMA
+0	1	31	P	8	6	5	0		8	9	3	1	PEP
+0	1	32	G	8	6	5	0		8	10	3	1	GST
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	33	P	9	1	4	1	PARE	4	1	6	0	
+0	0	0	A	9	1	4	0		4	2	7	0	
+0	0	0	R	9	1	4	0		6	3	5	0	
+0	0	0	E	9	1	4	0		5	4	6	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	34	A	9	6	5	1	AAMES	7	6	3	0	
+0	0	0	A	9	6	5	0		6	7	4	0	
+0	0	0	M	9	6	5	0		8	8	3	0	
+0	0	0	E	9	6	5	0		8	9	3	0	
+0	0	0	S	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	L	10	2	3	1	LED	4	2	7	0	
+0	0	0	E	10	2	3	0		6	3	5	0	
+0	0	0	D	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	A	10	8	3	1	APT	8	8	3	0	
+0	0	0	P	10	8	3	0		8	9	3	0	
+0	0	0	T	10	8	3	0		8	10	3	0	
+21
+1	DBA	Corp. alias abbr.
+4	CDT	Chi. summer setting
+7	RANIN	Took to the station house
+10	RAFT	Vessel that's poled
+12	KINDA	Word akin to "-ish"
+13	OFOUR	In the year ___ Lord ...
+15	NETWORTH	Financial statement figure
+17	BLO	Slo-___ fuse
+19	ODETTE	Prince Siegfried's love, in ballet
+20	SUI	___ juris (legal phrase)
+21	ANS	"T" or "F": Abbr.
+22	WET	Showery
+23	IMBIBE	Tipple
+25	LOD	City in central Israel
+26	PRESIDIA	Soviet committees
+28	EARED	Word after dog or jug
+29	LVIPG	Eye-related
+33	PARE	Lessen, with "down"
+34	AAMES	"Charles in Charge" co-star
+35	LED	Headed up
+36	APT	Germane
+21
+1	DRK	Nickname for Dwight Gooden
+2	BAI	Actress ___ Ling of "Sky Captain and the World of Tomorrow"
+3	ANN	Gloucester's cape
+4	CROWDS	What ochlophobists fear
+5	DAFOE	Willem of "Platoon"
+6	TFORTWO	"Double letter score" refrain (1925)
+8	IDNO	Fig. on a driver's license
+9	NAE	Bonny lass's reply, maybe
+11	TUTTED	Expressed one's disapproval
+14	RHET	Orator's skill: Abbr.
+16	TONED	Tempered, with "down"
+17	BUMRAP	Unjustified accusation
+18	LIBERAL	Bounteous
+20	SIPE	1980 N.F.L. M.V.P. Brian
+21	ABIDED	Remained
+24	ISERE	Where Grenoble is
+25	LAVA	Obsidian, once
+27	ILA	Dockworker's org.
+30	IMA	"Well, ___ monkey's uncle!"
+31	PEP	Animation
+32	GST	Standard setting at 0 degrees long.

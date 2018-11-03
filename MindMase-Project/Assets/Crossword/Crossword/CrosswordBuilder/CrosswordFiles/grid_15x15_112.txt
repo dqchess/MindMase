@@ -1,0 +1,307 @@
+grid_15x15_112
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	U	0	1	3	1	URL	0	1	9	1	UASEAXPYF
+0	1	2	R	0	1	3	0		0	2	15	1	RHYMELESSPOETRY
+0	1	3	L	0	1	3	0		0	3	3	1	LEO
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	M	0	6	3	1	MKT	0	6	4	1	MEIR
+0	1	5	K	0	6	3	0		0	7	15	1	KKKKKKKKKKRACES
+0	1	6	T	0	6	3	0		0	8	5	1	TOEIN
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	F	0	12	3	1	FHS	0	12	15	1	FILIPTHEPHOURTH
+0	1	8	H	0	12	3	0		0	13	5	1	HADNO
+0	1	9	S	0	12	3	0		0	14	4	1	STRK
+0	1	10	T	1	0	4	1	TAHE	1	0	3	1	TAH
+0	0	0	A	1	0	4	0		0	1	9	0	
+0	0	0	H	1	0	4	0		0	2	15	0	
+0	0	0	E	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	6	0		2	4	3	0	
+0	1	11	P	1	5	6	1	PEKOES	1	5	3	1	PLA
+0	0	0	E	1	5	6	0		0	6	4	0	
+0	0	0	K	1	5	6	0		0	7	15	0	
+0	0	0	O	1	5	6	0		0	8	5	0	
+0	1	12	E	1	5	6	0		1	9	4	1	EINE
+0	1	13	S	1	5	6	0		1	10	3	1	STG
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	14	I	1	12	3	1	IAT	0	12	15	0	
+0	0	0	A	1	12	3	0		0	13	5	0	
+0	0	0	T	1	12	3	0		0	14	4	0	
+0	1	15	A	2	0	11	1	ASYOULIKEIT	1	0	3	0	
+0	0	0	S	2	0	11	0		0	1	9	0	
+0	0	0	Y	2	0	11	0		0	2	15	0	
+0	0	0	O	2	0	11	0		0	3	3	0	
+0	1	16	U	2	0	11	0		2	4	3	1	UPN
+0	0	0	L	2	0	11	0		1	5	3	0	
+0	0	0	I	2	0	11	0		0	6	4	0	
+0	0	0	K	2	0	11	0		0	7	15	0	
+0	0	0	E	2	0	11	0		0	8	5	0	
+0	0	0	I	2	0	11	0		1	9	4	0	
+0	0	0	T	2	0	11	0		1	10	3	0	
+1	0	0	#	2	12	3	0		3	11	4	0	
+0	1	17	L	2	12	3	1	LDR	0	12	15	0	
+0	0	0	D	2	12	3	0		0	13	5	0	
+0	0	0	R	2	12	3	0		0	14	4	0	
+0	1	18	H	3	0	3	1	HEM	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	9	0	
+0	0	0	M	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	11	0		4	3	3	0	
+0	1	19	P	3	4	11	1	PARKINGFINK	2	4	3	0	
+0	0	0	A	3	4	11	0		1	5	3	0	
+0	0	0	R	3	4	11	0		0	6	4	0	
+0	0	0	K	3	4	11	0		0	7	15	0	
+0	0	0	I	3	4	11	0		0	8	5	0	
+0	0	0	N	3	4	11	0		1	9	4	0	
+0	0	0	G	3	4	11	0		1	10	3	0	
+0	1	20	F	3	4	11	0		3	11	4	1	FAVA
+0	0	0	I	3	4	11	0		0	12	15	0	
+0	0	0	N	3	4	11	0		0	13	5	0	
+0	0	0	K	3	4	11	0		0	14	4	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	21	A	4	1	4	1	AEAN	0	1	9	0	
+0	0	0	E	4	1	4	0		0	2	15	0	
+0	1	22	A	4	1	4	0		4	3	3	1	AEC
+0	0	0	N	4	1	4	0		2	4	3	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	3	0		5	6	4	0	
+0	1	23	K	4	7	3	1	KNE	0	7	15	0	
+0	0	0	N	4	7	3	0		0	8	5	0	
+0	0	0	E	4	7	3	0		1	9	4	0	
+1	0	0	#	4	11	3	0		5	10	3	0	
+0	1	24	A	4	11	3	1	APO	3	11	4	0	
+0	0	0	P	4	11	3	0		0	12	15	0	
+0	0	0	O	4	11	3	0		0	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	25	A	5	0	4	1	AXLE	5	0	3	1	ASC
+0	0	0	X	5	0	4	0		0	1	9	0	
+0	0	0	L	5	0	4	0		0	2	15	0	
+0	0	0	E	5	0	4	0		4	3	3	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	26	A	5	5	3	1	AIK	5	5	3	1	AIN
+0	1	27	I	5	5	3	0		5	6	4	1	ILAW
+0	0	0	K	5	5	3	0		0	7	15	0	
+1	0	0	#	5	9	0	0		6	8	4	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	28	P	5	10	3	1	PVT	5	10	3	1	PBS
+0	0	0	V	5	10	3	0		3	11	4	0	
+0	0	0	T	5	10	3	0		0	12	15	0	
+1	0	0	#	5	14	0	0		6	13	9	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	29	S	6	0	4	1	SPEC	5	0	3	0	
+0	0	0	P	6	0	4	0		0	1	9	0	
+0	0	0	E	6	0	4	0		0	2	15	0	
+0	0	0	C	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	4	0		7	4	3	0	
+0	1	30	I	6	5	4	1	ILKS	5	5	3	0	
+0	0	0	L	6	5	4	0		5	6	4	0	
+0	0	0	K	6	5	4	0		0	7	15	0	
+0	1	31	S	6	5	4	0		6	8	4	1	SERE
+1	0	0	#	6	10	4	0		7	9	3	0	
+0	1	32	B	6	10	4	1	BAHT	5	10	3	0	
+0	0	0	A	6	10	4	0		3	11	4	0	
+0	0	0	H	6	10	4	0		0	12	15	0	
+0	1	33	T	6	10	4	0		6	13	9	1	THINKFAST
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	34	C	7	0	3	1	CYS	5	0	3	0	
+0	0	0	Y	7	0	3	0		0	1	9	0	
+0	0	0	S	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	4	0	
+0	1	35	S	7	4	7	1	SNAKEIS	7	4	3	1	SKY
+0	0	0	N	7	4	7	0		5	5	3	0	
+0	0	0	A	7	4	7	0		5	6	4	0	
+0	0	0	K	7	4	7	0		0	7	15	0	
+0	0	0	E	7	4	7	0		6	8	4	0	
+0	1	36	I	7	4	7	0		7	9	3	1	IPS
+0	0	0	S	7	4	7	0		5	10	3	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	37	E	7	12	3	1	EHS	0	12	15	0	
+0	0	0	H	7	12	3	0		6	13	9	0	
+0	1	38	S	7	12	3	0		7	14	3	1	SNE
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	39	F	8	1	4	1	FSZK	0	1	9	0	
+0	0	0	S	8	1	4	0		0	2	15	0	
+0	1	40	Z	8	1	4	0		8	3	4	1	ZAGS
+0	0	0	K	8	1	4	0		7	4	3	0	
+1	0	0	#	8	6	4	0		9	5	0	0	
+0	1	41	W	8	6	4	1	WKRP	5	6	4	0	
+0	0	0	K	8	6	4	0		0	7	15	0	
+0	0	0	R	8	6	4	0		6	8	4	0	
+0	0	0	P	8	6	4	0		7	9	3	0	
+1	0	0	#	8	11	4	0		9	10	0	0	
+0	1	42	S	8	11	4	1	SPIN	8	11	3	1	SOR
+0	0	0	P	8	11	4	0		0	12	15	0	
+0	0	0	I	8	11	4	0		6	13	9	0	
+0	0	0	N	8	11	4	0		7	14	3	0	
+1	0	0	#	9	1	0	0		10	0	0	0	
+1	0	0	#	9	2	3	0		10	1	5	0	
+0	1	43	P	9	2	3	1	PAY	0	2	15	0	
+0	0	0	A	9	2	3	0		8	3	4	0	
+0	0	0	Y	9	2	3	0		7	4	3	0	
+1	0	0	#	9	6	0	0		10	5	4	0	
+1	0	0	#	9	7	3	0		10	6	5	0	
+0	1	44	K	9	7	3	1	KES	0	7	15	0	
+0	0	0	E	9	7	3	0		6	8	4	0	
+0	0	0	S	9	7	3	0		7	9	3	0	
+1	0	0	#	9	11	4	0		10	10	3	0	
+0	1	45	O	9	11	4	1	OHNE	8	11	3	0	
+0	0	0	H	9	11	4	0		0	12	15	0	
+0	0	0	N	9	11	4	0		6	13	9	0	
+0	0	0	E	9	11	4	0		7	14	3	0	
+1	0	0	#	10	1	3	0		11	0	4	0	
+0	1	46	H	10	1	3	1	HOG	10	1	5	1	HAILE
+0	0	0	O	10	1	3	0		0	2	15	0	
+0	0	0	G	10	1	3	0		8	3	4	0	
+1	0	0	#	10	5	3	0		11	4	3	0	
+0	1	47	A	10	5	3	1	APR	10	5	4	1	ARPS
+0	1	48	P	10	5	3	0		10	6	5	1	PSATS
+0	0	0	R	10	5	3	0		0	7	15	0	
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	4	0		11	9	3	0	
+0	1	49	G	10	10	4	1	GROK	10	10	3	1	GDP
+0	0	0	R	10	10	4	0		8	11	3	0	
+0	0	0	O	10	10	4	0		0	12	15	0	
+0	0	0	K	10	10	4	0		6	13	9	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+0	1	50	C	11	0	11	1	CAESARSALAD	11	0	4	1	CASK
+0	0	0	A	11	0	11	0		10	1	5	0	
+0	0	0	E	11	0	11	0		0	2	15	0	
+0	0	0	S	11	0	11	0		8	3	4	0	
+0	1	51	A	11	0	11	0		11	4	3	1	ASO
+0	0	0	R	11	0	11	0		10	5	4	0	
+0	0	0	S	11	0	11	0		10	6	5	0	
+0	0	0	A	11	0	11	0		0	7	15	0	
+0	1	52	L	11	0	11	0		11	8	4	1	LEAH
+0	1	53	A	11	0	11	0		11	9	3	1	AOL
+0	0	0	D	11	0	11	0		10	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	54	U	11	12	3	1	UFO	0	12	15	0	
+0	0	0	F	11	12	3	0		6	13	9	0	
+0	1	55	O	11	12	3	0		11	14	3	1	OST
+0	1	56	A	12	0	3	1	AIT	11	0	4	0	
+0	0	0	I	12	0	3	0		10	1	5	0	
+0	0	0	T	12	0	3	0		0	2	15	0	
+1	0	0	#	12	4	11	0		13	3	0	0	
+0	1	57	S	12	4	11	1	SPACEOPERAS	11	4	3	0	
+0	0	0	P	12	4	11	0		10	5	4	0	
+0	0	0	A	12	4	11	0		10	6	5	0	
+0	0	0	C	12	4	11	0		0	7	15	0	
+0	0	0	E	12	4	11	0		11	8	4	0	
+0	0	0	O	12	4	11	0		11	9	3	0	
+0	0	0	P	12	4	11	0		10	10	3	0	
+0	1	58	E	12	4	11	0		12	11	3	1	EMB
+0	0	0	R	12	4	11	0		0	12	15	0	
+0	0	0	A	12	4	11	0		6	13	9	0	
+0	0	0	S	12	4	11	0		11	14	3	0	
+0	1	59	S	13	0	3	1	SLR	11	0	4	0	
+0	0	0	L	13	0	3	0		10	1	5	0	
+0	0	0	R	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	6	0		14	3	0	0	
+0	1	60	O	13	4	6	1	OSTEAL	11	4	3	0	
+0	0	0	S	13	4	6	0		10	5	4	0	
+0	0	0	T	13	4	6	0		10	6	5	0	
+0	0	0	E	13	4	6	0		0	7	15	0	
+0	0	0	A	13	4	6	0		11	8	4	0	
+0	0	0	L	13	4	6	0		11	9	3	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	61	M	13	11	4	1	MTST	12	11	3	0	
+0	0	0	T	13	11	4	0		0	12	15	0	
+0	0	0	S	13	11	4	0		6	13	9	0	
+0	0	0	T	13	11	4	0		11	14	3	0	
+0	1	62	K	14	0	3	1	KEY	11	0	4	0	
+0	0	0	E	14	0	3	0		10	1	5	0	
+0	0	0	Y	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	63	S	14	6	3	1	SSH	10	6	5	0	
+0	0	0	S	14	6	3	0		0	7	15	0	
+0	0	0	H	14	6	3	0		11	8	4	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	64	B	14	11	3	1	BHT	12	11	3	0	
+0	0	0	H	14	11	3	0		0	12	15	0	
+0	0	0	T	14	11	3	0		6	13	9	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	URL	Address starting http://
+4	MKT	Nasdaq, e.g.: Abbr.
+7	FHS	Violin cutouts
+10	TAHE	Chevrolet model
+11	PEKOES	Sri Lanka exports
+14	IAT	"Am ___ risk?"
+15	ASYOULIKEIT	Shakespearean play with the clown Touchstone
+17	LDR	P.M. or pres.
+18	HEM	Pants part
+19	PARKINGFINK	One illegally using a handicapped space?
+21	AEAN	Like llamas
+23	KNE	Show obeisance
+24	APO	How to address a lt. col.?
+25	AXLE	It may spin its wheels
+26	AIK	Rio producer
+28	PVT	Ryan was one: Abbr.
+29	SPEC	A writer may work on it
+30	ILKS	Types
+32	BAHT	Bangkok currency
+34	CYS	Songwriter Coleman et al.
+35	SNAKEIS	Two, in a way
+37	EHS	Signals to speak up
+39	FSZK	"I can't believe it!": 2 wds.
+41	WKRP	Dr. Johnny Fever's station, in 1970s-'80s TV
+42	SPIN	Showcase lead-in on "The Price Is Right"
+43	PAY	Yield, as a dividend
+44	KES	Evelyn who played Scarlett's sister
+45	OHNE	"Die Frau ___ Schatten" (Strauss opera)
+46	HOG	Grab most of
+47	APR	Car loan fig.
+49	GROK	Understand, slangily
+50	CAESARSALAD	... the waitress tried to ___
+54	UFO	Aerial anomaly, for short
+56	AIT	Land in a stream
+57	SPACEOPERAS	"Battlestar Galactica" and "Dune," e.g.
+59	SLR	Camera type: Abbr.
+60	OSTEAL	Bony
+61	MTST	___ Mary's (L.A. college)
+62	KEY	Integral
+63	SSH	Library sound: Var.
+64	BHT	All-natural food no-no
+37
+1	UASEAXPYF	Self-employed, as a writer
+2	RHYMELESSPOETRY	___ verse
+3	LEO	Name of 13 popes
+4	MEIR	Rabin's predecessor
+5	KKKKKKKKKKRACES	Some running competitions
+6	TOEIN	Front-wheel alignment
+7	FILIPTHEPHOURTH	King called "le Bel"
+8	HADNO	"I ___ idea!"
+9	STRK	Chimney-top nester
+10	TAH	Panama, e.g.
+11	PLA	Mao's group: Abbr.
+12	EINE	A as in Aachen
+13	STG	Brit. money
+16	UPN	The WB rival
+20	FAVA	Kind of bean
+22	AEC	Truman's nuclear agcy.
+25	ASC	Camera operator's org.
+26	AIN	Department of eastern France
+27	ILAW	Many a holiday visitor / Bandit
+28	PBS	"Nova" network
+31	SERE	Like the Gobi
+33	THINKFAST	Dieter's credo?
+35	SKY	What's up?
+36	IPS	Velocity meas.
+38	SNE	1983 Indy winner Tom
+40	ZAGS	Turns the other way
+42	SOR	Frat. counterpart
+46	HAILE	Ethiopia's ___ Selassie
+47	ARPS	Some Dada works
+48	PSATS	Jr. year events
+49	GDP	It excludes income on foreign investments: Abbr.
+50	CASK	Vintner's container
+51	ASO	Japanese prime minister Taro ___
+52	LEAH	Wife of Jacob
+53	AOL	Yahoo! alternative
+55	OST	German direction
+58	EMB	Attach

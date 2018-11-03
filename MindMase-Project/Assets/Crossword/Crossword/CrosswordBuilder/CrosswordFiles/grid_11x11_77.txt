@@ -1,0 +1,169 @@
+grid_11x11_77
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	B	0	1	3	1	BAJ	0	1	5	1	BROWN
+0	1	2	A	0	1	3	0		0	2	5	1	AAMES
+0	1	3	J	0	1	3	0		0	3	3	1	JTA
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	R	0	7	3	1	RBS	0	7	3	1	ROE
+0	1	5	B	0	7	3	0		0	8	5	1	BORGE
+0	1	6	S	0	7	3	0		0	9	5	1	SOROS
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	G	1	0	6	1	GRATES	1	0	3	1	GTO
+0	0	0	R	1	0	6	0		0	1	5	0	
+0	0	0	A	1	0	6	0		0	2	5	0	
+0	0	0	T	1	0	6	0		0	3	3	0	
+0	1	8	E	1	0	6	0		1	4	3	1	ENA
+0	1	9	S	1	0	6	0		1	5	9	1	SDAYPUNCH
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	10	O	1	7	4	1	OOOH	0	7	3	0	
+0	0	0	O	1	7	4	0		0	8	5	0	
+0	0	0	O	1	7	4	0		0	9	5	0	
+0	1	11	H	1	7	4	0		1	10	3	1	HYP
+0	1	12	T	2	0	11	1	TOMANDJERRY	1	0	3	0	
+0	0	0	O	2	0	11	0		0	1	5	0	
+0	0	0	M	2	0	11	0		0	2	5	0	
+0	0	0	A	2	0	11	0		0	3	3	0	
+0	0	0	N	2	0	11	0		1	4	3	0	
+0	0	0	D	2	0	11	0		1	5	9	0	
+0	1	13	J	2	0	11	0		2	6	4	1	JAPE
+0	0	0	E	2	0	11	0		0	7	3	0	
+0	0	0	R	2	0	11	0		0	8	5	0	
+0	0	0	R	2	0	11	0		0	9	5	0	
+0	0	0	Y	2	0	11	0		1	10	3	0	
+0	1	14	O	3	0	3	1	OWE	1	0	3	0	
+0	0	0	W	3	0	3	0		0	1	5	0	
+0	0	0	E	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	15	A	3	4	3	1	AAA	1	4	3	0	
+0	0	0	A	3	4	3	0		1	5	9	0	
+0	0	0	A	3	4	3	0		2	6	4	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	G	3	8	3	1	GOP	0	8	5	0	
+0	0	0	O	3	8	3	0		0	9	5	0	
+0	0	0	P	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	N	4	1	3	1	NSF	0	1	5	0	
+0	0	0	S	4	1	3	0		0	2	5	0	
+0	1	18	F	4	1	3	0		4	3	3	1	FIG
+1	0	0	#	4	5	5	0		5	4	4	0	
+0	1	19	Y	4	5	5	1	YPRES	1	5	9	0	
+0	0	0	P	4	5	5	0		2	6	4	0	
+0	1	20	R	4	5	5	0		4	7	3	1	RIS
+0	0	0	E	4	5	5	0		0	8	5	0	
+0	0	0	S	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	21	I	5	3	5	1	IMPEI	4	3	3	0	
+0	1	22	M	5	3	5	0		5	4	4	1	MWAH
+0	0	0	P	5	3	5	0		1	5	9	0	
+0	0	0	E	5	3	5	0		2	6	4	0	
+0	0	0	I	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	23	I	6	1	5	1	ILGWU	6	1	5	1	ILIAC
+0	1	24	L	6	1	5	0		6	2	5	1	LOFAT
+0	0	0	G	6	1	5	0		4	3	3	0	
+0	0	0	W	6	1	5	0		5	4	4	0	
+0	0	0	U	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	25	S	6	7	3	1	SVE	4	7	3	0	
+0	1	26	V	6	7	3	0		6	8	5	1	VAULT
+0	1	27	E	6	7	3	0		6	9	5	1	EMMET
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	28	A	7	0	3	1	ALO	7	0	3	1	AFB
+0	0	0	L	7	0	3	0		6	1	5	0	
+0	0	0	O	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	29	A	7	4	3	1	ANS	5	4	4	0	
+0	0	0	N	7	4	3	0		1	5	9	0	
+0	1	30	S	7	4	3	0		7	6	3	1	SOA
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	31	A	7	8	3	1	AMT	6	8	5	0	
+0	0	0	M	7	8	3	0		6	9	5	0	
+0	1	32	T	7	8	3	0		7	10	3	1	TND
+0	1	33	F	8	0	11	1	FIFTHCOLUMN	7	0	3	0	
+0	0	0	I	8	0	11	0		6	1	5	0	
+0	0	0	F	8	0	11	0		6	2	5	0	
+0	1	34	T	8	0	11	0		8	3	3	1	TNN
+0	0	0	H	8	0	11	0		5	4	4	0	
+0	0	0	C	8	0	11	0		1	5	9	0	
+0	0	0	O	8	0	11	0		7	6	3	0	
+0	1	35	L	8	0	11	0		8	7	3	1	LUI
+0	0	0	U	8	0	11	0		6	8	5	0	
+0	0	0	M	8	0	11	0		6	9	5	0	
+0	0	0	N	8	0	11	0		7	10	3	0	
+0	1	36	B	9	0	4	1	BAAN	7	0	3	0	
+0	0	0	A	9	0	4	0		6	1	5	0	
+0	0	0	A	9	0	4	0		6	2	5	0	
+0	0	0	N	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	37	H	9	5	6	1	HAULED	1	5	9	0	
+0	0	0	A	9	5	6	0		7	6	3	0	
+0	0	0	U	9	5	6	0		8	7	3	0	
+0	0	0	L	9	5	6	0		6	8	5	0	
+0	0	0	E	9	5	6	0		6	9	5	0	
+0	0	0	D	9	5	6	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	38	C	10	1	3	1	CTN	6	1	5	0	
+0	0	0	T	10	1	3	0		6	2	5	0	
+0	0	0	N	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	39	I	10	7	3	1	ITT	8	7	3	0	
+0	0	0	T	10	7	3	0		6	8	5	0	
+0	0	0	T	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	BAJ	Native tongue of R&B singer Rihanna
+4	RBS	Gridiron carriers: Abbr.
+7	GRATES	Hardly soothes
+10	OOOH	Repeated interjection in the Rolling Stones' "Miss You"
+12	TOMANDJERRY	Duo first seen in "Puss Gets the Boot," 1940
+14	OWE	Be in the hole
+15	AAA	Org. that gets members reduced motel rates
+16	GOP	Bush people, for short
+17	NSF	Univ. research grantor
+19	YPRES	W.W. I battle site
+21	IMPEI	Louvre pyramid architect
+23	ILGWU	Labor grp. since 1900
+25	SVE	Give nothing to
+28	ALO	Havana greeting
+29	ANS	Years, to Yves
+31	AMT	Tsp. or tbsp.
+33	FIFTHCOLUMN	Subversive group
+36	BAAN	Wayne film "Back to ___"
+37	HAULED	Took (off)
+38	CTN	U.P.S. delivery: Abbr.
+39	ITT	Defense contractor whose stock symbol is the same as its name
+23
+1	BROWN	UPS shade
+2	AAMES	"Charles in Charge" co-star
+3	JTA	Interim rulers
+4	ROE	Name associated with anonymity
+5	BORGE	The Great Dane of entertainment
+6	SOROS	"The Alchemy of Finance" author George
+7	GTO	Sporty Pontiac of years past
+8	ENA	Bygone Spanish queen
+9	SDAYPUNCH	Crushing blow
+11	HYP	Triangle part: Abbr.
+13	JAPE	Joke
+18	FIG	Tiniest amount to care
+20	RIS	Loire laugh
+22	MWAH	[Kiss]
+23	ILIAC	___ artery
+24	LOFAT	Diet
+26	VAULT	Olympics event
+27	EMMET	Irish patriot Robert
+28	AFB	Andrews in Md.
+30	SOA	"___ wise guy, eh?"
+32	TND	February ___ (Groundhog Day)
+34	TNN	Country music network, once
+35	LUI	French men's magazine

@@ -1,0 +1,167 @@
+grid_11x11_67
+11
+0	1	1	L	0	0	3	1	LRG	0	0	3	1	LIS
+0	1	2	R	0	0	3	0		0	1	3	1	RST
+0	1	3	G	0	0	3	0		0	2	10	1	GNOMESKULL
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	G	0	5	3	1	GTI	0	5	3	1	GMC
+0	1	5	T	0	5	3	0		0	6	3	1	TIE
+0	1	6	I	0	5	3	0		0	7	4	1	INNS
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	I	1	0	4	1	ISNT	0	0	3	0	
+0	0	0	S	1	0	4	0		0	1	3	0	
+0	0	0	N	1	0	4	0		0	2	10	0	
+0	1	8	T	1	0	4	0		1	3	4	1	TRUE
+1	0	0	#	1	5	5	0		2	4	4	0	
+0	1	9	M	1	5	5	1	MINSK	0	5	3	0	
+0	0	0	I	1	5	5	0		0	6	3	0	
+0	0	0	N	1	5	5	0		0	7	4	0	
+0	1	10	S	1	5	5	0		1	8	10	1	STEPSISTER
+0	1	11	K	1	5	5	0		1	9	6	1	KENNAN
+1	0	0	#	1	11	0	0		2	10	4	0	
+0	1	12	S	2	0	11	1	STORMCENTER	0	0	3	0	
+0	0	0	T	2	0	11	0		0	1	3	0	
+0	0	0	O	2	0	11	0		0	2	10	0	
+0	0	0	R	2	0	11	0		1	3	4	0	
+0	1	13	M	2	0	11	0		2	4	4	1	MYNA
+0	0	0	C	2	0	11	0		0	5	3	0	
+0	0	0	E	2	0	11	0		0	6	3	0	
+0	0	0	N	2	0	11	0		0	7	4	0	
+0	0	0	T	2	0	11	0		1	8	10	0	
+0	0	0	E	2	0	11	0		1	9	6	0	
+0	1	14	R	2	0	11	0		2	10	4	1	RTEE
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	6	0	
+0	1	15	M	3	2	3	1	MUY	0	2	10	0	
+0	0	0	U	3	2	3	0		1	3	4	0	
+0	0	0	Y	3	2	3	0		2	4	4	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	16	S	3	7	4	1	SENT	0	7	4	0	
+0	0	0	E	3	7	4	0		1	8	10	0	
+0	0	0	N	3	7	4	0		1	9	6	0	
+0	0	0	T	3	7	4	0		2	10	4	0	
+1	0	0	#	4	1	5	0		5	0	4	0	
+0	1	17	T	4	1	5	1	TEENA	4	1	6	1	THELIP
+0	0	0	E	4	1	5	0		0	2	10	0	
+0	0	0	E	4	1	5	0		1	3	4	0	
+0	0	0	N	4	1	5	0		2	4	4	0	
+0	1	18	A	4	1	5	0		4	5	3	1	ALE
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	P	4	8	3	1	PNE	1	8	10	0	
+0	0	0	N	4	8	3	0		1	9	6	0	
+0	0	0	E	4	8	3	0		2	10	4	0	
+0	1	20	S	5	0	3	1	SHS	5	0	4	1	SLED
+0	0	0	H	5	0	3	0		4	1	6	0	
+0	0	0	S	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	A	5	4	3	1	ALT	2	4	4	0	
+0	0	0	L	5	4	3	0		4	5	3	0	
+0	1	22	T	5	4	3	0		5	6	4	1	TOVA
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	23	S	5	8	3	1	SAE	1	8	10	0	
+0	0	0	A	5	8	3	0		1	9	6	0	
+0	0	0	E	5	8	3	0		2	10	4	0	
+0	1	24	L	6	0	3	1	LEK	5	0	4	0	
+0	0	0	E	6	0	3	0		4	1	6	0	
+0	0	0	K	6	0	3	0		0	2	10	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	25	E	6	5	5	1	EOSIN	4	5	3	0	
+0	0	0	O	6	5	5	0		5	6	4	0	
+0	1	26	S	6	5	5	0		6	7	4	1	SANO
+0	0	0	I	6	5	5	0		1	8	10	0	
+0	0	0	N	6	5	5	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	E	7	0	4	1	ELUL	5	0	4	0	
+0	0	0	L	7	0	4	0		4	1	6	0	
+0	0	0	U	7	0	4	0		0	2	10	0	
+0	1	28	L	7	0	4	0		7	3	4	1	LEIA
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	29	V	7	6	3	1	VAS	5	6	4	0	
+0	0	0	A	7	6	3	0		6	7	4	0	
+0	0	0	S	7	6	3	0		1	8	10	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	30	D	8	0	11	1	DILETTANTES	5	0	4	0	
+0	0	0	I	8	0	11	0		4	1	6	0	
+0	0	0	L	8	0	11	0		0	2	10	0	
+0	0	0	E	8	0	11	0		7	3	4	0	
+0	1	31	T	8	0	11	0		8	4	3	1	TEM
+0	1	32	T	8	0	11	0		8	5	3	1	TRS
+0	0	0	A	8	0	11	0		5	6	4	0	
+0	0	0	N	8	0	11	0		6	7	4	0	
+0	0	0	T	8	0	11	0		1	8	10	0	
+0	1	33	E	8	0	11	0		8	9	3	1	EIK
+0	1	34	S	8	0	11	0		8	10	3	1	SLO
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	35	P	9	1	5	1	PLIER	4	1	6	0	
+0	0	0	L	9	1	5	0		0	2	10	0	
+0	0	0	I	9	1	5	0		7	3	4	0	
+0	0	0	E	9	1	5	0		8	4	3	0	
+0	0	0	R	9	1	5	0		8	5	3	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	36	O	9	7	4	1	OEIL	6	7	4	0	
+0	0	0	E	9	7	4	0		1	8	10	0	
+0	0	0	I	9	7	4	0		8	9	3	0	
+0	0	0	L	9	7	4	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	37	A	10	3	3	1	AMS	7	3	4	0	
+0	0	0	M	10	3	3	0		8	4	3	0	
+0	0	0	S	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	38	R	10	8	3	1	RKO	1	8	10	0	
+0	0	0	K	10	8	3	0		8	9	3	0	
+0	0	0	O	10	8	3	0		8	10	3	0	
+21
+1	LRG	Big: Abbr.
+4	GTI	Popular Volkswagen model
+7	ISNT	"___ it rich?"
+9	MINSK	European capital
+12	STORMCENTER	Low pressure area
+15	MUY	Venezuelan's "very"
+16	SENT	Full of rapture
+17	TEENA	Mrs. Mulder on "The X-Files"
+19	PNE	Log cabin material, maybe
+20	SHS	Sounds from a librarian
+21	ALT	Substitute: Abbr.
+23	SAE	Letter encl. to facilitate a reply
+24	LEK	Albanian coin
+25	EOSIN	Biological stain
+27	ELUL	Month before Tishri
+29	VAS	___ in victory
+30	DILETTANTES	Amateurs
+35	PLIER	Buy-one-get-one-free item?
+36	OEIL	Trompe l'___
+37	AMS	Early times, for short
+38	RKO	"Flying Down to Rio" studio
+21
+1	LIS	Flower of Lille
+2	RST	Letter sequence
+3	GNOMESKULL	Protection for a fairy-tale dwarf's brain?
+4	GMC	Big inits. in Detroit
+5	TIE	One up, e.g.
+6	INNS	Bed and breakfast sites
+8	TRUE	One way to ring
+10	STEPSISTER	Fairy tale meanie
+11	KENNAN	Pulitzer winner for "Russia Leaves the War"
+13	MYNA	Talkative starling
+14	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+17	THELIP	Nickname for Leo Durocher
+18	ALE	Hoppy brew
+20	SLED	Husky's tow
+22	TOVA	"L'Shana ___" (Rosh Hashanah greeting)
+26	SANO	"Mens sana in corpore ___"
+28	LEIA	Luke Skywalker's sister
+31	TEM	Pro follower
+32	TRS	___-80 (classic computer)
+33	EIK	Apt. feature, in the classifieds
+34	SLO	Road caution

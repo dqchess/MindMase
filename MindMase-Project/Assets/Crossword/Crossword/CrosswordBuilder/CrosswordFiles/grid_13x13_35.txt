@@ -1,0 +1,231 @@
+grid_13x13_35
+13
+0	1	1	A	0	0	4	1	ASIT	0	0	3	1	AZT
+0	1	2	S	0	0	4	0		0	1	3	1	SOI
+0	1	3	I	0	0	4	0		0	2	3	1	INE
+0	1	4	T	0	0	4	0		0	3	7	1	TEAFORT
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	5	0		1	5	0	0	
+0	1	5	P	0	6	5	1	PRATE	0	6	3	1	PRO
+0	1	6	R	0	6	5	0		0	7	3	1	RIT
+0	1	7	A	0	6	5	0		0	8	3	1	AVI
+0	1	8	T	0	6	5	0		0	9	4	1	TONG
+0	1	9	E	0	6	5	0		0	10	9	1	ELIOTNESS
+1	0	0	#	0	12	0	0		1	11	8	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	Z	1	0	5	1	ZONES	0	0	3	0	
+0	0	0	O	1	0	5	0		0	1	3	0	
+0	0	0	N	1	0	5	0		0	2	3	0	
+0	0	0	E	1	0	5	0		0	3	7	0	
+0	1	11	S	1	0	5	0		1	4	3	1	SKA
+1	0	0	#	1	6	6	0		2	5	3	0	
+0	1	12	R	1	6	6	1	RIVOLI	0	6	3	0	
+0	0	0	I	1	6	6	0		0	7	3	0	
+0	0	0	V	1	6	6	0		0	8	3	0	
+0	0	0	O	1	6	6	0		0	9	4	0	
+0	0	0	L	1	6	6	0		0	10	9	0	
+0	1	13	I	1	6	6	0		1	11	8	1	ITISNTSO
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	14	T	2	0	12	1	TIEAKNOTINIT	0	0	3	0	
+0	0	0	I	2	0	12	0		0	1	3	0	
+0	0	0	E	2	0	12	0		0	2	3	0	
+0	0	0	A	2	0	12	0		0	3	7	0	
+0	0	0	K	2	0	12	0		1	4	3	0	
+0	1	15	N	2	0	12	0		2	5	3	1	NCO
+0	0	0	O	2	0	12	0		0	6	3	0	
+0	0	0	T	2	0	12	0		0	7	3	0	
+0	0	0	I	2	0	12	0		0	8	3	0	
+0	0	0	N	2	0	12	0		0	9	4	0	
+0	0	0	I	2	0	12	0		0	10	9	0	
+0	0	0	T	2	0	12	0		1	11	8	0	
+1	0	0	#	2	13	0	0		3	12	0	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	8	0	
+1	0	0	#	3	3	3	0		4	2	9	0	
+0	1	16	F	3	3	3	1	FAC	0	3	7	0	
+0	0	0	A	3	3	3	0		1	4	3	0	
+0	0	0	C	3	3	3	0		2	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	3	0		4	8	3	0	
+0	1	17	G	3	9	3	1	GOI	0	9	4	0	
+0	0	0	O	3	9	3	0		0	10	9	0	
+0	0	0	I	3	9	3	0		1	11	8	0	
+1	0	0	#	3	13	0	0		4	12	4	0	
+1	0	0	#	4	1	3	0		5	0	4	0	
+0	1	18	R	4	1	3	1	RHO	4	1	8	1	REIRATOR
+0	1	19	H	4	1	3	0		4	2	9	1	HOTSHOWER
+0	0	0	O	4	1	3	0		0	3	7	0	
+1	0	0	#	4	5	4	0		5	4	0	0	
+0	1	20	O	4	5	4	1	OUZO	2	5	3	0	
+0	1	21	U	4	5	4	0		4	6	5	1	UNBAR
+0	1	22	Z	4	5	4	0		4	7	3	1	ZIA
+0	1	23	O	4	5	4	0		4	8	3	1	OCS
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	24	T	4	10	3	1	TSA	0	10	9	0	
+0	0	0	S	4	10	3	0		1	11	8	0	
+0	1	25	A	4	10	3	0		4	12	4	1	AWHO
+0	1	26	M	5	0	4	1	MEOR	5	0	4	1	MLBA
+0	0	0	E	5	0	4	0		4	1	8	0	
+0	0	0	O	5	0	4	0		4	2	9	0	
+0	0	0	R	5	0	4	0		0	3	7	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	27	N	5	6	3	1	NIC	4	6	5	0	
+0	0	0	I	5	6	3	0		4	7	3	0	
+0	0	0	C	5	6	3	0		4	8	3	0	
+1	0	0	#	5	10	3	0		6	9	7	0	
+0	1	28	N	5	10	3	1	NNW	0	10	9	0	
+0	0	0	N	5	10	3	0		1	11	8	0	
+0	0	0	W	5	10	3	0		4	12	4	0	
+0	1	29	L	6	0	13	1	LITTERBASKETH	5	0	4	0	
+0	0	0	I	6	0	13	0		4	1	8	0	
+0	0	0	T	6	0	13	0		4	2	9	0	
+0	0	0	T	6	0	13	0		0	3	7	0	
+0	1	30	E	6	0	13	0		6	4	3	1	EGG
+0	1	31	R	6	0	13	0		6	5	3	1	RSA
+0	0	0	B	6	0	13	0		4	6	5	0	
+0	0	0	A	6	0	13	0		4	7	3	0	
+0	0	0	S	6	0	13	0		4	8	3	0	
+0	1	32	K	6	0	13	0		6	9	7	1	KODIAKS
+0	0	0	E	6	0	13	0		0	10	9	0	
+0	0	0	T	6	0	13	0		1	11	8	0	
+0	0	0	H	6	0	13	0		4	12	4	0	
+0	1	33	B	7	0	3	1	BRS	5	0	4	0	
+0	0	0	R	7	0	3	0		4	1	8	0	
+0	0	0	S	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	34	G	7	4	3	1	GSA	6	4	3	0	
+0	0	0	S	7	4	3	0		6	5	3	0	
+0	0	0	A	7	4	3	0		4	6	5	0	
+1	0	0	#	7	8	0	0		8	7	3	0	
+1	0	0	#	7	9	4	0		8	8	0	0	
+0	1	35	O	7	9	4	1	OSSO	6	9	7	0	
+0	0	0	S	7	9	4	0		0	10	9	0	
+0	0	0	S	7	9	4	0		1	11	8	0	
+0	0	0	O	7	9	4	0		4	12	4	0	
+0	1	36	A	8	0	3	1	AAH	5	0	4	0	
+0	0	0	A	8	0	3	0		4	1	8	0	
+0	0	0	H	8	0	3	0		4	2	9	0	
+1	0	0	#	8	4	4	0		9	3	4	0	
+0	1	37	G	8	4	4	1	GARB	6	4	3	0	
+0	0	0	A	8	4	4	0		6	5	3	0	
+0	0	0	R	8	4	4	0		4	6	5	0	
+0	1	38	B	8	4	4	0		8	7	3	1	BBK
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	39	D	8	9	3	1	DSO	6	9	7	0	
+0	0	0	S	8	9	3	0		0	10	9	0	
+0	0	0	O	8	9	3	0		1	11	8	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	40	T	9	1	3	1	TOP	4	1	8	0	
+0	0	0	O	9	1	3	0		4	2	9	0	
+0	1	41	P	9	1	3	0		9	3	4	1	PEDS
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	42	B	9	7	3	1	BEI	8	7	3	0	
+0	1	43	E	9	7	3	0		9	8	3	1	ETE
+0	0	0	I	9	7	3	0		6	9	7	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	44	O	10	1	12	1	OWEBACKTAXES	4	1	8	0	
+0	0	0	W	10	1	12	0		4	2	9	0	
+0	0	0	E	10	1	12	0		9	3	4	0	
+0	1	45	B	10	1	12	0		10	4	3	1	BOI
+0	1	46	A	10	1	12	0		10	5	3	1	ASD
+0	1	47	C	10	1	12	0		10	6	3	1	CEE
+0	0	0	K	10	1	12	0		8	7	3	0	
+0	0	0	T	10	1	12	0		9	8	3	0	
+0	0	0	A	10	1	12	0		6	9	7	0	
+0	1	48	X	10	1	12	0		10	10	3	1	XIS
+0	1	49	E	10	1	12	0		10	11	3	1	ENE
+0	1	50	S	10	1	12	0		10	12	3	1	SGT
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	51	R	11	1	6	1	REDOSE	4	1	8	0	
+0	0	0	E	11	1	6	0		4	2	9	0	
+0	0	0	D	11	1	6	0		9	3	4	0	
+0	0	0	O	11	1	6	0		10	4	3	0	
+0	0	0	S	11	1	6	0		10	5	3	0	
+0	0	0	E	11	1	6	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	E	11	8	5	1	EKING	9	8	3	0	
+0	0	0	K	11	8	5	0		6	9	7	0	
+0	0	0	I	11	8	5	0		10	10	3	0	
+0	0	0	N	11	8	5	0		10	11	3	0	
+0	0	0	G	11	8	5	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	5	0		13	1	0	0	
+0	1	53	R	12	2	5	1	RSIDE	4	2	9	0	
+0	0	0	S	12	2	5	0		9	3	4	0	
+0	0	0	I	12	2	5	0		10	4	3	0	
+0	0	0	D	12	2	5	0		10	5	3	0	
+0	0	0	E	12	2	5	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	4	0		13	8	0	0	
+0	1	54	S	12	9	4	1	SSET	6	9	7	0	
+0	0	0	S	12	9	4	0		10	10	3	0	
+0	0	0	E	12	9	4	0		10	11	3	0	
+0	0	0	T	12	9	4	0		10	12	3	0	
+27
+1	ASIT	___ were
+5	PRATE	Blabber
+10	ZONES	Basketball defenses
+12	RIVOLI	Rue de ___
+14	TIEAKNOTINIT	Quote, part 4
+16	FAC	Sch. staff
+17	GOI	"There but for the grace of God ___"
+18	RHO	Density symbol, in physics
+20	OUZO	Anise-flavored liqueur
+24	TSA	Airport inits.
+26	MEOR	"Love ___ leave ..."
+27	NIC	Actor Cage, familiarly
+28	NNW	Pilothouse dir.
+29	LITTERBASKETH	Newborn puppies enjoy the sun?
+33	BRS	Apt. features
+34	GSA	Fed. management org.
+35	OSSO	Italian bone
+36	AAH	"That feels good!"
+37	GARB	Apparel
+39	DSO	Brit. honor
+40	TOP	Pinnacle
+42	BEI	"___ Mir Bist Du Schoen" (1938 hit)
+44	OWEBACKTAXES	Be indebted to the I.R.S.
+51	REDOSE	Give more medicine
+52	EKING	Managing, with "out"
+53	RSIDE	Where to sign a credit card, e.g.
+54	SSET	Fixed at an acute angle
+31
+1	AZT	First drug approved to treat AIDS
+2	SOI	"___ lied!"
+3	INE	Like Bruckner's Symphony No. 7
+4	TEAFORT	1950 Doris Day film
+5	PRO	Maven
+6	RIT	Gradually slowing, in mus.
+7	AVI	Bird: Prefix
+8	TONG	Chinatown secret society
+9	ELIOTNESS	Noted Volstead Act enforcer
+11	SKA	Some Caribbean music
+13	ITISNTSO	"You're wrong!"
+15	NCO	Cpl. or sgt.
+18	REIRATOR	Breathing aid
+19	HOTSHOWER	Workout follower
+21	UNBAR	Open, in a way
+22	ZIA	Pakistani leader, 1977-88
+23	OCS	Mil. training site
+25	AWHO	Seuss
+26	MLBA	Peach ___
+30	EGG	Fragile decoration
+31	RSA	Mandela's land: Abbr.
+32	KODIAKS	Alaskan animals
+38	BBK	Famed bluesman [black]
+41	PEDS	Those hoofing it
+43	ETE	Season after printemps
+45	BOI	Avril Lavigne's "Sk8er ___"
+46	ASD	Comparable in years
+47	CEE	Bee follower
+48	XIS	Fraternity letters
+49	ENE	Mariner's dir.
+50	SGT	Friday, e.g.: Abbr.

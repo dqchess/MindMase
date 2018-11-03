@@ -1,0 +1,303 @@
+grid_15x15_150
+15
+0	1	1	N	0	0	3	1	NIE	0	0	3	1	NLQ
+0	1	2	I	0	0	3	0		0	1	3	1	ILA
+0	1	3	E	0	0	3	0		0	2	3	1	EBN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	R	0	5	3	1	RCA	0	5	5	1	ROBOT
+0	1	5	C	0	5	3	0		0	6	5	1	CLYDE
+0	1	6	A	0	5	3	0		0	7	15	1	ATTENTIONPLEASE
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	M	0	9	3	1	MIL	0	9	3	1	MAE
+0	1	8	I	0	9	3	0		0	10	4	1	IDBE
+0	1	9	L	0	9	3	0		0	11	7	1	LEAVITT
+1	0	0	#	0	13	0	0		1	12	4	0	
+1	0	0	#	0	14	0	0		1	13	4	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	L	1	0	3	1	LLB	0	0	3	0	
+0	0	0	L	1	0	3	0		0	1	3	0	
+0	0	0	B	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	4	0		2	3	5	0	
+0	1	11	D	1	4	4	1	DOLT	1	4	3	1	DAH
+0	0	0	O	1	4	4	0		0	5	5	0	
+0	0	0	L	1	4	4	0		0	6	5	0	
+0	0	0	T	1	4	4	0		0	7	15	0	
+1	0	0	#	1	9	5	0		2	8	6	0	
+0	1	12	A	1	9	5	1	ADEAL	0	9	3	0	
+0	0	0	D	1	9	5	0		0	10	4	0	
+0	0	0	E	1	9	5	0		0	11	7	0	
+0	1	13	A	1	9	5	0		1	12	4	1	ANES
+0	1	14	L	1	9	5	0		1	13	4	1	LDRS
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	Q	2	0	15	1	QANDABYTHEBANDB	0	0	3	0	
+0	0	0	A	2	0	15	0		0	1	3	0	
+0	0	0	N	2	0	15	0		0	2	3	0	
+0	1	16	D	2	0	15	0		2	3	5	1	DRANK
+0	0	0	A	2	0	15	0		1	4	3	0	
+0	0	0	B	2	0	15	0		0	5	5	0	
+0	0	0	Y	2	0	15	0		0	6	5	0	
+0	0	0	T	2	0	15	0		0	7	15	0	
+0	1	17	H	2	0	15	0		2	8	6	1	HSDOWN
+0	0	0	E	2	0	15	0		0	9	3	0	
+0	0	0	B	2	0	15	0		0	10	4	0	
+0	0	0	A	2	0	15	0		0	11	7	0	
+0	0	0	N	2	0	15	0		1	12	4	0	
+0	0	0	D	2	0	15	0		1	13	4	0	
+0	1	18	B	2	0	15	0		2	14	3	1	BYO
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	6	0		4	2	5	0	
+0	1	19	R	3	3	6	1	RHODES	2	3	5	0	
+0	0	0	H	3	3	6	0		1	4	3	0	
+0	0	0	O	3	3	6	0		0	5	5	0	
+0	0	0	D	3	3	6	0		0	6	5	0	
+0	0	0	E	3	3	6	0		0	7	15	0	
+0	0	0	S	3	3	6	0		2	8	6	0	
+1	0	0	#	3	10	5	0		4	9	0	0	
+0	1	20	E	3	10	5	1	EVERY	0	10	4	0	
+0	0	0	V	3	10	5	0		0	11	7	0	
+0	0	0	E	3	10	5	0		1	12	4	0	
+0	0	0	R	3	10	5	0		1	13	4	0	
+0	0	0	Y	3	10	5	0		2	14	3	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	21	M	4	1	3	1	MBA	4	1	5	1	MIATA
+0	1	22	B	4	1	3	0		4	2	5	1	BOLDS
+0	0	0	A	4	1	3	0		2	3	5	0	
+1	0	0	#	4	5	4	0		5	4	0	0	
+0	1	23	T	4	5	4	1	TEND	0	5	5	0	
+0	0	0	E	4	5	4	0		0	6	5	0	
+0	0	0	N	4	5	4	0		0	7	15	0	
+0	0	0	D	4	5	4	0		2	8	6	0	
+1	0	0	#	4	10	0	0		5	9	4	0	
+1	0	0	#	4	11	4	0		5	10	4	0	
+0	1	24	I	4	11	4	1	ISSO	0	11	7	0	
+0	0	0	S	4	11	4	0		1	12	4	0	
+0	0	0	S	4	11	4	0		1	13	4	0	
+0	0	0	O	4	11	4	0		2	14	3	0	
+0	1	25	C	5	0	4	1	CION	5	0	3	1	CKS
+0	0	0	I	5	0	4	0		4	1	5	0	
+0	0	0	O	5	0	4	0		4	2	5	0	
+0	0	0	N	5	0	4	0		2	3	5	0	
+1	0	0	#	5	5	0	0		6	4	4	0	
+1	0	0	#	5	6	0	0		6	5	4	0	
+1	0	0	#	5	7	5	0		6	6	0	0	
+0	1	26	T	5	7	5	1	TOGET	0	7	15	0	
+0	0	0	O	5	7	5	0		2	8	6	0	
+0	1	27	G	5	7	5	0		5	9	4	1	GAUR
+0	1	28	E	5	7	5	0		5	10	4	1	ENTO
+0	0	0	T	5	7	5	0		0	11	7	0	
+1	0	0	#	5	13	0	0		6	12	5	0	
+1	0	0	#	5	14	0	0		6	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	29	K	6	0	6	1	KALKAN	5	0	3	0	
+0	0	0	A	6	0	6	0		4	1	5	0	
+0	0	0	L	6	0	6	0		4	2	5	0	
+0	0	0	K	6	0	6	0		2	3	5	0	
+0	1	30	A	6	0	6	0		6	4	4	1	ACES
+0	1	31	N	6	0	6	0		6	5	4	1	NODE
+1	0	0	#	6	7	7	0		7	6	6	0	
+0	1	32	I	6	7	7	1	IWANTEM	0	7	15	0	
+0	0	0	W	6	7	7	0		2	8	6	0	
+0	0	0	A	6	7	7	0		5	9	4	0	
+0	0	0	N	6	7	7	0		5	10	4	0	
+0	0	0	T	6	7	7	0		0	11	7	0	
+0	1	33	E	6	7	7	0		6	12	5	1	ENDIN
+0	1	34	M	6	7	7	0		6	13	5	1	MAINE
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	S	7	0	3	1	STD	5	0	3	0	
+0	0	0	T	7	0	3	0		4	1	5	0	
+0	0	0	D	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	7	0		8	3	7	0	
+0	1	36	C	7	4	7	1	COCONUT	6	4	4	0	
+0	0	0	O	7	4	7	0		6	5	4	0	
+0	1	37	C	7	4	7	0		7	6	6	1	CIUDAD
+0	0	0	O	7	4	7	0		0	7	15	0	
+0	0	0	N	7	4	7	0		2	8	6	0	
+0	0	0	U	7	4	7	0		5	9	4	0	
+0	0	0	T	7	4	7	0		5	10	4	0	
+1	0	0	#	7	12	3	0		8	11	5	0	
+0	1	38	N	7	12	3	1	NAW	6	12	5	0	
+0	0	0	A	7	12	3	0		6	13	5	0	
+0	1	39	W	7	12	3	0		7	14	3	1	WEA
+1	0	0	#	8	1	7	0		9	0	0	0	
+0	1	40	A	8	1	7	1	ASKEDIN	4	1	5	0	
+0	0	0	S	8	1	7	0		4	2	5	0	
+0	1	41	K	8	1	7	0		8	3	7	1	KUWAITI
+0	0	0	E	8	1	7	0		6	4	4	0	
+0	0	0	D	8	1	7	0		6	5	4	0	
+0	0	0	I	8	1	7	0		7	6	6	0	
+0	0	0	N	8	1	7	0		0	7	15	0	
+1	0	0	#	8	9	6	0		9	8	0	0	
+0	1	42	R	8	9	6	1	ROADIE	5	9	4	0	
+0	0	0	O	8	9	6	0		5	10	4	0	
+0	1	43	A	8	9	6	0		8	11	5	1	ANNEE
+0	0	0	D	8	9	6	0		6	12	5	0	
+0	0	0	I	8	9	6	0		6	13	5	0	
+0	0	0	E	8	9	6	0		7	14	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	4	0	
+1	0	0	#	9	3	5	0		10	2	4	0	
+0	1	44	U	9	3	5	1	USEUP	8	3	7	0	
+0	0	0	S	9	3	5	0		6	4	4	0	
+0	0	0	E	9	3	5	0		6	5	4	0	
+0	0	0	U	9	3	5	0		7	6	6	0	
+0	0	0	P	9	3	5	0		0	7	15	0	
+1	0	0	#	9	9	0	0		10	8	5	0	
+1	0	0	#	9	10	0	0		10	9	5	0	
+1	0	0	#	9	11	4	0		10	10	0	0	
+0	1	45	N	9	11	4	1	NINA	8	11	5	0	
+0	0	0	I	9	11	4	0		6	12	5	0	
+0	0	0	N	9	11	4	0		6	13	5	0	
+0	0	0	A	9	11	4	0		7	14	3	0	
+0	1	46	D	10	0	4	1	DRAW	10	0	3	1	DEI
+0	1	47	R	10	0	4	0		10	1	4	1	RIND
+0	1	48	A	10	0	4	0		10	2	4	1	ALVA
+0	0	0	W	10	0	4	0		8	3	7	0	
+1	0	0	#	10	5	0	0		11	4	4	0	
+1	0	0	#	10	6	4	0		11	5	0	0	
+0	1	49	D	10	6	4	1	DLII	7	6	6	0	
+0	0	0	L	10	6	4	0		0	7	15	0	
+0	1	50	I	10	6	4	0		10	8	5	1	IRULE
+0	1	51	I	10	6	4	0		10	9	5	1	IODIC
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	52	N	10	11	3	1	NNE	8	11	5	0	
+0	0	0	N	10	11	3	0		6	12	5	0	
+0	0	0	E	10	11	3	0		6	13	5	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	53	E	11	0	5	1	EILAT	10	0	3	0	
+0	0	0	I	11	0	5	0		10	1	4	0	
+0	0	0	L	11	0	5	0		10	2	4	0	
+0	0	0	A	11	0	5	0		8	3	7	0	
+0	1	54	T	11	0	5	0		11	4	4	1	TTEN
+1	0	0	#	11	6	6	0		12	5	3	0	
+0	1	55	A	11	6	6	1	AEROBE	7	6	6	0	
+0	0	0	E	11	6	6	0		0	7	15	0	
+0	0	0	R	11	6	6	0		10	8	5	0	
+0	0	0	O	11	6	6	0		10	9	5	0	
+0	1	56	B	11	6	6	0		11	10	3	1	BIT
+0	0	0	E	11	6	6	0		8	11	5	0	
+1	0	0	#	11	13	0	0		12	12	3	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	I	12	0	15	1	INVITEDAUDIENCE	10	0	3	0	
+0	0	0	N	12	0	15	0		10	1	4	0	
+0	0	0	V	12	0	15	0		10	2	4	0	
+0	0	0	I	12	0	15	0		8	3	7	0	
+0	0	0	T	12	0	15	0		11	4	4	0	
+0	1	58	E	12	0	15	0		12	5	3	1	ERB
+0	0	0	D	12	0	15	0		7	6	6	0	
+0	0	0	A	12	0	15	0		0	7	15	0	
+0	0	0	U	12	0	15	0		10	8	5	0	
+0	0	0	D	12	0	15	0		10	9	5	0	
+0	0	0	I	12	0	15	0		11	10	3	0	
+0	0	0	E	12	0	15	0		8	11	5	0	
+0	1	59	N	12	0	15	0		12	12	3	1	NIK
+0	1	60	C	12	0	15	0		12	13	3	1	CTN
+0	1	61	E	12	0	15	0		12	14	3	1	ESE
+1	0	0	#	13	1	5	0		14	0	0	0	
+0	1	62	D	13	1	5	1	DATER	10	1	4	0	
+0	0	0	A	13	1	5	0		10	2	4	0	
+0	0	0	T	13	1	5	0		8	3	7	0	
+0	0	0	E	13	1	5	0		11	4	4	0	
+0	0	0	R	13	1	5	0		12	5	3	0	
+1	0	0	#	13	7	4	0		14	6	0	0	
+0	1	63	S	13	7	4	1	SLIT	0	7	15	0	
+0	0	0	L	13	7	4	0		10	8	5	0	
+0	0	0	I	13	7	4	0		10	9	5	0	
+0	0	0	T	13	7	4	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	64	I	13	12	3	1	ITS	12	12	3	0	
+0	0	0	T	13	12	3	0		12	13	3	0	
+0	0	0	S	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	0	0		15	1	0	0	
+1	0	0	#	14	3	3	0		15	2	0	0	
+0	1	65	I	14	3	3	1	INB	8	3	7	0	
+0	0	0	N	14	3	3	0		11	4	4	0	
+0	0	0	B	14	3	3	0		12	5	3	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	66	E	14	7	3	1	EEC	0	7	15	0	
+0	0	0	E	14	7	3	0		10	8	5	0	
+0	0	0	C	14	7	3	0		10	9	5	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	67	K	14	12	3	1	KNE	12	12	3	0	
+0	0	0	N	14	12	3	0		12	13	3	0	
+0	0	0	E	14	12	3	0		12	14	3	0	
+35
+1	NIE	Einstein's "never"
+4	RCA	___ Dome (former Colts stadium)
+7	MIL	Nice amount of moola
+10	LLB	Overseas bar deg.
+11	DOLT	One isn't sharp
+12	ADEAL	"You've got ___!"
+15	QANDABYTHEBANDB	Interview near an inn?
+19	RHODES	Scholarship founder
+20	EVERY	"___ Heartbeat" (Amy Grant hit)
+21	MBA	Wall St. credential
+23	TEND	Manage, as a bar
+24	ISSO	Childish rejoinder
+25	CION	Plant shoot: Var.
+26	TOGET	Play hard ___
+29	KALKAN	Alpo competition
+32	IWANTEM	"Gimme"
+35	STD	Kind of time: Abbr.
+36	COCONUT	Nondairy milk source
+38	NAW	No, slangily
+40	ASKEDIN	Didn't leave waiting at the door
+42	ROADIE	One who works with speakers?
+44	USEUP	Expend
+45	NINA	1492 vessel
+46	DRAW	Shout at a shootout
+49	DLII	Half of MCIV
+52	NNE	New Orleans-to-Detroit dir.
+53	EILAT	Israeli city on the Gulf of Aqaba
+55	AEROBE	Oxygen-needing organism
+57	INVITEDAUDIENCE	Preview crowd
+62	DATER	One playing the field
+63	SLIT	Revealing skirt feature
+64	ITS	"___ show time!"
+65	INB	Schubert's Symphony ___ Minor ("Unfinished Symphony")
+66	EEC	Common Market inits.
+67	KNE	Show obeisance
+39
+1	NLQ	Place to hang a ring
+2	ILA	Pier grp.
+3	EBN	Surveyor's dir.
+4	ROBOT	Worker that never gets tired
+5	CLYDE	Bonnie's beau
+6	ATTENTIONPLEASE	"Listen!"
+7	MAE	Popular middle name for a girl
+8	IDBE	"___ a fool to ..."
+9	LEAVITT	Michael ___, Bush secretary of health and human services
+11	DAH	"Well, lah-di-___"
+13	ANES	Scottish singletons
+14	LDRS	Ones in charge: Abbr.
+16	DRANK	Wet one's whistle
+17	HSDOWN	Overwhelmingly
+18	BYO	Caveat on a party invitation: Abbr.
+21	MIATA	Popular Mazda
+22	BOLDS	Darkens, as type
+25	CKS	Contents of some books: Abbr.
+27	GAUR	Indian ox
+28	ENTO	Opposite of exo-
+30	ACES	Air force heroes
+31	NODE	Lymph ___
+33	ENDIN	No ___ sight
+34	MAINE	Appalachian Trail's northern terminus
+37	CIUDAD	___ Real, Spain
+39	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+41	KUWAITI	Dinar spender
+43	ANNEE	Period of douze mois
+46	DEI	Opus ___ (work of God)
+47	RIND	Orange peel
+48	ALVA	Menlo Park middle name
+50	IRULE	"That was awesome of me!"
+51	IODIC	___ acid
+54	TTEN	Kind of list
+56	BIT	Taste
+58	ERB	Tarzan creator's monogram
+59	NIK	Suffix with neat
+60	CTN	Doz. eggs, commonly
+61	ESE	Tip of one's tongue?

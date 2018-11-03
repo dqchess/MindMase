@@ -1,0 +1,115 @@
+grid_9x9_101
+9
+0	1	1	M	0	0	3	1	MLX	0	0	3	1	MOO
+0	1	2	L	0	0	3	0		0	1	4	1	LIRA
+0	1	3	X	0	0	3	0		0	2	4	1	XLII
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	S	0	4	3	1	SOV	0	4	9	1	SEABREEZE
+0	1	5	O	0	4	3	0		0	5	6	1	ONDOPE
+0	1	6	V	0	4	3	0		0	6	4	1	VIER
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	O	1	0	3	1	OIL	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	4	0	
+0	0	0	L	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	E	1	4	5	1	ENIAC	0	4	9	0	
+0	0	0	N	1	4	5	0		0	5	6	0	
+0	0	0	I	1	4	5	0		0	6	4	0	
+0	1	9	A	1	4	5	0		1	7	3	1	ANN
+0	1	10	C	1	4	5	0		1	8	3	1	CIE
+0	1	11	O	2	0	3	1	ORI	0	0	3	0	
+0	0	0	R	2	0	3	0		0	1	4	0	
+0	0	0	I	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	5	0		3	3	6	0	
+0	1	12	A	2	4	5	1	ADENI	0	4	9	0	
+0	0	0	D	2	4	5	0		0	5	6	0	
+0	0	0	E	2	4	5	0		0	6	4	0	
+0	0	0	N	2	4	5	0		1	7	3	0	
+0	0	0	I	2	4	5	0		1	8	3	0	
+1	0	0	#	3	1	8	0		4	0	0	0	
+0	1	13	A	3	1	8	1	AIRBORNE	0	1	4	0	
+0	0	0	I	3	1	8	0		0	2	4	0	
+0	1	14	R	3	1	8	0		3	3	6	1	RANGUP
+0	0	0	B	3	1	8	0		0	4	9	0	
+0	0	0	O	3	1	8	0		0	5	6	0	
+0	0	0	R	3	1	8	0		0	6	4	0	
+0	0	0	N	3	1	8	0		1	7	3	0	
+0	0	0	E	3	1	8	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	A	4	3	3	1	ARP	3	3	6	0	
+0	0	0	R	4	3	3	0		0	4	9	0	
+0	0	0	P	4	3	3	0		0	5	6	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	T	5	0	8	1	THENEEDY	5	0	3	1	TRS
+0	1	17	H	5	0	8	0		5	1	3	1	HAO
+0	1	18	E	5	0	8	0		5	2	4	1	ENYO
+0	0	0	N	5	0	8	0		3	3	6	0	
+0	0	0	E	5	0	8	0		0	4	9	0	
+0	0	0	E	5	0	8	0		0	5	6	0	
+0	1	19	D	5	0	8	0		5	6	4	1	DUCS
+0	1	20	Y	5	0	8	0		5	7	4	1	YSER
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	21	R	6	0	5	1	RANGE	5	0	3	0	
+0	0	0	A	6	0	5	0		5	1	3	0	
+0	0	0	N	6	0	5	0		5	2	4	0	
+0	0	0	G	6	0	5	0		3	3	6	0	
+0	0	0	E	6	0	5	0		0	4	9	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	22	U	6	6	3	1	USM	5	6	4	0	
+0	0	0	S	6	6	3	0		5	7	4	0	
+0	1	23	M	6	6	3	0		6	8	3	1	MNO
+0	1	24	S	7	0	5	1	SOYUZ	5	0	3	0	
+0	0	0	O	7	0	5	0		5	1	3	0	
+0	0	0	Y	7	0	5	0		5	2	4	0	
+0	0	0	U	7	0	5	0		3	3	6	0	
+0	0	0	Z	7	0	5	0		0	4	9	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	25	C	7	6	3	1	CEN	5	6	4	0	
+0	0	0	E	7	6	3	0		5	7	4	0	
+0	0	0	N	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	26	O	8	2	3	1	OPE	5	2	4	0	
+0	0	0	P	8	2	3	0		3	3	6	0	
+0	0	0	E	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	27	S	8	6	3	1	SRO	5	6	4	0	
+0	0	0	R	8	6	3	0		5	7	4	0	
+0	0	0	O	8	6	3	0		6	8	3	0	
+15
+1	MLX	When France's Philip I took the throne
+4	SOV	Bands on the run?
+7	OIL	Old master's work
+8	ENIAC	Early computer that weighed 30 tons
+11	ORI	"Show pity, ___ die": "The Taming of the Shrew"
+12	ADENI	Arabian Peninsula native
+13	AIRBORNE	Not grounded
+15	ARP	"Human Concretion" artist
+16	THENEEDY	Alms recipients
+21	RANGE	A to Z, for one
+22	USM	Mil. branch
+24	SOYUZ	Cosmonaut's craft
+25	CEN	What few people live for: Abbr.
+26	OPE	What flowers do, in poetry
+27	SRO	Sign of a B'way hit
+15
+1	MOO	Low
+2	LIRA	Istanbul currency
+3	XLII	One year into Claudius's reign
+4	SEABREEZE	Wind that cools a beach
+5	ONDOPE	Hopped up, in a way
+6	VIER	Rival
+9	ANN	"Roman Holiday" princess
+10	CIE	Co. in Cannes
+14	RANGUP	Called, as Buckingham Palace
+16	TRS	___-80 (classic computer)
+17	HAO	Vietnamese coin
+18	ENYO	Greek goddess of war
+19	DUCS	French noblemen
+20	YSER	1914 battle line
+23	MNO	LP insert

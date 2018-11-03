@@ -1,0 +1,305 @@
+grid_15x15_64
+15
+0	1	1	B	0	0	3	1	BYO	0	0	3	1	BUT
+0	1	2	Y	0	0	3	0		0	1	3	1	YSL
+0	1	3	O	0	0	3	0		0	2	8	1	ONCEMORE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	P	0	6	3	1	PAM	0	6	6	1	PRISMS
+0	1	5	A	0	6	3	0		0	7	3	1	ANT
+0	1	6	M	0	6	3	0		0	8	8	1	MISSHAPE
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	W	0	10	3	1	WIL	0	10	4	1	WHIP
+0	1	8	I	0	10	3	0		0	11	3	1	IHN
+0	1	9	L	0	10	3	0		0	12	6	1	LEEWAY
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	U	1	0	3	1	USN	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	3	0	
+0	0	0	N	1	0	3	0		0	2	8	0	
+1	0	0	#	1	4	10	0		2	3	0	0	
+0	1	11	C	1	4	10	1	CORNISHHEN	1	4	3	1	CAV
+0	1	12	O	1	4	10	0		1	5	3	1	OTE
+0	0	0	R	1	4	10	0		0	6	6	0	
+0	0	0	N	1	4	10	0		0	7	3	0	
+0	0	0	I	1	4	10	0		0	8	8	0	
+0	1	13	S	1	4	10	0		1	9	3	1	SFO
+0	0	0	H	1	4	10	0		0	10	4	0	
+0	0	0	H	1	4	10	0		0	11	3	0	
+0	0	0	E	1	4	10	0		0	12	6	0	
+0	1	14	N	1	4	10	0		1	13	5	1	NSYNC
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	T	2	0	3	1	TLC	0	0	3	0	
+0	0	0	L	2	0	3	0		0	1	3	0	
+0	0	0	C	2	0	3	0		0	2	8	0	
+1	0	0	#	2	4	11	0		3	3	7	0	
+0	1	16	A	2	4	11	1	ATITSFINEST	1	4	3	0	
+0	0	0	T	2	4	11	0		1	5	3	0	
+0	0	0	I	2	4	11	0		0	6	6	0	
+0	0	0	T	2	4	11	0		0	7	3	0	
+0	0	0	S	2	4	11	0		0	8	8	0	
+0	0	0	F	2	4	11	0		1	9	3	0	
+0	0	0	I	2	4	11	0		0	10	4	0	
+0	0	0	N	2	4	11	0		0	11	3	0	
+0	0	0	E	2	4	11	0		0	12	6	0	
+0	0	0	S	2	4	11	0		1	13	5	0	
+0	1	17	T	2	4	11	0		2	14	3	1	TEN
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	5	0		4	1	4	0	
+0	1	18	E	3	2	5	1	EAVES	0	2	8	0	
+0	1	19	A	3	2	5	0		3	3	7	1	ACCEDED
+0	0	0	V	3	2	5	0		1	4	3	0	
+0	0	0	E	3	2	5	0		1	5	3	0	
+0	0	0	S	3	2	5	0		0	6	6	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	20	S	3	8	3	1	SOP	0	8	8	0	
+0	0	0	O	3	8	3	0		1	9	3	0	
+0	0	0	P	3	8	3	0		0	10	4	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	21	W	3	12	3	1	WYE	0	12	6	0	
+0	0	0	Y	3	12	3	0		1	13	5	0	
+0	0	0	E	3	12	3	0		2	14	3	0	
+0	1	22	U	4	0	4	1	USMC	4	0	3	1	UPI
+0	1	23	S	4	0	4	0		4	1	4	1	SLER
+0	0	0	M	4	0	4	0		0	2	8	0	
+0	0	0	C	4	0	4	0		3	3	7	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	24	M	4	6	3	1	MEH	0	6	6	0	
+0	1	25	E	4	6	3	0		4	7	7	1	EASTEND
+0	0	0	H	4	6	3	0		0	8	8	0	
+1	0	0	#	4	10	0	0		5	9	3	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	4	12	3	0		5	11	7	0	
+0	1	26	A	4	12	3	1	ANN	0	12	6	0	
+0	0	0	N	4	12	3	0		1	13	5	0	
+0	0	0	N	4	12	3	0		2	14	3	0	
+0	1	27	P	5	0	5	1	PLOCE	4	0	3	0	
+0	0	0	L	5	0	5	0		4	1	4	0	
+0	0	0	O	5	0	5	0		0	2	8	0	
+0	0	0	C	5	0	5	0		3	3	7	0	
+0	1	28	E	5	0	5	0		5	4	4	1	EILA
+1	0	0	#	5	6	4	0		6	5	0	0	
+0	1	29	S	5	6	4	1	SAAR	0	6	6	0	
+0	0	0	A	5	6	4	0		4	7	7	0	
+0	0	0	A	5	6	4	0		0	8	8	0	
+0	1	30	R	5	6	4	0		5	9	3	1	RAR
+1	0	0	#	5	11	3	0		6	10	4	0	
+0	1	31	M	5	11	3	1	MYC	5	11	7	1	MEASURE
+0	0	0	Y	5	11	3	0		0	12	6	0	
+0	0	0	C	5	11	3	0		1	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	32	I	6	0	5	1	IEREI	4	0	3	0	
+0	0	0	E	6	0	5	0		4	1	4	0	
+0	0	0	R	6	0	5	0		0	2	8	0	
+0	0	0	E	6	0	5	0		3	3	7	0	
+0	0	0	I	6	0	5	0		5	4	4	0	
+1	0	0	#	6	6	0	0		7	5	3	0	
+1	0	0	#	6	7	5	0		7	6	8	0	
+0	1	33	S	6	7	5	1	SPADE	4	7	7	0	
+0	0	0	P	6	7	5	0		0	8	8	0	
+0	0	0	A	6	7	5	0		5	9	3	0	
+0	1	34	D	6	7	5	0		6	10	4	1	DDAY
+0	0	0	E	6	7	5	0		5	11	7	0	
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	4	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	13	0		8	0	0	0	
+0	1	35	R	7	1	13	1	REDLETTERDAYS	4	1	4	0	
+0	0	0	E	7	1	13	0		0	2	8	0	
+0	0	0	D	7	1	13	0		3	3	7	0	
+0	0	0	L	7	1	13	0		5	4	4	0	
+0	1	36	E	7	1	13	0		7	5	3	1	EPS
+0	1	37	T	7	1	13	0		7	6	8	1	TOYSTORY
+0	0	0	T	7	1	13	0		4	7	7	0	
+0	0	0	E	7	1	13	0		0	8	8	0	
+0	0	0	R	7	1	13	0		5	9	3	0	
+0	0	0	D	7	1	13	0		6	10	4	0	
+0	0	0	A	7	1	13	0		5	11	7	0	
+0	1	38	Y	7	1	13	0		7	12	8	1	YOGIBEAR
+0	1	39	S	7	1	13	0		7	13	4	1	SUOS
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	5	0	
+1	0	0	#	8	3	5	0		9	2	6	0	
+0	1	40	E	8	3	5	1	EAPOE	3	3	7	0	
+0	0	0	A	8	3	5	0		5	4	4	0	
+0	0	0	P	8	3	5	0		7	5	3	0	
+0	0	0	O	8	3	5	0		7	6	8	0	
+0	0	0	E	8	3	5	0		4	7	7	0	
+1	0	0	#	8	9	0	0		9	8	6	0	
+1	0	0	#	8	10	5	0		9	9	0	0	
+0	1	41	A	8	10	5	1	ASOUR	6	10	4	0	
+0	0	0	S	8	10	5	0		5	11	7	0	
+0	0	0	O	8	10	5	0		7	12	8	0	
+0	0	0	U	8	10	5	0		7	13	4	0	
+0	1	42	R	8	10	5	0		8	14	3	1	RSA
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	43	I	9	1	3	1	IND	9	1	5	1	ISEEM
+0	1	44	N	9	1	3	0		9	2	6	1	NORTON
+0	0	0	D	9	1	3	0		3	3	7	0	
+1	0	0	#	9	5	4	0		10	4	0	0	
+0	1	45	S	9	5	4	1	SYNS	7	5	3	0	
+0	0	0	Y	9	5	4	0		7	6	8	0	
+0	0	0	N	9	5	4	0		4	7	7	0	
+0	1	46	S	9	5	4	0		9	8	6	1	SISKEL
+1	0	0	#	9	10	5	0		10	9	0	0	
+0	1	47	Y	9	10	5	1	YUGOS	6	10	4	0	
+0	0	0	U	9	10	5	0		5	11	7	0	
+0	0	0	G	9	10	5	0		7	12	8	0	
+0	0	0	O	9	10	5	0		7	13	4	0	
+0	0	0	S	9	10	5	0		8	14	3	0	
+0	1	48	O	10	0	3	1	OSO	10	0	3	1	OER
+0	0	0	S	10	0	3	0		9	1	5	0	
+0	0	0	O	10	0	3	0		9	2	6	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	4	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	49	S	10	6	3	1	SDI	7	6	8	0	
+0	0	0	D	10	6	3	0		4	7	7	0	
+0	0	0	I	10	6	3	0		9	8	6	0	
+1	0	0	#	10	10	0	0		11	9	3	0	
+1	0	0	#	10	11	4	0		11	10	3	0	
+0	1	50	R	10	11	4	1	RISA	5	11	7	0	
+0	0	0	I	10	11	4	0		7	12	8	0	
+0	0	0	S	10	11	4	0		7	13	4	0	
+0	0	0	A	10	11	4	0		8	14	3	0	
+0	1	51	E	11	0	3	1	EER	10	0	3	0	
+0	0	0	E	11	0	3	0		9	1	5	0	
+0	0	0	R	11	0	3	0		9	2	6	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	52	L	11	4	3	1	LOT	11	4	4	1	LOEW
+0	1	53	O	11	4	3	0		11	5	3	1	ORO
+0	0	0	T	11	4	3	0		7	6	8	0	
+1	0	0	#	11	8	5	0		12	7	3	0	
+0	1	54	S	11	8	5	1	STIEB	9	8	6	0	
+0	1	55	T	11	8	5	0		11	9	3	1	TES
+0	1	56	I	11	8	5	0		11	10	3	1	ITS
+0	0	0	E	11	8	5	0		5	11	7	0	
+0	0	0	B	11	8	5	0		7	12	8	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	R	12	0	11	1	RETROROCKET	10	0	3	0	
+0	0	0	E	12	0	11	0		9	1	5	0	
+0	0	0	T	12	0	11	0		9	2	6	0	
+0	1	58	R	12	0	11	0		12	3	3	1	RRS
+0	0	0	O	12	0	11	0		11	4	4	0	
+0	0	0	R	12	0	11	0		11	5	3	0	
+0	0	0	O	12	0	11	0		7	6	8	0	
+0	1	59	C	12	0	11	0		12	7	3	1	CLU
+0	0	0	K	12	0	11	0		9	8	6	0	
+0	0	0	E	12	0	11	0		11	9	3	0	
+0	0	0	T	12	0	11	0		11	10	3	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	60	E	12	12	3	1	ERA	7	12	8	0	
+0	1	61	R	12	12	3	0		12	13	3	1	RAP
+0	1	62	A	12	12	3	0		12	14	3	1	ARM
+1	0	0	#	13	1	10	0		14	0	0	0	
+0	1	63	M	13	1	10	1	MOREORLESS	9	1	5	0	
+0	0	0	O	13	1	10	0		9	2	6	0	
+0	0	0	R	13	1	10	0		12	3	3	0	
+0	0	0	E	13	1	10	0		11	4	4	0	
+0	0	0	O	13	1	10	0		11	5	3	0	
+0	0	0	R	13	1	10	0		7	6	8	0	
+0	0	0	L	13	1	10	0		12	7	3	0	
+0	0	0	E	13	1	10	0		9	8	6	0	
+0	0	0	S	13	1	10	0		11	9	3	0	
+0	0	0	S	13	1	10	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	64	A	13	12	3	1	AAR	7	12	8	0	
+0	0	0	A	13	12	3	0		12	13	3	0	
+0	0	0	R	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	65	N	14	2	3	1	NSW	9	2	6	0	
+0	0	0	S	14	2	3	0		12	3	3	0	
+0	0	0	W	14	2	3	0		11	4	4	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	66	Y	14	6	3	1	YUL	7	6	8	0	
+0	0	0	U	14	6	3	0		12	7	3	0	
+0	0	0	L	14	6	3	0		9	8	6	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	67	R	14	12	3	1	RPM	7	12	8	0	
+0	0	0	P	14	12	3	0		12	13	3	0	
+0	0	0	M	14	12	3	0		12	14	3	0	
+37
+1	BYO	Caveat on a party invitation: Abbr.
+4	PAM	One of the Ewings on "Dallas"
+7	WIL	Actor Wheaton
+10	USN	Swabs' grp.
+11	CORNISHHEN	Holiday bird
+15	TLC	Mom's specialty, briefly
+16	ATITSFINEST	Quintessentially
+18	EAVES	___ spout (water runoff site)
+20	SOP	Be all wet
+21	WYE	Fourth of July?
+22	USMC	Military inits.
+24	MEH	"Doesn't thrill me"
+26	ANN	Common girl's middle name
+27	PLOCE	Repetition for rhetorical effect
+29	SAAR	German industrial region
+31	MYC	Mushroom: Prefix
+32	IEREI	Middle of a famous palindrome
+33	SPADE	Ditchdigger's tool
+35	REDLETTERDAYS	High points
+40	EAPOE	"Berenice" author, briefly
+41	ASOUR	Hit ___ note
+43	IND	Mich. neighbor
+45	SYNS	Thesaurus contents: Abbr.
+47	YUGOS	Often-mocked cars of the past
+48	OSO	Barcelona bear
+49	SDI	Cold war abbr.
+50	RISA	Laughter, in La Mancha
+51	EER	Suffix with mountain
+52	LOT	Nephew of Abraham
+54	STIEB	Seven-time All-Star pitcher Dave
+57	RETROROCKET	It's used in a lunar landing
+60	ERA	Baseball stat.
+63	MOREORLESS	Approximately
+64	AAR	The Lake of Thun is a widening of its course
+65	NSW	Its cap. is Sydney
+66	YUL	Charlton's 1956 co-star
+67	RPM	33 or 45, e.g.
+39
+1	BUT	Except
+2	YSL	Couture monogram
+3	ONCEMORE	Over again
+4	PRISMS	Beam splitters
+5	ANT	Social worker
+6	MISSHAPE	Deform
+7	WHIP	It's most useful when it's cracked
+8	IHN	Him, in Heidelberg
+9	LEEWAY	Latitude
+11	CAV	Cleveland player, for short
+12	OTE	Suffix with Capri
+13	SFO	Bay Area airport, in shorthand
+14	NSYNC	"Bye Bye Bye" singers
+17	TEN	Noted Downing Street address
+19	ACCEDED	Assumed, with "to"
+22	UPI	Reuters competitor
+23	SLER	Slave to detail
+25	EASTEND	Where Cockney is spoken in London
+28	EILA	City on the Gulf of Aqaba
+30	RAR	It's typically off base
+31	MEASURE	Word before and after "for"
+34	DDAY	Decisive time (or theme of this puzzle)
+36	EPS	Mini-albums, briefly
+37	TOYSTORY	Pixar's first feature-length film
+38	YOGIBEAR	Jellystone Park resident
+39	SUOS	Tomato and vegetable
+42	RSA	Cape Town's home: Abbr.
+43	ISEEM	"___ to recall 
+44	NORTON	W.B.C. heavyweight champ, 1978
+46	SISKEL	Ebert's former partner
+48	OER	"___ the ramparts ..."
+52	LOEW	MGM studios founder
+53	ORO	Cargo on the Spanish Main
+55	TES	Your, in Paris
+56	ITS	Tag players
+58	RRS	Lines with crossings: Abbr.
+59	CLU	Gulager of "The Virginian"
+61	RAP	Puff Daddy's music
+62	ARM	Offshoot

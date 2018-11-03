@@ -1,0 +1,167 @@
+grid_11x11_90
+11
+1	0	0	#	0	1	5	0		1	0	4	0	
+0	1	1	R	0	1	5	1	REINK	0	1	6	1	RASHES
+0	1	2	E	0	1	5	0		0	2	11	1	ELSAMAXWELL
+0	1	3	I	0	1	5	0		0	3	3	1	IDI
+0	1	4	N	0	1	5	0		0	4	3	1	NRC
+0	1	5	K	0	1	5	0		0	5	3	1	KOL
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	6	P	0	8	3	1	POG	0	8	11	1	PABSTMASTER
+0	1	7	O	0	8	3	0		0	9	4	1	ORFE
+0	1	8	G	0	8	3	0		0	10	3	1	GMA
+0	1	9	C	1	0	7	1	CALDRON	1	0	4	1	CONS
+0	0	0	A	1	0	7	0		0	1	6	0	
+0	0	0	L	1	0	7	0		0	2	11	0	
+0	0	0	D	1	0	7	0		0	3	3	0	
+0	0	0	R	1	0	7	0		0	4	3	0	
+0	0	0	O	1	0	7	0		0	5	3	0	
+0	1	10	N	1	0	7	0		1	6	5	1	NEWAT
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	11	A	1	8	3	1	ARM	0	8	11	0	
+0	0	0	R	1	8	3	0		0	9	4	0	
+0	0	0	M	1	8	3	0		0	10	3	0	
+0	1	12	O	2	0	7	1	OSSICLE	1	0	4	0	
+0	0	0	S	2	0	7	0		0	1	6	0	
+0	0	0	S	2	0	7	0		0	2	11	0	
+0	0	0	I	2	0	7	0		0	3	3	0	
+0	0	0	C	2	0	7	0		0	4	3	0	
+0	0	0	L	2	0	7	0		0	5	3	0	
+0	0	0	E	2	0	7	0		1	6	5	0	
+1	0	0	#	2	8	3	0		3	7	4	0	
+0	1	13	B	2	8	3	1	BFA	0	8	11	0	
+0	0	0	F	2	8	3	0		0	9	4	0	
+0	0	0	A	2	8	3	0		0	10	3	0	
+0	1	14	N	3	0	3	1	NHA	1	0	4	0	
+0	0	0	H	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	15	W	3	6	4	1	WISE	1	6	5	0	
+0	1	16	I	3	6	4	0		3	7	4	1	INIT
+0	0	0	S	3	6	4	0		0	8	11	0	
+0	0	0	E	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	17	S	4	0	4	1	SEMS	1	0	4	0	
+0	0	0	E	4	0	4	0		0	1	6	0	
+0	0	0	M	4	0	4	0		0	2	11	0	
+0	1	18	S	4	0	4	0		4	3	4	1	SMTE
+1	0	0	#	4	5	4	0		5	4	5	0	
+0	1	19	C	4	5	4	1	CANT	4	5	3	1	CAA
+0	0	0	A	4	5	4	0		1	6	5	0	
+0	0	0	N	4	5	4	0		3	7	4	0	
+0	0	0	T	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	20	S	5	1	9	1	SAMOATIME	0	1	6	0	
+0	0	0	A	5	1	9	0		0	2	11	0	
+0	0	0	M	5	1	9	0		4	3	4	0	
+0	1	21	O	5	1	9	0		5	4	5	1	ORSON
+0	0	0	A	5	1	9	0		4	5	3	0	
+0	0	0	T	5	1	9	0		1	6	5	0	
+0	0	0	I	5	1	9	0		3	7	4	0	
+0	0	0	M	5	1	9	0		0	8	11	0	
+0	1	22	E	5	1	9	0		5	9	6	1	EULOGY
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	23	X	6	2	4	1	XTRA	0	2	11	0	
+0	0	0	T	6	2	4	0		4	3	4	0	
+0	0	0	R	6	2	4	0		5	4	5	0	
+0	0	0	A	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	4	0		7	6	0	0	
+0	1	24	T	6	7	4	1	TAUS	3	7	4	0	
+0	0	0	A	6	7	4	0		0	8	11	0	
+0	0	0	U	6	7	4	0		5	9	6	0	
+0	1	25	S	6	7	4	0		6	10	4	1	SANG
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	26	E	7	1	4	1	EWES	7	1	4	1	ETUI
+0	0	0	W	7	1	4	0		0	2	11	0	
+0	0	0	E	7	1	4	0		4	3	4	0	
+0	0	0	S	7	1	4	0		5	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	S	7	8	3	1	SLA	0	8	11	0	
+0	0	0	L	7	8	3	0		5	9	6	0	
+0	0	0	A	7	8	3	0		6	10	4	0	
+0	1	28	S	8	0	3	1	STE	8	0	3	1	SHS
+0	0	0	T	8	0	3	0		7	1	4	0	
+0	0	0	E	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	7	0		9	3	0	0	
+0	1	29	O	8	4	7	1	OVERTON	5	4	5	0	
+0	1	30	V	8	4	7	0		8	5	3	1	VEL
+0	1	31	E	8	4	7	0		8	6	3	1	ESE
+0	1	32	R	8	4	7	0		8	7	3	1	RTE
+0	0	0	T	8	4	7	0		0	8	11	0	
+0	0	0	O	8	4	7	0		5	9	6	0	
+0	0	0	N	8	4	7	0		6	10	4	0	
+0	1	33	H	9	0	3	1	HUL	8	0	3	0	
+0	0	0	U	9	0	3	0		7	1	4	0	
+0	0	0	L	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	34	N	9	4	7	1	NESTEGG	5	4	5	0	
+0	0	0	E	9	4	7	0		8	5	3	0	
+0	0	0	S	9	4	7	0		8	6	3	0	
+0	0	0	T	9	4	7	0		8	7	3	0	
+0	0	0	E	9	4	7	0		0	8	11	0	
+0	0	0	G	9	4	7	0		5	9	6	0	
+0	0	0	G	9	4	7	0		6	10	4	0	
+0	1	35	S	10	0	3	1	SIL	8	0	3	0	
+0	0	0	I	10	0	3	0		7	1	4	0	
+0	0	0	L	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	36	L	10	5	5	1	LEERY	8	5	3	0	
+0	0	0	E	10	5	5	0		8	6	3	0	
+0	0	0	E	10	5	5	0		8	7	3	0	
+0	0	0	R	10	5	5	0		0	8	11	0	
+0	0	0	Y	10	5	5	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	REINK	Freshen, as a stamp pad
+6	POG	Faddish disk of the 1990s
+9	CALDRON	Where witches brew
+11	ARM	Ready for war
+12	OSSICLE	Small bone
+13	BFA	Suffix with odd
+14	NHA	Shelter grp.
+15	WISE	Like Solomon
+17	SEMS	Grad sch. classes
+19	CANT	"I'm busy then"
+20	SAMOATIME	Setting in Pago Pago
+23	XTRA	More, in commercialese
+24	TAUS	Cross shapes
+26	EWES	She sheep
+27	SLA	Org. in 70's news
+28	STE	Jeanne d'Arc, e.g.: Abbr.
+29	OVERTON	Tennessee county named for a jurist who co-founded Memphis
+33	HUL	Thieves' take
+34	NESTEGG	Savings for a rainy day
+35	SIL	Tony's consigliere, familiarly, on "The Sopranos"
+36	LEERY	Circumspect
+21
+1	RASHES	Itchy spots
+2	ELSAMAXWELL	Old-time journalist-socialite
+3	IDI	He was Amin guy
+4	NRC	Atomic energy org.
+5	KOL	___ Nidre (Yom Kippur prayer)
+6	PABSTMASTER	Expert in beer?
+7	ORFE	Golden fish stocked in ornamental pools
+8	GMA	TV-over-breakfast inits.
+9	CONS	Hustles
+10	NEWAT	Inexperienced with
+16	INIT	L., B. or J.
+18	SMTE	Wallop
+19	CAA	Major org. representing entertainers and athletes
+21	ORSON	Welles of "Citizen Kane"
+22	EULOGY	Service lines?
+25	SANG	Blabbed to the feds, say
+26	ETUI	Pins' place
+28	SHS	Sounds from a librarian
+30	VEL	Anemometer reading: Abbr.
+31	ESE	From Neb. to Ky.
+32	RTE	It may go for mi. and mi.

@@ -1,0 +1,117 @@
+grid_9x9_13
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	M	0	1	3	1	MCM	0	1	4	1	MGRS
+0	1	2	C	0	1	3	0		0	2	9	1	CEASEFIRE
+0	1	3	M	0	1	3	0		0	3	3	1	MRT
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	T	0	6	3	1	TVA	0	6	9	1	TVCONSOLE
+0	1	5	V	0	6	3	0		0	7	4	1	VATS
+0	1	6	A	0	6	3	0		0	8	3	1	ALO
+0	1	7	E	1	0	4	1	EGER	1	0	3	1	EWA
+0	0	0	G	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	9	0	
+0	0	0	R	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	O	1	5	4	1	OVAL	1	5	4	1	OOOH
+0	0	0	V	1	5	4	0		0	6	9	0	
+0	0	0	A	1	5	4	0		0	7	4	0	
+0	0	0	L	1	5	4	0		0	8	3	0	
+0	1	9	W	2	0	4	1	WRAT	1	0	3	0	
+0	0	0	R	2	0	4	0		0	1	4	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	T	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	O	2	5	4	1	OCTO	1	5	4	0	
+0	0	0	C	2	5	4	0		0	6	9	0	
+0	0	0	T	2	5	4	0		0	7	4	0	
+0	0	0	O	2	5	4	0		0	8	3	0	
+0	1	11	A	3	0	3	1	ASS	1	0	3	0	
+0	0	0	S	3	0	3	0		0	1	4	0	
+0	0	0	S	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	W	3	4	4	1	WOOS	3	4	3	1	WYE
+0	0	0	O	3	4	4	0		1	5	4	0	
+0	0	0	O	3	4	4	0		0	6	9	0	
+0	0	0	S	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	13	E	4	2	5	1	EKYHN	0	2	9	0	
+0	1	14	K	4	2	5	0		4	3	4	1	KERF
+0	0	0	Y	4	2	5	0		3	4	3	0	
+0	0	0	H	4	2	5	0		1	5	4	0	
+0	0	0	N	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	F	5	1	4	1	FFEE	5	1	4	1	FTOP
+0	0	0	F	5	1	4	0		0	2	9	0	
+0	0	0	E	5	1	4	0		4	3	4	0	
+0	0	0	E	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	16	S	5	6	3	1	SHY	0	6	9	0	
+0	1	17	H	5	6	3	0		5	7	4	1	HBAG
+0	1	18	Y	5	6	3	0		5	8	3	1	YOW
+0	1	19	S	6	0	4	1	STIR	6	0	3	1	SWA
+0	0	0	T	6	0	4	0		5	1	4	0	
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	0	0	R	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	20	H	6	5	4	1	HOBO	6	5	3	1	HIS
+0	0	0	O	6	5	4	0		0	6	9	0	
+0	0	0	B	6	5	4	0		5	7	4	0	
+0	0	0	O	6	5	4	0		5	8	3	0	
+0	1	21	W	7	0	4	1	WORF	6	0	3	0	
+0	0	0	O	7	0	4	0		5	1	4	0	
+0	0	0	R	7	0	4	0		0	2	9	0	
+0	0	0	F	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	I	7	5	4	1	ILAW	6	5	3	0	
+0	0	0	L	7	5	4	0		0	6	9	0	
+0	0	0	A	7	5	4	0		5	7	4	0	
+0	0	0	W	7	5	4	0		5	8	3	0	
+0	1	23	A	8	0	3	1	APE	6	0	3	0	
+0	0	0	P	8	0	3	0		5	1	4	0	
+0	0	0	E	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	S	8	5	3	1	SEG	6	5	3	0	
+0	0	0	E	8	5	3	0		0	6	9	0	
+0	0	0	G	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	MCM	Turn-of-the-century year
+4	TVA	Big electrical project inits.
+7	EGER	Hungarian city known for its thermal baths
+8	OVAL	Frame shape
+9	WRAT	Web-footed rodent
+10	OCTO	Eight, for starters
+11	ASS	Dumbhead
+12	WOOS	Tries to win
+13	EKYHN	Brainteaser
+15	FFEE	Fixed price
+16	SHY	Reticent
+19	STIR	Swizzle
+20	HOBO	Rail rider
+21	WORF	Enterprise Klingon
+22	ILAW	Many a holiday visitor / Bandit
+23	APE	Copycat
+24	SEG	Line part: Abbr.
+15
+1	MGRS	Baseball team V.I.P.'s: Abbr.
+2	CEASEFIRE	Occasion to drop one's arms
+3	MRT	"Straight Line" star, 1988
+4	TVCONSOLE	Piece of den furniture
+5	VATS	Winery equipment
+6	ALO	Havana greeting
+7	EWA	Actress Aulin of "Candy"
+8	OOOH	... a circusgoer
+12	WYE	___ Accord (1998 Mideast peace agreement)
+14	KERF	Cut made by a saw
+15	FTOP	Aircraft carrier
+17	HBAG	Place for keys and lipstick
+18	YOW	"That hurts!"
+19	SWA	United competitor: Abbr.
+20	HIS	___ and hers

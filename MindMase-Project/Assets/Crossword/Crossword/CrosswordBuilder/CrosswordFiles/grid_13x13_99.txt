@@ -1,0 +1,233 @@
+grid_13x13_99
+13
+0	1	1	C	0	0	3	1	CLE	0	0	3	1	CAL
+0	1	2	L	0	0	3	0		0	1	3	1	LIU
+0	1	3	E	0	0	3	0		0	2	3	1	ENL
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	6	0	
+0	1	4	D	0	6	3	1	DCC	0	6	3	1	DAW
+0	1	5	C	0	6	3	0		0	7	5	1	CRAKE
+0	1	6	C	0	6	3	0		0	8	4	1	CTRL
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	8	0	
+1	0	0	#	0	12	0	0		1	11	8	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	A	1	0	4	1	AINT	0	0	3	0	
+0	0	0	I	1	0	4	0		0	1	3	0	
+0	0	0	N	1	0	4	0		0	2	3	0	
+0	1	8	T	1	0	4	0		1	3	3	1	TLC
+1	0	0	#	1	5	7	0		2	4	0	0	
+0	1	9	M	1	5	7	1	MARTENS	1	5	6	1	MANAGE
+0	0	0	A	1	5	7	0		0	6	3	0	
+0	0	0	R	1	5	7	0		0	7	5	0	
+0	0	0	T	1	5	7	0		0	8	4	0	
+0	1	10	E	1	5	7	0		1	9	3	1	EDA
+0	1	11	N	1	5	7	0		1	10	8	1	NIXONERA
+0	1	12	S	1	5	7	0		1	11	8	1	SNORKELS
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	L	2	0	4	1	LULL	0	0	3	0	
+0	0	0	U	2	0	4	0		0	1	3	0	
+0	0	0	L	2	0	4	0		0	2	3	0	
+0	0	0	L	2	0	4	0		1	3	3	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	14	A	2	5	8	1	AWARDING	1	5	6	0	
+0	0	0	W	2	5	8	0		0	6	3	0	
+0	0	0	A	2	5	8	0		0	7	5	0	
+0	0	0	R	2	5	8	0		0	8	4	0	
+0	0	0	D	2	5	8	0		1	9	3	0	
+0	0	0	I	2	5	8	0		1	10	8	0	
+0	0	0	N	2	5	8	0		1	11	8	0	
+0	1	15	G	2	5	8	0		2	12	3	1	GNC
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	8	0	
+1	0	0	#	3	3	3	0		4	2	8	0	
+0	1	16	C	3	3	3	1	CON	1	3	3	0	
+0	1	17	O	3	3	3	0		3	4	3	1	OSA
+0	0	0	N	3	3	3	0		1	5	6	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	18	K	3	7	6	1	KLAXON	0	7	5	0	
+0	0	0	L	3	7	6	0		0	8	4	0	
+0	0	0	A	3	7	6	0		1	9	3	0	
+0	0	0	X	3	7	6	0		1	10	8	0	
+0	0	0	O	3	7	6	0		1	11	8	0	
+0	0	0	N	3	7	6	0		2	12	3	0	
+0	1	19	M	4	0	3	1	MPS	4	0	3	1	MFA
+0	1	20	P	4	0	3	0		4	1	8	1	POOLAREA
+0	1	21	S	4	0	3	0		4	2	8	1	SLUGFEST
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	22	S	4	4	4	1	SANE	3	4	3	0	
+0	0	0	A	4	4	4	0		1	5	6	0	
+0	1	23	N	4	4	4	0		4	6	5	1	NEALS
+0	0	0	E	4	4	4	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	24	O	4	10	3	1	ORC	1	10	8	0	
+0	0	0	R	4	10	3	0		1	11	8	0	
+0	0	0	C	4	10	3	0		2	12	3	0	
+0	1	25	F	5	0	7	1	FOLIAGE	4	0	3	0	
+0	0	0	O	5	0	7	0		4	1	8	0	
+0	0	0	L	5	0	7	0		4	2	8	0	
+0	1	26	I	5	0	7	0		5	3	3	1	ITE
+0	0	0	A	5	0	7	0		3	4	3	0	
+0	0	0	G	5	0	7	0		1	5	6	0	
+0	0	0	E	5	0	7	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	6	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	27	O	5	9	3	1	ONK	5	9	3	1	OCT
+0	0	0	N	5	9	3	0		1	10	8	0	
+0	0	0	K	5	9	3	0		1	11	8	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	A	6	0	4	1	AOUT	4	0	3	0	
+0	0	0	O	6	0	4	0		4	1	8	0	
+0	0	0	U	6	0	4	0		4	2	8	0	
+0	0	0	T	6	0	4	0		5	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	29	E	6	5	3	1	EAN	1	5	6	0	
+0	0	0	A	6	5	3	0		4	6	5	0	
+0	1	30	N	6	5	3	0		6	7	6	1	NOTIPS
+1	0	0	#	6	9	4	0		7	8	3	0	
+0	1	31	C	6	9	4	1	CEES	5	9	3	0	
+0	0	0	E	6	9	4	0		1	10	8	0	
+0	0	0	E	6	9	4	0		1	11	8	0	
+0	1	32	S	6	9	4	0		6	12	3	1	SDI
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	33	L	7	1	3	1	LGE	4	1	8	0	
+0	0	0	G	7	1	3	0		4	2	8	0	
+0	0	0	E	7	1	3	0		5	3	3	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	7	0		8	5	5	0	
+0	1	34	L	7	6	7	1	LOSTRLD	4	6	5	0	
+0	0	0	O	7	6	7	0		6	7	6	0	
+0	1	35	S	7	6	7	0		7	8	3	1	SEW
+0	0	0	T	7	6	7	0		5	9	3	0	
+0	0	0	R	7	6	7	0		1	10	8	0	
+0	0	0	L	7	6	7	0		1	11	8	0	
+0	0	0	D	7	6	7	0		6	12	3	0	
+0	1	36	O	8	0	3	1	OAF	8	0	3	1	OOF
+0	0	0	A	8	0	3	0		4	1	8	0	
+0	0	0	F	8	0	3	0		4	2	8	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	4	0		9	4	4	0	
+0	1	37	A	8	5	4	1	ASTE	8	5	5	1	ANDGO
+0	0	0	S	8	5	4	0		4	6	5	0	
+0	0	0	T	8	5	4	0		6	7	6	0	
+0	0	0	E	8	5	4	0		7	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	38	A	8	10	3	1	ASI	1	10	8	0	
+0	0	0	S	8	10	3	0		1	11	8	0	
+0	0	0	I	8	10	3	0		6	12	3	0	
+0	1	39	O	9	0	6	1	OREGON	8	0	3	0	
+0	0	0	R	9	0	6	0		4	1	8	0	
+0	0	0	E	9	0	6	0		4	2	8	0	
+0	1	40	G	9	0	6	0		9	3	3	1	GSS
+0	1	41	O	9	0	6	0		9	4	4	1	OEIL
+0	0	0	N	9	0	6	0		8	5	5	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	42	I	9	7	3	1	IWO	6	7	6	0	
+0	0	0	W	9	7	3	0		7	8	3	0	
+0	1	43	O	9	7	3	0		9	9	3	1	OTO
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	F	10	0	8	1	FESSEDUP	8	0	3	0	
+0	0	0	E	10	0	8	0		4	1	8	0	
+0	0	0	S	10	0	8	0		4	2	8	0	
+0	0	0	S	10	0	8	0		9	3	3	0	
+0	0	0	E	10	0	8	0		9	4	4	0	
+0	0	0	D	10	0	8	0		8	5	5	0	
+0	1	45	U	10	0	8	0		10	6	3	1	UNU
+0	0	0	P	10	0	8	0		6	7	6	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	46	T	10	9	4	1	TADA	9	9	3	0	
+0	1	47	A	10	9	4	0		10	10	3	1	AHA
+0	1	48	D	10	9	4	0		10	11	3	1	DNH
+0	1	49	A	10	9	4	0		10	12	3	1	AOL
+1	0	0	#	11	1	7	0		12	0	0	0	
+0	1	50	A	11	1	7	1	ATSIGNS	4	1	8	0	
+0	0	0	T	11	1	7	0		4	2	8	0	
+0	0	0	S	11	1	7	0		9	3	3	0	
+0	0	0	I	11	1	7	0		9	4	4	0	
+0	0	0	G	11	1	7	0		8	5	5	0	
+0	0	0	N	11	1	7	0		10	6	3	0	
+0	0	0	S	11	1	7	0		6	7	6	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	51	O	11	9	4	1	OHNO	9	9	3	0	
+0	0	0	H	11	9	4	0		10	10	3	0	
+0	0	0	N	11	9	4	0		10	11	3	0	
+0	0	0	O	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	0	0		13	2	0	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	52	L	12	4	3	1	LOU	9	4	4	0	
+0	0	0	O	12	4	3	0		8	5	5	0	
+0	0	0	U	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	A	12	10	3	1	AHL	10	10	3	0	
+0	0	0	H	12	10	3	0		10	11	3	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+29
+1	CLE	The Browns, on sports tickers
+4	DCC	700, to Caesar
+7	AINT	"___ She Sweet"
+9	MARTENS	Weasels' cousins
+13	LULL	Temporary calm
+14	AWARDING	Presenter's task
+16	CON	Bamboozle
+18	KLAXON	Loud warning signal
+19	MPS	Brit. legislators
+22	SANE	Playing with a full deck
+24	ORC	Tolkien terror
+25	FOLIAGE	Leaves
+27	ONK	In tune
+28	AOUT	Summer month, in Paris
+29	EAN	Suffix with Euclid
+31	CEES	Civic boundaries?
+33	LGE	Shirt size: Abbr.
+34	LOSTRLD	Classic sci-fi story, with "The"
+36	OAF	Dunderhead
+37	ASTE	Ancient Semitic fertility goddess
+38	ASI	Do-say connection
+39	OREGON	The Ducks of the N.C.A.A.
+42	IWO	W.W. II battle site, for short
+44	FESSEDUP	Came clean
+46	TADA	Cry made with a flourish
+50	ATSIGNS	Parts of e-mail addresses
+51	OHNO	"That's terrible!"
+52	LOU	Base stealer Brock
+53	AHL	Sports org. with the Calder Cup
+31
+1	CAL	2007 Hall of Fame inductee Ripken
+2	LIU	"Ally McBeal" co-star Lucy
+3	ENL	Photography abbr.
+4	DAW	Cousin of a crow
+5	CRAKE	Short-billed rail
+6	CTRL	___-Alt-Del
+8	TLC	Mom's skill, briefly
+9	MANAGE	Get by
+10	EDA	Late writer LeShan
+11	NIXONERA	When William Safire worked at the White House
+12	SNORKELS	Does some shoal searching?
+15	GNC	Health supplement chain
+17	OSA	Massen of the 1940s film "Tokyo Rose"
+19	MFA	Curator's deg.
+20	POOLAREA	Where sunbathers sunbathe
+21	SLUGFEST	High-scoring baseball game
+23	NEALS	Actress Patricia and others
+26	ITE	Native: Suffix
+27	OCT	10, at times: Abbr.
+30	NOTIPS	Policy of many hotel shuttles
+32	SDI	1980's military prog.
+35	SEW	Make a seam
+36	OOF	Pained comment?
+37	ANDGO	"Start ... now!"
+40	GSS	Snare
+41	OEIL	Monique's eye
+43	OTO	Chiwere speaker
+45	UNU	Burma's first P.M.
+47	AHA	"Yes, I see!"
+48	DNH	Letters after Gov. Jeanne Shaheen's name
+49	AOL	Alternative to Gmail

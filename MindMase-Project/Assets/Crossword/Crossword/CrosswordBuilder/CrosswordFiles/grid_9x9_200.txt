@@ -1,0 +1,115 @@
+grid_9x9_200
+9
+0	1	1	T	0	0	3	1	TRS	0	0	3	1	THA
+0	1	2	R	0	0	3	0		0	1	4	1	RORY
+0	1	3	S	0	0	3	0		0	2	9	1	SCRAPEDBY
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	P	0	5	3	1	PSC	0	5	3	1	PTA
+0	1	5	S	0	5	3	0		0	6	9	1	SENESCENT
+0	1	6	C	0	5	3	0		0	7	4	1	COCO
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	H	1	0	3	1	HOC	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	4	0	
+0	0	0	C	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	A	1	4	5	1	ATEOF	1	4	7	1	AGELONG
+0	0	0	T	1	4	5	0		0	5	3	0	
+0	0	0	E	1	4	5	0		0	6	9	0	
+0	0	0	O	1	4	5	0		0	7	4	0	
+0	1	9	F	1	4	5	0		1	8	3	1	FEN
+0	1	10	A	2	0	9	1	ARROGANCE	0	0	3	0	
+0	0	0	R	2	0	9	0		0	1	4	0	
+0	0	0	R	2	0	9	0		0	2	9	0	
+0	1	11	O	2	0	9	0		2	3	3	1	ORY
+0	0	0	G	2	0	9	0		1	4	7	0	
+0	0	0	A	2	0	9	0		0	5	3	0	
+0	0	0	N	2	0	9	0		0	6	9	0	
+0	0	0	C	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	Y	3	1	4	1	YARE	0	1	4	0	
+0	0	0	A	3	1	4	0		0	2	9	0	
+0	0	0	R	3	1	4	0		2	3	3	0	
+0	0	0	E	3	1	4	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	E	3	6	3	1	EON	0	6	9	0	
+0	0	0	O	3	6	3	0		0	7	4	0	
+0	0	0	N	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	14	P	4	2	5	1	PYLES	0	2	9	0	
+0	0	0	Y	4	2	5	0		2	3	3	0	
+0	0	0	L	4	2	5	0		1	4	7	0	
+0	1	15	E	4	2	5	0		4	5	3	1	ERN
+0	0	0	S	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	M	5	0	3	1	MAE	5	0	3	1	MTS
+0	1	17	A	5	0	3	0		5	1	4	1	AVON
+0	0	0	E	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	18	O	5	4	4	1	ORCA	1	4	7	0	
+0	0	0	R	5	4	4	0		4	5	3	0	
+0	0	0	C	5	4	4	0		0	6	9	0	
+0	1	19	A	5	4	4	0		5	7	4	1	ARRA
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	T	6	0	9	1	TVDINNERS	5	0	3	0	
+0	0	0	V	6	0	9	0		5	1	4	0	
+0	0	0	D	6	0	9	0		0	2	9	0	
+0	1	21	I	6	0	9	0		6	3	3	1	IIS
+0	0	0	N	6	0	9	0		1	4	7	0	
+0	0	0	N	6	0	9	0		4	5	3	0	
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	0	0	R	6	0	9	0		5	7	4	0	
+0	1	22	S	6	0	9	0		6	8	3	1	SCM
+0	1	23	S	7	0	5	1	SOBIG	5	0	3	0	
+0	0	0	O	7	0	5	0		5	1	4	0	
+0	0	0	B	7	0	5	0		0	2	9	0	
+0	0	0	I	7	0	5	0		6	3	3	0	
+0	0	0	G	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	N	7	6	3	1	NRC	0	6	9	0	
+0	0	0	R	7	6	3	0		5	7	4	0	
+0	0	0	C	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	N	8	1	3	1	NYS	5	1	4	0	
+0	0	0	Y	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	T	8	6	3	1	TAM	0	6	9	0	
+0	0	0	A	8	6	3	0		5	7	4	0	
+0	0	0	M	8	6	3	0		6	8	3	0	
+15
+1	TRS	School basics
+4	PSC	Utilities watchdog grp.
+7	HOC	Post ___ (after-the-fact)
+8	ATEOF	Dined on, formally
+10	ARROGANCE	"I" problem
+12	YARE	Easy to maneuver, at sea
+13	EON	Unit of time
+14	PYLES	Gomer and others
+16	MAE	Daisy ___
+18	ORCA	1977 film killer
+20	TVDINNERS	Compartmentalized cuisine?
+23	SOBIG	Edna Ferber novel
+24	NRC	A.E.C. successor
+25	NYS	Albany is its capital: Abbr.
+26	TAM	Mary Tyler Moore headwear
+15
+1	THA	Article in many a hip-hop title
+2	RORY	Youngest of the Culkin brothers
+3	SCRAPEDBY	Made ends meet somehow
+4	PTA	Local educ. support group
+5	SENESCENT	Growing old
+6	COCO	"Only When I Laugh" actor James
+8	AGELONG	Everlasting
+9	FEN	A substantial amount of Louisiana
+11	ORY	Suffix with direct
+15	ERN	East end?
+16	MTS	Churchill and Logan: Abbr.
+17	AVON	Big paperback publisher
+19	ARRA	Pianist Claudio
+21	IIS	"___ for Innocent" (Grafton novel)
+22	SCM	Inits. on old typewriters

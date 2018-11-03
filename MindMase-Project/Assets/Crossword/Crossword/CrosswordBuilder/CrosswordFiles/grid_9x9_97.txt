@@ -1,0 +1,115 @@
+grid_9x9_97
+9
+0	1	1	G	0	0	3	1	GEO	0	0	3	1	GNP
+0	1	2	E	0	0	3	0		0	1	3	1	EON
+0	1	3	O	0	0	3	0		0	2	9	1	OBEDIENCE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	D	0	5	3	1	DNC	0	5	3	1	DNA
+0	1	5	N	0	5	3	0		0	6	9	1	NOTINTUNE
+0	1	6	C	0	5	3	0		0	7	5	1	CUING
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	N	1	0	3	1	NOB	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	3	0	
+0	0	0	B	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	A	1	4	5	1	ANOUT	1	4	7	1	AMSTELS
+0	0	0	N	1	4	5	0		0	5	3	0	
+0	0	0	O	1	4	5	0		0	6	9	0	
+0	0	0	U	1	4	5	0		0	7	5	0	
+0	1	9	T	1	4	5	0		1	8	3	1	TCI
+0	1	10	P	2	0	9	1	PNEUMATIC	0	0	3	0	
+0	0	0	N	2	0	9	0		0	1	3	0	
+0	0	0	E	2	0	9	0		0	2	9	0	
+0	1	11	U	2	0	9	0		2	3	3	1	URE
+0	0	0	M	2	0	9	0		1	4	7	0	
+0	0	0	A	2	0	9	0		0	5	3	0	
+0	0	0	T	2	0	9	0		0	6	9	0	
+0	0	0	I	2	0	9	0		0	7	5	0	
+0	0	0	C	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	D	3	2	3	1	DRS	0	2	9	0	
+0	0	0	R	3	2	3	0		2	3	3	0	
+0	0	0	S	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	I	3	6	3	1	INI	0	6	9	0	
+0	0	0	N	3	6	3	0		0	7	5	0	
+0	0	0	I	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	D	4	1	7	1	DIETING	4	1	5	1	DRONE
+0	0	0	I	4	1	7	0		0	2	9	0	
+0	0	0	E	4	1	7	0		2	3	3	0	
+0	0	0	T	4	1	7	0		1	4	7	0	
+0	1	15	I	4	1	7	0		4	5	3	1	ISA
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	0	0	G	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	O	5	0	3	1	ORE	5	0	3	1	ODE
+0	0	0	R	5	0	3	0		4	1	5	0	
+0	0	0	E	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	E	5	4	3	1	EST	1	4	7	0	
+0	0	0	S	5	4	3	0		4	5	3	0	
+0	0	0	T	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	D	6	0	9	1	DONTLAUGH	5	0	3	0	
+0	0	0	O	6	0	9	0		4	1	5	0	
+0	0	0	N	6	0	9	0		0	2	9	0	
+0	1	19	T	6	0	9	0		6	3	3	1	TER
+0	0	0	L	6	0	9	0		1	4	7	0	
+0	0	0	A	6	0	9	0		4	5	3	0	
+0	0	0	U	6	0	9	0		0	6	9	0	
+0	1	20	G	6	0	9	0		6	7	3	1	GIA
+0	1	21	H	6	0	9	0		6	8	3	1	HAP
+0	1	22	E	7	0	5	1	ENCES	5	0	3	0	
+0	0	0	N	7	0	5	0		4	1	5	0	
+0	0	0	C	7	0	5	0		0	2	9	0	
+0	0	0	E	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	N	7	6	3	1	NIA	0	6	9	0	
+0	0	0	I	7	6	3	0		6	7	3	0	
+0	0	0	A	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	E	8	1	3	1	EER	4	1	5	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	R	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	E	8	6	3	1	EAP	0	6	9	0	
+0	0	0	A	8	6	3	0		6	7	3	0	
+0	0	0	P	8	6	3	0		6	8	3	0	
+15
+1	GEO	Prefix with magnetic
+4	DNC	Leadership org. opposed to the G.O.P.
+7	NOB	San Francisco's ___ Hill
+8	ANOUT	Provide ___ (allow to escape)
+10	PNEUMATIC	Kind of drill
+12	DRS	Stethoscope users: Abbr.
+13	INI	Pasta suffix
+14	DIETING	Post-New Year's activity
+16	ORE	Bonanza find
+17	EST	Summer hrs. in N.Y.C.
+18	DONTLAUGH	Caution before making a wild assertion
+22	ENCES	Suffixes with depend and differ
+23	NIA	Peeples of "North Shore," 1987
+24	EER	Always, in poems
+25	EAP	"The Raven" writer's inits.
+15
+1	GNP	Econ. class topic
+2	EON	Series of periods
+3	OBEDIENCE	Bygone wedding vow
+4	DNA	It's part of the gene pool
+5	NOTINTUNE	Discordant
+6	CUING	Stage assistant's job
+8	AMSTELS	Dutch brews
+9	TCI	Cable TV giant
+11	URE	Yorkshire river
+14	DRONE	Plane over Yemen, maybe
+15	ISA	"When ___ door...?"
+16	ODE	Words from Wordsworth
+19	TER	Thrice, in prescriptions
+20	GIA	Italian actress Scala
+21	HAP	Chance, poetically

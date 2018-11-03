@@ -1,0 +1,115 @@
+grid_9x9_130
+9
+0	1	1	R	0	0	3	1	RUG	0	0	3	1	RAN
+0	1	2	U	0	0	3	0		0	1	9	1	UNENTERED
+0	1	3	G	0	0	3	0		0	2	9	1	GABARDINE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	F	0	5	3	1	FTS	0	5	3	1	FTH
+0	1	5	T	0	5	3	0		0	6	9	1	THELOUVRE
+0	1	6	S	0	5	3	0		0	7	9	1	SEEINGRED
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	A	1	0	4	1	ANAP	0	0	3	0	
+0	0	0	N	1	0	4	0		0	1	9	0	
+0	0	0	A	1	0	4	0		0	2	9	0	
+0	1	8	P	1	0	4	0		1	3	4	1	PRIE
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	T	1	5	4	1	THEL	0	5	3	0	
+0	0	0	H	1	5	4	0		0	6	9	0	
+0	0	0	E	1	5	4	0		0	7	9	0	
+0	1	10	L	1	5	4	0		1	8	3	1	LDL
+0	1	11	N	2	0	4	1	NEBR	0	0	3	0	
+0	0	0	E	2	0	4	0		0	1	9	0	
+0	0	0	B	2	0	4	0		0	2	9	0	
+0	0	0	R	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	H	2	5	4	1	HEED	0	5	3	0	
+0	0	0	E	2	5	4	0		0	6	9	0	
+0	0	0	E	2	5	4	0		0	7	9	0	
+0	0	0	D	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	N	3	1	4	1	NAIL	0	1	9	0	
+0	0	0	A	3	1	4	0		0	2	9	0	
+0	0	0	I	3	1	4	0		1	3	4	0	
+0	1	14	L	3	1	4	0		3	4	3	1	LAG
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	L	3	6	3	1	LIL	0	6	9	0	
+0	0	0	I	3	6	3	0		0	7	9	0	
+0	0	0	L	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	16	T	4	1	7	1	TREASON	0	1	9	0	
+0	0	0	R	4	1	7	0		0	2	9	0	
+0	0	0	E	4	1	7	0		1	3	4	0	
+0	0	0	A	4	1	7	0		3	4	3	0	
+0	1	17	S	4	1	7	0		4	5	4	1	SLED
+0	0	0	O	4	1	7	0		0	6	9	0	
+0	0	0	N	4	1	7	0		0	7	9	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	B	5	0	3	1	BED	5	0	3	1	BET
+0	0	0	E	5	0	3	0		0	1	9	0	
+0	0	0	D	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	19	G	5	4	4	1	GLUG	3	4	3	0	
+0	0	0	L	5	4	4	0		4	5	4	0	
+0	0	0	U	5	4	4	0		0	6	9	0	
+0	0	0	G	5	4	4	0		0	7	9	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	E	6	0	4	1	ERIT	5	0	3	0	
+0	0	0	R	6	0	4	0		0	1	9	0	
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	1	21	T	6	0	4	0		6	3	3	1	TNG
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	22	E	6	5	4	1	EVRY	4	5	4	0	
+0	0	0	V	6	5	4	0		0	6	9	0	
+0	0	0	R	6	5	4	0		0	7	9	0	
+0	1	23	Y	6	5	4	0		6	8	3	1	YDS
+0	1	24	T	7	0	4	1	TENN	5	0	3	0	
+0	0	0	E	7	0	4	0		0	1	9	0	
+0	0	0	N	7	0	4	0		0	2	9	0	
+0	0	0	N	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	25	D	7	5	4	1	DRED	4	5	4	0	
+0	0	0	R	7	5	4	0		0	6	9	0	
+0	0	0	E	7	5	4	0		0	7	9	0	
+0	0	0	D	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	26	D	8	1	3	1	DEG	0	1	9	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	G	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	27	E	8	6	3	1	EDS	0	6	9	0	
+0	0	0	D	8	6	3	0		0	7	9	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+17
+1	RUG	Carpet
+4	FTS	Leavenworth and others: Abbr.
+7	ANAP	Take ___ (drop off briefly)
+9	THEL	Liberals
+11	NEBR	Hastings, ___, where Kool-Aid was invented: Abbr.
+12	HEED	Follow
+13	NAIL	Catch, and how!
+15	LIL	Diminutive, in Dogpatch
+16	TREASON	Subject of Article III Section 3 of the Constitution
+18	BED	Word before "of nails" or "of roses"
+19	GLUG	Drain sound
+20	ERIT	Vivacious wit
+22	EVRY	"Lift ___ Voice and Sing" (old hymn)
+24	TENN	T.V.A. part: Abbr.
+25	DRED	Great Scott?
+26	DEG	Acad. goal
+27	EDS	MS. preparers
+13
+1	RAN	Headed
+2	UNENTERED	Not yet explored
+3	GABARDINE	Worsted twill
+4	FTH	July holiday, with "the"
+5	THELOUVRE	Paris attraction that features a [ ]
+6	SEEINGRED	Fuming
+8	PRIE	Prayed, in Paris
+10	LDL	"Bad" cholesterol, initially
+14	LAG	Retardation
+17	SLED	Toboggan, e.g.
+18	BET	Play favorites?
+21	TNG	One of the 
+23	YDS	Rod divs.

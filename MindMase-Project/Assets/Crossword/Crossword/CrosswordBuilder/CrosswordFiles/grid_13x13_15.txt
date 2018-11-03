@@ -1,0 +1,227 @@
+grid_13x13_15
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	4	0		1	1	5	0	
+0	1	1	H	0	2	4	1	HOBO	0	2	12	1	HOLYSTROLLER
+0	1	2	O	0	2	4	0		0	3	3	1	OBI
+0	1	3	B	0	2	4	0		0	4	4	1	BUCK
+0	1	4	O	0	2	4	0		0	5	5	1	OPENA
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	5	F	0	7	3	1	FBI	0	7	3	1	FBS
+0	1	6	B	0	7	3	0		0	8	3	1	BAI
+0	1	7	I	0	7	3	0		0	9	8	1	INCAREOF
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	8	B	1	1	5	1	BOBUP	1	1	5	1	BEAUX
+0	0	0	O	1	1	5	0		0	2	12	0	
+0	0	0	B	1	1	5	0		0	3	3	0	
+0	0	0	U	1	1	5	0		0	4	4	0	
+0	0	0	P	1	1	5	0		0	5	5	0	
+1	0	0	#	1	7	5	0		2	6	0	0	
+0	1	9	B	1	7	5	1	BANFF	0	7	3	0	
+0	0	0	A	1	7	5	0		0	8	3	0	
+0	0	0	N	1	7	5	0		0	9	8	0	
+0	1	10	F	1	7	5	0		1	10	12	1	FIREANDDRAIN
+0	1	11	F	1	7	5	0		1	11	5	1	FLIRT
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	12	F	2	0	6	1	FELICE	2	0	3	1	FLO
+0	0	0	E	2	0	6	0		1	1	5	0	
+0	0	0	L	2	0	6	0		0	2	12	0	
+0	0	0	I	2	0	6	0		0	3	3	0	
+0	0	0	C	2	0	6	0		0	4	4	0	
+0	0	0	E	2	0	6	0		0	5	5	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	13	S	2	7	6	1	SICILY	0	7	3	0	
+0	0	0	I	2	7	6	0		0	8	3	0	
+0	0	0	C	2	7	6	0		0	9	8	0	
+0	0	0	I	2	7	6	0		1	10	12	0	
+0	0	0	L	2	7	6	0		1	11	5	0	
+0	1	14	Y	2	7	6	0		2	12	3	1	YAS
+0	1	15	L	3	0	3	1	LAY	2	0	3	0	
+0	0	0	A	3	0	3	0		1	1	5	0	
+0	0	0	Y	3	0	3	0		0	2	12	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	16	K	3	4	3	1	KNT	0	4	4	0	
+0	0	0	N	3	4	3	0		0	5	5	0	
+0	1	17	T	3	4	3	0		3	6	7	1	TSUNAMI
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	4	0		4	8	3	0	
+0	1	18	A	3	9	4	1	ARIA	0	9	8	0	
+0	0	0	R	3	9	4	0		1	10	12	0	
+0	0	0	I	3	9	4	0		1	11	5	0	
+0	0	0	A	3	9	4	0		2	12	3	0	
+0	1	19	O	4	0	3	1	OUS	2	0	3	0	
+0	0	0	U	4	0	3	0		1	1	5	0	
+0	0	0	S	4	0	3	0		0	2	12	0	
+1	0	0	#	4	4	0	0		5	3	8	0	
+1	0	0	#	4	5	8	0		5	4	0	0	
+0	1	20	A	4	5	8	1	ASPIRERS	0	5	5	0	
+0	0	0	S	4	5	8	0		3	6	7	0	
+0	1	21	P	4	5	8	0		4	7	3	1	PPG
+0	1	22	I	4	5	8	0		4	8	3	1	IBE
+0	0	0	R	4	5	8	0		0	9	8	0	
+0	0	0	E	4	5	8	0		1	10	12	0	
+0	0	0	R	4	5	8	0		1	11	5	0	
+0	0	0	S	4	5	8	0		2	12	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	23	X	5	1	3	1	XTC	1	1	5	0	
+0	0	0	T	5	1	3	0		0	2	12	0	
+0	1	24	C	5	1	3	0		5	3	8	1	CELLARED
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	6	0		6	5	3	0	
+0	1	25	U	5	6	6	1	UPBEAT	3	6	7	0	
+0	0	0	P	5	6	6	0		4	7	3	0	
+0	0	0	B	5	6	6	0		4	8	3	0	
+0	0	0	E	5	6	6	0		0	9	8	0	
+0	0	0	A	5	6	6	0		1	10	12	0	
+0	0	0	T	5	6	6	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	9	0		7	1	5	0	
+0	1	26	R	6	2	9	1	REVENGEON	0	2	12	0	
+0	0	0	E	6	2	9	0		5	3	8	0	
+0	1	27	V	6	2	9	0		6	4	3	1	VAN
+0	1	28	E	6	2	9	0		6	5	3	1	EDA
+0	0	0	N	6	2	9	0		3	6	7	0	
+0	0	0	G	6	2	9	0		4	7	3	0	
+0	0	0	E	6	2	9	0		4	8	3	0	
+0	0	0	O	6	2	9	0		0	9	8	0	
+0	0	0	N	6	2	9	0		1	10	12	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	29	C	7	1	6	1	COLADA	7	1	5	1	CULPA
+0	0	0	O	7	1	6	0		0	2	12	0	
+0	0	0	L	7	1	6	0		5	3	8	0	
+0	0	0	A	7	1	6	0		6	4	3	0	
+0	0	0	D	7	1	6	0		6	5	3	0	
+0	0	0	A	7	1	6	0		3	6	7	0	
+1	0	0	#	7	8	0	0		8	7	5	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	30	F	7	9	3	1	FDA	0	9	8	0	
+0	0	0	D	7	9	3	0		1	10	12	0	
+0	1	31	A	7	9	3	0		7	11	5	1	ALEVE
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	32	F	8	0	8	1	FULLNAME	8	0	3	1	FAS
+0	0	0	U	8	0	8	0		7	1	5	0	
+0	0	0	L	8	0	8	0		0	2	12	0	
+0	0	0	L	8	0	8	0		5	3	8	0	
+0	0	0	N	8	0	8	0		6	4	3	0	
+0	0	0	A	8	0	8	0		6	5	3	0	
+0	0	0	M	8	0	8	0		3	6	7	0	
+0	1	33	E	8	0	8	0		8	7	5	1	ENCYC
+1	0	0	#	8	9	0	0		9	8	4	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	34	D	8	10	3	1	DLR	1	10	12	0	
+0	0	0	L	8	10	3	0		7	11	5	0	
+0	1	35	R	8	10	3	0		8	12	3	1	RAE
+0	1	36	A	9	0	4	1	ALLA	8	0	3	0	
+0	0	0	L	9	0	4	0		7	1	5	0	
+0	0	0	L	9	0	4	0		0	2	12	0	
+0	0	0	A	9	0	4	0		5	3	8	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	37	I	9	6	3	1	INE	3	6	7	0	
+0	0	0	N	9	6	3	0		8	7	5	0	
+0	1	38	E	9	6	3	0		9	8	4	1	ELAM
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	R	9	10	3	1	REA	1	10	12	0	
+0	0	0	E	9	10	3	0		7	11	5	0	
+0	0	0	A	9	10	3	0		8	12	3	0	
+0	1	40	S	10	0	6	1	SPERRY	8	0	3	0	
+0	0	0	P	10	0	6	0		7	1	5	0	
+0	0	0	E	10	0	6	0		0	2	12	0	
+0	0	0	R	10	0	6	0		5	3	8	0	
+0	1	41	R	10	0	6	0		10	4	3	1	RAB
+0	1	42	Y	10	0	6	0		10	5	3	1	YRS
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	43	C	10	7	6	1	CLEAVE	8	7	5	0	
+0	0	0	L	10	7	6	0		9	8	4	0	
+0	1	44	E	10	7	6	0		10	9	3	1	ELO
+0	0	0	A	10	7	6	0		1	10	12	0	
+0	0	0	V	10	7	6	0		7	11	5	0	
+0	0	0	E	10	7	6	0		8	12	3	0	
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	45	A	11	1	5	1	AREAR	7	1	5	0	
+0	0	0	R	11	1	5	0		0	2	12	0	
+0	0	0	E	11	1	5	0		5	3	8	0	
+0	0	0	A	11	1	5	0		10	4	3	0	
+0	0	0	R	11	1	5	0		10	5	3	0	
+1	0	0	#	11	7	5	0		12	6	0	0	
+0	1	46	Y	11	7	5	1	YALIE	8	7	5	0	
+0	0	0	A	11	7	5	0		9	8	4	0	
+0	0	0	L	11	7	5	0		10	9	3	0	
+0	0	0	I	11	7	5	0		1	10	12	0	
+0	0	0	E	11	7	5	0		7	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	47	D	12	3	3	1	DBS	5	3	8	0	
+0	0	0	B	12	3	3	0		10	4	3	0	
+0	0	0	S	12	3	3	0		10	5	3	0	
+1	0	0	#	12	7	4	0		13	6	0	0	
+0	1	48	C	12	7	4	1	CMON	8	7	5	0	
+0	0	0	M	12	7	4	0		9	8	4	0	
+0	0	0	O	12	7	4	0		10	9	3	0	
+0	0	0	N	12	7	4	0		1	10	12	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	HOBO	Sundowner
+5	FBI	J. Edgar Hoover's org.
+8	BOBUP	Bounce to the surface
+9	BANFF	Alberta national park
+12	FELICE	Girl's name meaning "happy"
+13	SICILY	It's off the tip of Italy
+15	LAY	Ballad
+16	KNT	Round Table title: Abbr.
+18	ARIA	Solo
+19	OUS	Suffix with libel
+20	ASPIRERS	Goal-oriented sorts
+23	XTC	A street drug, for short
+25	UPBEAT	In high spirits
+26	REVENGEON	Pay back
+29	COLADA	Fruity mixed drink
+30	FDA	Grp. whose approval is often sought
+32	FULLNAME	Application information
+34	DLR	Abbr. on some license plates
+36	ALLA	Teatro ___ Scala
+37	INE	Suffix with Paul
+39	REA	Stephen of "FearDotCom"
+40	SPERRY	Gyro inventor
+43	CLEAVE	Stick (to)
+45	AREAR	Toward the caboose
+46	YALIE	Supporter of the mascot Handsome Dan
+47	DBS	Sound units: Abbr.
+48	CMON	"Follow us!"
+27
+1	HOLYSTROLLER	Pilgrim?
+2	OBI	Geisha's accessory
+3	BUCK	One, informally
+4	OPENA	___ can of worms
+5	FBS	Some N.F.L. ball carriers
+6	BAI	Actress ___ Ling of "The Crow"
+7	INCAREOF	To be handled by
+8	BEAUX	Swains
+10	FIREANDDRAIN	Concerns of a safety sprinkler system?
+11	FLIRT	Play at love
+12	FLO	Pop music's ___ & Eddie
+14	YAS	Title syllables in a 1961 Lee Dorsey hit
+17	TSUNAMI	Literally, "harbor wave"
+21	PPG	Hoops stat.
+22	IBE	"How Can ___ Sure?" (1967 hit)
+24	CELLARED	Stored, in a way
+27	VAN	Deliverer's need
+28	EDA	"The Conspiracy Against Childhood" writer LeShan
+29	CULPA	Mea ___
+31	ALEVE	Anacin alternative
+32	FAS	Fourth members of a musical group
+33	ENCYC	Multivolume ref.
+35	RAE	"The Facts of Life" actress Charlotte
+38	ELAM	Shem's eldest son
+41	RAB	Music category
+42	YRS	'07, '08 and '09
+44	ELO	"Do Ya" rock grp.

@@ -1,0 +1,117 @@
+grid_9x9_61
+9
+0	1	1	S	0	0	3	1	SAP	0	0	3	1	SRS
+0	1	2	A	0	0	3	0		0	1	3	1	AOL
+0	1	3	P	0	0	3	0		0	2	9	1	PURITANIC
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	C	0	5	3	1	CRA	0	5	3	1	CYD
+0	1	5	R	0	5	3	0		0	6	9	1	RABBITRUN
+0	1	6	A	0	5	3	0		0	7	5	1	APLOT
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	R	1	0	4	1	ROUT	0	0	3	0	
+0	0	0	O	1	0	4	0		0	1	3	0	
+0	0	0	U	1	0	4	0		0	2	9	0	
+0	1	8	T	1	0	4	0		1	3	4	1	TSAR
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	9	Y	1	5	3	1	YAP	0	5	3	0	
+0	0	0	A	1	5	3	0		0	6	9	0	
+0	0	0	P	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	10	S	2	0	4	1	SLRS	0	0	3	0	
+0	0	0	L	2	0	4	0		0	1	3	0	
+0	0	0	R	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	D	2	5	4	1	DBLS	0	5	3	0	
+0	0	0	B	2	5	4	0		0	6	9	0	
+0	0	0	L	2	5	4	0		0	7	5	0	
+0	1	12	S	2	5	4	0		2	8	3	1	SNE
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	I	3	2	3	1	IAS	0	2	9	0	
+0	0	0	A	3	2	3	0		1	3	4	0	
+0	1	14	S	3	2	3	0		3	4	3	1	SAR
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	B	3	6	3	1	BON	0	6	9	0	
+0	0	0	O	3	6	3	0		0	7	5	0	
+0	0	0	N	3	6	3	0		2	8	3	0	
+0	1	16	E	4	0	9	1	EXTRADITE	4	0	3	1	ENV
+0	1	17	X	4	0	9	0		4	1	5	1	XRAYS
+0	0	0	T	4	0	9	0		0	2	9	0	
+0	0	0	R	4	0	9	0		1	3	4	0	
+0	0	0	A	4	0	9	0		3	4	3	0	
+0	1	18	D	4	0	9	0		4	5	4	1	DOUP
+0	0	0	I	4	0	9	0		0	6	9	0	
+0	0	0	T	4	0	9	0		0	7	5	0	
+0	0	0	E	4	0	9	0		2	8	3	0	
+0	1	19	N	5	0	3	1	NRA	4	0	3	0	
+0	0	0	R	5	0	3	0		4	1	5	0	
+0	0	0	A	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	R	5	4	3	1	ROT	3	4	3	0	
+0	0	0	O	5	4	3	0		4	5	4	0	
+0	0	0	T	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	21	V	6	0	4	1	VANE	4	0	3	0	
+0	0	0	A	6	0	4	0		4	1	5	0	
+0	0	0	N	6	0	4	0		0	2	9	0	
+0	1	22	E	6	0	4	0		6	3	3	1	ENS
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	23	U	6	5	4	1	URGE	4	5	4	0	
+0	0	0	R	6	5	4	0		0	6	9	0	
+0	1	24	G	6	5	4	0		6	7	3	1	GPO
+0	1	25	E	6	5	4	0		6	8	3	1	EUR
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	26	Y	7	1	3	1	YIN	4	1	5	0	
+0	0	0	I	7	1	3	0		0	2	9	0	
+0	0	0	N	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	P	7	5	4	1	PUPU	4	5	4	0	
+0	0	0	U	7	5	4	0		0	6	9	0	
+0	0	0	P	7	5	4	0		6	7	3	0	
+0	0	0	U	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	S	8	1	3	1	SCS	4	1	5	0	
+0	0	0	C	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	N	8	6	3	1	NOR	0	6	9	0	
+0	0	0	O	8	6	3	0		6	7	3	0	
+0	0	0	R	8	6	3	0		6	8	3	0	
+17
+1	SAP	It may be found in a trunk
+4	CRA	Neckcloth
+7	ROUT	Football score of 60-0, say
+9	YAP	Jabber
+10	SLRS	Shooters for pros
+11	DBLS	Some baseball hits: Abbr.
+13	IAS	"___ in Icarus" (1979 French thriller)
+15	BON	___ voyage
+16	EXTRADITE	Obtain, as a suspect, from another state
+19	NRA	Org. with the Eddie Eagle safety program
+20	ROT	Spoil
+21	VANE	It turns on a turbine
+23	URGE	Motivation
+26	YIN	Dark force
+27	PUPU	___ platter (Polynesian menu choice)
+28	SCS	Barges
+29	NOR	Here-there connector
+15
+1	SRS	Some discount beneficiaries: Abbr.
+2	AOL	Co. split off from Time Warner in 2009
+3	PURITANIC	Overly strict
+4	CYD	Charisse of "Singin' in the Rain"
+5	RABBITRUN	Wood-and-chicken-wire enclosure
+6	APLOT	"It's all ___!"
+8	TSAR	Opera "The Tale of ___ Saltan"
+12	SNE	1983 Indy winner Tom
+14	SAR	Fraternal patriotic org.
+16	ENV	P.O. delivery
+17	XRAYS	Checks for contraband, maybe
+18	DOUP	Arrange, as hair
+22	ENS	Napkin edges?
+24	GPO	Main mailbox locale: Abbr.
+25	EUR	U.K.'s locale

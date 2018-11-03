@@ -1,0 +1,117 @@
+grid_9x9_131
+9
+0	1	1	D	0	0	3	1	DDT	0	0	3	1	DIS
+0	1	2	D	0	0	3	0		0	1	3	1	DSM
+0	1	3	T	0	0	3	0		0	2	9	1	TNEDPLANE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MCC	0	5	3	1	MOB
+0	1	5	C	0	5	3	0		0	6	9	1	CHIENLIEN
+0	1	6	C	0	5	3	0		0	7	5	1	COCKY
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	I	1	0	4	1	ISNO	0	0	3	0	
+0	0	0	S	1	0	4	0		0	1	3	0	
+0	0	0	N	1	0	4	0		0	2	9	0	
+0	1	8	O	1	0	4	0		1	3	4	1	OEIL
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	O	1	5	4	1	OHOS	0	5	3	0	
+0	0	0	H	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	5	0	
+0	1	10	S	1	5	4	0		1	8	3	1	SSE
+0	1	11	S	2	0	4	1	SMEE	0	0	3	0	
+0	0	0	M	2	0	4	0		0	1	3	0	
+0	0	0	E	2	0	4	0		0	2	9	0	
+0	0	0	E	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	B	2	5	4	1	BICS	0	5	3	0	
+0	0	0	I	2	5	4	0		0	6	9	0	
+0	0	0	C	2	5	4	0		0	7	5	0	
+0	0	0	S	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	D	3	2	3	1	DIK	0	2	9	0	
+0	0	0	I	3	2	3	0		1	3	4	0	
+0	1	14	K	3	2	3	0		3	4	3	1	KES
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	E	3	6	3	1	EKE	0	6	9	0	
+0	0	0	K	3	6	3	0		0	7	5	0	
+0	0	0	E	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	16	S	4	1	7	1	SPLEENY	4	1	5	1	SMOER
+0	0	0	P	4	1	7	0		0	2	9	0	
+0	0	0	L	4	1	7	0		1	3	4	0	
+0	0	0	E	4	1	7	0		3	4	3	0	
+0	1	17	E	4	1	7	0		4	5	4	1	EONS
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	0	0	Y	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	M	5	0	3	1	MML	5	0	3	1	MSG
+0	0	0	M	5	0	3	0		4	1	5	0	
+0	0	0	L	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	19	S	5	4	3	1	SOL	3	4	3	0	
+0	0	0	O	5	4	3	0		4	5	4	0	
+0	0	0	L	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	S	6	0	4	1	SOAS	5	0	3	0	
+0	0	0	O	6	0	4	0		4	1	5	0	
+0	0	0	A	6	0	4	0		0	2	9	0	
+0	1	21	S	6	0	4	0		6	3	3	1	SET
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	22	N	6	5	4	1	NIMS	4	5	4	0	
+0	0	0	I	6	5	4	0		0	6	9	0	
+0	1	23	M	6	5	4	0		6	7	3	1	MSF
+0	1	24	S	6	5	4	0		6	8	3	1	SEC
+0	1	25	G	7	0	4	1	GENE	5	0	3	0	
+0	0	0	E	7	0	4	0		4	1	5	0	
+0	0	0	N	7	0	4	0		0	2	9	0	
+0	0	0	E	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	26	S	7	5	4	1	SESE	4	5	4	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	S	7	5	4	0		6	7	3	0	
+0	0	0	E	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	R	8	1	3	1	RET	4	1	5	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	T	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	28	N	8	6	3	1	NFC	0	6	9	0	
+0	0	0	F	8	6	3	0		6	7	3	0	
+0	0	0	C	8	6	3	0		6	8	3	0	
+17
+1	DDT	Old agricultural letters
+4	MCC	Century-ending Middle Ages year
+7	ISNO	"Ignorance ___ excuse"
+9	OHOS	Cries of discovery
+11	SMEE	Captain Hook's mate in "Peter Pan"
+12	BICS	Inexpensive pens
+13	DIK	Cartoonist Browne
+15	EKE	___ out (just manage)
+16	SPLEENY	Peevish
+18	MML	Middle of this century
+19	SOL	Scale tone
+20	SOAS	In order
+22	NIMS	Steals, old-style
+25	GENE	Trait determinant
+26	SESE	Mobutu ___ Seko of Zaire
+27	RET	Part of some mil. titles
+28	NFC	Super Bowl winner more than 50% of the time: Abbr.
+15
+1	DIS	Insult, slangily
+2	DSM	Mil. award
+3	TNEDPLANE	BEECHCRAFT BARON OR CESSNA 310
+4	MOB	Kind of scene
+5	CHIENLIEN	Hysterical hen of fable
+6	COCKY	Overly self-confident
+8	OEIL	Concern of optom
+10	SSE	Ship's hdg.
+14	KES	Evelyn who played Scarlett's sister
+16	SMOER	Burn slowly
+17	EONS	A long time to wait
+18	MSG	Flavor-enhancing additive
+21	SET	Kind of point or theory
+23	MSF	Misery
+24	SEC	N.Y.S.E. regulator

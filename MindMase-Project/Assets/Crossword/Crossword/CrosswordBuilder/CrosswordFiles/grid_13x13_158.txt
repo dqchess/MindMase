@@ -1,0 +1,227 @@
+grid_13x13_158
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	0	0		1	2	12	0	
+1	0	0	#	0	4	3	0		1	3	4	0	
+0	1	1	G	0	4	3	1	GOB	0	4	3	1	GAP
+0	1	2	O	0	4	3	0		0	5	3	1	ORR
+0	1	3	B	0	4	3	0		0	6	4	1	BNEG
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	6	0	
+0	1	4	Q	0	10	3	1	QAS	0	10	12	1	QUETZALCOATL
+0	1	5	A	0	10	3	0		0	11	6	1	ASNEAR
+0	1	6	S	0	10	3	0		0	12	3	1	SET
+1	0	0	#	1	1	7	0		2	0	4	0	
+0	1	7	L	1	1	7	1	LOCARNO	1	1	5	1	LINDY
+0	1	8	O	1	1	7	0		1	2	12	1	OCEANSELEVEN
+0	1	9	C	1	1	7	0		1	3	4	1	CERN
+0	0	0	A	1	1	7	0		0	4	3	0	
+0	0	0	R	1	1	7	0		0	5	3	0	
+0	0	0	N	1	1	7	0		0	6	4	0	
+0	1	10	O	1	1	7	0		1	7	3	1	OSA
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	11	O	1	9	4	1	OUSE	1	9	6	1	ODETTA
+0	0	0	U	1	9	4	0		0	10	12	0	
+0	0	0	S	1	9	4	0		0	11	6	0	
+0	0	0	E	1	9	4	0		0	12	3	0	
+0	1	12	V	2	0	13	1	VICEPRESIDENT	2	0	4	1	VEGS
+0	0	0	I	2	0	13	0		1	1	5	0	
+0	0	0	C	2	0	13	0		1	2	12	0	
+0	0	0	E	2	0	13	0		1	3	4	0	
+0	0	0	P	2	0	13	0		0	4	3	0	
+0	0	0	R	2	0	13	0		0	5	3	0	
+0	0	0	E	2	0	13	0		0	6	4	0	
+0	0	0	S	2	0	13	0		1	7	3	0	
+0	1	13	I	2	0	13	0		2	8	3	1	IMS
+0	0	0	D	2	0	13	0		1	9	6	0	
+0	0	0	E	2	0	13	0		0	10	12	0	
+0	0	0	N	2	0	13	0		0	11	6	0	
+0	0	0	T	2	0	13	0		0	12	3	0	
+0	1	14	E	3	0	4	1	ENER	2	0	4	0	
+0	0	0	N	3	0	4	0		1	1	5	0	
+0	0	0	E	3	0	4	0		1	2	12	0	
+0	0	0	R	3	0	4	0		1	3	4	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	6	0		4	5	4	0	
+0	1	15	G	3	6	6	1	GAMETE	0	6	4	0	
+0	0	0	A	3	6	6	0		1	7	3	0	
+0	0	0	M	3	6	6	0		2	8	3	0	
+0	0	0	E	3	6	6	0		1	9	6	0	
+0	0	0	T	3	6	6	0		0	10	12	0	
+0	0	0	E	3	6	6	0		0	11	6	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	16	G	4	0	6	1	GDANSK	2	0	4	0	
+0	0	0	D	4	0	6	0		1	1	5	0	
+0	0	0	A	4	0	6	0		1	2	12	0	
+0	0	0	N	4	0	6	0		1	3	4	0	
+0	1	17	S	4	0	6	0		4	4	3	1	SIX
+0	1	18	K	4	0	6	0		4	5	4	1	KNAP
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	4	0		5	7	4	0	
+0	1	19	S	4	8	4	1	STZA	2	8	3	0	
+0	0	0	T	4	8	4	0		1	9	6	0	
+0	0	0	Z	4	8	4	0		0	10	12	0	
+0	0	0	A	4	8	4	0		0	11	6	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	20	S	5	0	3	1	SYN	2	0	4	0	
+0	0	0	Y	5	0	3	0		1	1	5	0	
+0	0	0	N	5	0	3	0		1	2	12	0	
+1	0	0	#	5	4	4	0		6	3	6	0	
+0	1	21	I	5	4	4	1	INGA	4	4	3	0	
+0	0	0	N	5	4	4	0		4	5	4	0	
+0	1	22	G	5	4	4	0		5	6	3	1	GPA
+0	1	23	A	5	4	4	0		5	7	4	1	APSO
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	24	T	5	9	3	1	TAR	1	9	6	0	
+0	0	0	A	5	9	3	0		0	10	12	0	
+0	0	0	R	5	9	3	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	9	0		7	1	6	0	
+0	1	25	S	6	2	9	1	SEXAPPEAL	1	2	12	0	
+0	1	26	E	6	2	9	0		6	3	6	1	ESTHER
+0	0	0	X	6	2	9	0		4	4	3	0	
+0	0	0	A	6	2	9	0		4	5	4	0	
+0	0	0	P	6	2	9	0		5	6	3	0	
+0	0	0	P	6	2	9	0		5	7	4	0	
+0	1	27	E	6	2	9	0		6	8	3	1	ETH
+0	0	0	A	6	2	9	0		1	9	6	0	
+0	0	0	L	6	2	9	0		0	10	12	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	4	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	28	B	7	1	3	1	BES	7	1	6	1	BADEND
+0	0	0	E	7	1	3	0		1	2	12	0	
+0	0	0	S	7	1	3	0		6	3	6	0	
+1	0	0	#	7	5	4	0		8	4	3	0	
+0	1	29	P	7	5	4	1	PAST	4	5	4	0	
+0	0	0	A	7	5	4	0		5	6	3	0	
+0	0	0	S	7	5	4	0		5	7	4	0	
+0	0	0	T	7	5	4	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	30	C	7	10	3	1	CFO	0	10	12	0	
+0	1	31	F	7	10	3	0		7	11	5	1	FANCY
+0	1	32	O	7	10	3	0		7	12	4	1	ONEH
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	33	A	8	1	4	1	ALTE	7	1	6	0	
+0	0	0	L	8	1	4	0		1	2	12	0	
+0	0	0	T	8	1	4	0		6	3	6	0	
+0	1	34	E	8	1	4	0		8	4	3	1	EON
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	35	O	8	7	6	1	OHIOAN	5	7	4	0	
+0	0	0	H	8	7	6	0		6	8	3	0	
+0	1	36	I	8	7	6	0		8	9	4	1	IVIE
+0	0	0	O	8	7	6	0		0	10	12	0	
+0	0	0	A	8	7	6	0		7	11	5	0	
+0	0	0	N	8	7	6	0		7	12	4	0	
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	37	D	9	1	6	1	DEHORN	7	1	6	0	
+0	0	0	E	9	1	6	0		1	2	12	0	
+0	0	0	H	9	1	6	0		6	3	6	0	
+0	0	0	O	9	1	6	0		8	4	3	0	
+0	1	38	R	9	1	6	0		9	5	3	1	RYS
+0	1	39	N	9	1	6	0		9	6	4	1	NENA
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	40	V	9	9	4	1	VANE	8	9	4	0	
+0	0	0	A	9	9	4	0		0	10	12	0	
+0	0	0	N	9	9	4	0		7	11	5	0	
+0	0	0	E	9	9	4	0		7	12	4	0	
+0	1	41	S	10	0	13	1	SEVENYEARITCH	10	0	3	1	SOC
+0	0	0	E	10	0	13	0		7	1	6	0	
+0	0	0	V	10	0	13	0		1	2	12	0	
+0	0	0	E	10	0	13	0		6	3	6	0	
+0	0	0	N	10	0	13	0		8	4	3	0	
+0	0	0	Y	10	0	13	0		9	5	3	0	
+0	0	0	E	10	0	13	0		9	6	4	0	
+0	1	42	A	10	0	13	0		10	7	3	1	AIS
+0	1	43	R	10	0	13	0		10	8	3	1	RDS
+0	0	0	I	10	0	13	0		8	9	4	0	
+0	0	0	T	10	0	13	0		0	10	12	0	
+0	0	0	C	10	0	13	0		7	11	5	0	
+0	0	0	H	10	0	13	0		7	12	4	0	
+0	1	44	O	11	0	4	1	ONER	10	0	3	0	
+0	0	0	N	11	0	4	0		7	1	6	0	
+0	0	0	E	11	0	4	0		1	2	12	0	
+0	0	0	R	11	0	4	0		6	3	6	0	
+1	0	0	#	11	5	7	0		12	4	0	0	
+0	1	45	S	11	5	7	1	SNIDELY	9	5	3	0	
+0	0	0	N	11	5	7	0		9	6	4	0	
+0	0	0	I	11	5	7	0		10	7	3	0	
+0	0	0	D	11	5	7	0		10	8	3	0	
+0	0	0	E	11	5	7	0		8	9	4	0	
+0	0	0	L	11	5	7	0		0	10	12	0	
+0	0	0	Y	11	5	7	0		7	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	46	C	12	0	3	1	CDN	10	0	3	0	
+0	0	0	D	12	0	3	0		7	1	6	0	
+0	0	0	N	12	0	3	0		1	2	12	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	47	A	12	6	3	1	ASS	9	6	4	0	
+0	0	0	S	12	6	3	0		10	7	3	0	
+0	0	0	S	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	0	0		13	9	0	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	GOB	Chunk
+4	QAS	___ in queen
+7	LOCARNO	International conference site in Switzerland, 1925
+11	OUSE	English river to the Wash
+12	VICEPRESIDENT	#2 on a ticket
+14	ENER	D.O.E. part: Abbr.
+15	GAMETE	Reproductive cell
+16	GDANSK	City where Lech Walesa rose to prominence
+19	STZA	Anthem part
+20	SYN	Single, for one: Abbr.
+21	INGA	Swenson of "Benson"
+24	TAR	Gooey stuff
+25	SEXAPPEAL	Oomph
+28	BES	Wanna-___ (pretenders)
+29	PAST	Over
+30	CFO	Head of cabbage?: Abbr.
+33	ALTE	Der ___ Fritz (Friedrich the Great)
+35	OHIOAN	William Howard Taft, by birth
+37	DEHORN	Take away the defenses of
+40	VANE	Roof topper
+41	SEVENYEARITCH	"1952 George Axelrod Broadway farce, with ""The"""
+44	ONER	Not just a rarity
+45	SNIDELY	In a nasty way
+46	CDN	Like some dollars on currency exch. boards
+47	ASS	Foolish sort
+29
+1	GAP	Clothing store, with "The"
+2	ORR	Hockey's 1967 Calder Trophy winner
+3	BNEG	Rare blood type, informally
+4	QUETZALCOATL	Feathered Serpent
+5	ASNEAR	Comparatively close
+6	SET	Movie backdrop
+7	LINDY	Popular 30's dance
+8	OCEANSELEVEN	1960 Sinatra movie
+9	CERN	Geneva research ctr.
+10	OSA	Massen of the 1940s film "Tokyo Rose"
+11	ODETTA	"Glory, Glory" singer
+12	VEGS	Side dishes: Abbr.
+13	IMS	Real-time e-notes
+17	SIX	Lowest number on a clock
+18	KNAP	Chip, as flint, in Britain
+22	GPA	3.9, e.g.
+23	APSO	Dog tail?
+26	ESTHER	Purim honoree
+27	ETH	Neighbor of Sudan: Abbr.
+28	BADEND	What many villains come to
+31	FANCY	It may be tickled
+32	ONEH	50%
+34	EON	Years on end
+36	IVIE	Jazz singer Anderson
+38	RYS	Guitarist Cooder and others
+39	NENA	"99 Red Balloons" singer, 1984
+41	SOC	Part of S.P.C.A.: Abbr.
+42	AIS	Start of some picture books
+43	RDS	Byways: Abbr.

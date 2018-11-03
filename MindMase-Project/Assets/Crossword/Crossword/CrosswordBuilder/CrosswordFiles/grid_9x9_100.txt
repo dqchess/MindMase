@@ -1,0 +1,115 @@
+grid_9x9_100
+9
+0	1	1	N	0	0	3	1	NUT	0	0	3	1	NES
+0	1	2	U	0	0	3	0		0	1	3	1	UVA
+0	1	3	T	0	0	3	0		0	2	9	1	TETEATETE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	A	0	5	3	1	APR	0	5	3	1	ARN
+0	1	5	P	0	5	3	0		0	6	9	1	POINTEDTO
+0	1	6	R	0	5	3	0		0	7	5	1	RUNES
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	E	1	0	3	1	EVE	0	0	3	0	
+0	0	0	V	1	0	3	0		0	1	3	0	
+0	0	0	E	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	O	1	4	5	1	OROUT	1	4	7	1	ORDINAL
+0	0	0	R	1	4	5	0		0	5	3	0	
+0	0	0	O	1	4	5	0		0	6	9	0	
+0	0	0	U	1	4	5	0		0	7	5	0	
+0	1	9	T	1	4	5	0		1	8	3	1	TEY
+0	1	10	S	2	0	9	1	SATURNINE	0	0	3	0	
+0	0	0	A	2	0	9	0		0	1	3	0	
+0	0	0	T	2	0	9	0		0	2	9	0	
+0	1	11	U	2	0	9	0		2	3	3	1	UDO
+0	0	0	R	2	0	9	0		1	4	7	0	
+0	0	0	N	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	9	0	
+0	0	0	N	2	0	9	0		0	7	5	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	E	3	2	3	1	EDD	0	2	9	0	
+0	0	0	D	3	2	3	0		2	3	3	0	
+0	0	0	D	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	N	3	6	3	1	NEY	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	Y	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	M	4	1	7	1	MAOISTS	4	1	5	1	MIKAN
+0	0	0	A	4	1	7	0		0	2	9	0	
+0	0	0	O	4	1	7	0		2	3	3	0	
+0	0	0	I	4	1	7	0		1	4	7	0	
+0	1	15	S	4	1	7	0		4	5	3	1	SED
+0	0	0	T	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	H	5	0	3	1	HIT	5	0	3	1	HSN
+0	0	0	I	5	0	3	0		4	1	5	0	
+0	0	0	T	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	N	5	4	3	1	NEE	1	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	E	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	S	6	0	9	1	SKEDADDLE	5	0	3	0	
+0	0	0	K	6	0	9	0		4	1	5	0	
+0	0	0	E	6	0	9	0		0	2	9	0	
+0	1	19	D	6	0	9	0		6	3	3	1	DAL
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	0	0	D	6	0	9	0		4	5	3	0	
+0	0	0	D	6	0	9	0		0	6	9	0	
+0	1	20	L	6	0	9	0		6	7	3	1	LOL
+0	1	21	E	6	0	9	0		6	8	3	1	EFS
+0	1	22	N	7	0	5	1	NATAL	5	0	3	0	
+0	0	0	A	7	0	5	0		4	1	5	0	
+0	0	0	T	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		6	3	3	0	
+0	0	0	L	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	T	7	6	3	1	TOF	0	6	9	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	F	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	N	8	1	3	1	NEL	4	1	5	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	L	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	O	8	6	3	1	OLS	0	6	9	0	
+0	0	0	L	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	NUT	Wack job
+4	APR	Financial fig.
+7	EVE	Dark time, briefly
+8	OROUT	"Indoors ___?"
+10	SATURNINE	Gloomy
+12	EDD	Roush of the Reds
+13	NEY	Marshal at Waterloo
+14	MAOISTS	Gang of Four members
+16	HIT	Big success
+17	NEE	Born abroad
+18	SKEDADDLE	Scoot
+22	NATAL	Birth-related
+23	TOF	___ a kind (pair)
+24	NEL	"Regnava ___ silenzio" (Donizetti aria)
+25	OLS	Barn denizens
+15
+1	NES	Old console using Game Paks, briefly
+2	UVA	School founded by Thos. Jefferson
+3	TETEATETE	Powwow
+4	ARN	Royal son of the comics
+5	POINTEDTO	Indicated
+6	RUNES	Futhark units
+8	ORDINAL	Fifth, e.g.
+9	TEY	Mystery writer Josephine
+11	UDO	Japanese salad ingredient
+14	MIKAN	1949-51 N.B.A. top scorer George
+15	SED	But, to Brutus
+16	HSN	Cable inits. for sales pitches
+19	DAL	The Mavericks, on scoreboards
+20	LOL	Online "ha-ha"
+21	EFS	Two of fifty

@@ -1,0 +1,165 @@
+grid_11x11_165
+11
+0	1	1	P	0	0	3	1	PNE	0	0	5	1	PINCH
+0	1	2	N	0	0	3	0		0	1	5	1	NEILS
+0	1	3	E	0	0	3	0		0	2	5	1	ERGOT
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	6	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	O	0	6	3	1	OFA	0	6	3	1	OCC
+0	1	5	F	0	6	3	0		0	7	5	1	FAHDS
+0	1	6	A	0	6	3	0		0	8	5	1	APOEM
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	I	1	0	5	1	IEREI	0	0	5	0	
+0	0	0	E	1	0	5	0		0	1	5	0	
+0	0	0	R	1	0	5	0		0	2	5	0	
+0	1	8	E	1	0	5	0		1	3	3	1	EHS
+0	1	9	I	1	0	5	0		1	4	6	1	ITEMED
+1	0	0	#	1	6	4	0		2	5	7	0	
+0	1	10	C	1	6	4	1	CAPI	0	6	3	0	
+0	0	0	A	1	6	4	0		0	7	5	0	
+0	0	0	P	1	6	4	0		0	8	5	0	
+0	1	11	I	1	6	4	0		1	9	4	1	IOLA
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	12	N	2	0	11	1	NIGHTSCHOOL	0	0	5	0	
+0	0	0	I	2	0	11	0		0	1	5	0	
+0	0	0	G	2	0	11	0		0	2	5	0	
+0	0	0	H	2	0	11	0		1	3	3	0	
+0	0	0	T	2	0	11	0		1	4	6	0	
+0	1	13	S	2	0	11	0		2	5	7	1	STALEST
+0	0	0	C	2	0	11	0		0	6	3	0	
+0	0	0	H	2	0	11	0		0	7	5	0	
+0	0	0	O	2	0	11	0		0	8	5	0	
+0	0	0	O	2	0	11	0		1	9	4	0	
+0	1	14	L	2	0	11	0		2	10	3	1	LIN
+0	1	15	C	3	0	6	1	CLOSET	0	0	5	0	
+0	0	0	L	3	0	6	0		0	1	5	0	
+0	0	0	O	3	0	6	0		0	2	5	0	
+0	0	0	S	3	0	6	0		1	3	3	0	
+0	0	0	E	3	0	6	0		1	4	6	0	
+0	0	0	T	3	0	6	0		2	5	7	0	
+1	0	0	#	3	7	4	0		4	6	6	0	
+0	1	16	D	3	7	4	1	DELI	0	7	5	0	
+0	0	0	E	3	7	4	0		0	8	5	0	
+0	0	0	L	3	7	4	0		1	9	4	0	
+0	0	0	I	3	7	4	0		2	10	3	0	
+0	1	17	H	4	0	3	1	HST	0	0	5	0	
+0	0	0	S	4	0	3	0		0	1	5	0	
+0	0	0	T	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	7	0		5	3	0	0	
+0	1	18	M	4	4	7	1	MANSMAN	1	4	6	0	
+0	0	0	A	4	4	7	0		2	5	7	0	
+0	1	19	N	4	4	7	0		4	6	6	1	NETMAN
+0	0	0	S	4	4	7	0		0	7	5	0	
+0	0	0	M	4	4	7	0		0	8	5	0	
+0	0	0	A	4	4	7	0		1	9	4	0	
+0	0	0	N	4	4	7	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	0	0		6	2	5	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	20	E	5	4	3	1	ELE	1	4	6	0	
+0	0	0	L	5	4	3	0		2	5	7	0	
+0	0	0	E	5	4	3	0		4	6	6	0	
+1	0	0	#	5	8	0	0		6	7	0	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	5	0	
+0	1	21	C	6	0	7	1	COUPDET	6	0	3	1	CYD
+0	1	22	O	6	0	7	0		6	1	4	1	OEIL
+0	1	23	U	6	0	7	0		6	2	5	1	UTLEY
+0	1	24	P	6	0	7	0		6	3	5	1	PIECE
+0	0	0	D	6	0	7	0		1	4	6	0	
+0	0	0	E	6	0	7	0		2	5	7	0	
+0	0	0	T	6	0	7	0		4	6	6	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	25	A	6	8	3	1	AON	6	8	5	1	ARTIE
+0	1	26	O	6	8	3	0		6	9	5	1	OMENS
+0	1	27	N	6	8	3	0		6	10	5	1	NYSSA
+0	1	28	Y	7	0	4	1	YETI	6	0	3	0	
+0	0	0	E	7	0	4	0		6	1	4	0	
+0	0	0	T	7	0	4	0		6	2	5	0	
+0	0	0	I	7	0	4	0		6	3	5	0	
+1	0	0	#	7	5	6	0		8	4	3	0	
+0	1	29	S	7	5	6	1	SMARMY	2	5	7	0	
+0	0	0	M	7	5	6	0		4	6	6	0	
+0	1	30	A	7	5	6	0		7	7	3	1	ANE
+0	0	0	R	7	5	6	0		6	8	5	0	
+0	0	0	M	7	5	6	0		6	9	5	0	
+0	0	0	Y	7	5	6	0		6	10	5	0	
+0	1	31	D	8	0	11	1	DILETTANTES	6	0	3	0	
+0	0	0	I	8	0	11	0		6	1	4	0	
+0	0	0	L	8	0	11	0		6	2	5	0	
+0	0	0	E	8	0	11	0		6	3	5	0	
+0	1	32	T	8	0	11	0		8	4	3	1	TTT
+0	0	0	T	8	0	11	0		2	5	7	0	
+0	0	0	A	8	0	11	0		4	6	6	0	
+0	0	0	N	8	0	11	0		7	7	3	0	
+0	0	0	T	8	0	11	0		6	8	5	0	
+0	0	0	E	8	0	11	0		6	9	5	0	
+0	0	0	S	8	0	11	0		6	10	5	0	
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	33	L	9	1	4	1	LECT	6	1	4	0	
+0	0	0	E	9	1	4	0		6	2	5	0	
+0	0	0	C	9	1	4	0		6	3	5	0	
+0	0	0	T	9	1	4	0		8	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	34	N	9	6	5	1	NEINS	4	6	6	0	
+0	0	0	E	9	6	5	0		7	7	3	0	
+0	0	0	I	9	6	5	0		6	8	5	0	
+0	0	0	N	9	6	5	0		6	9	5	0	
+0	0	0	S	9	6	5	0		6	10	5	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	Y	10	2	3	1	YET	6	2	5	0	
+0	0	0	E	10	2	3	0		6	3	5	0	
+0	0	0	T	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	E	10	8	3	1	ESA	6	8	5	0	
+0	0	0	S	10	8	3	0		6	9	5	0	
+0	0	0	A	10	8	3	0		6	10	5	0	
+19
+1	PNE	Log cabin material, maybe
+4	OFA	One ___ kind
+7	IEREI	Middle of a famous palindrome
+10	CAPI	Heads of Italy
+12	NIGHTSCHOOL	Some adult education
+15	CLOSET	Skeleton's place?
+16	DELI	Shop that slices meat
+17	HST	V.P. for just two months
+18	MANSMAN	Virile sort
+20	ELE	One in the charge of un instituteur
+21	COUPDET	Overthrow
+25	AON	Get an ___ (ace)
+28	YETI	Mythical Himalayan beast
+29	SMARMY	Excessively flattering
+31	DILETTANTES	Amateurs
+33	LECT	Univ. worker
+34	NEINS	Dortmund denials
+35	YET	As of now
+36	ESA	Conductor ___-Pekka Salonen
+21
+1	PINCH	Recipe amount
+2	NEILS	Simon and others
+3	ERGOT	Rye malady
+4	OCC	Infrequent: Abbr.
+5	FAHDS	Saudi royal and others
+6	APOEM	"He fain would write ___": Browning
+8	EHS	Apathetic reactions
+9	ITEMED	Detailed, old-style
+11	IOLA	Seat of Allen County, Kansas
+13	STALEST	Most musty
+14	LIN	Memorial designer Maya
+19	NETMAN	Court figure
+21	CYD	Charisse of "Silk Stockings"
+22	OEIL	Monique's eye
+23	UTLEY	Newsman Garrick
+24	PIECE	Saturday night special
+25	ARTIE	An ex of Ava
+26	OMENS	...
+27	NYSSA	St. Gregory's residence
+30	ANE	"Wheel of Fortune" purchase
+32	TTT	Fort Smith-to-Little Rock dir.

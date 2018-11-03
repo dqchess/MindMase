@@ -1,0 +1,117 @@
+grid_9x9_82
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	ARD	0	1	5	1	ARGON
+0	1	2	R	0	1	3	0		0	2	9	1	RUGDEALER
+0	1	3	D	0	1	3	0		0	3	3	1	DNY
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	A	0	6	3	1	ANC	0	6	9	1	ABOVEZERO
+0	1	5	N	0	6	3	0		0	7	3	1	NOA
+0	1	6	C	0	6	3	0		0	8	3	1	CWM
+0	1	7	A	1	0	4	1	ARUN	1	0	3	1	AIS
+0	0	0	R	1	0	4	0		0	1	5	0	
+0	0	0	U	1	0	4	0		0	2	9	0	
+0	0	0	N	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	A	1	5	4	1	ABOW	1	5	4	1	ANAL
+0	0	0	B	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	3	0	
+0	0	0	W	1	5	4	0		0	8	3	0	
+0	1	9	I	2	0	4	1	IGGY	1	0	3	0	
+0	0	0	G	2	0	4	0		0	1	5	0	
+0	0	0	G	2	0	4	0		0	2	9	0	
+0	0	0	Y	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	N	2	5	4	1	NOAM	1	5	4	0	
+0	0	0	O	2	5	4	0		0	6	9	0	
+0	0	0	A	2	5	4	0		0	7	3	0	
+0	0	0	M	2	5	4	0		0	8	3	0	
+0	1	11	S	3	0	3	1	SOD	1	0	3	0	
+0	0	0	O	3	0	3	0		0	1	5	0	
+0	0	0	D	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	S	3	4	3	1	SAV	3	4	3	1	SKI
+0	0	0	A	3	4	3	0		1	5	4	0	
+0	0	0	V	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	13	N	4	1	7	1	NECKLET	0	1	5	0	
+0	0	0	E	4	1	7	0		0	2	9	0	
+0	1	14	C	4	1	7	0		4	3	4	1	CPEA
+0	0	0	K	4	1	7	0		3	4	3	0	
+0	0	0	L	4	1	7	0		1	5	4	0	
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	1	15	T	4	1	7	0		4	7	5	1	TIFFS
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	16	A	5	2	3	1	API	0	2	9	0	
+0	0	0	P	5	2	3	0		4	3	4	0	
+0	0	0	I	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	Z	5	6	3	1	ZIN	0	6	9	0	
+0	0	0	I	5	6	3	0		4	7	5	0	
+0	1	18	N	5	6	3	0		5	8	3	1	NTS
+0	1	19	T	6	0	4	1	TGLE	6	0	3	1	TAJ
+0	1	20	G	6	0	4	0		6	1	3	1	GRE
+0	0	0	L	6	0	4	0		0	2	9	0	
+0	0	0	E	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	D	6	5	4	1	DEFT	6	5	3	1	DAY
+0	0	0	E	6	5	4	0		0	6	9	0	
+0	0	0	F	6	5	4	0		4	7	5	0	
+0	0	0	T	6	5	4	0		5	8	3	0	
+0	1	22	A	7	0	4	1	AREA	6	0	3	0	
+0	0	0	R	7	0	4	0		6	1	3	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	A	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	23	A	7	5	4	1	ARFS	6	5	3	0	
+0	0	0	R	7	5	4	0		0	6	9	0	
+0	0	0	F	7	5	4	0		4	7	5	0	
+0	0	0	S	7	5	4	0		5	8	3	0	
+0	1	24	J	8	0	3	1	JER	6	0	3	0	
+0	0	0	E	8	0	3	0		6	1	3	0	
+0	0	0	R	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	Y	8	5	3	1	YOS	6	5	3	0	
+0	0	0	O	8	5	3	0		0	6	9	0	
+0	0	0	S	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	ARD	Dull finish?
+4	ANC	Like some history: Abbr.
+7	ARUN	Give ___ for one's money
+8	ABOW	"Take ___" (1994 Madonna hit)
+9	IGGY	Rock's ___ Pop
+10	NOAM	Linguist Chomsky
+11	SOD	Greenskeeper's supply
+12	SAV	Part of some discount store names
+13	NECKLET	Stole, for example
+16	API	Bee: Prefix
+17	ZIN	Shade of gray
+19	TGLE	"Sleeping" sensation
+21	DEFT	Dexterous
+22	AREA	Metropolitan ___
+23	ARFS	Canine sounds
+24	JER	Rocker Garcia, informally
+25	YOS	Calls from Rocky
+15
+1	ARGON	Scientific discovery of 1894
+2	RUGDEALER	Certain bazaar merchant
+3	DNY	Letters after Daniel Moynihan's name
+4	ABOVEZERO	Positive
+5	NOA	When doubled, a book by Gauguin
+6	CWM	Welsh valley
+7	AIS	"___ for Alibi"
+8	ANAL	Psychological work: Abbr.
+12	SKI	Polish name ending
+14	CPEA	Soup or salad ingredient
+15	TIFFS	Spats
+18	NTS	Some Windows systems
+19	TAJ	Atlantic City casino, with "the"
+20	GRE	College test, for short
+21	DAY	Time piece?

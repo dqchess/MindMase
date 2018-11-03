@@ -1,0 +1,115 @@
+grid_9x9_190
+9
+0	1	1	A	0	0	3	1	ABM	0	0	3	1	ATT
+0	1	2	B	0	0	3	0		0	1	4	1	BSED
+0	1	3	M	0	0	3	0		0	2	4	1	MKTS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	4	N	0	6	3	1	NAS	0	6	4	1	NARK
+0	1	5	A	0	6	3	0		0	7	4	1	ACES
+0	1	6	S	0	6	3	0		0	8	3	1	SKD
+0	1	7	T	1	0	3	1	TSK	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	4	0	
+0	0	0	K	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	S	1	4	5	1	SMACK	1	4	7	1	SHIITES
+0	1	9	M	1	4	5	0		1	5	5	1	MACRO
+0	0	0	A	1	4	5	0		0	6	4	0	
+0	0	0	C	1	4	5	0		0	7	4	0	
+0	0	0	K	1	4	5	0		0	8	3	0	
+0	1	10	T	2	0	3	1	TET	0	0	3	0	
+0	0	0	E	2	0	3	0		0	1	4	0	
+0	0	0	T	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	5	0		3	3	5	0	
+0	1	11	H	2	4	5	1	HARED	1	4	7	0	
+0	0	0	A	2	4	5	0		1	5	5	0	
+0	0	0	R	2	4	5	0		0	6	4	0	
+0	0	0	E	2	4	5	0		0	7	4	0	
+0	0	0	D	2	4	5	0		0	8	3	0	
+1	0	0	#	3	1	7	0		4	0	0	0	
+0	1	12	D	3	1	7	1	DSTICKS	0	1	4	0	
+0	0	0	S	3	1	7	0		0	2	4	0	
+0	1	13	T	3	1	7	0		3	3	5	1	TKLES
+0	0	0	I	3	1	7	0		1	4	7	0	
+0	0	0	C	3	1	7	0		1	5	5	0	
+0	0	0	K	3	1	7	0		0	6	4	0	
+0	0	0	S	3	1	7	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	K	4	3	3	1	KIR	3	3	5	0	
+0	0	0	I	4	3	3	0		1	4	7	0	
+0	0	0	R	4	3	3	0		1	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	7	0		6	0	3	0	
+0	1	15	A	5	1	7	1	ALLTOLD	5	1	4	1	ARUN
+0	1	16	L	5	1	7	0		5	2	4	1	LLBS
+0	0	0	L	5	1	7	0		3	3	5	0	
+0	0	0	T	5	1	7	0		1	4	7	0	
+0	0	0	O	5	1	7	0		1	5	5	0	
+0	1	17	L	5	1	7	0		5	6	4	1	LUAU
+0	1	18	D	5	1	7	0		5	7	4	1	DTKI
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	M	6	0	5	1	MRLEE	6	0	3	1	MSU
+0	0	0	R	6	0	5	0		5	1	4	0	
+0	0	0	L	6	0	5	0		5	2	4	0	
+0	0	0	E	6	0	5	0		3	3	5	0	
+0	0	0	E	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	20	U	6	6	3	1	UTI	5	6	4	0	
+0	0	0	T	6	6	3	0		5	7	4	0	
+0	1	21	I	6	6	3	0		6	8	3	1	ICE
+0	1	22	S	7	0	5	1	SUBSS	6	0	3	0	
+0	0	0	U	7	0	5	0		5	1	4	0	
+0	0	0	B	7	0	5	0		5	2	4	0	
+0	0	0	S	7	0	5	0		3	3	5	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	A	7	6	3	1	AKC	5	6	4	0	
+0	0	0	K	7	6	3	0		5	7	4	0	
+0	0	0	C	7	6	3	0		6	8	3	0	
+0	1	24	U	8	0	3	1	UNS	6	0	3	0	
+0	0	0	N	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	U	8	6	3	1	UIE	5	6	4	0	
+0	0	0	I	8	6	3	0		5	7	4	0	
+0	0	0	E	8	6	3	0		6	8	3	0	
+15
+1	ABM	1972 treaty subj.
+4	NAS	"N.Y. State of Mind" rapper
+7	TSK	Utterance of a finger wagger
+8	SMACK	Loud kiss
+10	TET	___ offensive (Vietnam War event)
+11	HARED	Ran fast, in England
+12	DSTICKS	CHICKEN LEGS
+14	KIR	White wine ap
+15	ALLTOLD	With everything
+19	MRLEE	1957 hit for the Bobbettes
+20	UTI	___ possidetis (as you possess, at law)
+22	SUBSS	Areas within areas
+23	AKC	Huskies' org.
+24	UNS	Young ___ (tads)
+25	UIE	One-eighty
+15
+1	ATT	Legal advocate: Abbr.
+2	BSED	Teacher's deg.
+3	MKTS	Stock exchanges: Abbr.
+4	NARK	D.E.A. agent: Var.
+5	ACES	Tennis statistic
+6	SKD	Dog doc
+8	SHIITES	Some religious fundamentalists
+9	MACRO	Large-scale
+13	TKLES	Bell sounds
+15	ARUN	Make ___ for it
+16	LLBS	Foreign attorneys' degs.
+17	LUAU	Cookout in Honolulu
+18	DTKI	Cave, in poetry
+19	MSU	East Lansing sch.
+21	ICE	Winter road hazard

@@ -1,0 +1,115 @@
+grid_9x9_52
+9
+0	1	1	T	0	0	3	1	TRW	0	0	3	1	THN
+0	1	2	R	0	0	3	0		0	1	3	1	ROI
+0	1	3	W	0	0	3	0		0	2	9	1	WHEREWASI
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	E	0	5	3	1	ECO	0	5	3	1	ESS
+0	1	5	C	0	5	3	0		0	6	9	1	CYCLECARS
+0	1	6	O	0	5	3	0		0	7	5	1	OOHED
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	H	1	0	3	1	HOH	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	3	0	
+0	0	0	H	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	I	1	4	5	1	ISYOU	1	4	7	1	IZZATSO
+0	0	0	S	1	4	5	0		0	5	3	0	
+0	0	0	Y	1	4	5	0		0	6	9	0	
+0	0	0	O	1	4	5	0		0	7	5	0	
+0	1	9	U	1	4	5	0		1	8	3	1	UEA
+0	1	10	N	2	0	9	1	NIETZSCHE	0	0	3	0	
+0	0	0	I	2	0	9	0		0	1	3	0	
+0	0	0	E	2	0	9	0		0	2	9	0	
+0	1	11	T	2	0	9	0		2	3	3	1	TOD
+0	0	0	Z	2	0	9	0		1	4	7	0	
+0	0	0	S	2	0	9	0		0	5	3	0	
+0	0	0	C	2	0	9	0		0	6	9	0	
+0	0	0	H	2	0	9	0		0	7	5	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	R	3	2	3	1	ROZ	0	2	9	0	
+0	0	0	O	3	2	3	0		2	3	3	0	
+0	0	0	Z	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	L	3	6	3	1	LEA	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	R	4	1	7	1	REDATED	4	1	5	1	RECUR
+0	0	0	E	4	1	7	0		0	2	9	0	
+0	0	0	D	4	1	7	0		2	3	3	0	
+0	0	0	A	4	1	7	0		1	4	7	0	
+0	1	15	T	4	1	7	0		4	5	3	1	TED
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	D	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	S	5	0	3	1	SEW	5	0	3	1	SSR
+0	0	0	E	5	0	3	0		4	1	5	0	
+0	0	0	W	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	T	5	4	3	1	TEC	1	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	C	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	S	6	0	9	1	SCARSDALE	5	0	3	0	
+0	0	0	C	6	0	9	0		4	1	5	0	
+0	0	0	A	6	0	9	0		0	2	9	0	
+0	1	19	R	6	0	9	0		6	3	3	1	RSA
+0	0	0	S	6	0	9	0		1	4	7	0	
+0	0	0	D	6	0	9	0		4	5	3	0	
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	1	20	L	6	0	9	0		6	7	3	1	LET
+0	1	21	E	6	0	9	0		6	8	3	1	ELA
+0	1	22	R	7	0	5	1	RUSSO	5	0	3	0	
+0	0	0	U	7	0	5	0		4	1	5	0	
+0	0	0	S	7	0	5	0		0	2	9	0	
+0	0	0	S	7	0	5	0		6	3	3	0	
+0	0	0	O	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	R	7	6	3	1	REL	0	6	9	0	
+0	0	0	E	7	6	3	0		6	7	3	0	
+0	0	0	L	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	R	8	1	3	1	RIA	4	1	5	0	
+0	0	0	I	8	1	3	0		0	2	9	0	
+0	0	0	A	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	S	8	6	3	1	STA	0	6	9	0	
+0	0	0	T	8	6	3	0		6	7	3	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+15
+1	TRW	Old credit-tracking corp.
+4	ECO	Prefix with climate
+7	HOH	Water, chemically
+8	ISYOU	"All I Ever Need ___" (Sonny & Cher hit)
+10	NIETZSCHE	"Beyond Good and Evil" author
+12	ROZ	"Shoe" waitress
+13	LEA	Untilled tract
+14	REDATED	Saw again
+16	SEW	Make darts, say
+17	TEC	Shamus
+18	SCARSDALE	Kind of diet
+22	RUSSO	Gibson's "Ransom" co-star, 1996
+23	REL	Divinity sch. subj.
+24	RIA	Its mouth is its biggest part
+25	STA	Site of a tkt. booth
+15
+1	THN	Ending with tele-
+2	ROI	Charles, for one
+3	WHEREWASI	Words heard after an interruption
+4	ESS	Super G curve, in the Olympics
+5	CYCLECARS	Low-cost, lightweight autos of the 1910s-'20s
+6	OOHED	Was obviously impressed
+8	IZZATSO	"Oh, yeah?!"
+9	UEA	Pupil's place
+11	TOD	Death, in Deutschland
+14	RECUR	Go down again, so to speak
+15	TED	Old cartoonist ___ Key
+16	SSR	Ukr., once, e.g.
+19	RSA	Cape Town's home: Abbr.
+20	LET	Chartered
+21	ELA	She, in Bras

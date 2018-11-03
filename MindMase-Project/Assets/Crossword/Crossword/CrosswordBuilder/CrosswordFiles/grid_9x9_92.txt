@@ -1,0 +1,115 @@
+grid_9x9_92
+9
+0	1	1	A	0	0	3	1	ADP	0	0	3	1	AUF
+0	1	2	D	0	0	3	0		0	1	3	1	DPI
+0	1	3	P	0	0	3	0		0	2	9	1	PIROUETTE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	H	0	5	3	1	HQS	0	5	3	1	HAR
+0	1	5	Q	0	5	3	0		0	6	9	1	QUOTEMARK
+0	1	6	S	0	5	3	0		0	7	5	1	SLOES
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	U	1	0	4	1	UPIN	0	0	3	0	
+0	0	0	P	1	0	4	0		0	1	3	0	
+0	0	0	I	1	0	4	0		0	2	9	0	
+0	1	8	N	1	0	4	0		1	3	4	1	NEBR
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	A	1	5	4	1	AULD	0	5	3	0	
+0	0	0	U	1	5	4	0		0	6	9	0	
+0	0	0	L	1	5	4	0		0	7	5	0	
+0	1	10	D	1	5	4	0		1	8	3	1	DFC
+0	1	11	F	2	0	9	1	FIREPROOF	0	0	3	0	
+0	0	0	I	2	0	9	0		0	1	3	0	
+0	0	0	R	2	0	9	0		0	2	9	0	
+0	0	0	E	2	0	9	0		1	3	4	0	
+0	1	12	P	2	0	9	0		2	4	5	1	PSATS
+0	0	0	R	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	O	2	0	9	0		0	7	5	0	
+0	0	0	F	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	O	3	2	3	1	OBS	0	2	9	0	
+0	0	0	B	3	2	3	0		1	3	4	0	
+0	0	0	S	3	2	3	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	T	3	6	3	1	TEC	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	C	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	15	C	4	1	7	1	CURATES	4	1	5	1	CANTI
+0	0	0	U	4	1	7	0		0	2	9	0	
+0	0	0	R	4	1	7	0		1	3	4	0	
+0	0	0	A	4	1	7	0		2	4	5	0	
+0	1	16	T	4	1	7	0		4	5	4	1	TCHR
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	U	5	0	3	1	UAE	5	0	3	1	UIE
+0	0	0	A	5	0	3	0		4	1	5	0	
+0	0	0	E	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	T	5	4	3	1	TCM	2	4	5	0	
+0	0	0	C	5	4	3	0		4	5	4	0	
+0	0	0	M	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	I	6	0	9	1	INTOSHAPE	5	0	3	0	
+0	0	0	N	6	0	9	0		4	1	5	0	
+0	0	0	T	6	0	9	0		0	2	9	0	
+0	1	20	O	6	0	9	0		6	3	3	1	OAS
+0	0	0	S	6	0	9	0		2	4	5	0	
+0	0	0	H	6	0	9	0		4	5	4	0	
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	1	21	P	6	0	9	0		6	7	3	1	PNE
+0	1	22	E	6	0	9	0		6	8	3	1	EAR
+0	1	23	E	7	0	4	1	ETTA	5	0	3	0	
+0	0	0	T	7	0	4	0		4	1	5	0	
+0	0	0	T	7	0	4	0		0	2	9	0	
+0	0	0	A	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	R	7	5	4	1	RRNA	4	5	4	0	
+0	0	0	R	7	5	4	0		0	6	9	0	
+0	0	0	N	7	5	4	0		6	7	3	0	
+0	0	0	A	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	I	8	1	3	1	IES	4	1	5	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	K	8	6	3	1	KER	0	6	9	0	
+0	0	0	E	8	6	3	0		6	7	3	0	
+0	0	0	R	8	6	3	0		6	8	3	0	
+15
+1	ADP	Payroll service giant, initially
+4	HQS	Mil. command centers
+7	UPIN	___ arms (angry)
+9	AULD	Holiday tune title starter
+11	FIREPROOF	Like some vaults
+13	OBS	Delivery people, briefly
+14	TEC	Pinkerton, e.g.
+15	CURATES	Rectors' inferiors
+17	UAE	Mideast inits.
+18	TCM	Cable sta. for cinema buffs
+19	INTOSHAPE	One way to be whipped
+23	ETTA	R.&B. singer James
+24	RRNA	Cell stuff that fabricates protein, for short
+25	IES	Suffix with pant or aunt
+26	KER	Plop preceder
+15
+1	AUF	"___ Wiedersehen!"
+2	DPI	Printer specification: Abbr.
+3	PIROUETTE	Ballet whirl
+4	HAR	Kramden laugh syllable
+5	QUOTEMARK	Citation opener
+6	SLOES	Plumlike fruits
+8	NEBR	Hastings, ___, where Kool-Aid was invented: Abbr.
+10	DFC	Mil. pilot's award
+12	PSATS	High school exams, for short
+15	CANTI	"Oh, pretty please?"
+16	TCHR	N.E.A. member: Abbr.
+17	UIE	Turnabout, in slang
+20	OAS	Alliance since 1948: Abbr.
+21	PNE	Log cabin material, maybe
+22	EAR	Pencil holder

@@ -1,0 +1,115 @@
+grid_9x9_65
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	W	0	1	3	1	WIT	0	1	5	1	WHIPS
+0	1	2	I	0	1	3	0		0	2	9	1	IRSAGENTS
+0	1	3	T	0	1	3	0		0	3	3	1	TEA
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SOA	0	6	9	1	SENORITAS
+0	1	5	O	0	6	3	0		0	7	3	1	OPE
+0	1	6	A	0	6	3	0		0	8	3	1	AST
+0	1	7	S	1	0	5	1	SHREW	1	0	3	1	SLA
+0	0	0	H	1	0	5	0		0	1	5	0	
+0	0	0	R	1	0	5	0		0	2	9	0	
+0	0	0	E	1	0	5	0		0	3	3	0	
+0	1	8	W	1	0	5	0		1	4	7	1	WBKYEGW
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	E	1	6	3	1	EPS	0	6	9	0	
+0	0	0	P	1	6	3	0		0	7	3	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	10	L	2	0	9	1	LISABONET	1	0	3	0	
+0	0	0	I	2	0	9	0		0	1	5	0	
+0	0	0	S	2	0	9	0		0	2	9	0	
+0	0	0	A	2	0	9	0		0	3	3	0	
+0	0	0	B	2	0	9	0		1	4	7	0	
+0	1	11	O	2	0	9	0		2	5	3	1	OOO
+0	0	0	N	2	0	9	0		0	6	9	0	
+0	0	0	E	2	0	9	0		0	7	3	0	
+0	0	0	T	2	0	9	0		0	8	3	0	
+0	1	12	A	3	0	3	1	APA	1	0	3	0	
+0	0	0	P	3	0	3	0		0	1	5	0	
+0	0	0	A	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	K	3	4	3	1	KOO	1	4	7	0	
+0	0	0	O	3	4	3	0		2	5	3	0	
+0	0	0	O	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	S	4	1	7	1	SGTYORK	0	1	5	0	
+0	0	0	G	4	1	7	0		0	2	9	0	
+0	1	15	T	4	1	7	0		4	3	3	1	TWI
+0	0	0	Y	4	1	7	0		1	4	7	0	
+0	0	0	O	4	1	7	0		2	5	3	0	
+0	0	0	R	4	1	7	0		0	6	9	0	
+0	1	16	K	4	1	7	0		4	7	5	1	KREME
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	E	5	2	3	1	EWE	0	2	9	0	
+0	0	0	W	5	2	3	0		4	3	3	0	
+0	0	0	E	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	I	5	6	3	1	IRS	0	6	9	0	
+0	0	0	R	5	6	3	0		4	7	5	0	
+0	1	19	S	5	6	3	0		5	8	3	1	SRS
+0	1	20	B	6	0	9	1	BYNIGHTER	6	0	3	1	BEL
+0	1	21	Y	6	0	9	0		6	1	3	1	YMA
+0	0	0	N	6	0	9	0		0	2	9	0	
+0	0	0	I	6	0	9	0		4	3	3	0	
+0	0	0	G	6	0	9	0		1	4	7	0	
+0	1	22	H	6	0	9	0		6	5	3	1	HHS
+0	0	0	T	6	0	9	0		0	6	9	0	
+0	0	0	E	6	0	9	0		4	7	5	0	
+0	0	0	R	6	0	9	0		5	8	3	0	
+0	1	23	E	7	0	3	1	EMT	6	0	3	0	
+0	0	0	M	7	0	3	0		6	1	3	0	
+0	0	0	T	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	W	7	4	5	1	WHAMS	1	4	7	0	
+0	0	0	H	7	4	5	0		6	5	3	0	
+0	0	0	A	7	4	5	0		0	6	9	0	
+0	0	0	M	7	4	5	0		4	7	5	0	
+0	0	0	S	7	4	5	0		5	8	3	0	
+0	1	25	L	8	0	3	1	LAS	6	0	3	0	
+0	0	0	A	8	0	3	0		6	1	3	0	
+0	0	0	S	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	S	8	5	3	1	SSE	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	E	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	WIT	Seinfeld, e.g.
+4	SOA	"___ man walks into a bar ..."
+7	SHREW	Chronic nag
+9	EPS	Some records, for short
+10	LISABONET	Malcolm-Jamal Warner co-star
+12	APA	Therapists' org.
+13	KOO	"Rock and Roll, Hoochie ___" (1974 hit)
+14	SGTYORK	W.W. I hero played by Gary Cooper
+17	EWE	Female flock member
+18	IRS	Taxing letters
+20	BYNIGHTER	*Unreliable sort
+23	EMT	911 responder
+24	WHAMS	Has quite an impact on
+25	LAS	Some mindless singing
+26	SSE	Capt.'s heading
+15
+1	WHIPS	Lion tamers' needs
+2	IRSAGENTS	Schedule checkers
+3	TEA	Chinese export
+4	SENORITAS	Some misses
+5	OPE	Unbar, to Byron
+6	AST	Bermuda hrs.
+7	SLA	...
+8	WBKYEGW	Global divide
+11	OOO	Queenside castle, in chess notation
+15	TWI	Prefix with light
+16	KREME	Krispy ___ Doughnuts
+19	SRS	Ones of the highest grade: Abbr.
+20	BEL	E.U. member
+21	YMA	Warbler Sumac
+22	HHS	Cabinet inits. since 1979

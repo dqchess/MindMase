@@ -1,0 +1,117 @@
+grid_9x9_178
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	O	0	1	3	1	OPP	0	1	4	1	OVID
+0	1	2	P	0	1	3	0		0	2	9	1	PMUHWHALE
+0	1	3	P	0	1	3	0		0	3	3	1	PAS
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	S	0	5	3	1	SCS	0	5	5	1	SCORN
+0	1	5	C	0	5	3	0		0	6	9	1	CANAANITE
+0	1	6	S	0	5	3	0		0	7	4	1	SHEB
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	T	1	0	4	1	TVMA	1	0	3	1	TSE
+0	0	0	V	1	0	4	0		0	1	4	0	
+0	0	0	M	1	0	4	0		0	2	9	0	
+0	0	0	A	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	C	1	5	4	1	CAHN	0	5	5	0	
+0	0	0	A	1	5	4	0		0	6	9	0	
+0	0	0	H	1	5	4	0		0	7	4	0	
+0	1	9	N	1	5	4	0		1	8	3	1	NOU
+0	1	10	S	2	0	4	1	SIUS	1	0	3	0	
+0	0	0	I	2	0	4	0		0	1	4	0	
+0	0	0	U	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	O	2	5	4	1	ONEO	0	5	5	0	
+0	0	0	N	2	5	4	0		0	6	9	0	
+0	0	0	E	2	5	4	0		0	7	4	0	
+0	0	0	O	2	5	4	0		1	8	3	0	
+0	1	12	E	3	0	3	1	EDH	1	0	3	0	
+0	0	0	D	3	0	3	0		0	1	4	0	
+0	0	0	H	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	I	3	4	5	1	IRABU	3	4	3	1	INI
+0	0	0	R	3	4	5	0		0	5	5	0	
+0	0	0	A	3	4	5	0		0	6	9	0	
+0	0	0	B	3	4	5	0		0	7	4	0	
+0	0	0	U	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	14	W	4	2	5	1	WANNA	0	2	9	0	
+0	1	15	A	4	2	5	0		4	3	5	1	ADISH
+0	0	0	N	4	2	5	0		3	4	3	0	
+0	0	0	N	4	2	5	0		0	5	5	0	
+0	0	0	A	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	16	M	5	0	5	1	MAHDI	5	0	3	1	MCD
+0	1	17	A	5	0	5	0		5	1	4	1	AHEM
+0	0	0	H	5	0	5	0		0	2	9	0	
+0	0	0	D	5	0	5	0		4	3	5	0	
+0	0	0	I	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	N	5	6	3	1	NOI	0	6	9	0	
+0	1	19	O	5	6	3	0		5	7	4	1	OWOW
+0	1	20	I	5	6	3	0		5	8	3	1	IIN
+0	1	21	C	6	0	4	1	CHAI	5	0	3	0	
+0	0	0	H	6	0	4	0		5	1	4	0	
+0	0	0	A	6	0	4	0		0	2	9	0	
+0	0	0	I	6	0	4	0		4	3	5	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	22	K	6	5	4	1	KIWI	6	5	3	1	KEY
+0	0	0	I	6	5	4	0		0	6	9	0	
+0	0	0	W	6	5	4	0		5	7	4	0	
+0	0	0	I	6	5	4	0		5	8	3	0	
+0	1	23	D	7	0	4	1	DELS	5	0	3	0	
+0	0	0	E	7	0	4	0		5	1	4	0	
+0	0	0	L	7	0	4	0		0	2	9	0	
+0	0	0	S	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	E	7	5	4	1	ETON	6	5	3	0	
+0	0	0	T	7	5	4	0		0	6	9	0	
+0	0	0	O	7	5	4	0		5	7	4	0	
+0	0	0	N	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	M	8	1	3	1	MEH	5	1	4	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	H	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	Y	8	5	3	1	YEW	6	5	3	0	
+0	0	0	E	8	5	3	0		0	6	9	0	
+0	0	0	W	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	OPP	Enemy: Abbr.
+4	SCS	Barges
+7	TVMA	Adult rating for the small screen
+8	CAHN	"High Hopes" lyricist Sammy
+10	SIUS	Part of Canis Major
+11	ONEO	Clock or cat preceder
+12	EDH	Old English letter
+13	IRABU	Pitcher Hideki ___
+14	WANNA	"All I ___ Do" (Sheryl Crow song)
+16	MAHDI	Muslim messiah
+18	NOI	"___ don't!" (words of denial)
+21	CHAI	Spiced Indian tea
+22	KIWI	New Zealand bird
+23	DELS	Pol. convention attendees
+24	ETON	Venerable English institution
+25	MEH	"Doesn't thrill me"
+26	YEW	Evergreen tree
+15
+1	OVID	Horace contemporary
+2	PMUHWHALE	Denizen of the deep
+3	PAS	Mas' mates
+4	SCORN	Treat badly
+5	CANAANITE	Inhabitant of ancient Palestine
+6	SHEB	"The Purple People Eater" singer Wooley
+7	TSE	Lao-___
+9	NOU	Over
+13	INI	___ Kamoze of reggae
+15	ADISH	"___ fit for a king"
+16	MCD	Fast-food chain, in the ad biz
+17	AHEM	Coughlike utterance
+19	OWOW	"Geez! That stings!"
+20	IIN	"There is no ___ team"
+22	KEY	Church ___

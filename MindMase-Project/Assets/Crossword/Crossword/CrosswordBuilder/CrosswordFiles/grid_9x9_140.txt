@@ -1,0 +1,115 @@
+grid_9x9_140
+9
+0	1	1	L	0	0	3	1	LOD	0	0	3	1	LAT
+0	1	2	O	0	0	3	0		0	1	4	1	OTHO
+0	1	3	D	0	0	3	0		0	2	4	1	DADE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	4	A	0	6	3	1	APR	0	6	4	1	ANOA
+0	1	5	P	0	6	3	0		0	7	4	1	PAYB
+0	1	6	R	0	6	3	0		0	8	3	1	RTS
+0	1	7	A	1	0	3	1	ATA	0	0	3	0	
+0	0	0	T	1	0	3	0		0	1	4	0	
+0	0	0	A	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	M	1	4	5	1	MENAT	1	4	7	1	MCENROE
+0	1	9	E	1	4	5	0		1	5	5	1	ELGAR
+0	0	0	N	1	4	5	0		0	6	4	0	
+0	0	0	A	1	4	5	0		0	7	4	0	
+0	0	0	T	1	4	5	0		0	8	3	0	
+0	1	10	T	2	0	3	1	THD	0	0	3	0	
+0	0	0	H	2	0	3	0		0	1	4	0	
+0	0	0	D	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	5	0		3	3	5	0	
+0	1	11	C	2	4	5	1	CLOYS	1	4	7	0	
+0	0	0	L	2	4	5	0		1	5	5	0	
+0	0	0	O	2	4	5	0		0	6	4	0	
+0	0	0	Y	2	4	5	0		0	7	4	0	
+0	0	0	S	2	4	5	0		0	8	3	0	
+1	0	0	#	3	1	7	0		4	0	0	0	
+0	1	12	O	3	1	7	1	OETEGAB	0	1	4	0	
+0	0	0	E	3	1	7	0		0	2	4	0	
+0	1	13	T	3	1	7	0		3	3	5	1	TREOS
+0	0	0	E	3	1	7	0		1	4	7	0	
+0	0	0	G	3	1	7	0		1	5	5	0	
+0	0	0	A	3	1	7	0		0	6	4	0	
+0	0	0	B	3	1	7	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	R	4	3	3	1	RNA	3	3	5	0	
+0	0	0	N	4	3	3	0		1	4	7	0	
+0	0	0	A	4	3	3	0		1	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	7	0		6	0	3	0	
+0	1	15	P	5	1	7	1	PIERROT	5	1	4	1	POET
+0	1	16	I	5	1	7	0		5	2	4	1	ITEA
+0	0	0	E	5	1	7	0		3	3	5	0	
+0	0	0	R	5	1	7	0		1	4	7	0	
+0	0	0	R	5	1	7	0		1	5	5	0	
+0	1	17	O	5	1	7	0		5	6	4	1	OVIS
+0	1	18	T	5	1	7	0		5	7	4	1	TECS
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	S	6	0	5	1	SOTOO	6	0	3	1	SMU
+0	0	0	O	6	0	5	0		5	1	4	0	
+0	0	0	T	6	0	5	0		5	2	4	0	
+0	0	0	O	6	0	5	0		3	3	5	0	
+0	0	0	O	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	20	V	6	6	3	1	VEG	5	6	4	0	
+0	0	0	E	6	6	3	0		5	7	4	0	
+0	1	21	G	6	6	3	0		6	8	3	1	GHI
+0	1	22	M	7	0	5	1	MEESE	6	0	3	0	
+0	0	0	E	7	0	5	0		5	1	4	0	
+0	0	0	E	7	0	5	0		5	2	4	0	
+0	0	0	S	7	0	5	0		3	3	5	0	
+0	0	0	E	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	I	7	6	3	1	ICH	5	6	4	0	
+0	0	0	C	7	6	3	0		5	7	4	0	
+0	0	0	H	7	6	3	0		6	8	3	0	
+0	1	24	U	8	0	3	1	UTA	6	0	3	0	
+0	0	0	T	8	0	3	0		5	1	4	0	
+0	0	0	A	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	S	8	6	3	1	SSI	5	6	4	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	0	0	I	8	6	3	0		6	8	3	0	
+15
+1	LOD	Israeli airport city
+4	APR	Auto financing abbr.
+7	ATA	Two-time link
+8	MENAT	___ work
+10	THD	Seminary deg.
+11	CLOYS	Is too much
+12	OETEGAB	Some Diego Rivera works
+14	RNA	Makeup of some strands
+15	PIERROT	French mime
+19	SOTOO	"I thought ___!" ("My feeling exactly!")
+20	VEG	___ out (do nothing)
+22	MEESE	Thornburgh's predecessor as Attorney General
+23	ICH	Freud's I
+24	UTA	Hagen of Broadway
+25	SSI	Fed. stipend
+15
+1	LAT	Global positioning fig.
+2	OTHO	Roman emperor in A.D. 69
+3	DADE	Sunshine State county
+4	ANOA	Wild Indonesian bovine
+5	PAYB	Retribution
+6	RTS	They're listed in a bill: Abbr.
+8	MCENROE	Tennis star-turned-analyst
+9	ELGAR	Sir Edward who composed "Pomp and Circumstance"
+13	TREOS	Palm readers?
+15	POET	Linesman, maybe?
+16	ITEA	Virginia willow
+17	OVIS	Sheep genus
+18	TECS	P.I.'s
+19	SMU	The Mustangs, for short
+21	GHI	4 on a phone

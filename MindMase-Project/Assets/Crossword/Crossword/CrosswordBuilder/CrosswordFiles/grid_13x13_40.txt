@@ -1,0 +1,229 @@
+grid_13x13_40
+13
+0	1	1	N	0	0	4	1	NEON	0	0	3	1	NCR
+0	1	2	E	0	0	4	0		0	1	3	1	EOE
+0	1	3	O	0	0	4	0		0	2	3	1	ONS
+0	1	4	N	0	0	4	0		0	3	5	1	NTEST
+1	0	0	#	0	5	0	0		1	4	8	0	
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	5	P	0	7	3	1	PGA	0	7	3	1	PAH
+0	1	6	G	0	7	3	0		0	8	3	1	GNP
+0	1	7	A	0	7	3	0		0	9	3	1	ADA
+1	0	0	#	0	11	0	0		1	10	8	0	
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	C	1	0	13	1	CONTRABANDAGE	0	0	3	0	
+0	0	0	O	1	0	13	0		0	1	3	0	
+0	0	0	N	1	0	13	0		0	2	3	0	
+0	0	0	T	1	0	13	0		0	3	5	0	
+0	1	9	R	1	0	13	0		1	4	8	1	RAWBONED
+0	1	10	A	1	0	13	0		1	5	3	1	ARE
+0	1	11	B	1	0	13	0		1	6	3	1	BCD
+0	0	0	A	1	0	13	0		0	7	3	0	
+0	0	0	N	1	0	13	0		0	8	3	0	
+0	0	0	D	1	0	13	0		0	9	3	0	
+0	1	12	A	1	0	13	0		1	10	8	1	APERTURE
+0	1	13	G	1	0	13	0		1	11	3	1	GEL
+0	1	14	E	1	0	13	0		1	12	3	1	ERE
+0	1	15	R	2	0	13	1	RESEARCHPAPER	0	0	3	0	
+0	0	0	E	2	0	13	0		0	1	3	0	
+0	0	0	S	2	0	13	0		0	2	3	0	
+0	0	0	E	2	0	13	0		0	3	5	0	
+0	0	0	A	2	0	13	0		1	4	8	0	
+0	0	0	R	2	0	13	0		1	5	3	0	
+0	0	0	C	2	0	13	0		1	6	3	0	
+0	0	0	H	2	0	13	0		0	7	3	0	
+0	0	0	P	2	0	13	0		0	8	3	0	
+0	0	0	A	2	0	13	0		0	9	3	0	
+0	0	0	P	2	0	13	0		1	10	8	0	
+0	0	0	E	2	0	13	0		1	11	3	0	
+0	0	0	R	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	4	0		4	2	8	0	
+0	1	16	S	3	3	4	1	SWED	0	3	5	0	
+0	0	0	W	3	3	4	0		1	4	8	0	
+0	0	0	E	3	3	4	0		1	5	3	0	
+0	0	0	D	3	3	4	0		1	6	3	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	8	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	17	E	3	10	3	1	ELE	1	10	8	0	
+0	0	0	L	3	10	3	0		1	11	3	0	
+0	0	0	E	3	10	3	0		1	12	3	0	
+0	1	18	L	4	0	5	1	LEFTB	4	0	3	1	LOC
+0	1	19	E	4	0	5	0		4	1	4	1	EDAS
+0	1	20	F	4	0	5	0		4	2	8	1	FABULOUS
+0	0	0	T	4	0	5	0		0	3	5	0	
+0	0	0	B	4	0	5	0		1	4	8	0	
+1	0	0	#	4	6	0	0		5	5	4	0	
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	21	A	4	7	4	1	ABHR	4	7	4	1	ASES
+0	1	22	B	4	7	4	0		4	8	8	1	BOSSIEST
+0	1	23	H	4	7	4	0		4	9	3	1	HUS
+0	0	0	R	4	7	4	0		1	10	8	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	24	O	5	0	3	1	ODA	4	0	3	0	
+0	0	0	D	5	0	3	0		4	1	4	0	
+0	0	0	A	5	0	3	0		4	2	8	0	
+1	0	0	#	5	4	8	0		6	3	3	0	
+0	1	25	O	5	4	8	1	OLDSOUTH	1	4	8	0	
+0	1	26	L	5	4	8	0		5	5	4	1	LPNS
+0	1	27	D	5	4	8	0		5	6	3	1	DRE
+0	0	0	S	5	4	8	0		4	7	4	0	
+0	0	0	O	5	4	8	0		4	8	8	0	
+0	0	0	U	5	4	8	0		4	9	3	0	
+0	0	0	T	5	4	8	0		1	10	8	0	
+0	1	28	H	5	4	8	0		5	11	4	1	HRAS
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	C	6	0	13	1	CABINPRESSURE	4	0	3	0	
+0	0	0	A	6	0	13	0		4	1	4	0	
+0	0	0	B	6	0	13	0		4	2	8	0	
+0	1	30	I	6	0	13	0		6	3	3	1	IRE
+0	0	0	N	6	0	13	0		1	4	8	0	
+0	0	0	P	6	0	13	0		5	5	4	0	
+0	0	0	R	6	0	13	0		5	6	3	0	
+0	0	0	E	6	0	13	0		4	7	4	0	
+0	0	0	S	6	0	13	0		4	8	8	0	
+0	0	0	S	6	0	13	0		4	9	3	0	
+0	0	0	U	6	0	13	0		1	10	8	0	
+0	0	0	R	6	0	13	0		5	11	4	0	
+0	1	31	E	6	0	13	0		6	12	3	1	EDT
+1	0	0	#	7	1	8	0		8	0	0	0	
+0	1	32	S	7	1	8	1	SURENESS	4	1	4	0	
+0	0	0	U	7	1	8	0		4	2	8	0	
+0	0	0	R	7	1	8	0		6	3	3	0	
+0	0	0	E	7	1	8	0		1	4	8	0	
+0	0	0	N	7	1	8	0		5	5	4	0	
+0	0	0	E	7	1	8	0		5	6	3	0	
+0	0	0	S	7	1	8	0		4	7	4	0	
+0	0	0	S	7	1	8	0		4	8	8	0	
+1	0	0	#	7	10	3	0		8	9	5	0	
+0	1	33	R	7	10	3	1	RAD	1	10	8	0	
+0	0	0	A	7	10	3	0		5	11	4	0	
+0	0	0	D	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	4	0		9	1	3	0	
+0	1	34	L	8	2	4	1	LEDS	4	2	8	0	
+0	0	0	E	8	2	4	0		6	3	3	0	
+0	0	0	D	8	2	4	0		1	4	8	0	
+0	0	0	S	8	2	4	0		5	5	4	0	
+1	0	0	#	8	7	0	0		9	6	3	0	
+1	0	0	#	8	8	5	0		9	7	3	0	
+0	1	35	I	8	8	5	1	IDEST	4	8	8	0	
+0	1	36	D	8	8	5	0		8	9	5	1	DRIER
+0	0	0	E	8	8	5	0		1	10	8	0	
+0	0	0	S	8	8	5	0		5	11	4	0	
+0	0	0	T	8	8	5	0		6	12	3	0	
+0	1	37	C	9	0	3	1	CPO	9	0	3	1	CYR
+0	1	38	P	9	0	3	0		9	1	3	1	POE
+0	0	0	O	9	0	3	0		4	2	8	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	4	0		10	5	3	0	
+0	1	39	O	9	6	4	1	OVER	9	6	3	1	OAR
+0	1	40	V	9	6	4	0		9	7	3	1	VOA
+0	0	0	E	9	6	4	0		4	8	8	0	
+0	0	0	R	9	6	4	0		8	9	5	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	Y	10	0	13	1	YOULLLAOSITUP	9	0	3	0	
+0	0	0	O	10	0	13	0		9	1	3	0	
+0	0	0	U	10	0	13	0		4	2	8	0	
+0	1	42	L	10	0	13	0		10	3	3	1	LTD
+0	1	43	L	10	0	13	0		10	4	3	1	LAX
+0	1	44	L	10	0	13	0		10	5	3	1	LUI
+0	0	0	A	10	0	13	0		9	6	3	0	
+0	0	0	O	10	0	13	0		9	7	3	0	
+0	0	0	S	10	0	13	0		4	8	8	0	
+0	0	0	I	10	0	13	0		8	9	5	0	
+0	1	45	T	10	0	13	0		10	10	3	1	TUB
+0	1	46	U	10	0	13	0		10	11	3	1	URI
+0	1	47	P	10	0	13	0		10	12	3	1	PSS
+0	1	48	R	11	0	13	1	RESTAURATEURS	9	0	3	0	
+0	0	0	E	11	0	13	0		9	1	3	0	
+0	0	0	S	11	0	13	0		4	2	8	0	
+0	0	0	T	11	0	13	0		10	3	3	0	
+0	0	0	A	11	0	13	0		10	4	3	0	
+0	0	0	U	11	0	13	0		10	5	3	0	
+0	0	0	R	11	0	13	0		9	6	3	0	
+0	0	0	A	11	0	13	0		9	7	3	0	
+0	0	0	T	11	0	13	0		4	8	8	0	
+0	0	0	E	11	0	13	0		8	9	5	0	
+0	0	0	U	11	0	13	0		10	10	3	0	
+0	0	0	R	11	0	13	0		10	11	3	0	
+0	0	0	S	11	0	13	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	49	D	12	3	3	1	DXI	10	3	3	0	
+0	0	0	X	12	3	3	0		10	4	3	0	
+0	0	0	I	12	3	3	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	4	0		13	8	0	0	
+0	1	50	R	12	9	4	1	RBIS	8	9	5	0	
+0	0	0	B	12	9	4	0		10	10	3	0	
+0	0	0	I	12	9	4	0		10	11	3	0	
+0	0	0	S	12	9	4	0		10	12	3	0	
+21
+1	NEON	Brightly colored
+5	PGA	Couples grp.
+8	CONTRABANDAGE	Item in a smuggler's first-aid kit?
+15	RESEARCHPAPER	Student's worry
+16	SWED	By area, the third-largest country in the E.U.
+17	ELE	One in the charge of un instituteur
+18	LEFTB	Skipped, as in printing
+21	ABHR	Can't take
+24	ODA	Concubine's room
+25	OLDSOUTH	Antebellum Dixie
+29	CABINPRESSURE	"""Follow orders in this plane area or else!"""
+32	SURENESS	Certainty
+33	RAD	Unit of 100 ergs per gram
+34	LEDS	Digital-display types
+35	IDEST	Lead-in to further explanation
+37	CPO	U.S.N. noncom
+39	OVER	Through
+41	YOULLLAOSITUP	"""Don't even try"" in Vientiane?"
+48	RESTAURATEURS	James Beard Award nominees
+49	DXI	511, in old Rome
+50	RBIS	Ruth's 2,213
+35
+1	NCR	Manufacturer of bar code scanners
+2	EOE	Fair-hiring inits.
+3	ONS	Come-___
+4	NTEST	Weapons check, in brief
+5	PAH	Part of a tuba's sound
+6	GNP	It's up over 1000% since 1960: Abbr.
+7	ADA	Org. that promotes sugarless gum
+9	RAWBONED	Haggard
+10	ARE	"You ___ There"
+11	BCD	String after A
+12	APERTURE	Light limiter
+13	GEL	Hair goop, e.g.
+14	ERE	"___ the bat hath flown / His cloister'd flight ...": Macbeth
+18	LOC	Tone ___ (early rapper)
+19	EDAS	Writer LeShan and others
+20	FABULOUS	Second part
+21	ASES	"___ Death" (Grieg movement)
+22	BOSSIEST	Most domineering
+23	HUS	Czech religious reformer Jan
+26	LPNS	Hosp. staffers
+27	DRE	"___ Day" (1993 rap hit)
+28	HRAS	Round dances
+30	IRE	Pulse quickener, say
+31	EDT	Summer hrs., in N.Y.C.
+36	DRIER	Laundromat appliance
+37	CYR	St.-___-l'
+38	POE	"Eldorado" poet
+39	OAR	Sculling propeller
+40	VOA	Cold war broadcasting inits.
+42	LTD	Old Ford model
+43	LAX	Too permissive
+44	LUI	L'homme over there
+45	TUB	Primitive percussion instrument
+46	URI	Where the Reuss River originates
+47	PSS	Ltr. additions

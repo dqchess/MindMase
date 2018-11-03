@@ -1,0 +1,167 @@
+grid_11x11_158
+11
+1	0	0	#	0	1	0	0		1	0	4	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	5	0	
+0	1	1	S	0	3	3	1	SAD	0	3	3	1	SHU
+0	1	2	A	0	3	3	0		0	4	3	1	AAE
+0	1	3	D	0	3	3	0		0	5	3	1	DTS
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	5	0	
+0	1	4	E	0	8	3	1	EGO	0	8	4	1	ERDE
+0	1	5	G	0	8	3	0		0	9	4	1	GETS
+0	1	6	O	0	8	3	0		0	10	3	1	ODO
+0	1	7	L	1	0	6	1	LASHAT	1	0	4	1	LRON
+0	1	8	A	1	0	6	0		1	1	5	1	AEROS
+0	1	9	S	1	0	6	0		1	2	5	1	SQUID
+0	0	0	H	1	0	6	0		0	3	3	0	
+0	0	0	A	1	0	6	0		0	4	3	0	
+0	0	0	T	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	5	0	
+0	1	10	B	1	7	4	1	BRED	1	7	5	1	BETON
+0	0	0	R	1	7	4	0		0	8	4	0	
+0	0	0	E	1	7	4	0		0	9	4	0	
+0	0	0	D	1	7	4	0		0	10	3	0	
+0	1	11	R	2	0	11	1	REQUESTEDTO	1	0	4	0	
+0	0	0	E	2	0	11	0		1	1	5	0	
+0	0	0	Q	2	0	11	0		1	2	5	0	
+0	0	0	U	2	0	11	0		0	3	3	0	
+0	0	0	E	2	0	11	0		0	4	3	0	
+0	0	0	S	2	0	11	0		0	5	3	0	
+0	1	12	T	2	0	11	0		2	6	5	1	TUTUS
+0	0	0	E	2	0	11	0		1	7	5	0	
+0	0	0	D	2	0	11	0		0	8	4	0	
+0	0	0	T	2	0	11	0		0	9	4	0	
+0	0	0	O	2	0	11	0		0	10	3	0	
+0	1	13	O	3	0	3	1	ORU	1	0	4	0	
+0	0	0	R	3	0	3	0		1	1	5	0	
+0	0	0	U	3	0	3	0		1	2	5	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	5	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	14	U	3	6	4	1	UTES	2	6	5	0	
+0	0	0	T	3	6	4	0		1	7	5	0	
+0	0	0	E	3	6	4	0		0	8	4	0	
+0	0	0	S	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	N	4	0	3	1	NOI	1	0	4	0	
+0	0	0	O	4	0	3	0		1	1	5	0	
+0	0	0	I	4	0	3	0		1	2	5	0	
+1	0	0	#	4	4	4	0		5	3	5	0	
+0	1	16	E	4	4	4	1	ECTO	4	4	5	1	EYERS
+0	1	17	C	4	4	4	0		4	5	3	1	CPA
+0	0	0	T	4	4	4	0		2	6	5	0	
+0	0	0	O	4	4	4	0		1	7	5	0	
+1	0	0	#	4	9	0	0		5	8	5	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	18	S	5	1	9	1	SDAYPUNCH	1	1	5	0	
+0	0	0	D	5	1	9	0		1	2	5	0	
+0	1	19	A	5	1	9	0		5	3	5	1	ANDMY
+0	0	0	Y	5	1	9	0		4	4	5	0	
+0	0	0	P	5	1	9	0		4	5	3	0	
+0	0	0	U	5	1	9	0		2	6	5	0	
+0	0	0	N	5	1	9	0		1	7	5	0	
+0	1	20	C	5	1	9	0		5	8	5	1	CHONG
+0	1	21	H	5	1	9	0		5	9	5	1	HOUGH
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	4	0		7	2	4	0	
+0	1	22	N	6	3	4	1	NEAS	5	3	5	0	
+0	0	0	E	6	3	4	0		4	4	5	0	
+0	0	0	A	6	3	4	0		4	5	3	0	
+0	0	0	S	6	3	4	0		2	6	5	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	23	H	6	8	3	1	HOG	5	8	5	0	
+0	0	0	O	6	8	3	0		5	9	5	0	
+0	1	24	G	6	8	3	0		6	10	4	1	GIST
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	25	S	7	1	4	1	SADR	7	1	4	1	SAGO
+0	1	26	A	7	1	4	0		7	2	4	1	ALGA
+0	0	0	D	7	1	4	0		5	3	5	0	
+0	0	0	R	7	1	4	0		4	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	O	7	8	3	1	OUI	5	8	5	0	
+0	0	0	U	7	8	3	0		5	9	5	0	
+0	0	0	I	7	8	3	0		6	10	4	0	
+0	1	28	P	8	0	11	1	PALMSPRINGS	8	0	3	1	PIT
+0	0	0	A	8	0	11	0		7	1	4	0	
+0	0	0	L	8	0	11	0		7	2	4	0	
+0	0	0	M	8	0	11	0		5	3	5	0	
+0	0	0	S	8	0	11	0		4	4	5	0	
+0	1	29	P	8	0	11	0		8	5	3	1	PIP
+0	1	30	R	8	0	11	0		8	6	3	1	RMS
+0	1	31	I	8	0	11	0		8	7	3	1	III
+0	0	0	N	8	0	11	0		5	8	5	0	
+0	0	0	G	8	0	11	0		5	9	5	0	
+0	0	0	S	8	0	11	0		6	10	4	0	
+0	1	32	I	9	0	4	1	IGGY	8	0	3	0	
+0	0	0	G	9	0	4	0		7	1	4	0	
+0	0	0	G	9	0	4	0		7	2	4	0	
+0	0	0	Y	9	0	4	0		5	3	5	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	33	I	9	5	6	1	IMIGHT	8	5	3	0	
+0	0	0	M	9	5	6	0		8	6	3	0	
+0	0	0	I	9	5	6	0		8	7	3	0	
+0	0	0	G	9	5	6	0		5	8	5	0	
+0	0	0	H	9	5	6	0		5	9	5	0	
+0	0	0	T	9	5	6	0		6	10	4	0	
+0	1	34	T	10	0	3	1	TOA	8	0	3	0	
+0	0	0	O	10	0	3	0		7	1	4	0	
+0	0	0	A	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	35	P	10	5	3	1	PSI	8	5	3	0	
+0	0	0	S	10	5	3	0		8	6	3	0	
+0	0	0	I	10	5	3	0		8	7	3	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	SAD	Depressed
+4	EGO	Something that can get in the way
+7	LASHAT	Light into
+10	BRED	Born's partner
+11	REQUESTEDTO	Asked if one would
+13	ORU	Educational inits. in Tulsa, Okla.
+14	UTES	Salt Lake City collegians
+15	NOI	"___ do not!"
+16	ECTO	Outside opening?
+18	SDAYPUNCH	Crushing blow
+22	NEAS	Civil rights activist Ralph
+23	HOG	Not a sharer
+25	SADR	Iraq's ___ City
+27	OUI	Gar
+28	PALMSPRINGS	Steal coils?
+32	IGGY	Rock's ___ Pop
+33	IMIGHT	"Put me down as a maybe"
+34	TOA	Dedicatory phrase
+35	PSI	Scuba tank meas.
+23
+1	SHU	Moo ___ shrimp
+2	AAE	"American Justice" network
+3	DTS	Sot's affliction
+4	ERDE	Mahler's "Das Lied von der ___"
+5	GETS	Understands
+6	ODO	Pope Urban II, originally
+7	LRON	Scientologist ___ Hubbard
+8	AEROS	Houston hockey team
+9	SQUID	Calamari
+10	BETON	Back at the track
+12	TUTUS	"Swan Lake" garb
+16	EYERS	Spectators
+17	CPA	I.R.S. employee
+19	ANDMY	Song words before gal or shadow
+20	CHONG	"Up in Smoke" co-star, 1978
+21	HOUGH	Two-time "Dancing With the Stars" co-winner Julianne
+24	GIST	Central point
+25	SAGO	Steamed pudding ingredient
+26	ALGA	Bit of aquarium growth
+28	PIT	Hollow
+29	PIP	Pineapple skin segment
+30	RMS	Abbr. in an apt. ad
+31	III	Name tag?

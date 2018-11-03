@@ -1,0 +1,305 @@
+grid_15x15_181
+15
+1	0	0	#	0	1	4	0		1	0	0	0	
+0	1	1	F	0	1	4	1	FALA	0	1	6	1	FELLOW
+0	1	2	A	0	1	4	0		0	2	6	1	ANDALE
+0	1	3	L	0	1	4	0		0	3	3	1	LGS
+0	1	4	A	0	1	4	0		0	4	3	1	ALO
+1	0	0	#	0	6	0	0		1	5	10	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	5	E	0	8	3	1	EDO	0	8	3	1	EBN
+0	1	6	D	0	8	3	0		0	9	3	1	DAD
+0	1	7	O	0	8	3	0		0	10	6	1	ORDEAL
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	8	P	0	12	3	1	PEG	0	12	8	1	PINEWOOD
+0	1	9	E	0	12	3	0		0	13	3	1	EEC
+0	1	10	G	0	12	3	0		0	14	3	1	GRE
+1	0	0	#	1	1	14	0		2	0	3	0	
+0	1	11	E	1	1	14	1	ENGLISHBARRIER	0	1	6	0	
+0	0	0	N	1	1	14	0		0	2	6	0	
+0	0	0	G	1	1	14	0		0	3	3	0	
+0	0	0	L	1	1	14	0		0	4	3	0	
+0	1	12	I	1	1	14	0		1	5	10	1	INKSLINGER
+0	1	13	S	1	1	14	0		1	6	3	1	SGT
+0	1	14	H	1	1	14	0		1	7	3	1	HAS
+0	0	0	B	1	1	14	0		0	8	3	0	
+0	0	0	A	1	1	14	0		0	9	3	0	
+0	0	0	R	1	1	14	0		0	10	6	0	
+0	1	15	R	1	1	14	0		1	11	3	1	RAW
+0	0	0	I	1	1	14	0		0	12	8	0	
+0	0	0	E	1	1	14	0		0	13	3	0	
+0	0	0	R	1	1	14	0		0	14	3	0	
+0	1	16	O	2	0	15	1	OLDSONGANDDANCE	2	0	3	1	OEN
+0	0	0	L	2	0	15	0		0	1	6	0	
+0	0	0	D	2	0	15	0		0	2	6	0	
+0	0	0	S	2	0	15	0		0	3	3	0	
+0	0	0	O	2	0	15	0		0	4	3	0	
+0	0	0	N	2	0	15	0		1	5	10	0	
+0	0	0	G	2	0	15	0		1	6	3	0	
+0	0	0	A	2	0	15	0		1	7	3	0	
+0	0	0	N	2	0	15	0		0	8	3	0	
+0	0	0	D	2	0	15	0		0	9	3	0	
+0	0	0	D	2	0	15	0		0	10	6	0	
+0	0	0	A	2	0	15	0		1	11	3	0	
+0	0	0	N	2	0	15	0		0	12	8	0	
+0	0	0	C	2	0	15	0		0	13	3	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+0	1	17	E	3	0	3	1	ELA	2	0	3	0	
+0	0	0	L	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	0	0		4	3	4	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	18	K	3	5	3	1	KTS	1	5	10	0	
+0	0	0	T	3	5	3	0		1	6	3	0	
+0	0	0	S	3	5	3	0		1	7	3	0	
+1	0	0	#	3	9	0	0		4	8	6	0	
+1	0	0	#	3	10	3	0		4	9	10	0	
+0	1	19	E	3	10	3	1	EWE	0	10	6	0	
+0	0	0	W	3	10	3	0		1	11	3	0	
+0	0	0	E	3	10	3	0		0	12	8	0	
+1	0	0	#	3	14	0	0		4	13	4	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+0	1	20	N	4	0	6	1	NOLTES	2	0	3	0	
+0	0	0	O	4	0	6	0		0	1	6	0	
+0	0	0	L	4	0	6	0		0	2	6	0	
+0	1	21	T	4	0	6	0		4	3	4	1	TAIS
+0	1	22	E	4	0	6	0		4	4	3	1	EKG
+0	0	0	S	4	0	6	0		1	5	10	0	
+1	0	0	#	4	7	0	0		5	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	23	B	4	8	3	1	BHA	4	8	6	1	BLUEST
+0	1	24	H	4	8	3	0		4	9	10	1	HOPSTEWARD
+0	0	0	A	4	8	3	0		0	10	6	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	W	4	12	3	1	WAT	0	12	8	0	
+0	1	26	A	4	12	3	0		4	13	4	1	ANES
+0	1	27	T	4	12	3	0		4	14	3	1	TSR
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	28	W	5	1	6	1	WEAKLY	0	1	6	0	
+0	0	0	E	5	1	6	0		0	2	6	0	
+0	0	0	A	5	1	6	0		4	3	4	0	
+0	0	0	K	5	1	6	0		4	4	3	0	
+0	0	0	L	5	1	6	0		1	5	10	0	
+0	1	29	Y	5	1	6	0		5	6	6	1	YVONNE
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	30	L	5	8	3	1	LOL	4	8	6	0	
+0	0	0	O	5	8	3	0		4	9	10	0	
+0	0	0	L	5	8	3	0		0	10	6	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	31	O	5	12	3	1	ONS	0	12	8	0	
+0	0	0	N	5	12	3	0		4	13	4	0	
+0	0	0	S	5	12	3	0		4	14	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	7	0		7	2	8	0	
+0	1	32	I	6	3	7	1	IGIVEUP	4	3	4	0	
+0	0	0	G	6	3	7	0		4	4	3	0	
+0	0	0	I	6	3	7	0		1	5	10	0	
+0	0	0	V	6	3	7	0		5	6	6	0	
+0	1	33	E	6	3	7	0		6	7	3	1	ETO
+0	0	0	U	6	3	7	0		4	8	6	0	
+0	0	0	P	6	3	7	0		4	9	10	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+1	0	0	#	6	12	3	0		7	11	4	0	
+0	1	34	O	6	12	3	1	OER	0	12	8	0	
+0	0	0	E	6	12	3	0		4	13	4	0	
+0	0	0	R	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	35	A	7	1	3	1	ASS	7	1	4	1	AORB
+0	1	36	S	7	1	3	0		7	2	8	1	STETSONS
+0	0	0	S	7	1	3	0		4	3	4	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	37	N	7	5	5	1	NOTES	1	5	10	0	
+0	0	0	O	7	5	5	0		5	6	6	0	
+0	0	0	T	7	5	5	0		6	7	3	0	
+0	0	0	E	7	5	5	0		4	8	6	0	
+0	0	0	S	7	5	5	0		4	9	10	0	
+1	0	0	#	7	11	3	0		8	10	3	0	
+0	1	38	B	7	11	3	1	BDS	7	11	4	1	BCAR
+0	0	0	D	7	11	3	0		0	12	8	0	
+0	0	0	S	7	11	3	0		4	13	4	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	39	L	8	0	3	1	LOT	8	0	3	1	LIA
+0	0	0	O	8	0	3	0		7	1	4	0	
+0	0	0	T	8	0	3	0		7	2	8	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	7	0		9	4	6	0	
+0	1	40	G	8	5	7	1	GNOSTIC	1	5	10	0	
+0	0	0	N	8	5	7	0		5	6	6	0	
+0	0	0	O	8	5	7	0		6	7	3	0	
+0	0	0	S	8	5	7	0		4	8	6	0	
+0	0	0	T	8	5	7	0		4	9	10	0	
+0	1	41	I	8	5	7	0		8	10	3	1	INI
+0	0	0	C	8	5	7	0		7	11	4	0	
+1	0	0	#	8	13	0	0		9	12	6	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	42	I	9	0	3	1	IRE	8	0	3	0	
+0	0	0	R	9	0	3	0		7	1	4	0	
+0	0	0	E	9	0	3	0		7	2	8	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	43	B	9	4	3	1	BEN	9	4	6	1	BPDSGO
+0	0	0	E	9	4	3	0		1	5	10	0	
+0	0	0	N	9	4	3	0		5	6	6	0	
+1	0	0	#	9	8	6	0		10	7	0	0	
+0	1	44	T	9	8	6	1	TENANT	4	8	6	0	
+0	0	0	E	9	8	6	0		4	9	10	0	
+0	0	0	N	9	8	6	0		8	10	3	0	
+0	0	0	A	9	8	6	0		7	11	4	0	
+0	1	45	N	9	8	6	0		9	12	6	1	NEOCON
+0	1	46	T	9	8	6	0		9	13	6	1	TRIERS
+1	0	0	#	9	15	0	0		10	14	3	0	
+0	1	47	A	10	0	3	1	ABT	8	0	3	0	
+0	0	0	B	10	0	3	0		7	1	4	0	
+0	0	0	T	10	0	3	0		7	2	8	0	
+1	0	0	#	10	4	3	0		11	3	3	0	
+0	1	48	P	10	4	3	1	PRE	9	4	6	0	
+0	0	0	R	10	4	3	0		1	5	10	0	
+0	0	0	E	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	0	0		11	7	3	0	
+1	0	0	#	10	9	6	0		11	8	3	0	
+0	1	49	W	10	9	6	1	WIRERS	4	9	10	0	
+0	0	0	I	10	9	6	0		8	10	3	0	
+0	0	0	R	10	9	6	0		7	11	4	0	
+0	0	0	E	10	9	6	0		9	12	6	0	
+0	0	0	R	10	9	6	0		9	13	6	0	
+0	1	50	S	10	9	6	0		10	14	3	1	SOS
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	51	S	11	2	3	1	SAD	7	2	8	0	
+0	1	52	A	11	2	3	0		11	3	3	1	ASA
+0	0	0	D	11	2	3	0		9	4	6	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	53	E	11	7	3	1	EVA	11	7	3	1	EFG
+0	1	54	V	11	7	3	0		11	8	3	1	VEE
+0	0	0	A	11	7	3	0		4	9	10	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	55	O	11	12	3	1	OIO	9	12	6	0	
+0	0	0	I	11	12	3	0		9	13	6	0	
+0	0	0	O	11	12	3	0		10	14	3	0	
+0	1	56	C	12	0	15	1	CROSSREFERENCES	12	0	3	1	CMS
+0	1	57	R	12	0	15	0		12	1	3	1	RAY
+0	0	0	O	12	0	15	0		7	2	8	0	
+0	0	0	S	12	0	15	0		11	3	3	0	
+0	0	0	S	12	0	15	0		9	4	6	0	
+0	1	58	R	12	0	15	0		12	5	3	1	RIP
+0	1	59	E	12	0	15	0		12	6	3	1	ENS
+0	0	0	F	12	0	15	0		11	7	3	0	
+0	0	0	E	12	0	15	0		11	8	3	0	
+0	0	0	R	12	0	15	0		4	9	10	0	
+0	1	60	E	12	0	15	0		12	10	3	1	EIS
+0	1	61	N	12	0	15	0		12	11	3	1	NTS
+0	0	0	C	12	0	15	0		9	12	6	0	
+0	0	0	E	12	0	15	0		9	13	6	0	
+0	0	0	S	12	0	15	0		10	14	3	0	
+0	1	62	M	13	0	14	1	MANAGINGEDITOR	12	0	3	0	
+0	0	0	A	13	0	14	0		12	1	3	0	
+0	0	0	N	13	0	14	0		7	2	8	0	
+0	0	0	A	13	0	14	0		11	3	3	0	
+0	0	0	G	13	0	14	0		9	4	6	0	
+0	0	0	I	13	0	14	0		12	5	3	0	
+0	0	0	N	13	0	14	0		12	6	3	0	
+0	0	0	G	13	0	14	0		11	7	3	0	
+0	0	0	E	13	0	14	0		11	8	3	0	
+0	0	0	D	13	0	14	0		4	9	10	0	
+0	0	0	I	13	0	14	0		12	10	3	0	
+0	0	0	T	13	0	14	0		12	11	3	0	
+0	0	0	O	13	0	14	0		9	12	6	0	
+0	0	0	R	13	0	14	0		9	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+0	1	63	S	14	0	3	1	SYS	12	0	3	0	
+0	0	0	Y	14	0	3	0		12	1	3	0	
+0	0	0	S	14	0	3	0		7	2	8	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	64	O	14	4	3	1	OPS	9	4	6	0	
+0	0	0	P	14	4	3	0		12	5	3	0	
+0	0	0	S	14	4	3	0		12	6	3	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	4	0		15	9	0	0	
+0	1	65	S	14	10	4	1	SSNS	12	10	3	0	
+0	0	0	S	14	10	4	0		12	11	3	0	
+0	0	0	N	14	10	4	0		9	12	6	0	
+0	0	0	S	14	10	4	0		9	13	6	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+35
+1	FALA	White House Scottie
+5	EDO	Conductor de Waart
+8	PEG	Identify, informally
+11	ENGLISHBARRIER	Hadrian's Wall?
+16	OLDSONGANDDANCE	Don't give me that!
+17	ELA	Musical high note
+18	KTS	Gold units: Abbr.
+19	EWE	Farm mother
+20	NOLTES	Actor Nick and family
+23	BHA	Food preservative, briefly
+25	WAT	Peasants' Revolt leader ___ Tyler
+28	WEAKLY	Without conviction
+30	LOL	Chatroom chuckle
+31	ONS	Slip-___ (some shoes)
+32	IGIVEUP	"You win"
+34	OER	...
+35	ASS	Long-eared farm animal
+37	NOTES	Speaker's 3 x 5 cards, e.g.
+38	BDS	What directors sit on: Abbr.
+39	LOT	Film studio locale
+40	GNOSTIC	Early Christian
+42	IRE	Feeling of frustration
+43	BEN	Casey of County General Hospital
+44	TENANT	Flat taker
+47	ABT	Baryshnikov's former co.
+48	PRE	Start to fix?
+49	WIRERS	Cable workers, e.g.
+51	SAD	Long-faced
+53	EVA	Little ___, 60's singer
+55	OIO	Source of some rings
+56	CROSSREFERENCES	Things to "see" in an encyclopedia
+62	MANAGINGEDITOR	Deadline maker
+63	SYS	___ admin
+64	OPS	Saturn's wife
+65	SSNS	Info that may be phished: Abbr.
+41
+1	FELLOW	Chap
+2	ANDALE	Speedy Gonzales shout
+3	LGS	Linemen near centers: Abbr.
+4	ALO	Santo Domingo greeting
+5	EBN	Surveyor's dir.
+6	DAD	Many a turkey carver
+7	ORDEAL	Terrible trial
+8	PINEWOOD	Good floor material
+9	EEC	Spain is in it: Abbr.
+10	GRE	Test for coll. seniors
+12	INKSLINGER	Writer, slangily
+13	SGT	Badge holder: Abbr.
+14	HAS	Isn't out of
+15	RAW	Some kind of nerve?
+16	OEN	Vintner's prefix
+21	TAIS	Mai ___ (drinks)
+22	EKG	Ticker tape letters?
+23	BLUEST	Most down
+24	HOPSTEWARD	Attendant at a '50s dance?
+26	ANES	Hydrocarbon suffixes
+27	TSR	Old Dungeons & Dragons co.
+29	YVONNE	Batgirl player Craig
+33	ETO	W.W. II command area
+35	AORB	Simplest of choices
+36	STETSONS	Western wear
+38	BCAR	Part of a freight train
+39	LIA	___ Fail (Irish coronation stone)
+41	INI	Common pasta suffix
+43	BPDSGO	Journey to a better place
+45	NEOCON	Ex-lib, perhaps
+46	TRIERS	Judges and juries
+50	SOS	Letters of distress
+52	ASA	Quick ___ flash
+53	EFG	Alphabetical trio
+54	VEE	Notch
+56	CMS	Ruler amts.
+57	RAY	Skate
+58	RIP	Lace (into)
+59	ENS	Lt.'s inferior
+60	EIS	Largest known dwarf planet
+61	NTS	Some Windows systems

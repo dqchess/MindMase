@@ -1,0 +1,167 @@
+grid_11x11_36
+11
+0	1	1	V	0	0	3	1	VQF	0	0	3	1	VOS
+0	1	2	Q	0	0	3	0		0	1	3	1	QLM
+0	1	3	F	0	0	3	0		0	2	11	1	FEEDMYPUPPY
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	6	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	M	0	6	3	1	MDS	0	6	3	1	MAA
+0	1	5	D	0	6	3	0		0	7	3	1	DAR
+0	1	6	S	0	6	3	0		0	8	11	1	SHAKESPEARE
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	O	1	0	5	1	OLEIC	0	0	3	0	
+0	0	0	L	1	0	5	0		0	1	3	0	
+0	0	0	E	1	0	5	0		0	2	11	0	
+0	1	8	I	1	0	5	0		1	3	3	1	ILO
+0	1	9	C	1	0	5	0		1	4	6	1	CLIENT
+1	0	0	#	1	6	4	0		2	5	7	0	
+0	1	10	A	1	6	4	1	AAHS	0	6	3	0	
+0	0	0	A	1	6	4	0		0	7	3	0	
+0	0	0	H	1	6	4	0		0	8	11	0	
+0	1	11	S	1	6	4	0		1	9	6	1	STYLED
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	12	S	2	0	10	1	SMELLSARAT	0	0	3	0	
+0	0	0	M	2	0	10	0		0	1	3	0	
+0	0	0	E	2	0	10	0		0	2	11	0	
+0	0	0	L	2	0	10	0		1	3	3	0	
+0	0	0	L	2	0	10	0		1	4	6	0	
+0	1	13	S	2	0	10	0		2	5	7	1	STLUKES
+0	0	0	A	2	0	10	0		0	6	3	0	
+0	0	0	R	2	0	10	0		0	7	3	0	
+0	0	0	A	2	0	10	0		0	8	11	0	
+0	0	0	T	2	0	10	0		1	9	6	0	
+1	0	0	#	2	11	0	0		3	10	4	0	
+1	0	0	#	3	1	0	0		4	0	4	0	
+1	0	0	#	3	2	4	0		4	1	6	0	
+0	1	14	D	3	2	4	1	DOIT	0	2	11	0	
+0	0	0	O	3	2	4	0		1	3	3	0	
+0	0	0	I	3	2	4	0		1	4	6	0	
+0	0	0	T	3	2	4	0		2	5	7	0	
+1	0	0	#	3	7	0	0		4	6	6	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	15	K	3	8	3	1	KYD	0	8	11	0	
+0	0	0	Y	3	8	3	0		1	9	6	0	
+0	1	16	D	3	8	3	0		3	10	4	1	DEET
+0	1	17	A	4	0	3	1	ARM	4	0	4	1	ALPS
+0	1	18	R	4	0	3	0		4	1	6	1	RECOOL
+0	0	0	M	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	19	E	4	4	3	1	ELF	1	4	6	0	
+0	0	0	L	4	4	3	0		2	5	7	0	
+0	1	20	F	4	4	3	0		4	6	6	1	FLORES
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	21	E	4	8	3	1	ELE	0	8	11	0	
+0	0	0	L	4	8	3	0		1	9	6	0	
+0	0	0	E	4	8	3	0		3	10	4	0	
+0	1	22	L	5	0	3	1	LEY	4	0	4	0	
+0	0	0	E	5	0	3	0		4	1	6	0	
+0	0	0	Y	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	23	N	5	4	3	1	NUL	1	4	6	0	
+0	0	0	U	5	4	3	0		2	5	7	0	
+0	0	0	L	5	4	3	0		4	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	24	S	5	8	3	1	SEE	0	8	11	0	
+0	0	0	E	5	8	3	0		1	9	6	0	
+0	0	0	E	5	8	3	0		3	10	4	0	
+0	1	25	P	6	0	3	1	PCP	4	0	4	0	
+0	0	0	C	6	0	3	0		4	1	6	0	
+0	0	0	P	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	0	0	
+0	1	26	T	6	4	3	1	TKO	1	4	6	0	
+0	0	0	K	6	4	3	0		2	5	7	0	
+0	0	0	O	6	4	3	0		4	6	6	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	27	P	6	8	3	1	PDT	0	8	11	0	
+0	0	0	D	6	8	3	0		1	9	6	0	
+0	0	0	T	6	8	3	0		3	10	4	0	
+0	1	28	S	7	0	3	1	SOU	4	0	4	0	
+0	0	0	O	7	0	3	0		4	1	6	0	
+0	0	0	U	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	4	0		8	4	3	0	
+0	1	29	E	7	5	4	1	ERSE	2	5	7	0	
+0	0	0	R	7	5	4	0		4	6	6	0	
+0	1	30	S	7	5	4	0		7	7	3	1	SSH
+0	0	0	E	7	5	4	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	31	O	8	1	10	1	OPENSESAME	4	1	6	0	
+0	0	0	P	8	1	10	0		0	2	11	0	
+0	1	32	E	8	1	10	0		8	3	3	1	ENO
+0	1	33	N	8	1	10	0		8	4	3	1	NSW
+0	0	0	S	8	1	10	0		2	5	7	0	
+0	0	0	E	8	1	10	0		4	6	6	0	
+0	0	0	S	8	1	10	0		7	7	3	0	
+0	0	0	A	8	1	10	0		0	8	11	0	
+0	1	34	M	8	1	10	0		8	9	3	1	MUD
+0	1	35	E	8	1	10	0		8	10	3	1	EBW
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	36	L	9	1	4	1	LPNS	4	1	6	0	
+0	0	0	P	9	1	4	0		0	2	11	0	
+0	0	0	N	9	1	4	0		8	3	3	0	
+0	0	0	S	9	1	4	0		8	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	37	S	9	6	5	1	SHRUB	4	6	6	0	
+0	0	0	H	9	6	5	0		7	7	3	0	
+0	0	0	R	9	6	5	0		0	8	11	0	
+0	0	0	U	9	6	5	0		8	9	3	0	
+0	0	0	B	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	38	Y	10	2	3	1	YOW	0	2	11	0	
+0	0	0	O	10	2	3	0		8	3	3	0	
+0	0	0	W	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	39	E	10	8	3	1	EDW	0	8	11	0	
+0	0	0	D	10	8	3	0		8	9	3	0	
+0	0	0	W	10	8	3	0		8	10	3	0	
+23
+1	VQF	Owns
+4	MDS	Docs
+7	OLEIC	Kind of acid
+10	AAHS	Sounds of relief
+12	SMELLSARAT	Is suspicious
+14	DOIT	"What are you waiting for?!"
+15	KYD	"The Spanish Tragedy" dramatist
+17	ARM	Outfielder's asset
+19	ELF	Keebler baker, in ads
+21	ELE	One in the charge of un instituteur
+22	LEY	Writer Willy who popularized spaceflight
+23	NUL	Match ___ (tie game, in France)
+24	SEE	"Told ya!"
+25	PCP	Narc's find, for short
+26	TKO	Ring call
+27	PDT	LAX clock setting
+28	SOU	March bigwig
+29	ERSE	Language from which "spunk" is derived
+31	OPENSESAME	Secret words
+36	LPNS	Hosp. staffers
+37	SHRUB	Hydrangea, e.g.
+38	YOW	"Man, that hurts!"
+39	EDW	One of eight Eng. kings
+19
+1	VOS	Writer Marilyn ___ Savant
+2	QLM	___ Victor
+3	FEEDMYPUPPY	"And ___...?"
+4	MAA	Pasture plaint
+5	DAR	Good Citizens contest sponsor: Abbr.
+6	SHAKESPEARE	The Bard
+8	ILO	U.N. workers' grp.
+9	CLIENT	Ambulance chaser's prize
+11	STYLED	Like a professional haircut
+13	STLUKES	Common hospital name
+16	DEET	Insect repellent ingredient
+17	ALPS	Matterhorn's locale
+18	RECOOL	Ice down again
+20	FLORES	Spanish blooms
+30	SSH	Library sound: Var.
+32	ENO	Brian of Roxy Music
+33	NSW	Queensland neighbor: Abbr.
+34	MUD	Yielding ground
+35	EBW	"The Trumpet of the Swan" author

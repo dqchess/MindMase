@@ -1,0 +1,165 @@
+grid_11x11_126
+11
+0	1	1	S	0	0	3	1	STK	0	0	3	1	SUW
+0	1	2	T	0	0	3	0		0	1	4	1	TMAN
+0	1	3	K	0	0	3	0		0	2	4	1	KELP
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	6	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	L	0	6	3	1	LDS	0	6	3	1	LAC
+0	1	5	D	0	6	3	0		0	7	3	1	DNH
+0	1	6	S	0	6	3	0		0	8	6	1	SEISMO
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	U	1	0	5	1	UMEKI	0	0	3	0	
+0	0	0	M	1	0	5	0		0	1	4	0	
+0	0	0	E	1	0	5	0		0	2	4	0	
+0	1	8	K	1	0	5	0		1	3	5	1	KLINE
+0	1	9	I	1	0	5	0		1	4	6	1	IONESO
+1	0	0	#	1	6	4	0		2	5	7	0	
+0	1	10	A	1	6	4	1	ANES	0	6	3	0	
+0	0	0	N	1	6	4	0		0	7	3	0	
+0	0	0	E	1	6	4	0		0	8	6	0	
+0	1	11	S	1	6	4	0		1	9	5	1	SNARL
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	12	W	2	0	11	1	WALLOFCHINA	0	0	3	0	
+0	0	0	A	2	0	11	0		0	1	4	0	
+0	0	0	L	2	0	11	0		0	2	4	0	
+0	0	0	L	2	0	11	0		1	3	5	0	
+0	0	0	O	2	0	11	0		1	4	6	0	
+0	1	13	F	2	0	11	0		2	5	7	1	FSACKZA
+0	0	0	C	2	0	11	0		0	6	3	0	
+0	0	0	H	2	0	11	0		0	7	3	0	
+0	0	0	I	2	0	11	0		0	8	6	0	
+0	0	0	N	2	0	11	0		1	9	5	0	
+0	1	14	A	2	0	11	0		2	10	3	1	ARE
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	15	N	3	1	5	1	NPINS	0	1	4	0	
+0	0	0	P	3	1	5	0		0	2	4	0	
+0	0	0	I	3	1	5	0		1	3	5	0	
+0	0	0	N	3	1	5	0		1	4	6	0	
+0	0	0	S	3	1	5	0		2	5	7	0	
+1	0	0	#	3	7	0	0		4	6	6	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	16	S	3	8	3	1	SAR	0	8	6	0	
+0	0	0	A	3	8	3	0		1	9	5	0	
+0	0	0	R	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	5	0	
+1	0	0	#	4	3	4	0		5	2	6	0	
+0	1	17	N	4	3	4	1	NEAT	1	3	5	0	
+0	0	0	E	4	3	4	0		1	4	6	0	
+0	0	0	A	4	3	4	0		2	5	7	0	
+0	1	18	T	4	3	4	0		4	6	6	1	THRESH
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	19	M	4	8	3	1	MRE	0	8	6	0	
+0	0	0	R	4	8	3	0		1	9	5	0	
+0	0	0	E	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	9	0		6	0	3	0	
+0	1	20	P	5	1	9	1	PRESCHOOL	5	1	5	1	PUPAL
+0	1	21	R	5	1	9	0		5	2	6	1	RENNER
+0	0	0	E	5	1	9	0		1	3	5	0	
+0	0	0	S	5	1	9	0		1	4	6	0	
+0	0	0	C	5	1	9	0		2	5	7	0	
+0	0	0	H	5	1	9	0		4	6	6	0	
+0	1	22	O	5	1	9	0		5	7	5	1	OARED
+0	0	0	O	5	1	9	0		0	8	6	0	
+0	0	0	L	5	1	9	0		1	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	23	C	6	0	3	1	CUE	6	0	3	1	CUM
+0	0	0	U	6	0	3	0		5	1	5	0	
+0	0	0	E	6	0	3	0		5	2	6	0	
+1	0	0	#	6	4	4	0		7	3	0	0	
+0	1	24	O	6	4	4	1	OKRA	1	4	6	0	
+0	0	0	K	6	4	4	0		2	5	7	0	
+0	0	0	R	6	4	4	0		4	6	6	0	
+0	0	0	A	6	4	4	0		5	7	5	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	25	U	7	0	3	1	UPN	6	0	3	0	
+0	0	0	P	7	0	3	0		5	1	5	0	
+0	0	0	N	7	0	3	0		5	2	6	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	26	Z	7	5	5	1	ZEROS	2	5	7	0	
+0	0	0	E	7	5	5	0		4	6	6	0	
+0	0	0	R	7	5	5	0		5	7	5	0	
+0	1	27	O	7	5	5	0		7	8	4	1	ONTO
+0	1	28	S	7	5	5	0		7	9	4	1	SOVS
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	29	M	8	0	11	1	MANANASENOR	6	0	3	0	
+0	0	0	A	8	0	11	0		5	1	5	0	
+0	0	0	N	8	0	11	0		5	2	6	0	
+0	1	30	A	8	0	11	0		8	3	3	1	ANO
+0	1	31	N	8	0	11	0		8	4	3	1	NIM
+0	0	0	A	8	0	11	0		2	5	7	0	
+0	0	0	S	8	0	11	0		4	6	6	0	
+0	0	0	E	8	0	11	0		5	7	5	0	
+0	0	0	N	8	0	11	0		7	8	4	0	
+0	0	0	O	8	0	11	0		7	9	4	0	
+0	1	32	R	8	0	11	0		8	10	3	1	RST
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	33	L	9	1	4	1	LENI	5	1	5	0	
+0	0	0	E	9	1	4	0		5	2	6	0	
+0	0	0	N	9	1	4	0		8	3	3	0	
+0	0	0	I	9	1	4	0		8	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	34	H	9	6	5	1	HDTVS	4	6	6	0	
+0	0	0	D	9	6	5	0		5	7	5	0	
+0	0	0	T	9	6	5	0		7	8	4	0	
+0	0	0	V	9	6	5	0		7	9	4	0	
+0	0	0	S	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	R	10	2	3	1	ROM	5	2	6	0	
+0	0	0	O	10	2	3	0		8	3	3	0	
+0	0	0	M	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	O	10	8	3	1	OST	7	8	4	0	
+0	0	0	S	10	8	3	0		7	9	4	0	
+0	0	0	T	10	8	3	0		8	10	3	0	
+19
+1	STK	Nasdaq buy: Abbr.
+4	LDS	Denom. established in 1830
+7	UMEKI	Oscar-winning actress Miyoshi
+10	ANES	Hydrocarbon endings
+12	WALLOFCHINA	"Great" Asian landmark
+15	NPINS	Skittles
+16	SAR	Mediterranean isl.
+17	NEAT	Full-strength, in a way
+19	MRE	Field fare, briefly
+20	PRESCHOOL	Spot for a tot
+23	CUE	Billiards stick
+24	OKRA	Pod that's sometimes pickled
+25	UPN	Broadcaster from 1995 to 2006
+26	ZEROS	W.W. II Japanese aircraft
+29	MANANASENOR	Procrastinating words south of the border
+33	LENI	Director Riefenstahl
+34	HDTVS	Modern viewing options, for short
+35	ROM	Neighbor of Hung.
+36	OST	German compass point
+21
+1	SUW	Like some stocks and drugs: Abbr.
+2	TMAN	Investigator, of sorts
+3	KELP	Large brown algae
+4	LAC	Geneva's ___ L
+5	DNH	Pol. designation for Gov. Jeanne Shaheen
+6	SEISMO	Prefix with graph
+8	KLINE	1988 Best Supporting Actor
+9	IONESO	"Rhinoceros" playwright
+11	SNARL	Entangle
+13	FSACKZA	Fatigued
+14	ARE	"You ___ There"
+18	THRESH	Separate wheat from chaff
+20	PUPAL	In the third stage
+21	RENNER	Actor Jeremy of "North Country"
+22	OARED	Made some waves?
+23	CUM	___ grano salis
+27	ONTO	Savvy about
+28	SOVS	King and queen: Abbr.
+30	ANO	___ nuevo
+31	NIM	Game with sticks
+32	RST	Letter sequence

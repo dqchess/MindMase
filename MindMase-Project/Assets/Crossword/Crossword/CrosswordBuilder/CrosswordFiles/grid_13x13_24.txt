@@ -1,0 +1,233 @@
+grid_13x13_24
+13
+0	1	1	D	0	0	3	1	DPI	0	0	3	1	DET
+0	1	2	P	0	0	3	0		0	1	6	1	PSHAWS
+0	1	3	I	0	0	3	0		0	2	13	1	ITEMTORECYCLE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	S	0	4	3	1	SRS	0	4	3	1	SUE
+0	1	5	R	0	4	3	0		0	5	4	1	RESP
+0	1	6	S	0	4	3	0		0	6	4	1	SATE
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	O	0	8	3	1	OBJ	0	8	3	1	OSE
+0	1	8	B	0	8	3	0		0	9	5	1	BUNKO
+0	1	9	J	0	8	3	0		0	10	13	1	JONATHANSWIFT
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	E	1	0	3	1	EST	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	6	0	
+0	0	0	T	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	3	0		2	3	5	0	
+0	1	11	U	1	4	3	1	UEA	0	4	3	0	
+0	0	0	E	1	4	3	0		0	5	4	0	
+0	0	0	A	1	4	3	0		0	6	4	0	
+1	0	0	#	1	8	4	0		2	7	0	0	
+0	1	12	S	1	8	4	1	SUOS	0	8	3	0	
+0	0	0	U	1	8	4	0		0	9	5	0	
+0	0	0	O	1	8	4	0		0	10	13	0	
+0	1	13	S	1	8	4	0		1	11	5	1	SIREE
+1	0	0	#	1	13	0	0		2	12	4	0	
+0	1	14	T	2	0	7	1	THEBEST	0	0	3	0	
+0	0	0	H	2	0	7	0		0	1	6	0	
+0	0	0	E	2	0	7	0		0	2	13	0	
+0	1	15	B	2	0	7	0		2	3	5	1	BISTA
+0	0	0	E	2	0	7	0		0	4	3	0	
+0	0	0	S	2	0	7	0		0	5	4	0	
+0	0	0	T	2	0	7	0		0	6	4	0	
+1	0	0	#	2	8	5	0		3	7	5	0	
+0	1	16	E	2	8	5	1	ENNIO	0	8	3	0	
+0	0	0	N	2	8	5	0		0	9	5	0	
+0	0	0	N	2	8	5	0		0	10	13	0	
+0	0	0	I	2	8	5	0		1	11	5	0	
+0	1	17	O	2	8	5	0		2	12	4	1	ONDE
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	18	A	3	1	3	1	AMI	0	1	6	0	
+0	0	0	M	3	1	3	0		0	2	13	0	
+0	0	0	I	3	1	3	0		2	3	5	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	19	P	3	5	3	1	PEG	0	5	4	0	
+0	0	0	E	3	5	3	0		0	6	4	0	
+0	1	20	G	3	5	3	0		3	7	5	1	GENOA
+1	0	0	#	3	9	4	0		4	8	3	0	
+0	1	21	K	3	9	4	1	KARN	0	9	5	0	
+0	0	0	A	3	9	4	0		0	10	13	0	
+0	0	0	R	3	9	4	0		1	11	5	0	
+0	0	0	N	3	9	4	0		2	12	4	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	22	W	4	1	3	1	WTS	0	1	6	0	
+0	0	0	T	4	1	3	0		0	2	13	0	
+0	0	0	S	4	1	3	0		2	3	5	0	
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	0	0		5	5	5	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	23	E	4	7	6	1	EMOTED	3	7	5	0	
+0	1	24	M	4	7	6	0		4	8	3	1	MAT
+0	0	0	O	4	7	6	0		0	9	5	0	
+0	0	0	T	4	7	6	0		0	10	13	0	
+0	0	0	E	4	7	6	0		1	11	5	0	
+0	0	0	D	4	7	6	0		2	12	4	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	25	S	5	1	3	1	SOT	0	1	6	0	
+0	0	0	O	5	1	3	0		0	2	13	0	
+0	0	0	T	5	1	3	0		2	3	5	0	
+1	0	0	#	5	5	4	0		6	4	3	0	
+0	1	26	A	5	5	4	1	ANNA	5	5	5	1	ALDER
+0	1	27	N	5	5	4	0		5	6	3	1	NIN
+0	0	0	N	5	5	4	0		3	7	5	0	
+0	0	0	A	5	5	4	0		4	8	3	0	
+1	0	0	#	5	10	3	0		6	9	5	0	
+0	1	28	H	5	10	3	1	HEE	0	10	13	0	
+0	0	0	E	5	10	3	0		1	11	5	0	
+0	0	0	E	5	10	3	0		2	12	4	0	
+1	0	0	#	6	1	0	0		7	0	4	0	
+1	0	0	#	6	2	9	0		7	1	5	0	
+0	1	29	R	6	2	9	1	RAYLIOTTA	0	2	13	0	
+0	0	0	A	6	2	9	0		2	3	5	0	
+0	1	30	Y	6	2	9	0		6	4	3	1	YET
+0	0	0	L	6	2	9	0		5	5	5	0	
+0	0	0	I	6	2	9	0		5	6	3	0	
+0	0	0	O	6	2	9	0		3	7	5	0	
+0	0	0	T	6	2	9	0		4	8	3	0	
+0	1	31	T	6	2	9	0		6	9	5	1	THUDS
+0	0	0	A	6	2	9	0		0	10	13	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	32	G	7	0	3	1	GTE	7	0	4	1	GRIS
+0	1	33	T	7	0	3	0		7	1	5	1	TEDIU
+0	0	0	E	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	4	0		8	3	5	0	
+0	1	34	E	7	4	4	1	EDNA	6	4	3	0	
+0	0	0	D	7	4	4	0		5	5	5	0	
+0	0	0	N	7	4	4	0		5	6	3	0	
+0	0	0	A	7	4	4	0		3	7	5	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	35	H	7	9	3	1	HNC	6	9	5	0	
+0	0	0	N	7	9	3	0		0	10	13	0	
+0	1	36	C	7	9	3	0		7	11	6	1	COINOP
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	37	R	8	0	6	1	RECITE	7	0	4	0	
+0	0	0	E	8	0	6	0		7	1	5	0	
+0	0	0	C	8	0	6	0		0	2	13	0	
+0	1	38	I	8	0	6	0		8	3	5	1	ILEAC
+0	0	0	T	8	0	6	0		6	4	3	0	
+0	0	0	E	8	0	6	0		5	5	5	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	0	0		9	7	4	0	
+1	0	0	#	8	9	3	0		9	8	0	0	
+0	1	39	U	8	9	3	1	USO	6	9	5	0	
+0	0	0	S	8	9	3	0		0	10	13	0	
+0	0	0	O	8	9	3	0		7	11	6	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	40	I	9	0	4	1	IDYL	7	0	4	0	
+0	0	0	D	9	0	4	0		7	1	5	0	
+0	0	0	Y	9	0	4	0		0	2	13	0	
+0	0	0	L	9	0	4	0		8	3	5	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	41	R	9	5	3	1	ROW	5	5	5	0	
+0	1	42	O	9	5	3	0		9	6	4	1	OCTO
+0	1	43	W	9	5	3	0		9	7	4	1	WLOO
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	44	D	9	9	3	1	DWI	6	9	5	0	
+0	0	0	W	9	9	3	0		0	10	13	0	
+0	0	0	I	9	9	3	0		7	11	6	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	S	10	0	5	1	SICEM	7	0	4	0	
+0	0	0	I	10	0	5	0		7	1	5	0	
+0	0	0	C	10	0	5	0		0	2	13	0	
+0	0	0	E	10	0	5	0		8	3	5	0	
+0	1	46	M	10	0	5	0		10	4	3	1	MNO
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	47	C	10	6	7	1	CLOSING	9	6	4	0	
+0	0	0	L	10	6	7	0		9	7	4	0	
+0	1	48	O	10	6	7	0		10	8	3	1	ONS
+0	0	0	S	10	6	7	0		6	9	5	0	
+0	0	0	I	10	6	7	0		0	10	13	0	
+0	0	0	N	10	6	7	0		7	11	6	0	
+0	1	49	G	10	6	7	0		10	12	3	1	GBS
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	50	U	11	1	4	1	ULAN	7	1	5	0	
+0	0	0	L	11	1	4	0		0	2	13	0	
+0	0	0	A	11	1	4	0		8	3	5	0	
+0	0	0	N	11	1	4	0		10	4	3	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	51	T	11	6	3	1	TON	9	6	4	0	
+0	0	0	O	11	6	3	0		9	7	4	0	
+0	0	0	N	11	6	3	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	F	11	10	3	1	FOB	0	10	13	0	
+0	0	0	O	11	10	3	0		7	11	6	0	
+0	0	0	B	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	53	E	12	2	3	1	ECO	0	2	13	0	
+0	0	0	C	12	2	3	0		8	3	5	0	
+0	0	0	O	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	54	O	12	6	3	1	OOS	9	6	4	0	
+0	0	0	O	12	6	3	0		9	7	4	0	
+0	0	0	S	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	T	12	10	3	1	TPS	0	10	13	0	
+0	0	0	P	12	10	3	0		7	11	6	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+33
+1	DPI	Printer resolution meas.
+4	SRS	Class group: Abbr.
+7	OBJ	It commonly follows a verb: Abbr.
+10	EST	"C'___ la vie!"
+11	UEA	Pupil's place
+12	SUOS	Tomato and vegetable
+14	THEBEST	Tops
+16	ENNIO	Film score composer Morricone
+18	AMI	Start of Cain's query
+19	PEG	Tuning device
+21	KARN	"Home Improvement" actor Richard
+22	WTS	Scale amts.
+23	EMOTED	Acted badly
+25	SOT	One who can't pass the bar?
+26	ANNA	Writer Quindlen
+28	HEE	When repeated, a laugh
+29	RAYLIOTTA	"GoodFellas" co-star
+32	GTE	Airfone corporation
+34	EDNA	Writer Buchanan
+35	HNC	Chem. formula for hydrogen isocyanide
+37	RECITE	Say, as a pledge
+39	USO	Support grp. for the troops
+40	IDYL	Theocritus work
+41	ROW	Obey the coxswain
+44	DWI	Drinker's road offense, for short
+45	SICEM	Command to an attack dog
+47	CLOSING	Dealmaker's delight
+50	ULAN	___-Ude (Asian capital)
+51	TON	Mountain
+52	FOB	Where one might keep time?
+53	ECO	Prefix with terrorist
+54	OOS	Long-running film role
+55	TPS	Pranks, in a way, informally
+27
+1	DET	Fine points
+2	PSHAWS	Poohs
+3	ITEMTORECYCLE	[See circled letters]
+4	SUE	Go a-courting?
+5	RESP	Defendant in court: Abbr.
+6	SATE	Glut
+7	OSE	Sugar ending
+8	BUNKO	Swindle
+9	JONATHANSWIFT	Gulliver's creator
+13	SIREE	Emphatic ending with yes
+15	BISTA	Castro predecessor
+17	ONDE	French wave
+20	GENOA	Where explorer John Cabot was born
+24	MAT	Welcome site
+26	ALDER	Tree sacred to the Druids
+27	NIN	"Seduction of the Minotaur" author
+30	YET	Nonetheless
+31	THUDS	Heavy sounds
+32	GRIS	Cubism pioneer
+33	TEDIU	Kind of a drag
+36	COINOP	Like arcade games
+38	ILEAC	Of an intestine
+42	OCTO	Twice tetra-
+43	WLOO	Defeat
+46	MNO	Telephone trio
+48	ONS	Switch ups?
+49	GBS	Brit. playwright

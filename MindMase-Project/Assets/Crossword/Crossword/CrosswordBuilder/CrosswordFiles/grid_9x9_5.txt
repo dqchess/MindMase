@@ -1,0 +1,117 @@
+grid_9x9_5
+9
+0	1	1	S	0	0	3	1	SIS	0	0	3	1	SUW
+0	1	2	I	0	0	3	0		0	1	4	1	INRE
+0	1	3	S	0	0	3	0		0	2	4	1	SSIN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	N	0	5	3	1	NEB	0	5	3	1	NNE
+0	1	5	E	0	5	3	0		0	6	4	1	EINE
+0	1	6	B	0	5	3	0		0	7	4	1	BDOG
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	U	1	0	3	1	UNS	0	0	3	0	
+0	0	0	N	1	0	3	0		0	1	4	0	
+0	0	0	S	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	E	1	4	5	1	ENIDS	1	4	7	1	ETESIAN
+0	0	0	N	1	4	5	0		0	5	3	0	
+0	0	0	I	1	4	5	0		0	6	4	0	
+0	0	0	D	1	4	5	0		0	7	4	0	
+0	1	9	S	1	4	5	0		1	8	3	1	SNO
+0	1	10	W	2	0	9	1	WRITTENON	0	0	3	0	
+0	0	0	R	2	0	9	0		0	1	4	0	
+0	0	0	I	2	0	9	0		0	2	4	0	
+0	1	11	T	2	0	9	0		2	3	3	1	TCU
+0	0	0	T	2	0	9	0		1	4	7	0	
+0	0	0	E	2	0	9	0		0	5	3	0	
+0	0	0	N	2	0	9	0		0	6	4	0	
+0	0	0	O	2	0	9	0		0	7	4	0	
+0	0	0	N	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	E	3	1	4	1	ENCE	0	1	4	0	
+0	0	0	N	3	1	4	0		0	2	4	0	
+0	0	0	C	3	1	4	0		2	3	3	0	
+0	0	0	E	3	1	4	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	E	3	6	3	1	EGO	0	6	4	0	
+0	0	0	G	3	6	3	0		0	7	4	0	
+0	0	0	O	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	U	4	3	3	1	USS	2	3	3	0	
+0	0	0	S	4	3	3	0		1	4	7	0	
+0	1	15	S	4	3	3	0		4	5	3	1	SWM
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	D	5	0	3	1	DYE	5	0	3	1	DJS
+0	1	17	Y	5	0	3	0		5	1	4	1	YEOH
+0	1	18	E	5	0	3	0		5	2	4	1	EONS
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	19	I	5	4	4	1	IWIN	1	4	7	0	
+0	0	0	W	5	4	4	0		4	5	3	0	
+0	1	20	I	5	4	4	0		5	6	4	1	IAIM
+0	1	21	N	5	4	4	0		5	7	4	1	NTHS
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	J	6	0	9	1	JEONAMATH	5	0	3	0	
+0	0	0	E	6	0	9	0		5	1	4	0	
+0	0	0	O	6	0	9	0		5	2	4	0	
+0	1	23	N	6	0	9	0		6	3	3	1	NIT
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	0	0	M	6	0	9	0		4	5	3	0	
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	T	6	0	9	0		5	7	4	0	
+0	1	24	H	6	0	9	0		6	8	3	1	HSN
+0	1	25	S	7	0	5	1	SONIN	5	0	3	0	
+0	0	0	O	7	0	5	0		5	1	4	0	
+0	0	0	N	7	0	5	0		5	2	4	0	
+0	0	0	I	7	0	5	0		6	3	3	0	
+0	0	0	N	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	26	I	7	6	3	1	IHS	5	6	4	0	
+0	0	0	H	7	6	3	0		5	7	4	0	
+0	0	0	S	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	H	8	1	3	1	HST	5	1	4	0	
+0	0	0	S	8	1	3	0		5	2	4	0	
+0	0	0	T	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	28	M	8	6	3	1	MSN	5	6	4	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	0	0	N	8	6	3	0		6	8	3	0	
+15
+1	SIS	Auntie, to Mom
+4	NEB	Pen tip
+7	UNS	Little or young follower
+8	ENIDS	English children's author Blyton and others
+10	WRITTENON	Used, as notepaper
+12	ENCE	Suffix with depend
+13	EGO	It may be overblown
+14	USS	Start of many ship names
+16	DYE	It may be red
+19	IWIN	"Victory!"
+22	JEONAMATH	Hero of Super Bowl III
+25	SONIN	___-law
+26	IHS	Christian trigram
+27	HST	Pres. when the C.I.A. was created
+28	MSN	Yahoo! competitor
+17
+1	SUW	Like some stocks and drugs: Abbr.
+2	INRE	Brief phrase
+3	SSIN	Takes root
+4	NNE	Storm dir.
+5	EINE	Article in Stern
+6	BDOG	Retriever
+8	ETESIAN	Summer wind in the Mediterranean
+9	SNO	Commercial prefix with Cat
+11	TCU	The Horned Frogs' sch.
+15	SWM	Certain guy, in personals shorthand
+16	DJS	Radio staff, for short
+17	YEOH	Michelle of "Crouching Tiger, Hidden Dragon"
+18	EONS	Some collars and jackets
+20	IAIM	"___ to please!"
+21	NTHS	Unspecified degrees
+23	NIT	Tiny criticism to "pick"
+24	HSN	Cable inits. for sales pitches

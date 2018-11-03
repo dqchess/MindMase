@@ -1,0 +1,301 @@
+grid_15x15_39
+15
+1	0	0	#	0	1	4	0		1	0	0	0	
+0	1	1	R	0	1	4	1	ROVE	0	1	7	1	RWANDAN
+0	1	2	O	0	1	4	0		0	2	14	1	OLDERBUDWEISER
+0	1	3	V	0	1	4	0		0	3	3	1	VIR
+0	1	4	E	0	1	4	0		0	4	6	1	EKEOUT
+1	0	0	#	0	6	0	0		1	5	4	0	
+1	0	0	#	0	7	5	0		1	6	0	0	
+0	1	5	M	0	7	5	1	MMIII	0	7	3	1	MBA
+0	1	6	M	0	7	5	0		0	8	12	1	MARLEEMATLIN
+0	1	7	I	0	7	5	0		0	9	6	1	INSURE
+0	1	8	I	0	7	5	0		0	10	4	1	IDEM
+0	1	9	I	0	7	5	0		0	11	3	1	IAN
+1	0	0	#	0	13	0	0		1	12	14	0	
+1	0	0	#	0	14	0	0		1	13	6	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	10	W	1	1	5	1	WLIKE	0	1	7	0	
+0	0	0	L	1	1	5	0		0	2	14	0	
+0	0	0	I	1	1	5	0		0	3	3	0	
+0	0	0	K	1	1	5	0		0	4	6	0	
+0	1	11	E	1	1	5	0		1	5	4	1	ESCE
+1	0	0	#	1	7	7	0		2	6	0	0	
+0	1	12	B	1	7	7	1	BANDAGE	0	7	3	0	
+0	0	0	A	1	7	7	0		0	8	12	0	
+0	0	0	N	1	7	7	0		0	9	6	0	
+0	0	0	D	1	7	7	0		0	10	4	0	
+0	0	0	A	1	7	7	0		0	11	3	0	
+0	1	13	G	1	7	7	0		1	12	14	1	GIVEUPTHEGHOST
+0	1	14	E	1	7	7	0		1	13	6	1	EOSINE
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	15	C	2	0	6	1	CADRES	2	0	3	1	CSA
+0	0	0	A	2	0	6	0		0	1	7	0	
+0	0	0	D	2	0	6	0		0	2	14	0	
+0	0	0	R	2	0	6	0		0	3	3	0	
+0	0	0	E	2	0	6	0		0	4	6	0	
+0	0	0	S	2	0	6	0		1	5	4	0	
+1	0	0	#	2	7	7	0		3	6	12	0	
+0	1	16	A	2	7	7	1	ARSENIO	0	7	3	0	
+0	0	0	R	2	7	7	0		0	8	12	0	
+0	0	0	S	2	7	7	0		0	9	6	0	
+0	0	0	E	2	7	7	0		0	10	4	0	
+0	0	0	N	2	7	7	0		0	11	3	0	
+0	0	0	I	2	7	7	0		1	12	14	0	
+0	0	0	O	2	7	7	0		1	13	6	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	17	S	3	0	3	1	SNE	2	0	3	0	
+0	0	0	N	3	0	3	0		0	1	7	0	
+0	0	0	E	3	0	3	0		0	2	14	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	18	O	3	4	3	1	OCA	0	4	6	0	
+0	0	0	C	3	4	3	0		1	5	4	0	
+0	1	19	A	3	4	3	0		3	6	12	1	ACASEOFHIVES
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	20	L	3	8	3	1	LUM	0	8	12	0	
+0	0	0	U	3	8	3	0		0	9	6	0	
+0	0	0	M	3	8	3	0		0	10	4	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	21	V	3	12	3	1	VSO	1	12	14	0	
+0	0	0	S	3	12	3	0		1	13	6	0	
+0	1	22	O	3	12	3	0		3	14	3	1	ONI
+0	1	23	A	4	0	3	1	ADR	2	0	3	0	
+0	0	0	D	4	0	3	0		0	1	7	0	
+0	0	0	R	4	0	3	0		0	2	14	0	
+1	0	0	#	4	4	6	0		5	3	4	0	
+0	1	24	U	4	4	6	1	UECKER	0	4	6	0	
+0	0	0	E	4	4	6	0		1	5	4	0	
+0	0	0	C	4	4	6	0		3	6	12	0	
+0	1	25	K	4	4	6	0		4	7	7	1	KWANZAA
+0	0	0	E	4	4	6	0		0	8	12	0	
+0	0	0	R	4	4	6	0		0	9	6	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	26	E	4	12	3	1	EIN	1	12	14	0	
+0	0	0	I	4	12	3	0		1	13	6	0	
+0	0	0	N	4	12	3	0		3	14	3	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	27	A	5	1	4	1	ABAT	0	1	7	0	
+0	0	0	B	5	1	4	0		0	2	14	0	
+0	1	28	A	5	1	4	0		5	3	4	1	ALPH
+0	0	0	T	5	1	4	0		0	4	6	0	
+1	0	0	#	5	6	5	0		6	5	0	0	
+0	1	29	A	5	6	5	1	AWEEK	3	6	12	0	
+0	0	0	W	5	6	5	0		4	7	7	0	
+0	0	0	E	5	6	5	0		0	8	12	0	
+0	0	0	E	5	6	5	0		0	9	6	0	
+0	1	30	K	5	6	5	0		5	10	3	1	KNE
+1	0	0	#	5	12	3	0		6	11	4	0	
+0	1	31	U	5	12	3	1	UNI	1	12	14	0	
+0	0	0	N	5	12	3	0		1	13	6	0	
+0	0	0	I	5	12	3	0		3	14	3	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	32	N	6	1	3	1	NUL	0	1	7	0	
+0	0	0	U	6	1	3	0		0	2	14	0	
+0	0	0	L	6	1	3	0		5	3	4	0	
+1	0	0	#	6	5	0	0		7	4	3	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	33	S	6	6	3	1	SAM	3	6	12	0	
+0	0	0	A	6	6	3	0		4	7	7	0	
+0	0	0	M	6	6	3	0		0	8	12	0	
+1	0	0	#	6	10	4	0		7	9	0	0	
+0	1	34	N	6	10	4	1	NOPE	5	10	3	0	
+0	1	35	O	6	10	4	0		6	11	4	1	OSSE
+0	0	0	P	6	10	4	0		1	12	14	0	
+0	0	0	E	6	10	4	0		1	13	6	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	6	0	
+0	1	36	D	7	2	3	1	DPS	0	2	14	0	
+0	0	0	P	7	2	3	0		5	3	4	0	
+0	1	37	S	7	2	3	0		7	4	3	1	SOO
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	38	E	7	6	3	1	ENA	3	6	12	0	
+0	0	0	N	7	6	3	0		4	7	7	0	
+0	0	0	A	7	6	3	0		0	8	12	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	39	E	7	10	3	1	EST	5	10	3	0	
+0	0	0	S	7	10	3	0		6	11	4	0	
+0	0	0	T	7	10	3	0		1	12	14	0	
+1	0	0	#	7	14	0	0		8	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	40	A	8	1	4	1	AWHO	8	1	6	1	ABOARD
+0	0	0	W	8	1	4	0		0	2	14	0	
+0	0	0	H	8	1	4	0		5	3	4	0	
+0	0	0	O	8	1	4	0		7	4	3	0	
+1	0	0	#	8	6	3	0		9	5	6	0	
+0	1	41	O	8	6	3	1	OZT	3	6	12	0	
+0	0	0	Z	8	6	3	0		4	7	7	0	
+0	0	0	T	8	6	3	0		0	8	12	0	
+1	0	0	#	8	10	0	0		9	9	0	0	
+1	0	0	#	8	11	3	0		9	10	6	0	
+0	1	42	S	8	11	3	1	SHR	6	11	4	0	
+0	0	0	H	8	11	3	0		1	12	14	0	
+0	1	43	R	8	11	3	0		8	13	7	1	RAINMAN
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	44	O	9	0	3	1	OBE	9	0	3	1	OSS
+0	0	0	B	9	0	3	0		8	1	6	0	
+0	0	0	E	9	0	3	0		0	2	14	0	
+1	0	0	#	9	4	5	0		10	3	0	0	
+0	1	45	O	9	4	5	1	OFFAL	7	4	3	0	
+0	1	46	F	9	4	5	0		9	5	6	1	FCARDS
+0	0	0	F	9	4	5	0		3	6	12	0	
+0	0	0	A	9	4	5	0		4	7	7	0	
+0	0	0	L	9	4	5	0		0	8	12	0	
+1	0	0	#	9	10	4	0		10	9	4	0	
+0	1	47	S	9	10	4	1	SEEA	9	10	6	1	SECADA
+0	0	0	E	9	10	4	0		6	11	4	0	
+0	0	0	E	9	10	4	0		1	12	14	0	
+0	0	0	A	9	10	4	0		8	13	7	0	
+1	0	0	#	9	15	0	0		10	14	3	0	
+0	1	48	S	10	0	3	1	SOI	9	0	3	0	
+0	0	0	O	10	0	3	0		8	1	6	0	
+0	0	0	I	10	0	3	0		0	2	14	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	6	0		11	4	4	0	
+0	1	49	C	10	5	6	1	CHAISE	9	5	6	0	
+0	0	0	H	10	5	6	0		3	6	12	0	
+0	0	0	A	10	5	6	0		4	7	7	0	
+0	0	0	I	10	5	6	0		0	8	12	0	
+0	1	50	S	10	5	6	0		10	9	4	1	SERO
+0	0	0	E	10	5	6	0		9	10	6	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	51	G	10	12	3	1	GIJ	1	12	14	0	
+0	0	0	I	10	12	3	0		8	13	7	0	
+0	1	52	J	10	12	3	0		10	14	3	1	JCE
+0	1	53	S	11	0	3	1	SAS	9	0	3	0	
+0	0	0	A	11	0	3	0		8	1	6	0	
+0	0	0	S	11	0	3	0		0	2	14	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	54	L	11	4	3	1	LAI	11	4	4	1	LEIA
+0	0	0	A	11	4	3	0		9	5	6	0	
+0	0	0	I	11	4	3	0		3	6	12	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	55	N	11	8	3	1	NEC	0	8	12	0	
+0	0	0	E	11	8	3	0		10	9	4	0	
+0	0	0	C	11	8	3	0		9	10	6	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	56	H	11	12	3	1	HNC	1	12	14	0	
+0	0	0	N	11	12	3	0		8	13	7	0	
+0	0	0	C	11	12	3	0		10	14	3	0	
+1	0	0	#	12	1	7	0		13	0	0	0	
+0	1	57	R	12	1	7	1	RESERVE	8	1	6	0	
+0	0	0	E	12	1	7	0		0	2	14	0	
+0	1	58	S	12	1	7	0		12	3	3	1	SEP
+0	0	0	E	12	1	7	0		11	4	4	0	
+0	0	0	R	12	1	7	0		9	5	6	0	
+0	0	0	V	12	1	7	0		3	6	12	0	
+0	1	59	E	12	1	7	0		12	7	3	1	ELK
+1	0	0	#	12	9	6	0		13	8	0	0	
+0	1	60	R	12	9	6	1	RADOME	10	9	4	0	
+0	0	0	A	12	9	6	0		9	10	6	0	
+0	1	61	D	12	9	6	0		12	11	3	1	DET
+0	0	0	O	12	9	6	0		1	12	14	0	
+0	0	0	M	12	9	6	0		8	13	7	0	
+0	0	0	E	12	9	6	0		10	14	3	0	
+1	0	0	#	13	1	7	0		14	0	0	0	
+0	1	62	D	13	1	7	1	DREIDEL	8	1	6	0	
+0	0	0	R	13	1	7	0		0	2	14	0	
+0	0	0	E	13	1	7	0		12	3	3	0	
+0	0	0	I	13	1	7	0		11	4	4	0	
+0	0	0	D	13	1	7	0		9	5	6	0	
+0	0	0	E	13	1	7	0		3	6	12	0	
+0	0	0	L	13	1	7	0		12	7	3	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	63	O	13	9	5	1	ODESA	10	9	4	0	
+0	0	0	D	13	9	5	0		9	10	6	0	
+0	0	0	E	13	9	5	0		12	11	3	0	
+0	0	0	S	13	9	5	0		1	12	14	0	
+0	0	0	A	13	9	5	0		8	13	7	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	0	0		15	1	0	0	
+1	0	0	#	14	3	5	0		15	2	0	0	
+0	1	64	P	14	3	5	1	PASSK	12	3	3	0	
+0	0	0	A	14	3	5	0		11	4	4	0	
+0	0	0	S	14	3	5	0		9	5	6	0	
+0	0	0	S	14	3	5	0		3	6	12	0	
+0	0	0	K	14	3	5	0		12	7	3	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	4	0		15	9	0	0	
+0	1	65	A	14	10	4	1	ATTN	9	10	6	0	
+0	0	0	T	14	10	4	0		12	11	3	0	
+0	0	0	T	14	10	4	0		1	12	14	0	
+0	0	0	N	14	10	4	0		8	13	7	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	ROVE	Drift
+5	MMIII	A century after the Wright brothers' first flight
+10	WLIKE	Feminine
+12	BANDAGE	Swaddle
+15	CADRES	Core groups
+16	ARSENIO	Hall of "Coming to America"
+17	SNE	1983 Indy winner Tom
+18	OCA	Andean tuber
+20	LUM	___ and Abner, old comedy duo
+21	VSO	Letters on a brandy bottle
+23	ADR	Worker in the TV biz
+24	UECKER	"Mr. Belvedere" star
+26	EIN	Article in Stern
+27	ABAT	Like ___ out of hell
+29	AWEEK	The Beatles' "Eight Days ___"
+31	UNI	Prefix with directional
+32	NUL	Void, in Vichy
+33	SAM	Uncle of note
+34	NOPE	Slangy denial
+36	DPS	Infielders' stat.
+38	ENA	Former Spanish queen
+39	EST	Faddish training, once
+40	AWHO	Dr. Seuss's "Horton Hears ___"
+41	OZT	Fever reading, maybe
+42	SHR	Stock unit: Abbr.
+44	OBE	Honor bestowed by Queen Eliz.
+45	OFFAL	Refuse
+47	SEEA	Words before ghost or doctor
+48	SOI	"___ said to the..." (joke line)
+49	CHAISE	Suntanner's seat
+51	GIJ	Demand payment
+53	SAS	An original member of the Star Alliance
+54	LAI	"Love Story" composer
+55	NEC	Japan-based computer co.
+56	HNC	Chem. formula for hydrogen isocyanide
+57	RESERVE	What things may be held in
+60	RADOME	Antenna housing
+62	DREIDEL	December spinner
+63	ODESA	Black Sea port, new-style
+64	PASSK	House detective's item
+65	ATTN	Bus. envelope notation
+31
+1	RWANDAN	Kigali resident
+2	OLDERBUDWEISER	Having the experience of years of beer drinking?
+3	VIR	Man of ancient Rome
+4	EKEOUT	Manage
+5	MBA	Many a Wall St. Journal subscriber
+6	MARLEEMATLIN	Actress (1986), director (1962)
+7	INSURE	Have covered
+8	IDEM	Latin word in a quotation book
+9	IAN	Golfer Woosnam
+11	ESCE	Suffix with lumin-
+13	GIVEUPTHEGHOST	Dah?
+14	EOSINE	Cosmetics dye: Var.
+15	CSA	Gray side: Abbr.
+19	ACASEOFHIVES	The beekeeper had ...
+22	ONI	Clandestine maritime org.
+25	KWANZAA	December celebration
+28	ALPH	Fictional river of verse
+30	KNE	Show obeisance
+35	OSSE	Bone: Prefix
+37	SOO	Jack of "Flower Drum Song"
+40	ABOARD	As part of a company
+43	RAINMAN	1988 Best Picture, with the repeated line "I'm an excellent driver"
+44	OSS	Covert W.W. II grp.
+46	FCARDS	King and queen
+47	SECADA	Two-time Grammy winner Jon
+50	SERO	Blood fluid: Prefix
+52	JCE	"Dubliners" author
+54	LEIA	Princess who battles the Death Star
+58	SEP	Kind of I.R.A.
+59	ELK	Civic supporter
+61	DET	"Law & Order" type: Abbr.

@@ -1,0 +1,235 @@
+grid_13x13_59
+13
+0	1	1	O	0	0	3	1	OTC	0	0	3	1	OIE
+0	1	2	T	0	0	3	0		0	1	4	1	TUMS
+0	1	3	C	0	0	3	0		0	2	8	1	CDPLAYER
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	B	0	4	3	1	BRR	0	4	5	1	BOYDS
+0	1	5	R	0	4	3	0		0	5	3	1	REP
+0	1	6	R	0	4	3	0		0	6	3	1	RUR
+1	0	0	#	0	8	0	0		1	7	8	0	
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	M	0	10	3	1	MFG	0	10	4	1	MUSD
+0	1	8	F	0	10	3	0		0	11	4	1	FREE
+0	1	9	G	0	10	3	0		0	12	3	1	GBS
+0	1	10	I	1	0	3	1	IUD	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	4	0	
+0	0	0	D	1	0	3	0		0	2	8	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	11	O	1	4	5	1	OEUFS	0	4	5	0	
+0	0	0	E	1	4	5	0		0	5	3	0	
+0	0	0	U	1	4	5	0		0	6	3	0	
+0	1	12	F	1	4	5	0		1	7	8	1	FOREGONE
+0	1	13	S	1	4	5	0		1	8	4	1	SMIT
+1	0	0	#	1	10	3	0		2	9	5	0	
+0	1	14	U	1	10	3	1	URB	0	10	4	0	
+0	0	0	R	1	10	3	0		0	11	4	0	
+0	0	0	B	1	10	3	0		0	12	3	0	
+0	1	15	E	2	0	13	1	EMPTYPROMISES	0	0	3	0	
+0	0	0	M	2	0	13	0		0	1	4	0	
+0	0	0	P	2	0	13	0		0	2	8	0	
+0	1	16	T	2	0	13	0		2	3	3	1	TIS
+0	0	0	Y	2	0	13	0		0	4	5	0	
+0	0	0	P	2	0	13	0		0	5	3	0	
+0	0	0	R	2	0	13	0		0	6	3	0	
+0	0	0	O	2	0	13	0		1	7	8	0	
+0	0	0	M	2	0	13	0		1	8	4	0	
+0	1	17	I	2	0	13	0		2	9	5	1	IODIC
+0	0	0	S	2	0	13	0		0	10	4	0	
+0	0	0	E	2	0	13	0		0	11	4	0	
+0	0	0	S	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	18	S	3	1	4	1	SLID	0	1	4	0	
+0	0	0	L	3	1	4	0		0	2	8	0	
+0	0	0	I	3	1	4	0		2	3	3	0	
+0	0	0	D	3	1	4	0		0	4	5	0	
+1	0	0	#	3	6	0	0		4	5	8	0	
+1	0	0	#	3	7	5	0		4	6	0	0	
+0	1	19	R	3	7	5	1	RIODE	1	7	8	0	
+0	0	0	I	3	7	5	0		1	8	4	0	
+0	0	0	O	3	7	5	0		2	9	5	0	
+0	0	0	D	3	7	5	0		0	10	4	0	
+0	0	0	E	3	7	5	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	4	0		5	1	3	0	
+0	1	20	A	4	2	4	1	ASST	0	2	8	0	
+0	0	0	S	4	2	4	0		2	3	3	0	
+0	0	0	S	4	2	4	0		0	4	5	0	
+0	1	21	T	4	2	4	0		4	5	8	1	THEAISLE
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	22	E	4	7	3	1	ETD	1	7	8	0	
+0	0	0	T	4	7	3	0		1	8	4	0	
+0	0	0	D	4	7	3	0		2	9	5	0	
+1	0	0	#	4	11	0	0		5	10	8	0	
+1	0	0	#	4	12	0	0		5	11	3	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	B	5	0	3	1	BTY	5	0	3	1	BTP
+0	1	24	T	5	0	3	0		5	1	3	1	TIE
+0	0	0	Y	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	0	0		6	3	5	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	25	H	5	5	3	1	HOG	4	5	8	0	
+0	1	26	O	5	5	3	0		5	6	3	1	ONI
+0	0	0	G	5	5	3	0		1	7	8	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	27	I	5	9	4	1	ITEN	2	9	5	0	
+0	1	28	T	5	9	4	0		5	10	8	1	TRIEDOUT
+0	1	29	E	5	9	4	0		5	11	3	1	EUI
+0	1	30	N	5	9	4	0		5	12	3	1	NEN
+0	1	31	T	6	0	4	1	TIEA	5	0	3	0	
+0	0	0	I	6	0	4	0		5	1	3	0	
+0	0	0	E	6	0	4	0		0	2	8	0	
+0	1	32	A	6	0	4	0		6	3	5	1	ASCII
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	33	E	6	5	3	1	ENO	4	5	8	0	
+0	0	0	N	6	5	3	0		5	6	3	0	
+0	0	0	O	6	5	3	0		1	7	8	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	34	C	6	9	4	1	CRUE	2	9	5	0	
+0	0	0	R	6	9	4	0		5	10	8	0	
+0	0	0	U	6	9	4	0		5	11	3	0	
+0	0	0	E	6	9	4	0		5	12	3	0	
+0	1	35	P	7	0	4	1	PERS	5	0	3	0	
+0	0	0	E	7	0	4	0		5	1	3	0	
+0	0	0	R	7	0	4	0		0	2	8	0	
+0	0	0	S	7	0	4	0		6	3	5	0	
+1	0	0	#	7	5	3	0		8	4	4	0	
+0	1	36	A	7	5	3	1	AIN	4	5	8	0	
+0	0	0	I	7	5	3	0		5	6	3	0	
+0	0	0	N	7	5	3	0		1	7	8	0	
+1	0	0	#	7	9	0	0		8	8	5	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	37	I	7	10	3	1	IIN	5	10	8	0	
+0	0	0	I	7	10	3	0		5	11	3	0	
+0	0	0	N	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	4	0	
+1	0	0	#	8	3	3	0		9	2	4	0	
+0	1	38	C	8	3	3	1	CDI	6	3	5	0	
+0	1	39	D	8	3	3	0		8	4	4	1	DEDE
+0	0	0	I	8	3	3	0		4	5	8	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	40	E	8	7	4	1	EDGE	1	7	8	0	
+0	1	41	D	8	7	4	0		8	8	5	1	DEFER
+0	1	42	G	8	7	4	0		8	9	3	1	GDR
+0	0	0	E	8	7	4	0		5	10	8	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	43	C	9	1	5	1	CTIES	9	1	4	1	CALM
+0	1	44	T	9	1	5	0		9	2	4	1	TVMA
+0	0	0	I	9	1	5	0		6	3	5	0	
+0	0	0	E	9	1	5	0		8	4	4	0	
+0	0	0	S	9	1	5	0		4	5	8	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	45	E	9	8	4	1	EDDS	8	8	5	0	
+0	0	0	D	9	8	4	0		8	9	3	0	
+0	0	0	D	9	8	4	0		5	10	8	0	
+0	1	46	S	9	8	4	0		9	11	4	1	STRS
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	47	D	10	0	13	1	DAVIDLEEFROTH	10	0	3	1	DES
+0	0	0	A	10	0	13	0		9	1	4	0	
+0	0	0	V	10	0	13	0		9	2	4	0	
+0	0	0	I	10	0	13	0		6	3	5	0	
+0	0	0	D	10	0	13	0		8	4	4	0	
+0	0	0	L	10	0	13	0		4	5	8	0	
+0	1	48	E	10	0	13	0		10	6	3	1	ENT
+0	1	49	E	10	0	13	0		10	7	3	1	EIS
+0	0	0	F	10	0	13	0		8	8	5	0	
+0	0	0	R	10	0	13	0		8	9	3	0	
+0	0	0	O	10	0	13	0		5	10	8	0	
+0	0	0	T	10	0	13	0		9	11	4	0	
+0	1	50	H	10	0	13	0		10	12	3	1	HEP
+0	1	51	E	11	0	3	1	ELM	10	0	3	0	
+0	0	0	L	11	0	3	0		9	1	4	0	
+0	0	0	M	11	0	3	0		9	2	4	0	
+1	0	0	#	11	4	5	0		12	3	0	0	
+0	1	52	E	11	4	5	1	EENIE	8	4	4	0	
+0	0	0	E	11	4	5	0		4	5	8	0	
+0	0	0	N	11	4	5	0		10	6	3	0	
+0	0	0	I	11	4	5	0		10	7	3	0	
+0	0	0	E	11	4	5	0		8	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	53	U	11	10	3	1	URE	5	10	8	0	
+0	0	0	R	11	10	3	0		9	11	4	0	
+0	0	0	E	11	10	3	0		10	12	3	0	
+0	1	54	S	12	0	3	1	SMA	10	0	3	0	
+0	0	0	M	12	0	3	0		9	1	4	0	
+0	0	0	A	12	0	3	0		9	2	4	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	55	T	12	6	3	1	TSR	10	6	3	0	
+0	0	0	S	12	6	3	0		10	7	3	0	
+0	0	0	R	12	6	3	0		8	8	5	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	56	T	12	10	3	1	TSP	5	10	8	0	
+0	0	0	S	12	10	3	0		9	11	4	0	
+0	0	0	P	12	10	3	0		10	12	3	0	
+31
+1	OTC	Like NyQuil: Abbr.
+4	BRR	"It's c-c-c-cold!"
+7	MFG	Abbr. before "Co." in some company names
+10	IUD	Birth control device
+11	OEUFS	Quiche ingr
+14	URB	L.A.-based music magazine
+15	EMPTYPROMISES	Guarantees that mean nothing
+18	SLID	Came into a base horizontally
+19	RIODE	___ Oro
+20	ASST	Secretary: Abbr.
+22	ETD	Stat. subject to delay
+23	BTY	Take
+25	HOG	Pen filler?
+27	ITEN	L.A.-to-Jacksonville rte.
+31	TIEA	___ knot
+33	ENO	Avant-garde composer Brian
+34	CRUE	Rock's M
+35	PERS	Asian lang.
+36	AIN	Bourg's department
+37	IIN	"Boy, am ___ trouble!"
+38	CDI	The year Innocent I became pope
+40	EDGE	Drop-off point
+43	CTIES	Rail supports
+45	EDDS	Byrnes and Hall
+47	DAVIDLEEFROTH	Mad-dog singer?
+51	ELM	Spreading tree
+52	EENIE	Start of a counting-out rhyme
+53	URE	Script ending
+54	SMA	Kind of request in Burns's "To a Mouse"
+55	TSR	Dungeons & Dragons co., once
+56	TSP	Sugar meas.
+31
+1	OIE	Confit d'___ (potted goose)
+2	TUMS	Bromo alternative
+3	CDPLAYER	Phonograph successor
+4	BOYDS	Hopalong Cassidy actor and others
+5	REP	Iron-pumper's unit
+6	RUR	Futuristic 20's play
+7	MUSD	Yellow squirt?
+8	FREE	Available
+9	GBS	Literary monogram
+12	FOREGONE	Like some conclusions
+13	SMIT	Struck down, old-style
+16	TIS	"___ the season 
+17	IODIC	___ acid
+21	THEAISLE	A ring bearer may go down it
+23	BTP	Group formed at Miami University in 1839
+24	TIE	Low shoe with a lace
+26	ONI	Clandestine maritime org.
+28	TRIEDOUT	Experimented with
+29	EUI	Pins and needles' place
+30	NEN	Relief pitcher Robb
+32	ASCII	PC character set
+39	DEDE	"___ Dinah" (1958 Frankie Avalon song)
+41	DEFER	Hold off
+42	GDR	Warsaw Pact member, initially
+43	CALM	Not choppy
+44	TVMA	Rating of a program blocked by a V-chip
+46	STRS	Navigation rtes.
+47	DES	___ Moines, Iowa
+48	ENT	Apnea specialist: Abbr.
+49	EIS	___ for elephant
+50	HEP	Like a cool cat

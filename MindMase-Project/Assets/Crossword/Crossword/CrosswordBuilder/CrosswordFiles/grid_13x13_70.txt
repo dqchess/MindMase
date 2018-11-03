@@ -1,0 +1,233 @@
+grid_13x13_70
+13
+0	1	1	N	0	0	3	1	NOV	0	0	3	1	NAG
+0	1	2	O	0	0	3	0		0	1	3	1	OSO
+0	1	3	V	0	0	3	0		0	2	13	1	VENDERBENDERS
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GIL	0	4	7	1	GLOATER
+0	1	5	I	0	4	3	0		0	5	3	1	IOC
+0	1	6	L	0	4	3	0		0	6	4	1	LOTT
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	P	0	8	3	1	PAR	0	8	5	1	PEPSI
+0	1	8	A	0	8	3	0		0	9	3	1	ALL
+0	1	9	R	0	8	3	0		0	10	13	1	REEDANDWRIGHT
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	A	1	0	3	1	ASE	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	3	0	
+0	0	0	E	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	9	0		2	3	0	0	
+0	1	11	L	1	4	9	1	LOOSELEAF	0	4	7	0	
+0	0	0	O	1	4	9	0		0	5	3	0	
+0	0	0	O	1	4	9	0		0	6	4	0	
+0	1	12	S	1	4	9	0		1	7	3	1	SUB
+0	0	0	E	1	4	9	0		0	8	5	0	
+0	0	0	L	1	4	9	0		0	9	3	0	
+0	0	0	E	1	4	9	0		0	10	13	0	
+0	1	13	A	1	4	9	0		1	11	3	1	ATA
+0	1	14	F	1	4	9	0		1	12	3	1	FSU
+0	1	15	G	2	0	3	1	GON	0	0	3	0	
+0	0	0	O	2	0	3	0		0	1	3	0	
+0	0	0	N	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	9	0		3	3	6	0	
+0	1	16	O	2	4	9	1	OCTUPLETS	0	4	7	0	
+0	0	0	C	2	4	9	0		0	5	3	0	
+0	0	0	T	2	4	9	0		0	6	4	0	
+0	0	0	U	2	4	9	0		1	7	3	0	
+0	0	0	P	2	4	9	0		0	8	5	0	
+0	0	0	L	2	4	9	0		0	9	3	0	
+0	0	0	E	2	4	9	0		0	10	13	0	
+0	0	0	T	2	4	9	0		1	11	3	0	
+0	0	0	S	2	4	9	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	17	D	3	2	3	1	DIA	0	2	13	0	
+0	1	18	I	3	2	3	0		3	3	6	1	INDEEP
+0	0	0	A	3	2	3	0		0	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	19	T	3	6	3	1	TBS	0	6	4	0	
+0	0	0	B	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		0	8	5	0	
+1	0	0	#	3	10	3	0		4	9	6	0	
+0	1	20	D	3	10	3	1	DAU	0	10	13	0	
+0	0	0	A	3	10	3	0		1	11	3	0	
+0	0	0	U	3	10	3	0		1	12	3	0	
+0	1	21	S	4	0	6	1	STENTS	4	0	3	1	SML
+0	1	22	T	4	0	6	0		4	1	4	1	TOIL
+0	0	0	E	4	0	6	0		0	2	13	0	
+0	0	0	N	4	0	6	0		3	3	6	0	
+0	0	0	T	4	0	6	0		0	4	7	0	
+0	1	23	S	4	0	6	0		4	5	3	1	SNA
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	24	I	4	8	3	1	IVA	0	8	5	0	
+0	1	25	V	4	8	3	0		4	9	6	1	VANDAL
+0	0	0	A	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	26	M	5	0	7	1	MORDENT	4	0	3	0	
+0	0	0	O	5	0	7	0		4	1	4	0	
+0	0	0	R	5	0	7	0		0	2	13	0	
+0	0	0	D	5	0	7	0		3	3	6	0	
+0	0	0	E	5	0	7	0		0	4	7	0	
+0	0	0	N	5	0	7	0		4	5	3	0	
+0	1	27	T	5	0	7	0		5	6	3	1	TLC
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	3	0		6	8	7	0	
+0	1	28	A	5	9	3	1	ANT	4	9	6	0	
+0	0	0	N	5	9	3	0		0	10	13	0	
+0	1	29	T	5	9	3	0		5	11	4	1	TEAR
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	30	L	6	0	13	1	LIBERALMINDED	4	0	3	0	
+0	0	0	I	6	0	13	0		4	1	4	0	
+0	0	0	B	6	0	13	0		0	2	13	0	
+0	0	0	E	6	0	13	0		3	3	6	0	
+0	0	0	R	6	0	13	0		0	4	7	0	
+0	0	0	A	6	0	13	0		4	5	3	0	
+0	0	0	L	6	0	13	0		5	6	3	0	
+0	1	31	M	6	0	13	0		6	7	3	1	MOS
+0	1	32	I	6	0	13	0		6	8	7	1	ILTEMPO
+0	0	0	N	6	0	13	0		4	9	6	0	
+0	0	0	D	6	0	13	0		0	10	13	0	
+0	0	0	E	6	0	13	0		5	11	4	0	
+0	1	33	D	6	0	13	0		6	12	3	1	DRY
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	34	L	7	1	3	1	LEE	4	1	4	0	
+0	0	0	E	7	1	3	0		0	2	13	0	
+0	0	0	E	7	1	3	0		3	3	6	0	
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	35	C	7	6	7	1	COLDWAR	5	6	3	0	
+0	0	0	O	7	6	7	0		6	7	3	0	
+0	0	0	L	7	6	7	0		6	8	7	0	
+0	0	0	D	7	6	7	0		4	9	6	0	
+0	0	0	W	7	6	7	0		0	10	13	0	
+0	0	0	A	7	6	7	0		5	11	4	0	
+0	0	0	R	7	6	7	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	3	0	
+0	1	36	N	8	2	3	1	NPR	0	2	13	0	
+0	0	0	P	8	2	3	0		3	3	6	0	
+0	1	37	R	8	2	3	0		8	4	5	1	RAMPS
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	38	S	8	7	6	1	STARRY	6	7	3	0	
+0	0	0	T	8	7	6	0		6	8	7	0	
+0	0	0	A	8	7	6	0		4	9	6	0	
+0	0	0	R	8	7	6	0		0	10	13	0	
+0	0	0	R	8	7	6	0		5	11	4	0	
+0	0	0	Y	8	7	6	0		6	12	3	0	
+0	1	39	P	9	0	3	1	PED	9	0	3	1	PSS
+0	1	40	E	9	0	3	0		9	1	3	1	ETC
+0	0	0	D	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	41	A	9	4	3	1	AHL	8	4	5	0	
+0	1	42	H	9	4	3	0		9	5	3	1	HRH
+0	1	43	L	9	4	3	0		9	6	4	1	LOEB
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	44	E	9	8	3	1	ELI	6	8	7	0	
+0	0	0	L	9	8	3	0		4	9	6	0	
+0	0	0	I	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	S	10	0	9	1	STEAMROOM	9	0	3	0	
+0	0	0	T	10	0	9	0		9	1	3	0	
+0	0	0	E	10	0	9	0		0	2	13	0	
+0	1	46	A	10	0	9	0		10	3	3	1	AAR
+0	0	0	M	10	0	9	0		8	4	5	0	
+0	0	0	R	10	0	9	0		9	5	3	0	
+0	0	0	O	10	0	9	0		9	6	4	0	
+0	1	47	O	10	0	9	0		10	7	3	1	OAR
+0	0	0	M	10	0	9	0		6	8	7	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	48	G	10	10	3	1	GDR	0	10	13	0	
+0	1	49	D	10	10	3	0		10	11	3	1	DCI
+0	1	50	R	10	10	3	0		10	12	3	1	RHO
+0	1	51	S	11	0	9	1	SCRAPHEAP	9	0	3	0	
+0	0	0	C	11	0	9	0		9	1	3	0	
+0	0	0	R	11	0	9	0		0	2	13	0	
+0	0	0	A	11	0	9	0		10	3	3	0	
+0	0	0	P	11	0	9	0		8	4	5	0	
+0	0	0	H	11	0	9	0		9	5	3	0	
+0	0	0	E	11	0	9	0		9	6	4	0	
+0	0	0	A	11	0	9	0		10	7	3	0	
+0	0	0	P	11	0	9	0		6	8	7	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	H	11	10	3	1	HCH	0	10	13	0	
+0	0	0	C	11	10	3	0		10	11	3	0	
+0	0	0	H	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	53	S	12	2	3	1	SRS	0	2	13	0	
+0	0	0	R	12	2	3	0		10	3	3	0	
+0	0	0	S	12	2	3	0		8	4	5	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	54	B	12	6	3	1	BRO	9	6	4	0	
+0	0	0	R	12	6	3	0		10	7	3	0	
+0	0	0	O	12	6	3	0		6	8	7	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	T	12	10	3	1	TIO	0	10	13	0	
+0	0	0	I	12	10	3	0		10	11	3	0	
+0	0	0	O	12	10	3	0		10	12	3	0	
+29
+1	NOV	When Guy Fawkes Day is celebrated: Abbr.
+4	GIL	Diamond great Hodges
+7	PAR	Course number
+10	ASE	Wall St. market, briefly
+11	LOOSELEAF	Not bound in
+15	GON	Angled: Suffix
+16	OCTUPLETS	Major birth news
+17	DIA	Day in Granada
+19	TBS	Noted airer of classic sitcoms
+20	DAU	Genealogist's abbr.
+21	STENTS	Surgical inserts
+24	IVA	Archer's wife in "The Maltese Falcon"
+26	MORDENT	Musical ornament using two quickly alternating tones
+28	ANT	Farm animal
+30	LIBERALMINDED	Tolerant of other opinions
+34	LEE	Wranglers alternative
+35	COLDWAR	James Bond backdrop
+36	NPR	Inits. in journalism
+38	STARRY	Like a cloudless night
+39	PED	Crossing user, for short
+41	AHL	Sports org. with the Calder Cup
+44	ELI	TV title lawyer Stone
+45	STEAMROOM	Place for a sweater?
+48	GDR	Warsaw Pact member, initially
+51	SCRAPHEAP	Dump
+52	HCH	White House monogram
+53	SRS	Matching ring recipients: Abbr.
+54	BRO	Pal, rapper-style
+55	TIO	Canc
+31
+1	NAG	Badger
+2	OSO	Bear in Bolivia
+3	VENDERBENDERS	Salesman's sprees?
+4	GLOATER	Ungracious winner
+5	IOC	Org. with a five-ring logo
+6	LOTT	Senator who succeeded John Stennis
+7	PEPSI	Old "Hits the spot" sloganeer
+8	ALL	Wisk alternative
+9	REEDANDWRIGHT	"Film critic + ""Native Son"" author"
+12	SUB	Fill-in
+13	ATA	___ tilt
+14	FSU	Home of the Seminoles: Abbr.
+18	INDEEP	Unable to get out
+21	SML	Tee sizes, on signs
+22	TOIL	Travail
+23	SNA	White stuff, in Dundee
+25	VANDAL	Part of a wrecking crew?
+27	TLC	Mom's specialty, for short
+29	TEAR	Tendon trouble
+31	MOS	May and June: Abbr.
+32	ILTEMPO	Big Italian daily
+33	DRY	Like some wines
+37	RAMPS	Level connectors
+39	PSS	Letter writer's afterthoughts
+40	ETC	And others of the same sort: Abbr.
+42	HRH	Prince's title: Abbr.
+43	LOEB	Financial writer Marshall
+46	AAR	Thun's river
+47	OAR	Galley implement
+49	DCI	Century starter in the papacy of Gregory I
+50	RHO	Letter on some college jackets

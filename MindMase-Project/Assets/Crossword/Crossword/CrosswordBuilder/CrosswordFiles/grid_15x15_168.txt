@@ -1,0 +1,307 @@
+grid_15x15_168
+15
+0	1	1	T	0	0	3	1	TAU	0	0	6	1	TUBLES
+0	1	2	A	0	0	3	0		0	1	6	1	AARONS
+0	1	3	U	0	0	3	0		0	2	6	1	UTERUS
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	J	0	4	3	1	JOY	0	4	3	1	JAE
+0	1	5	O	0	4	3	0		0	5	3	1	ORR
+0	1	6	Y	0	4	3	0		0	6	4	1	YESM
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	5	0		1	9	4	0	
+0	1	7	C	0	10	5	1	CAPRI	0	10	5	1	CCCLI
+0	1	8	A	0	10	5	0		0	11	5	1	AVRIL
+0	1	9	P	0	10	5	0		0	12	3	1	PIE
+0	1	10	R	0	10	5	0		0	13	3	1	REA
+0	1	11	I	0	10	5	0		0	14	3	1	ISM
+0	1	12	U	1	0	3	1	UAT	0	0	6	0	
+0	0	0	A	1	0	3	0		0	1	6	0	
+0	0	0	T	1	0	3	0		0	2	6	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	13	A	1	4	4	1	ARED	0	4	3	0	
+0	0	0	R	1	4	4	0		0	5	3	0	
+0	0	0	E	1	4	4	0		0	6	4	0	
+0	1	14	D	1	4	4	0		1	7	3	1	DIO
+1	0	0	#	1	9	6	0		2	8	4	0	
+0	1	15	M	1	9	6	1	MCVIES	1	9	4	1	MEGA
+0	0	0	C	1	9	6	0		0	10	5	0	
+0	0	0	V	1	9	6	0		0	11	5	0	
+0	0	0	I	1	9	6	0		0	12	3	0	
+0	0	0	E	1	9	6	0		0	13	3	0	
+0	0	0	S	1	9	6	0		0	14	3	0	
+0	1	16	B	2	0	15	1	BREYERSICECREAM	0	0	6	0	
+0	0	0	R	2	0	15	0		0	1	6	0	
+0	0	0	E	2	0	15	0		0	2	6	0	
+0	1	17	Y	2	0	15	0		2	3	3	1	YER
+0	0	0	E	2	0	15	0		0	4	3	0	
+0	0	0	R	2	0	15	0		0	5	3	0	
+0	0	0	S	2	0	15	0		0	6	4	0	
+0	0	0	I	2	0	15	0		1	7	3	0	
+0	1	18	C	2	0	15	0		2	8	4	1	CWTS
+0	0	0	E	2	0	15	0		1	9	4	0	
+0	0	0	C	2	0	15	0		0	10	5	0	
+0	0	0	R	2	0	15	0		0	11	5	0	
+0	0	0	E	2	0	15	0		0	12	3	0	
+0	0	0	A	2	0	15	0		0	13	3	0	
+0	0	0	M	2	0	15	0		0	14	3	0	
+0	1	19	L	3	0	4	1	LORE	0	0	6	0	
+0	0	0	O	3	0	4	0		0	1	6	0	
+0	0	0	R	3	0	4	0		0	2	6	0	
+0	0	0	E	3	0	4	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	5	0	
+1	0	0	#	3	6	6	0		4	5	0	0	
+0	1	20	M	3	6	6	1	MOWGLI	0	6	4	0	
+0	0	0	O	3	6	6	0		1	7	3	0	
+0	0	0	W	3	6	6	0		2	8	4	0	
+0	0	0	G	3	6	6	0		1	9	4	0	
+0	0	0	L	3	6	6	0		0	10	5	0	
+0	0	0	I	3	6	6	0		0	11	5	0	
+1	0	0	#	3	13	0	0		4	12	4	0	
+1	0	0	#	3	14	0	0		4	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	21	E	4	0	5	1	ENURE	0	0	6	0	
+0	0	0	N	4	0	5	0		0	1	6	0	
+0	0	0	U	4	0	5	0		0	2	6	0	
+0	0	0	R	4	0	5	0		2	3	3	0	
+0	1	22	E	4	0	5	0		4	4	5	1	EBERT
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	6	0		5	7	5	0	
+0	1	23	T	4	8	6	1	TAILSP	2	8	4	0	
+0	0	0	A	4	8	6	0		1	9	4	0	
+0	0	0	I	4	8	6	0		0	10	5	0	
+0	0	0	L	4	8	6	0		0	11	5	0	
+0	1	24	S	4	8	6	0		4	12	4	1	SUNB
+0	1	25	P	4	8	6	0		4	13	4	1	PEGL
+1	0	0	#	4	15	0	0		5	14	3	0	
+0	1	26	S	5	0	3	1	SSS	0	0	6	0	
+0	0	0	S	5	0	3	0		0	1	6	0	
+0	0	0	S	5	0	3	0		0	2	6	0	
+1	0	0	#	5	4	5	0		6	3	3	0	
+0	1	27	B	5	4	5	1	BOGGS	4	4	5	0	
+0	1	28	O	5	4	5	0		5	5	3	1	OPA
+0	1	29	G	5	4	5	0		5	6	3	1	GAS
+0	1	30	G	5	4	5	0		5	7	5	1	GYPSY
+0	0	0	S	5	4	5	0		2	8	4	0	
+1	0	0	#	5	10	0	0		6	9	0	0	
+1	0	0	#	5	11	0	0		6	10	5	0	
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	31	U	5	12	3	1	UEA	4	12	4	0	
+0	0	0	E	5	12	3	0		4	13	4	0	
+0	1	32	A	5	12	3	0		5	14	3	1	ASE
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	5	0		7	2	4	0	
+0	1	33	R	6	3	5	1	REPAY	6	3	3	1	RAG
+0	0	0	E	6	3	5	0		4	4	5	0	
+0	0	0	P	6	3	5	0		5	5	3	0	
+0	0	0	A	6	3	5	0		5	6	3	0	
+0	0	0	Y	6	3	5	0		5	7	5	0	
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	5	0		7	9	3	0	
+0	1	34	P	6	10	5	1	PANGS	6	10	5	1	PSALM
+0	1	35	A	6	10	5	0		6	11	3	1	AIT
+0	0	0	N	6	10	5	0		4	12	4	0	
+0	0	0	G	6	10	5	0		4	13	4	0	
+0	0	0	S	6	10	5	0		5	14	3	0	
+0	1	36	A	7	0	15	1	ASFARASPOSSIBLE	7	0	3	1	AVI
+0	1	37	S	7	0	15	0		7	1	4	1	SIAN
+0	1	38	F	7	0	15	0		7	2	4	1	FNMA
+0	0	0	A	7	0	15	0		6	3	3	0	
+0	0	0	R	7	0	15	0		4	4	5	0	
+0	0	0	A	7	0	15	0		5	5	3	0	
+0	0	0	S	7	0	15	0		5	6	3	0	
+0	0	0	P	7	0	15	0		5	7	5	0	
+0	1	39	O	7	0	15	0		7	8	3	1	OER
+0	1	40	S	7	0	15	0		7	9	3	1	SNI
+0	0	0	S	7	0	15	0		6	10	5	0	
+0	0	0	I	7	0	15	0		6	11	3	0	
+0	0	0	B	7	0	15	0		4	12	4	0	
+0	0	0	L	7	0	15	0		4	13	4	0	
+0	0	0	E	7	0	15	0		5	14	3	0	
+0	1	41	V	8	0	5	1	VINGT	7	0	3	0	
+0	0	0	I	8	0	5	0		7	1	4	0	
+0	0	0	N	8	0	5	0		7	2	4	0	
+0	0	0	G	8	0	5	0		6	3	3	0	
+0	0	0	T	8	0	5	0		4	4	5	0	
+1	0	0	#	8	6	0	0		9	5	0	0	
+1	0	0	#	8	7	5	0		9	6	4	0	
+0	1	42	S	8	7	5	1	SENAT	5	7	5	0	
+0	0	0	E	8	7	5	0		7	8	3	0	
+0	0	0	N	8	7	5	0		7	9	3	0	
+0	0	0	A	8	7	5	0		6	10	5	0	
+0	0	0	T	8	7	5	0		6	11	3	0	
+1	0	0	#	8	13	0	0		9	12	6	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	6	0	
+0	1	43	I	9	0	3	1	IAM	7	0	3	0	
+0	0	0	A	9	0	3	0		7	1	4	0	
+0	0	0	M	9	0	3	0		7	2	4	0	
+1	0	0	#	9	4	0	0		10	3	5	0	
+1	0	0	#	9	5	0	0		10	4	5	0	
+1	0	0	#	9	6	5	0		10	5	4	0	
+0	1	44	C	9	6	5	1	CYRIL	9	6	4	1	CMII
+0	0	0	Y	9	6	5	0		5	7	5	0	
+0	0	0	R	9	6	5	0		7	8	3	0	
+0	0	0	I	9	6	5	0		7	9	3	0	
+0	0	0	L	9	6	5	0		6	10	5	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	45	T	9	12	3	1	TWO	9	12	6	1	THEUSA
+0	1	46	W	9	12	3	0		9	13	6	1	WONTON
+0	1	47	O	9	12	3	0		9	14	6	1	ONEHIT
+1	0	0	#	10	1	6	0		11	0	0	0	
+0	1	48	N	10	1	6	1	NAPALM	7	1	4	0	
+0	0	0	A	10	1	6	0		7	2	4	0	
+0	1	49	P	10	1	6	0		10	3	5	1	PINHS
+0	1	50	A	10	1	6	0		10	4	5	1	AMTOO
+0	1	51	L	10	1	6	0		10	5	4	1	LFAT
+0	0	0	M	10	1	6	0		9	6	4	0	
+1	0	0	#	10	8	0	0		11	7	3	0	
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	5	0		11	9	0	0	
+0	1	52	M	10	10	5	1	MAHON	6	10	5	0	
+0	1	53	A	10	10	5	0		10	11	3	1	AGO
+0	0	0	H	10	10	5	0		9	12	6	0	
+0	0	0	O	10	10	5	0		9	13	6	0	
+0	0	0	N	10	10	5	0		9	14	6	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	6	0		12	2	3	0	
+0	1	54	I	11	3	6	1	IMFINE	10	3	5	0	
+0	0	0	M	11	3	6	0		10	4	5	0	
+0	0	0	F	11	3	6	0		10	5	4	0	
+0	0	0	I	11	3	6	0		9	6	4	0	
+0	1	55	N	11	3	6	0		11	7	3	1	NNE
+0	1	56	E	11	3	6	0		11	8	4	1	EONS
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	4	0		12	10	3	0	
+0	1	57	G	11	11	4	1	GENE	10	11	3	0	
+0	0	0	E	11	11	4	0		9	12	6	0	
+0	0	0	N	11	11	4	0		9	13	6	0	
+0	0	0	E	11	11	4	0		9	14	6	0	
+0	1	58	M	12	0	15	1	MOUNTAINOFYOUTH	12	0	3	1	MIR
+0	1	59	O	12	0	15	0		12	1	3	1	OSU
+0	1	60	U	12	0	15	0		12	2	3	1	USS
+0	0	0	N	12	0	15	0		10	3	5	0	
+0	0	0	T	12	0	15	0		10	4	5	0	
+0	0	0	A	12	0	15	0		10	5	4	0	
+0	0	0	I	12	0	15	0		9	6	4	0	
+0	0	0	N	12	0	15	0		11	7	3	0	
+0	0	0	O	12	0	15	0		11	8	4	0	
+0	1	61	F	12	0	15	0		12	9	3	1	FAM
+0	1	62	Y	12	0	15	0		12	10	3	1	YSL
+0	0	0	O	12	0	15	0		10	11	3	0	
+0	0	0	U	12	0	15	0		9	12	6	0	
+0	0	0	T	12	0	15	0		9	13	6	0	
+0	0	0	H	12	0	15	0		9	14	6	0	
+0	1	63	I	13	0	6	1	ISSHOT	12	0	3	0	
+0	0	0	S	13	0	6	0		12	1	3	0	
+0	0	0	S	13	0	6	0		12	2	3	0	
+0	0	0	H	13	0	6	0		10	3	5	0	
+0	0	0	O	13	0	6	0		10	4	5	0	
+0	0	0	T	13	0	6	0		10	5	4	0	
+1	0	0	#	13	7	4	0		14	6	0	0	
+0	1	64	E	13	7	4	1	ENAS	11	7	3	0	
+0	0	0	N	13	7	4	0		11	8	4	0	
+0	0	0	A	13	7	4	0		12	9	3	0	
+0	0	0	S	13	7	4	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	65	S	13	12	3	1	SOI	9	12	6	0	
+0	0	0	O	13	12	3	0		9	13	6	0	
+0	0	0	I	13	12	3	0		9	14	6	0	
+0	1	66	R	14	0	5	1	RUSSO	12	0	3	0	
+0	0	0	U	14	0	5	0		12	1	3	0	
+0	0	0	S	14	0	5	0		12	2	3	0	
+0	0	0	S	14	0	5	0		10	3	5	0	
+0	0	0	O	14	0	5	0		10	4	5	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	67	S	14	8	3	1	SML	11	8	4	0	
+0	0	0	M	14	8	3	0		12	9	3	0	
+0	0	0	L	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	68	A	14	12	3	1	ANT	9	12	6	0	
+0	0	0	N	14	12	3	0		9	13	6	0	
+0	0	0	T	14	12	3	0		9	14	6	0	
+33
+1	TAU	Greek cross
+4	JOY	Something you might jump for
+7	CAPRI	Island from which Tiberius ruled
+12	UAT	Awake by
+13	ARED	"Wielding ___ Sword" (Piers Anthony novel)
+15	MCVIES	Musicians John and Christine
+16	BREYERSICECREAM	Supreme dessert (1994-  )
+19	LORE	Old stories
+20	MOWGLI	"The Jungle Book" hero
+21	ENURE	Harden
+23	TAILSP	Emergency situation
+26	SSS	60's demonstration target
+27	BOGGS	Wade at Cooperstown
+31	UEA	Pupil's place
+33	REPAY	Service, as debt
+34	PANGS	Feelings of hunger
+36	ASFARASPOSSIBLE	To the limit
+41	VINGT	French score
+42	SENAT	French lawmakers
+43	IAM	Thinking person's conclusion?
+44	CYRIL	Saint for whom the Russian alphabet is named
+45	TWO	Number of X's in this puzzle's answer
+48	NAPALM	Flamethrower fuel
+52	MAHON	Capital of Minorca
+54	IMFINE	"Don't worry about me"
+57	GENE	Chromosome carrier
+58	MOUNTAINOFYOUTH	Sandbox pile?
+63	ISSHOT	Doesn't work anymore, informally
+64	ENAS	Onetime Spanish queen and namesakes
+65	SOI	___-disant
+66	RUSSO	Richard ___, 2002 Pulitzer winner for the novel "Empire Falls"
+67	SML	Letters of sizes
+68	ANT	It may be red or black
+45
+1	TUBLES	Spills
+2	AARONS	___ rod (tall-stemmed plant)
+3	UTERUS	Womb
+4	JAE	Former major-league pitcher ___ Seo
+5	ORR	1970 Stanley Cup hero
+6	YESM	Positive response to Aunt Polly
+7	CCCLI	Last full year of St. Julius I's papacy
+8	AVRIL	Follower of mars
+9	PIE	Sales pitch?
+10	REA	Stephen of "FeardotCom"
+11	ISM	Subject of academic study
+14	DIO	God, in Roma
+15	MEGA	Prefix with bucks
+17	YER	Suffix with saw or law
+18	CWTS	100-lb. units
+22	EBERT	Friedrich ___, first president of the German Republic
+24	SUNB	Beach application
+25	PEGL	Feature of many a pirate
+28	OPA	W.W. II agcy.
+29	GAS	Jabber
+30	GYPSY	___ Rose Lee
+32	ASE	Suffix with RNA
+33	RAG	Tease, with "on"
+34	PSALM	Hymn
+35	AIT	Small island
+36	AVI	Prefix with culture
+37	SIAN	___ Phillips, who played Livia in "I, Claudius"
+38	FNMA	Low-cost home loan corp.
+39	OER	"The Star-Spangled Banner" preposition
+40	SNI	___ and snee
+44	CMII	Year in the reign of Edward the Elder
+45	THEUSA	Where Springsteen was born, in song
+46	WONTON	Chinese dumpling
+47	ONEHIT	Like some wonders
+49	PINHS	Features of homemade cameras
+50	AMTOO	"Are not" retort
+51	LFAT	Map figure: Abbr.
+53	AGO	Back from now
+55	NNE	Tonga-to-Hawaii dir.
+56	EONS	Millions of years
+58	MIR	Home in space
+59	OSU	Big Ten inits.
+60	USS	Naval inits.
+61	FAM	Genealogical grp.
+62	YSL	Couturier inits.

@@ -1,0 +1,305 @@
+grid_15x15_180
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	T	0	1	3	1	TPI	0	1	8	1	TOUGHGUY
+0	1	2	P	0	1	3	0		0	2	15	1	PUTTINONTHERITZ
+0	1	3	I	0	1	3	0		0	3	3	1	IRS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	F	0	6	3	1	FTP	0	6	6	1	FOETID
+0	1	5	T	0	6	3	0		0	7	3	1	TAO
+0	1	6	P	0	6	3	0		0	8	3	1	PSF
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	6	0	
+0	1	7	C	0	12	3	1	CET	0	12	15	1	CEEENENREPORTER
+0	1	8	E	0	12	3	0		0	13	6	1	EMERIL
+0	1	9	T	0	12	3	0		0	14	3	1	TOL
+0	1	10	Y	1	0	10	1	YOURETOAST	1	0	3	1	YOM
+0	0	0	O	1	0	10	0		0	1	8	0	
+0	0	0	U	1	0	10	0		0	2	15	0	
+0	0	0	R	1	0	10	0		0	3	3	0	
+0	1	11	E	1	0	10	0		1	4	3	1	EIS
+0	1	12	T	1	0	10	0		1	5	3	1	TDS
+0	0	0	O	1	0	10	0		0	6	6	0	
+0	0	0	A	1	0	10	0		0	7	3	0	
+0	0	0	S	1	0	10	0		0	8	3	0	
+0	1	13	T	1	0	10	0		1	9	3	1	TAH
+1	0	0	#	1	11	4	0		2	10	3	0	
+0	1	14	D	1	11	4	1	DEMO	1	11	6	1	DHARMA
+0	0	0	E	1	11	4	0		0	12	15	0	
+0	0	0	M	1	11	4	0		0	13	6	0	
+0	0	0	O	1	11	4	0		0	14	3	0	
+0	1	15	O	2	0	15	1	OUTSIDEOFAWHEEL	1	0	3	0	
+0	0	0	U	2	0	15	0		0	1	8	0	
+0	0	0	T	2	0	15	0		0	2	15	0	
+0	0	0	S	2	0	15	0		0	3	3	0	
+0	0	0	I	2	0	15	0		1	4	3	0	
+0	0	0	D	2	0	15	0		1	5	3	0	
+0	0	0	E	2	0	15	0		0	6	6	0	
+0	0	0	O	2	0	15	0		0	7	3	0	
+0	0	0	F	2	0	15	0		0	8	3	0	
+0	0	0	A	2	0	15	0		1	9	3	0	
+0	1	16	W	2	0	15	0		2	10	3	1	WEE
+0	0	0	H	2	0	15	0		1	11	6	0	
+0	0	0	E	2	0	15	0		0	12	15	0	
+0	0	0	E	2	0	15	0		0	13	6	0	
+0	0	0	L	2	0	15	0		0	14	3	0	
+0	1	17	M	3	0	3	1	MGT	1	0	3	0	
+0	0	0	G	3	0	3	0		0	1	8	0	
+0	0	0	T	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	18	S	3	4	3	1	SST	1	4	3	0	
+0	0	0	S	3	4	3	0		1	5	3	0	
+0	0	0	T	3	4	3	0		0	6	6	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	5	0		4	8	4	0	
+0	1	19	H	3	9	5	1	HEAER	1	9	3	0	
+0	0	0	E	3	9	5	0		2	10	3	0	
+0	0	0	A	3	9	5	0		1	11	6	0	
+0	0	0	E	3	9	5	0		0	12	15	0	
+0	0	0	R	3	9	5	0		0	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	20	H	4	1	3	1	HIS	0	1	8	0	
+0	0	0	I	4	1	3	0		0	2	15	0	
+0	1	21	S	4	1	3	0		4	3	3	1	SQR
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	3	0		5	5	4	0	
+0	1	22	I	4	6	3	1	IIS	0	6	6	0	
+0	1	23	I	4	6	3	0		4	7	7	1	IBNSAUD
+0	1	24	S	4	6	3	0		4	8	4	1	SEEA
+1	0	0	#	4	10	4	0		5	9	0	0	
+0	1	25	E	4	10	4	1	ERNI	2	10	3	0	
+0	0	0	R	4	10	4	0		1	11	6	0	
+0	0	0	N	4	10	4	0		0	12	15	0	
+0	0	0	I	4	10	4	0		0	13	6	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	26	S	5	0	4	1	SGNQ	5	0	3	1	SQS
+0	0	0	G	5	0	4	0		0	1	8	0	
+0	0	0	N	5	0	4	0		0	2	15	0	
+0	0	0	Q	5	0	4	0		4	3	3	0	
+1	0	0	#	5	5	4	0		6	4	3	0	
+0	1	27	I	5	5	4	1	IDBE	5	5	4	1	IMAM
+0	0	0	D	5	5	4	0		0	6	6	0	
+0	0	0	B	5	5	4	0		4	7	7	0	
+0	0	0	E	5	5	4	0		4	8	4	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	3	0		6	10	3	0	
+0	1	28	M	5	11	3	1	MEL	1	11	6	0	
+0	0	0	E	5	11	3	0		0	12	15	0	
+0	0	0	L	5	11	3	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	29	Q	6	0	6	1	QUORUM	5	0	3	0	
+0	0	0	U	6	0	6	0		0	1	8	0	
+0	0	0	O	6	0	6	0		0	2	15	0	
+0	0	0	R	6	0	6	0		4	3	3	0	
+0	1	30	U	6	0	6	0		6	4	3	1	UBS
+0	0	0	M	6	0	6	0		5	5	4	0	
+1	0	0	#	6	7	6	0		7	6	4	0	
+0	1	31	N	6	7	6	1	NEMEAN	4	7	7	0	
+0	0	0	E	6	7	6	0		4	8	4	0	
+0	1	32	M	6	7	6	0		6	9	4	1	MMLI
+0	1	33	E	6	7	6	0		6	10	3	1	ESE
+0	0	0	A	6	7	6	0		1	11	6	0	
+0	0	0	N	6	7	6	0		0	12	15	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	34	S	7	0	3	1	SYN	5	0	3	0	
+0	0	0	Y	7	0	3	0		0	1	8	0	
+0	0	0	N	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	6	0	
+0	1	35	B	7	4	7	1	BALSAMS	6	4	3	0	
+0	0	0	A	7	4	7	0		5	5	4	0	
+0	1	36	L	7	4	7	0		7	6	4	1	LIFE
+0	0	0	S	7	4	7	0		4	7	7	0	
+0	0	0	A	7	4	7	0		4	8	4	0	
+0	0	0	M	7	4	7	0		6	9	4	0	
+0	0	0	S	7	4	7	0		6	10	3	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	37	R	7	12	3	1	REC	0	12	15	0	
+0	1	38	E	7	12	3	0		7	13	8	1	ENERVATE
+0	1	39	C	7	12	3	0		7	14	3	1	CDN
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	6	0		9	1	6	0	
+0	1	40	T	8	2	6	1	TASMIA	0	2	15	0	
+0	1	41	A	8	2	6	0		8	3	6	1	ALDINE
+0	0	0	S	8	2	6	0		6	4	3	0	
+0	0	0	M	8	2	6	0		5	5	4	0	
+0	0	0	I	8	2	6	0		7	6	4	0	
+0	0	0	A	8	2	6	0		4	7	7	0	
+1	0	0	#	8	9	6	0		9	8	6	0	
+0	1	42	L	8	9	6	1	LEGEND	6	9	4	0	
+0	0	0	E	8	9	6	0		6	10	3	0	
+0	1	43	G	8	9	6	0		8	11	3	1	GOT
+0	0	0	E	8	9	6	0		0	12	15	0	
+0	0	0	N	8	9	6	0		7	13	8	0	
+0	0	0	D	8	9	6	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	44	D	9	1	3	1	DHL	9	1	6	1	DRAWEE
+0	0	0	H	9	1	3	0		0	2	15	0	
+0	0	0	L	9	1	3	0		8	3	6	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	45	F	9	6	4	1	FUJI	7	6	4	0	
+0	0	0	U	9	6	4	0		4	7	7	0	
+0	1	46	J	9	6	4	0		9	8	6	1	JASONX
+0	0	0	I	9	6	4	0		6	9	4	0	
+1	0	0	#	9	11	4	0		10	10	0	0	
+0	1	47	O	9	11	4	1	OPEN	8	11	3	0	
+0	0	0	P	9	11	4	0		0	12	15	0	
+0	0	0	E	9	11	4	0		7	13	8	0	
+0	0	0	N	9	11	4	0		7	14	3	0	
+1	0	0	#	10	1	4	0		11	0	0	0	
+0	1	48	R	10	1	4	1	REDR	9	1	6	0	
+0	0	0	E	10	1	4	0		0	2	15	0	
+0	0	0	D	10	1	4	0		8	3	6	0	
+0	1	49	R	10	1	4	0		10	4	3	1	REG
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	50	E	10	6	3	1	EDA	7	6	4	0	
+0	0	0	D	10	6	3	0		4	7	7	0	
+0	0	0	A	10	6	3	0		9	8	6	0	
+1	0	0	#	10	10	0	0		11	9	3	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	51	T	10	11	3	1	TOR	8	11	3	0	
+0	0	0	O	10	11	3	0		0	12	15	0	
+0	0	0	R	10	11	3	0		7	13	8	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	5	0		12	0	3	0	
+0	1	52	A	11	1	5	1	ARIEL	9	1	6	0	
+0	0	0	R	11	1	5	0		0	2	15	0	
+0	0	0	I	11	1	5	0		8	3	6	0	
+0	0	0	E	11	1	5	0		10	4	3	0	
+0	1	53	L	11	1	5	0		11	5	3	1	LIT
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	54	S	11	8	3	1	SIL	9	8	6	0	
+0	1	55	I	11	8	3	0		11	9	3	1	INI
+0	1	56	L	11	8	3	0		11	10	3	1	LAS
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	57	R	11	12	3	1	RVS	0	12	15	0	
+0	0	0	V	11	12	3	0		7	13	8	0	
+0	1	58	S	11	12	3	0		11	14	3	1	SRS
+0	1	59	S	12	0	15	1	SWINGINGONASTAR	12	0	3	1	STN
+0	0	0	W	12	0	15	0		9	1	6	0	
+0	0	0	I	12	0	15	0		0	2	15	0	
+0	0	0	N	12	0	15	0		8	3	6	0	
+0	0	0	G	12	0	15	0		10	4	3	0	
+0	0	0	I	12	0	15	0		11	5	3	0	
+0	1	60	N	12	0	15	0		12	6	3	1	NEL
+0	1	61	G	12	0	15	0		12	7	3	1	GNU
+0	0	0	O	12	0	15	0		9	8	6	0	
+0	0	0	N	12	0	15	0		11	9	3	0	
+0	0	0	A	12	0	15	0		11	10	3	0	
+0	1	62	S	12	0	15	0		12	11	3	1	SNI
+0	0	0	T	12	0	15	0		0	12	15	0	
+0	0	0	A	12	0	15	0		7	13	8	0	
+0	0	0	R	12	0	15	0		11	14	3	0	
+0	1	63	T	13	0	4	1	TETE	12	0	3	0	
+0	0	0	E	13	0	4	0		9	1	6	0	
+0	0	0	T	13	0	4	0		0	2	15	0	
+0	0	0	E	13	0	4	0		8	3	6	0	
+1	0	0	#	13	5	10	0		14	4	0	0	
+0	1	64	T	13	5	10	1	TENNISNETS	11	5	3	0	
+0	0	0	E	13	5	10	0		12	6	3	0	
+0	0	0	N	13	5	10	0		12	7	3	0	
+0	0	0	N	13	5	10	0		9	8	6	0	
+0	0	0	I	13	5	10	0		11	9	3	0	
+0	0	0	S	13	5	10	0		11	10	3	0	
+0	0	0	N	13	5	10	0		12	11	3	0	
+0	0	0	E	13	5	10	0		0	12	15	0	
+0	0	0	T	13	5	10	0		7	13	8	0	
+0	0	0	S	13	5	10	0		11	14	3	0	
+0	1	65	N	14	0	3	1	NEZ	12	0	3	0	
+0	0	0	E	14	0	3	0		9	1	6	0	
+0	0	0	Z	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	66	L	14	6	3	1	LUX	12	6	3	0	
+0	0	0	U	14	6	3	0		12	7	3	0	
+0	0	0	X	14	6	3	0		9	8	6	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	67	I	14	11	3	1	IRE	12	11	3	0	
+0	0	0	R	14	11	3	0		0	12	15	0	
+0	0	0	E	14	11	3	0		7	13	8	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+37
+1	TPI	Object
+4	FTP	Way to send docs. electronically
+7	CET	This, in Thiers
+10	YOURETOAST	Comment to a goner
+14	DEMO	Sales pitch enclosure, maybe
+15	OUTSIDEOFAWHEEL	CIRCLE
+17	MGT	Leadership of a co.
+18	SST	J.F.K. visitor, once
+19	HEAER	Gangster's weapon
+20	HIS	Mug marking, maybe
+22	IIS	"___ for Innocent" (Grafton novel)
+25	ERNI	About
+26	SGNQ	___ even keel: 2 wds.
+27	IDBE	"___ a fool to ..."
+28	MEL	Ferrer of "Lili"
+29	QUORUM	Business necessity?
+31	NEMEAN	___ lion, beast slain by Hercules in his first labor
+34	SYN	Thesaurus entry: Abbr.
+35	BALSAMS	Many Christmas trees
+37	REC	Start of a newsgroup name online
+40	TASMIA	State adjoining the Bass Strait
+42	LEGEND	Scale holder
+44	DHL	FedEx rival
+45	FUJI	Kodak competitor
+47	OPEN	Uncap
+48	REDR	"Little" barnyard bird with an alliterative name in a classic Willie Dixon blues song
+50	EDA	Coloratura Christiane ___-Pierre
+51	TOR	Rocky top
+52	ARIEL	Israeli hard-liner Sharon
+54	SIL	Part of R.S.V.P.
+57	RVS	Camp sights, for short
+59	SWINGINGONASTAR	1944 Oscar-winning song by Bing Crosby
+63	TETE	Head: Fr.
+64	TENNISNETS	Lets touch these
+65	NEZ	___ Perc
+66	LUX	Meter-candle
+67	IRE	Red state
+39
+1	TOUGHGUY	Bruiser
+2	PUTTINONTHERITZ	Berlin classic
+3	IRS	Org. with audits
+4	FOETID	Malodorous: Var.
+5	TAO	Principle of philosophy
+6	PSF	Pressure meas.
+7	CEEENENREPORTER	Prominent media member
+8	EMERIL	Cooking personality
+9	TOL	"___'able David" (classic silent film)
+10	YOM	Day, in Hebrew
+11	EIS	Frozen water: Ger.
+12	TDS	Bowl features, for short
+13	TAH	Panama, e.g.
+14	DHARMA	TV's "___ and Greg"
+16	WEE	Teeny
+21	SQR	Plaza abbr.
+23	IBNSAUD	1930
+24	SEEA	Words before ghost or doctor
+26	SQS	Geometric figs.
+27	IMAM	Shi'ite leader
+30	UBS	Financial inst. that bought PaineWebber in 2000
+32	MMLI	Mid 21st-century date
+33	ESE	180 degrees from WNW
+36	LIFE	Lengthy sentence
+38	ENERVATE	Weaken
+39	CDN	Like some dollars on currency exch. boards
+41	ALDINE	Classic early press
+43	GOT	"___ milk?"
+44	DRAWEE	Party to a financial transaction
+46	JASONX	2002 horror sequel
+49	REG	Govt. agency creation
+53	LIT	On, in a way
+55	INI	___ Kamoze of reggae
+56	LAS	Steps on the scale
+58	SRS	A.A.R.P. members
+59	STN	Stop on a track: Abbr.
+60	NEL	"Volare (___ Blu Dipinto di Blu)"
+61	GNU	Protected beast
+62	SNI	___ and snee

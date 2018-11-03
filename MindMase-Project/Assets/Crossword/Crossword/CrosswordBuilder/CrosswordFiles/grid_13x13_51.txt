@@ -1,0 +1,227 @@
+grid_13x13_51
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	M	0	2	3	1	MCM	0	2	12	1	MOVEYOURTAIL
+0	1	2	C	0	2	3	0		0	3	3	1	CGI
+0	1	3	M	0	2	3	0		0	4	3	1	MOD
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	Y	0	7	3	1	YUM	0	7	4	1	YEGG
+0	1	5	U	0	7	3	0		0	8	3	1	UTI
+0	1	6	M	0	7	3	0		0	9	3	1	MSN
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	N	1	1	4	1	NOGO	1	1	6	1	NITRIC
+0	0	0	O	1	1	4	0		0	2	12	0	
+0	0	0	G	1	1	4	0		0	3	3	0	
+0	0	0	O	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	7	0		2	5	5	0	
+0	1	8	G	1	6	7	1	GETSSET	1	6	3	1	GNU
+0	0	0	E	1	6	7	0		0	7	4	0	
+0	0	0	T	1	6	7	0		0	8	3	0	
+0	0	0	S	1	6	7	0		0	9	3	0	
+0	1	9	S	1	6	7	0		1	10	12	1	STEVENCANYON
+0	1	10	E	1	6	7	0		1	11	4	1	EWES
+0	1	11	T	1	6	7	0		1	12	3	1	TOC
+0	1	12	D	2	0	13	1	DIVIDINGINTWO	2	0	3	1	DED
+0	0	0	I	2	0	13	0		1	1	6	0	
+0	0	0	V	2	0	13	0		0	2	12	0	
+0	0	0	I	2	0	13	0		0	3	3	0	
+0	0	0	D	2	0	13	0		0	4	3	0	
+0	1	13	I	2	0	13	0		2	5	5	1	IREST
+0	0	0	N	2	0	13	0		1	6	3	0	
+0	0	0	G	2	0	13	0		0	7	4	0	
+0	0	0	I	2	0	13	0		0	8	3	0	
+0	0	0	N	2	0	13	0		0	9	3	0	
+0	0	0	T	2	0	13	0		1	10	12	0	
+0	0	0	W	2	0	13	0		1	11	4	0	
+0	0	0	O	2	0	13	0		1	12	3	0	
+0	1	14	E	3	0	3	1	ETE	2	0	3	0	
+0	0	0	T	3	0	3	0		1	1	6	0	
+0	0	0	E	3	0	3	0		0	2	12	0	
+1	0	0	#	3	4	0	0		4	3	5	0	
+1	0	0	#	3	5	3	0		4	4	5	0	
+0	1	15	R	3	5	3	1	RUG	2	5	5	0	
+0	0	0	U	3	5	3	0		1	6	3	0	
+0	0	0	G	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	5	0	
+1	0	0	#	3	10	3	0		4	9	5	0	
+0	1	16	E	3	10	3	1	EEC	1	10	12	0	
+0	0	0	E	3	10	3	0		1	11	4	0	
+0	0	0	C	3	10	3	0		1	12	3	0	
+0	1	17	D	4	0	6	1	DRYICE	2	0	3	0	
+0	0	0	R	4	0	6	0		1	1	6	0	
+0	0	0	Y	4	0	6	0		0	2	12	0	
+0	1	18	I	4	0	6	0		4	3	5	1	INTER
+0	1	19	C	4	0	6	0		4	4	5	1	CESTA
+0	0	0	E	4	0	6	0		2	5	5	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	4	0		5	7	0	0	
+0	1	20	M	4	8	4	1	MAVS	4	8	5	1	MALPH
+0	1	21	A	4	8	4	0		4	9	5	1	ALIAR
+0	0	0	V	4	8	4	0		1	10	12	0	
+0	0	0	S	4	8	4	0		1	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	22	I	5	1	6	1	IONESO	1	1	6	0	
+0	0	0	O	5	1	6	0		0	2	12	0	
+0	0	0	N	5	1	6	0		4	3	5	0	
+0	0	0	E	5	1	6	0		4	4	5	0	
+0	0	0	S	5	1	6	0		2	5	5	0	
+0	1	23	O	5	1	6	0		5	6	3	1	OHM
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	24	A	5	8	3	1	ALE	4	8	5	0	
+0	0	0	L	5	8	3	0		4	9	5	0	
+0	0	0	E	5	8	3	0		1	10	12	0	
+1	0	0	#	5	12	0	0		6	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	11	0		7	0	0	0	
+0	1	25	C	6	1	11	1	CUTSTHELINE	1	1	6	0	
+0	0	0	U	6	1	11	0		0	2	12	0	
+0	0	0	T	6	1	11	0		4	3	5	0	
+0	0	0	S	6	1	11	0		4	4	5	0	
+0	0	0	T	6	1	11	0		2	5	5	0	
+0	0	0	H	6	1	11	0		5	6	3	0	
+0	1	26	E	6	1	11	0		6	7	5	1	ESTOP
+0	0	0	L	6	1	11	0		4	8	5	0	
+0	0	0	I	6	1	11	0		4	9	5	0	
+0	0	0	N	6	1	11	0		1	10	12	0	
+0	1	27	E	6	1	11	0		6	11	6	1	EELIER
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	4	0	
+0	1	28	R	7	2	3	1	RET	0	2	12	0	
+0	0	0	E	7	2	3	0		4	3	5	0	
+0	0	0	T	7	2	3	0		4	4	5	0	
+1	0	0	#	7	6	6	0		8	5	0	0	
+0	1	29	M	7	6	6	1	MSPACE	5	6	3	0	
+0	0	0	S	7	6	6	0		6	7	5	0	
+0	0	0	P	7	6	6	0		4	8	5	0	
+0	0	0	A	7	6	6	0		4	9	5	0	
+0	0	0	C	7	6	6	0		1	10	12	0	
+0	0	0	E	7	6	6	0		6	11	6	0	
+1	0	0	#	7	13	0	0		8	12	3	0	
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	30	A	8	1	4	1	ATRA	8	1	4	1	ABRA
+0	0	0	T	8	1	4	0		0	2	12	0	
+0	0	0	R	8	1	4	0		4	3	5	0	
+0	0	0	A	8	1	4	0		4	4	5	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	6	0		9	6	3	0	
+0	1	31	T	8	7	6	1	THRALL	6	7	5	0	
+0	0	0	H	8	7	6	0		4	8	5	0	
+0	0	0	R	8	7	6	0		4	9	5	0	
+0	0	0	A	8	7	6	0		1	10	12	0	
+0	0	0	L	8	7	6	0		6	11	6	0	
+0	1	32	L	8	7	6	0		8	12	3	1	LER
+0	1	33	I	9	0	3	1	IBA	9	0	3	1	ICH
+0	0	0	B	9	0	3	0		8	1	4	0	
+0	0	0	A	9	0	3	0		0	2	12	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	34	R	9	5	3	1	RAO	9	5	4	1	REOS
+0	1	35	A	9	5	3	0		9	6	3	1	ATN
+0	0	0	O	9	5	3	0		6	7	5	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	36	N	9	10	3	1	NIE	1	10	12	0	
+0	0	0	I	9	10	3	0		6	11	6	0	
+0	0	0	E	9	10	3	0		8	12	3	0	
+0	1	37	C	10	0	13	1	CRICKETPLAYER	9	0	3	0	
+0	0	0	R	10	0	13	0		8	1	4	0	
+0	0	0	I	10	0	13	0		0	2	12	0	
+0	1	38	C	10	0	13	0		10	3	3	1	CCC
+0	1	39	K	10	0	13	0		10	4	3	1	KYD
+0	0	0	E	10	0	13	0		9	5	4	0	
+0	0	0	T	10	0	13	0		9	6	3	0	
+0	0	0	P	10	0	13	0		6	7	5	0	
+0	1	40	L	10	0	13	0		10	8	3	1	LBJ
+0	1	41	A	10	0	13	0		10	9	3	1	ATA
+0	0	0	Y	10	0	13	0		1	10	12	0	
+0	0	0	E	10	0	13	0		6	11	6	0	
+0	0	0	R	10	0	13	0		8	12	3	0	
+0	1	42	H	11	0	7	1	HALCYON	9	0	3	0	
+0	0	0	A	11	0	7	0		8	1	4	0	
+0	0	0	L	11	0	7	0		0	2	12	0	
+0	0	0	C	11	0	7	0		10	3	3	0	
+0	0	0	Y	11	0	7	0		10	4	3	0	
+0	0	0	O	11	0	7	0		9	5	4	0	
+0	0	0	N	11	0	7	0		9	6	3	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	43	B	11	8	4	1	BTOR	10	8	3	0	
+0	0	0	T	11	8	4	0		10	9	3	0	
+0	0	0	O	11	8	4	0		1	10	12	0	
+0	0	0	R	11	8	4	0		6	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	44	C	12	3	3	1	CDS	10	3	3	0	
+0	0	0	D	12	3	3	0		10	4	3	0	
+0	0	0	S	12	3	3	0		9	5	4	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	45	J	12	8	3	1	JAN	10	8	3	0	
+0	0	0	A	12	8	3	0		10	9	3	0	
+0	0	0	N	12	8	3	0		1	10	12	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	MCM	Year of the first Davis Cup matches
+4	YUM	Dessert reaction
+7	NOGO	Scrubbed mission
+8	GETSSET	Gears up
+12	DIVIDINGINTWO	Halving
+14	ETE	Summer in Montr
+15	RUG	Floor piece?
+16	EEC	Trade grp. formed in the late 1950's
+17	DRYICE	Picnic cooler
+20	MAVS	Dallas team, informally
+22	IONESO	"Rhinoceros" playwright
+24	ALE	It may come in cases
+25	CUTSTHELINE	Releases, as a fish
+28	RET	Part of some mil. titles
+29	MSPACE	Popular social networking site, and this puzzle's theme
+30	ATRA	Pioneering razor with a pivoting head
+31	THRALL	Slave
+33	IBA	Hall-of-Fame basketball coach Hank
+34	RAO	Raja ___, "The Serpent and the Rope" novelist
+36	NIE	German rejection
+37	CRICKETPLAYER	"Batsman at a wicket, say"
+42	HALCYON	___ days (happy time in the past)
+43	BTOR	Part of an Asian capital's name
+44	CDS	Sound investments, for short
+45	JAN	Feb. preceder
+29
+1	MOVEYOURTAIL	"Hurry up!" to a person assigning spies?
+2	CGI	Technology for "Avatar," e.g.: Abbr.
+3	MOD	Hip 1960s teen
+4	YEGG	Burglar
+5	UTI	___ possidetis (as you possess, at law)
+6	MSN	___ Explorer (Web browser)
+7	NITRIC	___ acid
+8	GNU	Bearded antelope
+9	STEVENCANYON	Funnies flier
+10	EWES	Baa-maids?
+11	TOC	List in a book's front: Abbr.
+12	DED	Lavished love (on)
+13	IREST	"___ my case"
+18	INTER	Encrypt?
+19	CESTA	Jai alai equipment
+20	MALPH	"Happy Days" character
+21	ALIAR	"Are you calling me ___?"
+23	OHM	Man with a law
+26	ESTOP	Prevent legally
+27	EELIER	More squirmy
+30	ABRA	Magician's opening
+32	LER	Celtic Poseidon
+33	ICH	First person in Frankfurt?
+34	REOS	20's-30's cars
+35	ATN	When some stores open
+38	CCC	New Deal inits.
+39	KYD	"The Spanish Tragedy" dramatist
+40	LBJ	___ Ranch (former Western White House)
+41	ATA	___ turning point

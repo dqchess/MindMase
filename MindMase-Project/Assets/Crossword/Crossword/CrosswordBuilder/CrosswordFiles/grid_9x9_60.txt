@@ -1,0 +1,115 @@
+grid_9x9_60
+9
+0	1	1	J	0	0	3	1	JTQ	0	0	3	1	JDS
+0	1	2	T	0	0	3	0		0	1	3	1	TAI
+0	1	3	Q	0	0	3	0		0	2	9	1	QUEENBEES
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	F	0	5	3	1	FLA	0	5	3	1	FEB
+0	1	5	L	0	5	3	0		0	6	9	1	LEEREMICK
+0	1	6	A	0	5	3	0		0	7	5	1	ADAIR
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	D	1	0	3	1	DAU	0	0	3	0	
+0	0	0	A	1	0	3	0		0	1	3	0	
+0	0	0	U	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	H	1	4	5	1	HEEDS	1	4	7	1	HASASAY
+0	0	0	E	1	4	5	0		0	5	3	0	
+0	0	0	E	1	4	5	0		0	6	9	0	
+0	0	0	D	1	4	5	0		0	7	5	0	
+0	1	9	S	1	4	5	0		1	8	3	1	SNE
+0	1	10	S	2	0	9	1	SIEVABEAN	0	0	3	0	
+0	0	0	I	2	0	9	0		0	1	3	0	
+0	0	0	E	2	0	9	0		0	2	9	0	
+0	1	11	V	2	0	9	0		2	3	3	1	VFW
+0	0	0	A	2	0	9	0		1	4	7	0	
+0	0	0	B	2	0	9	0		0	5	3	0	
+0	0	0	E	2	0	9	0		0	6	9	0	
+0	0	0	A	2	0	9	0		0	7	5	0	
+0	0	0	N	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	E	3	2	3	1	EFS	0	2	9	0	
+0	0	0	F	3	2	3	0		2	3	3	0	
+0	0	0	S	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	R	3	6	3	1	RIE	0	6	9	0	
+0	0	0	I	3	6	3	0		0	7	5	0	
+0	0	0	E	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	O	4	1	7	1	ONWATER	4	1	5	1	OPCIT
+0	0	0	N	4	1	7	0		0	2	9	0	
+0	0	0	W	4	1	7	0		2	3	3	0	
+0	0	0	A	4	1	7	0		1	4	7	0	
+0	1	15	T	4	1	7	0		4	5	3	1	TER
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	R	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	A	5	0	3	1	APB	5	0	3	1	ASL
+0	0	0	P	5	0	3	0		4	1	5	0	
+0	0	0	B	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	S	5	4	3	1	SEM	1	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	M	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	S	6	0	9	1	SCENARIST	5	0	3	0	
+0	0	0	C	6	0	9	0		4	1	5	0	
+0	0	0	E	6	0	9	0		0	2	9	0	
+0	1	19	N	6	0	9	0		6	3	3	1	NBA
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	0	0	R	6	0	9	0		4	5	3	0	
+0	0	0	I	6	0	9	0		0	6	9	0	
+0	1	20	S	6	0	9	0		6	7	3	1	SPA
+0	1	21	T	6	0	9	0		6	8	3	1	TSY
+0	1	22	L	7	0	5	1	LIEBY	5	0	3	0	
+0	0	0	I	7	0	5	0		4	1	5	0	
+0	0	0	E	7	0	5	0		0	2	9	0	
+0	0	0	B	7	0	5	0		6	3	3	0	
+0	0	0	Y	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	C	7	6	3	1	CPS	0	6	9	0	
+0	0	0	P	7	6	3	0		6	7	3	0	
+0	0	0	S	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	T	8	1	3	1	TSA	4	1	5	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	A	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	K	8	6	3	1	KAY	0	6	9	0	
+0	0	0	A	8	6	3	0		6	7	3	0	
+0	0	0	Y	8	6	3	0		6	8	3	0	
+15
+1	JTQ	Hoops stat: Abbr.
+4	FLA	Marco Isl.'s locale
+7	DAU	Family tree abbr.
+8	HEEDS	Listens to
+10	SIEVABEAN	"Buttery" legume
+12	EFS	Flunking letters
+13	RIE	Beginner
+14	ONWATER	How miracle workers walk
+16	APB	Broadcast in a manhunt, in brief
+17	SEM	Part of a school year: Abbr.
+18	SCENARIST	Film planner
+22	LIEBY	Pause for a rest
+23	CPS	Poker supplies
+24	TSA	Grp. doing pat-downs
+25	KAY	Mary ___ of cosmetics
+15
+1	JDS	Law firm hirees, for short
+2	TAI	___ chi ch'uan
+3	QUEENBEES	Leaders of hives
+4	FEB	Winter time: Abbr.
+5	LEEREMICK	Jack Lemmon's "Days of Wine and Roses" co-star
+6	ADAIR	Oil-fire fighter
+8	HASASAY	Is part of the decision-making process
+9	SNE	1983 Indy winner Tom
+11	VFW	Ex-G.I.'s grp.
+14	OPCIT	Bibliography abbr.
+15	TER	Three times: Prefix
+16	ASL	Communication means for the deaf: Abbr.
+19	NBA	Magic grp.
+20	SPA	Upscale hotel offering
+21	TSY	Stowe girl

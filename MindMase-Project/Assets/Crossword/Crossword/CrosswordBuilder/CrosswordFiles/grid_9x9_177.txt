@@ -1,0 +1,115 @@
+grid_9x9_177
+9
+0	1	1	R	0	0	3	1	RWR	0	0	3	1	REL
+0	1	2	W	0	0	3	0		0	1	3	1	WTO
+0	1	3	R	0	0	3	0		0	2	3	1	ROO
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	Z	0	6	3	1	ZOO	0	6	5	1	ZELDA
+0	1	5	O	0	6	3	0		0	7	5	1	ODIST
+0	1	6	O	0	6	3	0		0	8	3	1	OEN
+0	1	7	E	1	0	5	1	ETONS	0	0	3	0	
+0	0	0	T	1	0	5	0		0	1	3	0	
+0	0	0	O	1	0	5	0		0	2	3	0	
+0	1	8	N	1	0	5	0		1	3	5	1	NPEPA
+0	1	9	S	1	0	5	0		1	4	7	1	SSHAPED
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	E	1	6	3	1	EDE	0	6	5	0	
+0	0	0	D	1	6	3	0		0	7	5	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	11	L	2	0	5	1	LOOPS	0	0	3	0	
+0	0	0	O	2	0	5	0		0	1	3	0	
+0	0	0	O	2	0	5	0		0	2	3	0	
+0	0	0	P	2	0	5	0		1	3	5	0	
+0	0	0	S	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	L	2	6	3	1	LIN	0	6	5	0	
+0	0	0	I	2	6	3	0		0	7	5	0	
+0	0	0	N	2	6	3	0		0	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	5	0		4	2	5	0	
+0	1	13	E	3	3	5	1	EHUDS	1	3	5	0	
+0	0	0	H	3	3	5	0		1	4	7	0	
+0	1	14	U	3	3	5	0		3	5	5	1	URALS
+0	0	0	D	3	3	5	0		0	6	5	0	
+0	0	0	S	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	15	A	4	1	7	1	APPARAT	4	1	5	1	ASAIR
+0	1	16	P	4	1	7	0		4	2	5	1	PCLAB
+0	0	0	P	4	1	7	0		1	3	5	0	
+0	0	0	A	4	1	7	0		1	4	7	0	
+0	0	0	R	4	1	7	0		3	5	5	0	
+0	0	0	A	4	1	7	0		0	6	5	0	
+0	0	0	T	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	17	S	5	1	5	1	SCAPA	4	1	5	0	
+0	0	0	C	5	1	5	0		4	2	5	0	
+0	0	0	A	5	1	5	0		1	3	5	0	
+0	0	0	P	5	1	5	0		1	4	7	0	
+0	0	0	A	5	1	5	0		3	5	5	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	M	6	0	3	1	MAL	6	0	3	1	MRE
+0	0	0	A	6	0	3	0		4	1	5	0	
+0	0	0	L	6	0	3	0		4	2	5	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	19	E	6	4	5	1	ELLIS	1	4	7	0	
+0	0	0	L	6	4	5	0		3	5	5	0	
+0	1	20	L	6	4	5	0		6	6	3	1	LOG
+0	1	21	I	6	4	5	0		6	7	3	1	IUM
+0	1	22	S	6	4	5	0		6	8	3	1	SPA
+0	1	23	R	7	0	3	1	RIA	6	0	3	0	
+0	0	0	I	7	0	3	0		4	1	5	0	
+0	0	0	A	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	D	7	4	5	1	DSOUP	1	4	7	0	
+0	0	0	S	7	4	5	0		3	5	5	0	
+0	0	0	O	7	4	5	0		6	6	3	0	
+0	0	0	U	7	4	5	0		6	7	3	0	
+0	0	0	P	7	4	5	0		6	8	3	0	
+0	1	25	E	8	0	3	1	ERB	6	0	3	0	
+0	0	0	R	8	0	3	0		4	1	5	0	
+0	0	0	B	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	G	8	6	3	1	GMA	6	6	3	0	
+0	0	0	M	8	6	3	0		6	7	3	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+15
+1	RWR	Presidential inits.
+4	ZOO	Place for a vet
+7	ETONS	Short jackets
+10	EDE	Dutch city NW of Arnhem
+11	LOOPS	Tops of ankhs
+12	LIN	Architect Maya ___
+13	EHUDS	Israel's Barak and Olmert
+15	APPARAT	Party promoter
+17	SCAPA	___ Flow (British naval base site)
+18	MAL	___ de t
+19	ELLIS	Best-selling author Bret Easton ___
+23	RIA	Cove
+24	DSOUP	Classic Marx Brothers flick
+25	ERB	Tarzan creator's monogram
+26	GMA	"Today" rival, for short
+15
+1	REL	Sunday subj.?
+2	WTO	GATT successor
+3	ROO	Outback hopper
+4	ZELDA	Mrs. F. Scott Fitzgerald
+5	ODIST	Certain foot specialist
+6	OEN	Vintner's prefix
+8	NPEPA	Salt-___ (rap trio)
+9	SSHAPED	Like a pothook
+14	URALS	The Trans-Siberian Railroad crosses them
+15	ASAIR	Light ___
+16	PCLAB	Programming class locale, perhaps
+18	MRE	G.I. grub
+20	LOG	Account
+21	IUM	Elemental ending
+22	SPA	Place to sweat

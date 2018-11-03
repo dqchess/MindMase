@@ -1,0 +1,169 @@
+grid_11x11_3
+11
+1	0	0	#	0	1	0	0		1	0	5	0	
+1	0	0	#	0	2	5	0		1	1	5	0	
+0	1	1	S	0	2	5	1	SAHEL	0	2	11	1	STEPFATHERS
+0	1	2	A	0	2	5	0		0	3	4	1	AHAS
+0	1	3	H	0	2	5	0		0	4	3	1	HEC
+0	1	4	E	0	2	5	0		0	5	3	1	ERO
+0	1	5	L	0	2	5	0		0	6	3	1	LED
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	6	H	0	8	3	1	HAG	0	8	11	1	HAMOPERATOR
+0	1	7	A	0	8	3	0		0	9	4	1	AGAL
+0	1	8	G	0	8	3	0		0	10	3	1	GNP
+0	1	9	N	1	0	7	1	NOTHERE	1	0	5	1	NAURU
+0	1	10	O	1	0	7	0		1	1	5	1	ORMAN
+0	0	0	T	1	0	7	0		0	2	11	0	
+0	0	0	H	1	0	7	0		0	3	4	0	
+0	0	0	E	1	0	7	0		0	4	3	0	
+0	0	0	R	1	0	7	0		0	5	3	0	
+0	0	0	E	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	11	A	1	8	3	1	AGN	0	8	11	0	
+0	0	0	G	1	8	3	0		0	9	4	0	
+0	0	0	N	1	8	3	0		0	10	3	0	
+0	1	12	A	2	0	11	1	AREACODEMAP	1	0	5	0	
+0	0	0	R	2	0	11	0		1	1	5	0	
+0	0	0	E	2	0	11	0		0	2	11	0	
+0	0	0	A	2	0	11	0		0	3	4	0	
+0	0	0	C	2	0	11	0		0	4	3	0	
+0	0	0	O	2	0	11	0		0	5	3	0	
+0	0	0	D	2	0	11	0		0	6	3	0	
+0	1	13	E	2	0	11	0		2	7	3	1	ESD
+0	0	0	M	2	0	11	0		0	8	11	0	
+0	0	0	A	2	0	11	0		0	9	4	0	
+0	0	0	P	2	0	11	0		0	10	3	0	
+0	1	14	U	3	0	4	1	UMPS	1	0	5	0	
+0	0	0	M	3	0	4	0		1	1	5	0	
+0	0	0	P	3	0	4	0		0	2	11	0	
+0	0	0	S	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	3	0	
+0	1	15	S	3	7	3	1	SOL	2	7	3	0	
+0	0	0	O	3	7	3	0		0	8	11	0	
+0	0	0	L	3	7	3	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	R	4	0	3	1	RAF	1	0	5	0	
+0	0	0	A	4	0	3	0		1	1	5	0	
+0	0	0	F	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	5	0		5	3	0	0	
+0	1	17	S	4	4	5	1	SANDP	4	4	3	1	SOA
+0	1	18	A	4	4	5	0		4	5	3	1	ARM
+0	1	19	N	4	4	5	0		4	6	3	1	NYS
+0	0	0	D	4	4	5	0		2	7	3	0	
+0	0	0	P	4	4	5	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	5	0	
+0	1	20	U	5	0	3	1	UNA	1	0	5	0	
+0	0	0	N	5	0	3	0		1	1	5	0	
+0	0	0	A	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	21	O	5	4	3	1	ORY	4	4	3	0	
+0	0	0	R	5	4	3	0		4	5	3	0	
+0	0	0	Y	5	4	3	0		4	6	3	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	22	E	5	8	3	1	ETA	0	8	11	0	
+0	1	23	T	5	8	3	0		5	9	5	1	TOTEN
+0	1	24	A	5	8	3	0		5	10	5	1	AMESS
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	5	0		7	1	4	0	
+0	1	25	T	6	2	5	1	TEAMS	0	2	11	0	
+0	1	26	E	6	2	5	0		6	3	3	1	EOE
+0	0	0	A	6	2	5	0		4	4	3	0	
+0	0	0	M	6	2	5	0		4	5	3	0	
+0	0	0	S	6	2	5	0		4	6	3	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	27	R	6	8	3	1	ROM	0	8	11	0	
+0	0	0	O	6	8	3	0		5	9	5	0	
+0	0	0	M	6	8	3	0		5	10	5	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	28	W	7	1	3	1	WHO	7	1	4	1	WHAM
+0	0	0	H	7	1	3	0		0	2	11	0	
+0	0	0	O	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	29	S	7	7	4	1	SATE	7	7	4	1	SASE
+0	0	0	A	7	7	4	0		0	8	11	0	
+0	0	0	T	7	7	4	0		5	9	5	0	
+0	0	0	E	7	7	4	0		5	10	5	0	
+0	1	30	S	8	0	11	1	SHEEPSKATES	8	0	3	1	SUI
+0	0	0	H	8	0	11	0		7	1	4	0	
+0	0	0	E	8	0	11	0		0	2	11	0	
+0	0	0	E	8	0	11	0		6	3	3	0	
+0	1	31	P	8	0	11	0		8	4	3	1	PUB
+0	1	32	S	8	0	11	0		8	5	3	1	SNO
+0	1	33	K	8	0	11	0		8	6	3	1	KIR
+0	0	0	A	8	0	11	0		7	7	4	0	
+0	0	0	T	8	0	11	0		0	8	11	0	
+0	0	0	E	8	0	11	0		5	9	5	0	
+0	0	0	S	8	0	11	0		5	10	5	0	
+0	1	34	U	9	0	3	1	UAR	8	0	3	0	
+0	0	0	A	9	0	3	0		7	1	4	0	
+0	0	0	R	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	35	U	9	4	7	1	UNISONS	8	4	3	0	
+0	0	0	N	9	4	7	0		8	5	3	0	
+0	0	0	I	9	4	7	0		8	6	3	0	
+0	0	0	S	9	4	7	0		7	7	4	0	
+0	0	0	O	9	4	7	0		0	8	11	0	
+0	0	0	N	9	4	7	0		5	9	5	0	
+0	0	0	S	9	4	7	0		5	10	5	0	
+0	1	36	I	10	0	3	1	IMS	8	0	3	0	
+0	0	0	M	10	0	3	0		7	1	4	0	
+0	0	0	S	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	5	0		11	3	0	0	
+0	1	37	B	10	4	5	1	BORER	8	4	3	0	
+0	0	0	O	10	4	5	0		8	5	3	0	
+0	0	0	R	10	4	5	0		8	6	3	0	
+0	0	0	E	10	4	5	0		7	7	4	0	
+0	0	0	R	10	4	5	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	SAHEL	Savanna region stretching from Senegal to Chad
+6	HAG	She-demon
+9	NOTHERE	"Let's go elsewhere"
+11	AGN	Once more: Abbr.
+12	AREACODEMAP	Verizon reference
+14	UMPS	Quartet on a baseball field
+15	SOL	Note
+16	RAF	Churchill's "so few": Abbr.
+17	SANDP	___ 500
+20	UNA	___ corda (musical direction)
+21	ORY	"Le Comte ___" (Rossini opera)
+22	ETA	Pilot's projection: Abbr.
+25	TEAMS	The yoke's on them
+27	ROM	Provision of some chips
+28	WHO	A question of identity
+29	SATE	Overfill
+30	SHEEPSKATES	Hockey gear for rams and ewes?
+34	UAR	Old Mideast union: Abbr.
+35	UNISONS	Concerts
+36	IMS	Real-time e-notes
+37	BORER	Auger or drill
+23
+1	STEPFATHERS	Ones joining the family
+2	AHAS	Code crackers' comments
+3	HEC	"___ Ramsey," 1970's TV western
+4	ERO	Ranch closing?
+5	LED	Part of some watches, for short
+6	HAMOPERATOR	One playing on a band?
+7	AGAL	"I've Got ___ in Kalamazoo"
+8	GNP	Econ. concern
+9	NAURU	Pacific nation since 1968
+10	ORMAN	Financial adviser Suze
+13	ESD	Either of two books of the Apocrypha: Abbr.
+17	SOA	"___ man walks into a bar ..."
+18	ARM	Shirt part
+19	NYS	Clinton was its first gov.
+23	TOTEN	On a scale of one ___
+24	AMESS	Make ___ of (botch)
+26	EOE	Job ad letters
+28	WHAM	Pow!
+29	SASE	MS. enclosure
+30	SUI	Word before juris or generis
+31	PUB	Place to have a pint
+32	SNO	___ Balls (Hostess snack food)
+33	KIR	Popular ap

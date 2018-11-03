@@ -1,0 +1,305 @@
+grid_15x15_21
+15
+0	1	1	S	0	0	3	1	SAN	0	0	3	1	SOL
+0	1	2	A	0	0	3	0		0	1	8	1	AMERICAN
+0	1	3	N	0	0	3	0		0	2	15	1	NAACPIMAGEAWARD
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	U	0	4	3	1	URN	0	4	3	1	UTE
+0	1	5	R	0	4	3	0		0	5	4	1	ROSA
+0	1	6	N	0	4	3	0		0	6	4	1	NYAD
+1	0	0	#	0	8	0	0		1	7	13	0	
+1	0	0	#	0	9	6	0		1	8	0	0	
+0	1	7	T	0	9	6	1	THERES	0	9	3	1	TSO
+0	1	8	H	0	9	6	0		0	10	3	1	HAP
+0	1	9	E	0	9	6	0		0	11	7	1	ECHOING
+0	1	10	R	0	9	6	0		0	12	15	1	RHODEISLANDREDS
+0	1	11	E	0	9	6	0		0	13	6	1	EELERS
+0	1	12	S	0	9	6	0		0	14	3	1	STE
+0	1	13	O	1	0	3	1	OMA	0	0	3	0	
+0	0	0	M	1	0	3	0		0	1	8	0	
+0	0	0	A	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	4	0		2	3	4	0	
+0	1	14	T	1	4	4	1	TOYB	0	4	3	0	
+0	0	0	O	1	4	4	0		0	5	4	0	
+0	0	0	Y	1	4	4	0		0	6	4	0	
+0	1	15	B	1	4	4	0		1	7	13	1	BLUESTATEBIRD
+1	0	0	#	1	9	6	0		2	8	4	0	
+0	1	16	S	1	9	6	1	SACHET	0	9	3	0	
+0	0	0	A	1	9	6	0		0	10	3	0	
+0	0	0	C	1	9	6	0		0	11	7	0	
+0	0	0	H	1	9	6	0		0	12	15	0	
+0	0	0	E	1	9	6	0		0	13	6	0	
+0	0	0	T	1	9	6	0		0	14	3	0	
+0	1	17	L	2	0	15	1	LEAVESALOOPHOLE	0	0	3	0	
+0	0	0	E	2	0	15	0		0	1	8	0	
+0	0	0	A	2	0	15	0		0	2	15	0	
+0	1	18	V	2	0	15	0		2	3	4	1	VAST
+0	0	0	E	2	0	15	0		0	4	3	0	
+0	0	0	S	2	0	15	0		0	5	4	0	
+0	0	0	A	2	0	15	0		0	6	4	0	
+0	0	0	L	2	0	15	0		1	7	13	0	
+0	1	19	O	2	0	15	0		2	8	4	1	OEYE
+0	0	0	O	2	0	15	0		0	9	3	0	
+0	0	0	P	2	0	15	0		0	10	3	0	
+0	0	0	H	2	0	15	0		0	11	7	0	
+0	0	0	O	2	0	15	0		0	12	15	0	
+0	0	0	L	2	0	15	0		0	13	6	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	20	R	3	1	3	1	RCA	0	1	8	0	
+0	0	0	C	3	1	3	0		0	2	15	0	
+0	0	0	A	3	1	3	0		2	3	4	0	
+1	0	0	#	3	5	4	0		4	4	0	0	
+0	1	21	A	3	5	4	1	ADUE	0	5	4	0	
+0	0	0	D	3	5	4	0		0	6	4	0	
+0	0	0	U	3	5	4	0		1	7	13	0	
+0	0	0	E	3	5	4	0		2	8	4	0	
+1	0	0	#	3	10	0	0		4	9	5	0	
+1	0	0	#	3	11	3	0		4	10	0	0	
+0	1	22	O	3	11	3	1	ODE	0	11	7	0	
+0	0	0	D	3	11	3	0		0	12	15	0	
+0	0	0	E	3	11	3	0		0	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	23	I	4	1	3	1	IPS	0	1	8	0	
+0	0	0	P	4	1	3	0		0	2	15	0	
+0	0	0	S	4	1	3	0		2	3	4	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	24	E	4	7	3	1	EYE	1	7	13	0	
+0	0	0	Y	4	7	3	0		2	8	4	0	
+0	1	25	E	4	7	3	0		4	9	5	1	EASER
+1	0	0	#	4	11	3	0		5	10	0	0	
+0	1	26	I	4	11	3	1	IER	0	11	7	0	
+0	0	0	E	4	11	3	0		0	12	15	0	
+0	0	0	R	4	11	3	0		0	13	6	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	27	A	5	0	5	1	ACITY	5	0	3	1	ANE
+0	0	0	C	5	0	5	0		0	1	8	0	
+0	0	0	I	5	0	5	0		0	2	15	0	
+0	0	0	T	5	0	5	0		2	3	4	0	
+0	1	28	Y	5	0	5	0		5	4	4	1	YLEM
+1	0	0	#	5	6	4	0		6	5	5	0	
+0	1	29	A	5	6	4	1	ASEA	5	6	3	1	ASC
+0	0	0	S	5	6	4	0		1	7	13	0	
+0	0	0	E	5	6	4	0		2	8	4	0	
+0	0	0	A	5	6	4	0		4	9	5	0	
+1	0	0	#	5	11	3	0		6	10	4	0	
+0	1	30	N	5	11	3	1	NIS	0	11	7	0	
+0	0	0	I	5	11	3	0		0	12	15	0	
+0	0	0	S	5	11	3	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	N	6	0	3	1	NAM	5	0	3	0	
+0	0	0	A	6	0	3	0		0	1	8	0	
+0	0	0	M	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	4	0		7	3	0	0	
+0	1	32	L	6	4	4	1	LOST	5	4	4	0	
+0	1	33	O	6	4	4	0		6	5	5	1	ONEAL
+0	0	0	S	6	4	4	0		5	6	3	0	
+0	0	0	T	6	4	4	0		1	7	13	0	
+1	0	0	#	6	9	4	0		7	8	3	0	
+0	1	34	S	6	9	4	1	SOGS	4	9	5	0	
+0	1	35	O	6	9	4	0		6	10	4	1	OSET
+0	0	0	G	6	9	4	0		0	11	7	0	
+0	0	0	S	6	9	4	0		0	12	15	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	36	E	7	0	3	1	ENA	5	0	3	0	
+0	0	0	N	7	0	3	0		0	1	8	0	
+0	0	0	A	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	7	0	
+0	1	37	E	7	4	7	1	ENCASES	5	4	4	0	
+0	0	0	N	7	4	7	0		6	5	5	0	
+0	0	0	C	7	4	7	0		5	6	3	0	
+0	0	0	A	7	4	7	0		1	7	13	0	
+0	1	38	S	7	4	7	0		7	8	3	1	SIC
+0	0	0	E	7	4	7	0		4	9	5	0	
+0	0	0	S	7	4	7	0		6	10	4	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	39	L	7	12	3	1	LAU	0	12	15	0	
+0	1	40	A	7	12	3	0		7	13	8	1	ASTAIRES
+0	1	41	U	7	12	3	0		7	14	3	1	USO
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	4	0		9	1	6	0	
+0	1	42	G	8	2	4	1	GAME	0	2	15	0	
+0	1	43	A	8	2	4	0		8	3	7	1	ANNETTE
+0	0	0	M	8	2	4	0		5	4	4	0	
+0	0	0	E	8	2	4	0		6	5	5	0	
+1	0	0	#	8	7	4	0		9	6	4	0	
+0	1	44	T	8	7	4	1	TIRE	1	7	13	0	
+0	0	0	I	8	7	4	0		7	8	3	0	
+0	0	0	R	8	7	4	0		4	9	5	0	
+0	0	0	E	8	7	4	0		6	10	4	0	
+1	0	0	#	8	12	3	0		9	11	4	0	
+0	1	45	A	8	12	3	1	ASS	0	12	15	0	
+0	0	0	S	8	12	3	0		7	13	8	0	
+0	0	0	S	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	46	R	9	1	3	1	REN	9	1	6	1	RESHOE
+0	0	0	E	9	1	3	0		0	2	15	0	
+0	0	0	N	9	1	3	0		8	3	7	0	
+1	0	0	#	9	5	4	0		10	4	0	0	
+0	1	47	A	9	5	4	1	ASEC	6	5	5	0	
+0	1	48	S	9	5	4	0		9	6	4	1	SIMP
+0	0	0	E	9	5	4	0		1	7	13	0	
+0	0	0	C	9	5	4	0		7	8	3	0	
+1	0	0	#	9	10	5	0		10	9	0	0	
+0	1	49	T	9	10	5	1	TONTO	6	10	4	0	
+0	1	50	O	9	10	5	0		9	11	4	1	OPEN
+0	0	0	N	9	10	5	0		0	12	15	0	
+0	0	0	T	9	10	5	0		7	13	8	0	
+0	0	0	O	9	10	5	0		7	14	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	51	E	10	1	3	1	EAN	9	1	6	0	
+0	0	0	A	10	1	3	0		0	2	15	0	
+0	0	0	N	10	1	3	0		8	3	7	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	52	L	10	5	3	1	LIB	6	5	5	0	
+0	0	0	I	10	5	3	0		9	6	4	0	
+0	0	0	B	10	5	3	0		1	7	13	0	
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	0	0		11	9	4	0	
+1	0	0	#	10	11	3	0		11	10	0	0	
+0	1	53	P	10	11	3	1	PDA	9	11	4	0	
+0	0	0	D	10	11	3	0		0	12	15	0	
+0	0	0	A	10	11	3	0		7	13	8	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	54	S	11	1	3	1	SWE	9	1	6	0	
+0	0	0	W	11	1	3	0		0	2	15	0	
+0	0	0	E	11	1	3	0		8	3	7	0	
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	55	M	11	6	4	1	MIME	9	6	4	0	
+0	0	0	I	11	6	4	0		1	7	13	0	
+0	1	56	M	11	6	4	0		11	8	4	1	MIES
+0	1	57	E	11	6	4	0		11	9	4	1	ESTH
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	58	E	11	11	3	1	ERI	9	11	4	0	
+0	0	0	R	11	11	3	0		0	12	15	0	
+0	0	0	I	11	11	3	0		7	13	8	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	59	W	12	0	15	1	WHATDOPRISONERS	12	0	3	1	WWW
+0	0	0	H	12	0	15	0		9	1	6	0	
+0	0	0	A	12	0	15	0		0	2	15	0	
+0	0	0	T	12	0	15	0		8	3	7	0	
+0	1	60	D	12	0	15	0		12	4	3	1	DHL
+0	1	61	O	12	0	15	0		12	5	3	1	OSS
+0	0	0	P	12	0	15	0		9	6	4	0	
+0	0	0	R	12	0	15	0		1	7	13	0	
+0	0	0	I	12	0	15	0		11	8	4	0	
+0	0	0	S	12	0	15	0		11	9	4	0	
+0	1	62	O	12	0	15	0		12	10	3	1	OSU
+0	0	0	N	12	0	15	0		9	11	4	0	
+0	0	0	E	12	0	15	0		0	12	15	0	
+0	0	0	R	12	0	15	0		7	13	8	0	
+0	1	63	S	12	0	15	0		12	14	3	1	SES
+0	1	64	W	13	0	6	1	WORTHS	12	0	3	0	
+0	0	0	O	13	0	6	0		9	1	6	0	
+0	0	0	R	13	0	6	0		0	2	15	0	
+0	0	0	T	13	0	6	0		8	3	7	0	
+0	0	0	H	13	0	6	0		12	4	3	0	
+0	0	0	S	13	0	6	0		12	5	3	0	
+1	0	0	#	13	7	4	0		14	6	0	0	
+0	1	65	D	13	7	4	1	DETS	1	7	13	0	
+0	0	0	E	13	7	4	0		11	8	4	0	
+0	0	0	T	13	7	4	0		11	9	4	0	
+0	0	0	S	13	7	4	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	66	D	13	12	3	1	DEE	0	12	15	0	
+0	0	0	E	13	12	3	0		7	13	8	0	
+0	0	0	E	13	12	3	0		12	14	3	0	
+0	1	67	W	14	0	6	1	WEDELS	12	0	3	0	
+0	0	0	E	14	0	6	0		9	1	6	0	
+0	0	0	D	14	0	6	0		0	2	15	0	
+0	0	0	E	14	0	6	0		8	3	7	0	
+0	0	0	L	14	0	6	0		12	4	3	0	
+0	0	0	S	14	0	6	0		12	5	3	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	68	S	14	8	3	1	SHU	11	8	4	0	
+0	0	0	H	14	8	3	0		11	9	4	0	
+0	0	0	U	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	69	S	14	12	3	1	SSS	0	12	15	0	
+0	0	0	S	14	12	3	0		7	13	8	0	
+0	0	0	S	14	12	3	0		12	14	3	0	
+41
+1	SAN	Salvador lead-in
+4	URN	Agora purchase
+7	THERES	"___ a Moon Out Tonight" (1961 hit)
+13	OMA	Granny, in Gelsenkirchen
+14	TOYB	Place for playthings
+16	SACHET	Fragrant pouch
+17	LEAVESALOOPHOLE	Provides means of escape
+20	RCA	Electronics giant
+21	ADUE	In unison, in a way
+22	ODE	Verse on a vase
+23	IPS	Velocity meas.
+24	EYE	See
+26	IER	Back of front?
+27	ACITY	"___ on a hill cannot be hidden": Matt. 5:14
+29	ASEA	In the Black?
+30	NIS	Former Serbian capital
+31	NAM	Vet's old locale
+32	LOST	Deep in thought
+34	SOGS	Gets soaked
+36	ENA	Spanish queen until 1931
+37	ENCASES	Wraps
+39	LAU	Charlie of the 60's Orioles
+42	GAME	Go fish, e.g.
+44	TIRE	Poop
+45	ASS	The law, to Mr. Bumble
+46	REN	Stimpy's TV pal
+47	ASEC	Not long to wait
+49	TONTO	Stupid, in Sonora
+51	EAN	Suffix with Mozart
+52	LIB	Conservative's foe: Abbr.
+53	PDA	Handheld computer, briefly
+54	SWE	E.U. mem.
+55	MIME	Silent performer
+58	ERI	"___ tu" (aria for Renato)
+59	WHATDOPRISONERS	Start of a question
+64	WORTHS	Values
+65	DETS	Police staff: Abbr.
+66	DEE	Ruby or Sandra of film
+67	WEDELS	Skis with high-speed turns
+68	SHU	Moo ___ shrimp
+69	SSS	Sound at a fish fry
+35
+1	SOL	Light provider
+2	AMERICAN	Like some plans
+3	NAACPIMAGEAWARD	Annual entertainment honor
+4	UTE	Arapaho foe
+5	ROSA	Parks who pioneered in civil rights
+6	NYAD	Swimming great Diana
+7	TSO	General in Chinese restaurants
+8	HAP	Word after may-
+9	ECHOING	Parrotlike behavior
+10	RHODEISLANDREDS	Chickens that lay brown eggs
+11	EELERS	Specialized fishermen
+12	STE	Julie, e.g.: Abbr.
+15	BLUESTATEBIRD	"Democratic territory / Cardinal, e.g. / ""Over the Rainbow"" flier"
+18	VAST	Boundless
+19	OEYE	Cyclops' feature
+25	EASER	Reliever
+27	ANE	"Wheel of Fortune" request
+28	YLEM	Protomatter of the universe
+29	ASC	Camera operator's org.
+33	ONEAL	Hoopster/actor
+35	OSET	Kind of romance between actors
+38	SIC	Direction for a boxer
+40	ASTAIRES	Noted 1910's-20's Broadway duo
+41	USO	Grp. helping those on shore leave
+43	ANNETTE	Popular Mouseketeer
+46	RESHOE	Work on more, as a farrier might
+48	SIMP	Fool
+50	OPEN	Dentist's directive
+56	MIES	Architect Ludwig ___ van der Rohe
+57	ESTH	Baltic resident
+59	WWW	http:// follower
+60	DHL	FedEx competitor
+61	OSS	Bygone covert org.
+62	OSU	The Cowboys of the Big Twelve Conf.
+63	SES	Its: Fr.

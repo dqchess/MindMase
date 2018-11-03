@@ -1,0 +1,305 @@
+grid_15x15_76
+15
+0	1	1	D	0	0	3	1	DAO	0	0	4	1	DIMS
+0	1	2	A	0	0	3	0		0	1	6	1	ALEAST
+0	1	3	O	0	0	3	0		0	2	11	1	OILSTINTING
+1	0	0	#	0	4	0	0		1	3	7	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	T	0	5	3	1	TIM	0	5	6	1	TANYAS
+0	1	5	I	0	5	3	0		0	6	3	1	IVO
+0	1	6	M	0	5	3	0		0	7	4	1	MENU
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	4	0	
+0	1	7	S	0	12	3	1	SHH	0	12	3	1	SHU
+0	1	8	H	0	12	3	0		0	13	3	1	HOT
+0	1	9	H	0	12	3	0		0	14	3	1	HRH
+0	1	10	I	1	0	4	1	ILIO	0	0	4	0	
+0	0	0	L	1	0	4	0		0	1	6	0	
+0	0	0	I	1	0	4	0		0	2	11	0	
+0	1	11	O	1	0	4	0		1	3	7	1	OTHELLO
+1	0	0	#	1	5	4	0		2	4	3	0	
+0	1	12	A	1	5	4	1	AVES	0	5	6	0	
+0	0	0	V	1	5	4	0		0	6	3	0	
+0	0	0	E	1	5	4	0		0	7	4	0	
+0	1	13	S	1	5	4	0		1	8	3	1	SEP
+1	0	0	#	1	10	5	0		2	9	5	0	
+0	1	14	I	1	10	5	1	ICHOR	1	10	4	1	IMON
+0	1	15	C	1	10	5	0		1	11	4	1	COSI
+0	0	0	H	1	10	5	0		0	12	3	0	
+0	0	0	O	1	10	5	0		0	13	3	0	
+0	0	0	R	1	10	5	0		0	14	3	0	
+0	1	16	M	2	0	15	1	MELTINONESMOUTH	0	0	4	0	
+0	0	0	E	2	0	15	0		0	1	6	0	
+0	0	0	L	2	0	15	0		0	2	11	0	
+0	0	0	T	2	0	15	0		1	3	7	0	
+0	1	17	I	2	0	15	0		2	4	3	1	IAL
+0	0	0	N	2	0	15	0		0	5	6	0	
+0	0	0	O	2	0	15	0		0	6	3	0	
+0	0	0	N	2	0	15	0		0	7	4	0	
+0	0	0	E	2	0	15	0		1	8	3	0	
+0	1	18	S	2	0	15	0		2	9	5	1	SDAES
+0	0	0	M	2	0	15	0		1	10	4	0	
+0	0	0	O	2	0	15	0		1	11	4	0	
+0	0	0	U	2	0	15	0		0	12	3	0	
+0	0	0	T	2	0	15	0		0	13	3	0	
+0	0	0	H	2	0	15	0		0	14	3	0	
+0	1	19	S	3	0	6	1	SASHAY	0	0	4	0	
+0	0	0	A	3	0	6	0		0	1	6	0	
+0	0	0	S	3	0	6	0		0	2	11	0	
+0	0	0	H	3	0	6	0		1	3	7	0	
+0	0	0	A	3	0	6	0		2	4	3	0	
+0	0	0	Y	3	0	6	0		0	5	6	0	
+1	0	0	#	3	7	5	0		4	6	0	0	
+0	1	20	U	3	7	5	1	UPDOS	0	7	4	0	
+0	0	0	P	3	7	5	0		1	8	3	0	
+0	0	0	D	3	7	5	0		2	9	5	0	
+0	0	0	O	3	7	5	0		1	10	4	0	
+0	0	0	S	3	7	5	0		1	11	4	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	4	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	21	S	4	1	5	1	STELA	0	1	6	0	
+0	0	0	T	4	1	5	0		0	2	11	0	
+0	0	0	E	4	1	5	0		1	3	7	0	
+0	0	0	L	4	1	5	0		2	4	3	0	
+0	0	0	A	4	1	5	0		0	5	6	0	
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	6	0		5	8	5	0	
+0	1	22	A	4	9	6	1	ANIMAL	2	9	5	0	
+0	0	0	N	4	9	6	0		1	10	4	0	
+0	0	0	I	4	9	6	0		1	11	4	0	
+0	1	23	M	4	9	6	0		4	12	11	1	MISSISSIPPI
+0	1	24	A	4	9	6	0		4	13	4	1	ANDY
+0	1	25	L	4	9	6	0		4	14	3	1	LVI
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	26	T	5	1	3	1	TIL	0	1	6	0	
+0	0	0	I	5	1	3	0		0	2	11	0	
+0	0	0	L	5	1	3	0		1	3	7	0	
+1	0	0	#	5	5	5	0		6	4	3	0	
+0	1	27	S	5	5	5	1	SONNE	0	5	6	0	
+0	1	28	O	5	5	5	0		5	6	5	1	OKIES
+0	1	29	N	5	5	5	0		5	7	5	1	NLAKE
+0	1	30	N	5	5	5	0		5	8	5	1	NEMEA
+0	0	0	E	5	5	5	0		2	9	5	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	31	I	5	12	3	1	INV	4	12	11	0	
+0	0	0	N	5	12	3	0		4	13	4	0	
+0	0	0	V	5	12	3	0		4	14	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	3	0		7	1	4	0	
+0	1	32	N	6	2	3	1	NLQ	0	2	11	0	
+0	0	0	L	6	2	3	0		1	3	7	0	
+0	1	33	Q	6	2	3	0		6	4	3	1	QRS
+1	0	0	#	6	6	5	0		7	5	0	0	
+0	1	34	K	6	6	5	1	KLESS	5	6	5	0	
+0	0	0	L	6	6	5	0		5	7	5	0	
+0	0	0	E	6	6	5	0		5	8	5	0	
+0	0	0	S	6	6	5	0		2	9	5	0	
+0	1	35	S	6	6	5	0		6	10	3	1	SCM
+1	0	0	#	6	12	3	0		7	11	7	0	
+0	1	36	S	6	12	3	1	SDI	4	12	11	0	
+0	0	0	D	6	12	3	0		4	13	4	0	
+0	0	0	I	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	37	B	7	1	4	1	BTOR	7	1	4	1	BREN
+0	0	0	T	7	1	4	0		0	2	11	0	
+0	0	0	O	7	1	4	0		1	3	7	0	
+0	0	0	R	7	1	4	0		6	4	3	0	
+1	0	0	#	7	6	3	0		8	5	5	0	
+0	1	38	I	7	6	3	1	IAM	5	6	5	0	
+0	0	0	A	7	6	3	0		5	7	5	0	
+0	0	0	M	7	6	3	0		5	8	5	0	
+1	0	0	#	7	10	4	0		8	9	0	0	
+0	1	39	C	7	10	4	1	COSY	6	10	3	0	
+0	1	40	O	7	10	4	0		7	11	7	1	OVOIDAL
+0	0	0	S	7	10	4	0		4	12	11	0	
+0	0	0	Y	7	10	4	0		4	13	4	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	41	M	8	0	3	1	MRI	8	0	3	1	MCA
+0	0	0	R	8	0	3	0		7	1	4	0	
+0	0	0	I	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	5	0		9	3	0	0	
+0	1	42	S	8	4	5	1	SPEKE	6	4	3	0	
+0	1	43	P	8	4	5	0		8	5	5	1	PASTA
+0	0	0	E	8	4	5	0		5	6	5	0	
+0	0	0	K	8	4	5	0		5	7	5	0	
+0	0	0	E	8	4	5	0		5	8	5	0	
+1	0	0	#	8	10	3	0		9	9	6	0	
+0	1	44	M	8	10	3	1	MVI	6	10	3	0	
+0	0	0	V	8	10	3	0		7	11	7	0	
+0	0	0	I	8	10	3	0		4	12	11	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	45	C	9	0	3	1	CEN	8	0	3	0	
+0	0	0	E	9	0	3	0		7	1	4	0	
+0	0	0	N	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	0	0		10	3	4	0	
+1	0	0	#	9	5	5	0		10	4	4	0	
+0	1	46	A	9	5	5	1	ASEAT	8	5	5	0	
+0	0	0	S	9	5	5	0		5	6	5	0	
+0	0	0	E	9	5	5	0		5	7	5	0	
+0	0	0	A	9	5	5	0		5	8	5	0	
+0	1	47	T	9	5	5	0		9	9	6	1	TASTES
+1	0	0	#	9	11	3	0		10	10	3	0	
+0	1	48	O	9	11	3	1	OSO	7	11	7	0	
+0	0	0	S	9	11	3	0		4	12	11	0	
+0	1	49	O	9	11	3	0		9	13	6	1	OTSEGO
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	50	A	10	0	6	1	ANGERS	8	0	3	0	
+0	0	0	N	10	0	6	0		7	1	4	0	
+0	0	0	G	10	0	6	0		0	2	11	0	
+0	1	51	E	10	0	6	0		10	3	4	1	EVES
+0	1	52	R	10	0	6	0		10	4	4	1	RIRE
+0	0	0	S	10	0	6	0		8	5	5	0	
+1	0	0	#	10	7	0	0		11	6	3	0	
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	5	0		11	8	0	0	
+0	1	53	A	10	9	5	1	ALIST	9	9	6	0	
+0	1	54	L	10	9	5	0		10	10	3	1	LAP
+0	0	0	I	10	9	5	0		7	11	7	0	
+0	0	0	S	10	9	5	0		4	12	11	0	
+0	0	0	T	10	9	5	0		9	13	6	0	
+1	0	0	#	10	15	0	0		11	14	4	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	5	0		12	2	3	0	
+0	1	55	V	11	3	5	1	VITRO	10	3	4	0	
+0	0	0	I	11	3	5	0		10	4	4	0	
+0	0	0	T	11	3	5	0		8	5	5	0	
+0	1	56	R	11	3	5	0		11	6	3	1	RLS
+0	1	57	O	11	3	5	0		11	7	4	1	OISE
+1	0	0	#	11	9	6	0		12	8	3	0	
+0	1	58	S	11	9	6	1	SADIST	9	9	6	0	
+0	0	0	A	11	9	6	0		10	10	3	0	
+0	0	0	D	11	9	6	0		7	11	7	0	
+0	0	0	I	11	9	6	0		4	12	11	0	
+0	0	0	S	11	9	6	0		9	13	6	0	
+0	1	59	T	11	9	6	0		11	14	4	1	TRAN
+0	1	60	F	12	0	15	1	FEDERALISTPAPER	12	0	3	1	FLO
+0	1	61	E	12	0	15	0		12	1	3	1	EEC
+0	1	62	D	12	0	15	0		12	2	3	1	DAT
+0	0	0	E	12	0	15	0		10	3	4	0	
+0	0	0	R	12	0	15	0		10	4	4	0	
+0	0	0	A	12	0	15	0		8	5	5	0	
+0	0	0	L	12	0	15	0		11	6	3	0	
+0	0	0	I	12	0	15	0		11	7	4	0	
+0	1	63	S	12	0	15	0		12	8	3	1	SEE
+0	0	0	T	12	0	15	0		9	9	6	0	
+0	0	0	P	12	0	15	0		10	10	3	0	
+0	0	0	A	12	0	15	0		7	11	7	0	
+0	0	0	P	12	0	15	0		4	12	11	0	
+0	0	0	E	12	0	15	0		9	13	6	0	
+0	0	0	R	12	0	15	0		11	14	4	0	
+0	1	64	L	13	0	5	1	LEASE	12	0	3	0	
+0	0	0	E	13	0	5	0		12	1	3	0	
+0	0	0	A	13	0	5	0		12	2	3	0	
+0	0	0	S	13	0	5	0		10	3	4	0	
+0	0	0	E	13	0	5	0		10	4	4	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	65	S	13	6	4	1	SSEE	11	6	3	0	
+0	0	0	S	13	6	4	0		11	7	4	0	
+0	0	0	E	13	6	4	0		12	8	3	0	
+0	0	0	E	13	6	4	0		9	9	6	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	66	L	13	11	4	1	LPGA	7	11	7	0	
+0	0	0	P	13	11	4	0		4	12	11	0	
+0	0	0	G	13	11	4	0		9	13	6	0	
+0	0	0	A	13	11	4	0		11	14	4	0	
+0	1	67	O	14	0	3	1	OCT	12	0	3	0	
+0	0	0	C	14	0	3	0		12	1	3	0	
+0	0	0	T	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	68	E	14	7	3	1	EES	11	7	4	0	
+0	0	0	E	14	7	3	0		12	8	3	0	
+0	0	0	S	14	7	3	0		9	9	6	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	69	I	14	12	3	1	ION	4	12	11	0	
+0	0	0	O	14	12	3	0		9	13	6	0	
+0	0	0	N	14	12	3	0		11	14	4	0	
+37
+1	DAO	1957 Physics Nobelist Tsung-___ Lee
+4	TIM	Secretary Geithner
+7	SHH	"Be still!"
+10	ILIO	Of the hipbone: Prefix
+12	AVES	Birds, in Latin
+14	ICHOR	Blood of the gods, in Greek myth
+16	MELTINONESMOUTH	What M&M's do
+19	SASHAY	Walk fancily
+20	UPDOS	Common prom coifs
+21	STELA	Marked pillar
+22	ANIMAL	Brutish sort
+26	TIL	Preceding, informally
+27	SONNE	Past: Fr.
+31	INV	Accts. payable receipt
+32	NLQ	Place to hang a ring
+34	KLESS	Like a combination lock
+36	SDI	1980's proposal: Abbr.
+37	BTOR	Part of an Asian capital's name
+38	IAM	Cole Porter's "___ Loved"
+39	COSY	Brit's teapot cover
+41	MRI	U.R.L. ender
+42	SPEKE	Lake Tanganyika discoverer John
+44	MVI	Year in Robert II's reign
+45	CEN	The 1000's, e.g.: Abbr.
+46	ASEAT	"Save me ___" (latecomer's request)
+48	OSO	Zoo de Madrid attraction
+50	ANGERS	Brings to a boil?
+53	ALIST	Elite
+55	VITRO	Not natural, in a way, after "in"
+58	SADIST	Torturer
+60	FEDERALISTPAPER	Writing of Publius
+64	LEASE	Pay for monthly
+65	SSEE	Go on a vacation tour
+66	LPGA	Tour grp.
+67	OCT	National Chili Mo.
+68	EES	Telecom techies
+69	ION	Bit of physics
+39
+1	DIMS	Lowers
+2	ALEAST	Yankees' div.
+3	OILSTINTING	OPEC production cutback?
+4	TANYAS	Actress Roberts and others
+5	IVO	___ Andric, 1961 Literature Nobelist
+6	MENU	It might include hot dogs and baked beans
+7	SHU	___ mai (dim sum dish)
+8	HOT	Hard to keep in stock, say
+9	HRH	Letters for a prince
+11	OTHELLO	Brabantio's son-in-law
+13	SEP	U.S. Constitution mo.
+14	IMON	"___ Fire" (Springsteen hit)
+15	COSI	Thus, to Luciano
+17	IAL	Suffix with different
+18	SDAES	Dairy Queen offerings
+23	MISSISSIPPI	United States divider
+24	ANDY	"The ___ Williams Christmas Album"
+25	LVI	56, in old Rome
+28	OKIES	Dust Bowl drifters
+29	NLAKE	Body of water in a volcanic crater, for one
+30	NEMEA	Ancient Greek city with a mythical lion
+33	QRS	Football game divs.
+35	SCM	Inits. on old typewriters
+37	BREN	Machine gun
+40	OVOIDAL	Not perfectly round
+41	MCA	Elton John's longtime label
+43	PASTA	Italian food
+47	TASTES	Bitter and sweet
+49	OTSEGO	County of Cooperstown, N.Y.
+51	EVES	Nights before holidays
+52	RIRE	To laugh, to Lafayette
+54	LAP	1/4 mile, maybe
+56	RLS	19th-century literary inits.
+57	OISE	Auvers-sur-___, last home of Vincent van Gogh
+59	TRAN	Second-most common Vietnamese family name, after Nguyen
+60	FLO	Andy Capp's wife
+61	EEC	The Common Market: Abbr.
+62	DAT	"Who ___?"
+63	SEE	Call ... or call on

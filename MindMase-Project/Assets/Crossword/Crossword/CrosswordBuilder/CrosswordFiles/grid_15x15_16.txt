@@ -1,0 +1,305 @@
+grid_15x15_16
+15
+0	1	1	G	0	0	3	1	GTD	0	0	3	1	GEO
+0	1	2	T	0	0	3	0		0	1	3	1	TRW
+0	1	3	D	0	0	3	0		0	2	15	1	DENOTEDMUSICIAN
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	S	0	4	3	1	SPA	0	4	4	1	STUF
+0	1	5	P	0	4	3	0		0	5	6	1	PEPSUP
+0	1	6	A	0	4	3	0		0	6	3	1	ART
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	C	0	10	3	1	CUB	0	10	4	1	COLD
+0	1	8	U	0	10	3	0		0	11	4	1	USAF
+0	1	9	B	0	10	3	0		0	12	15	1	BEFORETHEOTHERS
+1	0	0	#	0	14	0	0		1	13	6	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	E	1	0	8	1	ERECTERS	0	0	3	0	
+0	0	0	R	1	0	8	0		0	1	3	0	
+0	0	0	E	1	0	8	0		0	2	15	0	
+0	1	11	C	1	0	8	0		1	3	3	1	CSA
+0	0	0	T	1	0	8	0		0	4	4	0	
+0	0	0	E	1	0	8	0		0	5	6	0	
+0	0	0	R	1	0	8	0		0	6	3	0	
+0	1	12	S	1	0	8	0		1	7	4	1	SOLD
+1	0	0	#	1	9	5	0		2	8	0	0	
+0	1	13	N	1	9	5	1	NOSED	1	9	3	1	NON
+0	0	0	O	1	9	5	0		0	10	4	0	
+0	0	0	S	1	9	5	0		0	11	4	0	
+0	0	0	E	1	9	5	0		0	12	15	0	
+0	1	14	D	1	9	5	0		1	13	6	1	DIRELY
+1	0	0	#	1	15	0	0		2	14	5	0	
+0	1	15	O	2	0	8	1	OWNSUPTO	0	0	3	0	
+0	0	0	W	2	0	8	0		0	1	3	0	
+0	0	0	N	2	0	8	0		0	2	15	0	
+0	0	0	S	2	0	8	0		1	3	3	0	
+0	0	0	U	2	0	8	0		0	4	4	0	
+0	0	0	P	2	0	8	0		0	5	6	0	
+0	0	0	T	2	0	8	0		0	6	3	0	
+0	0	0	O	2	0	8	0		1	7	4	0	
+1	0	0	#	2	9	6	0		3	8	8	0	
+0	1	16	O	2	9	6	1	OLAFII	1	9	3	0	
+0	0	0	L	2	9	6	0		0	10	4	0	
+0	0	0	A	2	9	6	0		0	11	4	0	
+0	0	0	F	2	9	6	0		0	12	15	0	
+0	0	0	I	2	9	6	0		1	13	6	0	
+0	1	17	I	2	9	6	0		2	14	5	1	IMAGE
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	18	O	3	2	4	1	OAFS	0	2	15	0	
+0	0	0	A	3	2	4	0		1	3	3	0	
+0	0	0	F	3	2	4	0		0	4	4	0	
+0	0	0	S	3	2	4	0		0	5	6	0	
+1	0	0	#	3	7	8	0		4	6	8	0	
+0	1	19	L	3	7	8	1	LANDFORM	1	7	4	0	
+0	1	20	A	3	7	8	0		3	8	8	1	AUGUSTUS
+0	0	0	N	3	7	8	0		1	9	3	0	
+0	0	0	D	3	7	8	0		0	10	4	0	
+0	0	0	F	3	7	8	0		0	11	4	0	
+0	0	0	O	3	7	8	0		0	12	15	0	
+0	0	0	R	3	7	8	0		1	13	6	0	
+0	0	0	M	3	7	8	0		2	14	5	0	
+0	1	21	W	4	0	3	1	WGT	4	0	3	1	WGN
+0	1	22	G	4	0	3	0		4	1	3	1	GOI
+0	0	0	T	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	4	0		5	4	5	0	
+0	1	23	U	4	5	4	1	URDU	0	5	6	0	
+0	1	24	R	4	5	4	0		4	6	8	1	REFINERS
+0	0	0	D	4	5	4	0		1	7	4	0	
+0	0	0	U	4	5	4	0		3	8	8	0	
+1	0	0	#	4	10	0	0		5	9	3	0	
+1	0	0	#	4	11	0	0		5	10	5	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	R	4	12	3	1	REA	0	12	15	0	
+0	0	0	E	4	12	3	0		1	13	6	0	
+0	0	0	A	4	12	3	0		2	14	5	0	
+0	1	26	G	5	0	7	1	GOESAPE	4	0	3	0	
+0	0	0	O	5	0	7	0		4	1	3	0	
+0	0	0	E	5	0	7	0		0	2	15	0	
+0	1	27	S	5	0	7	0		5	3	3	1	SRA
+0	1	28	A	5	0	7	0		5	4	5	1	AEGIS
+0	0	0	P	5	0	7	0		0	5	6	0	
+0	0	0	E	5	0	7	0		4	6	8	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	29	G	5	8	3	1	GIA	3	8	8	0	
+0	1	30	I	5	8	3	0		5	9	3	1	IBM
+0	1	31	A	5	8	3	0		5	10	5	1	ASIDO
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	32	E	5	12	3	1	ELG	0	12	15	0	
+0	0	0	L	5	12	3	0		1	13	6	0	
+0	0	0	G	5	12	3	0		2	14	5	0	
+0	1	33	N	6	0	5	1	NIDRE	4	0	3	0	
+0	0	0	I	6	0	5	0		4	1	3	0	
+0	0	0	D	6	0	5	0		0	2	15	0	
+0	0	0	R	6	0	5	0		5	3	3	0	
+0	0	0	E	6	0	5	0		5	4	5	0	
+1	0	0	#	6	6	5	0		7	5	3	0	
+0	1	34	F	6	6	5	1	FLUBS	4	6	8	0	
+0	1	35	L	6	6	5	0		6	7	3	1	LEO
+0	0	0	U	6	6	5	0		3	8	8	0	
+0	0	0	B	6	6	5	0		5	9	3	0	
+0	0	0	S	6	6	5	0		5	10	5	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	36	T	6	12	3	1	TYE	0	12	15	0	
+0	0	0	Y	6	12	3	0		1	13	6	0	
+0	0	0	E	6	12	3	0		2	14	5	0	
+1	0	0	#	7	1	0	0		8	0	5	0	
+1	0	0	#	7	2	11	0		8	1	6	0	
+0	1	37	M	7	2	11	1	MAGGIESMITH	0	2	15	0	
+0	0	0	A	7	2	11	0		5	3	3	0	
+0	0	0	G	7	2	11	0		5	4	5	0	
+0	1	38	G	7	2	11	0		7	5	3	1	GMS
+0	0	0	I	7	2	11	0		4	6	8	0	
+0	0	0	E	7	2	11	0		6	7	3	0	
+0	0	0	S	7	2	11	0		3	8	8	0	
+0	0	0	M	7	2	11	0		5	9	3	0	
+0	0	0	I	7	2	11	0		5	10	5	0	
+0	1	39	T	7	2	11	0		7	11	3	1	TRL
+0	0	0	H	7	2	11	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	3	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+0	1	40	C	8	0	3	1	CLU	8	0	5	1	CHIRP
+0	1	41	L	8	0	3	0		8	1	6	1	LINERS
+0	0	0	U	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	5	0		9	3	0	0	
+0	1	42	I	8	4	5	1	IMNOT	5	4	5	0	
+0	0	0	M	8	4	5	0		7	5	3	0	
+0	0	0	N	8	4	5	0		4	6	8	0	
+0	0	0	O	8	4	5	0		6	7	3	0	
+0	0	0	T	8	4	5	0		3	8	8	0	
+1	0	0	#	8	10	5	0		9	9	6	0	
+0	1	43	D	8	10	5	1	DREAR	5	10	5	0	
+0	0	0	R	8	10	5	0		7	11	3	0	
+0	0	0	E	8	10	5	0		0	12	15	0	
+0	1	44	A	8	10	5	0		8	13	3	1	AGS
+0	1	45	R	8	10	5	0		8	14	3	1	RYE
+0	1	46	H	9	0	3	1	HIS	8	0	5	0	
+0	0	0	I	9	0	3	0		8	1	6	0	
+0	0	0	S	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	47	S	9	4	3	1	SSE	5	4	5	0	
+0	0	0	S	9	4	3	0		7	5	3	0	
+0	0	0	E	9	4	3	0		4	6	8	0	
+1	0	0	#	9	8	7	0		10	7	4	0	
+0	1	48	U	9	8	7	1	UROLOGY	3	8	8	0	
+0	1	49	R	9	8	7	0		9	9	6	1	RAILER
+0	0	0	O	9	8	7	0		5	10	5	0	
+0	0	0	L	9	8	7	0		7	11	3	0	
+0	0	0	O	9	8	7	0		0	12	15	0	
+0	0	0	G	9	8	7	0		8	13	3	0	
+0	0	0	Y	9	8	7	0		8	14	3	0	
+0	1	50	I	10	0	3	1	INI	8	0	5	0	
+0	0	0	N	10	0	3	0		8	1	6	0	
+0	0	0	I	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	0	0		11	3	4	0	
+1	0	0	#	10	5	0	0		11	4	4	0	
+1	0	0	#	10	6	4	0		11	5	3	0	
+0	1	51	R	10	6	4	1	RASA	4	6	8	0	
+0	1	52	A	10	6	4	0		10	7	4	1	ASSE
+0	0	0	S	10	6	4	0		3	8	8	0	
+0	0	0	A	10	6	4	0		9	9	6	0	
+1	0	0	#	10	11	0	0		11	10	4	0	
+1	0	0	#	10	12	3	0		11	11	3	0	
+0	1	53	T	10	12	3	1	TSE	0	12	15	0	
+0	0	0	S	10	12	3	0		8	13	3	0	
+0	0	0	E	10	12	3	0		8	14	3	0	
+0	1	54	R	11	0	8	1	RECKLESS	8	0	5	0	
+0	0	0	E	11	0	8	0		8	1	6	0	
+0	0	0	C	11	0	8	0		0	2	15	0	
+0	1	55	K	11	0	8	0		11	3	4	1	KSET
+0	1	56	L	11	0	8	0		11	4	4	1	LENS
+0	1	57	E	11	0	8	0		11	5	3	1	EDS
+0	0	0	S	11	0	8	0		4	6	8	0	
+0	0	0	S	11	0	8	0		10	7	4	0	
+1	0	0	#	11	9	4	0		12	8	3	0	
+0	1	58	I	11	9	4	1	IDAH	9	9	6	0	
+0	1	59	D	11	9	4	0		11	10	4	1	DFCS
+0	1	60	A	11	9	4	0		11	11	3	1	ALT
+0	0	0	H	11	9	4	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	61	P	12	0	6	1	PRISED	8	0	5	0	
+0	0	0	R	12	0	6	0		8	1	6	0	
+0	0	0	I	12	0	6	0		0	2	15	0	
+0	0	0	S	12	0	6	0		11	3	4	0	
+0	0	0	E	12	0	6	0		11	4	4	0	
+0	0	0	D	12	0	6	0		11	5	3	0	
+1	0	0	#	12	7	8	0		13	6	0	0	
+0	1	62	S	12	7	8	1	SELFLESS	10	7	4	0	
+0	1	63	E	12	7	8	0		12	8	3	1	ELI
+0	0	0	L	12	7	8	0		9	9	6	0	
+0	0	0	F	12	7	8	0		11	10	4	0	
+0	0	0	L	12	7	8	0		11	11	3	0	
+0	0	0	E	12	7	8	0		0	12	15	0	
+0	1	64	S	12	7	8	0		12	13	3	1	SUV
+0	1	65	S	12	7	8	0		12	14	3	1	SMU
+1	0	0	#	13	1	5	0		14	0	0	0	
+0	1	66	S	13	1	5	1	SAENS	8	1	6	0	
+0	0	0	A	13	1	5	0		0	2	15	0	
+0	0	0	E	13	1	5	0		11	3	4	0	
+0	0	0	N	13	1	5	0		11	4	4	0	
+0	0	0	S	13	1	5	0		11	5	3	0	
+1	0	0	#	13	7	8	0		14	6	0	0	
+0	1	67	E	13	7	8	1	ELECTRUM	10	7	4	0	
+0	0	0	L	13	7	8	0		12	8	3	0	
+0	0	0	E	13	7	8	0		9	9	6	0	
+0	0	0	C	13	7	8	0		11	10	4	0	
+0	0	0	T	13	7	8	0		11	11	3	0	
+0	0	0	R	13	7	8	0		0	12	15	0	
+0	0	0	U	13	7	8	0		12	13	3	0	
+0	0	0	M	13	7	8	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	68	N	14	2	3	1	NTS	0	2	15	0	
+0	0	0	T	14	2	3	0		11	3	4	0	
+0	0	0	S	14	2	3	0		11	4	4	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	69	I	14	8	3	1	IRS	12	8	3	0	
+0	0	0	R	14	8	3	0		9	9	6	0	
+0	0	0	S	14	8	3	0		11	10	4	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	S	14	12	3	1	SVU	0	12	15	0	
+0	0	0	V	14	12	3	0		12	13	3	0	
+0	0	0	U	14	12	3	0		12	14	3	0	
+37
+1	GTD	Ensured: Abbr.
+4	SPA	Place for a massage
+7	CUB	Kind of reporter
+10	ERECTERS	Construction workers
+13	NOSED	Just beat (out)
+15	OWNSUPTO	Admits
+16	OLAFII	Sainted king called "the Stout"
+18	OAFS	Dim bulbs
+19	LANDFORM	Hill or valley, e.g.
+21	WGT	Lb. or oz.
+23	URDU	Asian tongue
+25	REA	"Guilty," in a Latin legal phrase
+26	GOESAPE	Pops one's cork
+29	GIA	Fashion model Carangi
+32	ELG	"Les Girls" actress Taina
+33	NIDRE	Kol ___ (Yom Kippur prayer)
+34	FLUBS	Botches
+36	TYE	Ship rope or chain
+37	MAGGIESMITH	Best Actress of 1969
+40	CLU	Billy the Kid portrayer Gulager
+42	IMNOT	"___ Rappaport"
+43	DREAR	Cheerless
+46	HIS	Matching pair marking
+47	SSE	Khartoum-to-Nairobi dir.
+48	UROLOGY	Surgical specialty
+50	INI	Pasta name suffix
+51	RASA	Literally, "scraped"
+53	TSE	Chuang ___, Chinese philosopher
+54	RECKLESS	Daredevilish
+58	IDAH	Potato source
+61	PRISED	Used a lever on
+62	SELFLESS	Altruistic
+66	SAENS	Composer Saint-___
+67	ELECTRUM	Alloy of gold and silver
+68	NTS	Some Windows systems
+69	IRS	Org. whose roots go back to the Civil War
+70	SVU	"Law & Order" spinoff, informally
+39
+1	GEO	Bygone compact
+2	TRW	Credit-tracking co.
+3	DENOTEDMUSICIAN	Pianist who lost her score?
+4	STUF	Double ___ (Oreo variety)
+5	PEPSUP	Enlivens
+6	ART	The "A" in MoMA
+7	COLD	At a dead end, as a case
+8	USAF	Org. with the ad slogan "It's not science fiction. It's what we do every day"
+9	BEFORETHEOTHERS	First
+11	CSA	Jeff Davis's cause: Abbr.
+12	SOLD	Unloaded, in a way
+13	NON	Prefix with profit
+14	DIRELY	With desperation
+17	IMAGE	Politico's concern
+20	AUGUSTUS	Predecessor of Tiberius
+21	WGN	Chicago cable station
+22	GOI	"There but for the grace of God ___"
+24	REFINERS	Employees in the sugar industry
+27	SRA	Sp. woman's title
+28	AEGIS	Support
+30	IBM	One of the 30 Dow Jones industrials
+31	ASIDO	"Like me"
+35	LEO	Fierce sort, astrologically
+38	GMS	Ball club V.I.P.'s
+39	TRL	Bygone daily MTV series, informally
+40	CHIRP	Happy sound
+41	LINERS	Record holders
+44	AGS	Lawyers in cabinets: Abbr.
+45	RYE	"The Catcher in the ___"
+49	RAILER	Persistent critic
+52	ASSE	African fox
+55	KSET	Linens for a large bed
+56	LENS	Word with telephoto or zoom
+57	EDS	Inc. staff
+59	DFCS	Gallantry-in-war medals: Abbr.
+60	ALT	Balloonist's figure: Abbr.
+63	ELI	Shiloh resident
+64	SUV	Excursion or Xterra, for short
+65	SMU	Dallas school, for short

@@ -1,0 +1,237 @@
+grid_13x13_176
+13
+0	1	1	P	0	0	3	1	PAC	0	0	5	1	PINHS
+0	1	2	A	0	0	3	0		0	1	5	1	ACARD
+0	1	3	C	0	0	3	0		0	2	5	1	CANAS
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	W	0	5	3	1	WGT	0	5	3	1	WET
+0	1	5	G	0	5	3	0		0	6	3	1	GTE
+0	1	6	T	0	5	3	0		0	7	4	1	TOFU
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	S	0	10	3	1	SWM	0	10	3	1	STR
+0	1	8	W	0	10	3	0		0	11	3	1	WVA
+0	1	9	M	0	10	3	0		0	12	3	1	MAY
+0	1	10	I	1	0	4	1	ICAL	0	0	5	0	
+0	0	0	C	1	0	4	0		0	1	5	0	
+0	0	0	A	1	0	4	0		0	2	5	0	
+0	1	11	L	1	0	4	0		1	3	3	1	LET
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	12	E	1	5	4	1	ETON	0	5	3	0	
+0	0	0	T	1	5	4	0		0	6	3	0	
+0	0	0	O	1	5	4	0		0	7	4	0	
+0	1	13	N	1	5	4	0		1	8	3	1	NAS
+1	0	0	#	1	10	3	0		2	9	5	0	
+0	1	14	T	1	10	3	1	TVA	0	10	3	0	
+0	0	0	V	1	10	3	0		0	11	3	0	
+0	0	0	A	1	10	3	0		0	12	3	0	
+0	1	15	N	2	0	13	1	NANETTEFABRAY	0	0	5	0	
+0	0	0	A	2	0	13	0		0	1	5	0	
+0	0	0	N	2	0	13	0		0	2	5	0	
+0	0	0	E	2	0	13	0		1	3	3	0	
+0	1	16	T	2	0	13	0		2	4	5	1	TERRS
+0	0	0	T	2	0	13	0		0	5	3	0	
+0	0	0	E	2	0	13	0		0	6	3	0	
+0	0	0	F	2	0	13	0		0	7	4	0	
+0	0	0	A	2	0	13	0		1	8	3	0	
+0	1	17	B	2	0	13	0		2	9	5	1	BOXOF
+0	0	0	R	2	0	13	0		0	10	3	0	
+0	0	0	A	2	0	13	0		0	11	3	0	
+0	0	0	Y	2	0	13	0		0	12	3	0	
+0	1	18	H	3	0	5	1	HRATE	0	0	5	0	
+0	0	0	R	3	0	5	0		0	1	5	0	
+0	0	0	A	3	0	5	0		0	2	5	0	
+0	0	0	T	3	0	5	0		1	3	3	0	
+0	0	0	E	3	0	5	0		2	4	5	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	3	0		4	6	5	0	
+0	1	19	U	3	7	3	1	USO	0	7	4	0	
+0	0	0	S	3	7	3	0		1	8	3	0	
+0	0	0	O	3	7	3	0		2	9	5	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+1	0	0	#	3	12	0	0		4	11	3	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+0	1	20	S	4	0	3	1	SDS	0	0	5	0	
+0	0	0	D	4	0	3	0		0	1	5	0	
+0	0	0	S	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	21	R	4	4	3	1	RUN	2	4	5	0	
+0	1	22	U	4	4	3	0		4	5	4	1	UNOS
+0	1	23	N	4	4	3	0		4	6	5	1	NAMIB
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	24	X	4	9	4	1	XOVE	2	9	5	0	
+0	1	25	O	4	9	4	0		4	10	3	1	OFT
+0	1	26	V	4	9	4	0		4	11	3	1	VSH
+0	1	27	E	4	9	4	0		4	12	3	1	ETE
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	0	0		6	2	3	0	
+1	0	0	#	5	4	4	0		6	3	5	0	
+0	1	28	R	5	4	4	1	RNAS	2	4	5	0	
+0	0	0	N	5	4	4	0		4	5	4	0	
+0	0	0	A	5	4	4	0		4	6	5	0	
+0	1	29	S	5	4	4	0		5	7	4	1	SEEA
+1	0	0	#	5	9	4	0		6	8	5	0	
+0	1	30	O	5	9	4	1	OFST	2	9	5	0	
+0	0	0	F	5	9	4	0		4	10	3	0	
+0	0	0	S	5	9	4	0		4	11	3	0	
+0	0	0	T	5	9	4	0		4	12	3	0	
+0	1	31	M	6	0	13	1	MAKESOMEOFTHE	6	0	3	1	MLS
+0	1	32	A	6	0	13	0		6	1	3	1	AAU
+0	1	33	K	6	0	13	0		6	2	3	1	KPS
+0	1	34	E	6	0	13	0		6	3	5	1	EPACT
+0	0	0	S	6	0	13	0		2	4	5	0	
+0	0	0	O	6	0	13	0		4	5	4	0	
+0	0	0	M	6	0	13	0		4	6	5	0	
+0	0	0	E	6	0	13	0		5	7	4	0	
+0	1	35	O	6	0	13	0		6	8	5	1	OGHAM
+0	0	0	F	6	0	13	0		2	9	5	0	
+0	0	0	T	6	0	13	0		4	10	3	0	
+0	0	0	H	6	0	13	0		4	11	3	0	
+0	0	0	E	6	0	13	0		4	12	3	0	
+0	1	36	L	7	0	4	1	LAPP	6	0	3	0	
+0	0	0	A	7	0	4	0		6	1	3	0	
+0	0	0	P	7	0	4	0		6	2	3	0	
+0	0	0	P	7	0	4	0		6	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	37	S	7	5	4	1	SIEG	4	5	4	0	
+0	0	0	I	7	5	4	0		4	6	5	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	G	7	5	4	0		6	8	5	0	
+1	0	0	#	7	10	0	0		8	9	0	0	
+1	0	0	#	7	11	0	0		8	10	5	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	5	0	
+0	1	38	S	8	0	4	1	SUSA	6	0	3	0	
+0	0	0	U	8	0	4	0		6	1	3	0	
+0	0	0	S	8	0	4	0		6	2	3	0	
+0	0	0	A	8	0	4	0		6	3	5	0	
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	3	0		9	5	4	0	
+0	1	39	B	8	6	3	1	BAH	4	6	5	0	
+0	0	0	A	8	6	3	0		5	7	4	0	
+0	0	0	H	8	6	3	0		6	8	5	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	40	K	8	10	3	1	KAA	8	10	5	1	KASHI
+0	1	41	A	8	10	3	0		8	11	5	1	ANSON
+0	1	42	A	8	10	3	0		8	12	5	1	ADEPT
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	3	0	
+1	0	0	#	9	3	3	0		10	2	3	0	
+0	1	43	C	9	3	3	1	CDP	6	3	5	0	
+0	1	44	D	9	3	3	0		9	4	3	1	DIO
+0	1	45	P	9	3	3	0		9	5	4	1	PCJR
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	5	0		10	7	3	0	
+0	1	46	A	9	8	5	1	AHAND	6	8	5	0	
+0	1	47	H	9	8	5	0		9	9	3	1	HAI
+0	0	0	A	9	8	5	0		8	10	5	0	
+0	0	0	N	9	8	5	0		8	11	5	0	
+0	0	0	D	9	8	5	0		8	12	5	0	
+0	1	48	C	10	0	13	1	CRITICALMASSE	10	0	3	1	CPR
+0	1	49	R	10	0	13	0		10	1	3	1	RDY
+0	1	50	I	10	0	13	0		10	2	3	1	ISA
+0	0	0	T	10	0	13	0		6	3	5	0	
+0	0	0	I	10	0	13	0		9	4	3	0	
+0	0	0	C	10	0	13	0		9	5	4	0	
+0	1	51	A	10	0	13	0		10	6	3	1	AON
+0	1	52	L	10	0	13	0		10	7	3	1	LSD
+0	0	0	M	10	0	13	0		6	8	5	0	
+0	0	0	A	10	0	13	0		9	9	3	0	
+0	0	0	S	10	0	13	0		8	10	5	0	
+0	0	0	S	10	0	13	0		8	11	5	0	
+0	0	0	E	10	0	13	0		8	12	5	0	
+0	1	53	P	11	0	3	1	PDS	10	0	3	0	
+0	0	0	D	11	0	3	0		10	1	3	0	
+0	0	0	S	11	0	3	0		10	2	3	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	54	O	11	4	4	1	OJOS	9	4	3	0	
+0	0	0	J	11	4	4	0		9	5	4	0	
+0	0	0	O	11	4	4	0		10	6	3	0	
+0	0	0	S	11	4	4	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	55	I	11	9	4	1	IHOP	9	9	3	0	
+0	0	0	H	11	9	4	0		8	10	5	0	
+0	0	0	O	11	9	4	0		8	11	5	0	
+0	0	0	P	11	9	4	0		8	12	5	0	
+0	1	56	R	12	0	3	1	RYA	10	0	3	0	
+0	0	0	Y	12	0	3	0		10	1	3	0	
+0	0	0	A	12	0	3	0		10	2	3	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	57	R	12	5	3	1	RND	9	5	4	0	
+0	0	0	N	12	5	3	0		10	6	3	0	
+0	0	0	D	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	58	I	12	10	3	1	INT	8	10	5	0	
+0	0	0	N	12	10	3	0		8	11	5	0	
+0	0	0	T	12	10	3	0		8	12	5	0	
+29
+1	PAC	Org. for electing candidates
+4	WGT	Lb. or oz.
+7	SWM	Certain guy, in personals shorthand
+10	ICAL	Myth ending
+12	ETON	English collar
+14	TVA	Initials since 1933
+15	NANETTEFABRAY	"""Harper Valley P.T.A."" actress"
+18	HRATE	Stress test measure
+19	USO	G.I. entertainer
+20	SDS	Grp. that spawned the Weathermen
+21	RUN	Hightail it
+24	XOVE	Dog in Oz
+28	RNAS	Transfer and messenger materials
+30	OFST	"The Bells ___ Mary's"
+31	MAKESOMEOFTHE	Middle of the quip
+36	LAPP	Arctic native
+37	SIEG	Victory, to Wagner
+38	SUSA	City rebuilt by Darius I
+39	BAH	Humbug preceder
+40	KAA	"The Jungle Book" python
+43	CDP	Prefix with center or gram
+46	AHAND	Give ___ (aid)
+48	CRITICALMASSE	Important pool shot?
+53	PDS	Places for sgts.
+54	OJOS	Spanish seers?
+55	IHOP	Co. that bought Applebee's in 2007
+56	RYA	Scandinavian rug
+57	RND	Three min. in the ring
+58	INT	Abbr. on some statements
+35
+1	PINHS	Features of homemade cameras
+2	ACARD	Have ___ up one's sleeve
+3	CANAS	Sneaker material
+4	WET	Prohibitionist's foe
+5	GTE	Former AT&T rival
+6	TOFU	Vegetarian's protein source
+7	STR	Orchestra section: Abbr.
+8	WVA	Its cap. is Charleston
+9	MAY	Barry Manilow hit
+11	LET	Redo, in tennis
+13	NAS	TV's "Emerald Point ___"
+16	TERRS	Districts: Abbr.
+17	BOXOF	"... like a ___ chocolates"
+22	UNOS	Article in Hoy
+23	NAMIB	Southwest Africa's ___ Desert
+25	OFT	Frequently, to Shakespeare
+26	VSH	One ___ time: 2 wds.
+27	ETE	When Nancy is hot
+29	SEEA	"Did You Ever ___ Lassie?"
+31	MLS	D.C. United org.
+32	AAU	Sports org.
+33	KPS	Some G.I. duties
+34	EPACT	Difference in days between the lunar and solar year
+35	OGHAM	Old Irish alphabet
+40	KASHI	Whole-grain cereal brand
+41	ANSON	Cap ___ in the Baseball Hall of Fame
+42	ADEPT	More than capable
+44	DIO	Divine one, to Dante
+45	PCJR	Old IBM offering
+47	HAI	"Bali ___"
+48	CPR	E.M.T.'s training
+49	RDY	At a low ___
+50	ISA	"Yes, Virginia, there ___ Santa Claus"
+51	AON	___ Center (Chicago skyscraper)
+52	LSD	Drug sold on blotting paper

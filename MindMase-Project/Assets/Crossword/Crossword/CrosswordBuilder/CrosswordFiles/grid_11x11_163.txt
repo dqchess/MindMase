@@ -1,0 +1,171 @@
+grid_11x11_163
+11
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	H	0	2	3	1	HHS	0	2	5	1	HIKED
+0	1	2	H	0	2	3	0		0	3	3	1	HSI
+0	1	3	S	0	2	3	0		0	4	4	1	SELA
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	E	0	7	3	1	ESE	0	7	3	1	EEO
+0	1	5	S	0	7	3	0		0	8	5	1	SPDER
+0	1	6	E	0	7	3	0		0	9	5	1	EIEIO
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	P	1	0	6	1	POISER	1	0	3	1	PPG
+0	1	8	O	1	0	6	0		1	1	4	1	OORT
+0	0	0	I	1	0	6	0		0	2	5	0	
+0	0	0	S	1	0	6	0		0	3	3	0	
+0	0	0	E	1	0	6	0		0	4	4	0	
+0	1	9	R	1	0	6	0		1	5	9	1	RYMORESON
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	10	E	1	7	4	1	EPIC	0	7	3	0	
+0	0	0	P	1	7	4	0		0	8	5	0	
+0	0	0	I	1	7	4	0		0	9	5	0	
+0	1	11	C	1	7	4	0		1	10	3	1	CAS
+0	1	12	P	2	0	6	1	POKILY	1	0	3	0	
+0	0	0	O	2	0	6	0		1	1	4	0	
+0	0	0	K	2	0	6	0		0	2	5	0	
+0	0	0	I	2	0	6	0		0	3	3	0	
+0	0	0	L	2	0	6	0		0	4	4	0	
+0	0	0	Y	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	13	O	2	7	4	1	ODEA	0	7	3	0	
+0	0	0	D	2	7	4	0		0	8	5	0	
+0	0	0	E	2	7	4	0		0	9	5	0	
+0	0	0	A	2	7	4	0		1	10	3	0	
+0	1	14	G	3	0	3	1	GRE	1	0	3	0	
+0	0	0	R	3	0	3	0		1	1	4	0	
+0	0	0	E	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	15	A	3	4	3	1	AMB	0	4	4	0	
+0	0	0	M	3	4	3	0		1	5	9	0	
+0	1	16	B	3	4	3	0		3	6	3	1	BEG
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	17	E	3	8	3	1	EIS	0	8	5	0	
+0	0	0	I	3	8	3	0		0	9	5	0	
+0	0	0	S	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	18	T	4	1	3	1	TDV	1	1	4	0	
+0	0	0	D	4	1	3	0		0	2	5	0	
+0	1	19	V	4	1	3	0		4	3	3	1	VJS
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	20	O	4	5	5	1	OEIRO	1	5	9	0	
+0	0	0	E	4	5	5	0		3	6	3	0	
+0	1	21	I	4	5	5	0		4	7	3	1	IED
+0	0	0	R	4	5	5	0		0	8	5	0	
+0	0	0	O	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	22	J	5	3	5	1	JORGE	4	3	3	0	
+0	1	23	O	5	3	5	0		5	4	3	1	OEO
+0	0	0	R	5	3	5	0		1	5	9	0	
+0	0	0	G	5	3	5	0		3	6	3	0	
+0	0	0	E	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	24	G	6	1	5	1	GOSEE	6	1	5	1	GLOBS
+0	1	25	O	6	1	5	0		6	2	5	1	OXFAM
+0	0	0	S	6	1	5	0		4	3	3	0	
+0	0	0	E	6	1	5	0		5	4	3	0	
+0	0	0	E	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	4	0	
+0	1	26	D	6	7	3	1	DEG	4	7	3	0	
+0	1	27	E	6	7	3	0		6	8	5	1	EAROF
+0	1	28	G	6	7	3	0		6	9	4	1	GPAS
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	29	M	7	0	3	1	MLX	7	0	3	1	MKT
+0	0	0	L	7	0	3	0		6	1	5	0	
+0	0	0	X	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	30	O	7	4	3	1	OSA	5	4	3	0	
+0	0	0	S	7	4	3	0		1	5	9	0	
+0	1	31	A	7	4	3	0		7	6	4	1	APOS
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	32	A	7	8	3	1	APU	6	8	5	0	
+0	0	0	P	7	8	3	0		6	9	4	0	
+0	1	33	U	7	8	3	0		7	10	3	1	USS
+0	1	34	K	8	0	4	1	KOFI	7	0	3	0	
+0	0	0	O	8	0	4	0		6	1	5	0	
+0	0	0	F	8	0	4	0		6	2	5	0	
+0	1	35	I	8	0	4	0		8	3	3	1	IRA
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	36	O	8	5	6	1	OPERAS	1	5	9	0	
+0	0	0	P	8	5	6	0		7	6	4	0	
+0	1	37	E	8	5	6	0		8	7	3	1	ELP
+0	0	0	R	8	5	6	0		6	8	5	0	
+0	0	0	A	8	5	6	0		6	9	4	0	
+0	0	0	S	8	5	6	0		7	10	3	0	
+0	1	38	T	9	0	4	1	TBAR	7	0	3	0	
+0	0	0	B	9	0	4	0		6	1	5	0	
+0	0	0	A	9	0	4	0		6	2	5	0	
+0	0	0	R	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	39	N	9	5	6	1	NOLOSS	1	5	9	0	
+0	0	0	O	9	5	6	0		7	6	4	0	
+0	0	0	L	9	5	6	0		8	7	3	0	
+0	0	0	O	9	5	6	0		6	8	5	0	
+0	0	0	S	9	5	6	0		6	9	4	0	
+0	0	0	S	9	5	6	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	40	S	10	1	3	1	SMA	6	1	5	0	
+0	0	0	M	10	1	3	0		6	2	5	0	
+0	0	0	A	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	41	S	10	6	3	1	SPF	7	6	4	0	
+0	0	0	P	10	6	3	0		8	7	3	0	
+0	0	0	F	10	6	3	0		6	8	5	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	HHS	Cabinet inits. since 1979
+4	ESE	Language ending
+7	POISER	Balancer
+10	EPIC	Quite a tale
+12	POKILY	At a slow pace
+13	ODEA	Drama halls
+14	GRE	Coll. senior's test
+15	AMB	U.N. biggie: Abbr.
+17	EIS	Sue Grafton's "___ for Evidence"
+18	TDV	Horned viper
+20	OEIRO	"Butter knife" of golf
+22	JORGE	Novelist Amado
+24	GOSEE	"Check it out!"
+26	DEG	Ph.D., e.g.
+29	MLX	When France's Philip I took the throne
+30	OSA	Mama bear, in Madrid
+32	APU	TV's Kwik-E-Mart clerk
+34	KOFI	First name in diplomacy
+36	OPERAS	Palais Garnier offerings
+38	TBAR	Stowe lift
+39	NOLOSS	"Don't sweat it"
+40	SMA	Little, in Leith
+41	SPF	It prevents burn out: Abbr.
+23
+1	HIKED	Boosted
+2	HSI	Chu ___ (legendary Confucian sage)
+3	SELA	Emmy-winning Ward
+4	EEO	Abbr. in help-wanted ads
+5	SPDER	Fly catcher
+6	EIEIO	Children's song refrain
+7	PPG	Hoops stat.
+8	OORT	___ cloud (region of comets far beyond Pluto)
+9	RYMORESON	Noted acting family's nobleman?
+11	CAS	Job for Hercule Poirot
+16	BEG	Command to Rover
+19	VJS	MTV hosts
+21	IED	Roadside bomb, for short
+23	OEO	Antipoverty agcy.
+24	GLOBS	Rounded lumps
+25	OXFAM	International relief org.
+27	EAROF	___ corn
+28	GPAS	Ranking nos.
+29	MKT	AMEX, e.g.: Abbr.
+31	APOS	Where private messages may be sent?: Abbr.
+33	USS	Abbr. before many state names
+35	IRA	Org. in "The Crying Game"
+37	ELP	Grp. with the 1973 gold album "Brain Salad Surgery"

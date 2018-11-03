@@ -1,0 +1,165 @@
+grid_11x11_148
+11
+0	1	1	V	0	0	3	1	VFW	0	0	3	1	VAS
+0	1	2	F	0	0	3	0		0	1	5	1	FTORD
+0	1	3	W	0	0	3	0		0	2	11	1	WRITEINVOTE
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	S	0	6	3	1	SKI	0	6	3	1	SAB
+0	1	5	K	0	6	3	0		0	7	3	1	KIL
+0	1	6	I	0	6	3	0		0	8	11	1	IDOLWORSHIP
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	A	1	0	4	1	ATRY	0	0	3	0	
+0	0	0	T	1	0	4	0		0	1	5	0	
+0	0	0	R	1	0	4	0		0	2	11	0	
+0	1	8	Y	1	0	4	0		1	3	6	1	YERTLE
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	9	L	1	5	6	1	LAIDON	1	5	9	1	LOVECRAFT
+0	0	0	A	1	5	6	0		0	6	3	0	
+0	0	0	I	1	5	6	0		0	7	3	0	
+0	0	0	D	1	5	6	0		0	8	11	0	
+0	1	10	O	1	5	6	0		1	9	4	1	OGEE
+0	1	11	N	1	5	6	0		1	10	3	1	NSW
+0	1	12	S	2	0	4	1	SOIE	0	0	3	0	
+0	0	0	O	2	0	4	0		0	1	5	0	
+0	0	0	I	2	0	4	0		0	2	11	0	
+0	0	0	E	2	0	4	0		1	3	6	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	13	O	2	5	6	1	OBLOGS	1	5	9	0	
+0	0	0	B	2	5	6	0		0	6	3	0	
+0	0	0	L	2	5	6	0		0	7	3	0	
+0	0	0	O	2	5	6	0		0	8	11	0	
+0	0	0	G	2	5	6	0		1	9	4	0	
+0	0	0	S	2	5	6	0		1	10	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	14	R	3	1	5	1	RTREV	0	1	5	0	
+0	0	0	T	3	1	5	0		0	2	11	0	
+0	0	0	R	3	1	5	0		1	3	6	0	
+0	1	15	E	3	1	5	0		3	4	3	1	ERO
+0	0	0	V	3	1	5	0		1	5	9	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	3	0		4	7	6	0	
+0	1	16	L	3	8	3	1	LEW	0	8	11	0	
+0	0	0	E	3	8	3	0		1	9	4	0	
+0	0	0	W	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	17	D	4	1	5	1	DETRE	0	1	5	0	
+0	0	0	E	4	1	5	0		0	2	11	0	
+0	0	0	T	4	1	5	0		1	3	6	0	
+0	0	0	R	4	1	5	0		3	4	3	0	
+0	0	0	E	4	1	5	0		1	5	9	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	18	E	4	7	3	1	EWE	4	7	6	1	ENOTES
+0	0	0	W	4	7	3	0		0	8	11	0	
+0	0	0	E	4	7	3	0		1	9	4	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	7	0		6	1	4	0	
+0	1	19	I	5	2	7	1	ILOCANO	0	2	11	0	
+0	0	0	L	5	2	7	0		1	3	6	0	
+0	0	0	O	5	2	7	0		3	4	3	0	
+0	0	0	C	5	2	7	0		1	5	9	0	
+0	1	20	A	5	2	7	0		5	6	3	1	AEC
+0	0	0	N	5	2	7	0		4	7	6	0	
+0	0	0	O	5	2	7	0		0	8	11	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	21	E	6	1	3	1	ENE	6	1	4	1	ETLA
+0	0	0	N	6	1	3	0		0	2	11	0	
+0	0	0	E	6	1	3	0		1	3	6	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	22	R	6	5	5	1	REORG	1	5	9	0	
+0	0	0	E	6	5	5	0		5	6	3	0	
+0	0	0	O	6	5	5	0		4	7	6	0	
+0	0	0	R	6	5	5	0		0	8	11	0	
+0	1	23	G	6	5	5	0		6	9	5	1	GAELS
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	A	7	0	3	1	ATV	7	0	3	1	ACR
+0	0	0	T	7	0	3	0		6	1	4	0	
+0	0	0	V	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	25	A	7	5	5	1	ACTSA	1	5	9	0	
+0	0	0	C	7	5	5	0		5	6	3	0	
+0	0	0	T	7	5	5	0		4	7	6	0	
+0	0	0	S	7	5	5	0		0	8	11	0	
+0	0	0	A	7	5	5	0		6	9	5	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	26	C	8	0	6	1	CLOCKF	7	0	3	0	
+0	0	0	L	8	0	6	0		6	1	4	0	
+0	0	0	O	8	0	6	0		0	2	11	0	
+0	1	27	C	8	0	6	0		8	3	3	1	COL
+0	1	28	K	8	0	6	0		8	4	3	1	KUM
+0	0	0	F	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	29	E	8	7	4	1	EHEL	4	7	6	0	
+0	0	0	H	8	7	4	0		0	8	11	0	
+0	0	0	E	8	7	4	0		6	9	5	0	
+0	1	30	L	8	7	4	0		8	10	3	1	LOT
+0	1	31	R	9	0	6	1	RATOUT	7	0	3	0	
+0	0	0	A	9	0	6	0		6	1	4	0	
+0	0	0	T	9	0	6	0		0	2	11	0	
+0	0	0	O	9	0	6	0		8	3	3	0	
+0	0	0	U	9	0	6	0		8	4	3	0	
+0	0	0	T	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	32	S	9	7	4	1	SILO	4	7	6	0	
+0	0	0	I	9	7	4	0		0	8	11	0	
+0	0	0	L	9	7	4	0		6	9	5	0	
+0	0	0	O	9	7	4	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	33	E	10	2	3	1	ELM	0	2	11	0	
+0	0	0	L	10	2	3	0		8	3	3	0	
+0	0	0	M	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	34	P	10	8	3	1	PST	0	8	11	0	
+0	0	0	S	10	8	3	0		6	9	5	0	
+0	0	0	T	10	8	3	0		8	10	3	0	
+21
+1	VFW	Ex-G.I.'s grp.
+4	SKI	Boot holder
+7	ATRY	"It's worth ___"
+9	LAIDON	Applied
+12	SOIE	Parisian silk
+13	OBLOGS	Stretched figures
+14	RTREV	Prelate's title: Abbr.
+16	LEW	MacDonald private eye Archer
+17	DETRE	Raison ___
+18	EWE	Shepherd's charge
+19	ILOCANO	Philippine language
+21	ENE	Ariz.-to-Kan. dir.
+22	REORG	Corporate shuffling, for short
+24	ATV	It goes off-road: Abbr.
+25	ACTSA	___ part (role-plays)
+26	CLOCKF	Hand holder?
+29	EHEL	Jazzy Waters
+31	RATOUT	Fink on
+32	SILO	It's raised on a farm
+33	ELM	New Haven, a k a ___ City
+34	PST	Western setting: Abbr.
+19
+1	VAS	Anatomical duct
+2	FTORD	Old post of the 7th Infantry Div.
+3	WRITEINVOTE	"None of the above," essentially
+4	SAB	Rest time: Abbr.
+5	KIL	About 5/8 of a mi.
+6	IDOLWORSHIP	Veneration of a cult image
+8	YERTLE	Blue-backed Dr. Seuss character
+9	LOVECRAFT	"The Call of Cthulhu" writer
+10	OGEE	Double curve
+11	NSW	Where Sydney is: Abbr.
+15	ERO	Leandro's love
+18	ENOTES	Brief online messages
+20	AEC	Federal agcy., 1946-75
+21	ETLA	Ici ___ (here and there, to Th
+23	GAELS	Isle of Man residents
+24	ACR	Horiz.
+27	COL	Spreadsheet feature: Abbr.
+28	KUM	"___ Ba Yah" (campfire song)
+30	LOT	Auction buy

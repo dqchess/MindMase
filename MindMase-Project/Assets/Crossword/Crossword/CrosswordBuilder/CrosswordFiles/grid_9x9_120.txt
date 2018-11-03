@@ -1,0 +1,115 @@
+grid_9x9_120
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	W	0	1	3	1	WIL	0	1	5	1	WEANS
+0	1	2	I	0	1	3	0		0	2	9	1	ISNEITHER
+0	1	3	L	0	1	3	0		0	3	3	1	LED
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	A	0	6	3	1	APP	0	6	9	1	ATONALITY
+0	1	5	P	0	6	3	0		0	7	3	1	PAR
+0	1	6	P	0	6	3	0		0	8	3	1	PRY
+0	1	7	W	1	0	5	1	WESER	1	0	3	1	WMP
+0	0	0	E	1	0	5	0		0	1	5	0	
+0	0	0	S	1	0	5	0		0	2	9	0	
+0	0	0	E	1	0	5	0		0	3	3	0	
+0	1	8	R	1	0	5	0		1	4	7	1	RATITES
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	T	1	6	3	1	TAR	0	6	9	0	
+0	0	0	A	1	6	3	0		0	7	3	0	
+0	0	0	R	1	6	3	0		0	8	3	0	
+0	1	10	M	2	0	9	1	MANDATORY	1	0	3	0	
+0	0	0	A	2	0	9	0		0	1	5	0	
+0	0	0	N	2	0	9	0		0	2	9	0	
+0	0	0	D	2	0	9	0		0	3	3	0	
+0	0	0	A	2	0	9	0		1	4	7	0	
+0	1	11	T	2	0	9	0		2	5	3	1	TEL
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	R	2	0	9	0		0	7	3	0	
+0	0	0	Y	2	0	9	0		0	8	3	0	
+0	1	12	P	3	0	3	1	PNE	1	0	3	0	
+0	0	0	N	3	0	3	0		0	1	5	0	
+0	0	0	E	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	T	3	4	3	1	TEN	1	4	7	0	
+0	0	0	E	3	4	3	0		2	5	3	0	
+0	0	0	N	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	S	4	1	7	1	SIMILAR	0	1	5	0	
+0	0	0	I	4	1	7	0		0	2	9	0	
+0	1	15	M	4	1	7	0		4	3	3	1	MAL
+0	0	0	I	4	1	7	0		1	4	7	0	
+0	0	0	L	4	1	7	0		2	5	3	0	
+0	0	0	A	4	1	7	0		0	6	9	0	
+0	1	16	R	4	1	7	0		4	7	5	1	REESE
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	T	5	2	3	1	TAT	0	2	9	0	
+0	0	0	A	5	2	3	0		4	3	3	0	
+0	0	0	T	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	L	5	6	3	1	LEI	0	6	9	0	
+0	0	0	E	5	6	3	0		4	7	5	0	
+0	1	19	I	5	6	3	0		5	8	3	1	ILA
+0	1	20	S	6	0	9	1	SCHLEMIEL	6	0	3	1	SOD
+0	1	21	C	6	0	9	0		6	1	3	1	CSI
+0	0	0	H	6	0	9	0		0	2	9	0	
+0	0	0	L	6	0	9	0		4	3	3	0	
+0	0	0	E	6	0	9	0		1	4	7	0	
+0	1	22	M	6	0	9	0		6	5	3	1	MEL
+0	0	0	I	6	0	9	0		0	6	9	0	
+0	0	0	E	6	0	9	0		4	7	5	0	
+0	0	0	L	6	0	9	0		5	8	3	0	
+0	1	23	O	7	0	3	1	OSE	6	0	3	0	
+0	0	0	S	7	0	3	0		6	1	3	0	
+0	0	0	E	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	S	7	4	5	1	SETSA	1	4	7	0	
+0	0	0	E	7	4	5	0		6	5	3	0	
+0	0	0	T	7	4	5	0		0	6	9	0	
+0	0	0	S	7	4	5	0		4	7	5	0	
+0	0	0	A	7	4	5	0		5	8	3	0	
+0	1	25	D	8	0	3	1	DIR	6	0	3	0	
+0	0	0	I	8	0	3	0		6	1	3	0	
+0	0	0	R	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	L	8	5	3	1	LYE	6	5	3	0	
+0	0	0	Y	8	5	3	0		0	6	9	0	
+0	0	0	E	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	WIL	Wheaton of "Stand By Me"
+4	APP	Smartphone download, briefly
+7	WESER	River into which the Fulda flows
+9	TAR	Driveway covering
+10	MANDATORY	Binding
+12	PNE	Log cabin material, maybe
+13	TEN	Jack's inferior
+14	SIMILAR	Sharing properties
+17	TAT	Do lacework
+18	LEI	Perishable fashion accessory
+20	SCHLEMIEL	Chump
+23	OSE	Sugary suffix
+24	SETSA	___ course (plans)
+25	DIR	Board mem., maybe
+26	LYE	Soapmaker's supply
+15
+1	WEANS	Gradually removes
+2	ISNEITHER	Definition, part 3
+3	LED	Outranked
+4	ATONALITY	Feature of the 1925 opera "Wozzeck"
+5	PAR	It's occasionally 5
+6	PRY	Eavesdrop, maybe
+7	WMP	Writer Fleming
+8	RATITES	Ostriches, e.g.
+11	TEL	No. on a calling card
+15	MAL	___ de t
+16	REESE	"The Terminator" man Kyle ___
+19	ILA	Dockworkers' grp.
+20	SOD	Green stuff
+21	CSI	Hit CBS drama with two spinoffs
+22	MEL	Owner of Alice's restaurant

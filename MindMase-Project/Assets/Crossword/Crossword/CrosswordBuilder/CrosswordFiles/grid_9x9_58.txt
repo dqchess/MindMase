@@ -1,0 +1,115 @@
+grid_9x9_58
+9
+0	1	1	H	0	0	3	1	HYP	0	0	3	1	HOY
+0	1	2	Y	0	0	3	0		0	1	3	1	YIP
+0	1	3	P	0	0	3	0		0	2	9	1	PESSIMISM
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	O	0	5	3	1	OCA	0	5	3	1	OFA
+0	1	5	C	0	5	3	0		0	6	9	1	CANISTERS
+0	1	6	A	0	5	3	0		0	7	5	1	ARTIE
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	O	1	0	3	1	OIE	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	3	0	
+0	0	0	E	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	O	1	4	5	1	OFART	1	4	7	1	OLEMISS
+0	0	0	F	1	4	5	0		0	5	3	0	
+0	0	0	A	1	4	5	0		0	6	9	0	
+0	0	0	R	1	4	5	0		0	7	5	0	
+0	1	9	T	1	4	5	0		1	8	3	1	TIN
+0	1	10	Y	2	0	9	1	YPSILANTI	0	0	3	0	
+0	0	0	P	2	0	9	0		0	1	3	0	
+0	0	0	S	2	0	9	0		0	2	9	0	
+0	1	11	I	2	0	9	0		2	3	3	1	ILA
+0	0	0	L	2	0	9	0		1	4	7	0	
+0	0	0	A	2	0	9	0		0	5	3	0	
+0	0	0	N	2	0	9	0		0	6	9	0	
+0	0	0	T	2	0	9	0		0	7	5	0	
+0	0	0	I	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	S	3	2	3	1	SLE	0	2	9	0	
+0	0	0	L	3	2	3	0		2	3	3	0	
+0	0	0	E	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	I	3	6	3	1	IIN	0	6	9	0	
+0	0	0	I	3	6	3	0		0	7	5	0	
+0	0	0	N	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	S	4	1	7	1	SIAMESE	4	1	5	1	SCOOP
+0	0	0	I	4	1	7	0		0	2	9	0	
+0	0	0	A	4	1	7	0		2	3	3	0	
+0	0	0	M	4	1	7	0		1	4	7	0	
+0	1	15	E	4	1	7	0		4	5	3	1	ETE
+0	0	0	S	4	1	7	0		0	6	9	0	
+0	0	0	E	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	M	5	0	3	1	MCM	5	0	3	1	MSS
+0	0	0	C	5	0	3	0		4	1	5	0	
+0	0	0	M	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	I	5	4	3	1	ITT	1	4	7	0	
+0	0	0	T	5	4	3	0		4	5	3	0	
+0	0	0	T	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	S	6	0	9	1	SOITSEEMS	5	0	3	0	
+0	0	0	O	6	0	9	0		4	1	5	0	
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	1	19	T	6	0	9	0		6	3	3	1	TAS
+0	0	0	S	6	0	9	0		1	4	7	0	
+0	0	0	E	6	0	9	0		4	5	3	0	
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	1	20	M	6	0	9	0		6	7	3	1	MAT
+0	1	21	S	6	0	9	0		6	8	3	1	SDS
+0	1	22	S	7	0	5	1	SOSAS	5	0	3	0	
+0	0	0	O	7	0	5	0		4	1	5	0	
+0	0	0	S	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	R	7	6	3	1	RAD	0	6	9	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	D	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	P	8	1	3	1	PMS	4	1	5	0	
+0	0	0	M	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	S	8	6	3	1	STS	0	6	9	0	
+0	0	0	T	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	HYP	Right-triangle leg: Abbr.
+4	OCA	South American tuber
+7	OIE	Gallic goose
+8	OFART	Work ___
+10	YPSILANTI	Home of Eastern Michigan University
+12	SLE	Trickiness
+13	IIN	"Boy, am ___ trouble!"
+14	SIAMESE	Standpipe with two openings
+16	MCM	Year McKinley was elected to a second term
+17	ITT	Noted business conglomerate
+18	SOITSEEMS	"Sure looks that way"
+22	SOSAS	Family of Slammin' Sammy
+23	RAD	"Far out!"
+24	PMS	Summit gatherers, for short
+25	STS	Abbr. concerning the holy or "potholy"
+15
+1	HOY	Este d
+2	YIP	Poodle's greeting
+3	PESSIMISM	It "never won any battle," according to Eisenhower
+4	OFA	"Son ___ gun!"
+5	CANISTERS	Jars
+6	ARTIE	Jazz great Shaw
+8	OLEMISS	Annual Egg Bowl participant
+9	TIN	Biscuit holder
+11	ILA	Dockworkers' org.
+14	SCOOP	Ice cream unit
+15	ETE	Summer in Paris
+16	MSS	Workload for eds.
+19	TAS	___ in Thomas
+20	MAT	Place for a pin
+21	SDS	It spawned the Weather Underground Org.

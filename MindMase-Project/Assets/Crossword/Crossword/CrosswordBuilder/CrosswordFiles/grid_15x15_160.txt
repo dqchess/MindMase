@@ -1,0 +1,309 @@
+grid_15x15_160
+15
+0	1	1	K	0	0	5	1	KASHA	0	0	3	1	KMS
+0	1	2	A	0	0	5	0		0	1	10	1	AMASSMEDIA
+0	1	3	S	0	0	5	0		0	2	15	1	SITSONONESHANDS
+0	1	4	H	0	0	5	0		0	3	4	1	HIES
+0	1	5	A	0	0	5	0		0	4	3	1	AIL
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	6	O	0	6	3	1	OTC	0	6	6	1	ONIONS
+0	1	7	T	0	6	3	0		0	7	4	1	TUTU
+0	1	8	C	0	6	3	0		0	8	3	1	CLE
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	5	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	9	G	0	12	3	1	GIS	0	12	15	1	GETMILEAGEOUTOF
+0	1	10	I	0	12	3	0		0	13	4	1	IDEE
+0	1	11	S	0	12	3	0		0	14	3	1	SES
+0	1	12	M	1	0	5	1	MMIII	0	0	3	0	
+0	0	0	M	1	0	5	0		0	1	10	0	
+0	0	0	I	1	0	5	0		0	2	15	0	
+0	0	0	I	1	0	5	0		0	3	4	0	
+0	0	0	I	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	3	0	
+0	1	13	N	1	6	5	1	NULLS	0	6	6	0	
+0	0	0	U	1	6	5	0		0	7	4	0	
+0	0	0	L	1	6	5	0		0	8	3	0	
+0	1	14	L	1	6	5	0		1	9	3	1	LSE
+0	1	15	S	1	6	5	0		1	10	5	1	STARZ
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	16	E	1	12	3	1	EDE	0	12	15	0	
+0	0	0	D	1	12	3	0		0	13	4	0	
+0	0	0	E	1	12	3	0		0	14	3	0	
+0	1	17	S	2	0	15	1	SATELLITESTATES	0	0	3	0	
+0	0	0	A	2	0	15	0		0	1	10	0	
+0	0	0	T	2	0	15	0		0	2	15	0	
+0	0	0	E	2	0	15	0		0	3	4	0	
+0	0	0	L	2	0	15	0		0	4	3	0	
+0	1	18	L	2	0	15	0		2	5	3	1	LBS
+0	0	0	I	2	0	15	0		0	6	6	0	
+0	0	0	T	2	0	15	0		0	7	4	0	
+0	0	0	E	2	0	15	0		0	8	3	0	
+0	0	0	S	2	0	15	0		1	9	3	0	
+0	0	0	T	2	0	15	0		1	10	5	0	
+0	1	19	A	2	0	15	0		2	11	3	1	ATA
+0	0	0	T	2	0	15	0		0	12	15	0	
+0	0	0	E	2	0	15	0		0	13	4	0	
+0	0	0	S	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	6	0	
+0	1	20	S	3	1	3	1	SSS	0	1	10	0	
+0	0	0	S	3	1	3	0		0	2	15	0	
+0	0	0	S	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	21	B	3	5	3	1	BOU	2	5	3	0	
+0	0	0	O	3	5	3	0		0	6	6	0	
+0	0	0	U	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	5	0		4	8	0	0	
+0	1	22	E	3	9	5	1	EATME	1	9	3	0	
+0	0	0	A	3	9	5	0		1	10	5	0	
+0	0	0	T	3	9	5	0		2	11	3	0	
+0	0	0	M	3	9	5	0		0	12	15	0	
+0	0	0	E	3	9	5	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	23	G	4	0	3	1	GSO	4	0	6	1	GORIOT
+0	0	0	S	4	0	3	0		0	1	10	0	
+0	0	0	O	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	3	0		5	3	3	0	
+0	1	24	U	4	4	3	1	USN	4	4	3	1	UAE
+0	0	0	S	4	4	3	0		2	5	3	0	
+0	0	0	N	4	4	3	0		0	6	6	0	
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	4	0	
+0	1	25	R	4	10	3	1	RAI	1	10	5	0	
+0	0	0	A	4	10	3	0		2	11	3	0	
+0	0	0	I	4	10	3	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	10	0	
+1	0	0	#	4	15	0	0		5	14	6	0	
+0	1	26	O	5	0	5	1	OMNIA	4	0	6	0	
+0	0	0	M	5	0	5	0		0	1	10	0	
+0	0	0	N	5	0	5	0		0	2	15	0	
+0	1	27	I	5	0	5	0		5	3	3	1	IPO
+0	0	0	A	5	0	5	0		4	4	3	0	
+1	0	0	#	5	6	5	0		6	5	4	0	
+0	1	28	S	5	6	5	1	STUTZ	0	6	6	0	
+0	1	29	T	5	6	5	0		5	7	5	1	TURKS
+0	1	30	U	5	6	5	0		5	8	3	1	UIE
+0	1	31	T	5	6	5	0		5	9	4	1	TRAC
+0	0	0	Z	5	6	5	0		1	10	5	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	32	L	5	12	3	1	LIM	0	12	15	0	
+0	1	33	I	5	12	3	0		5	13	10	1	INHOTWATER
+0	1	34	M	5	12	3	0		5	14	6	1	MCLEAN
+0	1	35	R	6	0	6	1	REOPEN	4	0	6	0	
+0	0	0	E	6	0	6	0		0	1	10	0	
+0	0	0	O	6	0	6	0		0	2	15	0	
+0	0	0	P	6	0	6	0		5	3	3	0	
+0	0	0	E	6	0	6	0		4	4	3	0	
+0	1	36	N	6	0	6	0		6	5	4	1	NASI
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	37	U	6	7	3	1	UIR	5	7	5	0	
+0	0	0	I	6	7	3	0		5	8	3	0	
+0	0	0	R	6	7	3	0		5	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	38	E	6	12	3	1	ENC	0	12	15	0	
+0	0	0	N	6	12	3	0		5	13	10	0	
+0	0	0	C	6	12	3	0		5	14	6	0	
+0	1	39	I	7	0	4	1	IDNO	4	0	6	0	
+0	0	0	D	7	0	4	0		0	1	10	0	
+0	0	0	N	7	0	4	0		0	2	15	0	
+0	0	0	O	7	0	4	0		5	3	3	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	40	A	7	5	5	1	ARREA	6	5	4	0	
+0	1	41	R	7	5	5	0		7	6	3	1	RTS
+0	0	0	R	7	5	5	0		5	7	5	0	
+0	0	0	E	7	5	5	0		5	8	3	0	
+0	0	0	A	7	5	5	0		5	9	4	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	42	S	7	11	4	1	SAHL	7	11	3	1	SIL
+0	0	0	A	7	11	4	0		0	12	15	0	
+0	0	0	H	7	11	4	0		5	13	10	0	
+0	0	0	L	7	11	4	0		5	14	6	0	
+0	1	43	O	8	0	3	1	OIE	4	0	6	0	
+0	0	0	I	8	0	3	0		0	1	10	0	
+0	0	0	E	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	5	0	
+0	1	44	S	8	5	3	1	STK	6	5	4	0	
+0	0	0	T	8	5	3	0		7	6	3	0	
+0	0	0	K	8	5	3	0		5	7	5	0	
+1	0	0	#	8	9	6	0		9	8	6	0	
+0	1	45	C	8	9	6	1	CHIGOE	5	9	4	0	
+0	1	46	H	8	9	6	0		8	10	3	1	HOR
+0	0	0	I	8	9	6	0		7	11	3	0	
+0	0	0	G	8	9	6	0		0	12	15	0	
+0	0	0	O	8	9	6	0		5	13	10	0	
+0	0	0	E	8	9	6	0		5	14	6	0	
+0	1	47	T	9	0	3	1	TAS	4	0	6	0	
+0	0	0	A	9	0	3	0		0	1	10	0	
+0	0	0	S	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	5	0		10	3	3	0	
+0	1	48	M	9	4	5	1	MISSM	9	4	5	1	MILER
+0	0	0	I	9	4	5	0		6	5	4	0	
+0	0	0	S	9	4	5	0		7	6	3	0	
+0	0	0	S	9	4	5	0		5	7	5	0	
+0	1	49	M	9	4	5	0		9	8	6	1	MILIEU
+1	0	0	#	9	10	5	0		10	9	3	0	
+0	1	50	O	9	10	5	1	OLETA	8	10	3	0	
+0	0	0	L	9	10	5	0		7	11	3	0	
+0	0	0	E	9	10	5	0		0	12	15	0	
+0	0	0	T	9	10	5	0		5	13	10	0	
+0	0	0	A	9	10	5	0		5	14	6	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	4	0	
+0	1	51	H	10	2	3	1	HSI	0	2	15	0	
+0	1	52	S	10	2	3	0		10	3	3	1	SUN
+0	0	0	I	10	2	3	0		9	4	5	0	
+1	0	0	#	10	6	0	0		11	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	4	0	
+0	1	53	I	10	8	3	1	IOR	9	8	6	0	
+0	1	54	O	10	8	3	0		10	9	3	1	OPQ
+0	0	0	R	10	8	3	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	55	O	10	12	3	1	OWN	0	12	15	0	
+0	0	0	W	10	12	3	0		5	13	10	0	
+0	0	0	N	10	12	3	0		5	14	6	0	
+1	0	0	#	11	1	5	0		12	0	3	0	
+0	1	56	P	11	1	5	1	PAULA	11	1	4	1	PIED
+0	0	0	A	11	1	5	0		0	2	15	0	
+0	0	0	U	11	1	5	0		10	3	3	0	
+0	0	0	L	11	1	5	0		9	4	5	0	
+0	1	57	A	11	1	5	0		11	5	3	1	ARS
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	58	E	11	7	3	1	ELP	11	7	4	1	ETDS
+0	0	0	L	11	7	3	0		9	8	6	0	
+0	0	0	P	11	7	3	0		10	9	3	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	59	S	11	11	3	1	SUA	11	11	4	1	SEVE
+0	0	0	U	11	11	3	0		0	12	15	0	
+0	0	0	A	11	11	3	0		5	13	10	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	60	D	12	0	15	1	DINNERETIQUETTE	12	0	3	1	DCC
+0	0	0	I	12	0	15	0		11	1	4	0	
+0	0	0	N	12	0	15	0		0	2	15	0	
+0	0	0	N	12	0	15	0		10	3	3	0	
+0	0	0	E	12	0	15	0		9	4	5	0	
+0	0	0	R	12	0	15	0		11	5	3	0	
+0	1	61	E	12	0	15	0		12	6	3	1	EIK
+0	0	0	T	12	0	15	0		11	7	4	0	
+0	0	0	I	12	0	15	0		9	8	6	0	
+0	0	0	Q	12	0	15	0		10	9	3	0	
+0	1	62	U	12	0	15	0		12	10	3	1	UAR
+0	0	0	E	12	0	15	0		11	11	4	0	
+0	0	0	T	12	0	15	0		0	12	15	0	
+0	0	0	T	12	0	15	0		5	13	10	0	
+0	1	63	E	12	0	15	0		12	14	3	1	ERY
+0	1	64	C	13	0	3	1	CED	12	0	3	0	
+0	0	0	E	13	0	3	0		11	1	4	0	
+0	0	0	D	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	5	0		14	3	0	0	
+0	1	65	R	13	4	5	1	RSIDE	9	4	5	0	
+0	0	0	S	13	4	5	0		11	5	3	0	
+0	0	0	I	13	4	5	0		12	6	3	0	
+0	0	0	D	13	4	5	0		11	7	4	0	
+0	0	0	E	13	4	5	0		9	8	6	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	66	A	13	10	5	1	AVOER	12	10	3	0	
+0	0	0	V	13	10	5	0		11	11	4	0	
+0	0	0	O	13	10	5	0		0	12	15	0	
+0	0	0	E	13	10	5	0		5	13	10	0	
+0	0	0	R	13	10	5	0		12	14	3	0	
+0	1	67	C	14	0	3	1	CDS	12	0	3	0	
+0	0	0	D	14	0	3	0		11	1	4	0	
+0	0	0	S	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	68	K	14	6	3	1	KSU	12	6	3	0	
+0	0	0	S	14	6	3	0		11	7	4	0	
+0	0	0	U	14	6	3	0		9	8	6	0	
+1	0	0	#	14	10	5	0		15	9	0	0	
+0	1	69	R	14	10	5	1	REFRY	12	10	3	0	
+0	0	0	E	14	10	5	0		11	11	4	0	
+0	0	0	F	14	10	5	0		0	12	15	0	
+0	0	0	R	14	10	5	0		5	13	10	0	
+0	0	0	Y	14	10	5	0		12	14	3	0	
+41
+1	KASHA	Buckwheat groats
+6	OTC	Financial page heading
+9	GIS	Amer. soldiers
+12	MMIII	A century after the Wright brothers' first flight
+13	NULLS	Cancels
+16	EDE	Central Dutch city
+17	SATELLITESTATES	East Germany and such
+20	SSS	Object of 60's protests: Abbr.
+21	BOU	"Cat ___," 1965 film
+22	EATME	Directive obeyed by Alice
+23	GSO	Mil. aide
+24	USN	Org. with many captains
+25	RAI	Heyerdahl raft
+26	OMNIA	In ___ paratus
+28	STUTZ	Early automaker Harry C. ___
+32	LIM	Boundary: Abbr.
+35	REOPEN	Tap anew
+37	UIR	Onetime TWA rival
+38	ENC	Ltr. insert
+39	IDNO	Fig. on a driver's license
+40	ARREA	Unpaid debt
+42	SAHL	Comedian Mort
+43	OIE	Goose, to Gr
+44	STK	Nasdaq listing: Abbr.
+45	CHIGOE	Tropical flea
+47	TAS	Univ. workers
+48	MISSM	Bette's "Divine" stage persona
+50	OLETA	River that drains the Everglades into Biscayne Bay
+51	HSI	Fu-___ (legendary Chinese sage)
+53	IOR	Super finish?
+55	OWN	Completely dominate
+56	PAULA	Newscaster Zahn
+58	ELP	Grp. with the 1973 gold album "Brain Salad Surgery"
+59	SUA	___ sponte (of its own accord, at law)
+60	DINNERETIQUETTE	Keeping your elbows off the table, e.g.
+64	CED	Like associates, on some e-mails
+65	RSIDE	Where to sign a credit card, e.g.
+66	AVOER	Declarer
+67	CDS	Today's platters
+68	KSU	The Wildcats of the Big 12 Conf.
+69	REFRY	Prepare, as a side of beans
+39
+1	KMS	U.K. distance measures
+2	AMASSMEDIA	Build a publishing empire?
+3	SITSONONESHANDS	Fails to take action
+4	HIES	Doesn't dally
+5	AIL	Have something
+6	ONIONS	40A/34D topping
+7	TUTU	Dress not comfortable to sit in
+8	CLE	Key: Fr.
+9	GETMILEAGEOUTOF	Obtain service from
+10	IDEE	___ fixe
+11	SES	Parisian possessive
+14	LSE	End of many an E-mail address
+15	STARZ	Movie lover's cable channel
+18	LBS	There are 2.2 in a kg.
+19	ATA	Week-___-glance calendar
+23	GORIOT	Balzac's P
+24	UAE	Dubai and Abu Dhabi are part of it: Abbr.
+27	IPO	You might take stock in it: Abbr.
+29	TURKS	Izmir natives
+30	UIE	Turnabout, for short
+31	TRAC	Deere product: Abbr.
+33	INHOTWATER	Facing danger
+34	MCLEAN	"American Pie" singer Don
+36	NASI	Nose: Prefix
+41	RTS	Defensive linemen: Abbr.
+42	SIL	Tony's consigliere, familiarly, on "The Sopranos"
+46	HOR	TV adjustment: Abbr.
+48	MILER	Track specialist
+49	MILIEU	Environment
+52	SUN	Lighter?
+54	OPQ	Alphabetic trio
+56	PIED	Motley
+57	ARS	"___ Grammatica" (classic work on Latin)
+58	ETDS	Airport info: Abbr.
+59	SEVE	Golf's Ballesteros
+60	DCC	700, once
+61	EIK	Apt. feature, in the classifieds
+62	UAR	Former polit. union
+63	ERY	Suffix with mock

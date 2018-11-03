@@ -1,0 +1,115 @@
+grid_9x9_10
+9
+0	1	1	S	0	0	3	1	SEC	0	0	3	1	SAC
+0	1	2	E	0	0	3	0		0	1	3	1	EHS
+0	1	3	C	0	0	3	0		0	2	9	1	CATONINET
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	E	0	5	3	1	ENA	0	5	3	1	ERE
+0	1	5	N	0	5	3	0		0	6	9	1	NONLINEAR
+0	1	6	A	0	5	3	0		0	7	5	1	AMTOO
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	A	1	0	3	1	AHA	0	0	3	0	
+0	0	0	H	1	0	3	0		0	1	3	0	
+0	0	0	A	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	P	1	4	4	1	PROM	1	4	7	1	PDJAMES
+0	0	0	R	1	4	4	0		0	5	3	0	
+0	0	0	O	1	4	4	0		0	6	9	0	
+0	0	0	M	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	9	C	2	0	9	1	CSTUDENTS	0	0	3	0	
+0	0	0	S	2	0	9	0		0	1	3	0	
+0	0	0	T	2	0	9	0		0	2	9	0	
+0	1	10	U	2	0	9	0		2	3	3	1	UBS
+0	0	0	D	2	0	9	0		1	4	7	0	
+0	0	0	E	2	0	9	0		0	5	3	0	
+0	0	0	N	2	0	9	0		0	6	9	0	
+0	0	0	T	2	0	9	0		0	7	5	0	
+0	1	11	S	2	0	9	0		2	8	3	1	SYN
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	O	3	2	3	1	OBJ	0	2	9	0	
+0	0	0	B	3	2	3	0		2	3	3	0	
+0	0	0	J	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	L	3	6	3	1	LOY	0	6	9	0	
+0	0	0	O	3	6	3	0		0	7	5	0	
+0	0	0	Y	3	6	3	0		2	8	3	0	
+0	1	14	S	4	0	9	1	SENSATION	4	0	3	1	SOC
+0	1	15	E	4	0	9	0		4	1	5	1	ENORE
+0	0	0	N	4	0	9	0		0	2	9	0	
+0	0	0	S	4	0	9	0		2	3	3	0	
+0	0	0	A	4	0	9	0		1	4	7	0	
+0	1	16	T	4	0	9	0		4	5	3	1	TAR
+0	0	0	I	4	0	9	0		0	6	9	0	
+0	0	0	O	4	0	9	0		0	7	5	0	
+0	0	0	N	4	0	9	0		2	8	3	0	
+0	1	17	O	5	0	3	1	ONI	4	0	3	0	
+0	0	0	N	5	0	3	0		4	1	5	0	
+0	0	0	I	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	M	5	4	3	1	MAN	1	4	7	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	0	0	N	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	C	6	0	9	1	CONGEREEL	4	0	3	0	
+0	0	0	O	6	0	9	0		4	1	5	0	
+0	0	0	N	6	0	9	0		0	2	9	0	
+0	1	20	G	6	0	9	0		6	3	3	1	GAD
+0	0	0	E	6	0	9	0		1	4	7	0	
+0	0	0	R	6	0	9	0		4	5	3	0	
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	1	21	E	6	0	9	0		6	7	3	1	ECU
+0	1	22	L	6	0	9	0		6	8	3	1	LKP
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	23	R	7	1	4	1	REAS	4	1	5	0	
+0	0	0	E	7	1	4	0		0	2	9	0	
+0	0	0	A	7	1	4	0		6	3	3	0	
+0	0	0	S	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	A	7	6	3	1	ACK	0	6	9	0	
+0	0	0	C	7	6	3	0		6	7	3	0	
+0	0	0	K	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	E	8	1	3	1	ETD	4	1	5	0	
+0	0	0	T	8	1	3	0		0	2	9	0	
+0	0	0	D	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	R	8	6	3	1	RUP	0	6	9	0	
+0	0	0	U	8	6	3	0		6	7	3	0	
+0	0	0	P	8	6	3	0		6	8	3	0	
+15
+1	SEC	Dry, in Napa
+4	ENA	Bambi's aunt
+7	AHA	"Gotcha"
+8	PROM	Limo destination, perhaps
+9	CSTUDENTS	They're far from valedictorians
+12	OBJ	Goal: Abbr.
+13	LOY	Silver screen star Myrna
+14	SENSATION	Stir
+17	ONI	Clandestine maritime org.
+18	MAN	"Hoo-ey!"
+19	CONGEREEL	Sharp-toothed Atlantic swimmer
+23	REAS	Actor Stephen and kin
+24	ACK	"Egad!"
+25	ETD	Schedule board abbr.
+26	RUP	Was revolting
+15
+1	SAC	Bag
+2	EHS	Remarks requesting elucidation
+3	CATONINET	Tough mode of punishment
+4	ERE	Poetic conjunction
+5	NONLINEAR	Inspired kind of thinking
+6	AMTOO	Playground retort
+8	PDJAMES	"The Children of Men" novelist
+10	UBS	Financial inst. that bought PaineWebber in 2000
+11	SYN	Lexicographical abbr.
+14	SOC	Norman Thomas's party: Abbr.
+15	ENORE	"More!"
+16	TAR	Worker with two-masters
+20	GAD	Roam
+21	ECU	Antique French coin
+22	LKP	British verb ending

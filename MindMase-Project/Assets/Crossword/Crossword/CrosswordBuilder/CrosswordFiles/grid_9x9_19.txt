@@ -1,0 +1,115 @@
+grid_9x9_19
+9
+0	1	1	I	0	0	3	1	IBN	0	0	3	1	INI
+0	1	2	B	0	0	3	0		0	1	3	1	BMT
+0	1	3	N	0	0	3	0		0	2	9	1	NITPICKED
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	C	0	5	3	1	CMD	0	5	3	1	CRI
+0	1	5	M	0	5	3	0		0	6	9	1	METROAREA
+0	1	6	D	0	5	3	0		0	7	5	1	DSTAR
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	N	1	0	3	1	NMI	0	0	3	0	
+0	0	0	M	1	0	3	0		0	1	3	0	
+0	0	0	I	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	W	1	4	5	1	WREST	1	4	7	1	WBYEATS
+0	0	0	R	1	4	5	0		0	5	3	0	
+0	0	0	E	1	4	5	0		0	6	9	0	
+0	0	0	S	1	4	5	0		0	7	5	0	
+0	1	9	T	1	4	5	0		1	8	3	1	TYS
+0	1	10	I	2	0	9	1	ITTYBITTY	0	0	3	0	
+0	0	0	T	2	0	9	0		0	1	3	0	
+0	0	0	T	2	0	9	0		0	2	9	0	
+0	1	11	Y	2	0	9	0		2	3	3	1	YRS
+0	0	0	B	2	0	9	0		1	4	7	0	
+0	0	0	I	2	0	9	0		0	5	3	0	
+0	0	0	T	2	0	9	0		0	6	9	0	
+0	0	0	T	2	0	9	0		0	7	5	0	
+0	0	0	Y	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	P	3	2	3	1	PRY	0	2	9	0	
+0	0	0	R	3	2	3	0		2	3	3	0	
+0	0	0	Y	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	R	3	6	3	1	RAS	0	6	9	0	
+0	0	0	A	3	6	3	0		0	7	5	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	S	4	1	7	1	SISENOR	4	1	5	1	SAILS
+0	0	0	I	4	1	7	0		0	2	9	0	
+0	0	0	S	4	1	7	0		2	3	3	0	
+0	0	0	E	4	1	7	0		1	4	7	0	
+0	1	15	N	4	1	7	0		4	5	3	1	NCO
+0	0	0	O	4	1	7	0		0	6	9	0	
+0	0	0	R	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	P	5	0	3	1	PAC	5	0	3	1	PTA
+0	0	0	A	5	0	3	0		4	1	5	0	
+0	0	0	C	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	17	A	5	4	3	1	ACA	1	4	7	0	
+0	0	0	C	5	4	3	0		4	5	3	0	
+0	0	0	A	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	T	6	0	9	1	TIKITORCH	5	0	3	0	
+0	0	0	I	6	0	9	0		4	1	5	0	
+0	0	0	K	6	0	9	0		0	2	9	0	
+0	1	19	I	6	0	9	0		6	3	3	1	ICS
+0	0	0	T	6	0	9	0		1	4	7	0	
+0	0	0	O	6	0	9	0		4	5	3	0	
+0	0	0	R	6	0	9	0		0	6	9	0	
+0	1	20	C	6	0	9	0		6	7	3	1	CMR
+0	1	21	H	6	0	9	0		6	8	3	1	HUA
+0	1	22	A	7	0	5	1	ALECS	5	0	3	0	
+0	0	0	L	7	0	5	0		4	1	5	0	
+0	0	0	E	7	0	5	0		0	2	9	0	
+0	0	0	C	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	E	7	6	3	1	EMU	0	6	9	0	
+0	0	0	M	7	6	3	0		6	7	3	0	
+0	0	0	U	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	24	S	8	1	3	1	SDS	4	1	5	0	
+0	0	0	D	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	A	8	6	3	1	ARA	0	6	9	0	
+0	0	0	R	8	6	3	0		6	7	3	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+15
+1	IBN	Former Saudi king ___ Saud
+4	CMD	Military hqtrs.: Abbr.
+7	NMI	Application letters
+8	WREST	Seize (from)
+10	ITTYBITTY	Minuscule
+12	PRY	Force (open)
+13	RAS	Dorm V.I.P.'s
+14	SISENOR	Chihuahua assent
+16	PAC	Candidate supporter, briefly
+17	ACA	Here, to Javier
+18	TIKITORCH	Luau lighting
+22	ALECS	Guinness et al.
+23	EMU	Big bird of the outback
+24	SDS	Old sit-in stagers: Abbr.
+25	ARA	Era of ___ (period in Notre Dame football history)
+15
+1	INI	Kamoze of reggae
+2	BMT	N.Y.C. subway letters
+3	NITPICKED	Split hairs
+4	CRI	Chartres shout
+5	METROAREA	Local forecast focus
+6	DSTAR	Guiding light
+8	WBYEATS	"The Second Coming" poet
+9	TYS	Baseball's Cobb and others
+11	YRS	Decade parts: Abbr.
+14	SAILS	Breezes (through)
+15	NCO	Two- or three-striper, briefly
+16	PTA	Sch. calendar abbr.
+19	ICS	Suffix with magnet
+20	CMR	Nav. leader
+21	HUA	1970's Chinese premier

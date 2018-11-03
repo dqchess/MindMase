@@ -1,0 +1,229 @@
+grid_13x13_147
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	7	0	
+1	0	0	#	0	3	4	0		1	2	12	0	
+0	1	1	D	0	3	4	1	DCON	0	3	4	1	DINS
+0	1	2	C	0	3	4	0		0	4	3	1	CTN
+0	1	3	O	0	3	4	0		0	5	3	1	OSA
+0	1	4	N	0	3	4	0		0	6	13	1	NICKELANDDIME
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	5	0	
+0	1	5	B	0	10	3	1	BIS	0	10	12	1	BROCCOLIRABE
+0	1	6	I	0	10	3	0		0	11	4	1	IKES
+0	1	7	S	0	10	3	0		0	12	3	1	SSS
+1	0	0	#	1	1	7	0		2	0	0	0	
+0	1	8	F	1	1	7	1	FLITSIN	1	1	7	1	FPLATES
+0	1	9	L	1	1	7	0		1	2	12	1	LIMAORLENTIL
+0	0	0	I	1	1	7	0		0	3	4	0	
+0	0	0	T	1	1	7	0		0	4	3	0	
+0	0	0	S	1	1	7	0		0	5	3	0	
+0	0	0	I	1	1	7	0		0	6	13	0	
+0	1	10	N	1	1	7	0		1	7	3	1	NEO
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	11	A	1	9	4	1	ARKS	1	9	5	1	ARADO
+0	0	0	R	1	9	4	0		0	10	12	0	
+0	0	0	K	1	9	4	0		0	11	4	0	
+0	0	0	S	1	9	4	0		0	12	3	0	
+1	0	0	#	2	1	7	0		3	0	4	0	
+0	1	12	P	2	1	7	1	PINNACE	1	1	7	0	
+0	0	0	I	2	1	7	0		1	2	12	0	
+0	0	0	N	2	1	7	0		0	3	4	0	
+0	0	0	N	2	1	7	0		0	4	3	0	
+0	0	0	A	2	1	7	0		0	5	3	0	
+0	0	0	C	2	1	7	0		0	6	13	0	
+0	0	0	E	2	1	7	0		1	7	3	0	
+1	0	0	#	2	9	4	0		3	8	6	0	
+0	1	13	R	2	9	4	1	ROES	1	9	5	0	
+0	0	0	O	2	9	4	0		0	10	12	0	
+0	0	0	E	2	9	4	0		0	11	4	0	
+0	0	0	S	2	9	4	0		0	12	3	0	
+0	1	14	A	3	0	4	1	ALMS	3	0	4	1	AMOS
+0	0	0	L	3	0	4	0		1	1	7	0	
+0	0	0	M	3	0	4	0		1	2	12	0	
+0	0	0	S	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	6	0	
+1	0	0	#	3	6	6	0		4	5	3	0	
+0	1	15	K	3	6	6	1	KOVACS	0	6	13	0	
+0	0	0	O	3	6	6	0		1	7	3	0	
+0	1	16	V	3	6	6	0		3	8	6	1	VASSAL
+0	0	0	A	3	6	6	0		1	9	5	0	
+0	0	0	C	3	6	6	0		0	10	12	0	
+0	0	0	S	3	6	6	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	17	M	4	0	3	1	MAA	3	0	4	0	
+0	0	0	A	4	0	3	0		1	1	7	0	
+0	0	0	A	4	0	3	0		1	2	12	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	18	P	4	4	3	1	PRE	4	4	6	1	PUERTO
+0	1	19	R	4	4	3	0		4	5	3	1	RAD
+0	0	0	E	4	4	3	0		0	6	13	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	20	A	4	8	3	1	ADC	3	8	6	0	
+0	0	0	D	4	8	3	0		1	9	5	0	
+0	0	0	C	4	8	3	0		0	10	12	0	
+1	0	0	#	4	12	0	0		5	11	7	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	21	O	5	0	3	1	OTO	3	0	4	0	
+0	0	0	T	5	0	3	0		1	1	7	0	
+0	0	0	O	5	0	3	0		1	2	12	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	22	U	5	4	3	1	UAL	4	4	6	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	0	0	L	5	4	3	0		0	6	13	0	
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	23	S	5	8	4	1	SOOT	3	8	6	0	
+0	0	0	O	5	8	4	0		1	9	5	0	
+0	0	0	O	5	8	4	0		0	10	12	0	
+0	1	24	T	5	8	4	0		5	11	7	1	TRIMMER
+1	0	0	#	5	13	0	0		6	12	4	0	
+0	1	25	S	6	0	3	1	SER	3	0	4	0	
+0	0	0	E	6	0	3	0		1	1	7	0	
+0	0	0	R	6	0	3	0		1	2	12	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	26	E	6	4	5	1	EDAMS	4	4	6	0	
+0	0	0	D	6	4	5	0		4	5	3	0	
+0	0	0	A	6	4	5	0		0	6	13	0	
+0	1	27	M	6	4	5	0		6	7	3	1	MOI
+0	0	0	S	6	4	5	0		3	8	6	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	28	L	6	10	3	1	LRG	0	10	12	0	
+0	0	0	R	6	10	3	0		5	11	7	0	
+0	1	29	G	6	10	3	0		6	12	4	1	GINS
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	30	S	7	1	4	1	SLUR	1	1	7	0	
+0	0	0	L	7	1	4	0		1	2	12	0	
+0	1	31	U	7	1	4	0		7	3	5	1	UMBLE
+0	0	0	R	7	1	4	0		4	4	6	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	32	N	7	6	3	1	NOA	0	6	13	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	A	7	6	3	0		3	8	6	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	33	I	7	10	3	1	III	0	10	12	0	
+0	0	0	I	7	10	3	0		5	11	7	0	
+0	0	0	I	7	10	3	0		6	12	4	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	34	E	8	2	3	1	EMT	1	2	12	0	
+0	0	0	M	8	2	3	0		7	3	5	0	
+0	0	0	T	8	2	3	0		4	4	6	0	
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	35	D	8	6	3	1	DIL	0	6	13	0	
+0	0	0	I	8	6	3	0		6	7	3	0	
+0	0	0	L	8	6	3	0		3	8	6	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	36	R	8	10	3	1	RMN	0	10	12	0	
+0	0	0	M	8	10	3	0		5	11	7	0	
+0	0	0	N	8	10	3	0		6	12	4	0	
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	37	I	9	1	6	1	INBOLD	9	1	4	1	IANA
+0	0	0	N	9	1	6	0		1	2	12	0	
+0	0	0	B	9	1	6	0		7	3	5	0	
+0	0	0	O	9	1	6	0		4	4	6	0	
+0	1	38	L	9	1	6	0		9	5	3	1	LOS
+0	0	0	D	9	1	6	0		0	6	13	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	39	H	9	9	4	1	HAMS	9	9	4	1	HURD
+0	0	0	A	9	9	4	0		0	10	12	0	
+0	0	0	M	9	9	4	0		5	11	7	0	
+0	0	0	S	9	9	4	0		6	12	4	0	
+0	1	40	N	10	0	4	1	NATL	10	0	3	1	NUM
+0	0	0	A	10	0	4	0		9	1	4	0	
+0	0	0	T	10	0	4	0		1	2	12	0	
+0	0	0	L	10	0	4	0		7	3	5	0	
+1	0	0	#	10	5	7	0		11	4	0	0	
+0	1	41	O	10	5	7	1	OILTUBE	9	5	3	0	
+0	0	0	I	10	5	7	0		0	6	13	0	
+0	1	42	L	10	5	7	0		10	7	3	1	LEY
+0	1	43	T	10	5	7	0		10	8	3	1	TAE
+0	0	0	U	10	5	7	0		9	9	4	0	
+0	0	0	B	10	5	7	0		0	10	12	0	
+0	0	0	E	10	5	7	0		5	11	7	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+0	1	44	U	11	0	4	1	UNIE	10	0	3	0	
+0	0	0	N	11	0	4	0		9	1	4	0	
+0	0	0	I	11	0	4	0		1	2	12	0	
+0	0	0	E	11	0	4	0		7	3	5	0	
+1	0	0	#	11	5	7	0		12	4	0	0	
+0	1	45	S	11	5	7	1	SMEARER	9	5	3	0	
+0	0	0	M	11	5	7	0		0	6	13	0	
+0	0	0	E	11	5	7	0		10	7	3	0	
+0	0	0	A	11	5	7	0		10	8	3	0	
+0	0	0	R	11	5	7	0		9	9	4	0	
+0	0	0	E	11	5	7	0		0	10	12	0	
+0	0	0	R	11	5	7	0		5	11	7	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	46	M	12	0	3	1	MAL	10	0	3	0	
+0	0	0	A	12	0	3	0		9	1	4	0	
+0	0	0	L	12	0	3	0		1	2	12	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	4	0		13	5	0	0	
+0	1	47	E	12	6	4	1	EYED	0	6	13	0	
+0	0	0	Y	12	6	4	0		10	7	3	0	
+0	0	0	E	12	6	4	0		10	8	3	0	
+0	0	0	D	12	6	4	0		9	9	4	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	DCON	Big name in pest control
+5	BIS	Twice
+8	FLITSIN	Arrives like a social butterfly?
+11	ARKS	Temple cases
+12	PINNACE	Light sailing ship
+13	ROES	Richard and Jane in court
+14	ALMS	Charitable contributions
+15	KOVACS	Big name in early TV
+17	MAA	Pasture plaint
+18	PRE	Historic beginning
+20	ADC	Military asst.
+21	OTO	Plains dweller
+22	UAL	TWA rival
+23	SOOT	Chimney sweep's target
+25	SER	To be, in Barcelona
+26	EDAMS	Dutch exports
+28	LRG	Big: Abbr.
+30	SLUR	"Lying thief," e.g.
+32	NOA	When doubled, a book by Gauguin
+33	III	Midafternoon on a sundial
+34	EMT	One may be seen after a crash: Abbr.
+35	DIL	"Rugrats" baby
+36	RMN	Veep before L.B.J.
+37	INBOLD	Highlighted, as text
+39	HAMS	Radio amateurs
+40	NATL	One of the major leagues: Abbr.
+41	OILTUBE	Engine line
+44	UNIE	Combined, in Compi
+45	SMEARER	Dirty campaigner
+46	MAL	Bad beginning?
+47	EYED	Got a load of
+25
+1	DINS	Ruckuses
+2	CTN	Shipping unit: Abbr.
+3	OSA	Actress Massen of "Tokyo Rose"
+4	NICKELANDDIME	Trivial
+5	BROCCOLIRABE	Bitter-tasting vegetable
+6	IKES	Turner and Eisenhower
+7	SSS	Snake's warning
+8	FPLATES	Surrounders of light switches
+9	LIMAORLENTIL	L/L Bean?
+10	NEO	___-noir (modern film genre)
+11	ARADO	Southwest land
+14	AMOS	Biblical sheep-farmer
+16	VASSAL	Subordinate
+18	PUERTO	Habana or C
+19	RAD	Far out
+24	TRIMMER	Grooming gizmo
+27	MOI	Miss Piggy's pronoun
+29	GINS	Traps
+31	UMBLE	Like Uriah Heep
+37	IANA	Suffix for a collection
+38	LOS	Archaic attention-getters
+39	HURD	Former British Foreign Secretary Douglas
+40	NUM	O.T. book
+42	LEY	Willy who wrote "The Conquest of Space"
+43	TAE	___ Bo (exercise system)

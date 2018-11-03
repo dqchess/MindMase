@@ -1,0 +1,117 @@
+grid_9x9_51
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	D	0	1	3	1	DEL	0	1	4	1	DADE
+0	1	2	E	0	1	3	0		0	2	4	1	EWES
+0	1	3	L	0	1	3	0		0	3	5	1	LSATS
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MAW	0	5	3	1	MOI
+0	1	5	A	0	5	3	0		0	6	4	1	ASSN
+0	1	6	W	0	5	3	0		0	7	4	1	WITT
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	S	1	0	4	1	SAWS	1	0	3	1	SIM
+0	0	0	A	1	0	4	0		0	1	4	0	
+0	0	0	W	1	0	4	0		0	2	4	0	
+0	0	0	S	1	0	4	0		0	3	5	0	
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	8	O	1	5	4	1	OSIE	0	5	3	0	
+0	0	0	S	1	5	4	0		0	6	4	0	
+0	0	0	I	1	5	4	0		0	7	4	0	
+0	1	9	E	1	5	4	0		1	8	3	1	ESS
+0	1	10	I	2	0	9	1	IDEALISTS	1	0	3	0	
+0	0	0	D	2	0	9	0		0	1	4	0	
+0	0	0	E	2	0	9	0		0	2	4	0	
+0	0	0	A	2	0	9	0		0	3	5	0	
+0	1	11	L	2	0	9	0		2	4	5	1	LOUPE
+0	0	0	I	2	0	9	0		0	5	3	0	
+0	0	0	S	2	0	9	0		0	6	4	0	
+0	0	0	T	2	0	9	0		0	7	4	0	
+0	0	0	S	2	0	9	0		1	8	3	0	
+0	1	12	M	3	0	5	1	MESTO	1	0	3	0	
+0	0	0	E	3	0	5	0		0	1	4	0	
+0	0	0	S	3	0	5	0		0	2	4	0	
+0	0	0	T	3	0	5	0		0	3	5	0	
+0	0	0	O	3	0	5	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	13	N	3	6	3	1	NTS	0	6	4	0	
+0	0	0	T	3	6	3	0		0	7	4	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	S	4	3	3	1	SUN	0	3	5	0	
+0	0	0	U	4	3	3	0		2	4	5	0	
+0	1	15	N	4	3	3	0		4	5	5	1	NEWAT
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	16	G	5	0	3	1	GAO	5	0	3	1	GSU
+0	1	17	A	5	0	3	0		5	1	4	1	ANOD
+0	1	18	O	5	0	3	0		5	2	4	1	OAFS
+1	0	0	#	5	4	5	0		6	3	3	0	
+0	1	19	P	5	4	5	1	PEPPY	2	4	5	0	
+0	0	0	E	5	4	5	0		4	5	5	0	
+0	1	20	P	5	4	5	0		5	6	4	1	PETA
+0	1	21	P	5	4	5	0		5	7	4	1	PEEP
+0	1	22	Y	5	4	5	0		5	8	3	1	YDS
+0	1	23	S	6	0	9	1	SNAKEWEED	5	0	3	0	
+0	0	0	N	6	0	9	0		5	1	4	0	
+0	0	0	A	6	0	9	0		5	2	4	0	
+0	1	24	K	6	0	9	0		6	3	3	1	KAT
+0	0	0	E	6	0	9	0		2	4	5	0	
+0	0	0	W	6	0	9	0		4	5	5	0	
+0	0	0	E	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	4	0	
+0	0	0	D	6	0	9	0		5	8	3	0	
+0	1	25	U	7	0	4	1	UOFA	5	0	3	0	
+0	0	0	O	7	0	4	0		5	1	4	0	
+0	0	0	F	7	0	4	0		5	2	4	0	
+0	0	0	A	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	26	A	7	5	4	1	ATES	4	5	5	0	
+0	0	0	T	7	5	4	0		5	6	4	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	S	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	D	8	1	3	1	DST	5	1	4	0	
+0	0	0	S	8	1	3	0		5	2	4	0	
+0	0	0	T	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	28	T	8	5	3	1	TAP	4	5	5	0	
+0	0	0	A	8	5	3	0		5	6	4	0	
+0	0	0	P	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	DEL	Wilmington's state: Abbr.
+4	MAW	Gaping mouth
+7	SAWS	They go back and forth to work
+8	OSIE	Toddler's attire
+10	IDEALISTS	Don Quixotes
+12	MESTO	Melancholy, in music
+13	NTS	Windows options
+14	SUN	Appropriate center for this puzzle
+16	GAO	Auditing agcy.
+19	PEPPY	Spirited
+23	SNAKEWEED	Plant used as an astringent
+25	UOFA	Fayetteville campus, briefly
+26	ATES	Suffixes with consul
+27	DST	It starts in Apr.
+28	TAP	Bill (Bojangles) Robinson's forte
+17
+1	DADE	___ City, suburb of Tampa/St. Petersburg
+2	EWES	Some sheep
+3	LSATS	Atty.-to-be exams
+4	MOI	Longtime Kenyan leader
+5	ASSN	N.E.A. member?: Abbr.
+6	WITT	1984-88 Olympic figure-skating gold medalist
+7	SIM	Computer game ___ City
+9	ESS	Winding road part
+11	LOUPE	Jeweler's magnifying tool
+15	NEWAT	Unfamiliar with
+16	GSU	Sch. in Atlanta
+17	ANOD	"And giving ___, up the chimney ..."
+18	OAFS	Bunglers
+20	PETA	Anti-fur org.
+21	PEEP	Tiniest complaint
+22	YDS	Gridiron divs.
+24	KAT	Krazy critter of the comics

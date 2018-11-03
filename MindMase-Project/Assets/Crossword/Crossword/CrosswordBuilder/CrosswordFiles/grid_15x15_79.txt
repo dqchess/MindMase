@@ -1,0 +1,309 @@
+grid_15x15_79
+15
+0	1	1	I	0	0	3	1	IAL	0	0	3	1	IRR
+0	1	2	A	0	0	3	0		0	1	4	1	AAHS
+0	1	3	L	0	0	3	0		0	2	10	1	LIONTAMERS
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GES	0	4	5	1	GLEES
+0	1	5	E	0	4	3	0		0	5	3	1	EUI
+0	1	6	S	0	4	3	0		0	6	3	1	SCS
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	5	0		1	9	0	0	
+0	1	7	E	0	10	5	1	EAGER	0	10	3	1	ESD
+0	1	8	A	0	10	5	0		0	11	7	1	AIRPOPS
+0	1	9	G	0	10	5	0		0	12	4	1	GTEA
+0	1	10	E	0	10	5	0		0	13	4	1	EADS
+0	1	11	R	0	10	5	0		0	14	3	1	RRS
+0	1	12	R	1	0	3	1	RAI	0	0	3	0	
+0	0	0	A	1	0	3	0		0	1	4	0	
+0	0	0	I	1	0	3	0		0	2	10	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	13	L	1	4	5	1	LUCIS	0	4	5	0	
+0	0	0	U	1	4	5	0		0	5	3	0	
+0	0	0	C	1	4	5	0		0	6	3	0	
+0	1	14	I	1	4	5	0		1	7	3	1	ILE
+0	1	15	S	1	4	5	0		1	8	5	1	SANDS
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	16	S	1	10	5	1	SITAR	0	10	3	0	
+0	0	0	I	1	10	5	0		0	11	7	0	
+0	0	0	T	1	10	5	0		0	12	4	0	
+0	0	0	A	1	10	5	0		0	13	4	0	
+0	0	0	R	1	10	5	0		0	14	3	0	
+0	1	17	R	2	0	15	1	RHODEISLANDREDS	0	0	3	0	
+0	0	0	H	2	0	15	0		0	1	4	0	
+0	0	0	O	2	0	15	0		0	2	10	0	
+0	1	18	D	2	0	15	0		2	3	3	1	DEI
+0	0	0	E	2	0	15	0		0	4	5	0	
+0	0	0	I	2	0	15	0		0	5	3	0	
+0	0	0	S	2	0	15	0		0	6	3	0	
+0	0	0	L	2	0	15	0		1	7	3	0	
+0	0	0	A	2	0	15	0		1	8	5	0	
+0	1	19	N	2	0	15	0		2	9	3	1	NCR
+0	0	0	D	2	0	15	0		0	10	3	0	
+0	0	0	R	2	0	15	0		0	11	7	0	
+0	0	0	E	2	0	15	0		0	12	4	0	
+0	0	0	D	2	0	15	0		0	13	4	0	
+0	0	0	S	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	20	S	3	1	4	1	SNEE	0	1	4	0	
+0	0	0	N	3	1	4	0		0	2	10	0	
+0	0	0	E	3	1	4	0		2	3	3	0	
+0	0	0	E	3	1	4	0		0	4	5	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	21	E	3	7	3	1	ENC	1	7	3	0	
+0	0	0	N	3	7	3	0		1	8	5	0	
+0	0	0	C	3	7	3	0		2	9	3	0	
+1	0	0	#	3	11	3	0		4	10	5	0	
+0	1	22	P	3	11	3	1	PAS	0	11	7	0	
+0	0	0	A	3	11	3	0		0	12	4	0	
+0	0	0	S	3	11	3	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	4	0	
+1	0	0	#	4	2	4	0		5	1	5	0	
+0	1	23	T	4	2	4	1	TISH	0	2	10	0	
+0	0	0	I	4	2	4	0		2	3	3	0	
+0	0	0	S	4	2	4	0		0	4	5	0	
+0	1	24	H	4	2	4	0		4	5	4	1	HIRE
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	4	0		5	7	5	0	
+0	1	25	D	4	8	4	1	DRNO	1	8	5	0	
+0	0	0	R	4	8	4	0		2	9	3	0	
+0	1	26	N	4	8	4	0		4	10	5	1	NONNA
+0	0	0	O	4	8	4	0		0	11	7	0	
+1	0	0	#	4	13	0	0		5	12	10	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	27	P	5	0	3	1	PSA	5	0	4	1	PERI
+0	1	28	S	5	0	3	0		5	1	5	1	SLOES
+0	0	0	A	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	0	0		6	3	0	0	
+1	0	0	#	5	5	4	0		6	4	5	0	
+0	1	29	I	5	5	4	1	IBIS	4	5	4	0	
+0	1	30	B	5	5	4	0		5	6	3	1	BOA
+0	1	31	I	5	5	4	0		5	7	5	1	INREM
+0	0	0	S	5	5	4	0		1	8	5	0	
+1	0	0	#	5	10	4	0		6	9	0	0	
+0	1	32	O	5	10	4	1	OPEC	4	10	5	0	
+0	0	0	P	5	10	4	0		0	11	7	0	
+0	1	33	E	5	10	4	0		5	12	10	1	ETHIOPIANS
+0	1	34	C	5	10	4	0		5	13	5	1	CAULK
+1	0	0	#	5	15	0	0		6	14	4	0	
+0	1	35	E	6	0	3	1	ELM	5	0	4	0	
+0	0	0	L	6	0	3	0		5	1	5	0	
+0	0	0	M	6	0	3	0		0	2	10	0	
+1	0	0	#	6	4	4	0		7	3	0	0	
+0	1	36	A	6	4	4	1	ARON	6	4	5	1	ADISH
+0	0	0	R	6	4	4	0		4	5	4	0	
+0	0	0	O	6	4	4	0		5	6	3	0	
+0	0	0	N	6	4	4	0		5	7	5	0	
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	5	0		7	9	4	0	
+0	1	37	N	6	10	5	1	NSTAR	4	10	5	0	
+0	0	0	S	6	10	5	0		0	11	7	0	
+0	0	0	T	6	10	5	0		5	12	10	0	
+0	0	0	A	6	10	5	0		5	13	5	0	
+0	1	38	R	6	10	5	0		6	14	4	1	REBS
+0	1	39	R	7	0	3	1	ROE	5	0	4	0	
+0	0	0	O	7	0	3	0		5	1	5	0	
+0	0	0	E	7	0	3	0		0	2	10	0	
+1	0	0	#	7	4	7	0		8	3	7	0	
+0	1	40	D	7	4	7	1	DEARANN	6	4	5	0	
+0	0	0	E	7	4	7	0		4	5	4	0	
+0	0	0	A	7	4	7	0		5	6	3	0	
+0	0	0	R	7	4	7	0		5	7	5	0	
+0	1	41	A	7	4	7	0		7	8	3	1	ALO
+0	1	42	N	7	4	7	0		7	9	4	1	NEGS
+0	0	0	N	7	4	7	0		4	10	5	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	43	H	7	12	3	1	HUE	5	12	10	0	
+0	0	0	U	7	12	3	0		5	13	5	0	
+0	0	0	E	7	12	3	0		6	14	4	0	
+0	1	44	I	8	0	5	1	IEREI	5	0	4	0	
+0	0	0	E	8	0	5	0		5	1	5	0	
+0	0	0	R	8	0	5	0		0	2	10	0	
+0	1	45	E	8	0	5	0		8	3	7	1	ENABLES
+0	0	0	I	8	0	5	0		6	4	5	0	
+1	0	0	#	8	6	0	0		9	5	0	0	
+1	0	0	#	8	7	4	0		9	6	5	0	
+0	1	46	E	8	7	4	1	ELEA	5	7	5	0	
+0	0	0	L	8	7	4	0		7	8	3	0	
+0	0	0	E	8	7	4	0		7	9	4	0	
+0	0	0	A	8	7	4	0		4	10	5	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	47	I	8	12	3	1	ILB	5	12	10	0	
+0	0	0	L	8	12	3	0		5	13	5	0	
+0	0	0	B	8	12	3	0		6	14	4	0	
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	48	S	9	1	4	1	SSNS	5	1	5	0	
+0	0	0	S	9	1	4	0		0	2	10	0	
+0	0	0	N	9	1	4	0		8	3	7	0	
+0	0	0	S	9	1	4	0		6	4	5	0	
+1	0	0	#	9	6	4	0		10	5	3	0	
+0	1	49	S	9	6	4	1	SMOG	9	6	5	1	STEER
+0	0	0	M	9	6	4	0		5	7	5	0	
+0	0	0	O	9	6	4	0		7	8	3	0	
+0	0	0	G	9	6	4	0		7	9	4	0	
+1	0	0	#	9	11	0	0		10	10	5	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	50	O	9	12	3	1	OKS	5	12	10	0	
+0	0	0	K	9	12	3	0		5	13	5	0	
+0	0	0	S	9	12	3	0		6	14	4	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	4	0	
+1	0	0	#	10	3	4	0		11	2	4	0	
+0	1	51	A	10	3	4	1	AHOT	8	3	7	0	
+0	0	0	H	10	3	4	0		6	4	5	0	
+0	1	52	O	10	3	4	0		10	5	3	1	ORG
+0	0	0	T	10	3	4	0		9	6	5	0	
+1	0	0	#	10	8	0	0		11	7	3	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	53	S	10	9	4	1	SLUP	7	9	4	0	
+0	1	54	L	10	9	4	0		10	10	5	1	LOOPS
+0	1	55	U	10	9	4	0		10	11	3	1	USL
+0	0	0	P	10	9	4	0		5	12	10	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	56	L	11	1	3	1	LIB	11	1	4	1	LOMA
+0	1	57	I	11	1	3	0		11	2	4	1	ILES
+0	0	0	B	11	1	3	0		8	3	7	0	
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	58	R	11	5	3	1	REL	10	5	3	0	
+0	0	0	E	11	5	3	0		9	6	5	0	
+0	1	59	L	11	5	3	0		11	7	3	1	LSU
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	4	0		12	9	3	0	
+0	1	60	O	11	10	4	1	OSIS	10	10	5	0	
+0	0	0	S	11	10	4	0		10	11	3	0	
+0	0	0	I	11	10	4	0		5	12	10	0	
+0	1	61	S	11	10	4	0		11	13	4	1	SROS
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	62	C	12	0	15	1	COLLEGESCHOLARS	12	0	3	1	CAT
+0	0	0	O	12	0	15	0		11	1	4	0	
+0	0	0	L	12	0	15	0		11	2	4	0	
+0	0	0	L	12	0	15	0		8	3	7	0	
+0	1	63	E	12	0	15	0		12	4	3	1	ERE
+0	0	0	G	12	0	15	0		10	5	3	0	
+0	0	0	E	12	0	15	0		9	6	5	0	
+0	0	0	S	12	0	15	0		11	7	3	0	
+0	1	64	C	12	0	15	0		12	8	3	1	CNN
+0	1	65	H	12	0	15	0		12	9	3	1	HUA
+0	0	0	O	12	0	15	0		10	10	5	0	
+0	0	0	L	12	0	15	0		10	11	3	0	
+0	0	0	A	12	0	15	0		5	12	10	0	
+0	0	0	R	12	0	15	0		11	13	4	0	
+0	1	66	S	12	0	15	0		12	14	3	1	SON
+0	1	67	A	13	0	5	1	AMEER	12	0	3	0	
+0	0	0	M	13	0	5	0		11	1	4	0	
+0	0	0	E	13	0	5	0		11	2	4	0	
+0	0	0	E	13	0	5	0		8	3	7	0	
+0	0	0	R	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	68	R	13	6	5	1	RUNUP	9	6	5	0	
+0	0	0	U	13	6	5	0		11	7	3	0	
+0	0	0	N	13	6	5	0		12	8	3	0	
+0	0	0	U	13	6	5	0		12	9	3	0	
+0	0	0	P	13	6	5	0		10	10	5	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	69	N	13	12	3	1	NOO	5	12	10	0	
+0	0	0	O	13	12	3	0		11	13	4	0	
+0	0	0	O	13	12	3	0		12	14	3	0	
+0	1	70	T	14	0	5	1	TASSE	12	0	3	0	
+0	0	0	A	14	0	5	0		11	1	4	0	
+0	0	0	S	14	0	5	0		11	2	4	0	
+0	0	0	S	14	0	5	0		8	3	7	0	
+0	0	0	E	14	0	5	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	71	N	14	8	3	1	NAS	12	8	3	0	
+0	0	0	A	14	8	3	0		12	9	3	0	
+0	0	0	S	14	8	3	0		10	10	5	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	72	S	14	12	3	1	SSN	5	12	10	0	
+0	0	0	S	14	12	3	0		11	13	4	0	
+0	0	0	N	14	12	3	0		12	14	3	0	
+39
+1	IAL	Suffix with adverb
+4	GES	Some microwaves
+7	EAGER	Raring to go
+12	RAI	Heyerdahl craft
+13	LUCIS	Anno ___ (in the Year of Light)
+16	SITAR	Tinny-sounding instrument
+17	RHODEISLANDREDS	Chickens that lay brown eggs
+20	SNEE	Old-fashioned knife
+21	ENC	Abbr. in a business letter
+22	PAS	___ de trois (dance)
+23	TISH	Mrs. Addams, to Gomez
+25	DRNO	First 007 flick
+27	PSA	Program interrupter, briefly
+29	IBIS	Ancient Egyptians held it sacred
+32	OPEC	Grp. with barrels
+35	ELM	Sylvia Plath poem that begins "I know the bottom, she says. I know it with my great tap root"
+36	ARON	Opera "Moses und ___"
+37	NSTAR	Cool, very red celestial body
+39	ROE	Old World deer
+40	DEARANN	Start of a letter to Landers
+43	HUE	Color
+44	IEREI	Middle of a famous palindrome
+46	ELEA	Parmenides' home
+47	ILB	16 oz.
+48	SSNS	Strings used in payroll depts.
+49	SMOG	E.P.A. concern
+50	OKS	Stamps, say
+51	AHOT	On ___ streak (winning)
+53	SLUP	Batter's bane
+56	LIB	Ad conclusion?
+58	REL	Shepherd's field: Abbr.
+60	OSIS	Medical suffix
+62	COLLEGESCHOLARS	Graduation day V.I.P.'s
+67	AMEER	Bahraini bigwig: Var.
+68	RUNUP	Increase
+69	NOO	Emergency call
+70	TASSE	Cannes cup
+71	NAS	"Emerald Point ___" of 80's TV
+72	SSN	1040 ID
+41
+1	IRR	Certain sale item: Abbr.
+2	AAHS	Sounds from a sauna
+3	LIONTAMERS	Chairpersons?
+4	GLEES	Unaccompanied part songs
+5	EUI	Pins and needles' place
+6	SCS	Barges
+7	ESD	Either of two books of the Apocrypha: Abbr.
+8	AIRPOPS	Prepares, as snack kernels
+9	GTEA	Drink with dim sum
+10	EADS	St. Louis landmark designer
+11	RRS	Union Pacific et al.: Abbr.
+14	ILE	Paris's ___ de la Cit
+15	SANDS	Bygone Vegas hotel
+18	DEI	Opus ___
+19	NCR	Big ATM maker
+24	HIRE	Bring on
+26	NONNA	Gianni's grandmother
+27	PERI	Actress Gilpin of "Frasier"
+28	SLOES	Tartish plums
+30	BOA	Constriction worker?
+31	INREM	Against a thing, legally
+33	ETHIOPIANS	Some marathon champions
+34	CAULK	Fill the crevices of, as a window frame
+36	ADISH	"___ fit for a king"
+38	REBS	Soldiers in gray
+41	ALO	Phone greeting in Central America
+42	NEGS	Photog's cache
+45	ENABLES	Equips
+49	STEER	He's no bull
+52	ORG	Part of NATO: Abbr.
+54	LOOPS	Tops of ankhs
+55	USL	Southeastern Conf. team
+56	LOMA	1989's ___ Prieta earthquake
+57	ILES	Composition of some French chains
+59	LSU	Sch. in Baton Rouge
+61	SROS	Cramped urban accommodations, for short
+62	CAT	Whiskas eater
+63	ERE	"But I heard him exclaim, ___ he ..."
+64	CNN	MSNBC rival
+65	HUA	Mao's successor
+66	SON	Male delivery

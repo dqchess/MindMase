@@ -1,0 +1,233 @@
+grid_13x13_34
+13
+0	1	1	S	0	0	3	1	SYM	0	0	6	1	SLURRY
+0	1	2	Y	0	0	3	0		0	1	6	1	YESIAM
+0	1	3	M	0	0	3	0		0	2	13	1	MOUNTAINBIKER
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	D	0	4	3	1	DRS	0	4	3	1	DIL
+0	1	5	R	0	4	3	0		0	5	3	1	RDS
+0	1	6	S	0	4	3	0		0	6	13	1	SAUGEANDONION
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	G	0	9	3	1	GNP	0	9	3	1	GRE
+0	1	8	N	0	9	3	0		0	10	13	1	NICKELANDDIME
+0	1	9	P	0	9	3	0		0	11	6	1	PETERI
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	L	1	0	8	1	LEONIDAS	0	0	6	0	
+0	0	0	E	1	0	8	0		0	1	6	0	
+0	0	0	O	1	0	8	0		0	2	13	0	
+0	1	11	N	1	0	8	0		1	3	3	1	NAG
+0	0	0	I	1	0	8	0		0	4	3	0	
+0	0	0	D	1	0	8	0		0	5	3	0	
+0	0	0	A	1	0	8	0		0	6	13	0	
+0	1	12	S	1	0	8	0		1	7	3	1	SST
+1	0	0	#	1	9	3	0		2	8	3	0	
+0	1	13	R	1	9	3	1	RIE	0	9	3	0	
+0	0	0	I	1	9	3	0		0	10	13	0	
+0	0	0	E	1	9	3	0		0	11	6	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	U	2	0	13	1	USUALSUSPECTS	0	0	6	0	
+0	0	0	S	2	0	13	0		0	1	6	0	
+0	0	0	U	2	0	13	0		0	2	13	0	
+0	0	0	A	2	0	13	0		1	3	3	0	
+0	0	0	L	2	0	13	0		0	4	3	0	
+0	0	0	S	2	0	13	0		0	5	3	0	
+0	0	0	U	2	0	13	0		0	6	13	0	
+0	0	0	S	2	0	13	0		1	7	3	0	
+0	1	15	P	2	0	13	0		2	8	3	1	PEI
+0	0	0	E	2	0	13	0		0	9	3	0	
+0	0	0	C	2	0	13	0		0	10	13	0	
+0	0	0	T	2	0	13	0		0	11	6	0	
+0	1	16	S	2	0	13	0		2	12	3	1	SDS
+0	1	17	R	3	0	4	1	RING	0	0	6	0	
+0	0	0	I	3	0	4	0		0	1	6	0	
+0	0	0	N	3	0	4	0		0	2	13	0	
+0	0	0	G	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	18	G	3	6	3	1	GTE	0	6	13	0	
+0	0	0	T	3	6	3	0		1	7	3	0	
+0	0	0	E	3	6	3	0		2	8	3	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	19	K	3	10	3	1	KED	0	10	13	0	
+0	0	0	E	3	10	3	0		0	11	6	0	
+0	0	0	D	3	10	3	0		2	12	3	0	
+0	1	20	R	4	0	3	1	RAT	0	0	6	0	
+0	0	0	A	4	0	3	0		0	1	6	0	
+0	0	0	T	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	21	J	4	4	3	1	JCE	4	4	3	1	JUD
+0	1	22	C	4	4	3	0		4	5	3	1	CPO
+0	0	0	E	4	4	3	0		0	6	13	0	
+1	0	0	#	4	8	5	0		5	7	0	0	
+0	1	23	I	4	8	5	1	IVERS	2	8	3	0	
+0	1	24	V	4	8	5	0		4	9	3	1	VMI
+0	0	0	E	4	8	5	0		0	10	13	0	
+0	0	0	R	4	8	5	0		0	11	6	0	
+0	0	0	S	4	8	5	0		2	12	3	0	
+0	1	25	Y	5	0	3	1	YMA	0	0	6	0	
+0	0	0	M	5	0	3	0		0	1	6	0	
+0	0	0	A	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	26	U	5	4	3	1	UPA	4	4	3	0	
+0	0	0	P	5	4	3	0		4	5	3	0	
+0	0	0	A	5	4	3	0		0	6	13	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	27	M	5	9	3	1	MLI	4	9	3	0	
+0	0	0	L	5	9	3	0		0	10	13	0	
+0	0	0	I	5	9	3	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	9	0		7	1	6	0	
+0	1	28	I	6	2	9	1	INDONESIA	0	2	13	0	
+0	1	29	N	6	2	9	0		6	3	3	1	NOT
+0	0	0	D	6	2	9	0		4	4	3	0	
+0	0	0	O	6	2	9	0		4	5	3	0	
+0	0	0	N	6	2	9	0		0	6	13	0	
+0	1	30	E	6	2	9	0		6	7	3	1	EBW
+0	1	31	S	6	2	9	0		6	8	3	1	SSN
+0	0	0	I	6	2	9	0		4	9	3	0	
+0	0	0	A	6	2	9	0		0	10	13	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	6	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	32	A	7	1	3	1	ANO	7	1	6	1	AERATE
+0	0	0	N	7	1	3	0		0	2	13	0	
+0	0	0	O	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	33	D	7	6	3	1	DBS	0	6	13	0	
+0	0	0	B	7	6	3	0		6	7	3	0	
+0	0	0	S	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	34	N	7	10	3	1	NWT	0	10	13	0	
+0	1	35	W	7	10	3	0		7	11	6	1	WIESEL
+0	1	36	T	7	10	3	0		7	12	6	1	TINKLY
+0	1	37	W	8	0	5	1	WEBTV	8	0	3	1	WET
+0	0	0	E	8	0	5	0		7	1	6	0	
+0	0	0	B	8	0	5	0		0	2	13	0	
+0	0	0	T	8	0	5	0		6	3	3	0	
+0	1	38	V	8	0	5	0		8	4	3	1	VIA
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	39	O	8	6	3	1	OWN	0	6	13	0	
+0	0	0	W	8	6	3	0		6	7	3	0	
+0	0	0	N	8	6	3	0		6	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	40	D	8	10	3	1	DII	0	10	13	0	
+0	0	0	I	8	10	3	0		7	11	6	0	
+0	0	0	I	8	10	3	0		7	12	6	0	
+0	1	41	E	9	0	3	1	ERI	8	0	3	0	
+0	0	0	R	9	0	3	0		7	1	6	0	
+0	0	0	I	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	42	I	9	4	3	1	ION	8	4	3	0	
+0	1	43	O	9	4	3	0		9	5	3	1	OBJ
+0	0	0	N	9	4	3	0		0	6	13	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	44	A	9	9	4	1	ADEN	9	9	3	1	AHA
+0	0	0	D	9	9	4	0		0	10	13	0	
+0	0	0	E	9	9	4	0		7	11	6	0	
+0	0	0	N	9	9	4	0		7	12	6	0	
+0	1	45	T	10	0	13	1	TAKEABIGWHISK	8	0	3	0	
+0	0	0	A	10	0	13	0		7	1	6	0	
+0	0	0	K	10	0	13	0		0	2	13	0	
+0	1	46	E	10	0	13	0		10	3	3	1	ENO
+0	0	0	A	10	0	13	0		8	4	3	0	
+0	0	0	B	10	0	13	0		9	5	3	0	
+0	0	0	I	10	0	13	0		0	6	13	0	
+0	1	47	G	10	0	13	0		10	7	3	1	GET
+0	1	48	W	10	0	13	0		10	8	3	1	WCS
+0	0	0	H	10	0	13	0		9	9	3	0	
+0	0	0	I	10	0	13	0		0	10	13	0	
+0	0	0	S	10	0	13	0		7	11	6	0	
+0	0	0	K	10	0	13	0		7	12	6	0	
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	49	T	11	1	3	1	TEN	7	1	6	0	
+0	0	0	E	11	1	3	0		0	2	13	0	
+0	0	0	N	11	1	3	0		10	3	3	0	
+1	0	0	#	11	5	8	0		12	4	0	0	
+0	1	50	J	11	5	8	1	JOECAMEL	9	5	3	0	
+0	0	0	O	11	5	8	0		0	6	13	0	
+0	0	0	E	11	5	8	0		10	7	3	0	
+0	0	0	C	11	5	8	0		10	8	3	0	
+0	0	0	A	11	5	8	0		9	9	3	0	
+0	0	0	M	11	5	8	0		0	10	13	0	
+0	0	0	E	11	5	8	0		7	11	6	0	
+0	0	0	L	11	5	8	0		7	12	6	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	51	E	12	1	3	1	ERO	7	1	6	0	
+0	0	0	R	12	1	3	0		0	2	13	0	
+0	0	0	O	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	N	12	6	3	1	NTS	0	6	13	0	
+0	0	0	T	12	6	3	0		10	7	3	0	
+0	0	0	S	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	E	12	10	3	1	ELY	0	10	13	0	
+0	0	0	L	12	10	3	0		7	11	6	0	
+0	0	0	Y	12	10	3	0		7	12	6	0	
+31
+1	SYM	Like a mirror image: Abbr.
+4	DRS	Hosp. workers
+7	GNP	It's up over 1000% since 1960: Abbr.
+10	LEONIDAS	Defender of Thermopylae
+13	RIE	Beginner
+14	USUALSUSPECTS	"They may be rounded up after a crime, with ""the"""
+17	RING	Collar stain
+18	GTE	Communications conglomerate
+19	KED	Like a double-decker checker
+20	RAT	Turncoat
+21	JCE	"Dubliners" author
+23	IVERS	"The Strange Love of Martha ___" (1946 film)
+25	YMA	Peruvian-born Sumac
+26	UPA	___ notch
+27	MLI	Year in Leo IX's papacy
+28	INDONESIA	Its flag is a red stripe over a white stripe
+32	ANO	Yucatan year
+33	DBS	Volume measures: Abbr.
+34	NWT	Yukon neighbor: Abbr.
+37	WEBTV	Modern news and entertainment source
+39	OWN	Hold one's ___
+40	DII	Sixth-century date
+41	ERI	"___ tu" (song sung by Renato)
+42	ION	It may be radical
+44	ADEN	Yemeni city
+45	TAKEABIGWHISK	Advice to someone going to the Egg-Beaters' Convention?
+49	TEN	Five pairs
+50	JOECAMEL	Much-maligned mascot
+51	ERO	Back on the ranch?
+52	NTS	Some Windows systems
+53	ELY	Tarzan portrayer
+29
+1	SLURRY	Wet cement mixture
+2	YESIAM	Rebuttal to "No, you're not"
+3	MOUNTAINBIKER	Rough-terrain cyclist
+4	DIL	"Rugrats" baby
+5	RDS	They may be turnoffs: Abbr.
+6	SAUGEANDONION	Pizzeria order
+7	GRE	Coll. test
+8	NICKELANDDIME	Petty
+9	PETERI	Czar of 1682-1725
+11	NAG	Say "Do this," "Do that" ... blah, blah, blah
+12	SST	Queen's way to the U.S.A.
+15	PEI	Shar-___ (dog)
+16	SDS	1960's march organizers: Abbr.
+21	JUD	Olympic sport since 1964
+22	CPO	Coast Guard rank: Abbr.
+24	VMI	Southern Conference sch.
+29	NOT	"___ even!"
+30	EBW	"The Trumpet of the Swan" author
+31	SSN	Hirer's request: Abbr.
+32	AERATE	Put fizz in
+35	WIESEL	"Night" writer
+36	TINKLY	Like wind chimes
+37	WET	Like April weather
+38	VIA	Itinerary word
+43	OBJ	Goal: Abbr.
+44	AHA	Brainstormer's cry
+46	ENO	Ambient music composer Brian
+47	GET	Comprehend
+48	WCS	Overseas facilities

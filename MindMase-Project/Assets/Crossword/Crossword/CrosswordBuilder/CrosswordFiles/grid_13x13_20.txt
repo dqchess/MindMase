@@ -1,0 +1,237 @@
+grid_13x13_20
+13
+0	1	1	H	0	0	3	1	HID	0	0	3	1	HUK
+0	1	2	I	0	0	3	0		0	1	5	1	INFRA
+0	1	3	D	0	0	3	0		0	2	13	1	DECEMBERFIRST
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	6	0	
+0	1	4	H	0	5	3	1	HAE	0	5	3	1	HED
+0	1	5	A	0	5	3	0		0	6	3	1	ALD
+0	1	6	E	0	5	3	0		0	7	3	1	EPS
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	W	0	10	3	1	WEA	0	10	13	1	WIKIPEDIATRIC
+0	1	8	E	0	10	3	0		0	11	3	1	EKE
+0	1	9	A	0	10	3	0		0	12	3	1	AYR
+0	1	10	U	1	0	3	1	UNE	0	0	3	0	
+0	0	0	N	1	0	3	0		0	1	5	0	
+0	0	0	E	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	0	0	
+0	1	11	K	1	4	4	1	KELP	1	4	6	1	KOMODO
+0	0	0	E	1	4	4	0		0	5	3	0	
+0	0	0	L	1	4	4	0		0	6	3	0	
+0	0	0	P	1	4	4	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	12	N	1	9	4	1	NIKY	1	9	3	1	NAP
+0	0	0	I	1	9	4	0		0	10	13	0	
+0	0	0	K	1	9	4	0		0	11	3	0	
+0	0	0	Y	1	9	4	0		0	12	3	0	
+0	1	13	K	2	0	3	1	KFC	0	0	3	0	
+0	0	0	F	2	0	3	0		0	1	5	0	
+0	0	0	C	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	9	0		3	3	3	0	
+0	1	14	O	2	4	9	1	ODDSMAKER	1	4	6	0	
+0	0	0	D	2	4	9	0		0	5	3	0	
+0	0	0	D	2	4	9	0		0	6	3	0	
+0	0	0	S	2	4	9	0		0	7	3	0	
+0	1	15	M	2	4	9	0		2	8	3	1	MAG
+0	0	0	A	2	4	9	0		1	9	3	0	
+0	0	0	K	2	4	9	0		0	10	13	0	
+0	0	0	E	2	4	9	0		0	11	3	0	
+0	0	0	R	2	4	9	0		0	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	16	R	3	1	4	1	REAM	0	1	5	0	
+0	0	0	E	3	1	4	0		0	2	13	0	
+0	1	17	A	3	1	4	0		3	3	3	1	ASP
+0	0	0	M	3	1	4	0		1	4	6	0	
+1	0	0	#	3	6	0	0		4	5	0	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	3	0		4	7	4	0	
+0	1	18	A	3	8	3	1	API	2	8	3	0	
+0	0	0	P	3	8	3	0		1	9	3	0	
+0	0	0	I	3	8	3	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	3	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	19	A	4	1	4	1	AMSO	0	1	5	0	
+0	0	0	M	4	1	4	0		0	2	13	0	
+0	0	0	S	4	1	4	0		3	3	3	0	
+0	0	0	O	4	1	4	0		1	4	6	0	
+1	0	0	#	4	6	3	0		5	5	4	0	
+0	1	20	A	4	6	3	1	AVG	4	6	5	1	AGOOD
+0	1	21	V	4	6	3	0		4	7	4	1	VOLT
+0	0	0	G	4	6	3	0		2	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	P	4	10	3	1	PVT	0	10	13	0	
+0	1	23	V	4	10	3	0		4	11	3	1	VOA
+0	1	24	T	4	10	3	0		4	12	3	1	TSO
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	6	0		6	1	3	0	
+0	1	25	B	5	2	6	1	BPDSGO	0	2	13	0	
+0	0	0	P	5	2	6	0		3	3	3	0	
+0	0	0	D	5	2	6	0		1	4	6	0	
+0	1	26	S	5	2	6	0		5	5	4	1	SORA
+0	0	0	G	5	2	6	0		4	6	5	0	
+0	0	0	O	5	2	6	0		4	7	4	0	
+1	0	0	#	5	9	0	0		6	8	6	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	E	5	10	3	1	EOS	0	10	13	0	
+0	0	0	O	5	10	3	0		4	11	3	0	
+0	0	0	S	5	10	3	0		4	12	3	0	
+0	1	28	M	6	0	3	1	MBE	6	0	3	1	MCM
+0	1	29	B	6	0	3	0		6	1	3	1	BDS
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	30	O	6	4	5	1	OOOLA	1	4	6	0	
+0	0	0	O	6	4	5	0		5	5	4	0	
+0	0	0	O	6	4	5	0		4	6	5	0	
+0	0	0	L	6	4	5	0		4	7	4	0	
+0	1	31	A	6	4	5	0		6	8	6	1	AIRIER
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	32	D	6	10	3	1	DAO	0	10	13	0	
+0	0	0	A	6	10	3	0		4	11	3	0	
+0	0	0	O	6	10	3	0		4	12	3	0	
+0	1	33	C	7	0	3	1	CDR	6	0	3	0	
+0	0	0	D	7	0	3	0		6	1	3	0	
+0	0	0	R	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	6	0		8	4	3	0	
+0	1	34	R	7	5	6	1	ROTINI	5	5	4	0	
+0	0	0	O	7	5	6	0		4	6	5	0	
+0	0	0	T	7	5	6	0		4	7	4	0	
+0	0	0	I	7	5	6	0		6	8	6	0	
+0	1	35	N	7	5	6	0		7	9	3	1	NOS
+0	0	0	I	7	5	6	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	36	M	8	0	3	1	MSF	6	0	3	0	
+0	0	0	S	8	0	3	0		6	1	3	0	
+0	0	0	F	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	3	0		9	3	3	0	
+0	1	37	C	8	4	3	1	CAD	8	4	3	1	CDE
+0	0	0	A	8	4	3	0		5	5	4	0	
+0	0	0	D	8	4	3	0		4	6	5	0	
+1	0	0	#	8	8	4	0		9	7	0	0	
+0	1	38	R	8	8	4	1	ROAN	6	8	6	0	
+0	0	0	O	8	8	4	0		7	9	3	0	
+0	0	0	A	8	8	4	0		0	10	13	0	
+0	1	39	N	8	8	4	0		8	11	5	1	NSYNC
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	40	I	9	2	3	1	IUD	0	2	13	0	
+0	1	41	U	9	2	3	0		9	3	3	1	USO
+0	0	0	D	9	2	3	0		8	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	42	I	9	8	4	1	ISTS	6	8	6	0	
+0	0	0	S	9	8	4	0		7	9	3	0	
+0	0	0	T	9	8	4	0		0	10	13	0	
+0	0	0	S	9	8	4	0		8	11	5	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	P	10	0	9	1	PERSECUTE	10	0	3	1	POG
+0	1	44	E	10	0	9	0		10	1	3	1	EHS
+0	0	0	R	10	0	9	0		0	2	13	0	
+0	0	0	S	10	0	9	0		9	3	3	0	
+0	0	0	E	10	0	9	0		8	4	3	0	
+0	1	45	C	10	0	9	0		10	5	3	1	CAA
+0	1	46	U	10	0	9	0		10	6	3	1	UGE
+0	1	47	T	10	0	9	0		10	7	3	1	TER
+0	0	0	E	10	0	9	0		6	8	6	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	48	R	10	10	3	1	RYN	0	10	13	0	
+0	0	0	Y	10	10	3	0		8	11	5	0	
+0	1	49	N	10	10	3	0		10	12	3	1	NAL
+0	1	50	O	11	0	4	1	OHSO	10	0	3	0	
+0	0	0	H	11	0	4	0		10	1	3	0	
+0	0	0	S	11	0	4	0		0	2	13	0	
+0	0	0	O	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	51	A	11	5	4	1	AGER	10	5	3	0	
+0	0	0	G	11	5	4	0		10	6	3	0	
+0	0	0	E	11	5	4	0		10	7	3	0	
+0	0	0	R	11	5	4	0		6	8	6	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	I	11	10	3	1	INA	0	10	13	0	
+0	0	0	N	11	10	3	0		8	11	5	0	
+0	0	0	A	11	10	3	0		10	12	3	0	
+0	1	53	G	12	0	3	1	GST	10	0	3	0	
+0	0	0	S	12	0	3	0		10	1	3	0	
+0	0	0	T	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	54	A	12	5	3	1	AER	10	5	3	0	
+0	0	0	E	12	5	3	0		10	6	3	0	
+0	0	0	R	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	C	12	10	3	1	CCL	0	10	13	0	
+0	0	0	C	12	10	3	0		8	11	5	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+33
+1	HID	Shrouded
+4	HAE	Ian's "own"
+7	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+10	UNE	Article in le journal
+11	KELP	Large brown algae
+12	NIKY	Penpoints
+13	KFC	Col. Sanders's chain
+14	ODDSMAKER	One might create a spread
+16	REAM	Paper purchase
+18	API	Bee: Prefix
+19	AMSO	"I ___ sorry!"
+20	AVG	Batting stat.
+22	PVT	Part of Pfc.: Abbr.
+25	BPDSGO	Journey to a better place
+27	EOS	Goddess of the dawn
+28	MBE	U.K. honor
+30	OOOLA	Alley Oop's mate
+32	DAO	1957 Physics Nobelist Tsung-___ Lee
+33	CDR	Naval off.
+34	ROTINI	Twists in a trattoria
+36	MSF	Misery
+37	CAD	Ungentlemanly sort
+38	ROAN	Moroccolike leather
+40	IUD	Birth control option, briefly
+42	ISTS	Practitioners' suffix
+43	PERSECUTE	Torment
+48	RYN	Painter Rembrandt van ___
+50	OHSO	Really, really
+51	AGER	New-___
+52	INA	"___ way..."
+53	GST	Standard setting at 0 degrees long.
+54	AER	Cousin of atmo-
+55	CCL	Quarter of a mille
+31
+1	HUK	Czech leader ousted in the Velvet Revolution, 1989
+2	INFRA	Prefix with structure
+3	DECEMBERFIRST	Rosa Parks Day
+4	HED	"___ make a lovely corpse": Dickens
+5	ALD	City off.
+6	EPS	Some dance records, for short
+7	WIKIPEDIATRIC	Like online medical advice for kids?
+8	EKE	___ out (barely make)
+9	AYR	Burns's birthplace
+11	KOMODO	___ dragon (largest living lizard)
+12	NAP	Kindergarten break
+15	MAG	'Zine
+17	ASP	Part of an Egyptian headpiece
+20	AGOOD	Thought, part 2
+21	VOLT	It's shocking!
+23	VOA	Big inits. in overseas broadcasting
+24	TSO	General for whom a style of chicken is named
+26	SORA	Carolina rail
+28	MCM	Year the Paris M
+29	BDS	What directors sit on: Abbr.
+31	AIRIER	Having a higher ceiling and more light
+35	NOS	Denials
+37	CDE	Alphabetical sequence
+39	NSYNC	"No Strings Attached" band
+41	USO	Tour organizer: Abbr.
+43	POG	Faddish disk of the 1990s
+44	EHS	Questioning syllables
+45	CAA	Major org. representing entertainers and athletes
+46	UGE	Treatment
+47	TER	Prefix with centenary
+49	NAL	Big inits. in paperback publishing

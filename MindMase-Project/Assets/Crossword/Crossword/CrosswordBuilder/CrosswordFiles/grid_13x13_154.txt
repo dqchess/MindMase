@@ -1,0 +1,235 @@
+grid_13x13_154
+13
+0	1	1	D	0	0	3	1	DXC	0	0	3	1	DUN
+0	1	2	X	0	0	3	0		0	1	3	1	XKE
+0	1	3	C	0	0	3	0		0	2	3	1	CUR
+1	0	0	#	0	4	3	0		1	3	4	0	
+0	1	4	A	0	4	3	1	AAR	0	4	6	1	AEOLUS
+0	1	5	A	0	4	3	0		0	5	4	1	ALFS
+0	1	6	R	0	4	3	0		0	6	3	1	REB
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	3	0		1	9	4	0	
+0	1	7	P	0	10	3	1	PDT	0	10	3	1	PBA
+0	1	8	D	0	10	3	0		0	11	3	1	DBL
+0	1	9	T	0	10	3	0		0	12	3	1	TAO
+0	1	10	U	1	0	7	1	UKULELE	0	0	3	0	
+0	0	0	K	1	0	7	0		0	1	3	0	
+0	0	0	U	1	0	7	0		0	2	3	0	
+0	1	11	L	1	0	7	0		1	3	4	1	LDRS
+0	0	0	E	1	0	7	0		0	4	6	0	
+0	0	0	L	1	0	7	0		0	5	4	0	
+0	0	0	E	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	5	0		2	7	6	0	
+0	1	12	A	1	8	5	1	AABBA	1	8	5	1	AFISH
+0	1	13	A	1	8	5	0		1	9	4	1	AFEW
+0	0	0	B	1	8	5	0		0	10	3	0	
+0	0	0	B	1	8	5	0		0	11	3	0	
+0	0	0	A	1	8	5	0		0	12	3	0	
+0	1	14	N	2	0	13	1	NERDOFBUFFALO	0	0	3	0	
+0	0	0	E	2	0	13	0		0	1	3	0	
+0	0	0	R	2	0	13	0		0	2	3	0	
+0	0	0	D	2	0	13	0		1	3	4	0	
+0	0	0	O	2	0	13	0		0	4	6	0	
+0	0	0	F	2	0	13	0		0	5	4	0	
+0	0	0	B	2	0	13	0		0	6	3	0	
+0	1	15	U	2	0	13	0		2	7	6	1	UNISYS
+0	0	0	F	2	0	13	0		1	8	5	0	
+0	0	0	F	2	0	13	0		1	9	4	0	
+0	0	0	A	2	0	13	0		0	10	3	0	
+0	0	0	L	2	0	13	0		0	11	3	0	
+0	0	0	O	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	3	0		4	2	5	0	
+0	1	16	R	3	3	3	1	RLS	1	3	4	0	
+0	0	0	L	3	3	3	0		0	4	6	0	
+0	0	0	S	3	3	3	0		0	5	4	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	17	N	3	7	3	1	NIE	2	7	6	0	
+0	0	0	I	3	7	3	0		1	8	5	0	
+0	0	0	E	3	7	3	0		1	9	4	0	
+1	0	0	#	3	11	0	0		4	10	5	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	18	Z	4	1	4	1	ZASU	4	1	5	1	ZORIS
+0	1	19	A	4	1	4	0		4	2	5	1	APNEA
+0	0	0	S	4	1	4	0		1	3	4	0	
+0	0	0	U	4	1	4	0		0	4	6	0	
+1	0	0	#	4	6	0	0		5	5	6	0	
+1	0	0	#	4	7	5	0		5	6	3	0	
+0	1	20	I	4	7	5	1	ISWAR	2	7	6	0	
+0	0	0	S	4	7	5	0		1	8	5	0	
+0	0	0	W	4	7	5	0		1	9	4	0	
+0	1	21	A	4	7	5	0		4	10	5	1	AWILL
+0	1	22	R	4	7	5	0		4	11	5	1	RATCH
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	G	5	0	3	1	GOP	5	0	3	1	GAT
+0	0	0	O	5	0	3	0		4	1	5	0	
+0	0	0	P	5	0	3	0		4	2	5	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	24	S	5	4	5	1	STASH	0	4	6	0	
+0	1	25	T	5	4	5	0		5	5	6	1	TEESHT
+0	1	26	A	5	4	5	0		5	6	3	1	ADE
+0	0	0	S	5	4	5	0		2	7	6	0	
+0	0	0	H	5	4	5	0		1	8	5	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	W	5	10	3	1	WAT	4	10	5	0	
+0	0	0	A	5	10	3	0		4	11	5	0	
+0	1	28	T	5	10	3	0		5	12	3	1	TAD
+0	1	29	A	6	0	3	1	ARN	5	0	3	0	
+0	0	0	R	6	0	3	0		4	1	5	0	
+0	0	0	N	6	0	3	0		4	2	5	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	5	0	
+0	1	30	E	6	5	3	1	EDY	5	5	6	0	
+0	0	0	D	6	5	3	0		5	6	3	0	
+0	0	0	Y	6	5	3	0		2	7	6	0	
+1	0	0	#	6	9	0	0		7	8	6	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	I	6	10	3	1	ITA	4	10	5	0	
+0	0	0	T	6	10	3	0		4	11	5	0	
+0	0	0	A	6	10	3	0		5	12	3	0	
+0	1	32	T	7	0	3	1	TIE	5	0	3	0	
+0	0	0	I	7	0	3	0		4	1	5	0	
+0	0	0	E	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	4	0	
+0	1	33	R	7	4	5	1	REESE	7	4	5	1	REPAD
+0	0	0	E	7	4	5	0		5	5	6	0	
+0	0	0	E	7	4	5	0		5	6	3	0	
+0	0	0	S	7	4	5	0		2	7	6	0	
+0	1	34	E	7	4	5	0		7	8	6	1	EATERS
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	35	L	7	10	3	1	LCD	4	10	5	0	
+0	0	0	C	7	10	3	0		4	11	5	0	
+0	0	0	D	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	36	S	8	1	5	1	SAVES	4	1	5	0	
+0	0	0	A	8	1	5	0		4	2	5	0	
+0	1	37	V	8	1	5	0		8	3	4	1	VEIN
+0	0	0	E	8	1	5	0		7	4	5	0	
+0	0	0	S	8	1	5	0		5	5	6	0	
+1	0	0	#	8	7	0	0		9	6	0	0	
+1	0	0	#	8	8	4	0		9	7	4	0	
+0	1	38	A	8	8	4	1	ALLH	7	8	6	0	
+0	1	39	L	8	8	4	0		8	9	4	1	LAGS
+0	0	0	L	8	8	4	0		4	10	5	0	
+0	0	0	H	8	8	4	0		4	11	5	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	3	0	
+1	0	0	#	9	3	3	0		10	2	3	0	
+0	1	40	E	9	3	3	1	EPH	8	3	4	0	
+0	0	0	P	9	3	3	0		7	4	5	0	
+0	0	0	H	9	3	3	0		5	5	6	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	41	S	9	7	3	1	STA	9	7	4	1	SRIS
+0	0	0	T	9	7	3	0		7	8	6	0	
+0	0	0	A	9	7	3	0		8	9	4	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	M	10	0	13	1	MINIATUREGOLF	10	0	3	1	MPS
+0	1	43	I	10	0	13	0		10	1	3	1	IOR
+0	1	44	N	10	0	13	0		10	2	3	1	NUS
+0	0	0	I	10	0	13	0		8	3	4	0	
+0	0	0	A	10	0	13	0		7	4	5	0	
+0	0	0	T	10	0	13	0		5	5	6	0	
+0	1	45	U	10	0	13	0		10	6	3	1	UHS
+0	0	0	R	10	0	13	0		9	7	4	0	
+0	0	0	E	10	0	13	0		7	8	6	0	
+0	0	0	G	10	0	13	0		8	9	4	0	
+0	1	46	O	10	0	13	0		10	10	3	1	OUI
+0	1	47	L	10	0	13	0		10	11	3	1	LTD
+0	1	48	F	10	0	13	0		10	12	3	1	FES
+0	1	49	P	11	0	5	1	POUND	10	0	3	0	
+0	0	0	O	11	0	5	0		10	1	3	0	
+0	0	0	U	11	0	5	0		10	2	3	0	
+0	0	0	N	11	0	5	0		8	3	4	0	
+0	0	0	D	11	0	5	0		7	4	5	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	50	H	11	6	7	1	HIRSUTE	10	6	3	0	
+0	0	0	I	11	6	7	0		9	7	4	0	
+0	0	0	R	11	6	7	0		7	8	6	0	
+0	0	0	S	11	6	7	0		8	9	4	0	
+0	0	0	U	11	6	7	0		10	10	3	0	
+0	0	0	T	11	6	7	0		10	11	3	0	
+0	0	0	E	11	6	7	0		10	12	3	0	
+0	1	51	S	12	0	3	1	SRS	10	0	3	0	
+0	0	0	R	12	0	3	0		10	1	3	0	
+0	0	0	S	12	0	3	0		10	2	3	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	S	12	6	3	1	SSS	10	6	3	0	
+0	0	0	S	12	6	3	0		9	7	4	0	
+0	0	0	S	12	6	3	0		7	8	6	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	I	12	10	3	1	IDS	10	10	3	0	
+0	0	0	D	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+29
+1	DXC	590, to Caesar
+4	AAR	Rhine feeder
+7	PDT	Summer hours in L.A.
+10	UKULELE	It may accompany hip-shaking
+12	AABBA	Limerick scheme
+14	NERDOFBUFFALO	Most bookish student in western New York?
+16	RLS	"Treasure Island" monogram
+17	NIE	Never, on Sonntag
+18	ZASU	Pitts of old Hollywood
+20	ISWAR	Pro wrestling's "Raw ___"
+23	GOP	W.'s political affiliation
+24	STASH	Put away
+27	WAT	Buddhist temple
+29	ARN	Prince Valiant's son
+30	EDY	Ice cream maker Joseph
+31	ITA	"Let's make ___ true Daily Double"
+32	TIE	Reason to prolong play
+33	REESE	Baseball's Pee Wee
+35	LCD	Plasma alternative, for short
+36	SAVES	Puts away
+38	ALLH	Full of compassion
+40	EPH	New Testament book called the "Queen of the Epistles": Abbr.
+41	STA	Getting-off point: Abbr.
+42	MINIATUREGOLF	Tiny Volkswagen?
+49	POUND	Feared destination in "Lady and the Tramp"
+50	HIRSUTE	Hairy
+51	SRS	Ones soon to leave the ivied halls: Abbr.
+52	SSS	Draft inits.
+53	IDS	Some may have photos
+33
+1	DUN	Dull shade
+2	XKE	Jaguar model
+3	CUR	Mangy mutt
+4	AEOLUS	Wind god
+5	ALFS	Gov. Landon and others
+6	REB	Antietam soldier
+7	PBA	Kegler's org.
+8	DBL	Substantial hit: Abbr.
+9	TAO	Way overseas
+11	LDRS	Ones in charge: Abbr.
+12	AFISH	"___ Called Wanda"
+13	AFEW	Some
+15	UNISYS	Computer company with the slogan "Imagine it. Done."
+18	ZORIS	Japanese sandals
+19	APNEA	Sleeper's breathing problem
+21	AWILL	"Where there's ___ ..."
+22	RATCH	Toothed bar
+23	GAT	Hood's gun
+25	TEESHT	Driver's opportunity
+26	ADE	Summer refreshment
+28	TAD	Bit
+33	REPAD	Give more cushioning
+34	EATERS	Cafeteria-goers
+37	VEIN	Rib of a leaf
+39	LAGS	Doesn't keep up
+41	SRIS	Hindu titles
+42	MPS	U.K. election winners
+43	IOR	Super finish?
+44	NUS	Letters before xis
+45	UHS	Pause fillers
+46	OUI	Yes, to Yves
+47	LTD	Business abbr.
+48	FES	City NE of Casablanca

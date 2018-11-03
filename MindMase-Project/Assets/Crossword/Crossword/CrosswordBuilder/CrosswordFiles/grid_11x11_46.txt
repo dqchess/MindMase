@@ -1,0 +1,165 @@
+grid_11x11_46
+11
+0	1	1	R	0	0	3	1	REP	0	0	3	1	REF
+0	1	2	E	0	0	3	0		0	1	4	1	ETON
+0	1	3	P	0	0	3	0		0	2	4	1	PSAS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	P	0	7	3	1	PUB	0	7	3	1	PIN
+0	1	5	U	0	7	3	0		0	8	6	1	USURER
+0	1	6	B	0	7	3	0		0	9	6	1	BETELS
+1	0	0	#	0	11	0	0		1	10	4	0	
+0	1	7	E	1	0	3	1	ETS	0	0	3	0	
+0	0	0	T	1	0	3	0		0	1	4	0	
+0	0	0	S	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	7	0		2	3	4	0	
+0	1	8	A	1	4	7	1	ADVISES	1	4	5	1	APODS
+0	1	9	D	1	4	7	0		1	5	9	1	DEODORIZE
+0	1	10	V	1	4	7	0		1	6	3	1	VAL
+0	0	0	I	1	4	7	0		0	7	3	0	
+0	0	0	S	1	4	7	0		0	8	6	0	
+0	0	0	E	1	4	7	0		0	9	6	0	
+0	1	11	S	1	4	7	0		1	10	4	1	SSEE
+0	1	12	F	2	0	11	1	FOAMPEANUTS	0	0	3	0	
+0	0	0	O	2	0	11	0		0	1	4	0	
+0	0	0	A	2	0	11	0		0	2	4	0	
+0	1	13	M	2	0	11	0		2	3	4	1	MPAA
+0	0	0	P	2	0	11	0		1	4	5	0	
+0	0	0	E	2	0	11	0		1	5	9	0	
+0	0	0	A	2	0	11	0		1	6	3	0	
+0	0	0	N	2	0	11	0		0	7	3	0	
+0	0	0	U	2	0	11	0		0	8	6	0	
+0	0	0	T	2	0	11	0		0	9	6	0	
+0	0	0	S	2	0	11	0		1	10	4	0	
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	14	N	3	1	6	1	NSPOOL	0	1	4	0	
+0	0	0	S	3	1	6	0		0	2	4	0	
+0	0	0	P	3	1	6	0		2	3	4	0	
+0	0	0	O	3	1	6	0		1	4	5	0	
+0	0	0	O	3	1	6	0		1	5	9	0	
+0	0	0	L	3	1	6	0		1	6	3	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	15	R	3	8	3	1	REE	0	8	6	0	
+0	0	0	E	3	8	3	0		0	9	6	0	
+0	0	0	E	3	8	3	0		1	10	4	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	16	A	4	3	3	1	ADD	2	3	4	0	
+0	0	0	D	4	3	3	0		1	4	5	0	
+0	0	0	D	4	3	3	0		1	5	9	0	
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	4	0	
+0	1	17	E	4	8	3	1	ELE	0	8	6	0	
+0	0	0	L	4	8	3	0		0	9	6	0	
+0	0	0	E	4	8	3	0		1	10	4	0	
+1	0	0	#	5	1	9	0		6	0	4	0	
+0	1	18	R	5	1	9	1	REASONERS	5	1	6	1	RUNINS
+0	1	19	E	5	1	9	0		5	2	6	1	EVADED
+0	0	0	A	5	1	9	0		2	3	4	0	
+0	0	0	S	5	1	9	0		1	4	5	0	
+0	0	0	O	5	1	9	0		1	5	9	0	
+0	1	20	N	5	1	9	0		5	6	5	1	NAPED
+0	1	21	E	5	1	9	0		5	7	4	1	EXOD
+0	0	0	R	5	1	9	0		0	8	6	0	
+0	0	0	S	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	G	6	0	3	1	GUV	6	0	4	1	GEMS
+0	0	0	U	6	0	3	0		5	1	6	0	
+0	0	0	V	6	0	3	0		5	2	6	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	23	R	6	5	3	1	RAX	1	5	9	0	
+0	0	0	A	6	5	3	0		5	6	5	0	
+0	0	0	X	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	E	7	0	3	1	ENA	6	0	4	0	
+0	0	0	N	7	0	3	0		5	1	6	0	
+0	0	0	A	7	0	3	0		5	2	6	0	
+1	0	0	#	7	4	6	0		8	3	3	0	
+0	1	25	D	7	4	6	1	DIPOLE	7	4	3	1	DIR
+0	0	0	I	7	4	6	0		1	5	9	0	
+0	0	0	P	7	4	6	0		5	6	5	0	
+0	0	0	O	7	4	6	0		5	7	4	0	
+0	1	26	L	7	4	6	0		7	8	4	1	LCTO
+0	1	27	E	7	4	6	0		7	9	4	1	EARS
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	M	8	0	11	1	MIDSIZEDCAR	6	0	4	0	
+0	0	0	I	8	0	11	0		5	1	6	0	
+0	0	0	D	8	0	11	0		5	2	6	0	
+0	1	29	S	8	0	11	0		8	3	3	1	SEI
+0	0	0	I	8	0	11	0		7	4	3	0	
+0	0	0	Z	8	0	11	0		1	5	9	0	
+0	0	0	E	8	0	11	0		5	6	5	0	
+0	0	0	D	8	0	11	0		5	7	4	0	
+0	0	0	C	8	0	11	0		7	8	4	0	
+0	0	0	A	8	0	11	0		7	9	4	0	
+0	1	30	R	8	0	11	0		8	10	3	1	RLS
+0	1	31	S	9	0	7	1	SNEERED	6	0	4	0	
+0	0	0	N	9	0	7	0		5	1	6	0	
+0	0	0	E	9	0	7	0		5	2	6	0	
+0	0	0	E	9	0	7	0		8	3	3	0	
+0	0	0	R	9	0	7	0		7	4	3	0	
+0	0	0	E	9	0	7	0		1	5	9	0	
+0	0	0	D	9	0	7	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	32	T	9	8	3	1	TRL	7	8	4	0	
+0	0	0	R	9	8	3	0		7	9	4	0	
+0	0	0	L	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	33	S	10	1	3	1	SDI	5	1	6	0	
+0	0	0	D	10	1	3	0		5	2	6	0	
+0	0	0	I	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	34	O	10	8	3	1	OSS	7	8	4	0	
+0	0	0	S	10	8	3	0		7	9	4	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+19
+1	REP	Mouthpiece
+4	PUB	Alehouse
+7	ETS	Hangar 18 contents, supposedly
+8	ADVISES	Steers
+12	FOAMPEANUTS	The mailroom clerk brought ...
+14	NSPOOL	Illegal lottery game
+15	REE	"Riddle me, riddle me ___"
+16	ADD	Combine
+17	ELE	One in the charge of un instituteur
+18	REASONERS	They make sense
+22	GUV	Informal British term of address
+23	RAX	Stretch out, in Scotland
+24	ENA	Bygone Spanish queen
+25	DIPOLE	Radio antenna
+28	MIDSIZEDCAR	Toyota Camry, e.g.
+31	SNEERED	Wore a belittling look
+32	TRL	Bygone daily MTV series, informally
+33	SDI	Reagan-era program, in brief
+34	OSS	C.I.A. ancestor
+21
+1	REF	Webster's or Bartlett's
+2	ETON	Famous boys-only school
+3	PSAS	Free TV spots, for short
+4	PIN	Fraternity jewelry
+5	USURER	Person of great interest
+6	BETELS	Asian nut-bearing palms
+8	APODS	Footless amphibians
+9	DEODORIZE	Freshen
+10	VAL	Batman after Michael
+11	SSEE	Go on a vacation tour
+13	MPAA	G or R issuer: Abbr.
+18	RUNINS	Encounters
+19	EVADED	Sidestepped
+20	NAPED	Red-___ sapsucker
+21	EXOD	Book after Gen.
+22	GEMS	Emeralds and diamonds
+25	DIR	Movie V.I.P.: Abbr.
+26	LCTO	Time-share unit
+27	EARS	Pencil holders, sometimes
+29	SEI	Number of legs on un insetto
+30	RLS	"Treasure Island" inits.

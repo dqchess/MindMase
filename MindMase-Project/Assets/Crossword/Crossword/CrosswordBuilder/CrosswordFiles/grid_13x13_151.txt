@@ -1,0 +1,231 @@
+grid_13x13_151
+13
+0	1	1	S	0	0	3	1	SHO	0	0	3	1	SDI
+0	1	2	H	0	0	3	0		0	1	12	1	HEARTANDSOUL
+0	1	3	O	0	0	3	0		0	2	13	1	ONCEUPONATIME
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	N	0	4	3	1	NES	0	4	6	1	NICOLA
+0	1	5	E	0	4	3	0		0	5	3	1	ESC
+0	1	6	S	0	4	3	0		0	6	13	1	STAFFENTRANCE
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	A	0	8	3	1	ADS	0	8	4	1	ATAT
+0	1	8	D	0	8	3	0		0	9	3	1	DIF
+0	1	9	S	0	8	3	0		0	10	13	1	SPORTSWRITING
+1	0	0	#	0	12	0	0		1	11	12	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	D	1	0	7	1	DENTIST	0	0	3	0	
+0	0	0	E	1	0	7	0		0	1	12	0	
+0	0	0	N	1	0	7	0		0	2	13	0	
+0	1	11	T	1	0	7	0		1	3	3	1	TOM
+0	0	0	I	1	0	7	0		0	4	6	0	
+0	0	0	S	1	0	7	0		0	5	3	0	
+0	0	0	T	1	0	7	0		0	6	13	0	
+1	0	0	#	1	8	4	0		2	7	0	0	
+0	1	12	T	1	8	4	1	TIPI	0	8	4	0	
+0	0	0	I	1	8	4	0		0	9	3	0	
+0	0	0	P	1	8	4	0		0	10	13	0	
+0	1	13	I	1	8	4	0		1	11	12	1	INDIANAJONES
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	I	2	0	7	1	IACOCCA	0	0	3	0	
+0	0	0	A	2	0	7	0		0	1	12	0	
+0	0	0	C	2	0	7	0		0	2	13	0	
+0	0	0	O	2	0	7	0		1	3	3	0	
+0	0	0	C	2	0	7	0		0	4	6	0	
+0	0	0	C	2	0	7	0		0	5	3	0	
+0	0	0	A	2	0	7	0		0	6	13	0	
+1	0	0	#	2	8	5	0		3	7	6	0	
+0	1	15	A	2	8	5	1	AFOND	0	8	4	0	
+0	0	0	F	2	8	5	0		0	9	3	0	
+0	0	0	O	2	8	5	0		0	10	13	0	
+0	0	0	N	2	8	5	0		1	11	12	0	
+0	1	16	D	2	8	5	0		2	12	3	1	DSC
+1	0	0	#	3	1	4	0		4	0	3	0	
+0	1	17	R	3	1	4	1	REMO	0	1	12	0	
+0	0	0	E	3	1	4	0		0	2	13	0	
+0	0	0	M	3	1	4	0		1	3	3	0	
+0	0	0	O	3	1	4	0		0	4	6	0	
+1	0	0	#	3	6	3	0		4	5	6	0	
+0	1	18	F	3	6	3	1	FAT	0	6	13	0	
+0	1	19	A	3	6	3	0		3	7	6	1	AORTAL
+0	0	0	T	3	6	3	0		0	8	4	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	20	R	3	10	3	1	RDS	0	10	13	0	
+0	0	0	D	3	10	3	0		1	11	12	0	
+0	0	0	S	3	10	3	0		2	12	3	0	
+0	1	21	S	4	0	3	1	STU	4	0	3	1	STP
+0	0	0	T	4	0	3	0		0	1	12	0	
+0	0	0	U	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	22	L	4	4	4	1	LIFO	0	4	6	0	
+0	1	23	I	4	4	4	0		4	5	6	1	ITEMED
+0	0	0	F	4	4	4	0		0	6	13	0	
+0	0	0	O	4	4	4	0		3	7	6	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	24	T	4	10	3	1	TIC	0	10	13	0	
+0	0	0	I	4	10	3	0		1	11	12	0	
+0	0	0	C	4	10	3	0		2	12	3	0	
+0	1	25	T	5	0	8	1	TAPWATER	4	0	3	0	
+0	0	0	A	5	0	8	0		0	1	12	0	
+0	0	0	P	5	0	8	0		0	2	13	0	
+0	1	26	W	5	0	8	0		5	3	3	1	WTA
+0	0	0	A	5	0	8	0		0	4	6	0	
+0	0	0	T	5	0	8	0		4	5	6	0	
+0	0	0	E	5	0	8	0		0	6	13	0	
+0	0	0	R	5	0	8	0		3	7	6	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	27	S	5	9	3	1	SSA	5	9	3	1	SOA
+0	0	0	S	5	9	3	0		0	10	13	0	
+0	0	0	A	5	9	3	0		1	11	12	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	P	6	0	4	1	PNOT	4	0	3	0	
+0	0	0	N	6	0	4	0		0	1	12	0	
+0	0	0	O	6	0	4	0		0	2	13	0	
+0	0	0	T	6	0	4	0		5	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	29	E	6	5	3	1	ENT	4	5	6	0	
+0	0	0	N	6	5	3	0		0	6	13	0	
+0	0	0	T	6	5	3	0		3	7	6	0	
+1	0	0	#	6	9	4	0		7	8	6	0	
+0	1	30	O	6	9	4	1	OWNS	5	9	3	0	
+0	0	0	W	6	9	4	0		0	10	13	0	
+0	0	0	N	6	9	4	0		1	11	12	0	
+0	1	31	S	6	9	4	0		6	12	3	1	STK
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	32	D	7	1	3	1	DNA	0	1	12	0	
+0	0	0	N	7	1	3	0		0	2	13	0	
+0	0	0	A	7	1	3	0		5	3	3	0	
+1	0	0	#	7	5	8	0		8	4	0	0	
+0	1	33	M	7	5	8	1	MTARARAT	4	5	6	0	
+0	0	0	T	7	5	8	0		0	6	13	0	
+0	0	0	A	7	5	8	0		3	7	6	0	
+0	1	34	R	7	5	8	0		7	8	6	1	RESOLE
+0	0	0	A	7	5	8	0		5	9	3	0	
+0	0	0	R	7	5	8	0		0	10	13	0	
+0	0	0	A	7	5	8	0		1	11	12	0	
+0	0	0	T	7	5	8	0		6	12	3	0	
+0	1	35	T	8	0	3	1	TSA	8	0	3	1	TMC
+0	0	0	S	8	0	3	0		0	1	12	0	
+0	0	0	A	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	4	0		9	4	4	0	
+0	1	36	E	8	5	4	1	ERLE	4	5	6	0	
+0	0	0	R	8	5	4	0		0	6	13	0	
+0	0	0	L	8	5	4	0		3	7	6	0	
+0	0	0	E	8	5	4	0		7	8	6	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	37	I	8	10	3	1	IJK	0	10	13	0	
+0	0	0	J	8	10	3	0		1	11	12	0	
+0	0	0	K	8	10	3	0		6	12	3	0	
+0	1	38	M	9	0	3	1	MOT	8	0	3	0	
+0	0	0	O	9	0	3	0		0	1	12	0	
+0	0	0	T	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	39	E	9	4	3	1	EDA	9	4	4	1	EGON
+0	0	0	D	9	4	3	0		4	5	6	0	
+0	0	0	A	9	4	3	0		0	6	13	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	40	S	9	8	4	1	SOTO	7	8	6	0	
+0	1	41	O	9	8	4	0		9	9	3	1	OSO
+0	0	0	T	9	8	4	0		0	10	13	0	
+0	0	0	O	9	8	4	0		1	11	12	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	C	10	0	5	1	CUING	8	0	3	0	
+0	0	0	U	10	0	5	0		0	1	12	0	
+0	0	0	I	10	0	5	0		0	2	13	0	
+0	1	43	N	10	0	5	0		10	3	3	1	NNE
+0	0	0	G	10	0	5	0		9	4	4	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	44	N	10	6	7	1	NOOSING	0	6	13	0	
+0	1	45	O	10	6	7	0		10	7	3	1	OON
+0	0	0	O	10	6	7	0		7	8	6	0	
+0	0	0	S	10	6	7	0		9	9	3	0	
+0	0	0	I	10	6	7	0		0	10	13	0	
+0	0	0	N	10	6	7	0		1	11	12	0	
+0	1	46	G	10	6	7	0		10	12	3	1	GLO
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	47	L	11	1	4	1	LMNO	0	1	12	0	
+0	0	0	M	11	1	4	0		0	2	13	0	
+0	0	0	N	11	1	4	0		10	3	3	0	
+0	0	0	O	11	1	4	0		9	4	4	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	48	C	11	6	7	1	COLONEL	0	6	13	0	
+0	0	0	O	11	6	7	0		10	7	3	0	
+0	0	0	L	11	6	7	0		7	8	6	0	
+0	0	0	O	11	6	7	0		9	9	3	0	
+0	0	0	N	11	6	7	0		0	10	13	0	
+0	0	0	E	11	6	7	0		1	11	12	0	
+0	0	0	L	11	6	7	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	49	E	12	2	3	1	EEN	0	2	13	0	
+0	0	0	E	12	2	3	0		10	3	3	0	
+0	0	0	N	12	2	3	0		9	4	4	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	50	E	12	6	3	1	ENE	0	6	13	0	
+0	0	0	N	12	6	3	0		10	7	3	0	
+0	0	0	E	12	6	3	0		7	8	6	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	G	12	10	3	1	GSO	0	10	13	0	
+0	0	0	S	12	10	3	0		1	11	12	0	
+0	0	0	O	12	10	3	0		10	12	3	0	
+33
+1	SHO	Premium cable network: Abbr.
+4	NES	Super ___ (old video game standard)
+7	ADS	Job listings, e.g.
+10	DENTIST	Mouth mirror user
+12	TIPI	Home of the brave?: Var.
+14	IACOCCA	"Where Have All the Leaders Gone?" author
+15	AFOND	"I bid you ___ farewell"
+17	REMO	Adventure hero ___ Williams
+18	FAT	Waist-ful?
+20	RDS	Things with shoulders: Abbr.
+21	STU	Early Beatle Sutcliffe
+22	LIFO	Acctg. principle
+24	TIC	Muscle movement
+25	TAPWATER	Meaning of "one on the city," in diner lingo
+27	SSA	Sender of monthly checks: Abbr.
+28	PNOT	Grape for winemaking
+29	ENT	Suffix with insist
+30	OWNS	Has complete domination over
+32	DNA	Strand from a parent
+33	MTARARAT	Notable ancient landfall
+35	TSA	Carry-on checkers: Abbr.
+36	ERLE	First name in detective fiction
+37	IJK	H-L connectors
+38	MOT	Verbal jewel
+39	EDA	"The Conspiracy Against Childhood" writer LeShan
+40	SOTO	De ___
+42	CUING	Stage assistant's job
+44	NOOSING	Rodeo activity
+47	LMNO	Middle of a run?
+48	COLONEL	Rank below brigadier general
+49	EEN	Dark period of poetry
+50	ENE	From K.C. to Detroit
+51	GSO	Mil. aide
+25
+1	SDI	Star Wars: Abbr.
+2	HEARTANDSOUL	Lost ___ (two, please)
+3	ONCEUPONATIME	Fairy tale's start
+4	NICOLA	San ___, Christmas figure in Italy
+5	ESC	PC bailout key
+6	STAFFENTRANCE	Door that is not for visitors
+7	ATAT	Rat follower
+8	DIF	Subtraction amt.
+9	SPORTSWRITING	Specialized reporting
+11	TOM	Adventure hero Swift
+13	INDIANAJONES	Ford explorer?
+16	DSC	U.S. Army award: Abbr.
+19	AORTAL	Like some blood passages
+21	STP	Big letters in racing
+23	ITEMED	Detailed, old-style
+26	WTA	Org. for Venus and Serena Williams
+27	SOA	"___ man walks into a bar ..."
+31	STK	Nasdaq listing: Abbr.
+34	RESOLE	Fix in a cobbler's shop, say
+35	TMC	HBO alternative
+39	EGON	One of the Ghostbusters
+41	OSO	Spanish bruin
+43	NNE	Ship's hdg.
+45	OON	Suffix with bass
+46	GLO	Shine, in product names

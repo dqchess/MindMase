@@ -1,0 +1,233 @@
+grid_13x13_121
+13
+0	1	1	I	0	0	3	1	IFA	0	0	3	1	ICE
+0	1	2	F	0	0	3	0		0	1	3	1	FAT
+0	1	3	A	0	0	3	0		0	2	13	1	ABARDSEYEVIEW
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	4	0	
+0	1	4	G	0	5	3	1	GAM	0	5	3	1	GTE
+0	1	5	A	0	5	3	0		0	6	3	1	AUR
+0	1	6	M	0	5	3	0		0	7	9	1	MISDIRECT
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	A	0	10	3	1	AGN	0	10	13	1	ADMIRALNELSON
+0	1	8	G	0	10	3	0		0	11	9	1	GLADIATOR
+0	1	9	N	0	10	3	0		0	12	3	1	NIT
+0	1	10	C	1	0	3	1	CAB	0	0	3	0	
+0	0	0	A	1	0	3	0		0	1	3	0	
+0	0	0	B	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	4	0	
+0	1	11	E	1	4	4	1	ETUI	1	4	4	1	ELMO
+0	0	0	T	1	4	4	0		0	5	3	0	
+0	0	0	U	1	4	4	0		0	6	3	0	
+0	0	0	I	1	4	4	0		0	7	9	0	
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	12	C	1	9	4	1	CDLI	1	9	3	1	CAV
+0	0	0	D	1	9	4	0		0	10	13	0	
+0	0	0	L	1	9	4	0		0	11	9	0	
+0	0	0	I	1	9	4	0		0	12	3	0	
+0	1	13	E	2	0	8	1	ETAILERS	0	0	3	0	
+0	0	0	T	2	0	8	0		0	1	3	0	
+0	0	0	A	2	0	8	0		0	2	13	0	
+0	1	14	I	2	0	8	0		2	3	4	1	IOLA
+0	0	0	L	2	0	8	0		1	4	4	0	
+0	0	0	E	2	0	8	0		0	5	3	0	
+0	0	0	R	2	0	8	0		0	6	3	0	
+0	0	0	S	2	0	8	0		0	7	9	0	
+1	0	0	#	2	9	4	0		3	8	3	0	
+0	1	15	A	2	9	4	1	AMAT	1	9	3	0	
+0	0	0	M	2	9	4	0		0	10	13	0	
+0	0	0	A	2	9	4	0		0	11	9	0	
+0	0	0	T	2	9	4	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	9	0	
+0	1	16	R	3	2	3	1	ROM	0	2	13	0	
+0	0	0	O	3	2	3	0		2	3	4	0	
+0	0	0	M	3	2	3	0		1	4	4	0	
+1	0	0	#	3	6	0	0		4	5	9	0	
+1	0	0	#	3	7	5	0		4	6	5	0	
+0	1	17	D	3	7	5	1	DAVID	0	7	9	0	
+0	1	18	A	3	7	5	0		3	8	3	1	APE
+0	0	0	V	3	7	5	0		1	9	3	0	
+0	0	0	I	3	7	5	0		0	10	13	0	
+0	0	0	D	3	7	5	0		0	11	9	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	8	0		5	0	0	0	
+0	1	19	I	4	1	8	1	IDLOSSIP	4	1	9	1	ITSNOTFAR
+0	0	0	D	4	1	8	0		0	2	13	0	
+0	0	0	L	4	1	8	0		2	3	4	0	
+0	0	0	O	4	1	8	0		1	4	4	0	
+0	1	20	S	4	1	8	0		4	5	9	1	SINORSWIM
+0	1	21	S	4	1	8	0		4	6	5	1	SMOTE
+0	0	0	I	4	1	8	0		0	7	9	0	
+0	0	0	P	4	1	8	0		3	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	R	4	10	3	1	RIP	0	10	13	0	
+0	0	0	I	4	10	3	0		0	11	9	0	
+0	1	23	P	4	10	3	0		4	12	3	1	PHS
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	24	T	5	1	3	1	TSA	4	1	9	0	
+0	0	0	S	5	1	3	0		0	2	13	0	
+0	0	0	A	5	1	3	0		2	3	4	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	25	I	5	5	4	1	IMRE	4	5	9	0	
+0	0	0	M	5	5	4	0		4	6	5	0	
+0	0	0	R	5	5	4	0		0	7	9	0	
+0	0	0	E	5	5	4	0		3	8	3	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	26	A	5	10	3	1	AAH	0	10	13	0	
+0	0	0	A	5	10	3	0		0	11	9	0	
+0	0	0	H	5	10	3	0		4	12	3	0	
+0	1	27	T	6	0	3	1	TSE	6	0	3	1	TAZ
+0	0	0	S	6	0	3	0		4	1	9	0	
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	28	N	6	5	3	1	NOE	4	5	9	0	
+0	0	0	O	6	5	3	0		4	6	5	0	
+0	0	0	E	6	5	3	0		0	7	9	0	
+1	0	0	#	6	9	0	0		7	8	0	0	
+1	0	0	#	6	10	3	0		7	9	4	0	
+0	1	29	L	6	10	3	1	LTS	0	10	13	0	
+0	0	0	T	6	10	3	0		0	11	9	0	
+0	0	0	S	6	10	3	0		4	12	3	0	
+0	1	30	A	7	0	3	1	ANY	6	0	3	0	
+0	0	0	N	7	0	3	0		4	1	9	0	
+0	0	0	Y	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	4	0		8	3	0	0	
+0	1	31	R	7	4	4	1	ROTC	7	4	3	1	RFD
+0	0	0	O	7	4	4	0		4	5	9	0	
+0	0	0	T	7	4	4	0		4	6	5	0	
+0	0	0	C	7	4	4	0		0	7	9	0	
+1	0	0	#	7	9	3	0		8	8	4	0	
+0	1	32	O	7	9	3	1	ONO	7	9	4	1	OVER
+0	0	0	N	7	9	3	0		0	10	13	0	
+0	0	0	O	7	9	3	0		0	11	9	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	Z	8	0	3	1	ZOE	6	0	3	0	
+0	0	0	O	8	0	3	0		4	1	9	0	
+0	0	0	E	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	8	0		9	3	3	0	
+0	1	34	F	8	4	8	1	FRETOVER	7	4	3	0	
+0	0	0	R	8	4	8	0		4	5	9	0	
+0	0	0	E	8	4	8	0		4	6	5	0	
+0	0	0	T	8	4	8	0		0	7	9	0	
+0	1	35	O	8	4	8	0		8	8	4	1	OKEY
+0	0	0	V	8	4	8	0		7	9	4	0	
+0	0	0	E	8	4	8	0		0	10	13	0	
+0	0	0	R	8	4	8	0		0	11	9	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	36	T	9	1	5	1	TVADS	4	1	9	0	
+0	0	0	V	9	1	5	0		0	2	13	0	
+0	1	37	A	9	1	5	0		9	3	3	1	ATL
+0	0	0	D	9	1	5	0		7	4	3	0	
+0	0	0	S	9	1	5	0		4	5	9	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	38	K	9	8	3	1	KEL	8	8	4	0	
+0	0	0	E	9	8	3	0		7	9	4	0	
+0	0	0	L	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	39	I	10	0	4	1	IFIT	10	0	3	1	ITT
+0	0	0	F	10	0	4	0		4	1	9	0	
+0	0	0	I	10	0	4	0		0	2	13	0	
+0	0	0	T	10	0	4	0		9	3	3	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	40	W	10	5	8	1	WATERSKI	4	5	9	0	
+0	1	41	A	10	5	8	0		10	6	3	1	AMO
+0	1	42	T	10	5	8	0		10	7	3	1	TAL
+0	0	0	E	10	5	8	0		8	8	4	0	
+0	0	0	R	10	5	8	0		7	9	4	0	
+0	0	0	S	10	5	8	0		0	10	13	0	
+0	1	43	K	10	5	8	0		10	11	3	1	KMS
+0	1	44	I	10	5	8	0		10	12	3	1	ISA
+0	1	45	T	11	0	4	1	TAEL	10	0	3	0	
+0	0	0	A	11	0	4	0		4	1	9	0	
+0	0	0	E	11	0	4	0		0	2	13	0	
+0	0	0	L	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	46	I	11	5	4	1	IMAY	4	5	9	0	
+0	0	0	M	11	5	4	0		10	6	3	0	
+0	0	0	A	11	5	4	0		10	7	3	0	
+0	0	0	Y	11	5	4	0		8	8	4	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	47	O	11	10	3	1	OMS	0	10	13	0	
+0	0	0	M	11	10	3	0		10	11	3	0	
+0	0	0	S	11	10	3	0		10	12	3	0	
+0	1	48	T	12	0	3	1	TRW	10	0	3	0	
+0	0	0	R	12	0	3	0		4	1	9	0	
+0	0	0	W	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	49	M	12	5	3	1	MOL	4	5	9	0	
+0	0	0	O	12	5	3	0		10	6	3	0	
+0	0	0	L	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	N	12	10	3	1	NSA	0	10	13	0	
+0	0	0	S	12	10	3	0		10	11	3	0	
+0	0	0	A	12	10	3	0		10	12	3	0	
+33
+1	IFA	"___ tree falls ..."
+4	GAM	Part of cheesecake, maybe
+7	AGN	Once more: Abbr.
+10	CAB	What a hack drives
+11	ETUI	Choice for small toiletries
+12	CDLI	Year Attila was defeated in Gaul
+13	ETAILERS	Online merchants
+15	AMAT	Amo, amas, ___
+16	ROM	CD finale?
+17	DAVID	Florentine art treasure
+19	IDLOSSIP	Blah-blah-blah
+22	RIP	Unfortunate sound when you bend over
+24	TSA	"Your safety is our priority" org.
+25	IMRE	Hungarian writer Mad
+26	AAH	"How very nice!"
+27	TSE	Lao-___
+28	NOE	French caricaturist Comte de ___
+29	LTS	Grads of O.T.S.
+30	ANY	Word with longer or minute
+31	ROTC	Drillers' org.?
+32	ONO	French vote
+33	ZOE	Pulitzer-winning writer Akins
+34	FRETOVER	Dwell on negatively
+36	TVADS	30-second spots, e.g.
+38	KEL	Kenan's old partner on Nickelodeon
+39	IFIT	"___ ain't broke ..."
+40	WATERSKI	It's hard to do this barefoot
+45	TAEL	Old Chinese money
+46	IMAY	Noncommittal words
+47	OMS	Meditation class chorus
+48	TRW	Old credit-tracking corp.
+49	MOL	Small particle: Abbr.
+50	NSA	Org. in Clancy's "Red Storm Rising"
+27
+1	ICE	Food preserver
+2	FAT	It may be burned
+3	ABARDSEYEVIEW	What one gets reading poetry?
+4	GTE	Former telecom giant
+5	AUR	Gold: Prefix
+6	MISDIRECT	Take the wrong way?
+7	ADMIRALNELSON	Battle of Trafalgar hero
+8	GLADIATOR	Best Picture of 2000
+9	NIT	Hoops competition, briefly
+11	ELMO	"Tickle me" doll
+12	CAV	Ohio pro, for short
+14	IOLA	Kansas town on the Neosho River
+18	APE	Barbary ___
+19	ITSNOTFAR	"Almost there!"
+20	SINORSWIM	Reprobate's choices on a hot day?
+21	SMOTE	Struck hard
+23	PHS	Chem. class measures
+27	TAZ	Devil in Looney Tunes cartoons, informally
+31	RFD	Backwoods address abbr.
+32	OVER	Above
+35	OKEY	___-doke
+37	ATL	Oceanic abbr.
+39	ITT	Defense contractor whose stock symbol is the same as its name
+41	AMO	Latin 101 word
+42	TAL	1960s chess champion Mikhail
+43	KMS	Tour de France units: Abbr.
+44	ISA	Old Testament book: Abbr.

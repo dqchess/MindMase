@@ -1,0 +1,165 @@
+grid_11x11_26
+11
+0	1	1	R	0	0	3	1	RUB	0	0	3	1	RUR
+0	1	2	U	0	0	3	0		0	1	3	1	URU
+0	1	3	B	0	0	3	0		0	2	3	1	BBB
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	E	0	6	3	1	ESD	0	6	6	1	EOCENE
+0	1	5	S	0	6	3	0		0	7	5	1	SLUSH
+0	1	6	D	0	6	3	0		0	8	7	1	DEBTORS
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	U	1	0	3	1	URB	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	3	0	
+0	0	0	B	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	6	0		2	3	3	0	
+0	1	8	E	1	4	6	1	ECOLES	1	4	3	1	EKE
+0	1	9	C	1	4	6	0		1	5	9	1	CSTUDENTS
+0	0	0	O	1	4	6	0		0	6	6	0	
+0	0	0	L	1	4	6	0		0	7	5	0	
+0	0	0	E	1	4	6	0		0	8	7	0	
+0	1	10	S	1	4	6	0		1	9	6	1	SEELEY
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	R	2	0	10	1	RUBIKSCUBE	0	0	3	0	
+0	0	0	U	2	0	10	0		0	1	3	0	
+0	0	0	B	2	0	10	0		0	2	3	0	
+0	1	12	I	2	0	10	0		2	3	3	1	IDE
+0	0	0	K	2	0	10	0		1	4	3	0	
+0	0	0	S	2	0	10	0		1	5	9	0	
+0	0	0	C	2	0	10	0		0	6	6	0	
+0	0	0	U	2	0	10	0		0	7	5	0	
+0	0	0	B	2	0	10	0		0	8	7	0	
+0	0	0	E	2	0	10	0		1	9	6	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	6	0	
+1	0	0	#	3	3	8	0		4	2	7	0	
+0	1	13	D	3	3	8	1	DETESTED	2	3	3	0	
+0	0	0	E	3	3	8	0		1	4	3	0	
+0	0	0	T	3	3	8	0		1	5	9	0	
+0	0	0	E	3	3	8	0		0	6	6	0	
+0	0	0	S	3	3	8	0		0	7	5	0	
+0	0	0	T	3	3	8	0		0	8	7	0	
+0	0	0	E	3	3	8	0		1	9	6	0	
+0	1	14	D	3	3	8	0		3	10	3	1	DYE
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	15	N	4	1	3	1	NIE	4	1	6	1	NONAME
+0	1	16	I	4	1	3	0		4	2	7	1	INSTONE
+0	0	0	E	4	1	3	0		2	3	3	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	17	U	4	5	6	1	UNHOLY	1	5	9	0	
+0	0	0	N	4	5	6	0		0	6	6	0	
+0	0	0	H	4	5	6	0		0	7	5	0	
+0	0	0	O	4	5	6	0		0	8	7	0	
+0	0	0	L	4	5	6	0		1	9	6	0	
+0	0	0	Y	4	5	6	0		3	10	3	0	
+0	1	18	A	5	0	3	1	AON	5	0	3	1	AOK
+0	0	0	O	5	0	3	0		4	1	6	0	
+0	0	0	N	5	0	3	0		4	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	19	A	5	4	3	1	ADE	5	4	6	1	ALANIS
+0	0	0	D	5	4	3	0		1	5	9	0	
+0	0	0	E	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	20	R	5	8	3	1	REE	0	8	7	0	
+0	0	0	E	5	8	3	0		1	9	6	0	
+0	0	0	E	5	8	3	0		3	10	3	0	
+0	1	21	O	6	0	6	1	ONSALE	5	0	3	0	
+0	0	0	N	6	0	6	0		4	1	6	0	
+0	0	0	S	6	0	6	0		4	2	7	0	
+0	1	22	A	6	0	6	0		6	3	5	1	AMULE
+0	0	0	L	6	0	6	0		5	4	6	0	
+0	0	0	E	6	0	6	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	23	P	6	7	3	1	PSY	6	7	3	1	PUR
+0	0	0	S	6	7	3	0		0	8	7	0	
+0	0	0	Y	6	7	3	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	K	7	0	8	1	KATMANDU	5	0	3	0	
+0	0	0	A	7	0	8	0		4	1	6	0	
+0	0	0	T	7	0	8	0		4	2	7	0	
+0	0	0	M	7	0	8	0		6	3	5	0	
+0	0	0	A	7	0	8	0		5	4	6	0	
+0	0	0	N	7	0	8	0		1	5	9	0	
+0	1	25	D	7	0	8	0		7	6	3	1	DET
+0	0	0	U	7	0	8	0		6	7	3	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	26	M	8	1	10	1	MOUNTEREST	4	1	6	0	
+0	0	0	O	8	1	10	0		4	2	7	0	
+0	0	0	U	8	1	10	0		6	3	5	0	
+0	0	0	N	8	1	10	0		5	4	6	0	
+0	0	0	T	8	1	10	0		1	5	9	0	
+0	0	0	E	8	1	10	0		7	6	3	0	
+0	0	0	R	8	1	10	0		6	7	3	0	
+0	1	27	E	8	1	10	0		8	8	3	1	ENL
+0	1	28	S	8	1	10	0		8	9	3	1	SCS
+0	1	29	T	8	1	10	0		8	10	3	1	TRE
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	30	E	9	1	6	1	ENLIST	4	1	6	0	
+0	0	0	N	9	1	6	0		4	2	7	0	
+0	0	0	L	9	1	6	0		6	3	5	0	
+0	0	0	I	9	1	6	0		5	4	6	0	
+0	0	0	S	9	1	6	0		1	5	9	0	
+0	0	0	T	9	1	6	0		7	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	31	N	9	8	3	1	NCR	8	8	3	0	
+0	0	0	C	9	8	3	0		8	9	3	0	
+0	0	0	R	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	32	E	10	2	3	1	EES	4	2	7	0	
+0	0	0	E	10	2	3	0		6	3	5	0	
+0	0	0	S	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	33	L	10	8	3	1	LSE	8	8	3	0	
+0	0	0	S	10	8	3	0		8	9	3	0	
+0	0	0	E	10	8	3	0		8	10	3	0	
+19
+1	RUB	Cause friction
+4	ESD	Either of two books of the Apocrypha: Abbr.
+7	URB	Populous area
+8	ECOLES	Enfants attend them
+11	RUBIKSCUBE	Six-colored puzzle
+13	DETESTED	Couldn't stand
+15	NIE	Not once, in N
+17	UNHOLY	Wicked
+18	AON	___ Center (Chicago skyscraper)
+19	ADE	Suffix with stock or block
+20	REE	Shipwreck cause, sometimes
+21	ONSALE	Discounted
+23	PSY	Subj. that deals with mixed feelings
+24	KATMANDU	Capital of Nepal
+26	MOUNTEREST	It was conquered in 1953
+30	ENLIST	Get on base?
+31	NCR	Big mfr. of A.T.M.'s
+32	EES	Wirers, say: Abbr.
+33	LSE	End of many an E-mail address
+21
+1	RUR	Capek classic
+2	URU	Winner of the first World Cup: Abbr.
+3	BBB	Org. with the motto "Start With Trust"
+4	EOCENE	Epoch when bats first appeared
+5	SLUSH	Icy drink
+6	DEBTORS	Ones who owe
+8	EKE	___ out a win
+9	CSTUDENTS	They're far from valedictorians
+10	SEELEY	Old vaudeville actress Blossom
+12	IDE	Suffix with cyan-
+14	DYE	Change from brunette to blonde, say
+15	NONAME	Anonymous
+16	INSTONE	How some things are set
+18	AOK	Hunky-dory
+19	ALANIS	Pop star Morissette
+22	AMULE	Stubborn as ___
+23	PUR	Big name in water filters
+25	DET	One with the force: Abbr.
+27	ENL	Military E-1 or E-2, e.g.
+28	SCS	Barges
+29	TRE	A third of nove

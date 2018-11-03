@@ -1,0 +1,169 @@
+grid_11x11_15
+11
+0	1	1	H	0	0	4	1	HETH	0	0	3	1	HHH
+0	1	2	E	0	0	4	0		0	1	3	1	EAL
+0	1	3	T	0	0	4	0		0	2	3	1	TVA
+0	1	4	H	0	0	4	0		0	3	5	1	HONEY
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	5	E	0	7	3	1	ERE	0	7	3	1	EER
+0	1	6	R	0	7	3	0		0	8	7	1	REPROVE
+0	1	7	E	0	7	3	0		0	9	7	1	ESSENCE
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	8	H	1	0	5	1	HAVOC	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	3	0	
+0	0	0	V	1	0	5	0		0	2	3	0	
+0	0	0	O	1	0	5	0		0	3	5	0	
+0	1	9	C	1	0	5	0		1	4	5	1	CDLIV
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	10	B	1	6	4	1	BEES	1	6	3	1	BAA
+0	0	0	E	1	6	4	0		0	7	3	0	
+0	0	0	E	1	6	4	0		0	8	7	0	
+0	0	0	S	1	6	4	0		0	9	7	0	
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	H	2	0	5	1	HLAND	0	0	3	0	
+0	0	0	L	2	0	5	0		0	1	3	0	
+0	0	0	A	2	0	5	0		0	2	3	0	
+0	0	0	N	2	0	5	0		0	3	5	0	
+0	0	0	D	2	0	5	0		1	4	5	0	
+1	0	0	#	2	6	4	0		3	5	5	0	
+0	1	12	A	2	6	4	1	ARPS	1	6	3	0	
+0	0	0	R	2	6	4	0		0	7	3	0	
+0	0	0	P	2	6	4	0		0	8	7	0	
+0	0	0	S	2	6	4	0		0	9	7	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	7	0	
+1	0	0	#	3	3	4	0		4	2	7	0	
+0	1	13	E	3	3	4	1	ELMA	0	3	5	0	
+0	0	0	L	3	3	4	0		1	4	5	0	
+0	1	14	M	3	3	4	0		3	5	5	1	MNEME
+0	0	0	A	3	3	4	0		1	6	3	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	15	R	3	8	3	1	RED	0	8	7	0	
+0	0	0	E	3	8	3	0		0	9	7	0	
+0	1	16	D	3	8	3	0		3	10	3	1	DIR
+1	0	0	#	4	1	5	0		5	0	3	0	
+0	1	17	L	4	1	5	1	LAYIN	4	1	7	1	LOUDENS
+0	1	18	A	4	1	5	0		4	2	7	1	ACDELCO
+0	0	0	Y	4	1	5	0		0	3	5	0	
+0	0	0	I	4	1	5	0		1	4	5	0	
+0	0	0	N	4	1	5	0		3	5	5	0	
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	O	4	8	3	1	ONI	0	8	7	0	
+0	0	0	N	4	8	3	0		0	9	7	0	
+0	0	0	I	4	8	3	0		3	10	3	0	
+0	1	20	L	5	0	3	1	LOC	5	0	3	1	LIE
+0	0	0	O	5	0	3	0		4	1	7	0	
+0	0	0	C	5	0	3	0		4	2	7	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	V	5	4	3	1	VEE	1	4	5	0	
+0	0	0	E	5	4	3	0		3	5	5	0	
+0	1	22	E	5	4	3	0		5	6	5	1	ERRON
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	23	V	5	8	3	1	VCR	0	8	7	0	
+0	0	0	C	5	8	3	0		0	9	7	0	
+0	0	0	R	5	8	3	0		3	10	3	0	
+0	1	24	I	6	0	3	1	IUD	5	0	3	0	
+0	0	0	U	6	0	3	0		4	1	7	0	
+0	0	0	D	6	0	3	0		4	2	7	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	5	0		7	4	3	0	
+0	1	25	M	6	5	5	1	MRLEE	3	5	5	0	
+0	0	0	R	6	5	5	0		5	6	5	0	
+0	1	26	L	6	5	5	0		6	7	5	1	LEASH
+0	0	0	E	6	5	5	0		0	8	7	0	
+0	0	0	E	6	5	5	0		0	9	7	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	E	7	0	3	1	EDE	5	0	3	0	
+0	0	0	D	7	0	3	0		4	1	7	0	
+0	0	0	E	7	0	3	0		4	2	7	0	
+1	0	0	#	7	4	4	0		8	3	3	0	
+0	1	28	I	7	4	4	1	IERE	7	4	3	1	INS
+0	0	0	E	7	4	4	0		3	5	5	0	
+0	0	0	R	7	4	4	0		5	6	5	0	
+0	0	0	E	7	4	4	0		6	7	5	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	29	E	8	1	4	1	ELIN	4	1	7	0	
+0	0	0	L	8	1	4	0		4	2	7	0	
+0	1	30	I	8	1	4	0		8	3	3	1	IOR
+0	0	0	N	8	1	4	0		7	4	3	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	31	O	8	6	5	1	OATES	5	6	5	0	
+0	0	0	A	8	6	5	0		6	7	5	0	
+0	1	32	T	8	6	5	0		8	8	3	1	TIU
+0	1	33	E	8	6	5	0		8	9	3	1	EDH
+0	1	34	S	8	6	5	0		8	10	3	1	SES
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	35	N	9	1	4	1	NCOS	4	1	7	0	
+0	0	0	C	9	1	4	0		4	2	7	0	
+0	0	0	O	9	1	4	0		8	3	3	0	
+0	0	0	S	9	1	4	0		7	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	36	N	9	6	5	1	NSIDE	5	6	5	0	
+0	0	0	S	9	6	5	0		6	7	5	0	
+0	0	0	I	9	6	5	0		8	8	3	0	
+0	0	0	D	9	6	5	0		8	9	3	0	
+0	0	0	E	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	37	S	10	1	3	1	SOR	4	1	7	0	
+0	0	0	O	10	1	3	0		4	2	7	0	
+0	0	0	R	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	4	0		11	6	0	0	
+0	1	38	H	10	7	4	1	HUHS	6	7	5	0	
+0	0	0	U	10	7	4	0		8	8	3	0	
+0	0	0	H	10	7	4	0		8	9	3	0	
+0	0	0	S	10	7	4	0		8	10	3	0	
+23
+1	HETH	The "H" in Hanukkah
+5	ERE	Obsolescent preposition
+8	HAVOC	Rack and ruin
+10	BEES	Quilters' parties
+11	HLAND	Middle of the country
+12	ARPS	Some Dada prints
+13	ELMA	Town outside of Buffalo
+15	RED	McCarthy target
+17	LAYIN	Store, as supplies
+19	ONI	Clandestine maritime org.
+20	LOC	Footnote abbr.
+21	VEE	Neckline type
+23	VCR	Pass
+24	IUD	Columbus sch.
+25	MRLEE	1957 hit for the Bobbettes
+27	EDE	City ESE of Utrecht
+28	IERE	"Able was ___..."
+29	ELIN	___ Nordegren, ex-wife of Tiger Woods
+31	OATES	"A Garden of Earthly Delights" author
+35	NCOS	Sgts. and such
+36	NSIDE	[See title, and proceed]
+37	SOR	Sisters' org.
+38	HUHS	Bewildered utterances
+21
+1	HHH	Loser to R.M.N., 1968
+2	EAL	Suffix with ether
+3	TVA	New Deal power project: Abbr.
+4	HONEY	Dearest
+5	EER	Ballad ending
+6	REPROVE	Dress down
+7	ESSENCE	Distillate
+9	CDLIV	Mid fifth-century date
+10	BAA	Cry of shear fear?
+14	MNEME	One of the three original Muses
+16	DIR	Scorsese, e.g.: Abbr.
+17	LOUDENS	Turns up
+18	ACDELCO	Big name in auto parts
+20	LIE	Mendacity
+22	ERRON	___ the side of caution
+26	LEASH	What a dog walker holds on to
+28	INS	Grp. protecting U.S. borders
+30	IOR	Super ending?
+32	TIU	English war god
+33	EDH	Phonetic alphabet symbol for "th" as in "the"
+34	SES	His, in France

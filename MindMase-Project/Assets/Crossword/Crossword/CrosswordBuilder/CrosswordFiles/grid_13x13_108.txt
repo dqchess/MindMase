@@ -1,0 +1,231 @@
+grid_13x13_108
+13
+0	1	1	T	0	0	3	1	TOL	0	0	5	1	TIPPI
+0	1	2	O	0	0	3	0		0	1	6	1	ONRICE
+0	1	3	L	0	0	3	0		0	2	6	1	LOOKER
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	E	0	6	3	1	EEN	0	6	3	1	ENS
+0	1	5	E	0	6	3	0		0	7	3	1	EOS
+0	1	6	N	0	6	3	0		0	8	3	1	NNW
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	5	0	
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	I	1	0	5	1	INOUR	0	0	5	0	
+0	0	0	N	1	0	5	0		0	1	6	0	
+0	0	0	O	1	0	5	0		0	2	6	0	
+0	1	8	U	1	0	5	0		1	3	3	1	UGE
+0	1	9	R	1	0	5	0		1	4	3	1	RRR
+1	0	0	#	1	6	6	0		2	5	3	0	
+0	1	10	N	1	6	6	1	NONFAT	0	6	3	0	
+0	0	0	O	1	6	6	0		0	7	3	0	
+0	0	0	N	1	6	6	0		0	8	3	0	
+0	1	11	F	1	6	6	0		1	9	3	1	FOO
+0	1	12	A	1	6	6	0		1	10	5	1	AMBLE
+0	1	13	T	1	6	6	0		1	11	5	1	TALUS
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	P	2	0	13	1	PROGRESSWOMAN	0	0	5	0	
+0	0	0	R	2	0	13	0		0	1	6	0	
+0	0	0	O	2	0	13	0		0	2	6	0	
+0	0	0	G	2	0	13	0		1	3	3	0	
+0	0	0	R	2	0	13	0		1	4	3	0	
+0	1	15	E	2	0	13	0		2	5	3	1	ESS
+0	0	0	S	2	0	13	0		0	6	3	0	
+0	0	0	S	2	0	13	0		0	7	3	0	
+0	0	0	W	2	0	13	0		0	8	3	0	
+0	0	0	O	2	0	13	0		1	9	3	0	
+0	0	0	M	2	0	13	0		1	10	5	0	
+0	0	0	A	2	0	13	0		1	11	5	0	
+0	1	16	N	2	0	13	0		2	12	3	1	NAN
+0	1	17	P	3	0	6	1	PIKERS	0	0	5	0	
+0	0	0	I	3	0	6	0		0	1	6	0	
+0	0	0	K	3	0	6	0		0	2	6	0	
+0	0	0	E	3	0	6	0		1	3	3	0	
+0	0	0	R	3	0	6	0		1	4	3	0	
+0	0	0	S	3	0	6	0		2	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	4	0		4	8	3	0	
+0	1	18	O	3	9	4	1	OBLA	1	9	3	0	
+0	0	0	B	3	9	4	0		1	10	5	0	
+0	0	0	L	3	9	4	0		1	11	5	0	
+0	0	0	A	3	9	4	0		2	12	3	0	
+0	1	19	I	4	0	3	1	ICE	0	0	5	0	
+0	0	0	C	4	0	3	0		0	1	6	0	
+0	0	0	E	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	4	0		5	4	0	0	
+0	1	20	S	4	5	4	1	SPEW	2	5	3	0	
+0	1	21	P	4	5	4	0		4	6	5	1	PATTI
+0	1	22	E	4	5	4	0		4	7	3	1	EDE
+0	1	23	W	4	5	4	0		4	8	3	1	WAR
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	24	L	4	10	3	1	LUN	1	10	5	0	
+0	0	0	U	4	10	3	0		1	11	5	0	
+0	0	0	N	4	10	3	0		2	12	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	25	E	5	1	3	1	ERA	0	1	6	0	
+0	0	0	R	5	1	3	0		0	2	6	0	
+0	1	26	A	5	1	3	0		5	3	3	1	ACC
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	6	0		6	5	3	0	
+0	1	27	A	5	6	6	1	ADAGES	4	6	5	0	
+0	0	0	D	5	6	6	0		4	7	3	0	
+0	0	0	A	5	6	6	0		4	8	3	0	
+0	1	28	G	5	6	6	0		5	9	3	1	GSA
+0	0	0	E	5	6	6	0		1	10	5	0	
+0	0	0	S	5	6	6	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	5	0	
+0	1	29	C	6	3	7	1	CASTERS	5	3	3	0	
+0	1	30	A	6	3	7	0		6	4	3	1	AKA
+0	1	31	S	6	3	7	0		6	5	3	1	SER
+0	0	0	T	6	3	7	0		4	6	5	0	
+0	0	0	E	6	3	7	0		4	7	3	0	
+0	0	0	R	6	3	7	0		4	8	3	0	
+0	0	0	S	6	3	7	0		5	9	3	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	32	T	7	1	6	1	TICKET	7	1	5	1	TYRES
+0	1	33	I	7	1	6	0		7	2	5	1	IEACH
+0	0	0	C	7	1	6	0		5	3	3	0	
+0	0	0	K	7	1	6	0		6	4	3	0	
+0	0	0	E	7	1	6	0		6	5	3	0	
+0	0	0	T	7	1	6	0		4	6	5	0	
+1	0	0	#	7	8	0	0		8	7	3	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	34	A	7	9	3	1	AMI	5	9	3	0	
+0	1	35	M	7	9	3	0		7	10	6	1	MONROE
+0	1	36	I	7	9	3	0		7	11	6	1	INDEBT
+1	0	0	#	7	13	0	0		8	12	5	0	
+0	1	37	R	8	0	3	1	RYE	8	0	3	1	RPS
+0	0	0	Y	8	0	3	0		7	1	5	0	
+0	0	0	E	8	0	3	0		7	2	5	0	
+1	0	0	#	8	4	4	0		9	3	3	0	
+0	1	38	A	8	4	4	1	ARID	6	4	3	0	
+0	0	0	R	8	4	4	0		6	5	3	0	
+0	0	0	I	8	4	4	0		4	6	5	0	
+0	1	39	D	8	4	4	0		8	7	3	1	DOD
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	40	O	8	10	3	1	ONO	7	10	6	0	
+0	0	0	N	8	10	3	0		7	11	6	0	
+0	1	41	O	8	10	3	0		8	12	5	1	OARED
+0	1	42	P	9	0	4	1	PRAT	8	0	3	0	
+0	0	0	R	9	0	4	0		7	1	5	0	
+0	0	0	A	9	0	4	0		7	2	5	0	
+0	1	43	T	9	0	4	0		9	3	3	1	TRL
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	44	O	9	7	6	1	OLINDA	8	7	3	0	
+0	1	45	L	9	7	6	0		9	8	3	1	LMN
+0	1	46	I	9	7	6	0		9	9	3	1	III
+0	0	0	N	9	7	6	0		7	10	6	0	
+0	0	0	D	9	7	6	0		7	11	6	0	
+0	0	0	A	9	7	6	0		8	12	5	0	
+0	1	47	S	10	0	13	1	SECRETADMIRER	8	0	3	0	
+0	0	0	E	10	0	13	0		7	1	5	0	
+0	0	0	C	10	0	13	0		7	2	5	0	
+0	0	0	R	10	0	13	0		9	3	3	0	
+0	1	48	E	10	0	13	0		10	4	3	1	EON
+0	1	49	T	10	0	13	0		10	5	3	1	TMI
+0	1	50	A	10	0	13	0		10	6	3	1	AOK
+0	0	0	D	10	0	13	0		8	7	3	0	
+0	0	0	M	10	0	13	0		9	8	3	0	
+0	0	0	I	10	0	13	0		9	9	3	0	
+0	0	0	R	10	0	13	0		7	10	6	0	
+0	0	0	E	10	0	13	0		7	11	6	0	
+0	0	0	R	10	0	13	0		8	12	5	0	
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	51	S	11	1	6	1	SHLOMO	7	1	5	0	
+0	0	0	H	11	1	6	0		7	2	5	0	
+0	0	0	L	11	1	6	0		9	3	3	0	
+0	0	0	O	11	1	6	0		10	4	3	0	
+0	0	0	M	11	1	6	0		10	5	3	0	
+0	0	0	O	11	1	6	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	N	11	8	5	1	NIOBE	9	8	3	0	
+0	0	0	I	11	8	5	0		9	9	3	0	
+0	0	0	O	11	8	5	0		7	10	6	0	
+0	0	0	B	11	8	5	0		7	11	6	0	
+0	0	0	E	11	8	5	0		8	12	5	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	0	0		13	2	0	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	53	N	12	4	3	1	NIK	10	4	3	0	
+0	0	0	I	12	4	3	0		10	5	3	0	
+0	0	0	K	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	E	12	10	3	1	ETD	7	10	6	0	
+0	0	0	T	12	10	3	0		7	11	6	0	
+0	0	0	D	12	10	3	0		8	12	5	0	
+25
+1	TOL	"My Mama Done ___ Me"
+4	EEN	Dusk, to Donne
+7	INOUR	Hemingway's "___ Time"
+10	NONFAT	For dieters
+14	PROGRESSWOMAN	Feminist?
+17	PIKERS	Cautious gamblers
+18	OBLA	Syllables before "Di" and "Da" in a Beatles song
+19	ICE	Kind of jam
+20	SPEW	Erupt
+24	LUN	___ Tha ("The King and I" role)
+25	ERA	Prohibition ___ (1920-33)
+27	ADAGES	Almanac sayings
+29	CASTERS	Moving aids
+32	TICKET	Depot purchase
+34	AMI	Confr
+37	RYE	Pumpernickel grain
+38	ARID	Moistureless
+40	ONO	Vocalist Yoko
+42	PRAT	Duff
+44	OLINDA	Brazilian beach resort
+47	SECRETADMIRER	Too shy a lover
+51	SHLOMO	Violinist Mintz
+52	NIOBE	Weeper of Greek myth
+53	NIK	Beat ending
+54	ETD	Takeoff guesstimate: Abbr.
+33
+1	TIPPI	Actress Hedren
+2	ONRICE	How many Asian entrees are served
+3	LOOKER	Dazzling eyeful
+4	ENS	Coast Guard mem.
+5	EOS	Thea's daughter, in myth
+6	NNW	Tucson-to-Flagstaff dir.
+8	UGE	Treatment
+9	RRR	Basics of education
+11	FOO	___ dog (Chinese breed)
+12	AMBLE	Mosey
+13	TALUS	Fibula neighbor
+15	ESS	Head of steam?
+16	NAN	Tandoor-baked bread
+21	PATTI	Rock poet Smith
+22	EDE	Dutch city
+23	WAR	It was hell, to Sherman
+26	ACC	N.C. State grp.
+28	GSA	Fed. construction overseer
+30	AKA	Rap sheet listing
+31	SER	Sabbath msg.
+32	TYRES	They roll on a Rolls
+33	IEACH	Call into question
+35	MONROE	Doctrine maker
+36	INDEBT	Behind, so to speak
+37	RPS	Rotational speed meas.
+39	DOD	Cabinet inits. since 1947
+41	OARED	Had a row?
+43	TRL	Bygone daily MTV series, informally
+45	LMN	K-O connection
+46	III	Tag for some grandchildren
+48	EON	Several eras
+49	TMI	Pa. nuke plant
+50	AOK	NASA fine?

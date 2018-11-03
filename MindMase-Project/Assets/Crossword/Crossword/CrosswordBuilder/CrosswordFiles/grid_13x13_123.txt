@@ -1,0 +1,235 @@
+grid_13x13_123
+13
+0	1	1	L	0	0	3	1	LOP	0	0	3	1	LOM
+0	1	2	O	0	0	3	0		0	1	4	1	OLAS
+0	1	3	P	0	0	3	0		0	2	9	1	POMPADOUR
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	Z	0	5	3	1	ZOA	0	5	7	1	ZIGZAGS
+0	1	5	O	0	5	3	0		0	6	3	1	OSH
+0	1	6	A	0	5	3	0		0	7	5	1	ARONI
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	5	0	
+0	1	7	Q	0	10	3	1	QIE	0	10	3	1	QUI
+0	1	8	I	0	10	3	0		0	11	3	1	IRS
+0	1	9	E	0	10	3	0		0	12	3	1	EGH
+0	1	10	O	1	0	4	1	OLOF	0	0	3	0	
+0	0	0	L	1	0	4	0		0	1	4	0	
+0	0	0	O	1	0	4	0		0	2	9	0	
+0	1	11	F	1	0	4	0		1	3	4	1	FOIL
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	12	I	1	5	3	1	ISR	0	5	7	0	
+0	0	0	S	1	5	3	0		0	6	3	0	
+0	0	0	R	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	13	S	1	9	4	1	SURG	1	9	5	1	SLAGS
+0	0	0	U	1	9	4	0		0	10	3	0	
+0	0	0	R	1	9	4	0		0	11	3	0	
+0	0	0	G	1	9	4	0		0	12	3	0	
+0	1	14	M	2	0	4	1	MAMO	0	0	3	0	
+0	0	0	A	2	0	4	0		0	1	4	0	
+0	0	0	M	2	0	4	0		0	2	9	0	
+0	0	0	O	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	15	G	2	5	8	1	GHOULISH	0	5	7	0	
+0	0	0	H	2	5	8	0		0	6	3	0	
+0	0	0	O	2	5	8	0		0	7	5	0	
+0	1	16	U	2	5	8	0		2	8	3	1	URN
+0	0	0	L	2	5	8	0		1	9	5	0	
+0	0	0	I	2	5	8	0		0	10	3	0	
+0	0	0	S	2	5	8	0		0	11	3	0	
+0	0	0	H	2	5	8	0		0	12	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	17	S	3	1	5	1	SPITZ	0	1	4	0	
+0	0	0	P	3	1	5	0		0	2	9	0	
+0	0	0	I	3	1	5	0		1	3	4	0	
+0	1	18	T	3	1	5	0		3	4	3	1	TLC
+0	0	0	Z	3	1	5	0		0	5	7	0	
+1	0	0	#	3	7	3	0		4	6	5	0	
+0	1	19	N	3	7	3	1	NRA	0	7	5	0	
+0	0	0	R	3	7	3	0		2	8	3	0	
+0	0	0	A	3	7	3	0		1	9	5	0	
+1	0	0	#	3	11	0	0		4	10	9	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	10	0		5	1	4	0	
+0	1	20	A	4	2	10	1	ALLATINGLE	0	2	9	0	
+0	0	0	L	4	2	10	0		1	3	4	0	
+0	0	0	L	4	2	10	0		3	4	3	0	
+0	0	0	A	4	2	10	0		0	5	7	0	
+0	1	21	T	4	2	10	0		4	6	5	1	TISCH
+0	0	0	I	4	2	10	0		0	7	5	0	
+0	0	0	N	4	2	10	0		2	8	3	0	
+0	0	0	G	4	2	10	0		1	9	5	0	
+0	1	22	L	4	2	10	0		4	10	9	1	LETITRIDE
+0	1	23	E	4	2	10	0		4	11	4	1	EXEL
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	A	5	0	3	1	ASD	5	0	3	1	ATN
+0	1	25	S	5	0	3	0		5	1	4	1	SWOB
+0	0	0	D	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	26	C	5	4	3	1	CGI	3	4	3	0	
+0	0	0	G	5	4	3	0		0	5	7	0	
+0	0	0	I	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	7	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	27	S	5	9	4	1	SEXY	1	9	5	0	
+0	0	0	E	5	9	4	0		4	10	9	0	
+0	0	0	X	5	9	4	0		4	11	4	0	
+0	1	28	Y	5	9	4	0		5	12	3	1	YES
+0	1	29	T	6	0	3	1	TWO	5	0	3	0	
+0	0	0	W	6	0	3	0		5	1	4	0	
+0	0	0	O	6	0	3	0		0	2	9	0	
+1	0	0	#	6	4	0	0		7	3	5	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	30	S	6	5	3	1	SSS	0	5	7	0	
+0	0	0	S	6	5	3	0		4	6	5	0	
+0	1	31	S	6	5	3	0		6	7	7	1	SLEEPON
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	32	T	6	10	3	1	TEE	4	10	9	0	
+0	0	0	E	6	10	3	0		4	11	4	0	
+0	0	0	E	6	10	3	0		5	12	3	0	
+0	1	33	N	7	0	4	1	NOUN	5	0	3	0	
+0	0	0	O	7	0	4	0		5	1	4	0	
+0	0	0	U	7	0	4	0		0	2	9	0	
+0	1	34	N	7	0	4	0		7	3	5	1	NAVEE
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	5	0	
+0	1	35	C	7	6	3	1	CLE	4	6	5	0	
+0	0	0	L	7	6	3	0		6	7	7	0	
+0	1	36	E	7	6	3	0		7	8	3	1	EAL
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	37	I	7	10	3	1	ILS	4	10	9	0	
+0	0	0	L	7	10	3	0		4	11	4	0	
+0	0	0	S	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	38	B	8	1	10	1	BRAVEHEART	5	1	4	0	
+0	0	0	R	8	1	10	0		0	2	9	0	
+0	0	0	A	8	1	10	0		7	3	5	0	
+0	1	39	V	8	1	10	0		8	4	3	1	VWS
+0	1	40	E	8	1	10	0		8	5	5	1	EOLIC
+0	0	0	H	8	1	10	0		4	6	5	0	
+0	0	0	E	8	1	10	0		6	7	7	0	
+0	0	0	A	8	1	10	0		7	8	3	0	
+0	1	41	R	8	1	10	0		8	9	4	1	ROHE
+0	0	0	T	8	1	10	0		4	10	9	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	3	0	
+1	0	0	#	9	3	3	0		10	2	3	0	
+0	1	42	V	9	3	3	1	VWO	7	3	5	0	
+0	0	0	W	9	3	3	0		8	4	3	0	
+0	0	0	O	9	3	3	0		8	5	5	0	
+1	0	0	#	9	7	5	0		10	6	3	0	
+0	1	43	E	9	7	5	1	ELORO	6	7	7	0	
+0	0	0	L	9	7	5	0		7	8	3	0	
+0	0	0	O	9	7	5	0		8	9	4	0	
+0	0	0	R	9	7	5	0		4	10	9	0	
+0	1	44	O	9	7	5	0		9	11	4	1	OSIS
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	S	10	0	8	1	SIDESLIP	10	0	3	1	SBA
+0	1	46	I	10	0	8	0		10	1	3	1	IPS
+0	1	47	D	10	0	8	0		10	2	3	1	DOO
+0	0	0	E	10	0	8	0		7	3	5	0	
+0	0	0	S	10	0	8	0		8	4	3	0	
+0	0	0	L	10	0	8	0		8	5	5	0	
+0	1	48	I	10	0	8	0		10	6	3	1	IST
+0	0	0	P	10	0	8	0		6	7	7	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	49	H	10	9	4	1	HIST	8	9	4	0	
+0	0	0	I	10	9	4	0		4	10	9	0	
+0	0	0	S	10	9	4	0		9	11	4	0	
+0	1	50	T	10	9	4	0		10	12	3	1	TTT
+0	1	51	B	11	0	4	1	BPOE	10	0	3	0	
+0	0	0	P	11	0	4	0		10	1	3	0	
+0	0	0	O	11	0	4	0		10	2	3	0	
+0	0	0	E	11	0	4	0		7	3	5	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	52	I	11	5	3	1	ISO	8	5	5	0	
+0	0	0	S	11	5	3	0		10	6	3	0	
+0	0	0	O	11	5	3	0		6	7	7	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	53	E	11	9	4	1	EDIT	8	9	4	0	
+0	0	0	D	11	9	4	0		4	10	9	0	
+0	0	0	I	11	9	4	0		9	11	4	0	
+0	0	0	T	11	9	4	0		10	12	3	0	
+0	1	54	A	12	0	3	1	ASO	10	0	3	0	
+0	0	0	S	12	0	3	0		10	1	3	0	
+0	0	0	O	12	0	3	0		10	2	3	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	55	C	12	5	3	1	CTN	8	5	5	0	
+0	0	0	T	12	5	3	0		10	6	3	0	
+0	0	0	N	12	5	3	0		6	7	7	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	56	E	12	10	3	1	EST	4	10	9	0	
+0	0	0	S	12	10	3	0		9	11	4	0	
+0	0	0	T	12	10	3	0		10	12	3	0	
+31
+1	LOP	Hack (off)
+4	ZOA	Animal group suffix
+7	QIE	Dog in "Dondi" [black]
+10	OLOF	Palme of Sweden
+12	ISR	Haifa's land: Abbr.
+13	SURG	O.R. doings
+14	MAMO	Hawaiian honeycreeper
+15	GHOULISH	Like many Chas Addams characters
+17	SPITZ	Mark who was a swimming phenom at the 1972 Olympics
+19	NRA	Heston was its pres.
+20	ALLATINGLE	Goose-pimply
+24	ASD	Comparable in years
+26	CGI	Hollywood techie's field, briefly
+27	SEXY	Like a pinup
+29	TWO	Early afternoon hour
+30	SSS	Old draft letters
+32	TEE	___ time
+33	NOUN	Subject word
+35	CLE	A.L. Central team, on scoreboards
+37	ILS	French pronoun
+38	BRAVEHEART	Best Picture of 1995
+42	VWO	Old German rocket
+43	ELORO	What Spanish athletes go for at the Olympics
+45	SIDESLIP	Lose forward momentum
+49	HIST	School subj.
+51	BPOE	Fraternal letters
+52	ISO	Equi-
+53	EDIT	Move text around
+54	ASO	Japanese volcano
+55	CTN	Bill of lading abbr.
+56	EST	D.C. is on it
+31
+1	LOM	Czech-born actor Herbert
+2	OLAS	Spanish waves
+3	POMPADOUR	Elvis Presley feature
+4	ZIGZAGS	Irregular courses
+5	OSH	Workplace watchdog, for short
+6	ARONI	Rice-___
+7	QUI	First word in Connecticut's motto
+8	IRS	Apr. 15 check recipient
+9	EGH	French vineyard
+11	FOIL	Patsy
+13	SLAGS	Denigrates, in British slang
+16	URN	Reception vessel
+18	TLC	Antique restorer's need, for short
+21	TISCH	Former CBS chief Laurence
+22	LETITRIDE	Cry at a casino
+23	EXEL	Basketball All-Star Nick Van ___
+24	ATN	When some stores open
+25	SWOB	Mop: Var.
+28	YES	"O.K."
+31	SLEEPON	Put off till tomorrow, say
+34	NAVEE	H.M.S. Pinafore force
+36	EAL	Suffix with ether
+39	VWS	Bugs, e.g.
+40	EOLIC	Ancient Greek dialect: Var.
+41	ROHE	End of an architect's name
+44	OSIS	Narc linkup?
+45	SBA	Fed. loan group
+46	IPS	VCR speed measure: Abbr.
+47	DOO	Scooby-___
+48	IST	Column addition?
+50	TTT	Fort Smith-to-Little Rock dir.

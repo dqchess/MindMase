@@ -1,0 +1,307 @@
+grid_15x15_102
+15
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	3	0		1	2	4	0	
+0	1	1	D	0	3	3	1	DEG	0	3	6	1	DIAPER
+0	1	2	E	0	3	3	0		0	4	3	1	EDS
+0	1	3	G	0	3	3	0		0	5	3	1	GOT
+1	0	0	#	0	7	0	0		1	6	4	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	C	0	8	3	1	CMI	0	8	5	1	CCCVI
+0	1	5	M	0	8	3	0		0	9	3	1	MAH
+0	1	6	I	0	8	3	0		0	10	3	1	ITI
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	7	M	0	12	3	1	MFA	0	12	9	1	MAKEACASE
+0	1	8	F	0	12	3	0		0	13	9	1	FLEWAKITE
+0	1	9	A	0	12	3	0		0	14	3	1	AON
+0	1	10	P	1	0	7	1	PERIDOT	1	0	3	1	PBS
+0	1	11	E	1	0	7	0		1	1	4	1	ERIE
+0	1	12	R	1	0	7	0		1	2	4	1	REMN
+0	0	0	I	1	0	7	0		0	3	6	0	
+0	0	0	D	1	0	7	0		0	4	3	0	
+0	0	0	O	1	0	7	0		0	5	3	0	
+0	1	13	T	1	0	7	0		1	6	4	1	TOLD
+1	0	0	#	1	8	7	0		2	7	3	0	
+0	1	14	C	1	8	7	1	CATTALO	0	8	5	0	
+0	0	0	A	1	8	7	0		0	9	3	0	
+0	0	0	T	1	8	7	0		0	10	3	0	
+0	1	15	T	1	8	7	0		1	11	3	1	TCM
+0	0	0	A	1	8	7	0		0	12	9	0	
+0	0	0	L	1	8	7	0		0	13	9	0	
+0	0	0	O	1	8	7	0		0	14	3	0	
+0	1	16	B	2	0	15	1	BREASTOFCHICKEN	1	0	3	0	
+0	0	0	R	2	0	15	0		1	1	4	0	
+0	0	0	E	2	0	15	0		1	2	4	0	
+0	0	0	A	2	0	15	0		0	3	6	0	
+0	0	0	S	2	0	15	0		0	4	3	0	
+0	0	0	T	2	0	15	0		0	5	3	0	
+0	0	0	O	2	0	15	0		1	6	4	0	
+0	1	17	F	2	0	15	0		2	7	3	1	FIB
+0	0	0	C	2	0	15	0		0	8	5	0	
+0	0	0	H	2	0	15	0		0	9	3	0	
+0	0	0	I	2	0	15	0		0	10	3	0	
+0	0	0	C	2	0	15	0		1	11	3	0	
+0	0	0	K	2	0	15	0		0	12	9	0	
+0	0	0	E	2	0	15	0		0	13	9	0	
+0	0	0	N	2	0	15	0		0	14	3	0	
+0	1	18	S	3	0	4	1	SIMP	1	0	3	0	
+0	0	0	I	3	0	4	0		1	1	4	0	
+0	0	0	M	3	0	4	0		1	2	4	0	
+0	0	0	P	3	0	4	0		0	3	6	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	19	L	3	6	3	1	LIV	1	6	4	0	
+0	0	0	I	3	6	3	0		2	7	3	0	
+0	0	0	V	3	6	3	0		0	8	5	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	3	0		4	10	0	0	
+0	1	20	M	3	11	3	1	MEW	1	11	3	0	
+0	0	0	E	3	11	3	0		0	12	9	0	
+0	0	0	W	3	11	3	0		0	13	9	0	
+1	0	0	#	3	15	0	0		4	14	5	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	21	E	4	1	3	1	ENE	1	1	4	0	
+0	0	0	N	4	1	3	0		1	2	4	0	
+0	0	0	E	4	1	3	0		0	3	6	0	
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	22	A	4	5	5	1	ADBIZ	4	5	3	1	AGE
+0	0	0	D	4	5	5	0		1	6	4	0	
+0	0	0	B	4	5	5	0		2	7	3	0	
+0	0	0	I	4	5	5	0		0	8	5	0	
+0	1	23	Z	4	5	5	0		4	9	3	1	ZSA
+1	0	0	#	4	11	0	0		5	10	5	0	
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	24	A	4	12	3	1	AAR	0	12	9	0	
+0	0	0	A	4	12	3	0		0	13	9	0	
+0	1	25	R	4	12	3	0		4	14	5	1	RYNES
+1	0	0	#	5	1	0	0		6	0	5	0	
+1	0	0	#	5	2	0	0		6	1	9	0	
+1	0	0	#	5	3	3	0		6	2	9	0	
+0	1	26	R	5	3	3	1	RIG	0	3	6	0	
+0	1	27	I	5	3	3	0		5	4	5	1	ILLUS
+0	0	0	G	5	3	3	0		4	5	3	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	6	0		6	8	3	0	
+0	1	28	S	5	9	6	1	STOCKY	4	9	3	0	
+0	1	29	T	5	9	6	0		5	10	5	1	THOTH
+0	1	30	O	5	9	6	0		5	11	3	1	ORE
+0	0	0	C	5	9	6	0		0	12	9	0	
+0	0	0	K	5	9	6	0		0	13	9	0	
+0	0	0	Y	5	9	6	0		4	14	5	0	
+0	1	31	P	6	0	3	1	PSI	6	0	5	1	PACED
+0	1	32	S	6	0	3	0		6	1	9	1	SCHLEMIEL
+0	1	33	I	6	0	3	0		6	2	9	1	ICEPALACE
+1	0	0	#	6	4	11	0		7	3	3	0	
+0	1	34	L	6	4	11	1	LEFTBAHRAIN	5	4	5	0	
+0	0	0	E	6	4	11	0		4	5	3	0	
+0	1	35	F	6	4	11	0		6	6	3	1	FTS
+0	1	36	T	6	4	11	0		6	7	3	1	TIC
+0	1	37	B	6	4	11	0		6	8	3	1	BRO
+0	0	0	A	6	4	11	0		4	9	3	0	
+0	0	0	H	6	4	11	0		5	10	5	0	
+0	0	0	R	6	4	11	0		5	11	3	0	
+0	0	0	A	6	4	11	0		0	12	9	0	
+0	0	0	I	6	4	11	0		0	13	9	0	
+0	0	0	N	6	4	11	0		4	14	5	0	
+0	1	38	A	7	0	5	1	ACCEL	6	0	5	0	
+0	0	0	C	7	0	5	0		6	1	9	0	
+0	0	0	C	7	0	5	0		6	2	9	0	
+0	1	39	E	7	0	5	0		7	3	3	1	ERA
+0	0	0	L	7	0	5	0		5	4	5	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	40	T	7	6	3	1	TIR	6	6	3	0	
+0	0	0	I	7	6	3	0		6	7	3	0	
+0	0	0	R	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	5	0		8	9	3	0	
+0	1	41	O	7	10	5	1	OESTE	5	10	5	0	
+0	0	0	E	7	10	5	0		5	11	3	0	
+0	0	0	S	7	10	5	0		0	12	9	0	
+0	0	0	T	7	10	5	0		0	13	9	0	
+0	0	0	E	7	10	5	0		4	14	5	0	
+0	1	42	C	8	0	11	1	CHERUBSCOUT	6	0	5	0	
+0	0	0	H	8	0	11	0		6	1	9	0	
+0	0	0	E	8	0	11	0		6	2	9	0	
+0	0	0	R	8	0	11	0		7	3	3	0	
+0	0	0	U	8	0	11	0		5	4	5	0	
+0	1	43	B	8	0	11	0		8	5	3	1	BON
+0	0	0	S	8	0	11	0		6	6	3	0	
+0	0	0	C	8	0	11	0		6	7	3	0	
+0	0	0	O	8	0	11	0		6	8	3	0	
+0	1	44	U	8	0	11	0		8	9	3	1	USE
+0	0	0	T	8	0	11	0		5	10	5	0	
+1	0	0	#	8	12	3	0		9	11	6	0	
+0	1	45	E	8	12	3	1	EES	0	12	9	0	
+0	0	0	E	8	12	3	0		0	13	9	0	
+0	0	0	S	8	12	3	0		4	14	5	0	
+0	1	46	E	9	0	6	1	ELPASO	6	0	5	0	
+0	0	0	L	9	0	6	0		6	1	9	0	
+0	0	0	P	9	0	6	0		6	2	9	0	
+0	0	0	A	9	0	6	0		7	3	3	0	
+0	0	0	S	9	0	6	0		5	4	5	0	
+0	0	0	O	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	3	0		10	8	4	0	
+0	1	47	S	9	9	3	1	SHU	8	9	3	0	
+0	0	0	H	9	9	3	0		5	10	5	0	
+0	1	48	U	9	9	3	0		9	11	6	1	USURPS
+1	0	0	#	9	13	0	0		10	12	4	0	
+1	0	0	#	9	14	0	0		10	13	4	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	49	D	10	0	3	1	DEA	6	0	5	0	
+0	0	0	E	10	0	3	0		6	1	9	0	
+0	0	0	A	10	0	3	0		6	2	9	0	
+1	0	0	#	10	4	0	0		11	3	3	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	50	N	10	5	5	1	NEWME	8	5	3	0	
+0	1	51	E	10	5	5	0		10	6	5	1	ETSEQ
+0	1	52	W	10	5	5	0		10	7	3	1	WEI
+0	1	53	M	10	5	5	0		10	8	4	1	MASS
+0	0	0	E	10	5	5	0		8	9	3	0	
+1	0	0	#	10	11	3	0		11	10	0	0	
+0	1	54	S	10	11	3	1	SOO	9	11	6	0	
+0	1	55	O	10	11	3	0		10	12	4	1	OEDS
+0	1	56	O	10	11	3	0		10	13	4	1	OLEO
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	57	M	11	1	3	1	MLS	6	1	9	0	
+0	0	0	L	11	1	3	0		6	2	9	0	
+0	1	58	S	11	1	3	0		11	3	3	1	SGT
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	3	0		12	5	3	0	
+0	1	59	T	11	6	3	1	TEA	10	6	5	0	
+0	0	0	E	11	6	3	0		10	7	3	0	
+0	0	0	A	11	6	3	0		10	8	4	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	4	0		12	10	3	0	
+0	1	60	U	11	11	4	1	UELE	9	11	6	0	
+0	0	0	E	11	11	4	0		10	12	4	0	
+0	0	0	L	11	11	4	0		10	13	4	0	
+0	1	61	E	11	11	4	0		11	14	3	1	ERN
+0	1	62	D	12	0	15	1	DIAGNOSISMURDER	12	0	3	1	DHS
+0	0	0	I	12	0	15	0		6	1	9	0	
+0	0	0	A	12	0	15	0		6	2	9	0	
+0	0	0	G	12	0	15	0		11	3	3	0	
+0	1	63	N	12	0	15	0		12	4	3	1	NAE
+0	1	64	O	12	0	15	0		12	5	3	1	ORS
+0	0	0	S	12	0	15	0		10	6	5	0	
+0	0	0	I	12	0	15	0		10	7	3	0	
+0	0	0	S	12	0	15	0		10	8	4	0	
+0	1	65	M	12	0	15	0		12	9	3	1	MLB
+0	1	66	U	12	0	15	0		12	10	3	1	UIE
+0	0	0	R	12	0	15	0		9	11	6	0	
+0	0	0	D	12	0	15	0		10	12	4	0	
+0	0	0	E	12	0	15	0		10	13	4	0	
+0	0	0	R	12	0	15	0		11	14	3	0	
+0	1	67	H	13	0	7	1	HECTARE	12	0	3	0	
+0	0	0	E	13	0	7	0		6	1	9	0	
+0	0	0	C	13	0	7	0		6	2	9	0	
+0	0	0	T	13	0	7	0		11	3	3	0	
+0	0	0	A	13	0	7	0		12	4	3	0	
+0	0	0	R	13	0	7	0		12	5	3	0	
+0	0	0	E	13	0	7	0		10	6	5	0	
+1	0	0	#	13	8	7	0		14	7	0	0	
+0	1	68	S	13	8	7	1	SLIPSON	10	8	4	0	
+0	0	0	L	13	8	7	0		12	9	3	0	
+0	0	0	I	13	8	7	0		12	10	3	0	
+0	0	0	P	13	8	7	0		9	11	6	0	
+0	0	0	S	13	8	7	0		10	12	4	0	
+0	0	0	O	13	8	7	0		10	13	4	0	
+0	0	0	N	13	8	7	0		11	14	3	0	
+0	1	69	S	14	0	3	1	SLE	12	0	3	0	
+0	0	0	L	14	0	3	0		6	1	9	0	
+0	0	0	E	14	0	3	0		6	2	9	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	70	E	14	4	3	1	ESQ	12	4	3	0	
+0	0	0	S	14	4	3	0		12	5	3	0	
+0	0	0	Q	14	4	3	0		10	6	5	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	3	0		15	8	0	0	
+0	1	71	B	14	9	3	1	BES	12	9	3	0	
+0	0	0	E	14	9	3	0		12	10	3	0	
+0	0	0	S	14	9	3	0		9	11	6	0	
+1	0	0	#	14	13	0	0		15	12	0	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+35
+1	DEG	B.A. or Ph.D.
+4	CMI	Roman 901
+7	MFA	Musician's deg.
+10	PERIDOT	Green gemstone
+14	CATTALO	Hybrid farm animal
+16	BREASTOFCHICKEN	Basic hotel banquet entree
+18	SIMP	Nitwit
+19	LIV	Actress Tyler
+20	MEW	Cage for hawks
+21	ENE	Ethyl ender
+22	ADBIZ	Mad Ave. profession
+24	AAR	Swiss river to the Rhine
+26	RIG	Tractor-trailer
+28	STOCKY	Thickset
+31	PSI	Wave function symbol in quantum mechanics
+34	LEFTBAHRAIN	Departed a sheikdom?
+38	ACCEL	Gradually quickening, in mus.
+40	TIR	Bushed
+41	OESTE	Honduras-to-Guatemala direcci
+42	CHERUBSCOUT	Angel seeker?
+45	EES	Certain M.I.T. grads
+46	ELPASO	Fort Bliss city
+47	SHU	___ mai (dim sum dish)
+49	DEA	Crack team?: Abbr.
+50	NEWME	Person after a lifestyle change, self-descriptively
+54	SOO	___ Canals (Great Lakes connectors)
+57	MLS	D.C. United org.
+59	TEA	High ___
+60	UELE	Congo river
+62	DIAGNOSISMURDER	1990's CBS detective drama
+67	HECTARE	Big tract
+68	SLIPSON	Is tricked by
+69	SLE	Trickiness
+70	ESQ	Abbr. on a shingle
+71	BES	Would-___ (aspirants)
+43
+1	DIAPER	It may be needed for a change
+2	EDS	Staff of Life, for short
+3	GOT	Inherited
+4	CCCVI	Year Constantine the Great became emperor
+5	MAH	Game opener
+6	ITI	"And another said, Is ___?": Mark 14:19
+7	MAKEACASE	Argue (for)
+8	FLEWAKITE	Repeated a Benjamin Franklin electrical experiment
+9	AON	Get an ___ (ace)
+10	PBS	Big TV inits.
+11	ERIE	Pennsylvania's northwesternmost county
+12	REMN	Staff differently
+13	TOLD	Tattled
+15	TCM	Cable sta. for cinema buffs
+17	FIB	Not be entirely truthful
+22	AGE	Francis Bacon said it "will not be defied"
+23	ZSA	Hungarian half sister?
+25	RYNES	Baseball's Duren and Sandberg
+27	ILLUS	Picture: Abbr.
+29	THOTH	Egyptian god of wisdom
+30	ORE	Change from a krone
+31	PACED	Walked nervously
+32	SCHLEMIEL	Chump
+33	ICEPALACE	1958 Edna Ferber novel
+35	FTS	Leavenworth and others: Abbr.
+36	TIC	Opening in "Hollywood Squares"
+37	BRO	Pal
+39	ERA	Legis. introduced into every session of Congress from 1923 to 1970
+43	BON	___ March
+44	USE	"Oh, what's the ___?"
+48	USURPS	Seizes
+51	ETSEQ	Footnote abbr.
+52	WEI	Third-century Chinese dynasty
+53	MASS	Word with land or critical
+55	OEDS	Library refs.
+56	OLEO	Pat on the buns?
+58	SGT	___ Maj.
+61	ERN	Suffix with south
+62	DHS	Baseball figures: Abbr.
+63	NAE	"___ star was glintin out aboon" (old poem start)
+64	ORS	Surgery sites, briefly
+65	MLB	Orioles' org.
+66	UIE	One-eighty

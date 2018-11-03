@@ -1,0 +1,307 @@
+grid_15x15_140
+15
+0	1	1	R	0	0	3	1	ROI	0	0	3	1	RPS
+0	1	2	O	0	0	3	0		0	1	4	1	OEUF
+0	1	3	I	0	0	3	0		0	2	15	1	ITSTWELVEOCLOCK
+1	0	0	#	0	4	5	0		1	3	5	0	
+0	1	4	M	0	4	5	1	MITRE	0	4	3	1	MTA
+0	1	5	I	0	4	5	0		0	5	3	1	IFI
+0	1	6	T	0	4	5	0		0	6	5	1	TONUS
+0	1	7	R	0	4	5	0		0	7	4	1	RUES
+0	1	8	E	0	4	5	0		0	8	5	1	ERDAS
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	9	G	0	10	3	1	GHI	0	10	3	1	GIF
+0	1	10	H	0	10	3	0		0	11	3	1	HSI
+0	1	11	I	0	10	3	0		0	12	15	1	INTANGIBLEASSET
+1	0	0	#	0	14	0	0		1	13	3	0	
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	12	P	1	0	9	1	PETITFOUR	0	0	3	0	
+0	0	0	E	1	0	9	0		0	1	4	0	
+0	0	0	T	1	0	9	0		0	2	15	0	
+0	1	13	I	1	0	9	0		1	3	5	1	ITHAD
+0	0	0	T	1	0	9	0		0	4	3	0	
+0	0	0	F	1	0	9	0		0	5	3	0	
+0	0	0	O	1	0	9	0		0	6	5	0	
+0	0	0	U	1	0	9	0		0	7	4	0	
+0	0	0	R	1	0	9	0		0	8	5	0	
+1	0	0	#	1	10	5	0		2	9	0	0	
+0	1	14	I	1	10	5	1	ISNEW	0	10	3	0	
+0	0	0	S	1	10	5	0		0	11	3	0	
+0	0	0	N	1	10	5	0		0	12	15	0	
+0	1	15	E	1	10	5	0		1	13	3	1	EAD
+0	1	16	W	1	10	5	0		1	14	3	1	WSJ
+0	1	17	S	2	0	9	1	SUSTAINED	0	0	3	0	
+0	0	0	U	2	0	9	0		0	1	4	0	
+0	0	0	S	2	0	9	0		0	2	15	0	
+0	0	0	T	2	0	9	0		1	3	5	0	
+0	0	0	A	2	0	9	0		0	4	3	0	
+0	0	0	I	2	0	9	0		0	5	3	0	
+0	0	0	N	2	0	9	0		0	6	5	0	
+0	0	0	E	2	0	9	0		0	7	4	0	
+0	0	0	D	2	0	9	0		0	8	5	0	
+1	0	0	#	2	10	5	0		3	9	4	0	
+0	1	18	F	2	10	5	1	FITAS	0	10	3	0	
+0	0	0	I	2	10	5	0		0	11	3	0	
+0	0	0	T	2	10	5	0		0	12	15	0	
+0	0	0	A	2	10	5	0		1	13	3	0	
+0	0	0	S	2	10	5	0		1	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	19	F	3	1	3	1	FTH	0	1	4	0	
+0	0	0	T	3	1	3	0		0	2	15	0	
+0	0	0	H	3	1	3	0		1	3	5	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	20	U	3	6	4	1	USAC	0	6	5	0	
+0	0	0	S	3	6	4	0		0	7	4	0	
+0	0	0	A	3	6	4	0		0	8	5	0	
+0	1	21	C	3	6	4	0		3	9	4	1	CCCL
+1	0	0	#	3	11	0	0		4	10	3	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	22	A	3	12	3	1	ADJ	0	12	15	0	
+0	0	0	D	3	12	3	0		1	13	3	0	
+0	0	0	J	3	12	3	0		1	14	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	5	0	
+0	1	23	W	4	2	5	1	WALKS	0	2	15	0	
+0	0	0	A	4	2	5	0		1	3	5	0	
+0	1	24	L	4	2	5	0		4	4	3	1	LIL
+0	1	25	K	4	2	5	0		4	5	3	1	KNE
+0	0	0	S	4	2	5	0		0	6	5	0	
+1	0	0	#	4	8	5	0		5	7	0	0	
+0	1	26	S	4	8	5	1	SCHON	0	8	5	0	
+0	0	0	C	4	8	5	0		3	9	4	0	
+0	1	27	H	4	8	5	0		4	10	3	1	HOD
+0	1	28	O	4	8	5	0		4	11	3	1	OUI
+0	0	0	N	4	8	5	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	29	I	5	0	6	1	ICEDIN	5	0	3	1	IVE
+0	1	30	C	5	0	6	0		5	1	5	1	CENTO
+0	0	0	E	5	0	6	0		0	2	15	0	
+0	0	0	D	5	0	6	0		1	3	5	0	
+0	0	0	I	5	0	6	0		4	4	3	0	
+0	0	0	N	5	0	6	0		4	5	3	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	3	0	
+0	1	31	C	5	9	5	1	COUGH	3	9	4	0	
+0	0	0	O	5	9	5	0		4	10	3	0	
+0	0	0	U	5	9	5	0		4	11	3	0	
+0	0	0	G	5	9	5	0		0	12	15	0	
+0	1	32	H	5	9	5	0		5	13	5	1	HILDA
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	33	V	6	0	3	1	VEL	5	0	3	0	
+0	0	0	E	6	0	3	0		5	1	5	0	
+0	0	0	L	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	10	0		7	3	0	0	
+0	1	34	L	6	4	10	1	LEOPOLDIII	4	4	3	0	
+0	0	0	E	6	4	10	0		4	5	3	0	
+0	1	35	O	6	4	10	0		6	6	3	1	OQB
+0	1	36	P	6	4	10	0		6	7	3	1	PAL
+0	1	37	O	6	4	10	0		6	8	3	1	OSE
+0	0	0	L	6	4	10	0		3	9	4	0	
+0	0	0	D	6	4	10	0		4	10	3	0	
+0	0	0	I	6	4	10	0		4	11	3	0	
+0	0	0	I	6	4	10	0		0	12	15	0	
+0	0	0	I	6	4	10	0		5	13	5	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	38	E	7	0	3	1	ENV	5	0	3	0	
+0	0	0	N	7	0	3	0		5	1	5	0	
+0	0	0	V	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	4	0	
+0	1	39	Q	7	6	3	1	QAS	6	6	3	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	S	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	40	B	7	12	3	1	BLO	0	12	15	0	
+0	0	0	L	7	12	3	0		5	13	5	0	
+0	1	41	O	7	12	3	0		7	14	3	1	ORR
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	42	T	8	1	10	1	TERRIBLETS	5	1	5	0	
+0	0	0	E	8	1	10	0		0	2	15	0	
+0	1	43	R	8	1	10	0		8	3	3	1	ROO
+0	1	44	R	8	1	10	0		8	4	3	1	RLS
+0	1	45	I	8	1	10	0		8	5	4	1	IATE
+0	0	0	B	8	1	10	0		6	6	3	0	
+0	0	0	L	8	1	10	0		6	7	3	0	
+0	0	0	E	8	1	10	0		6	8	3	0	
+0	1	46	T	8	1	10	0		8	9	3	1	TIC
+0	1	47	S	8	1	10	0		8	10	3	1	SNE
+1	0	0	#	8	12	3	0		9	11	5	0	
+0	1	48	L	8	12	3	1	LDR	0	12	15	0	
+0	0	0	D	8	12	3	0		5	13	5	0	
+0	0	0	R	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	49	O	9	1	5	1	OOOLA	5	1	5	0	
+0	0	0	O	9	1	5	0		0	2	15	0	
+0	0	0	O	9	1	5	0		8	3	3	0	
+0	0	0	L	9	1	5	0		8	4	3	0	
+0	0	0	A	9	1	5	0		8	5	4	0	
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	0	0		10	7	0	0	
+1	0	0	#	9	9	6	0		10	8	5	0	
+0	1	50	I	9	9	6	1	INFEAR	8	9	3	0	
+0	0	0	N	9	9	6	0		8	10	3	0	
+0	1	51	F	9	9	6	0		9	11	5	1	FLAIR
+0	0	0	E	9	9	6	0		0	12	15	0	
+0	0	0	A	9	9	6	0		5	13	5	0	
+0	0	0	R	9	9	6	0		7	14	3	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	5	0		11	1	3	0	
+0	1	52	C	10	2	5	1	COSTS	0	2	15	0	
+0	0	0	O	10	2	5	0		8	3	3	0	
+0	0	0	S	10	2	5	0		8	4	3	0	
+0	0	0	T	10	2	5	0		8	5	4	0	
+0	1	53	S	10	2	5	0		10	6	5	1	SBACK
+1	0	0	#	10	8	5	0		11	7	4	0	
+0	1	54	A	10	8	5	1	ACELA	10	8	5	1	ARRET
+0	0	0	C	10	8	5	0		8	9	3	0	
+0	0	0	E	10	8	5	0		8	10	3	0	
+0	0	0	L	10	8	5	0		9	11	5	0	
+0	0	0	A	10	8	5	0		0	12	15	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	55	O	11	0	3	1	ORL	11	0	3	1	OMG
+0	1	56	R	11	0	3	0		11	1	3	1	RAU
+0	0	0	L	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	4	0		12	4	3	0	
+0	1	57	E	11	5	4	1	EBER	8	5	4	0	
+0	0	0	B	11	5	4	0		10	6	5	0	
+0	1	58	E	11	5	4	0		11	7	4	1	ERAS
+0	0	0	R	11	5	4	0		10	8	5	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	59	A	11	11	3	1	ASS	9	11	5	0	
+0	0	0	S	11	11	3	0		0	12	15	0	
+0	1	60	S	11	11	3	0		11	13	4	1	STAS
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	61	M	12	0	5	1	MAORI	11	0	3	0	
+0	0	0	A	12	0	5	0		11	1	3	0	
+0	0	0	O	12	0	5	0		0	2	15	0	
+0	1	62	R	12	0	5	0		12	3	3	1	RCA
+0	1	63	I	12	0	5	0		12	4	3	1	IIS
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	64	A	12	6	9	1	ARRIVISTE	10	6	5	0	
+0	0	0	R	12	6	9	0		11	7	4	0	
+0	0	0	R	12	6	9	0		10	8	5	0	
+0	1	65	I	12	6	9	0		12	9	3	1	ISA
+0	1	66	V	12	6	9	0		12	10	3	1	VAR
+0	0	0	I	12	6	9	0		9	11	5	0	
+0	0	0	S	12	6	9	0		0	12	15	0	
+0	0	0	T	12	6	9	0		11	13	4	0	
+0	1	67	E	12	6	9	0		12	14	3	1	ENA
+0	1	68	G	13	0	5	1	GUCCI	11	0	3	0	
+0	0	0	U	13	0	5	0		11	1	3	0	
+0	0	0	C	13	0	5	0		0	2	15	0	
+0	0	0	C	13	0	5	0		12	3	3	0	
+0	0	0	I	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	9	0		14	5	0	0	
+0	1	69	C	13	6	9	1	CAESAREAN	10	6	5	0	
+0	0	0	A	13	6	9	0		11	7	4	0	
+0	0	0	E	13	6	9	0		10	8	5	0	
+0	0	0	S	13	6	9	0		12	9	3	0	
+0	0	0	A	13	6	9	0		12	10	3	0	
+0	0	0	R	13	6	9	0		9	11	5	0	
+0	0	0	E	13	6	9	0		0	12	15	0	
+0	0	0	A	13	6	9	0		11	13	4	0	
+0	0	0	N	13	6	9	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	70	K	14	2	3	1	KAS	0	2	15	0	
+0	0	0	A	14	2	3	0		12	3	3	0	
+0	0	0	S	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	5	0		15	5	0	0	
+0	1	71	K	14	6	5	1	KSTAR	10	6	5	0	
+0	0	0	S	14	6	5	0		11	7	4	0	
+0	0	0	T	14	6	5	0		10	8	5	0	
+0	0	0	A	14	6	5	0		12	9	3	0	
+0	0	0	R	14	6	5	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	72	T	14	12	3	1	TSA	0	12	15	0	
+0	0	0	S	14	12	3	0		11	13	4	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+35
+1	ROI	Philippe, e.g.
+4	MITRE	British bishop's headdress
+9	GHI	Touch-tone 4
+12	PETITFOUR	Small frosted cake
+14	ISNEW	"So what else ___?"
+17	SUSTAINED	Like many objections
+18	FITAS	___ a fiddle
+19	FTH	July holiday, with "the"
+20	USAC	Midget car-racing org.
+22	ADJ	Modifier: Abbr.
+23	WALKS	Pitches four balls to
+26	SCHON	"___ gut!" ("All right!"): Ger.
+29	ICEDIN	Harborbound, in winter
+31	COUGH	Engine sound
+33	VEL	M.P.H.
+34	LEOPOLDIII	King of Belgium, 1934-51
+38	ENV	Encl. with a submission
+39	QAS	___ in queen
+40	BLO	Slo-___ fuse
+42	TERRIBLETS	Difficult stage
+48	LDR	Pres., e.g.
+49	OOOLA	Alley Oop's lady
+50	INFEAR	Scared (of)
+52	COSTS	Goes for
+54	ACELA	Fleet Amtrak train
+55	ORL	Magic on a scoreboard?
+57	EBER	Hairstylist Jos
+59	ASS	Utter doofus
+61	MAORI	Language akin to Tahitian
+64	ARRIVISTE	Pushy upstart
+68	GUCCI	Louis Vuitton competitor
+69	CAESAREAN	Certain section
+70	KAS	___ in kangaroo
+71	KSTAR	Relatively cool sun
+72	TSA	Air passenger protection org.
+43
+1	RPS	Turning meas.
+2	OEUF	Omelette ingredient
+3	ITSTWELVEOCLOCK	Cry before "Happy New Year!"
+4	MTA	N.Y.C. bus insignia
+5	IFI	"___ Ran the Zoo"
+6	TONUS	Normal muscle tension
+7	RUES	Regrets
+8	ERDAS	"___ Warning" ("Das Rheingold" aria)
+9	GIF	Computer file suffix
+10	HSI	Relative of -esque
+11	INTANGIBLEASSET	Goodwill, e.g.
+13	ITHAD	"___ better be!"
+15	EAD	Year that Augustus exiled Ovid
+16	WSJ	Financial daily, in brief
+21	CCCL	Mid-century year
+24	LIL	___ Bad Wolf of comic books
+25	KNE	Show obeisance
+27	HOD	Mason's burden
+28	OUI	French affirmative
+29	IVE	"___ Had It" (1959 hit)
+30	CENTO	100, in Italy
+32	HILDA	Margaret ___ Thatcher
+35	OQB	Islet
+36	PAL	Buddy
+37	OSE	"___ Mio"
+41	ORR	Goal-oriented guy
+43	ROO	Hundred Acre Wood denizen
+44	RLS	"Kidnapped" author's inits.
+45	IATE	"I can't believe ___ the whole thing!"
+46	TIC	Start of a simple game
+47	SNE	1983 Indy winner Tom
+51	FLAIR	Pizazz
+53	SBACK	Defeat
+54	ARRET	Stop on the M
+55	OMG	"Yikes!," online
+56	RAU	Former German president Johannes ___
+58	ERAS	Baseball stats
+60	STAS	Depots: Abbr.
+62	RCA	Major TV brand
+63	IIS	"___ for Innocent" (Grafton novel)
+65	ISA	O.T. book
+66	VAR	Nonstandard: Abbr.
+67	ENA	1930's Spanish queen

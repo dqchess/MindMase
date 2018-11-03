@@ -1,0 +1,309 @@
+grid_15x15_56
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	I	0	1	3	1	IBN	0	1	4	1	ILRE
+0	1	2	B	0	1	3	0		0	2	11	1	BLEWUPAGAEL
+0	1	3	N	0	1	3	0		0	3	3	1	NIA
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	I	0	6	3	1	ITI	0	6	6	1	IVEGOT
+0	1	5	T	0	6	3	0		0	7	3	1	TEX
+0	1	6	I	0	6	3	0		0	8	3	1	ISP
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	T	0	12	3	1	TAP	0	12	3	1	TRI
+0	1	8	A	0	12	3	0		0	13	3	1	AMS
+0	1	9	P	0	12	3	0		0	14	3	1	PNE
+0	1	10	V	1	0	4	1	VLLI	1	0	3	1	VAN
+0	0	0	L	1	0	4	0		0	1	4	0	
+0	0	0	L	1	0	4	0		0	2	11	0	
+0	0	0	I	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	6	0		2	4	3	0	
+0	1	11	A	1	5	6	1	AVESTA	1	5	4	1	AFRO
+0	0	0	V	1	5	6	0		0	6	6	0	
+0	0	0	E	1	5	6	0		0	7	3	0	
+0	0	0	S	1	5	6	0		0	8	3	0	
+0	1	12	T	1	5	6	0		1	9	6	1	TELLON
+0	1	13	A	1	5	6	0		1	10	4	1	ARAS
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	14	R	1	12	3	1	RMN	0	12	3	0	
+0	0	0	M	1	12	3	0		0	13	3	0	
+0	0	0	N	1	12	3	0		0	14	3	0	
+0	1	15	A	2	0	15	1	AREAOFEXPERTISE	1	0	3	0	
+0	0	0	R	2	0	15	0		0	1	4	0	
+0	0	0	E	2	0	15	0		0	2	11	0	
+0	0	0	A	2	0	15	0		0	3	3	0	
+0	1	16	O	2	0	15	0		2	4	3	1	OAR
+0	0	0	F	2	0	15	0		1	5	4	0	
+0	0	0	E	2	0	15	0		0	6	6	0	
+0	0	0	X	2	0	15	0		0	7	3	0	
+0	0	0	P	2	0	15	0		0	8	3	0	
+0	0	0	E	2	0	15	0		1	9	6	0	
+0	0	0	R	2	0	15	0		1	10	4	0	
+0	1	17	T	2	0	15	0		2	11	3	1	TEE
+0	0	0	I	2	0	15	0		0	12	3	0	
+0	0	0	S	2	0	15	0		0	13	3	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+0	1	18	N	3	0	3	1	NEW	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	4	0	
+0	0	0	W	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	19	A	3	4	3	1	ARG	2	4	3	0	
+0	0	0	R	3	4	3	0		1	5	4	0	
+0	0	0	G	3	4	3	0		0	6	6	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	20	L	3	9	3	1	LAE	1	9	6	0	
+0	0	0	A	3	9	3	0		1	10	4	0	
+0	0	0	E	3	9	3	0		2	11	3	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	6	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	6	0		5	1	6	0	
+0	1	21	U	4	2	6	1	UPROOT	0	2	11	0	
+0	1	22	P	4	2	6	0		4	3	4	1	PEUT
+0	0	0	R	4	2	6	0		2	4	3	0	
+0	0	0	O	4	2	6	0		1	5	4	0	
+0	0	0	O	4	2	6	0		0	6	6	0	
+0	1	23	T	4	2	6	0		4	7	7	1	TETTETE
+1	0	0	#	4	9	6	0		5	8	3	0	
+0	1	24	L	4	9	6	1	LSEVEN	1	9	6	0	
+0	0	0	S	4	9	6	0		1	10	4	0	
+0	0	0	E	4	9	6	0		2	11	3	0	
+0	1	25	V	4	9	6	0		4	12	11	1	VEGEBLELLOW
+0	1	26	E	4	9	6	0		4	13	6	1	EVOKES
+0	1	27	N	4	9	6	0		4	14	3	1	NSA
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	28	A	5	1	3	1	APE	5	1	6	1	ADAGES
+0	0	0	P	5	1	3	0		0	2	11	0	
+0	0	0	E	5	1	3	0		4	3	4	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	4	0		6	5	0	0	
+0	1	29	T	5	6	4	1	TETO	0	6	6	0	
+0	0	0	E	5	6	4	0		4	7	7	0	
+0	1	30	T	5	6	4	0		5	8	3	1	TEO
+0	0	0	O	5	6	4	0		1	9	6	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	31	E	5	12	3	1	EVS	4	12	11	0	
+0	0	0	V	5	12	3	0		4	13	6	0	
+0	0	0	S	5	12	3	0		4	14	3	0	
+1	0	0	#	6	1	4	0		7	0	0	0	
+0	1	32	D	6	1	4	1	DAUB	5	1	6	0	
+0	0	0	A	6	1	4	0		0	2	11	0	
+0	0	0	U	6	1	4	0		4	3	4	0	
+0	1	33	B	6	1	4	0		6	4	3	1	BSC
+1	0	0	#	6	6	0	0		7	5	0	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	34	T	6	7	4	1	TENS	4	7	7	0	
+0	0	0	E	6	7	4	0		5	8	3	0	
+0	0	0	N	6	7	4	0		1	9	6	0	
+0	1	35	S	6	7	4	0		6	10	3	1	SWE
+1	0	0	#	6	12	3	0		7	11	4	0	
+0	1	36	G	6	12	3	1	GOA	4	12	11	0	
+0	0	0	O	6	12	3	0		4	13	6	0	
+0	0	0	A	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	37	A	7	1	4	1	AGTS	5	1	6	0	
+0	0	0	G	7	1	4	0		0	2	11	0	
+0	0	0	T	7	1	4	0		4	3	4	0	
+0	0	0	S	7	1	4	0		6	4	3	0	
+1	0	0	#	7	6	3	0		8	5	6	0	
+0	1	38	A	7	6	3	1	ATO	7	6	3	1	ANO
+0	0	0	T	7	6	3	0		4	7	7	0	
+0	0	0	O	7	6	3	0		5	8	3	0	
+1	0	0	#	7	10	4	0		8	9	0	0	
+0	1	39	W	7	10	4	1	WEEK	6	10	3	0	
+0	1	40	E	7	10	4	0		7	11	4	1	ERIT
+0	0	0	E	7	10	4	0		4	12	11	0	
+0	0	0	K	7	10	4	0		4	13	6	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	41	A	8	0	3	1	AGA	8	0	3	1	AHI
+0	0	0	G	8	0	3	0		5	1	6	0	
+0	0	0	A	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	42	C	8	4	4	1	CANE	6	4	3	0	
+0	1	43	A	8	4	4	0		8	5	6	1	ARSENO
+0	0	0	N	8	4	4	0		7	6	3	0	
+0	0	0	E	8	4	4	0		4	7	7	0	
+1	0	0	#	8	9	0	0		9	8	6	0	
+1	0	0	#	8	10	4	0		9	9	0	0	
+0	1	44	E	8	10	4	1	ERBE	6	10	3	0	
+0	0	0	R	8	10	4	0		7	11	4	0	
+0	0	0	B	8	10	4	0		4	12	11	0	
+0	0	0	E	8	10	4	0		4	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	45	H	9	0	3	1	HEE	8	0	3	0	
+0	0	0	E	9	0	3	0		5	1	6	0	
+0	0	0	E	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	4	0		10	4	4	0	
+0	1	46	R	9	5	4	1	ROTA	8	5	6	0	
+0	0	0	O	9	5	4	0		7	6	3	0	
+0	0	0	T	9	5	4	0		4	7	7	0	
+0	1	47	A	9	5	4	0		9	8	6	1	ACROBS
+1	0	0	#	9	10	0	0		10	9	4	0	
+1	0	0	#	9	11	3	0		10	10	3	0	
+0	1	48	I	9	11	3	1	ILS	7	11	4	0	
+0	0	0	L	9	11	3	0		4	12	11	0	
+0	0	0	S	9	11	3	0		4	13	6	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	49	I	10	0	6	1	ISLETS	8	0	3	0	
+0	0	0	S	10	0	6	0		5	1	6	0	
+0	0	0	L	10	0	6	0		0	2	11	0	
+0	1	50	E	10	0	6	0		10	3	3	1	ETH
+0	1	51	T	10	0	6	0		10	4	4	1	THOR
+0	0	0	S	10	0	6	0		8	5	6	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	52	E	10	7	6	1	ECARTE	4	7	7	0	
+0	0	0	C	10	7	6	0		9	8	6	0	
+0	1	53	A	10	7	6	0		10	9	4	1	AERY
+0	1	54	R	10	7	6	0		10	10	3	1	ROD
+0	0	0	T	10	7	6	0		7	11	4	0	
+0	0	0	E	10	7	6	0		4	12	11	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	55	T	11	3	3	1	THE	10	3	3	0	
+0	0	0	H	11	3	3	0		10	4	4	0	
+0	0	0	E	11	3	3	0		8	5	6	0	
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	56	R	11	8	3	1	REO	9	8	6	0	
+0	0	0	E	11	8	3	0		10	9	4	0	
+0	0	0	O	11	8	3	0		10	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	57	L	11	12	3	1	LMN	4	12	11	0	
+0	1	58	M	11	12	3	0		11	13	4	1	MUTT
+0	1	59	N	11	12	3	0		11	14	3	1	NEH
+0	1	60	E	12	0	15	1	EACHONEWORDCLUE	12	0	3	1	ELS
+0	1	61	A	12	0	15	0		12	1	3	1	AAS
+0	1	62	C	12	0	15	0		12	2	3	1	CXI
+0	0	0	H	12	0	15	0		10	3	3	0	
+0	0	0	O	12	0	15	0		10	4	4	0	
+0	0	0	N	12	0	15	0		8	5	6	0	
+0	1	63	E	12	0	15	0		12	6	3	1	EDH
+0	1	64	W	12	0	15	0		12	7	3	1	WEB
+0	0	0	O	12	0	15	0		9	8	6	0	
+0	0	0	R	12	0	15	0		10	9	4	0	
+0	0	0	D	12	0	15	0		10	10	3	0	
+0	1	65	C	12	0	15	0		12	11	3	1	CNN
+0	0	0	L	12	0	15	0		4	12	11	0	
+0	0	0	U	12	0	15	0		11	13	4	0	
+0	0	0	E	12	0	15	0		11	14	3	0	
+0	1	66	L	13	0	3	1	LAX	12	0	3	0	
+0	0	0	A	13	0	3	0		12	1	3	0	
+0	0	0	X	13	0	3	0		12	2	3	0	
+1	0	0	#	13	4	6	0		14	3	0	0	
+0	1	67	R	13	4	6	1	RODEBY	10	4	4	0	
+0	0	0	O	13	4	6	0		8	5	6	0	
+0	0	0	D	13	4	6	0		12	6	3	0	
+0	0	0	E	13	4	6	0		12	7	3	0	
+0	0	0	B	13	4	6	0		9	8	6	0	
+0	0	0	Y	13	4	6	0		10	9	4	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	68	N	13	11	4	1	NOTH	12	11	3	0	
+0	0	0	O	13	11	4	0		4	12	11	0	
+0	0	0	T	13	11	4	0		11	13	4	0	
+0	0	0	H	13	11	4	0		11	14	3	0	
+0	1	69	S	14	0	3	1	SSI	12	0	3	0	
+0	0	0	S	14	0	3	0		12	1	3	0	
+0	0	0	I	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	70	H	14	6	3	1	HBS	12	6	3	0	
+0	0	0	B	14	6	3	0		12	7	3	0	
+0	0	0	S	14	6	3	0		9	8	6	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	71	N	14	11	3	1	NWT	12	11	3	0	
+0	0	0	W	14	11	3	0		4	12	11	0	
+0	0	0	T	14	11	3	0		11	13	4	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	IBN	___ Saud (former Saudi king)
+4	ITI	"Is ___, Lord?"
+7	TAP	Punch out, as Morse code
+10	VLLI	Frankie with a falsetto
+11	AVESTA	Zoroastrian literature
+14	RMN	Loser to J.F.K.
+15	AREAOFEXPERTISE	Specialty
+18	NEW	Different
+19	ARG	The Iguazu Riv. forms part of its border
+20	LAE	New Guinea port
+21	UPROOT	Pull out
+24	LSEVEN	Square, in 1950s slang, indicated visually by a two-hand gesture
+28	APE	Go ___
+29	TETO	Fasten on
+31	EVS	Tiny energy units, for short
+32	DAUB	Paint without trying to stay within the lines, say
+34	TENS	___ place
+36	GOA	Portuguese India territory
+37	AGTS	F.B.I. workers: Abbr.
+38	ATO	Give an ___ (mark high)
+39	WEEK	Quarter division
+41	AGA	Ottoman officer
+42	CANE	Supporter
+44	ERBE	Kathryn of "Law & Order: Criminal Intent"
+45	HEE	Laugh part
+46	ROTA	"The Godfather" score composer Nino
+48	ILS	French pronoun
+49	ISLETS	Archipelago parts
+52	ECARTE	Game in which kings are high
+55	THE	Common article
+56	REO	Maker of the old Royale
+57	LMN	K-O bridge
+60	EACHONEWORDCLUE	Solving hint, part 1
+66	LAX	Flexible about rules
+67	RODEBY	Passed on the trail
+68	NOTH	Chris ___, player of Mr. Big on "Sex and the City"
+69	SSI	Fed. funds
+70	HBS	Quoits pegs
+71	NWT	Yukon neighbor: Abbr.
+41
+1	ILRE	"___ Pastore" (Mozart opera)
+2	BLEWUPAGAEL	"Glasgow: Awful weather. It ___"
+3	NIA	Actress Long of "Are We There Yet?"
+4	IVEGOT	Lead-in to "Five Dollars" and "Sixpence" in song titles
+5	TEX	Moniker for a Lone Star cowboy
+6	ISP	Mindspring or AOL, for short
+7	TRI	Angular prefix
+8	AMS	Clock radio settings (in two ways)
+9	PNE	Log cabin material, maybe
+10	VAN	Forefront
+11	AFRO	Prefix with centric
+12	TELLON	Rival of Dwight
+13	ARAS	Parseghian et al.
+16	OAR	Crew implement
+17	TEE	Driving need
+22	PEUT	___-
+23	TETTETE	Chat
+25	VEGEBLELLOW	Soapmaking substance
+26	EVOKES	Brings to mind
+27	NSA	"Red Storm Rising" grp.
+28	ADAGES	"Beggars can't be choosers" et al.
+30	TEO	Auto racer ___ Fabi
+33	BSC	Deg. in biology or physics
+35	SWE	European Union member: Abbr.
+38	ANO	Year in Rio
+40	ERIT	Vivacious wit
+41	AHI	Yellowfin, on Hawaiian menus
+43	ARSENO	Poisonous element: Prefix
+47	ACROBS	Tumblers, e.g.
+50	ETH	Shakespearean suffix
+51	THOR	Iron-gloved one
+53	AERY	Ethereal
+54	ROD	Casting requirement?
+58	MUTT	Not the finest dog
+59	NEH	Old Testament book: Abbr.
+60	ELS	Golf pro Ernie
+61	AAS	Some small power supplies
+62	CXI	Roman 111
+63	EDH	Phonetic alphabet symbol for "th" as in "the"
+64	WEB	The last "w" in www
+65	CNN	King's domain

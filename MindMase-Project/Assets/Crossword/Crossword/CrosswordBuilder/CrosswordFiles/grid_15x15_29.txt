@@ -1,0 +1,307 @@
+grid_15x15_29
+15
+0	1	1	T	0	0	3	1	TIO	0	0	3	1	TIL
+0	1	2	I	0	0	3	0		0	1	3	1	IRE
+0	1	3	O	0	0	3	0		0	2	15	1	OKAYTROYTOHITME
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	5	0	
+0	1	4	A	0	5	3	1	ASE	0	5	4	1	AMDA
+0	1	5	S	0	5	3	0		0	6	5	1	SWATH
+0	1	6	E	0	5	3	0		0	7	5	1	ESMES
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	3	0		1	10	5	0	
+0	1	7	L	0	11	3	1	LST	0	11	3	1	LAN
+0	1	8	S	0	11	3	0		0	12	15	1	SYDNEYAUSTRALIA
+0	1	9	T	0	11	3	0		0	13	4	1	TEEN
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	10	I	1	0	3	1	IRK	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	3	0	
+0	0	0	K	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	4	0		2	3	0	0	
+0	1	11	B	1	4	4	1	BMWS	1	4	5	1	BALSA
+0	0	0	M	1	4	4	0		0	5	4	0	
+0	0	0	W	1	4	4	0		0	6	5	0	
+0	0	0	S	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	6	0		2	8	3	0	
+0	1	12	X	1	9	6	1	XRAYED	1	9	3	1	XLG
+0	1	13	R	1	9	6	0		1	10	5	1	RAOCK
+0	0	0	A	1	9	6	0		0	11	3	0	
+0	0	0	Y	1	9	6	0		0	12	15	0	
+0	0	0	E	1	9	6	0		0	13	4	0	
+0	1	14	D	1	9	6	0		1	14	3	1	DRE
+0	1	15	L	2	0	3	1	LEA	0	0	3	0	
+0	0	0	E	2	0	3	0		0	1	3	0	
+0	0	0	A	2	0	3	0		0	2	15	0	
+1	0	0	#	2	4	11	0		3	3	4	0	
+0	1	16	A	2	4	11	1	ADAMSLANDER	1	4	5	0	
+0	0	0	D	2	4	11	0		0	5	4	0	
+0	0	0	A	2	4	11	0		0	6	5	0	
+0	0	0	M	2	4	11	0		0	7	5	0	
+0	1	17	S	2	4	11	0		2	8	3	1	SNI
+0	0	0	L	2	4	11	0		1	9	3	0	
+0	0	0	A	2	4	11	0		1	10	5	0	
+0	0	0	N	2	4	11	0		0	11	3	0	
+0	0	0	D	2	4	11	0		0	12	15	0	
+0	0	0	E	2	4	11	0		0	13	4	0	
+0	0	0	R	2	4	11	0		1	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	9	0		4	1	6	0	
+0	1	18	Y	3	2	9	1	YOLATENGO	0	2	15	0	
+0	1	19	O	3	2	9	0		3	3	4	1	OPES
+0	0	0	L	3	2	9	0		1	4	5	0	
+0	0	0	A	3	2	9	0		0	5	4	0	
+0	0	0	T	3	2	9	0		0	6	5	0	
+0	0	0	E	3	2	9	0		0	7	5	0	
+0	0	0	N	3	2	9	0		2	8	3	0	
+0	0	0	G	3	2	9	0		1	9	3	0	
+0	0	0	O	3	2	9	0		1	10	5	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	20	N	3	12	3	1	NNE	0	12	15	0	
+0	0	0	N	3	12	3	0		0	13	4	0	
+0	0	0	E	3	12	3	0		1	14	3	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	21	S	4	1	4	1	STPS	4	1	6	1	STEPPE
+0	0	0	T	4	1	4	0		0	2	15	0	
+0	0	0	P	4	1	4	0		3	3	4	0	
+0	0	0	S	4	1	4	0		1	4	5	0	
+1	0	0	#	4	6	3	0		5	5	5	0	
+0	1	22	H	4	6	3	1	HSI	0	6	5	0	
+0	0	0	S	4	6	3	0		0	7	5	0	
+0	0	0	I	4	6	3	0		2	8	3	0	
+1	0	0	#	4	10	3	0		5	9	5	0	
+0	1	23	C	4	10	3	1	CRE	1	10	5	0	
+0	1	24	R	4	10	3	0		4	11	3	1	RAH
+0	0	0	E	4	10	3	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	6	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	25	S	5	0	6	1	STREAM	5	0	3	1	SLS
+0	0	0	T	5	0	6	0		4	1	6	0	
+0	0	0	R	5	0	6	0		0	2	15	0	
+0	0	0	E	5	0	6	0		3	3	4	0	
+0	0	0	A	5	0	6	0		1	4	5	0	
+0	1	26	M	5	0	6	0		5	5	5	1	MSTIC
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	3	0	
+0	1	27	O	5	9	5	1	OKAYS	5	9	5	1	OGRES
+0	0	0	K	5	9	5	0		1	10	5	0	
+0	0	0	A	5	9	5	0		4	11	3	0	
+0	0	0	Y	5	9	5	0		0	12	15	0	
+0	1	28	S	5	9	5	0		5	13	6	1	SORTIE
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	29	L	6	0	4	1	LEOS	5	0	3	0	
+0	0	0	E	6	0	4	0		4	1	6	0	
+0	0	0	O	6	0	4	0		0	2	15	0	
+0	0	0	S	6	0	4	0		3	3	4	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	30	S	6	5	5	1	SPANG	5	5	5	0	
+0	1	31	P	6	5	5	0		6	6	3	1	PIC
+0	1	32	A	6	5	5	0		6	7	3	1	AMO
+0	1	33	N	6	5	5	0		6	8	3	1	NOM
+0	0	0	G	6	5	5	0		5	9	5	0	
+1	0	0	#	6	11	3	0		7	10	0	0	
+0	1	34	H	6	11	3	1	HAO	4	11	3	0	
+0	0	0	A	6	11	3	0		0	12	15	0	
+0	0	0	O	6	11	3	0		5	13	6	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	S	7	0	3	1	SPY	5	0	3	0	
+0	0	0	P	7	0	3	0		4	1	6	0	
+0	0	0	Y	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	36	T	7	5	5	1	TIMOR	5	5	5	0	
+0	0	0	I	7	5	5	0		6	6	3	0	
+0	0	0	M	7	5	5	0		6	7	3	0	
+0	0	0	O	7	5	5	0		6	8	3	0	
+0	0	0	R	7	5	5	0		5	9	5	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+1	0	0	#	7	12	3	0		8	11	4	0	
+0	1	37	U	7	12	3	1	URU	0	12	15	0	
+0	0	0	R	7	12	3	0		5	13	6	0	
+0	1	38	U	7	12	3	0		7	14	3	1	USN
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	39	P	8	1	3	1	PTA	4	1	6	0	
+0	0	0	T	8	1	3	0		0	2	15	0	
+0	1	40	A	8	1	3	0		8	3	3	1	ALD
+1	0	0	#	8	5	5	0		9	4	5	0	
+0	1	41	I	8	5	5	1	ICOME	5	5	5	0	
+0	0	0	C	8	5	5	0		6	6	3	0	
+0	0	0	O	8	5	5	0		6	7	3	0	
+0	0	0	M	8	5	5	0		6	8	3	0	
+0	0	0	E	8	5	5	0		5	9	5	0	
+1	0	0	#	8	11	4	0		9	10	5	0	
+0	1	42	L	8	11	4	1	LSTS	8	11	4	1	LAIC
+0	0	0	S	8	11	4	0		0	12	15	0	
+0	0	0	T	8	11	4	0		5	13	6	0	
+0	0	0	S	8	11	4	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	43	E	9	1	5	1	EOLIC	4	1	6	0	
+0	0	0	O	9	1	5	0		0	2	15	0	
+0	0	0	L	9	1	5	0		8	3	3	0	
+0	1	44	I	9	1	5	0		9	4	5	1	ILEFT
+0	0	0	C	9	1	5	0		5	5	5	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	6	0		10	8	5	0	
+0	1	45	S	9	9	6	1	STATIN	5	9	5	0	
+0	1	46	T	9	9	6	0		9	10	5	1	THISS
+0	0	0	A	9	9	6	0		8	11	4	0	
+0	0	0	T	9	9	6	0		0	12	15	0	
+0	0	0	I	9	9	6	0		5	13	6	0	
+0	0	0	N	9	9	6	0		7	14	3	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	3	0		11	1	4	0	
+0	1	47	H	10	2	3	1	HDL	0	2	15	0	
+0	0	0	D	10	2	3	0		8	3	3	0	
+0	0	0	L	10	2	3	0		9	4	5	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	48	O	10	6	3	1	OSE	10	6	3	1	OOF
+0	1	49	S	10	6	3	0		10	7	5	1	STUNK
+0	1	50	E	10	6	3	0		10	8	5	1	EENIE
+1	0	0	#	10	10	4	0		11	9	4	0	
+0	1	51	H	10	10	4	1	HIRE	9	10	5	0	
+0	0	0	I	10	10	4	0		8	11	4	0	
+0	0	0	R	10	10	4	0		0	12	15	0	
+0	0	0	E	10	10	4	0		5	13	6	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	52	A	11	0	3	1	AMI	11	0	3	1	ACT
+0	1	53	M	11	0	3	0		11	1	4	1	MUON
+0	0	0	I	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	9	0		12	3	3	0	
+0	1	54	E	11	4	9	1	ESOTERICA	9	4	5	0	
+0	1	55	S	11	4	9	0		11	5	3	1	SFO
+0	0	0	O	11	4	9	0		10	6	3	0	
+0	0	0	T	11	4	9	0		10	7	5	0	
+0	0	0	E	11	4	9	0		10	8	5	0	
+0	1	56	R	11	4	9	0		11	9	4	1	RDAS
+0	0	0	I	11	4	9	0		9	10	5	0	
+0	0	0	C	11	4	9	0		8	11	4	0	
+0	0	0	A	11	4	9	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	C	12	0	11	1	CUTOFFFUNDS	11	0	3	0	
+0	0	0	U	12	0	11	0		11	1	4	0	
+0	0	0	T	12	0	11	0		0	2	15	0	
+0	1	58	O	12	0	11	0		12	3	3	1	OAR
+0	0	0	F	12	0	11	0		9	4	5	0	
+0	0	0	F	12	0	11	0		11	5	3	0	
+0	0	0	F	12	0	11	0		10	6	3	0	
+0	0	0	U	12	0	11	0		10	7	5	0	
+0	0	0	N	12	0	11	0		10	8	5	0	
+0	0	0	D	12	0	11	0		11	9	4	0	
+0	0	0	S	12	0	11	0		9	10	5	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	59	L	12	12	3	1	LAO	0	12	15	0	
+0	1	60	A	12	12	3	0		12	13	3	1	ADO
+0	1	61	O	12	12	3	0		12	14	3	1	ONK
+0	1	62	T	13	0	6	1	TOMATO	11	0	3	0	
+0	0	0	O	13	0	6	0		11	1	4	0	
+0	0	0	M	13	0	6	0		0	2	15	0	
+0	0	0	A	13	0	6	0		12	3	3	0	
+0	0	0	T	13	0	6	0		9	4	5	0	
+0	0	0	O	13	0	6	0		11	5	3	0	
+1	0	0	#	13	7	4	0		14	6	0	0	
+0	1	63	N	13	7	4	1	NIAS	10	7	5	0	
+0	0	0	I	13	7	4	0		10	8	5	0	
+0	0	0	A	13	7	4	0		11	9	4	0	
+0	0	0	S	13	7	4	0		9	10	5	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	64	I	13	12	3	1	IDN	0	12	15	0	
+0	0	0	D	13	12	3	0		12	13	3	0	
+0	0	0	N	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	65	N	14	1	3	1	NER	11	1	4	0	
+0	0	0	E	14	1	3	0		0	2	15	0	
+0	0	0	R	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	66	K	14	7	3	1	KES	10	7	5	0	
+0	0	0	E	14	7	3	0		10	8	5	0	
+0	0	0	S	14	7	3	0		11	9	4	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	67	A	14	12	3	1	AOK	0	12	15	0	
+0	0	0	O	14	12	3	0		12	13	3	0	
+0	0	0	K	14	12	3	0		12	14	3	0	
+39
+1	TIO	Madre's hermano
+4	ASE	Wall St. market, briefly
+7	LST	W.W. II craft: Abbr.
+10	IRK	Stick in one's craw
+11	BMWS	Autobahn sights
+12	XRAYED	Saw right through?
+15	LEA	Open tract
+16	ADAMSLANDER	Defamation in the Garden of Eden?
+18	YOLATENGO	Indie rock band whose name is Spanish for "I have it"
+20	NNE	Calgary-to-Edmonton dir.
+21	STPS	Motor oil additives
+22	HSI	Fu-___ (legendary Chinese sage)
+23	CRE	Brunch serving
+25	STREAM	Fishing spot
+27	OKAYS	Sanctions
+29	LEOS	Ones born before Virgos
+30	SPANG	Squarely
+34	HAO	Vietnamese coin
+35	SPY	Writer in cipher, maybe
+36	TIMOR	Island near Java
+37	URU	Neighbor of Arg.
+39	PTA	Bake sale grp.
+41	ICOME	Revenue / Result
+42	LSTS	D-Day vessels
+43	EOLIC	Ancient Greek dialect: Var.
+45	STATIN	Cholesterol medication
+47	HDL	Cholesterol abbr.
+48	OSE	Verb follower?
+51	HIRE	Take on, as employees
+52	AMI	Calais confidant
+54	ESOTERICA	Dark matter?
+57	CUTOFFFUNDS	Stop supporting, with "for"
+59	LAO	Relative of Thai
+62	TOMATO	Campbell's choice
+63	NIAS	Actress Long and others
+64	IDN	Insurance card info
+65	NER	___ Tamid (synagogue lamp)
+66	KES	Evelyn who played Scarlett's sister
+67	AOK	"Thumbs up" response
+39
+1	TIL	Pop's ___ Tuesday
+2	IRE	Bad temper
+3	OKAYTROYTOHITME	New Yorker's dare?
+4	AMDA	Katharine's role in "Adam's Rib"
+5	SWATH	Lawn mower's path
+6	ESMES	Salinger heroine et al.
+7	LAN	PC linkup
+8	SYDNEYAUSTRALIA	2000 site
+9	TEEN	High-schooler
+11	BALSA	Glider wood
+12	XLG	Actor DeLuise
+13	RAOCK	Genre explored by Run-D.M.C. and Aerosmith
+14	DRE	Eminem collaborator, informally
+17	SNI	___ and snee
+19	OPES	Unlocks, in verse
+21	STEPPE	Russian plain
+24	RAH	Fan sound
+25	SLS	Classic Mercedes roadsters
+26	MSTIC	Old Connecticut whaling town
+27	OGRES	"Fee, fi, fo, fum" speakers
+28	SORTIE	Raid
+31	PIC	It may have redeye
+32	AMO	___, amas, amat 
+33	NOM	Jacques Cousteau, e.g.
+38	USN	Blue Angels' org.
+40	ALD	Munic. official
+42	LAIC	Clerk's counterpart
+44	ILEFT	Irving Berlin's "___ My Heart at the Stage Door Canteen"
+46	THISS	At once
+48	OOF	Punch in the stomach response
+49	STUNK	Reeked
+50	EENIE	Nonsense word said while pointing a finger
+52	ACT	"___ natural"
+53	MUON	Unstable particle
+55	SFO	West Coast air hub, for short
+56	RDAS	Info on grocery pkgs.
+58	OAR	Something that may be seen in a bank
+60	ADO	Shakespearean stir
+61	ONK	In tune

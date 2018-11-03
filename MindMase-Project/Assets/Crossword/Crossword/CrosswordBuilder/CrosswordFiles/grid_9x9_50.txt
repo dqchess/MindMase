@@ -1,0 +1,117 @@
+grid_9x9_50
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	L	0	1	3	1	LOY	0	1	4	1	LIAO
+0	1	2	O	0	1	3	0		0	2	4	1	OBLA
+0	1	3	Y	0	1	3	0		0	3	3	1	YET
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SOL	0	6	4	1	SPEC
+0	1	5	O	0	6	3	0		0	7	4	1	ORSE
+0	1	6	L	0	6	3	0		0	8	3	1	LET
+0	1	7	G	1	0	5	1	GIBED	1	0	3	1	GPS
+0	0	0	I	1	0	5	0		0	1	4	0	
+0	0	0	B	1	0	5	0		0	2	4	0	
+0	0	0	E	1	0	5	0		0	3	3	0	
+0	1	8	D	1	0	5	0		1	4	7	1	DROPOFF
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	P	1	6	3	1	PRE	0	6	4	0	
+0	0	0	R	1	6	3	0		0	7	4	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	10	P	2	0	9	1	PALTRIEST	1	0	3	0	
+0	0	0	A	2	0	9	0		0	1	4	0	
+0	0	0	L	2	0	9	0		0	2	4	0	
+0	0	0	T	2	0	9	0		0	3	3	0	
+0	0	0	R	2	0	9	0		1	4	7	0	
+0	1	11	I	2	0	9	0		2	5	3	1	INS
+0	0	0	E	2	0	9	0		0	6	4	0	
+0	0	0	S	2	0	9	0		0	7	4	0	
+0	0	0	T	2	0	9	0		0	8	3	0	
+0	1	12	S	3	0	3	1	SOA	1	0	3	0	
+0	0	0	O	3	0	3	0		0	1	4	0	
+0	0	0	A	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	O	3	4	4	1	ONCE	1	4	7	0	
+0	0	0	N	3	4	4	0		2	5	3	0	
+0	0	0	C	3	4	4	0		0	6	4	0	
+0	0	0	E	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	I	4	3	3	1	IPS	4	3	3	1	INI
+0	0	0	P	4	3	3	0		1	4	7	0	
+0	0	0	S	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	T	5	1	4	1	TENO	5	1	4	1	TASS
+0	1	16	E	5	1	4	0		5	2	4	1	ELOI
+0	0	0	N	5	1	4	0		4	3	3	0	
+0	0	0	O	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	G	5	6	3	1	GOR	5	6	4	1	GRAE
+0	1	18	O	5	6	3	0		5	7	4	1	ONCD
+0	1	19	R	5	6	3	0		5	8	3	1	RYS
+0	1	20	C	6	0	9	1	CALIFORNY	6	0	3	1	CUI
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	L	6	0	9	0		5	2	4	0	
+0	0	0	I	6	0	9	0		4	3	3	0	
+0	0	0	F	6	0	9	0		1	4	7	0	
+0	1	21	O	6	0	9	0		6	5	3	1	ORO
+0	0	0	R	6	0	9	0		5	6	4	0	
+0	0	0	N	6	0	9	0		5	7	4	0	
+0	0	0	Y	6	0	9	0		5	8	3	0	
+0	1	22	U	7	0	3	1	USO	6	0	3	0	
+0	0	0	S	7	0	3	0		5	1	4	0	
+0	0	0	O	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	F	7	4	5	1	FRACS	1	4	7	0	
+0	0	0	R	7	4	5	0		6	5	3	0	
+0	0	0	A	7	4	5	0		5	6	4	0	
+0	0	0	C	7	4	5	0		5	7	4	0	
+0	0	0	S	7	4	5	0		5	8	3	0	
+0	1	24	I	8	0	3	1	ISI	6	0	3	0	
+0	0	0	S	8	0	3	0		5	1	4	0	
+0	0	0	I	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	O	8	5	3	1	OED	6	5	3	0	
+0	0	0	E	8	5	3	0		5	6	4	0	
+0	0	0	D	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	LOY	Powell's detective film co-star
+4	SOL	Pine-___
+7	GIBED	Razzed
+9	PRE	Historic starter
+10	PALTRIEST	Least
+12	SOA	"___ man walks into a bar ..."
+13	ONCE	In olden times
+14	IPS	Tape recorder speed meas.
+15	TENO	"A ___'clock scholar"
+17	GOR	Brit's oath
+20	CALIFORNY	Home, to TV's Clampetts
+22	USO	Hope offerer: Abbr.
+23	FRACS	Aid in avoiding the draft?
+24	ISI	"Woe ___" (Patricia T. O'Conner best seller)
+25	OED	Multivolume Brit. reference
+17
+1	LIAO	Ancient dynasty of northern China
+2	OBLA	Syllables before "di" or "da" in a Beatles song
+3	YET	As of now
+4	SPEC	Particular
+5	ORSE	Charger, to a Cockney
+6	LET	Rent
+7	GPS	Modern dashboard attachment, for short
+8	DROPOFF	Nod
+11	INS	Current administration
+14	INI	Magician's name ending
+15	TASS	Old name in news
+16	ELOI	Frugivorous creatures of sci-fi
+17	GRAE	Blender setting
+18	ONCD	Like most music in record stores nowadays
+19	RYS	Guitarist Cooder and others
+20	CUI	___ bono (for whose benefit?: Lat.)
+21	ORO	First word of Montana's motto

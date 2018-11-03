@@ -1,0 +1,115 @@
+grid_9x9_7
+9
+0	1	1	C	0	0	4	1	CORK	0	0	3	1	CHE
+0	1	2	O	0	0	4	0		0	1	3	1	OEN
+0	1	3	R	0	0	4	0		0	2	3	1	RLS
+0	1	4	K	0	0	4	0		0	3	3	1	KIL
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	5	E	0	6	3	1	EDU	0	6	5	1	ELEMI
+0	1	6	D	0	6	3	0		0	7	5	1	DOREN
+0	1	7	U	0	6	3	0		0	8	4	1	USSR
+0	1	8	H	1	0	5	1	HELIO	0	0	3	0	
+0	0	0	E	1	0	5	0		0	1	3	0	
+0	0	0	L	1	0	5	0		0	2	3	0	
+0	0	0	I	1	0	5	0		0	3	3	0	
+0	1	9	O	1	0	5	0		1	4	7	1	OAKLAWN
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	10	L	1	6	3	1	LOS	0	6	5	0	
+0	0	0	O	1	6	3	0		0	7	5	0	
+0	0	0	S	1	6	3	0		0	8	4	0	
+0	1	11	E	2	0	9	1	ENSLAVERS	0	0	3	0	
+0	0	0	N	2	0	9	0		0	1	3	0	
+0	0	0	S	2	0	9	0		0	2	3	0	
+0	0	0	L	2	0	9	0		0	3	3	0	
+0	0	0	A	2	0	9	0		1	4	7	0	
+0	1	12	V	2	0	9	0		2	5	3	1	VHS
+0	0	0	E	2	0	9	0		0	6	5	0	
+0	0	0	R	2	0	9	0		0	7	5	0	
+0	0	0	S	2	0	9	0		0	8	4	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	0	0		4	2	5	0	
+1	0	0	#	3	4	5	0		4	3	3	0	
+0	1	13	K	3	4	5	1	KHMER	1	4	7	0	
+0	0	0	H	3	4	5	0		2	5	3	0	
+0	0	0	M	3	4	5	0		0	6	5	0	
+0	0	0	E	3	4	5	0		0	7	5	0	
+0	0	0	R	3	4	5	0		0	8	4	0	
+1	0	0	#	4	1	7	0		5	0	4	0	
+0	1	14	H	4	1	7	1	HAULSIN	4	1	5	1	HODGE
+0	1	15	A	4	1	7	0		4	2	5	1	AREST
+0	1	16	U	4	1	7	0		4	3	3	1	USL
+0	0	0	L	4	1	7	0		1	4	7	0	
+0	0	0	S	4	1	7	0		2	5	3	0	
+0	0	0	I	4	1	7	0		0	6	5	0	
+0	0	0	N	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	D	5	0	5	1	DORSA	5	0	4	1	DEES
+0	0	0	O	5	0	5	0		4	1	5	0	
+0	0	0	R	5	0	5	0		4	2	5	0	
+0	0	0	S	5	0	5	0		4	3	3	0	
+0	0	0	A	5	0	5	0		1	4	7	0	
+1	0	0	#	5	6	0	0		6	5	3	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	E	6	0	9	1	EDELWEISS	5	0	4	0	
+0	0	0	D	6	0	9	0		4	1	5	0	
+0	0	0	E	6	0	9	0		4	2	5	0	
+0	0	0	L	6	0	9	0		4	3	3	0	
+0	0	0	W	6	0	9	0		1	4	7	0	
+0	1	19	E	6	0	9	0		6	5	3	1	ETE
+0	1	20	I	6	0	9	0		6	6	3	1	IES
+0	1	21	S	6	0	9	0		6	7	3	1	SSS
+0	1	22	S	6	0	9	0		6	8	3	1	STE
+0	1	23	E	7	0	3	1	EGS	5	0	4	0	
+0	0	0	G	7	0	3	0		4	1	5	0	
+0	0	0	S	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	N	7	4	5	1	NTEST	1	4	7	0	
+0	0	0	T	7	4	5	0		6	5	3	0	
+0	0	0	E	7	4	5	0		6	6	3	0	
+0	0	0	S	7	4	5	0		6	7	3	0	
+0	0	0	T	7	4	5	0		6	8	3	0	
+0	1	25	S	8	0	3	1	SET	5	0	4	0	
+0	0	0	E	8	0	3	0		4	1	5	0	
+0	0	0	T	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	4	0		9	4	0	0	
+0	1	26	E	8	5	4	1	ESSE	6	5	3	0	
+0	0	0	S	8	5	4	0		6	6	3	0	
+0	0	0	S	8	5	4	0		6	7	3	0	
+0	0	0	E	8	5	4	0		6	8	3	0	
+13
+1	CORK	Fishing float
+5	EDU	Alternative to .com or .org
+8	HELIO	Prefix with tropic
+10	LOS	Start of some California place names
+11	ENSLAVERS	Bond dealers?
+13	KHMER	Like the Angkor ruins
+14	HAULSIN	Arrests
+17	DORSA	Backs, anatomically
+18	EDELWEISS	Song that ends "Bless my homeland forever"
+23	EGS	Units in physics
+24	NTEST	Underground experiment, for short
+25	SET	Stage design
+26	ESSE	Being, to Caesar
+17
+1	CHE	Friend of Fidel
+2	OEN	Wine: Prefix
+3	RLS	"Treasure Island" author's inits.
+4	KIL	About 5/8 of a mi.
+5	ELEMI	Lacquer ingredient
+6	DOREN	Quiz whiz Charles Van ___
+7	USSR	Soyuz launcher
+9	OAKLAWN	Chicago suburb
+12	VHS	DVD precursor
+14	HODGE	Patricia of "Betrayal"
+15	AREST	Take ___ (break)
+16	USL	Southeastern Conf. team
+17	DEES	Pretty low grades
+19	ETE	Honegger's "Pastorale d'___"
+20	IES	Suffix with pant
+21	SSS	1960's demonstration target: Abbr.
+22	STE	Marie or Suzanne: Abbr.

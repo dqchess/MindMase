@@ -1,0 +1,237 @@
+grid_13x13_136
+13
+0	1	1	Q	0	0	3	1	QRS	0	0	3	1	QTY
+0	1	2	R	0	0	3	0		0	1	3	1	RUE
+0	1	3	S	0	0	3	0		0	2	3	1	SEL
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	N	0	5	3	1	NPR	0	5	5	1	NOWIS
+0	1	5	P	0	5	3	0		0	6	13	1	POWERSTEERING
+0	1	6	R	0	5	3	0		0	7	3	1	RSA
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	W	0	10	3	1	WHA	0	10	9	1	WELLAWARE
+0	1	8	H	0	10	3	0		0	11	3	1	HAE
+0	1	9	A	0	10	3	0		0	12	3	1	AFR
+0	1	10	T	1	0	3	1	TUE	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	3	0	
+0	0	0	E	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	9	0		2	3	4	0	
+0	1	11	L	1	4	9	1	LOOSELEAF	1	4	3	1	LOT
+0	0	0	O	1	4	9	0		0	5	5	0	
+0	0	0	O	1	4	9	0		0	6	13	0	
+0	0	0	S	1	4	9	0		0	7	3	0	
+0	1	12	E	1	4	9	0		1	8	3	1	ERY
+0	1	13	L	1	4	9	0		1	9	3	1	LBS
+0	0	0	E	1	4	9	0		0	10	9	0	
+0	0	0	A	1	4	9	0		0	11	3	0	
+0	0	0	F	1	4	9	0		0	12	3	0	
+0	1	14	Y	2	0	13	1	YELLOWWARBLER	0	0	3	0	
+0	0	0	E	2	0	13	0		0	1	3	0	
+0	0	0	L	2	0	13	0		0	2	3	0	
+0	1	15	L	2	0	13	0		2	3	4	1	LASS
+0	0	0	O	2	0	13	0		1	4	3	0	
+0	0	0	W	2	0	13	0		0	5	5	0	
+0	0	0	W	2	0	13	0		0	6	13	0	
+0	0	0	A	2	0	13	0		0	7	3	0	
+0	0	0	R	2	0	13	0		1	8	3	0	
+0	0	0	B	2	0	13	0		1	9	3	0	
+0	0	0	L	2	0	13	0		0	10	9	0	
+0	0	0	E	2	0	13	0		0	11	3	0	
+0	0	0	R	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	4	0		4	2	9	0	
+0	1	16	A	3	3	4	1	ATIE	2	3	4	0	
+0	0	0	T	3	3	4	0		1	4	3	0	
+0	0	0	I	3	3	4	0		0	5	5	0	
+0	0	0	E	3	3	4	0		0	6	13	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	17	Y	3	8	3	1	YSL	1	8	3	0	
+0	0	0	S	3	8	3	0		1	9	3	0	
+0	0	0	L	3	8	3	0		0	10	9	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	18	S	4	1	3	1	SLS	4	1	5	1	STELA
+0	1	19	L	4	1	3	0		4	2	9	1	LAMPCHOPS
+0	0	0	S	4	1	3	0		2	3	4	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	20	S	4	5	3	1	SRO	0	5	5	0	
+0	0	0	R	4	5	3	0		0	6	13	0	
+0	1	21	O	4	5	3	0		4	7	3	1	OWE
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	A	4	10	3	1	AFS	0	10	9	0	
+0	1	23	F	4	10	3	0		4	11	5	1	FRACS
+0	1	24	S	4	10	3	0		4	12	3	1	SYR
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	25	T	5	1	4	1	TASM	4	1	5	0	
+0	0	0	A	5	1	4	0		4	2	9	0	
+0	0	0	S	5	1	4	0		2	3	4	0	
+0	1	26	M	5	1	4	0		5	4	3	1	MOD
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	27	S	5	6	3	1	SWF	0	6	13	0	
+0	0	0	W	5	6	3	0		4	7	3	0	
+0	1	28	F	5	6	3	0		5	8	3	1	FTC
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	29	W	5	10	3	1	WRY	0	10	9	0	
+0	0	0	R	5	10	3	0		4	11	5	0	
+0	0	0	Y	5	10	3	0		4	12	3	0	
+0	1	30	T	6	0	3	1	TEM	6	0	3	1	TEP
+0	0	0	E	6	0	3	0		4	1	5	0	
+0	0	0	M	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	31	O	6	4	5	1	OCTET	5	4	3	0	
+0	1	32	C	6	4	5	0		6	5	3	1	CAL
+0	0	0	T	6	4	5	0		0	6	13	0	
+0	0	0	E	6	4	5	0		4	7	3	0	
+0	0	0	T	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	4	0	
+0	1	33	A	6	10	3	1	AAR	0	10	9	0	
+0	0	0	A	6	10	3	0		4	11	5	0	
+0	0	0	R	6	10	3	0		4	12	3	0	
+0	1	34	E	7	0	3	1	ELP	6	0	3	0	
+0	0	0	L	7	0	3	0		4	1	5	0	
+0	0	0	P	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	35	D	7	4	3	1	DAE	5	4	3	0	
+0	0	0	A	7	4	3	0		6	5	3	0	
+0	0	0	E	7	4	3	0		0	6	13	0	
+1	0	0	#	7	8	4	0		8	7	5	0	
+0	1	36	C	7	8	4	1	CIRC	5	8	3	0	
+0	1	37	I	7	8	4	0		7	9	4	1	ICES
+0	0	0	R	7	8	4	0		0	10	9	0	
+0	0	0	C	7	8	4	0		4	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	38	P	8	0	3	1	PAC	6	0	3	0	
+0	0	0	A	8	0	3	0		4	1	5	0	
+0	0	0	C	8	0	3	0		4	2	9	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	39	L	8	5	3	1	LET	6	5	3	0	
+0	0	0	E	8	5	3	0		0	6	13	0	
+0	1	40	T	8	5	3	0		8	7	5	1	TINCT
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	41	C	8	9	3	1	CES	7	9	4	0	
+0	0	0	E	8	9	3	0		0	10	9	0	
+0	0	0	S	8	9	3	0		4	11	5	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	42	H	9	2	3	1	HOW	4	2	9	0	
+0	1	43	O	9	2	3	0		9	3	3	1	OTE
+0	1	44	W	9	2	3	0		9	4	3	1	WON
+1	0	0	#	9	6	4	0		10	5	3	0	
+0	1	45	R	9	6	4	1	RISE	0	6	13	0	
+0	0	0	I	9	6	4	0		8	7	5	0	
+0	1	46	S	9	6	4	0		9	8	3	1	SIE
+0	0	0	E	9	6	4	0		7	9	4	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	47	P	10	0	13	1	PHOTOFINISHER	10	0	3	1	PDT
+0	1	48	H	10	0	13	0		10	1	3	1	HOV
+0	0	0	O	10	0	13	0		4	2	9	0	
+0	0	0	T	10	0	13	0		9	3	3	0	
+0	0	0	O	10	0	13	0		9	4	3	0	
+0	1	49	F	10	0	13	0		10	5	3	1	FAA
+0	0	0	I	10	0	13	0		0	6	13	0	
+0	0	0	N	10	0	13	0		8	7	5	0	
+0	0	0	I	10	0	13	0		9	8	3	0	
+0	0	0	S	10	0	13	0		7	9	4	0	
+0	1	50	H	10	0	13	0		10	10	3	1	HOY
+0	1	51	E	10	0	13	0		10	11	3	1	EOE
+0	1	52	R	10	0	13	0		10	12	3	1	RXS
+0	1	53	D	11	0	9	1	DOPENANCE	10	0	3	0	
+0	0	0	O	11	0	9	0		10	1	3	0	
+0	0	0	P	11	0	9	0		4	2	9	0	
+0	0	0	E	11	0	9	0		9	3	3	0	
+0	0	0	N	11	0	9	0		9	4	3	0	
+0	0	0	A	11	0	9	0		10	5	3	0	
+0	0	0	N	11	0	9	0		0	6	13	0	
+0	0	0	C	11	0	9	0		8	7	5	0	
+0	0	0	E	11	0	9	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	54	O	11	10	3	1	OOX	10	10	3	0	
+0	0	0	O	11	10	3	0		10	11	3	0	
+0	0	0	X	11	10	3	0		10	12	3	0	
+0	1	55	T	12	0	3	1	TVS	10	0	3	0	
+0	0	0	V	12	0	3	0		10	1	3	0	
+0	0	0	S	12	0	3	0		4	2	9	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	56	A	12	5	3	1	AGT	10	5	3	0	
+0	0	0	G	12	5	3	0		0	6	13	0	
+0	0	0	T	12	5	3	0		8	7	5	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	57	Y	12	10	3	1	YES	10	10	3	0	
+0	0	0	E	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+31
+1	QRS	Letter run
+4	NPR	"All Things Considered" network
+7	WHA	Houston Aeros' org.
+10	TUE	It's named for a Germanic war god: Abbr.
+11	LOOSELEAF	Not bound in
+14	YELLOWWARBLER	Cowardly bird?
+16	ATIE	Even, after "in"
+17	YSL	Fashion letters
+18	SLS	Some Mercedes-Benzes
+20	SRO	B'way producer's favorite sign
+22	AFS	Military branches: Abbr.
+25	TASM	Australian island: Abbr.
+27	SWF	Abbr. in personal ads
+29	WRY	Not straight
+30	TEM	President pro ___
+31	OCTET	Musical eightsome
+33	AAR	Berne sight
+34	ELP	1970s supergroup, for short
+35	DAE	Peace Nobelist Kim ___ Jung
+36	CIRC	Publication concern: Abbr.
+38	PAC	Grp. interested in races
+39	LET	Abate, with "up"
+41	CES	These, in Thiers
+42	HOW	In what way
+45	RISE	Hillock
+47	PHOTOFINISHER	Jockey's other job?
+53	DOPENANCE	Atone
+54	OOX	Tic-tac-toe loser
+55	TVS	Show showers
+56	AGT	P.R. person, e.g.
+57	YES	"Right on!"
+33
+1	QTY	Reduced amount?
+2	RUE	Have second thoughts
+3	SEL	Flandre flavoring
+4	NOWIS	"___ not the time!"
+5	POWERSTEERING	It might help you take a turn for the better
+6	RSA	Mandela's land: Abbr.
+7	WELLAWARE	Fully posted?
+8	HAE	"Scots Wha ___" (Burns poem)
+9	AFR	It has a horn: Abbr.
+11	LOT	You may build on it
+12	ERY	Suffix with green or bean
+13	LBS	Barbell abbr.
+15	LASS	Scottish miss
+18	STELA	Inscribed pillar
+19	LAMPCHOPS	What a judo master uses to break lights?
+21	OWE	Need to reimburse
+23	FRACS	Aid in avoiding the draft?
+24	SYR	Mideast land: Abbr.
+26	MOD	Up-to-date
+28	FTC	National Do Not Call Registry org.
+30	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+32	CAL	Oriole Ripken
+37	ICES	Ensures, slangily
+40	TINCT	Touch of color
+43	OTE	Native: Suffix
+44	WON	Took the trophy
+46	SIE	You overseas
+47	PDT	S.F. is on it in the summer
+48	HOV	Kind of lane
+49	FAA	Regulatory org. since 1958
+50	HOY	Major U.S. Spanish-language daily
+51	EOE	Want ad letters
+52	RXS	Prescriptions, for short

@@ -1,0 +1,167 @@
+grid_11x11_182
+11
+0	1	1	P	0	0	5	1	PEENS	0	0	3	1	PLY
+0	1	2	E	0	0	5	0		0	1	7	1	EASTERS
+0	1	3	E	0	0	5	0		0	2	11	1	ECHOSOUNDER
+0	1	4	N	0	0	5	0		0	3	4	1	NEAP
+0	1	5	S	0	0	5	0		0	4	3	1	SUP
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	6	S	0	8	3	1	SIC	0	8	11	1	SKIPSAGRADE
+0	1	7	I	0	8	3	0		0	9	3	1	ITI
+0	1	8	C	0	8	3	0		0	10	3	1	CSI
+0	1	9	L	1	0	7	1	LACEUPS	0	0	3	0	
+0	0	0	A	1	0	7	0		0	1	7	0	
+0	0	0	C	1	0	7	0		0	2	11	0	
+0	0	0	E	1	0	7	0		0	3	4	0	
+0	0	0	U	1	0	7	0		0	4	3	0	
+0	1	10	P	1	0	7	0		1	5	9	1	PEERESSES
+0	1	11	S	1	0	7	0		1	6	5	1	SDAES
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	12	K	1	8	3	1	KTS	0	8	11	0	
+0	0	0	T	1	8	3	0		0	9	3	0	
+0	0	0	S	1	8	3	0		0	10	3	0	
+0	1	13	Y	2	0	7	1	YSHAPED	0	0	3	0	
+0	0	0	S	2	0	7	0		0	1	7	0	
+0	0	0	H	2	0	7	0		0	2	11	0	
+0	0	0	A	2	0	7	0		0	3	4	0	
+0	0	0	P	2	0	7	0		0	4	3	0	
+0	0	0	E	2	0	7	0		1	5	9	0	
+0	0	0	D	2	0	7	0		1	6	5	0	
+1	0	0	#	2	8	3	0		3	7	3	0	
+0	1	14	I	2	8	3	1	III	0	8	11	0	
+0	0	0	I	2	8	3	0		0	9	3	0	
+0	0	0	I	2	8	3	0		0	10	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	15	T	3	1	3	1	TOP	0	1	7	0	
+0	0	0	O	3	1	3	0		0	2	11	0	
+0	0	0	P	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	4	0		4	4	0	0	
+0	1	16	E	3	5	4	1	EARP	1	5	9	0	
+0	0	0	A	3	5	4	0		1	6	5	0	
+0	1	17	R	3	5	4	0		3	7	3	1	RAJ
+0	0	0	P	3	5	4	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	18	A	4	0	3	1	AES	4	0	3	1	ABT
+0	0	0	E	4	0	3	0		0	1	7	0	
+0	0	0	S	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	6	0		5	4	5	0	
+0	1	19	R	4	5	6	1	REASON	1	5	9	0	
+0	0	0	E	4	5	6	0		1	6	5	0	
+0	0	0	A	4	5	6	0		3	7	3	0	
+0	0	0	S	4	5	6	0		0	8	11	0	
+0	1	20	O	4	5	6	0		4	9	7	1	ONANDON
+0	1	21	N	4	5	6	0		4	10	3	1	NEI
+0	1	22	B	5	0	11	1	BRONTESJANE	4	0	3	0	
+0	0	0	R	5	0	11	0		0	1	7	0	
+0	0	0	O	5	0	11	0		0	2	11	0	
+0	1	23	N	5	0	11	0		5	3	3	1	NRA
+0	1	24	T	5	0	11	0		5	4	5	1	TIGHT
+0	0	0	E	5	0	11	0		1	5	9	0	
+0	0	0	S	5	0	11	0		1	6	5	0	
+0	0	0	J	5	0	11	0		3	7	3	0	
+0	0	0	A	5	0	11	0		0	8	11	0	
+0	0	0	N	5	0	11	0		4	9	7	0	
+0	0	0	E	5	0	11	0		4	10	3	0	
+0	1	25	T	6	0	6	1	TSURIS	4	0	3	0	
+0	0	0	S	6	0	6	0		0	1	7	0	
+0	0	0	U	6	0	6	0		0	2	11	0	
+0	0	0	R	6	0	6	0		5	3	3	0	
+0	0	0	I	6	0	6	0		5	4	5	0	
+0	0	0	S	6	0	6	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	26	G	6	8	3	1	GAI	0	8	11	0	
+0	0	0	A	6	8	3	0		4	9	7	0	
+0	0	0	I	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	4	0		8	1	3	0	
+0	1	27	N	7	2	4	1	NAGS	0	2	11	0	
+0	0	0	A	7	2	4	0		5	3	3	0	
+0	0	0	G	7	2	4	0		5	4	5	0	
+0	0	0	S	7	2	4	0		1	5	9	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	28	A	7	7	3	1	ARN	7	7	4	1	ATRI
+0	0	0	R	7	7	3	0		0	8	11	0	
+0	0	0	N	7	7	3	0		4	9	7	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	29	I	8	0	3	1	IED	8	0	3	1	IMA
+0	1	30	E	8	0	3	0		8	1	3	1	ERG
+0	0	0	D	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	7	0		9	3	0	0	
+0	1	31	H	8	4	7	1	HEPTADS	5	4	5	0	
+0	0	0	E	8	4	7	0		1	5	9	0	
+0	1	32	P	8	4	7	0		8	6	3	1	PAS
+0	0	0	T	8	4	7	0		7	7	4	0	
+0	0	0	A	8	4	7	0		0	8	11	0	
+0	0	0	D	8	4	7	0		4	9	7	0	
+0	1	33	S	8	4	7	0		8	10	3	1	SMA
+0	1	34	M	9	0	3	1	MRE	8	0	3	0	
+0	0	0	R	9	0	3	0		8	1	3	0	
+0	0	0	E	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	35	T	9	4	7	1	TSARDOM	5	4	5	0	
+0	0	0	S	9	4	7	0		1	5	9	0	
+0	0	0	A	9	4	7	0		8	6	3	0	
+0	0	0	R	9	4	7	0		7	7	4	0	
+0	0	0	D	9	4	7	0		0	8	11	0	
+0	0	0	O	9	4	7	0		4	9	7	0	
+0	0	0	M	9	4	7	0		8	10	3	0	
+0	1	36	A	10	0	3	1	AGR	8	0	3	0	
+0	0	0	G	10	0	3	0		8	1	3	0	
+0	0	0	R	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	5	0		11	5	0	0	
+0	1	37	S	10	6	5	1	SIENA	8	6	3	0	
+0	0	0	I	10	6	5	0		7	7	4	0	
+0	0	0	E	10	6	5	0		0	8	11	0	
+0	0	0	N	10	6	5	0		4	9	7	0	
+0	0	0	A	10	6	5	0		8	10	3	0	
+21
+1	PEENS	Tool parts for bending and shaping
+6	SIC	Quotation addition
+9	LACEUPS	Some boots
+12	KTS	24 of them = 100%: Abbr.
+13	YSHAPED	Like a slingshot
+14	III	The last King Richard of England
+15	TOP	Blouse, e.g.
+16	EARP	O.K. Corral fighter
+18	AES	J.F.K.'s U.N. ambassador
+19	REASON	Good sense
+22	BRONTESJANE	Eyre
+25	TSURIS	Aggravation
+26	GAI	Moo goo ___ pan
+27	NAGS	Noodges
+28	ARN	Foster son of the comics
+29	IED	Roadside bomb: Abbr.
+31	HEPTADS	Water polo teams, e.g.
+34	MRE	G.I. grub
+35	TSARDOM	Russian ruler's domain
+36	AGR	Farm-related: Abbr.
+37	SIENA	City near Florence
+21
+1	PLY	Practice
+2	EASTERS	Dates determined by the lunisolar calendar
+3	ECHOSOUNDER	Aid in deep diving
+4	NEAP	One of the tides
+5	SUP	Slangy greeting
+6	SKIPSAGRADE	Goes from first to third, say
+7	ITI	"That's ___ quit!"
+8	CSI	Top-rated TV show of 2002-3
+10	PEERESSES	Titled ladies
+11	SDAES	Dairy Queen offerings
+17	RAJ	Rule, in India
+18	ABT	Dance grp. at the Met
+20	ONANDON	Protractedly
+21	NEI	"In the," in Italy
+23	NRA	Gunner's grp.
+24	TIGHT	Too snug
+28	ATRI	Longfellow's "The Bell of ___"
+29	IMA	"___ Fool to Care" (1954 hit)
+30	ERG	Wee bit of work
+32	PAS	Stage setups, for short
+33	SMA	Kind of request in Burns's "To a Mouse"

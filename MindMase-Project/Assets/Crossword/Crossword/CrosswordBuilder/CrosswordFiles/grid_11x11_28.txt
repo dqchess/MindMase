@@ -1,0 +1,165 @@
+grid_11x11_28
+11
+0	1	1	H	0	0	3	1	HUH	0	0	3	1	HEA
+0	1	2	U	0	0	3	0		0	1	6	1	URACIL
+0	1	3	H	0	0	3	0		0	2	11	1	HOPEDIAMOND
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	F	0	6	3	1	FAB	0	6	6	1	FRUSTA
+0	1	5	A	0	6	3	0		0	7	3	1	AAE
+0	1	6	B	0	6	3	0		0	8	11	1	BEARDEDLADY
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	E	1	0	3	1	ERO	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	6	0	
+0	0	0	O	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	0	0	
+0	1	8	I	1	4	7	1	ISRAELI	1	4	3	1	ISE
+0	1	9	S	1	4	7	0		1	5	9	1	SQUARECUT
+0	0	0	R	1	4	7	0		0	6	6	0	
+0	0	0	A	1	4	7	0		0	7	3	0	
+0	0	0	E	1	4	7	0		0	8	11	0	
+0	1	10	L	1	4	7	0		1	9	3	1	LKP
+0	1	11	I	1	4	7	0		1	10	3	1	IST
+0	1	12	A	2	0	3	1	AAP	0	0	3	0	
+0	0	0	A	2	0	3	0		0	1	6	0	
+0	0	0	P	2	0	3	0		0	2	11	0	
+1	0	0	#	2	4	7	0		3	3	4	0	
+0	1	13	S	2	4	7	1	SQUEAKS	1	4	3	0	
+0	0	0	Q	2	4	7	0		1	5	9	0	
+0	0	0	U	2	4	7	0		0	6	6	0	
+0	0	0	E	2	4	7	0		0	7	3	0	
+0	0	0	A	2	4	7	0		0	8	11	0	
+0	0	0	K	2	4	7	0		1	9	3	0	
+0	0	0	S	2	4	7	0		1	10	3	0	
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	14	C	3	1	6	1	CEREUS	0	1	6	0	
+0	0	0	E	3	1	6	0		0	2	11	0	
+0	1	15	R	3	1	6	0		3	3	4	1	ROBB
+0	0	0	E	3	1	6	0		1	4	3	0	
+0	0	0	U	3	1	6	0		1	5	9	0	
+0	0	0	S	3	1	6	0		0	6	6	0	
+1	0	0	#	3	8	3	0		4	7	4	0	
+0	1	16	R	3	8	3	1	RPT	0	8	11	0	
+0	0	0	P	3	8	3	0		1	9	3	0	
+0	0	0	T	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	I	4	1	3	1	IDO	0	1	6	0	
+0	0	0	D	4	1	3	0		0	2	11	0	
+0	0	0	O	4	1	3	0		3	3	4	0	
+1	0	0	#	4	5	4	0		5	4	6	0	
+0	1	18	A	4	5	4	1	ATAD	1	5	9	0	
+0	0	0	T	4	5	4	0		0	6	6	0	
+0	1	19	A	4	5	4	0		4	7	4	1	ATMO
+0	0	0	D	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	20	L	5	1	9	1	LIBERATES	0	1	6	0	
+0	0	0	I	5	1	9	0		0	2	11	0	
+0	0	0	B	5	1	9	0		3	3	4	0	
+0	1	21	E	5	1	9	0		5	4	6	1	EERILY
+0	0	0	R	5	1	9	0		1	5	9	0	
+0	0	0	A	5	1	9	0		0	6	6	0	
+0	0	0	T	5	1	9	0		4	7	4	0	
+0	0	0	E	5	1	9	0		0	8	11	0	
+0	1	22	S	5	1	9	0		5	9	6	1	SCAPED
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	4	0		7	1	3	0	
+0	1	23	A	6	2	4	1	ABEE	0	2	11	0	
+0	0	0	B	6	2	4	0		3	3	4	0	
+0	0	0	E	6	2	4	0		5	4	6	0	
+0	0	0	E	6	2	4	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	24	M	6	7	3	1	MDC	4	7	4	0	
+0	0	0	D	6	7	3	0		0	8	11	0	
+0	0	0	C	6	7	3	0		5	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	25	A	7	0	3	1	ATM	7	0	3	1	ARM
+0	1	26	T	7	0	3	0		7	1	3	1	THI
+0	0	0	M	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	6	0		8	3	3	0	
+0	1	27	R	7	4	6	1	RCCOLA	5	4	6	0	
+0	0	0	C	7	4	6	0		1	5	9	0	
+0	1	28	C	7	4	6	0		7	6	3	1	CMA
+0	0	0	O	7	4	6	0		4	7	4	0	
+0	0	0	L	7	4	6	0		0	8	11	0	
+0	0	0	A	7	4	6	0		5	9	6	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	29	R	8	0	7	1	RHODIUM	7	0	3	0	
+0	0	0	H	8	0	7	0		7	1	3	0	
+0	0	0	O	8	0	7	0		0	2	11	0	
+0	1	30	D	8	0	7	0		8	3	3	1	DOR
+0	0	0	I	8	0	7	0		5	4	6	0	
+0	0	0	U	8	0	7	0		1	5	9	0	
+0	0	0	M	8	0	7	0		7	6	3	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	31	A	8	8	3	1	APA	0	8	11	0	
+0	0	0	P	8	8	3	0		5	9	6	0	
+0	1	32	A	8	8	3	0		8	10	3	1	AAS
+0	1	33	M	9	0	7	1	MINOLTA	7	0	3	0	
+0	0	0	I	9	0	7	0		7	1	3	0	
+0	0	0	N	9	0	7	0		0	2	11	0	
+0	0	0	O	9	0	7	0		8	3	3	0	
+0	0	0	L	9	0	7	0		5	4	6	0	
+0	0	0	T	9	0	7	0		1	5	9	0	
+0	0	0	A	9	0	7	0		7	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	34	D	9	8	3	1	DEA	0	8	11	0	
+0	0	0	E	9	8	3	0		5	9	6	0	
+0	0	0	A	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	D	10	2	3	1	DRY	0	2	11	0	
+0	0	0	R	10	2	3	0		8	3	3	0	
+0	0	0	Y	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	Y	10	8	3	1	YDS	0	8	11	0	
+0	0	0	D	10	8	3	0		5	9	6	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+21
+1	HUH	"Whazzat?"
+4	FAB	"Groovy!"
+7	ERO	Handel cantata "___ e Leandro"
+8	ISRAELI	Labor Party member, maybe
+12	AAP	Store chain since 1859
+13	SQUEAKS	Trouble in the wind section
+14	CEREUS	Night-blooming cactus
+16	RPT	Sch. assignment
+17	IDO	Response to a minister
+18	ATAD	Not very much
+20	LIBERATES	Steals, slangily
+23	ABEE	"As brisk as ___ in conversation": Samuel Johnson
+24	MDC	Year in Elizabeth I's reign
+25	ATM	It goes through withdrawals
+27	RCCOLA	Dr Pepper alternative
+29	RHODIUM	Metal used in mirror coating
+31	APA	Shrinks' org.
+33	MINOLTA	Longtime name in photography
+34	DEA	Bust makers, for short
+35	DRY	Unsweetened
+36	YDS	Receiver's gains: Abbr.
+19
+1	HEA	"Isn't ___ bit like you and me?" (Beatles lyric)
+2	URACIL	RNA constituent
+3	HOPEDIAMOND	Famous large deep-blue rock
+4	FRUSTA	Truncated cones, in math
+5	AAE	"American Justice" network
+6	BEARDEDLADY	Sideshow staple
+8	ISE	Expert ending
+9	SQUARECUT	Like some diamonds
+10	LKP	British verb ending
+11	IST	Social addition
+15	ROBB	L.B.J. in-law
+19	ATMO	Prefix with meter or sphere
+21	EERILY	In a weird way
+22	SCAPED	Flew the coop, old-style
+25	ARM	Elbow's place
+26	THI	Summer comfort stat
+28	CMA	Org. with an annual televised awards ceremony
+30	DOR	Palme ___ (Cannes prize)
+32	AAS	Recovery grps.

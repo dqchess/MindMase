@@ -1,0 +1,305 @@
+grid_15x15_91
+15
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	R	0	1	3	1	RAI	0	1	7	1	REALLOT
+0	1	2	A	0	1	3	0		0	2	15	1	ANIMATEDCARTOON
+0	1	3	I	0	1	3	0		0	3	5	1	IGNIS
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	I	0	5	3	1	IVS	0	5	6	1	IHEART
+0	1	5	V	0	5	3	0		0	6	3	1	VED
+0	1	6	S	0	5	3	0		0	7	5	1	SEDUM
+1	0	0	#	0	9	0	0		1	8	9	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	H	0	10	3	1	HOW	0	10	3	1	HES
+0	1	8	O	0	10	3	0		0	11	4	1	OREO
+0	1	9	W	0	10	3	0		0	12	15	1	WERNERKLEMPERER
+1	0	0	#	0	14	0	0		1	13	6	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	3	0		2	0	4	0	
+0	1	10	E	1	1	3	1	ENG	0	1	7	0	
+0	0	0	N	1	1	3	0		0	2	15	0	
+0	0	0	G	1	1	3	0		0	3	5	0	
+1	0	0	#	1	5	4	0		2	4	4	0	
+0	1	11	H	1	5	4	1	HEED	0	5	6	0	
+0	0	0	E	1	5	4	0		0	6	3	0	
+0	0	0	E	1	5	4	0		0	7	5	0	
+0	1	12	D	1	5	4	0		1	8	9	1	DEEPSIXES
+1	0	0	#	1	10	4	0		2	9	4	0	
+0	1	13	E	1	10	4	1	EREI	0	10	3	0	
+0	0	0	R	1	10	4	0		0	11	4	0	
+0	0	0	E	1	10	4	0		0	12	15	0	
+0	1	14	I	1	10	4	0		1	13	6	1	ITSYOU
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	15	P	2	0	14	1	PAINTEDDESSERT	2	0	4	1	PEGL
+0	0	0	A	2	0	14	0		0	1	7	0	
+0	0	0	I	2	0	14	0		0	2	15	0	
+0	0	0	N	2	0	14	0		0	3	5	0	
+0	1	16	T	2	0	14	0		2	4	4	1	TRES
+0	0	0	E	2	0	14	0		0	5	6	0	
+0	0	0	D	2	0	14	0		0	6	3	0	
+0	0	0	D	2	0	14	0		0	7	5	0	
+0	0	0	E	2	0	14	0		1	8	9	0	
+0	1	17	S	2	0	14	0		2	9	4	1	SYST
+0	0	0	S	2	0	14	0		0	10	3	0	
+0	0	0	E	2	0	14	0		0	11	4	0	
+0	0	0	R	2	0	14	0		0	12	15	0	
+0	0	0	T	2	0	14	0		1	13	6	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	18	E	3	0	6	1	ELMIRA	2	0	4	0	
+0	0	0	L	3	0	6	0		0	1	7	0	
+0	0	0	M	3	0	6	0		0	2	15	0	
+0	0	0	I	3	0	6	0		0	3	5	0	
+0	0	0	R	3	0	6	0		2	4	4	0	
+0	0	0	A	3	0	6	0		0	5	6	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	19	U	3	7	3	1	UEY	0	7	5	0	
+0	0	0	E	3	7	3	0		1	8	9	0	
+0	0	0	Y	3	7	3	0		2	9	4	0	
+1	0	0	#	3	11	4	0		4	10	0	0	
+0	1	20	O	3	11	4	1	ONSE	0	11	4	0	
+0	0	0	N	3	11	4	0		0	12	15	0	
+0	0	0	S	3	11	4	0		1	13	6	0	
+0	1	21	E	3	11	4	0		3	14	3	1	EEN
+0	1	22	G	4	0	6	1	GLASER	2	0	4	0	
+0	0	0	L	4	0	6	0		0	1	7	0	
+0	0	0	A	4	0	6	0		0	2	15	0	
+0	0	0	S	4	0	6	0		0	3	5	0	
+0	0	0	E	4	0	6	0		2	4	4	0	
+0	0	0	R	4	0	6	0		0	5	6	0	
+1	0	0	#	4	7	3	0		5	6	9	0	
+0	1	23	M	4	7	3	1	MPS	0	7	5	0	
+0	0	0	P	4	7	3	0		1	8	9	0	
+0	0	0	S	4	7	3	0		2	9	4	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	24	E	4	12	3	1	EYE	0	12	15	0	
+0	0	0	Y	4	12	3	0		1	13	6	0	
+0	0	0	E	4	12	3	0		3	14	3	0	
+0	1	25	L	5	0	3	1	LOT	2	0	4	0	
+0	0	0	O	5	0	3	0		0	1	7	0	
+0	0	0	T	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	26	S	5	4	3	1	STO	2	4	4	0	
+0	0	0	T	5	4	3	0		0	5	6	0	
+0	1	27	O	5	4	3	0		5	6	9	1	OVULATION
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	28	S	5	8	3	1	STA	1	8	9	0	
+0	0	0	T	5	8	3	0		2	9	4	0	
+0	1	29	A	5	8	3	0		5	10	3	1	ABA
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	30	R	5	12	3	1	RON	0	12	15	0	
+0	0	0	O	5	12	3	0		1	13	6	0	
+0	0	0	N	5	12	3	0		3	14	3	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	31	T	6	1	3	1	TER	0	1	7	0	
+0	0	0	E	6	1	3	0		0	2	15	0	
+0	1	32	R	6	1	3	0		6	3	3	1	REL
+1	0	0	#	6	5	0	0		7	4	3	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	33	V	6	6	3	1	VII	5	6	9	0	
+0	1	34	I	6	6	3	0		6	7	3	1	ISO
+0	0	0	I	6	6	3	0		1	8	9	0	
+1	0	0	#	6	10	4	0		7	9	0	0	
+0	1	35	B	6	10	4	1	BAKU	5	10	3	0	
+0	1	36	A	6	10	4	0		6	11	3	1	ALG
+0	0	0	K	6	10	4	0		0	12	15	0	
+0	0	0	U	6	10	4	0		1	13	6	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	6	0	
+0	1	37	D	7	2	3	1	DEI	0	2	15	0	
+0	0	0	E	7	2	3	0		6	3	3	0	
+0	1	38	I	7	2	3	0		7	4	3	1	IIS
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	39	U	7	6	3	1	USX	5	6	9	0	
+0	0	0	S	7	6	3	0		6	7	3	0	
+0	0	0	X	7	6	3	0		1	8	9	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	40	A	7	10	3	1	ALL	5	10	3	0	
+0	0	0	L	7	10	3	0		6	11	3	0	
+0	0	0	L	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	41	M	8	1	4	1	MCLI	8	1	6	1	MANCHA
+0	0	0	C	8	1	4	0		0	2	15	0	
+0	0	0	L	8	1	4	0		6	3	3	0	
+0	0	0	I	8	1	4	0		7	4	3	0	
+1	0	0	#	8	6	3	0		9	5	4	0	
+0	1	42	L	8	6	3	1	LOE	5	6	9	0	
+0	0	0	O	8	6	3	0		6	7	3	0	
+0	0	0	E	8	6	3	0		1	8	9	0	
+1	0	0	#	8	10	0	0		9	9	6	0	
+1	0	0	#	8	11	3	0		9	10	4	0	
+0	1	43	G	8	11	3	1	GER	6	11	3	0	
+0	0	0	E	8	11	3	0		0	12	15	0	
+0	1	44	R	8	11	3	0		8	13	7	1	RUBDOWN
+1	0	0	#	8	15	0	0		9	14	4	0	
+0	1	45	Q	9	0	3	1	QAA	9	0	3	1	QJL
+0	0	0	A	9	0	3	0		8	1	6	0	
+0	0	0	A	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	46	S	9	4	3	1	SLA	7	4	3	0	
+0	1	47	L	9	4	3	0		9	5	4	1	LINT
+0	0	0	A	9	4	3	0		5	6	9	0	
+1	0	0	#	9	8	3	0		10	7	5	0	
+0	1	48	S	9	8	3	1	SOL	1	8	9	0	
+0	1	49	O	9	8	3	0		9	9	6	1	OCTAVE
+0	1	50	L	9	8	3	0		9	10	4	1	LAWS
+1	0	0	#	9	12	3	0		10	11	5	0	
+0	1	51	M	9	12	3	1	MUS	0	12	15	0	
+0	0	0	U	9	12	3	0		8	13	7	0	
+0	1	52	S	9	12	3	0		9	14	4	1	SSSS
+0	1	53	J	10	0	3	1	JNR	9	0	3	0	
+0	0	0	N	10	0	3	0		8	1	6	0	
+0	0	0	R	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	0	0		11	3	4	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	54	I	10	5	3	1	ITA	9	5	4	0	
+0	0	0	T	10	5	3	0		5	6	9	0	
+0	1	55	A	10	5	3	0		10	7	5	1	ATNOS
+1	0	0	#	10	9	6	0		11	8	0	0	
+0	1	56	C	10	9	6	1	CAMPBS	9	9	6	0	
+0	0	0	A	10	9	6	0		9	10	4	0	
+0	1	57	M	10	9	6	0		10	11	5	1	METRE
+0	0	0	P	10	9	6	0		0	12	15	0	
+0	0	0	B	10	9	6	0		8	13	7	0	
+0	0	0	S	10	9	6	0		9	14	4	0	
+0	1	58	L	11	0	4	1	LCTO	9	0	3	0	
+0	0	0	C	11	0	4	0		8	1	6	0	
+0	0	0	T	11	0	4	0		0	2	15	0	
+0	1	59	O	11	0	4	0		11	3	4	1	OURS
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	60	N	11	5	3	1	NIT	9	5	4	0	
+0	0	0	I	11	5	3	0		5	6	9	0	
+0	0	0	T	11	5	3	0		10	7	5	0	
+1	0	0	#	11	9	6	0		12	8	3	0	
+0	1	61	T	11	9	6	1	TWEEDS	9	9	6	0	
+0	0	0	W	11	9	6	0		9	10	4	0	
+0	0	0	E	11	9	6	0		10	11	5	0	
+0	0	0	E	11	9	6	0		0	12	15	0	
+0	0	0	D	11	9	6	0		8	13	7	0	
+0	0	0	S	11	9	6	0		9	14	4	0	
+1	0	0	#	12	1	14	0		13	0	0	0	
+0	1	62	H	12	1	14	1	HOUSTONCASTROS	8	1	6	0	
+0	0	0	O	12	1	14	0		0	2	15	0	
+0	0	0	U	12	1	14	0		11	3	4	0	
+0	1	63	S	12	1	14	0		12	4	3	1	SBA
+0	0	0	T	12	1	14	0		9	5	4	0	
+0	0	0	O	12	1	14	0		5	6	9	0	
+0	0	0	N	12	1	14	0		10	7	5	0	
+0	1	64	C	12	1	14	0		12	8	3	1	CTN
+0	0	0	A	12	1	14	0		9	9	6	0	
+0	0	0	S	12	1	14	0		9	10	4	0	
+0	0	0	T	12	1	14	0		10	11	5	0	
+0	0	0	R	12	1	14	0		0	12	15	0	
+0	0	0	O	12	1	14	0		8	13	7	0	
+0	0	0	S	12	1	14	0		9	14	4	0	
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	65	A	13	1	4	1	AORB	8	1	6	0	
+0	0	0	O	13	1	4	0		0	2	15	0	
+0	0	0	R	13	1	4	0		11	3	4	0	
+0	0	0	B	13	1	4	0		12	4	3	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	66	N	13	6	4	1	NOTV	5	6	9	0	
+0	0	0	O	13	6	4	0		10	7	5	0	
+0	0	0	T	13	6	4	0		12	8	3	0	
+0	0	0	V	13	6	4	0		9	9	6	0	
+1	0	0	#	13	11	3	0		14	10	0	0	
+0	1	67	R	13	11	3	1	REW	10	11	5	0	
+0	0	0	E	13	11	3	0		0	12	15	0	
+0	0	0	W	13	11	3	0		8	13	7	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	68	N	14	2	3	1	NSA	0	2	15	0	
+0	0	0	S	14	2	3	0		11	3	4	0	
+0	0	0	A	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	69	S	14	7	3	1	SNE	10	7	5	0	
+0	0	0	N	14	7	3	0		12	8	3	0	
+0	0	0	E	14	7	3	0		9	9	6	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	70	E	14	11	3	1	ERN	10	11	5	0	
+0	0	0	R	14	11	3	0		0	12	15	0	
+0	0	0	N	14	11	3	0		8	13	7	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+43
+1	RAI	Vessel for Thor Heyerdahl
+4	IVS	E.R. devices
+7	HOW	___-to
+10	ENG	Basic school subj.
+11	HEED	Mind
+13	EREI	"Dear mother Ida, harken ___ die" (Tennyson refrain)
+15	PAINTEDDESSERT	Ice cream as still life?
+18	ELMIRA	City SW of Ithaca
+19	UEY	Driver's 180
+20	ONSE	Beginning
+22	GLASER	Soul's 1970s TV co-star
+23	MPS	Mil. go-getters?
+24	EYE	See
+25	LOT	Tract
+26	STO	Scrap
+28	STA	Penn or Union: Abbr.
+30	RON	Guidry of the 70's-80's Yankees
+31	TER	Three times: Prefix
+33	VII	The King Henry who founded the Tudor dynasty
+35	BAKU	Capital of Azerbaijan
+37	DEI	Agnus ___
+39	USX	Fortune 500 steelmaker
+40	ALL	The lot
+41	MCLI	Mid 12th-century year
+42	LOE	Star of "Youngblood," 1986
+43	GER	Neighbor of Switz.
+45	QAA	Lecture follow-up
+46	SLA	1970s radical org.
+48	SOL	Our sun
+51	MUS	Lambda followers
+53	JNR	Dad's namesake: Abbr.
+54	ITA	Give-to-go filler
+56	CAMPBS	Name on a can
+58	LCTO	Time-share unit
+60	NIT	Coll. hoops competition
+61	TWEEDS	Some suits
+62	HOUSTONCASTROS	Some Cubans in Texas?
+65	AORB	Simple choice
+66	NOTV	Child's punishment, maybe
+67	REW	VCR button: Abbr.
+68	NSA	Hush-hush grp.
+69	SNE	1983 Indy winner Tom
+70	ERN	Directional ending
+33
+1	REALLOT	Divide up in a new way
+2	ANIMATEDCARTOON	"Toy Story," for one
+3	IGNIS	Top of a Roman candle?
+4	IHEART	Start of many a bumper sticker
+5	VED	Indian author ___ Mehta, a staff writer for The New Yorker for more than 30 years
+6	SEDUM	Rock garden herb
+7	HES	Cock and bull
+8	OREO	Nabisco item
+9	WERNERKLEMPERER	He played a monocled colonel in a sitcom
+12	DEEPSIXES	Throws in the trash
+14	ITSYOU	Song from "The Music Man" with the lyric "What words could be saner or truer or plainer"
+15	PEGL	Feature of many a pirate
+16	TRES	Uno + uno + uno
+17	SYST	DOS part: Abbr.
+21	EEN	Sundown, in sonnets
+27	OVULATION	Egg drop?
+29	ABA	Terza rima rhyme scheme
+32	REL	Islam, e.g.: Abbr.
+34	ISO	Prefix with metric
+36	ALG	Subj. with unknowns
+38	IIS	___ for iron
+41	MANCHA	End of a 1965-71 Broadway musical title
+44	RUBDOWN	Post-workout activity
+45	QJL	Ushered
+47	LINT	It may get the brush-off
+49	OCTAVE	Staff range
+50	LAWS	Doctor of ___ (degree)
+52	SSSS	Flat tire indicator
+55	ATNOS	B and O figures: Abbr.
+57	METRE	It's around a yard around Buckingham Palace
+59	OURS	Sharers' word
+63	SBA	Fed. loan agency
+64	CTN	Cigarette holder: Abbr.

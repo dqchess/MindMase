@@ -1,0 +1,241 @@
+grid_13x13_115
+13
+0	1	1	M	0	0	3	1	MII	0	0	4	1	MTST
+0	1	2	I	0	0	3	0		0	1	5	1	IWAIN
+0	1	3	I	0	0	3	0		0	2	13	1	IANBARLEYCORN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	M	0	5	3	1	MAS	0	5	5	1	MABEL
+0	1	5	A	0	5	3	0		0	6	3	1	ACS
+0	1	6	S	0	5	3	0		0	7	3	1	SEE
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	S	0	10	3	1	STR	0	10	13	1	SEEYOUINCOURT
+0	1	8	T	0	10	3	0		0	11	3	1	TEE
+0	1	9	R	0	10	3	0		0	12	3	1	RRS
+0	1	10	T	1	0	3	1	TWA	0	0	4	0	
+0	0	0	W	1	0	3	0		0	1	5	0	
+0	0	0	A	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	11	F	1	4	5	1	FACED	1	4	3	1	FAA
+0	0	0	A	1	4	5	0		0	5	5	0	
+0	0	0	C	1	4	5	0		0	6	3	0	
+0	0	0	E	1	4	5	0		0	7	3	0	
+0	1	12	D	1	4	5	0		1	8	3	1	DNH
+1	0	0	#	1	10	3	0		2	9	3	0	
+0	1	13	E	1	10	3	1	EER	0	10	13	0	
+0	0	0	E	1	10	3	0		0	11	3	0	
+0	0	0	R	1	10	3	0		0	12	3	0	
+0	1	14	S	2	0	3	1	SAN	0	0	4	0	
+0	0	0	A	2	0	3	0		0	1	5	0	
+0	0	0	N	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	9	0		3	3	3	0	
+0	1	15	A	2	4	9	1	ABSENTEES	1	4	3	0	
+0	0	0	B	2	4	9	0		0	5	5	0	
+0	0	0	S	2	4	9	0		0	6	3	0	
+0	0	0	E	2	4	9	0		0	7	3	0	
+0	0	0	N	2	4	9	0		1	8	3	0	
+0	1	16	T	2	4	9	0		2	9	3	1	TAP
+0	0	0	E	2	4	9	0		0	10	13	0	
+0	0	0	E	2	4	9	0		0	11	3	0	
+0	0	0	S	2	4	9	0		0	12	3	0	
+0	1	17	T	3	0	6	1	TIBIAE	0	0	4	0	
+0	0	0	I	3	0	6	0		0	1	5	0	
+0	0	0	B	3	0	6	0		0	2	13	0	
+0	1	18	I	3	0	6	0		3	3	3	1	IVS
+0	0	0	A	3	0	6	0		1	4	3	0	
+0	0	0	E	3	0	6	0		0	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	19	H	3	8	3	1	HAY	1	8	3	0	
+0	0	0	A	3	8	3	0		2	9	3	0	
+0	0	0	Y	3	8	3	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	3	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	20	N	4	1	3	1	NAV	0	1	5	0	
+0	0	0	A	4	1	3	0		0	2	13	0	
+0	0	0	V	4	1	3	0		3	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	21	L	4	5	3	1	LOU	0	5	5	0	
+0	1	22	O	4	5	3	0		4	6	5	1	OVATE
+0	1	23	U	4	5	3	0		4	7	3	1	UAT
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	24	P	4	9	4	1	PONS	2	9	3	0	
+0	0	0	O	4	9	4	0		0	10	13	0	
+0	1	25	N	4	9	4	0		4	11	3	1	NBS
+0	1	26	S	4	9	4	0		4	12	3	1	SUR
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	27	R	5	2	3	1	RST	0	2	13	0	
+0	0	0	S	5	2	3	0		3	3	3	0	
+0	1	28	T	5	2	3	0		5	4	3	1	TAC
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	29	V	5	6	3	1	VAN	4	6	5	0	
+0	0	0	A	5	6	3	0		4	7	3	0	
+0	1	30	N	5	6	3	0		5	8	3	1	NEE
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	31	U	5	10	3	1	UBU	0	10	13	0	
+0	0	0	B	5	10	3	0		4	11	3	0	
+0	0	0	U	5	10	3	0		4	12	3	0	
+0	1	32	D	6	0	3	1	DEL	6	0	3	1	DIN
+0	1	33	E	6	0	3	0		6	1	3	1	EVA
+0	0	0	L	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	34	A	6	4	5	1	AGATE	5	4	3	0	
+0	1	35	G	6	4	5	0		6	5	3	1	GES
+0	0	0	A	6	4	5	0		4	6	5	0	
+0	0	0	T	6	4	5	0		4	7	3	0	
+0	0	0	E	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	36	I	6	10	3	1	ISR	0	10	13	0	
+0	0	0	S	6	10	3	0		4	11	3	0	
+0	0	0	R	6	10	3	0		4	12	3	0	
+0	1	37	I	7	0	3	1	IVE	6	0	3	0	
+0	0	0	V	7	0	3	0		6	1	3	0	
+0	0	0	E	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	38	C	7	4	3	1	CET	5	4	3	0	
+0	0	0	E	7	4	3	0		6	5	3	0	
+0	0	0	T	7	4	3	0		4	6	5	0	
+1	0	0	#	7	8	3	0		8	7	5	0	
+0	1	39	E	7	8	3	1	ERN	5	8	3	0	
+0	1	40	R	7	8	3	0		7	9	3	1	RET
+0	0	0	N	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	41	N	8	0	4	1	NAYS	6	0	3	0	
+0	0	0	A	8	0	4	0		6	1	3	0	
+0	0	0	Y	8	0	4	0		0	2	13	0	
+0	1	42	S	8	0	4	0		8	3	3	1	SSR
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	43	S	8	5	3	1	SEC	6	5	3	0	
+0	0	0	E	8	5	3	0		4	6	5	0	
+0	1	44	C	8	5	3	0		8	7	5	1	CANNY
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	45	E	8	9	3	1	ECU	7	9	3	0	
+0	0	0	C	8	9	3	0		0	10	13	0	
+0	1	46	U	8	9	3	0		8	11	5	1	UNLED
+1	0	0	#	8	13	0	0		9	12	4	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	47	C	9	2	3	1	CSA	0	2	13	0	
+0	0	0	S	9	2	3	0		8	3	3	0	
+0	1	48	A	9	2	3	0		9	4	3	1	ATN
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	49	A	9	7	6	1	ALTONS	8	7	5	0	
+0	1	50	L	9	7	6	0		9	8	3	1	LES
+0	0	0	T	9	7	6	0		7	9	3	0	
+0	0	0	O	9	7	6	0		0	10	13	0	
+0	0	0	N	9	7	6	0		8	11	5	0	
+0	1	51	S	9	7	6	0		9	12	4	1	STES
+0	1	52	S	10	0	9	1	SHORTLINE	10	0	3	1	SEV
+0	1	53	H	10	0	9	0		10	1	3	1	HUE
+0	0	0	O	10	0	9	0		0	2	13	0	
+0	0	0	R	10	0	9	0		8	3	3	0	
+0	0	0	T	10	0	9	0		9	4	3	0	
+0	1	54	L	10	0	9	0		10	5	3	1	LED
+0	1	55	I	10	0	9	0		10	6	3	1	III
+0	0	0	N	10	0	9	0		8	7	5	0	
+0	0	0	E	10	0	9	0		9	8	3	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	56	U	10	10	3	1	ULT	0	10	13	0	
+0	0	0	L	10	10	3	0		8	11	5	0	
+0	0	0	T	10	10	3	0		9	12	4	0	
+0	1	57	E	11	0	3	1	EUR	10	0	3	0	
+0	0	0	U	11	0	3	0		10	1	3	0	
+0	0	0	R	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	5	0		12	3	0	0	
+0	1	58	N	11	4	5	1	NEINS	9	4	3	0	
+0	0	0	E	11	4	5	0		10	5	3	0	
+0	0	0	I	11	4	5	0		10	6	3	0	
+0	0	0	N	11	4	5	0		8	7	5	0	
+0	0	0	S	11	4	5	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	59	R	11	10	3	1	REE	0	10	13	0	
+0	0	0	E	11	10	3	0		8	11	5	0	
+0	0	0	E	11	10	3	0		9	12	4	0	
+0	1	60	V	12	0	3	1	VEN	10	0	3	0	
+0	0	0	E	12	0	3	0		10	1	3	0	
+0	0	0	N	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	61	D	12	5	3	1	DIY	10	5	3	0	
+0	0	0	I	12	5	3	0		10	6	3	0	
+0	0	0	Y	12	5	3	0		8	7	5	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	62	T	12	10	3	1	TDS	0	10	13	0	
+0	0	0	D	12	10	3	0		8	11	5	0	
+0	0	0	S	12	10	3	0		9	12	4	0	
+35
+1	MII	Early millennium year
+4	MAS	Bell and others
+7	STR	Water channel: Abbr.
+10	TWA	Its hub is in St. Louis
+11	FACED	Late-night beverage
+13	EER	Suffix with election
+14	SAN	Japanese name tag
+15	ABSENTEES	Some voters
+17	TIBIAE	Fibulae neighbors
+19	HAY	Makeshift rodeo seating
+20	NAV	Like certain engineers: Abbr.
+21	LOU	Rock's Reed
+24	PONS	Diva Lily
+27	RST	18 through 20, in a run
+29	VAN	Possible church school purchase
+31	UBU	"___ Roi" (Alfred Jarry play)
+32	DEL	"L'Oca ___ Cairo" (Mozart opera)
+34	AGATE	Playing marble
+36	ISR	Neighbor of Leb.
+37	IVE	"___ had enough"
+38	CET	This, to Th
+39	ERN	Sea eagle
+41	NAYS	Some floor votes
+43	SEC	Wine label word
+45	ECU	Antique French coin
+47	CSA	The Gray: Abbr.
+49	ALTONS	1904 presidential candidate Parker and others
+52	SHORTLINE	Pleasant sight at a supermarket checkout
+56	ULT	Maximum: Abbr.
+57	EUR	Where It.'s at
+58	NEINS	Dortmund denials
+59	REE	Riddle-me-___
+60	VEN	Title for one on the way to sainthood: Abbr.
+61	DIY	Like many a home improvement project, for short
+62	TDS	What Hail Mary passes rarely result in, briefly
+33
+1	MTST	___ Mary's (L.A. college)
+2	IWAIN	Cry at a poker game, maybe
+3	IANBARLEYCORN	Malt liquor man in Glasgow?
+4	MABEL	Silents actress Normand
+5	ACS	Windows may have them, briefly
+6	SEE	"Get it?"
+7	SEEYOUINCOURT	Words from one who won't settle
+8	TEE	Driving aid
+9	RRS	They have strong ties: Abbr.
+11	FAA	Airways-regulating org.
+12	DNH	Letters after Gov. Jeanne Shaheen's name
+16	TAP	Spigot
+18	IVS	I.C.U. hookups
+22	OVATE	Humpty Dumpty-shaped
+23	UAT	Awake by
+25	NBS	Measurements overseer: Abbr.
+26	SUR	Modern name of Tyre
+28	TAC	Part of a game win
+30	NEE	Part of an extended name
+32	DIN	Roar
+33	EVA	A Per
+35	GES	Some dishwashers, for short
+40	RET	Abbr. after a general's name, maybe
+42	SSR	Old geographical inits.
+44	CANNY	Sharp
+46	UNLED	Proceeding independently
+48	ATN	When some stores open
+50	LES	1984 film "___ Comp
+51	STES	Fr. honorees: Abbr.
+52	SEV	Unspecified no.
+53	HUE	Lilac or lemon, e.g.
+54	LED	Opened with
+55	III	It's right on a clock

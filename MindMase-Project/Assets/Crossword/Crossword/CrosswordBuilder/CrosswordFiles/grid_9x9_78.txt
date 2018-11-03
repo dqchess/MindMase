@@ -1,0 +1,115 @@
+grid_9x9_78
+9
+0	1	1	Z	0	0	3	1	ZOE	0	0	3	1	ZAP
+0	1	2	O	0	0	3	0		0	1	3	1	ORL
+0	1	3	E	0	0	3	0		0	2	3	1	EOE
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SEC	0	6	5	1	SAMEO
+0	1	5	E	0	6	3	0		0	7	5	1	EYESL
+0	1	6	C	0	6	3	0		0	8	3	1	CNS
+0	1	7	A	1	0	5	1	AROLE	0	0	3	0	
+0	0	0	R	1	0	5	0		0	1	3	0	
+0	0	0	O	1	0	5	0		0	2	3	0	
+0	1	8	L	1	0	5	0		1	3	5	1	LBARS
+0	1	9	E	1	0	5	0		1	4	7	1	EERIEST
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	A	1	6	3	1	AYN	0	6	5	0	
+0	0	0	Y	1	6	3	0		0	7	5	0	
+0	0	0	N	1	6	3	0		0	8	3	0	
+0	1	11	P	2	0	5	1	PLEBE	0	0	3	0	
+0	0	0	L	2	0	5	0		0	1	3	0	
+0	0	0	E	2	0	5	0		0	2	3	0	
+0	0	0	B	2	0	5	0		1	3	5	0	
+0	0	0	E	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	M	2	6	3	1	MES	0	6	5	0	
+0	0	0	E	2	6	3	0		0	7	5	0	
+0	0	0	S	2	6	3	0		0	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	5	0		4	2	5	0	
+0	1	13	A	3	3	5	1	ARIES	1	3	5	0	
+0	0	0	R	3	3	5	0		1	4	7	0	
+0	1	14	I	3	3	5	0		3	5	5	1	ITRIP
+0	0	0	E	3	3	5	0		0	6	5	0	
+0	0	0	S	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	15	G	4	1	7	1	GERITOL	4	1	5	1	GLOOM
+0	1	16	E	4	1	7	0		4	2	5	1	EATEN
+0	0	0	R	4	1	7	0		1	3	5	0	
+0	0	0	I	4	1	7	0		1	4	7	0	
+0	0	0	T	4	1	7	0		3	5	5	0	
+0	0	0	O	4	1	7	0		0	6	5	0	
+0	0	0	L	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	17	L	5	1	5	1	LASER	4	1	5	0	
+0	0	0	A	5	1	5	0		4	2	5	0	
+0	0	0	S	5	1	5	0		1	3	5	0	
+0	0	0	E	5	1	5	0		1	4	7	0	
+0	0	0	R	5	1	5	0		3	5	5	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	G	6	0	3	1	GOT	6	0	3	1	GRO
+0	0	0	O	6	0	3	0		4	1	5	0	
+0	0	0	T	6	0	3	0		4	2	5	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	19	S	6	4	5	1	SITKA	1	4	7	0	
+0	0	0	I	6	4	5	0		3	5	5	0	
+0	1	20	T	6	4	5	0		6	6	3	1	TIR
+0	1	21	K	6	4	5	0		6	7	3	1	KKK
+0	1	22	A	6	4	5	0		6	8	3	1	AEC
+0	1	23	R	7	0	3	1	ROE	6	0	3	0	
+0	0	0	O	7	0	3	0		4	1	5	0	
+0	0	0	E	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	T	7	4	5	1	TPIKE	1	4	7	0	
+0	0	0	P	7	4	5	0		3	5	5	0	
+0	0	0	I	7	4	5	0		6	6	3	0	
+0	0	0	K	7	4	5	0		6	7	3	0	
+0	0	0	E	7	4	5	0		6	8	3	0	
+0	1	25	O	8	0	3	1	OMN	6	0	3	0	
+0	0	0	M	8	0	3	0		4	1	5	0	
+0	0	0	N	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	R	8	6	3	1	RKC	6	6	3	0	
+0	0	0	K	8	6	3	0		6	7	3	0	
+0	0	0	C	8	6	3	0		6	8	3	0	
+15
+1	ZOE	Playwright Akins
+4	SEC	"Hold on a ___"
+7	AROLE	Play ___ in (be involved with)
+10	AYN	Novelist Rand
+11	PLEBE	Academy newcomer
+12	MES	Mayo, e.g.
+13	ARIES	This comes in as March goes out
+15	GERITOL	Multivitamin product
+17	LASER	Hologram illuminator
+18	GOT	Came down with
+19	SITKA	University of Alaska Southeast campus site
+23	ROE	Small deer
+24	TPIKE	Part of a pay-as-you-go plan?
+25	OMN	All: Prefix
+26	RKC	QB Manning
+15
+1	ZAP	Microwave
+2	ORL	Magic on a scoreboard?
+3	EOE	Want-ad letters
+4	SAMEO	Unaltered
+5	EYESL	"Look west," to a drill sergeant
+6	CNS	Brain and spinal cord: Abbr.
+8	LBARS	Some construction beams
+9	EERIEST	Like H. P. Lovecraft among all popular writers?
+14	ITRIP	"Let ___!" ("Go ahead!")
+15	GLOOM	Opposite of cheer
+16	EATEN	In the stomach
+18	GRO	Miracle-___ (garden care brand)
+20	TIR	French shooting match
+21	KKK	Hateful org.
+22	AEC	Former govt. agcy. formed after W.W. II

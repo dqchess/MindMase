@@ -1,0 +1,235 @@
+grid_13x13_197
+13
+0	1	1	U	0	0	3	1	UZI	0	0	3	1	UAL
+0	1	2	Z	0	0	3	0		0	1	3	1	ZSA
+0	1	3	I	0	0	3	0		0	2	3	1	IAT
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	B	0	5	3	1	BEL	0	5	4	1	BEEF
+0	1	5	E	0	5	3	0		0	6	3	1	EDW
+0	1	6	L	0	5	3	0		0	7	7	1	LESTOIL
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	5	0	
+0	1	7	G	0	10	3	1	GEE	0	10	9	1	GIBRALTAR
+0	1	8	E	0	10	3	0		0	11	5	1	ETHEL
+0	1	9	E	0	10	3	0		0	12	4	1	EARS
+0	1	10	A	1	0	4	1	ASAD	0	0	3	0	
+0	0	0	S	1	0	4	0		0	1	3	0	
+0	0	0	A	1	0	4	0		0	2	3	0	
+0	1	11	D	1	0	4	0		1	3	5	1	DESED
+1	0	0	#	1	5	3	0		2	4	3	0	
+0	1	12	E	1	5	3	1	EDE	0	5	4	0	
+0	0	0	D	1	5	3	0		0	6	3	0	
+0	0	0	E	1	5	3	0		0	7	7	0	
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	13	H	1	9	4	1	HITA	1	9	5	1	HARTS
+0	0	0	I	1	9	4	0		0	10	9	0	
+0	0	0	T	1	9	4	0		0	11	5	0	
+0	0	0	A	1	9	4	0		0	12	4	0	
+0	1	14	L	2	0	8	1	LATENEWS	0	0	3	0	
+0	0	0	A	2	0	8	0		0	1	3	0	
+0	0	0	T	2	0	8	0		0	2	3	0	
+0	0	0	E	2	0	8	0		1	3	5	0	
+0	1	15	N	2	0	8	0		2	4	3	1	NUL
+0	0	0	E	2	0	8	0		0	5	4	0	
+0	0	0	W	2	0	8	0		0	6	3	0	
+0	0	0	S	2	0	8	0		0	7	7	0	
+1	0	0	#	2	9	4	0		3	8	4	0	
+0	1	16	A	2	9	4	1	ABHR	1	9	5	0	
+0	0	0	B	2	9	4	0		0	10	9	0	
+0	0	0	H	2	9	4	0		0	11	5	0	
+0	0	0	R	2	9	4	0		0	12	4	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	3	0	
+1	0	0	#	3	3	3	0		4	2	9	0	
+0	1	17	S	3	3	3	1	SUF	1	3	5	0	
+0	0	0	U	3	3	3	0		2	4	3	0	
+0	0	0	F	3	3	3	0		0	5	4	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	18	T	3	7	6	1	TORRES	0	7	7	0	
+0	1	19	O	3	7	6	0		3	8	4	1	ORES
+0	0	0	R	3	7	6	0		1	9	5	0	
+0	0	0	R	3	7	6	0		0	10	9	0	
+0	0	0	E	3	7	6	0		0	11	5	0	
+0	0	0	S	3	7	6	0		0	12	4	0	
+0	1	20	L	4	0	5	1	LAPEL	4	0	3	1	LAK
+0	1	21	A	4	0	5	0		4	1	3	1	ARU
+0	1	22	P	4	0	5	0		4	2	9	1	POMPADOUR
+0	0	0	E	4	0	5	0		1	3	5	0	
+0	0	0	L	4	0	5	0		2	4	3	0	
+1	0	0	#	4	6	6	0		5	5	0	0	
+0	1	23	A	4	6	6	1	AORTAL	4	6	5	1	ALLSS
+0	0	0	O	4	6	6	0		0	7	7	0	
+0	0	0	R	4	6	6	0		3	8	4	0	
+0	0	0	T	4	6	6	0		1	9	5	0	
+0	0	0	A	4	6	6	0		0	10	9	0	
+0	0	0	L	4	6	6	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	24	A	5	0	4	1	AROD	4	0	3	0	
+0	0	0	R	5	0	4	0		4	1	3	0	
+0	0	0	O	5	0	4	0		4	2	9	0	
+0	0	0	D	5	0	4	0		1	3	5	0	
+1	0	0	#	5	5	0	0		6	4	4	0	
+1	0	0	#	5	6	5	0		6	5	7	0	
+0	1	25	L	5	6	5	1	LIESL	4	6	5	0	
+0	0	0	I	5	6	5	0		0	7	7	0	
+0	0	0	E	5	6	5	0		3	8	4	0	
+0	0	0	S	5	6	5	0		1	9	5	0	
+0	0	0	L	5	6	5	0		0	10	9	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	26	K	6	0	3	1	KUM	4	0	3	0	
+0	0	0	U	6	0	3	0		4	1	3	0	
+0	0	0	M	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	27	C	6	4	5	1	CELLS	6	4	4	1	CADY
+0	1	28	E	6	4	5	0		6	5	7	1	ETESIAN
+0	0	0	L	6	4	5	0		4	6	5	0	
+0	0	0	L	6	4	5	0		0	7	7	0	
+0	0	0	S	6	4	5	0		3	8	4	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	29	T	6	10	3	1	TBA	0	10	9	0	
+0	1	30	B	6	10	3	0		6	11	3	1	BMI
+0	1	31	A	6	10	3	0		6	12	3	1	APE
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	5	0		8	1	5	0	
+0	1	32	P	7	2	5	1	PEATS	4	2	9	0	
+0	1	33	E	7	2	5	0		7	3	5	1	ERAOF
+0	0	0	A	7	2	5	0		6	4	4	0	
+0	0	0	T	7	2	5	0		6	5	7	0	
+0	0	0	S	7	2	5	0		4	6	5	0	
+1	0	0	#	7	8	0	0		8	7	0	0	
+1	0	0	#	7	9	4	0		8	8	3	0	
+0	1	34	L	7	9	4	1	LAMP	7	9	5	1	LEEZA
+0	0	0	A	7	9	4	0		0	10	9	0	
+0	0	0	M	7	9	4	0		6	11	3	0	
+0	0	0	P	7	9	4	0		6	12	3	0	
+1	0	0	#	8	1	6	0		9	0	4	0	
+0	1	35	T	8	1	6	1	TARDES	8	1	5	1	TOBEY
+0	0	0	A	8	1	6	0		4	2	9	0	
+0	0	0	R	8	1	6	0		7	3	5	0	
+0	0	0	D	8	1	6	0		6	4	4	0	
+0	0	0	E	8	1	6	0		6	5	7	0	
+0	0	0	S	8	1	6	0		4	6	5	0	
+1	0	0	#	8	8	5	0		9	7	4	0	
+0	1	36	A	8	8	5	1	AERIE	8	8	3	1	ALI
+0	0	0	E	8	8	5	0		7	9	5	0	
+0	0	0	R	8	8	5	0		0	10	9	0	
+0	0	0	I	8	8	5	0		6	11	3	0	
+0	0	0	E	8	8	5	0		6	12	3	0	
+0	1	37	T	9	0	6	1	TODAYS	9	0	4	1	TANT
+0	0	0	O	9	0	6	0		8	1	5	0	
+0	0	0	D	9	0	6	0		4	2	9	0	
+0	0	0	A	9	0	6	0		7	3	5	0	
+0	0	0	Y	9	0	6	0		6	4	4	0	
+0	0	0	S	9	0	6	0		6	5	7	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	38	I	9	7	3	1	ILE	9	7	4	1	INRO
+0	0	0	L	9	7	3	0		8	8	3	0	
+0	0	0	E	9	7	3	0		7	9	5	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	39	A	10	0	4	1	ABOO	9	0	4	0	
+0	0	0	B	10	0	4	0		8	1	5	0	
+0	0	0	O	10	0	4	0		4	2	9	0	
+0	0	0	O	10	0	4	0		7	3	5	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	40	I	10	5	8	1	IONIZING	6	5	7	0	
+0	1	41	O	10	5	8	0		10	6	3	1	ORC
+0	0	0	N	10	5	8	0		9	7	4	0	
+0	0	0	I	10	5	8	0		8	8	3	0	
+0	0	0	Z	10	5	8	0		7	9	5	0	
+0	1	42	I	10	5	8	0		10	10	3	1	ILK
+0	1	43	N	10	5	8	0		10	11	3	1	NOT
+0	1	44	G	10	5	8	0		10	12	3	1	GPS
+0	1	45	N	11	0	4	1	NEUF	9	0	4	0	
+0	0	0	E	11	0	4	0		8	1	5	0	
+0	0	0	U	11	0	4	0		4	2	9	0	
+0	0	0	F	11	0	4	0		7	3	5	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	46	A	11	5	3	1	ARR	6	5	7	0	
+0	0	0	R	11	5	3	0		10	6	3	0	
+0	0	0	R	11	5	3	0		9	7	4	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	47	A	11	9	4	1	ALOP	7	9	5	0	
+0	0	0	L	11	9	4	0		10	10	3	0	
+0	0	0	O	11	9	4	0		10	11	3	0	
+0	0	0	P	11	9	4	0		10	12	3	0	
+0	1	48	T	12	0	3	1	TYR	9	0	4	0	
+0	0	0	Y	12	0	3	0		8	1	5	0	
+0	0	0	R	12	0	3	0		4	2	9	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	49	N	12	5	3	1	NCO	6	5	7	0	
+0	0	0	C	12	5	3	0		10	6	3	0	
+0	0	0	O	12	5	3	0		9	7	4	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	K	12	10	3	1	KTS	10	10	3	0	
+0	0	0	T	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+31
+1	UZI	Submachine gun
+4	BEL	Air or ami preceder
+7	GEE	Cousin of "hmmm!"
+10	ASAD	"___ tale's best for winter": Shak.
+12	EDE	Dutch piano center
+13	HITA	___ run of bad luck
+14	LATENEWS	Breaking items?
+16	ABHR	Can't take
+17	SUF	"-er" or "-ing," e.g.: Abbr.
+18	TORRES	Hector or Rusty of 70's baseball
+20	LAPEL	Pin site
+23	AORTAL	Relating to a blood line
+24	AROD	10-time Silver Slugger Award winner, familiarly
+25	LIESL	Von Trapp girl who's "sixteen going on seventeen"
+26	KUM	"___ Ba Yah" (campfire song)
+27	CELLS	Lockup lineup
+29	TBA	Sched. "question mark"
+32	PEATS	Fossil fuel blocks
+34	LAMP	Camper's purchase
+35	TARDES	"Buenas ___" (Spanish greeting)
+36	AERIE	Condor's nest
+37	TODAYS	___ special
+38	ILE	Project conclusion?
+39	ABOO	"Peek-___"
+40	IONIZING	Like some radiation
+45	NEUF	Dix preceder
+46	ARR	The "A" in E.T.A.: Abbr.
+47	ALOP	Out of balance
+48	TYR	Norse god of strife
+49	NCO	G.I. with chevrons
+50	KTS	Some chess pieces: Abbr.
+31
+1	UAL	Initials at O'Hare
+2	ZSA	Eva's half sister?
+3	IAT	"Am ___ risk?"
+4	BEEF	Steak or ground round
+5	EDW	Part of P.E.I.: Abbr.
+6	LESTOIL	Clorox company household cleaner
+7	GIBRALTAR	Impregnable stronghold
+8	ETHEL	Singer Waters
+9	EARS	Contents of some farm bushels
+11	DESED	Popular
+13	HARTS	Does' mates
+15	NUL	Void: Fr.
+19	ORES	They could use refinement
+20	LAK	"Mighty ___ a Rose"
+21	ARU	Indonesia's ___ Islands
+22	POMPADOUR	Elvis Presley feature
+23	ALLSS	Special team
+27	CADY	Women's rights pioneer Elizabeth ___ Stanton
+28	ETESIAN	Summer wind in the Mediterranean
+30	BMI	Record industry inits.
+31	APE	Barbary ___
+33	ERAOF	___ Good Feelings
+34	LEEZA	Gibbons of TV talk
+35	TOBEY	"White Writing" painter Mark
+36	ALI	Noted convert to Islam in 1964
+37	TANT	"Your mother wears army boots!," e.g.
+38	INRO	Obi accessory
+41	ORC	Fabulous monster
+42	ILK	Family of things
+43	NOT	"___ likely!"
+44	GPS	Navigational gizmo

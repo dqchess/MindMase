@@ -1,0 +1,235 @@
+grid_13x13_102
+13
+0	1	1	S	0	0	3	1	SOR	0	0	3	1	SIB
+0	1	2	O	0	0	3	0		0	1	4	1	OBLA
+0	1	3	R	0	0	3	0		0	2	4	1	RITT
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	3	0		1	5	6	0	
+0	1	4	G	0	6	3	1	GNP	0	6	4	1	GILD
+0	1	5	N	0	6	3	0		0	7	5	1	NCAAS
+0	1	6	P	0	6	3	0		0	8	5	1	PEONY
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	P	0	10	3	1	PSI	0	10	8	1	PRESUMES
+0	1	8	S	0	10	3	0		0	11	3	1	SPA
+0	1	9	I	0	10	3	0		0	12	3	1	ISL
+0	1	10	I	1	0	3	1	IBI	0	0	3	0	
+0	0	0	B	1	0	3	0		0	1	4	0	
+0	0	0	I	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	11	T	1	4	5	1	TRICE	1	4	5	1	THEYS
+0	1	12	R	1	4	5	0		1	5	6	1	RUNLOW
+0	0	0	I	1	4	5	0		0	6	4	0	
+0	0	0	C	1	4	5	0		0	7	5	0	
+0	0	0	E	1	4	5	0		0	8	5	0	
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	13	R	1	10	3	1	RPS	0	10	8	0	
+0	0	0	P	1	10	3	0		0	11	3	0	
+0	0	0	S	1	10	3	0		0	12	3	0	
+0	1	14	B	2	0	3	1	BLT	0	0	3	0	
+0	0	0	L	2	0	3	0		0	1	4	0	
+0	0	0	T	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	5	0		3	3	3	0	
+0	1	15	H	2	4	5	1	HULAO	1	4	5	0	
+0	0	0	U	2	4	5	0		1	5	6	0	
+0	0	0	L	2	4	5	0		0	6	4	0	
+0	0	0	A	2	4	5	0		0	7	5	0	
+0	0	0	O	2	4	5	0		0	8	5	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	16	E	2	10	3	1	EAL	0	10	8	0	
+0	0	0	A	2	10	3	0		0	11	3	0	
+0	0	0	L	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	10	0		4	0	0	0	
+0	1	17	A	3	1	10	1	ATTENDANTS	0	1	4	0	
+0	0	0	T	3	1	10	0		0	2	4	0	
+0	1	18	T	3	1	10	0		3	3	3	1	TOY
+0	0	0	E	3	1	10	0		1	4	5	0	
+0	0	0	N	3	1	10	0		1	5	6	0	
+0	0	0	D	3	1	10	0		0	6	4	0	
+0	0	0	A	3	1	10	0		0	7	5	0	
+0	0	0	N	3	1	10	0		0	8	5	0	
+0	1	19	T	3	1	10	0		3	9	3	1	TRI
+0	0	0	S	3	1	10	0		0	10	8	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	8	0	
+0	1	20	O	4	3	3	1	OYL	3	3	3	0	
+0	0	0	Y	4	3	3	0		1	4	5	0	
+0	0	0	L	4	3	3	0		1	5	6	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	21	S	4	7	6	1	SYRUPY	0	7	5	0	
+0	0	0	Y	4	7	6	0		0	8	5	0	
+0	0	0	R	4	7	6	0		3	9	3	0	
+0	0	0	U	4	7	6	0		0	10	8	0	
+0	1	22	P	4	7	6	0		4	11	4	1	PURE
+0	1	23	Y	4	7	6	0		4	12	3	1	YSL
+1	0	0	#	5	1	6	0		6	0	3	0	
+0	1	24	S	5	1	6	1	SAYSOK	5	1	4	1	SLOG
+0	1	25	A	5	1	6	0		5	2	8	1	AEROFOIL
+0	0	0	Y	5	1	6	0		3	3	3	0	
+0	0	0	S	5	1	6	0		1	4	5	0	
+0	0	0	O	5	1	6	0		1	5	6	0	
+0	1	26	K	5	1	6	0		5	6	3	1	KYD
+1	0	0	#	5	8	0	0		6	7	6	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	27	I	5	9	4	1	IMUS	3	9	3	0	
+0	0	0	M	5	9	4	0		0	10	8	0	
+0	0	0	U	5	9	4	0		4	11	4	0	
+0	0	0	S	5	9	4	0		4	12	3	0	
+0	1	28	A	6	0	3	1	ALE	6	0	3	1	AXE
+0	0	0	L	6	0	3	0		5	1	4	0	
+0	0	0	E	6	0	3	0		5	2	8	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	29	W	6	5	3	1	WYE	1	5	6	0	
+0	0	0	Y	6	5	3	0		5	6	3	0	
+0	1	30	E	6	5	3	0		6	7	6	1	EELERY
+1	0	0	#	6	9	0	0		7	8	5	0	
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	31	E	6	10	3	1	ERL	0	10	8	0	
+0	0	0	R	6	10	3	0		4	11	4	0	
+0	0	0	L	6	10	3	0		4	12	3	0	
+0	1	32	X	7	0	4	1	XORO	6	0	3	0	
+0	0	0	O	7	0	4	0		5	1	4	0	
+0	0	0	R	7	0	4	0		5	2	8	0	
+0	1	33	O	7	0	4	0		7	3	3	1	OYE
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	6	0		8	5	5	0	
+0	1	34	D	7	6	6	1	DEMISE	5	6	3	0	
+0	0	0	E	7	6	6	0		6	7	6	0	
+0	1	35	M	7	6	6	0		7	8	5	1	MURES
+0	1	36	I	7	6	6	0		7	9	3	1	IMB
+0	0	0	S	7	6	6	0		0	10	8	0	
+0	0	0	E	7	6	6	0		4	11	4	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	37	E	8	0	6	1	EGOYAN	6	0	3	0	
+0	0	0	G	8	0	6	0		5	1	4	0	
+0	0	0	O	8	0	6	0		5	2	8	0	
+0	0	0	Y	8	0	6	0		7	3	3	0	
+0	1	38	A	8	0	6	0		8	4	5	1	AAHED
+0	1	39	N	8	0	6	0		8	5	5	1	NTEST
+1	0	0	#	8	7	3	0		9	6	4	0	
+0	1	40	L	8	7	3	1	LUM	6	7	6	0	
+0	0	0	U	8	7	3	0		7	8	5	0	
+0	0	0	M	8	7	3	0		7	9	3	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	10	0		10	1	3	0	
+0	1	41	F	9	2	10	1	FEATHERBOA	5	2	8	0	
+0	0	0	E	9	2	10	0		7	3	3	0	
+0	0	0	A	9	2	10	0		8	4	5	0	
+0	0	0	T	9	2	10	0		8	5	5	0	
+0	1	42	H	9	2	10	0		9	6	4	1	HUPS
+0	0	0	E	9	2	10	0		6	7	6	0	
+0	0	0	R	9	2	10	0		7	8	5	0	
+0	0	0	B	9	2	10	0		7	9	3	0	
+0	1	43	O	9	2	10	0		9	10	4	1	OMAR
+0	1	44	A	9	2	10	0		9	11	4	1	APOP
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	N	10	0	3	1	NOO	10	0	3	1	NIA
+0	1	46	O	10	0	3	0		10	1	3	1	OID
+0	0	0	O	10	0	3	0		5	2	8	0	
+1	0	0	#	10	4	5	0		11	3	0	0	
+0	1	47	H	10	4	5	1	HEURE	8	4	5	0	
+0	0	0	E	10	4	5	0		8	5	5	0	
+0	0	0	U	10	4	5	0		9	6	4	0	
+0	0	0	R	10	4	5	0		6	7	6	0	
+0	0	0	E	10	4	5	0		7	8	5	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	48	M	10	10	3	1	MPG	9	10	4	0	
+0	0	0	P	10	10	3	0		9	11	4	0	
+0	1	49	G	10	10	3	0		10	12	3	1	GLI
+0	1	50	I	11	0	3	1	III	10	0	3	0	
+0	0	0	I	11	0	3	0		10	1	3	0	
+0	0	0	I	11	0	3	0		5	2	8	0	
+1	0	0	#	11	4	5	0		12	3	0	0	
+0	1	51	E	11	4	5	1	ESPYS	8	4	5	0	
+0	0	0	S	11	4	5	0		8	5	5	0	
+0	0	0	P	11	4	5	0		9	6	4	0	
+0	0	0	Y	11	4	5	0		6	7	6	0	
+0	0	0	S	11	4	5	0		7	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	A	11	10	3	1	AOL	9	10	4	0	
+0	0	0	O	11	10	3	0		9	11	4	0	
+0	0	0	L	11	10	3	0		10	12	3	0	
+0	1	53	A	12	0	3	1	ADL	10	0	3	0	
+0	0	0	D	12	0	3	0		10	1	3	0	
+0	0	0	L	12	0	3	0		5	2	8	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	54	D	12	4	3	1	DTS	8	4	5	0	
+0	0	0	T	12	4	3	0		8	5	5	0	
+0	0	0	S	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	R	12	10	3	1	RPI	9	10	4	0	
+0	0	0	P	12	10	3	0		9	11	4	0	
+0	0	0	I	12	10	3	0		10	12	3	0	
+31
+1	SOR	Frat. counterpart
+4	GNP	Econ. datum
+7	PSI	Inflation measure?: Abbr.
+10	IBI	There: Lat.
+11	TRICE	Instant
+13	RPS	Very quick rotation meas.
+14	BLT	Lunch sandwich, for short
+15	HULAO	1950s fad item
+16	EAL	Suffix with ether
+17	ATTENDANTS	Retinue
+20	OYL	Olive in the comics
+21	SYRUPY	Mawkish
+24	SAYSOK	Assents
+27	IMUS	Don of morning radio
+28	ALE	Malted drink that's not a malted
+29	WYE	___ Accord (1998 Mideast peace agreement)
+31	ERL	Goethe's "The ___-King"
+32	XORO	Tic-tac-toe choice
+34	DEMISE	Death
+37	EGOYAN	"Ararat" director, 2002
+40	LUM	Abner's partner in old radio
+41	FEATHERBOA	It's a wrap
+45	NOO	Emergency call
+47	HEURE	3,600 secondes
+48	MPG	Fuel economy stat.
+50	III	Caesar's three
+51	ESPYS	Awards show with a Best Play category, with "the"
+52	AOL	Choice for chat
+53	ADL	B'nai B'rith watchdog org.
+54	DTS	Toper's woe
+55	RPI	Univ. in Troy, N.Y.
+31
+1	SIB	Close relative
+2	OBLA	Di or da preceder in a Beatles song
+3	RITT	"The Sound and the Fury" director
+4	GILD	Embellish
+5	NCAAS	Big tournaments for university teams, informally
+6	PEONY	Indiana's state flower
+7	PRESUMES	Takes for granted
+8	SPA	Baden-Baden, for one
+9	ISL	Archipelago unit: Abbr.
+11	THEYS	Bridge opponents
+12	RUNLOW	Be almost out
+18	TOY	Cracker Jack surprise
+19	TRI	Start of some cycles?
+22	PURE	Like the driven snow
+23	YSL	Couturier's monogram
+24	SLOG	Work long and hard
+25	AEROFOIL	Part of a British Airways jet
+26	KYD	"The Spanish Tragedy" dramatist
+28	AXE	Lumberjacking tool
+30	EELERY	Where to catch a moray
+33	OYE	"___ Como Va" (1971 Santana hit)
+35	MURES	Fertilizes
+36	IMB	Popular film Web site, briefly
+38	AAHED	Emitted a contented sigh
+39	NTEST	Bygone explosion, in headlines
+42	HUPS	Cadence sounds
+43	OMAR	Gen. Bradley
+44	APOP	Singly
+45	NIA	Pop singer Peeples
+46	OID	Human tail?
+49	GLI	Les : French :: ___ : Italian

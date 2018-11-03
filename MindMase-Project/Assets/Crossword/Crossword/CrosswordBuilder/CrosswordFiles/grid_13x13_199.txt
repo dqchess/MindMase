@@ -1,0 +1,233 @@
+grid_13x13_199
+13
+0	1	1	K	0	0	3	1	KMS	0	0	3	1	KIL
+0	1	2	M	0	0	3	0		0	1	3	1	MDI
+0	1	3	S	0	0	3	0		0	2	3	1	SIG
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	I	0	4	3	1	ION	0	4	4	1	INTD
+0	1	5	O	0	4	3	0		0	5	4	1	OISE
+0	1	6	N	0	4	3	0		0	6	4	1	NEWT
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	D	0	8	3	1	DAN	0	8	3	1	DET
+0	1	8	A	0	8	3	0		0	9	5	1	ANCON
+0	1	9	N	0	8	3	0		0	10	9	1	NTHDEGREE
+1	0	0	#	0	12	0	0		1	11	8	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	I	1	0	3	1	IDI	0	0	3	0	
+0	0	0	D	1	0	3	0		0	1	3	0	
+0	0	0	I	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	3	0		2	3	4	0	
+0	1	11	N	1	4	3	1	NIE	0	4	4	0	
+0	0	0	I	1	4	3	0		0	5	4	0	
+0	0	0	E	1	4	3	0		0	6	4	0	
+1	0	0	#	1	8	4	0		2	7	5	0	
+0	1	12	E	1	8	4	1	ENTS	0	8	3	0	
+0	0	0	N	1	8	4	0		0	9	5	0	
+0	0	0	T	1	8	4	0		0	10	9	0	
+0	1	13	S	1	8	4	0		1	11	8	1	SERENADE
+1	0	0	#	1	13	0	0		2	12	5	0	
+0	1	14	L	2	0	13	1	LIGHTSWITCHES	0	0	3	0	
+0	0	0	I	2	0	13	0		0	1	3	0	
+0	0	0	G	2	0	13	0		0	2	3	0	
+0	1	15	H	2	0	13	0		2	3	4	1	HOYT
+0	0	0	T	2	0	13	0		0	4	4	0	
+0	0	0	S	2	0	13	0		0	5	4	0	
+0	0	0	W	2	0	13	0		0	6	4	0	
+0	1	16	I	2	0	13	0		2	7	5	1	ISNEW
+0	0	0	T	2	0	13	0		0	8	3	0	
+0	0	0	C	2	0	13	0		0	9	5	0	
+0	0	0	H	2	0	13	0		0	10	9	0	
+0	0	0	E	2	0	13	0		1	11	8	0	
+0	1	17	S	2	0	13	0		2	12	5	1	SADLY
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	8	0	
+1	0	0	#	3	3	5	0		4	2	9	0	
+0	1	18	O	3	3	5	1	ODETS	2	3	4	0	
+0	0	0	D	3	3	5	0		0	4	4	0	
+0	0	0	E	3	3	5	0		0	5	4	0	
+0	0	0	T	3	3	5	0		0	6	4	0	
+0	0	0	S	3	3	5	0		2	7	5	0	
+1	0	0	#	3	9	4	0		4	8	4	0	
+0	1	19	O	3	9	4	1	ODRA	0	9	5	0	
+0	0	0	D	3	9	4	0		0	10	9	0	
+0	0	0	R	3	9	4	0		1	11	8	0	
+0	0	0	A	3	9	4	0		2	12	5	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	20	I	4	1	3	1	IVY	4	1	8	1	IRONGATE
+0	1	21	V	4	1	3	0		4	2	9	1	VOICEVOTE
+0	0	0	Y	4	1	3	0		2	3	4	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	22	N	4	7	6	1	NONEED	2	7	5	0	
+0	1	23	O	4	7	6	0		4	8	4	1	ONIN
+0	0	0	N	4	7	6	0		0	9	5	0	
+0	0	0	E	4	7	6	0		0	10	9	0	
+0	0	0	E	4	7	6	0		1	11	8	0	
+0	0	0	D	4	7	6	0		2	12	5	0	
+1	0	0	#	5	1	4	0		6	0	5	0	
+0	1	24	R	5	1	4	1	ROTC	4	1	8	0	
+0	0	0	O	5	1	4	0		4	2	9	0	
+0	0	0	T	5	1	4	0		2	3	4	0	
+0	1	25	C	5	1	4	0		5	4	4	1	CDRS
+1	0	0	#	5	6	3	0		6	5	5	0	
+0	1	26	K	5	6	3	1	KEN	5	6	3	1	KAZ
+0	0	0	E	5	6	3	0		2	7	5	0	
+0	0	0	N	5	6	3	0		4	8	4	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	G	5	10	3	1	GNL	0	10	9	0	
+0	0	0	N	5	10	3	0		1	11	8	0	
+0	0	0	L	5	10	3	0		2	12	5	0	
+0	1	28	D	6	0	3	1	DOI	6	0	5	1	DEALS
+0	0	0	O	6	0	3	0		4	1	8	0	
+0	0	0	I	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	29	D	6	4	5	1	DRAWI	5	4	4	0	
+0	1	30	R	6	4	5	0		6	5	5	1	ROMEO
+0	0	0	A	6	4	5	0		5	6	3	0	
+0	0	0	W	6	4	5	0		2	7	5	0	
+0	0	0	I	6	4	5	0		4	8	4	0	
+1	0	0	#	6	10	3	0		7	9	4	0	
+0	1	31	R	6	10	3	1	RAY	0	10	9	0	
+0	0	0	A	6	10	3	0		1	11	8	0	
+0	0	0	Y	6	10	3	0		2	12	5	0	
+0	1	32	E	7	0	3	1	ENC	6	0	5	0	
+0	0	0	N	7	0	3	0		4	1	8	0	
+0	0	0	C	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	3	0		8	3	5	0	
+0	1	33	R	7	4	3	1	ROZ	5	4	4	0	
+0	0	0	O	7	4	3	0		6	5	5	0	
+0	0	0	Z	7	4	3	0		5	6	3	0	
+1	0	0	#	7	8	4	0		8	7	0	0	
+0	1	34	N	7	8	4	1	NEED	4	8	4	0	
+0	1	35	E	7	8	4	0		7	9	4	1	ERDE
+0	0	0	E	7	8	4	0		0	10	9	0	
+0	0	0	D	7	8	4	0		1	11	8	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	36	A	8	0	6	1	AGEISM	6	0	5	0	
+0	0	0	G	8	0	6	0		4	1	8	0	
+0	0	0	E	8	0	6	0		4	2	9	0	
+0	1	37	I	8	0	6	0		8	3	5	1	ISPEP
+0	0	0	S	8	0	6	0		5	4	4	0	
+0	0	0	M	8	0	6	0		6	5	5	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	0	0		9	7	4	0	
+1	0	0	#	8	9	3	0		9	8	4	0	
+0	1	38	R	8	9	3	1	REE	7	9	4	0	
+0	0	0	E	8	9	3	0		0	10	9	0	
+0	0	0	E	8	9	3	0		1	11	8	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	39	L	9	0	4	1	LAVS	6	0	5	0	
+0	0	0	A	9	0	4	0		4	1	8	0	
+0	0	0	V	9	0	4	0		4	2	9	0	
+0	0	0	S	9	0	4	0		8	3	5	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	40	E	9	5	5	1	EARED	6	5	5	0	
+0	1	41	A	9	5	5	0		9	6	4	1	AREA
+0	1	42	R	9	5	5	0		9	7	4	1	RBIS
+0	1	43	E	9	5	5	0		9	8	4	1	ERST
+0	0	0	D	9	5	5	0		7	9	4	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	S	10	0	13	1	STOPFORBREATH	6	0	5	0	
+0	0	0	T	10	0	13	0		4	1	8	0	
+0	0	0	O	10	0	13	0		4	2	9	0	
+0	0	0	P	10	0	13	0		8	3	5	0	
+0	1	45	F	10	0	13	0		10	4	3	1	FST
+0	0	0	O	10	0	13	0		6	5	5	0	
+0	0	0	R	10	0	13	0		9	6	4	0	
+0	0	0	B	10	0	13	0		9	7	4	0	
+0	0	0	R	10	0	13	0		9	8	4	0	
+0	0	0	E	10	0	13	0		7	9	4	0	
+0	1	46	A	10	0	13	0		10	10	3	1	ANI
+0	1	47	T	10	0	13	0		10	11	3	1	TMC
+0	1	48	H	10	0	13	0		10	12	3	1	HIK
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	49	E	11	1	4	1	ETES	4	1	8	0	
+0	0	0	T	11	1	4	0		4	2	9	0	
+0	0	0	E	11	1	4	0		8	3	5	0	
+0	0	0	S	11	1	4	0		10	4	3	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	50	E	11	6	3	1	EIS	9	6	4	0	
+0	0	0	I	11	6	3	0		9	7	4	0	
+0	0	0	S	11	6	3	0		9	8	4	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	51	N	11	10	3	1	NMI	10	10	3	0	
+0	0	0	M	11	10	3	0		10	11	3	0	
+0	0	0	I	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	52	E	12	2	3	1	EPT	4	2	9	0	
+0	0	0	P	12	2	3	0		8	3	5	0	
+0	0	0	T	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	53	A	12	6	3	1	AST	9	6	4	0	
+0	0	0	S	12	6	3	0		9	7	4	0	
+0	0	0	T	12	6	3	0		9	8	4	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	I	12	10	3	1	ICK	10	10	3	0	
+0	0	0	C	12	10	3	0		10	11	3	0	
+0	0	0	K	12	10	3	0		10	12	3	0	
+31
+1	KMS	Tour de France units: Abbr.
+4	ION	Charged bit
+7	DAN	Newsman Rather
+10	IDI	Uganda's Amin
+11	NIE	Not once, in N
+12	ENTS	Otolaryngolo-gists, for short
+14	LIGHTSWITCHES	Illuminates a Halloween display?
+18	ODETS	Dramatist Clifford
+19	ODRA	Wroclaw's river, to Poles
+20	IVY	University wall covering
+22	NONEED	"Thanks, but I'm O.K."
+24	ROTC	Mil. training grp.
+26	KEN	Tennis legend Rosewall
+27	GNL	Anguilla is part of it: Abbr.
+28	DOI	"___ have any say in the matter?"
+29	DRAWI	Attract / Protract
+31	RAY	Element of hope?
+32	ENC	Business letter abbr.
+33	ROZ	Peri Gilpin's "Frasier" role
+34	NEED	Be short of
+36	AGEISM	Discrimination against the elderly
+38	REE	"Riddle-me-___"
+39	LAVS	Restrooms, informally
+40	EARED	Dog-___
+44	STOPFORBREATH	Garrote?
+49	ETES	Part of French "to be"
+50	EIS	Winter Autobahn hazard
+51	NMI	Name placeholder in govt. records
+52	EPT	Capable, facetiously
+53	AST	Nova Scotia clock setting: Abbr.
+54	ICK	"E-w-w-w!"
+29
+1	KIL	About 5/8 of a mi.
+2	MDI	Year of an Amerigo Vespucci voyage
+3	SIG	Check-cashing requirement: Abbr.
+4	INTD	Having depth
+5	OISE	French river
+6	NEWT	Politician Gingrich
+7	DET	Badge holder: Abbr.
+8	ANCON	Cornice bracket
+9	NTHDEGREE	Utmost
+13	SERENADE	Ballet to Tchaikovsky's music, by George
+15	HOYT	Knuckleballer ___ Wilhelm
+16	ISNEW	"So what else ___?"
+17	SADLY	As bad luck would have it
+20	IRONGATE	Entry to a castle, maybe
+21	VOICEVOTE	Yea-or-nay event
+23	ONIN	Getting ___ years
+25	CDRS	Capts.' subordinates
+26	KAZ	Second baseman Matsui, to fans
+28	DEALS	They may be fair or square
+30	ROMEO	Mercutio's friend
+35	ERDE	Second planet past Merkur
+37	ISPEP	Its slogan was once "More bounce to the ounce"
+41	AREA	Country statistic
+42	RBIS	Stats for Sosa
+43	ERST	At first, in Frankfurt
+45	FST	Camera setting
+46	ANI	"Gimme ___!" (repeated cry of a University of Mississippi cheerleader)
+47	TMC	HBO alternative
+48	HIK	Park activity

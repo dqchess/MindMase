@@ -1,0 +1,173 @@
+grid_11x11_123
+11
+0	1	1	J	0	0	3	1	JQA	0	0	3	1	JAZ
+0	1	2	Q	0	0	3	0		0	1	3	1	QIE
+0	1	3	A	0	0	3	0		0	2	11	1	ADRIATICSEA
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GIA	0	4	6	1	GASOIL
+0	1	5	I	0	4	3	0		0	5	3	1	ISU
+0	1	6	A	0	4	3	0		0	6	4	1	AHME
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	A	0	8	3	1	ADA	0	8	11	1	AMASKEDBALL
+0	1	8	D	0	8	3	0		0	9	3	1	DEM
+0	1	9	A	0	8	3	0		0	10	3	1	ADE
+0	1	10	A	1	0	3	1	AID	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	3	0	
+0	0	0	D	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	11	A	1	4	7	1	ASHAMED	0	4	6	0	
+0	0	0	S	1	4	7	0		0	5	3	0	
+0	0	0	H	1	4	7	0		0	6	4	0	
+0	1	12	A	1	4	7	0		1	7	3	1	AGT
+0	0	0	M	1	4	7	0		0	8	11	0	
+0	0	0	E	1	4	7	0		0	9	3	0	
+0	0	0	D	1	4	7	0		0	10	3	0	
+0	1	13	Z	2	0	11	1	ZEROSUMGAME	0	0	3	0	
+0	0	0	E	2	0	11	0		0	1	3	0	
+0	0	0	R	2	0	11	0		0	2	11	0	
+0	1	14	O	2	0	11	0		2	3	3	1	OVA
+0	0	0	S	2	0	11	0		0	4	6	0	
+0	0	0	U	2	0	11	0		0	5	3	0	
+0	0	0	M	2	0	11	0		0	6	4	0	
+0	0	0	G	2	0	11	0		1	7	3	0	
+0	0	0	A	2	0	11	0		0	8	11	0	
+0	0	0	M	2	0	11	0		0	9	3	0	
+0	0	0	E	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	3	0	
+0	1	15	I	3	2	3	1	IVO	0	2	11	0	
+0	0	0	V	3	2	3	0		2	3	3	0	
+0	0	0	O	3	2	3	0		0	4	6	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	16	E	3	6	3	1	ETS	0	6	4	0	
+0	0	0	T	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	S	4	0	6	1	SEAAIR	4	0	3	1	SHO
+0	1	18	E	4	0	6	0		4	1	3	1	EAR
+0	0	0	A	4	0	6	0		0	2	11	0	
+0	0	0	A	4	0	6	0		2	3	3	0	
+0	0	0	I	4	0	6	0		0	4	6	0	
+0	1	19	R	4	0	6	0		4	5	3	1	RIB
+1	0	0	#	4	7	0	0		5	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	20	K	4	8	3	1	KGB	0	8	11	0	
+0	1	21	G	4	8	3	0		4	9	3	1	GAY
+0	1	22	B	4	8	3	0		4	10	3	1	BUS
+0	1	23	H	5	0	3	1	HAT	4	0	3	0	
+0	0	0	A	5	0	3	0		4	1	3	0	
+0	0	0	T	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	24	L	5	4	3	1	LIM	0	4	6	0	
+0	0	0	I	5	4	3	0		4	5	3	0	
+0	1	25	M	5	4	3	0		5	6	6	1	MRSHOW
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	26	E	5	8	3	1	EAU	0	8	11	0	
+0	0	0	A	5	8	3	0		4	9	3	0	
+0	0	0	U	5	8	3	0		4	10	3	0	
+0	1	27	O	6	0	3	1	ORI	4	0	3	0	
+0	0	0	R	6	0	3	0		4	1	3	0	
+0	0	0	I	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	6	0		7	4	4	0	
+0	1	28	B	6	5	6	1	BRADYS	4	5	3	0	
+0	0	0	R	6	5	6	0		5	6	6	0	
+0	1	29	A	6	5	6	0		6	7	3	1	AAE
+0	0	0	D	6	5	6	0		0	8	11	0	
+0	0	0	Y	6	5	6	0		4	9	3	0	
+0	0	0	S	6	5	6	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	30	C	7	2	3	1	CMA	0	2	11	0	
+0	1	31	M	7	2	3	0		7	3	3	1	MER
+0	1	32	A	7	2	3	0		7	4	4	1	ABEE
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	33	S	7	6	3	1	SAB	5	6	6	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	B	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	34	N	8	0	11	1	NOSEBYHEART	8	0	3	1	NWT
+0	1	35	O	8	0	11	0		8	1	3	1	OHO
+0	0	0	S	8	0	11	0		0	2	11	0	
+0	0	0	E	8	0	11	0		7	3	3	0	
+0	0	0	B	8	0	11	0		7	4	4	0	
+0	1	36	Y	8	0	11	0		8	5	3	1	YTD
+0	0	0	H	8	0	11	0		5	6	6	0	
+0	0	0	E	8	0	11	0		6	7	3	0	
+0	0	0	A	8	0	11	0		0	8	11	0	
+0	1	37	R	8	0	11	0		8	9	3	1	RSA
+0	1	38	T	8	0	11	0		8	10	3	1	THS
+0	1	39	W	9	0	7	1	WHERETO	8	0	3	0	
+0	0	0	H	9	0	7	0		8	1	3	0	
+0	0	0	E	9	0	7	0		0	2	11	0	
+0	0	0	R	9	0	7	0		7	3	3	0	
+0	0	0	E	9	0	7	0		7	4	4	0	
+0	0	0	T	9	0	7	0		8	5	3	0	
+0	0	0	O	9	0	7	0		5	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	40	L	9	8	3	1	LSH	0	8	11	0	
+0	0	0	S	9	8	3	0		8	9	3	0	
+0	0	0	H	9	8	3	0		8	10	3	0	
+0	1	41	T	10	0	3	1	TOA	8	0	3	0	
+0	0	0	O	10	0	3	0		8	1	3	0	
+0	0	0	A	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	42	E	10	4	3	1	EDW	7	4	4	0	
+0	0	0	D	10	4	3	0		8	5	3	0	
+0	0	0	W	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	43	L	10	8	3	1	LAS	0	8	11	0	
+0	0	0	A	10	8	3	0		8	9	3	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+23
+1	JQA	Presidential inits.
+4	GIA	Italian actress Scala
+7	ADA	Lead role in "The Piano"
+10	AID	A hand
+11	ASHAMED	Red
+13	ZEROSUMGAME	Balancing act?
+15	IVO	Pianist Pogorelich
+16	ETS	"Independence Day" invaders
+17	SEAAIR	Beach atmosphere
+20	KGB	Anti-Bond org.
+23	HAT	Fedora or fez
+24	LIM	Draw
+26	EAU	Vichy water
+27	ORI	"...___ quit!" (ultimatum)
+28	BRADYS	Bunch of sitcom characters
+30	CMA	Nashville-based awards org.
+33	SAB	Rest time: Abbr.
+34	NOSEBYHEART	Juxtaposed body parts?
+39	WHERETO	Question to one who just got in
+40	LSH	Sorority letters
+41	TOA	___ fault (overly so)
+42	EDW	Part of P.E.I.: Abbr.
+43	LAS	Spanish article
+25
+1	JAZ	Newport festival music
+2	QIE	Dog in "Dondi" [black]
+3	ADRIATICSEA	View from Ancona
+4	GASOIL	Commodities futures listing
+5	ISU	Big 12 sch.
+6	AHME	Sighed line?
+7	AMASKEDBALL	Verdi opera
+8	DEM	Obama, e.g.: Abbr.
+9	ADE	Summer drink
+12	AGT	Rep.
+14	OVA	They travel down fallopian tubes
+17	SHO	HBO alternative
+18	EAR	It sticks out at the side
+19	RIB	Tease
+21	GAY	Party to many a civil union
+22	BUS	Straphanger's ride
+25	MRSHOW	1990s HBO sketch comedy series
+29	AAE	Popular cable channel
+31	MER	Eau naturelle?
+32	ABEE	"As brisk as ___ in conversation": Samuel Johnson
+34	NWT	Yellowknife is its cap.
+35	OHO	"Well, lookee  here!"
+36	YTD	Pay stub abbr.
+37	RSA	Cape Town's home: Abbr.
+38	THS	Music, dance, painting, etc.

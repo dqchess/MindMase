@@ -1,0 +1,115 @@
+grid_9x9_154
+9
+0	1	1	E	0	0	3	1	ECT	0	0	3	1	EFF
+0	1	2	C	0	0	3	0		0	1	3	1	CLE
+0	1	3	T	0	0	3	0		0	2	9	1	TURNSTAIL
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	L	0	5	3	1	LPS	0	5	3	1	LEB
+0	1	5	P	0	5	3	0		0	6	9	1	PROJECTED
+0	1	6	S	0	5	3	0		0	7	5	1	SDATE
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	F	1	0	3	1	FLU	0	0	3	0	
+0	0	0	L	1	0	3	0		0	1	3	0	
+0	0	0	U	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	H	1	4	4	1	HERD	1	4	7	1	HYUNDAI
+0	0	0	E	1	4	4	0		0	5	3	0	
+0	0	0	R	1	4	4	0		0	6	9	0	
+0	0	0	D	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	9	F	2	0	9	1	FERRYBOAT	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	3	0	
+0	0	0	R	2	0	9	0		0	2	9	0	
+0	1	10	R	2	0	9	0		2	3	3	1	ROI
+0	0	0	Y	2	0	9	0		1	4	7	0	
+0	0	0	B	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	A	2	0	9	0		0	7	5	0	
+0	1	11	T	2	0	9	0		2	8	3	1	TAD
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	N	3	2	3	1	NOU	0	2	9	0	
+0	0	0	O	3	2	3	0		2	3	3	0	
+0	0	0	U	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	J	3	6	3	1	JTA	0	6	9	0	
+0	0	0	T	3	6	3	0		0	7	5	0	
+0	0	0	A	3	6	3	0		2	8	3	0	
+0	1	14	Y	4	0	9	1	YESINDEED	4	0	3	1	YAS
+0	1	15	E	4	0	9	0		4	1	5	1	EIEIO
+0	0	0	S	4	0	9	0		0	2	9	0	
+0	0	0	I	4	0	9	0		2	3	3	0	
+0	0	0	N	4	0	9	0		1	4	7	0	
+0	1	16	D	4	0	9	0		4	5	3	1	DET
+0	0	0	E	4	0	9	0		0	6	9	0	
+0	0	0	E	4	0	9	0		0	7	5	0	
+0	0	0	D	4	0	9	0		2	8	3	0	
+0	1	17	A	5	0	3	1	AIT	4	0	3	0	
+0	0	0	I	5	0	3	0		4	1	5	0	
+0	0	0	T	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	D	5	4	3	1	DEC	1	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	C	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	S	6	0	9	1	SEABATTLE	4	0	3	0	
+0	0	0	E	6	0	9	0		4	1	5	0	
+0	0	0	A	6	0	9	0		0	2	9	0	
+0	1	20	B	6	0	9	0		6	3	3	1	BID
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	0	0	T	6	0	9	0		4	5	3	0	
+0	0	0	T	6	0	9	0		0	6	9	0	
+0	1	21	L	6	0	9	0		6	7	3	1	LTD
+0	1	22	E	6	0	9	0		6	8	3	1	EEE
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	23	I	7	1	4	1	IIII	4	1	5	0	
+0	0	0	I	7	1	4	0		0	2	9	0	
+0	0	0	I	7	1	4	0		6	3	3	0	
+0	0	0	I	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	E	7	6	3	1	ETE	0	6	9	0	
+0	0	0	T	7	6	3	0		6	7	3	0	
+0	0	0	E	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	O	8	1	3	1	OLD	4	1	5	0	
+0	0	0	L	8	1	3	0		0	2	9	0	
+0	0	0	D	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	D	8	6	3	1	DDE	0	6	9	0	
+0	0	0	D	8	6	3	0		6	7	3	0	
+0	0	0	E	8	6	3	0		6	8	3	0	
+15
+1	ECT	Outside, at the outset
+4	LPS	Collectible disks
+7	FLU	Grippe
+8	HERD	Stampeders
+9	FERRYBOAT	Banks' go-between
+12	NOU	___-Turn (sign)
+13	JTA	Interim rulers
+14	YESINDEED	"Most certainly!"
+17	AIT	River isle
+18	DEC	Calendar abbr.
+19	SEABATTLE	Danger in the ocean
+23	IIII	Peer group?
+24	ETE	"L'heure d'___" (2008 Juliette Binoche film)
+25	OLD	Like the farmer MacDonald
+26	DDE	Onetime White House inits.
+15
+1	EFF	Letter before gee
+2	CLE	Indians' home, for short
+3	TURNSTAIL	Goes yellow, say
+4	LEB	Med. country
+5	PROJECTED	Thrust
+6	SDATE	Entry in a spaceship log
+8	HYUNDAI	Sonata maker
+10	ROI	Louis XVI, e.g.
+11	TAD	Smidgen
+14	YAS	Title syllables in a 1961 Lee Dorsey hit
+15	EIEIO	"Old MacDonald" refrain
+16	DET	Cannon, e.g.: Abbr.
+20	BID	Bridge declaration
+21	LTD	Inc., in London
+22	EEE	Shoe designation

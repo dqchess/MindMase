@@ -1,0 +1,117 @@
+grid_9x9_55
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	D	0	1	3	1	DUC	0	1	5	1	DAZES
+0	1	2	U	0	1	3	0		0	2	9	1	USAINBOLT
+0	1	3	C	0	1	3	0		0	3	3	1	CUR
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	T	0	6	3	1	TWP	0	6	9	1	TOOKHEART
+0	1	5	W	0	6	3	0		0	7	3	1	WLE
+0	1	6	P	0	6	3	0		0	8	3	1	PAD
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	7	A	1	1	3	1	ASU	0	1	5	0	
+0	0	0	S	1	1	3	0		0	2	9	0	
+0	0	0	U	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	O	1	5	4	1	OOLA	1	5	4	1	OFIT
+0	0	0	O	1	5	4	0		0	6	9	0	
+0	0	0	L	1	5	4	0		0	7	3	0	
+0	0	0	A	1	5	4	0		0	8	3	0	
+0	1	9	T	2	0	4	1	TZAR	2	0	3	1	TWI
+0	0	0	Z	2	0	4	0		0	1	5	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	R	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	F	2	5	4	1	FOED	1	5	4	0	
+0	0	0	O	2	5	4	0		0	6	9	0	
+0	0	0	E	2	5	4	0		0	7	3	0	
+0	0	0	D	2	5	4	0		0	8	3	0	
+0	1	11	W	3	0	3	1	WEI	2	0	3	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	I	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	H	3	4	3	1	HIK	3	4	3	1	HIT
+0	0	0	I	3	4	3	0		1	5	4	0	
+0	0	0	K	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	13	I	4	0	9	1	ISNEITHER	2	0	3	0	
+0	0	0	S	4	0	9	0		0	1	5	0	
+0	0	0	N	4	0	9	0		0	2	9	0	
+0	1	14	E	4	0	9	0		4	3	4	1	EMEU
+0	0	0	I	4	0	9	0		3	4	3	0	
+0	0	0	T	4	0	9	0		1	5	4	0	
+0	0	0	H	4	0	9	0		0	6	9	0	
+0	1	15	E	4	0	9	0		4	7	5	1	ESSAI
+0	1	16	R	4	0	9	0		4	8	3	1	RTE
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	B	5	2	3	1	BMT	0	2	9	0	
+0	0	0	M	5	2	3	0		4	3	4	0	
+0	0	0	T	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	E	5	6	3	1	EST	0	6	9	0	
+0	0	0	S	5	6	3	0		4	7	5	0	
+0	0	0	T	5	6	3	0		4	8	3	0	
+0	1	19	S	6	0	4	1	SLOE	6	0	3	1	SVU
+0	1	20	L	6	0	4	0		6	1	3	1	LEA
+0	0	0	O	6	0	4	0		0	2	9	0	
+0	0	0	E	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	R	6	5	4	1	RASE	6	5	3	1	RAG
+0	0	0	A	6	5	4	0		0	6	9	0	
+0	0	0	S	6	5	4	0		4	7	5	0	
+0	0	0	E	6	5	4	0		4	8	3	0	
+0	1	22	V	7	0	4	1	VELU	6	0	3	0	
+0	0	0	E	7	0	4	0		6	1	3	0	
+0	0	0	L	7	0	4	0		0	2	9	0	
+0	0	0	U	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	23	A	7	5	3	1	ARA	6	5	3	0	
+0	0	0	R	7	5	3	0		0	6	9	0	
+0	0	0	A	7	5	3	0		4	7	5	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	24	U	8	0	3	1	UAT	6	0	3	0	
+0	0	0	A	8	0	3	0		6	1	3	0	
+0	0	0	T	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	G	8	5	3	1	GTI	6	5	3	0	
+0	0	0	T	8	5	3	0		0	6	9	0	
+0	0	0	I	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	DUC	French nobleman
+4	TWP	Local political div.
+7	ASU	Pac 10 school, for short
+8	OOLA	Green-skinned dancing girl in a "Star Wars" film
+9	TZAR	Russian ruler: Var.
+10	FOED	Gave up one's hand
+11	WEI	Chinese dynasty name
+12	HIK	Park activity
+13	ISNEITHER	Definition, part 3
+17	BMT	N.Y.C. subway letters
+18	EST	Round fig.
+19	SLOE	Fruit used for preserves
+21	RASE	Flatten, in Britain
+22	VELU	Soft palate
+23	ARA	Notre Dame's Parseghian
+24	UAT	Awake by
+25	GTI	Popular Volkswagen model
+15
+1	DAZES	Stuns
+2	USAINBOLT	2008 Olympics sensation
+3	CUR	Snarly dog
+4	TOOKHEART	Cheered up
+5	WLE	Corduroy ridge
+6	PAD	Place to crash
+8	OFIT	"Well, what ___?!"
+9	TWI	Prefix with light
+12	HIT	Gold-record earner
+14	EMEU	Flightless bird: Var.
+15	ESSAI	Montaigne work
+16	RTE	Numbered hwy.
+19	SVU	"Law & Order" spinoff, for short
+20	LEA	Where a flock flocks
+21	RAG	Not the most authoritative journalism source

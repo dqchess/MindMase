@@ -1,0 +1,231 @@
+grid_13x13_191
+13
+0	1	1	T	0	0	5	1	TAFFY	0	0	3	1	TEN
+0	1	2	A	0	0	5	0		0	1	3	1	ARA
+0	1	3	F	0	0	5	0		0	2	7	1	FITINTO
+0	1	4	F	0	0	5	0		0	3	4	1	FTLB
+0	1	5	Y	0	0	5	0		0	4	5	1	YUSEF
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	6	A	0	6	3	1	ASA	0	6	3	1	AHA
+0	1	7	S	0	6	3	0		0	7	3	1	SOS
+0	1	8	A	0	6	3	0		0	8	6	1	ABHORS
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	9	E	1	0	5	1	ERITU	0	0	3	0	
+0	0	0	R	1	0	5	0		0	1	3	0	
+0	0	0	I	1	0	5	0		0	2	7	0	
+0	0	0	T	1	0	5	0		0	3	4	0	
+0	0	0	U	1	0	5	0		0	4	5	0	
+1	0	0	#	1	6	7	0		2	5	0	0	
+0	1	10	H	1	6	7	1	HOBBIES	0	6	3	0	
+0	0	0	O	1	6	7	0		0	7	3	0	
+0	0	0	B	1	6	7	0		0	8	6	0	
+0	1	11	B	1	6	7	0		1	9	6	1	BATAAN
+0	1	12	I	1	6	7	0		1	10	4	1	INRI
+0	1	13	E	1	6	7	0		1	11	4	1	ETON
+0	1	14	S	1	6	7	0		1	12	3	1	SIS
+0	1	15	N	2	0	5	1	NATLS	0	0	3	0	
+0	0	0	A	2	0	5	0		0	1	3	0	
+0	0	0	T	2	0	5	0		0	2	7	0	
+0	0	0	L	2	0	5	0		0	3	4	0	
+0	0	0	S	2	0	5	0		0	4	5	0	
+1	0	0	#	2	6	7	0		3	5	6	0	
+0	1	16	A	2	6	7	1	ASHANTI	0	6	3	0	
+0	0	0	S	2	6	7	0		0	7	3	0	
+0	0	0	H	2	6	7	0		0	8	6	0	
+0	0	0	A	2	6	7	0		1	9	6	0	
+0	0	0	N	2	6	7	0		1	10	4	0	
+0	0	0	T	2	6	7	0		1	11	4	0	
+0	0	0	I	2	6	7	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	17	I	3	2	4	1	IBET	0	2	7	0	
+0	0	0	B	3	2	4	0		0	3	4	0	
+0	0	0	E	3	2	4	0		0	4	5	0	
+0	1	18	T	3	2	4	0		3	5	6	1	TRICKY
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	6	0	
+0	1	19	O	3	8	5	1	OTROS	0	8	6	0	
+0	0	0	T	3	8	5	0		1	9	6	0	
+0	0	0	R	3	8	5	0		1	10	4	0	
+0	0	0	O	3	8	5	0		1	11	4	0	
+0	0	0	S	3	8	5	0		1	12	3	0	
+0	1	20	U	4	0	3	1	USN	4	0	3	1	ULT
+0	1	21	S	4	0	3	0		4	1	3	1	SAO
+0	0	0	N	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	8	0		5	3	0	0	
+0	1	22	F	4	4	8	1	FRETRAIN	0	4	5	0	
+0	0	0	R	4	4	8	0		3	5	6	0	
+0	1	23	E	4	4	8	0		4	6	5	1	ETNAS
+0	1	24	T	4	4	8	0		4	7	6	1	TANDEM
+0	0	0	R	4	4	8	0		0	8	6	0	
+0	0	0	A	4	4	8	0		1	9	6	0	
+0	0	0	I	4	4	8	0		1	10	4	0	
+0	0	0	N	4	4	8	0		1	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	L	5	0	3	1	LAT	4	0	3	0	
+0	0	0	A	5	0	3	0		4	1	3	0	
+0	0	0	T	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	0	0		6	3	6	0	
+1	0	0	#	5	5	5	0		6	4	0	0	
+0	1	26	I	5	5	5	1	ITASA	3	5	6	0	
+0	0	0	T	5	5	5	0		4	6	5	0	
+0	0	0	A	5	5	5	0		4	7	6	0	
+0	0	0	S	5	5	5	0		0	8	6	0	
+0	0	0	A	5	5	5	0		1	9	6	0	
+1	0	0	#	5	11	0	0		6	10	7	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	27	T	6	0	4	1	TOOL	4	0	3	0	
+0	0	0	O	6	0	4	0		4	1	3	0	
+0	0	0	O	6	0	4	0		0	2	7	0	
+0	1	28	L	6	0	4	0		6	3	6	1	LIANES
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	29	C	6	5	3	1	CNN	3	5	6	0	
+0	0	0	N	6	5	3	0		4	6	5	0	
+0	0	0	N	6	5	3	0		4	7	6	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	30	N	6	9	4	1	NSEC	1	9	6	0	
+0	1	31	S	6	9	4	0		6	10	7	1	SOLAASS
+0	1	32	E	6	9	4	0		6	11	3	1	ECK
+0	1	33	C	6	9	4	0		6	12	3	1	CAP
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	0	0		8	1	4	0	
+1	0	0	#	7	3	5	0		8	2	4	0	
+0	1	34	I	7	3	5	1	INKAD	6	3	6	0	
+0	1	35	N	7	3	5	0		7	4	6	1	NLEAST
+0	0	0	K	7	3	5	0		3	5	6	0	
+0	0	0	A	7	3	5	0		4	6	5	0	
+0	0	0	D	7	3	5	0		4	7	6	0	
+1	0	0	#	7	9	0	0		8	8	5	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	36	O	7	10	3	1	OCA	6	10	7	0	
+0	0	0	C	7	10	3	0		6	11	3	0	
+0	0	0	A	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	8	0		9	0	3	0	
+0	1	37	A	8	1	8	1	ANALYSES	8	1	4	1	ASNO
+0	1	38	N	8	1	8	0		8	2	4	1	NONE
+0	0	0	A	8	1	8	0		6	3	6	0	
+0	0	0	L	8	1	8	0		7	4	6	0	
+0	0	0	Y	8	1	8	0		3	5	6	0	
+0	0	0	S	8	1	8	0		4	6	5	0	
+0	0	0	E	8	1	8	0		4	7	6	0	
+0	1	39	S	8	1	8	0		8	8	5	1	SELLS
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	40	L	8	10	3	1	LKP	6	10	7	0	
+0	0	0	K	8	10	3	0		6	11	3	0	
+0	0	0	P	8	10	3	0		6	12	3	0	
+0	1	41	U	9	0	5	1	USONE	9	0	3	1	UAL
+0	0	0	S	9	0	5	0		8	1	4	0	
+0	0	0	O	9	0	5	0		8	2	4	0	
+0	0	0	N	9	0	5	0		6	3	6	0	
+0	0	0	E	9	0	5	0		7	4	6	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	42	M	9	7	4	1	META	4	7	6	0	
+0	0	0	E	9	7	4	0		8	8	5	0	
+0	1	43	T	9	7	4	0		9	9	4	1	THIS
+0	0	0	A	9	7	4	0		6	10	7	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	A	10	0	7	1	ANNEALS	9	0	3	0	
+0	0	0	N	10	0	7	0		8	1	4	0	
+0	0	0	N	10	0	7	0		8	2	4	0	
+0	0	0	E	10	0	7	0		6	3	6	0	
+0	0	0	A	10	0	7	0		7	4	6	0	
+0	1	45	L	10	0	7	0		10	5	3	1	LED
+0	1	46	S	10	0	7	0		10	6	3	1	SRS
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	47	L	10	8	5	1	LHASA	8	8	5	0	
+0	0	0	H	10	8	5	0		9	9	4	0	
+0	0	0	A	10	8	5	0		6	10	7	0	
+0	1	48	S	10	8	5	0		10	11	3	1	SAS
+0	1	49	A	10	8	5	0		10	12	3	1	ASS
+0	1	50	L	11	0	7	1	LOESSER	9	0	3	0	
+0	0	0	O	11	0	7	0		8	1	4	0	
+0	0	0	E	11	0	7	0		8	2	4	0	
+0	0	0	S	11	0	7	0		6	3	6	0	
+0	0	0	S	11	0	7	0		7	4	6	0	
+0	0	0	E	11	0	7	0		10	5	3	0	
+0	0	0	R	11	0	7	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	51	L	11	8	5	1	LISAS	8	8	5	0	
+0	0	0	I	11	8	5	0		9	9	4	0	
+0	0	0	S	11	8	5	0		6	10	7	0	
+0	0	0	A	11	8	5	0		10	11	3	0	
+0	0	0	S	11	8	5	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	0	0		13	2	0	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	52	T	12	4	3	1	TDS	7	4	6	0	
+0	0	0	D	12	4	3	0		10	5	3	0	
+0	0	0	S	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	53	S	12	8	5	1	SSSSS	8	8	5	0	
+0	0	0	S	12	8	5	0		9	9	4	0	
+0	0	0	S	12	8	5	0		6	10	7	0	
+0	0	0	S	12	8	5	0		10	11	3	0	
+0	0	0	S	12	8	5	0		10	12	3	0	
+27
+1	TAFFY	It may be pulled
+6	ASA	Quiet ___ mouse
+9	ERITU	"A Masked Ball" aria
+10	HOBBIES	Avocations
+15	NATLS	Big-time competition: Abbr.
+16	ASHANTI	Ghanaian dialect
+17	IBET	Cynic's retort
+19	OTROS	Others, to Jorge
+20	USN	Captain's org.
+22	FRETRAIN	Long hauler
+25	LAT	Opposite of long.
+26	ITASA	Take ___ sign
+27	TOOL	Level, e.g.
+29	CNN	"House Call" airer
+30	NSEC	Small interval of time: Abbr.
+34	INKAD	Stamping need
+36	OCA	Andean vegetable
+37	ANALYSES	Lab reports
+40	LKP	British verb ending
+41	USONE	East Coast rte.
+42	META	Prefix with physical
+44	ANNEALS	Tempers
+47	LHASA	Jokhang Temple locale
+50	LOESSER	"Baby, It's Cold Outside" songwriter
+51	LISAS	Actress Bonet and others
+52	TDS	Bowl stats
+53	SSSSS	Exceptional rating
+31
+1	TEN	Decimal base
+2	ARA	Constellation next to Pavo
+3	FITINTO	Dovetail
+4	FTLB	Work unit abbr.
+5	YUSEF	Jazz's ___ Lateef
+6	AHA	Gleeful cry
+7	SOS	Message on the beach of a remote island, maybe
+8	ABHORS	Loathes
+11	BATAAN	1943 Robert Taylor film
+12	INRI	Cross characters
+13	ETON	Educator of 18 British P.M.'s
+14	SIS	Family girl, for short
+18	TRICKY	Complicated
+20	ULT	Final: Abbr.
+21	SAO	___ Miguel (largest of the Azores)
+23	ETNAS	Old lab burners
+24	TANDEM	Bicycle for two
+28	LIANES	Woody vines
+31	SOLAASS	Unit of star measurement
+32	ECK	Theologian Johann
+33	CAP	Insignia spot
+35	NLEAST	The Atl. Braves are in it
+37	ASNO	"This should come ___ surprise"
+38	NONE	___ the wiser
+39	SELLS	Deals in
+41	UAL	Delta competitor: Abbr.
+43	THIS	1950's TV's "___ Is Your Life"
+45	LED	Commanded
+46	SRS	Ones with rings: Abbr.
+48	SAS	KLM alternative
+49	ASS	Clod

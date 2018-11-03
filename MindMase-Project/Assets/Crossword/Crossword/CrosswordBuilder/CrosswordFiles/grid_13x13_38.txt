@@ -1,0 +1,231 @@
+grid_13x13_38
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	3	0		1	2	4	0	
+0	1	1	A	0	3	3	1	APO	0	3	3	1	ADE
+0	1	2	P	0	3	3	0		0	4	3	1	PAR
+0	1	3	O	0	3	3	0		0	5	3	1	OSA
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	4	0	
+0	1	4	O	0	9	3	1	OAS	0	9	3	1	OOX
+0	1	5	A	0	9	3	0		0	10	7	1	ARIETTE
+0	1	6	S	0	9	3	0		0	11	7	1	SEVENTY
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	7	E	1	1	6	1	ENDASH	1	1	4	1	ECRU
+0	1	8	N	1	1	6	0		1	2	4	1	NLAT
+0	0	0	D	1	1	6	0		0	3	3	0	
+0	0	0	A	1	1	6	0		0	4	3	0	
+0	0	0	S	1	1	6	0		0	5	3	0	
+0	1	9	H	1	1	6	0		1	6	11	1	HERMETICISM
+1	0	0	#	1	8	4	0		2	7	0	0	
+0	1	10	M	1	8	4	1	MORE	1	8	4	1	MLXX
+0	0	0	O	1	8	4	0		0	9	3	0	
+0	0	0	R	1	8	4	0		0	10	7	0	
+0	0	0	E	1	8	4	0		0	11	7	0	
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	11	S	2	0	7	1	SCLERAE	2	0	3	1	SAN
+0	0	0	C	2	0	7	0		1	1	4	0	
+0	0	0	L	2	0	7	0		1	2	4	0	
+0	0	0	E	2	0	7	0		0	3	3	0	
+0	0	0	R	2	0	7	0		0	4	3	0	
+0	0	0	A	2	0	7	0		0	5	3	0	
+0	0	0	E	2	0	7	0		1	6	11	0	
+1	0	0	#	2	8	4	0		3	7	5	0	
+0	1	12	L	2	8	4	1	LXIV	1	8	4	0	
+0	0	0	X	2	8	4	0		0	9	3	0	
+0	0	0	I	2	8	4	0		0	10	7	0	
+0	0	0	V	2	8	4	0		0	11	7	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+0	1	13	A	3	0	3	1	ARA	2	0	3	0	
+0	0	0	R	3	0	3	0		1	1	4	0	
+0	0	0	A	3	0	3	0		1	2	4	0	
+1	0	0	#	3	4	0	0		4	3	3	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	3	0		4	5	0	0	
+0	1	14	R	3	6	3	1	RAX	1	6	11	0	
+0	1	15	A	3	6	3	0		3	7	5	1	ALSOP
+0	0	0	X	3	6	3	0		1	8	4	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	16	E	3	10	3	1	EEE	0	10	7	0	
+0	0	0	E	3	10	3	0		0	11	7	0	
+0	1	17	E	3	10	3	0		3	12	3	1	ENT
+0	1	18	N	4	0	5	1	NUTRA	2	0	3	0	
+0	0	0	U	4	0	5	0		1	1	4	0	
+0	0	0	T	4	0	5	0		1	2	4	0	
+0	1	19	R	4	0	5	0		4	3	3	1	RYE
+0	1	20	A	4	0	5	0		4	4	3	1	AIL
+1	0	0	#	4	6	3	0		5	5	5	0	
+0	1	21	M	4	6	3	1	MLX	1	6	11	0	
+0	0	0	L	4	6	3	0		3	7	5	0	
+0	0	0	X	4	6	3	0		1	8	4	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	T	4	10	3	1	TNN	0	10	7	0	
+0	0	0	N	4	10	3	0		0	11	7	0	
+0	0	0	N	4	10	3	0		3	12	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	7	0	
+1	0	0	#	5	3	5	0		6	2	7	0	
+0	1	23	Y	5	3	5	1	YIKES	4	3	3	0	
+0	0	0	I	5	3	5	0		4	4	3	0	
+0	1	24	K	5	3	5	0		5	5	5	1	KEYUP
+0	0	0	E	5	3	5	0		1	6	11	0	
+0	0	0	S	5	3	5	0		3	7	5	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	25	T	5	10	3	1	TTT	0	10	7	0	
+0	0	0	T	5	10	3	0		0	11	7	0	
+0	0	0	T	5	10	3	0		3	12	3	0	
+1	0	0	#	6	1	11	0		7	0	3	0	
+0	1	26	S	6	1	11	1	SKELETONKEY	6	1	7	1	STOPHIM
+0	1	27	K	6	1	11	0		6	2	7	1	KASHMIR
+0	0	0	E	6	1	11	0		4	3	3	0	
+0	0	0	L	6	1	11	0		4	4	3	0	
+0	0	0	E	6	1	11	0		5	5	5	0	
+0	0	0	T	6	1	11	0		1	6	11	0	
+0	0	0	O	6	1	11	0		3	7	5	0	
+0	1	28	N	6	1	11	0		6	8	3	1	NER
+0	1	29	K	6	1	11	0		6	9	3	1	KSU
+0	0	0	E	6	1	11	0		0	10	7	0	
+0	0	0	Y	6	1	11	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	P	7	0	3	1	PTA	7	0	3	1	PIK
+0	0	0	T	7	0	3	0		6	1	7	0	
+0	0	0	A	7	0	3	0		6	2	7	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	5	0		8	4	4	0	
+0	1	31	Y	7	5	5	1	YIPES	5	5	5	0	
+0	0	0	I	7	5	5	0		1	6	11	0	
+0	0	0	P	7	5	5	0		3	7	5	0	
+0	0	0	E	7	5	5	0		6	8	3	0	
+0	0	0	S	7	5	5	0		6	9	3	0	
+1	0	0	#	7	11	0	0		8	10	4	0	
+1	0	0	#	7	12	0	0		8	11	4	0	
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	32	I	8	0	3	1	IOS	7	0	3	0	
+0	0	0	O	8	0	3	0		6	1	7	0	
+0	0	0	S	8	0	3	0		6	2	7	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	33	D	8	4	3	1	DUC	8	4	4	1	DESI
+0	0	0	U	8	4	3	0		5	5	5	0	
+0	0	0	C	8	4	3	0		1	6	11	0	
+1	0	0	#	8	8	5	0		9	7	0	0	
+0	1	34	R	8	8	5	1	RUARK	6	8	3	0	
+0	0	0	U	8	8	5	0		6	9	3	0	
+0	1	35	A	8	8	5	0		8	10	4	1	ALTO
+0	1	36	R	8	8	5	0		8	11	4	1	ROUX
+0	1	37	K	8	8	5	0		8	12	3	1	KIM
+0	1	38	K	9	0	3	1	KPH	7	0	3	0	
+0	0	0	P	9	0	3	0		6	1	7	0	
+0	0	0	H	9	0	3	0		6	2	7	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	39	E	9	4	3	1	EPI	8	4	4	0	
+0	0	0	P	9	4	3	0		5	5	5	0	
+0	0	0	I	9	4	3	0		1	6	11	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	40	L	9	10	3	1	LOI	8	10	4	0	
+0	0	0	O	9	10	3	0		8	11	4	0	
+0	0	0	I	9	10	3	0		8	12	3	0	
+1	0	0	#	10	1	4	0		11	0	0	0	
+0	1	41	H	10	1	4	1	HMOS	6	1	7	0	
+0	0	0	M	10	1	4	0		6	2	7	0	
+0	1	42	O	10	1	4	0		10	3	3	1	OIS
+0	0	0	S	10	1	4	0		8	4	4	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	43	S	10	6	7	1	STRATUM	1	6	11	0	
+0	1	44	T	10	6	7	0		10	7	3	1	TUI
+0	1	45	R	10	6	7	0		10	8	3	1	RST
+0	1	46	A	10	6	7	0		10	9	3	1	AKA
+0	0	0	T	10	6	7	0		8	10	4	0	
+0	0	0	U	10	6	7	0		8	11	4	0	
+0	0	0	M	10	6	7	0		8	12	3	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	47	I	11	1	4	1	IIII	6	1	7	0	
+0	0	0	I	11	1	4	0		6	2	7	0	
+0	0	0	I	11	1	4	0		10	3	3	0	
+0	0	0	I	11	1	4	0		8	4	4	0	
+1	0	0	#	11	6	6	0		12	5	0	0	
+0	1	48	M	11	6	6	1	MUSKOX	1	6	11	0	
+0	0	0	U	11	6	6	0		10	7	3	0	
+0	0	0	S	11	6	6	0		10	8	3	0	
+0	0	0	K	11	6	6	0		10	9	3	0	
+0	0	0	O	11	6	6	0		8	10	4	0	
+0	0	0	X	11	6	6	0		8	11	4	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	49	M	12	1	3	1	MRS	6	1	7	0	
+0	0	0	R	12	1	3	0		6	2	7	0	
+0	0	0	S	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	50	I	12	7	3	1	ITA	10	7	3	0	
+0	0	0	T	12	7	3	0		10	8	3	0	
+0	0	0	A	12	7	3	0		10	9	3	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	APO	Certain mail destination: Abbr.
+4	OAS	Alliance formed 4/30/48: Abbr.
+7	ENDASH	Minus sign equivalent
+10	MORE	End-of-performance call
+11	SCLERAE	Eyeball covers
+12	LXIV	Year of the Great Fire of Rome
+13	ARA	Constellation near Scorpius
+14	RAX	Stretch out, in Scotland
+16	EEE	Wide spec.
+18	NUTRA	Commercial lead-in to Sweet
+21	MLX	Six years before the Battle of Hastings
+22	TNN	Onetime C&W channel
+23	YIKES	"Omigosh!"
+25	TTT	Game-winning cry
+26	SKELETONKEY	Versatile opener
+30	PTA	Open-house org.
+31	YIPES	"Holy cow!"
+32	IOS	Cyclades island
+33	DUC	French nobleman
+34	RUARK	"Something of Value" author Robert
+38	KPH	Speed meas. in Europe
+39	EPI	Center start?
+40	LOI	Rule, in Rouen
+41	HMOS	Co. medical offerings
+43	STRATUM	Rock unit
+47	IIII	Late afternoon on a sundial
+48	MUSKOX	Animal with a shaggy coat
+49	MRS	___ Smith's pies
+50	ITA	"Give ___ whirl"
+29
+1	ADE	Hoosier humorist
+2	PAR	By its location [see adjoining squares of answer], a birdie
+3	OSA	Massen of the 1940s film "Tokyo Rose"
+4	OOX	Tic-tac-toe loser
+5	ARIETTE	Short song
+6	SEVENTY	Pretty fast, on the highway
+7	ECRU	Shade shade
+8	NLAT	About 40 degrees, for N.Y.C.
+9	HERMETICISM	Occult sciences, collectively
+10	MLXX	1070, in old Rome
+11	SAN	___ Felipe
+15	ALSOP	Journalist Joseph
+17	ENT	Fictional creature whose name is Old English for "giant"
+19	RYE	Jim Beam product
+20	AIL	Do poorly
+24	KEYUP	Excite
+26	STOPHIM	Cry after a holdup
+27	KASHMIR	Where Srinagar is
+28	NER	___ Tamid (synagogue lamp)
+29	KSU	Wildcats of the Big 12 Conf.
+30	PIK	Teledyne Water ___
+33	DESI	Lucie's dad
+35	ALTO	Lola, e.g., in "Damn Yankees"
+36	ROUX	Sauce thickener
+37	KIM	Former Canadian P.M. Campbell
+42	OIS	French suffix with Qu
+44	TUI	Honey eater of New Zealand
+45	RST	String after Q
+46	AKA	Other name indicator

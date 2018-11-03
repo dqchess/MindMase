@@ -1,0 +1,165 @@
+grid_11x11_34
+11
+0	1	1	N	0	0	3	1	NEE	0	0	6	1	NTUPLE
+0	1	2	E	0	0	3	0		0	1	7	1	ESPIALS
+0	1	3	E	0	0	3	0		0	2	7	1	EUTERPE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	4	0		1	6	3	0	
+0	1	4	S	0	7	4	1	SAMI	0	7	5	1	SLAED
+0	1	5	A	0	7	4	0		0	8	3	1	AIT
+0	1	6	M	0	7	4	0		0	9	3	1	MAC
+0	1	7	I	0	7	4	0		0	10	3	1	INH
+0	1	8	T	1	0	3	1	TSU	0	0	6	0	
+0	0	0	S	1	0	3	0		0	1	7	0	
+0	0	0	U	1	0	3	0		0	2	7	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	9	A	1	4	7	1	AEOLIAN	1	4	5	1	ASLOW
+0	1	10	E	1	4	7	0		1	5	9	1	ECONOLINE
+0	1	11	O	1	4	7	0		1	6	3	1	ORD
+0	0	0	L	1	4	7	0		0	7	5	0	
+0	0	0	I	1	4	7	0		0	8	3	0	
+0	0	0	A	1	4	7	0		0	9	3	0	
+0	0	0	N	1	4	7	0		0	10	3	0	
+0	1	12	U	2	0	11	1	UPTOSCRATCH	0	0	6	0	
+0	0	0	P	2	0	11	0		0	1	7	0	
+0	0	0	T	2	0	11	0		0	2	7	0	
+0	1	13	O	2	0	11	0		2	3	3	1	OAS
+0	0	0	S	2	0	11	0		1	4	5	0	
+0	0	0	C	2	0	11	0		1	5	9	0	
+0	0	0	R	2	0	11	0		1	6	3	0	
+0	0	0	A	2	0	11	0		0	7	5	0	
+0	0	0	T	2	0	11	0		0	8	3	0	
+0	0	0	C	2	0	11	0		0	9	3	0	
+0	0	0	H	2	0	11	0		0	10	3	0	
+0	1	14	P	3	0	8	1	PIEALODE	0	0	6	0	
+0	0	0	I	3	0	8	0		0	1	7	0	
+0	0	0	E	3	0	8	0		0	2	7	0	
+0	0	0	A	3	0	8	0		2	3	3	0	
+0	0	0	L	3	0	8	0		1	4	5	0	
+0	0	0	O	3	0	8	0		1	5	9	0	
+0	0	0	D	3	0	8	0		1	6	3	0	
+0	0	0	E	3	0	8	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	L	4	0	6	1	LARSON	0	0	6	0	
+0	0	0	A	4	0	6	0		0	1	7	0	
+0	0	0	R	4	0	6	0		0	2	7	0	
+0	0	0	S	4	0	6	0		2	3	3	0	
+0	0	0	O	4	0	6	0		1	4	5	0	
+0	0	0	N	4	0	6	0		1	5	9	0	
+1	0	0	#	4	7	3	0		5	6	5	0	
+0	1	16	D	4	7	3	1	DAG	0	7	5	0	
+0	1	17	A	4	7	3	0		4	8	7	1	ACTUATE
+0	1	18	G	4	7	3	0		4	9	7	1	GOINGTO
+1	0	0	#	4	11	0	0		5	10	6	0	
+0	1	19	E	5	0	3	1	ELP	0	0	6	0	
+0	0	0	L	5	0	3	0		0	1	7	0	
+0	0	0	P	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	20	W	5	4	3	1	WOP	1	4	5	0	
+0	0	0	O	5	4	3	0		1	5	9	0	
+0	1	21	P	5	4	3	0		5	6	5	1	PELEG
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	22	C	5	8	3	1	COR	4	8	7	0	
+0	0	0	O	5	8	3	0		4	9	7	0	
+0	1	23	R	5	8	3	0		5	10	6	1	RESETS
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	24	S	6	1	3	1	SEA	0	1	7	0	
+0	0	0	E	6	1	3	0		0	2	7	0	
+0	1	25	A	6	1	3	0		6	3	5	1	ANSER
+1	0	0	#	6	5	6	0		7	4	3	0	
+0	1	26	L	6	5	6	1	LEFTIE	1	5	9	0	
+0	0	0	E	6	5	6	0		5	6	5	0	
+0	1	27	F	6	5	6	0		6	7	3	1	FGS
+0	0	0	T	6	5	6	0		4	8	7	0	
+0	0	0	I	6	5	6	0		4	9	7	0	
+0	0	0	E	6	5	6	0		5	10	6	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	8	0		8	2	3	0	
+0	1	28	N	7	3	8	1	NAILGUNS	6	3	5	0	
+0	1	29	A	7	3	8	0		7	4	3	1	AOL
+0	0	0	I	7	3	8	0		1	5	9	0	
+0	0	0	L	7	3	8	0		5	6	5	0	
+0	0	0	G	7	3	8	0		6	7	3	0	
+0	0	0	U	7	3	8	0		4	8	7	0	
+0	0	0	N	7	3	8	0		4	9	7	0	
+0	0	0	S	7	3	8	0		5	10	6	0	
+0	1	30	A	8	0	11	1	ACTSONESAGE	8	0	3	1	AGE
+0	1	31	C	8	0	11	0		8	1	3	1	CAM
+0	1	32	T	8	0	11	0		8	2	3	1	TMI
+0	0	0	S	8	0	11	0		6	3	5	0	
+0	0	0	O	8	0	11	0		7	4	3	0	
+0	0	0	N	8	0	11	0		1	5	9	0	
+0	0	0	E	8	0	11	0		5	6	5	0	
+0	0	0	S	8	0	11	0		6	7	3	0	
+0	0	0	A	8	0	11	0		4	8	7	0	
+0	0	0	G	8	0	11	0		4	9	7	0	
+0	0	0	E	8	0	11	0		5	10	6	0	
+0	1	33	G	9	0	7	1	GAMELEG	8	0	3	0	
+0	0	0	A	9	0	7	0		8	1	3	0	
+0	0	0	M	9	0	7	0		8	2	3	0	
+0	0	0	E	9	0	7	0		6	3	5	0	
+0	0	0	L	9	0	7	0		7	4	3	0	
+0	0	0	E	9	0	7	0		1	5	9	0	
+0	0	0	G	9	0	7	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	34	T	9	8	3	1	TTT	4	8	7	0	
+0	0	0	T	9	8	3	0		4	9	7	0	
+0	0	0	T	9	8	3	0		5	10	6	0	
+0	1	35	E	10	0	4	1	EMIR	8	0	3	0	
+0	0	0	M	10	0	4	0		8	1	3	0	
+0	0	0	I	10	0	4	0		8	2	3	0	
+0	0	0	R	10	0	4	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	E	10	8	3	1	EOS	4	8	7	0	
+0	0	0	O	10	8	3	0		4	9	7	0	
+0	0	0	S	10	8	3	0		5	10	6	0	
+19
+1	NEE	By birth
+4	SAMI	Northern Scandinavian
+8	TSU	The Tigers of the Ohio Valley Conf.
+9	AEOLIAN	___ harp
+12	UPTOSCRATCH	Meeting all requirements
+14	PIEALODE	Double dessert
+15	LARSON	"Rent" composer Jonathan
+16	DAG	Statesman Hammarskj
+19	ELP	Assist, to Eliza Doolittle
+20	WOP	Doo-___
+22	COR	Heart, in prescriptions
+24	SEA	View from a lighthouse
+26	LEFTIE	Liberal, informally
+28	NAILGUNS	Shooters on the boards?
+30	ACTSONESAGE	Refrains from childish behavior
+33	GAMELEG	Cause of a limp
+34	TTT	Fort Smith-to-Little Rock dir.
+35	EMIR	Mideast prince
+36	EOS	Chariot rider of myth
+21
+1	NTUPLE	Ordered group of numbers in math
+2	ESPIALS	Furtive observations
+3	EUTERPE	Muse of music
+4	SLAED	Set upon a slope, say
+5	AIT	River islet
+6	MAC	Brit's raincoat
+7	INH	Foot part
+9	ASLOW	"Must be ___ news day"
+10	ECONOLINE	Popular Ford van
+11	ORD	Traffic reg., e.g.
+13	OAS	Western alliance: Abbr.
+17	ACTUATE	Impel
+18	GOINGTO	Attending
+21	PELEG	Literary captain who says "It's better to sail with a moody good captain than a laughing bad one"
+23	RESETS	Changes hands?
+25	ANSER	Goose genus
+27	FGS	Gridiron stat: Abbr.
+29	AOL	Co. that offers I.M.'s
+30	AGE	What rings reveal about a tree
+31	CAM	Pushrod pusher
+32	TMI	Pa. nuclear plant site

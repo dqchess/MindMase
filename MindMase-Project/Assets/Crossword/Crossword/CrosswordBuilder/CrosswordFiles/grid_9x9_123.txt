@@ -1,0 +1,117 @@
+grid_9x9_123
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	P	0	1	3	1	PEE	0	1	4	1	PUCK
+0	1	2	E	0	1	3	0		0	2	4	1	ECCE
+0	1	3	E	0	1	3	0		0	3	3	1	ETE
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	T	0	6	3	1	TZF	0	6	4	1	TERI
+0	1	5	Z	0	6	3	0		0	7	4	1	ZEIT
+0	1	6	F	0	6	3	0		0	8	3	1	FCC
+0	1	7	D	1	0	5	1	DUCTS	1	0	3	1	DEE
+0	0	0	U	1	0	5	0		0	1	4	0	
+0	0	0	C	1	0	5	0		0	2	4	0	
+0	0	0	T	1	0	5	0		0	3	3	0	
+0	1	8	S	1	0	5	0		1	4	7	1	SNIPEAT
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	E	1	6	3	1	EEC	0	6	4	0	
+0	0	0	E	1	6	3	0		0	7	4	0	
+0	0	0	C	1	6	3	0		0	8	3	0	
+0	1	10	E	2	0	9	1	ECCENTRIC	1	0	3	0	
+0	0	0	C	2	0	9	0		0	1	4	0	
+0	0	0	C	2	0	9	0		0	2	4	0	
+0	0	0	E	2	0	9	0		0	3	3	0	
+0	0	0	N	2	0	9	0		1	4	7	0	
+0	1	11	T	2	0	9	0		2	5	3	1	THS
+0	0	0	R	2	0	9	0		0	6	4	0	
+0	0	0	I	2	0	9	0		0	7	4	0	
+0	0	0	C	2	0	9	0		0	8	3	0	
+0	1	12	E	3	0	3	1	EKE	1	0	3	0	
+0	0	0	K	3	0	3	0		0	1	4	0	
+0	0	0	E	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	I	3	4	4	1	IHIT	1	4	7	0	
+0	0	0	H	3	4	4	0		2	5	3	0	
+0	0	0	I	3	4	4	0		0	6	4	0	
+0	0	0	T	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	M	4	3	3	1	MPS	4	3	3	1	MOC
+0	0	0	P	4	3	3	0		1	4	7	0	
+0	0	0	S	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	A	5	1	4	1	ATOE	5	1	4	1	AIME
+0	1	16	T	5	1	4	0		5	2	4	1	TRIM
+0	0	0	O	5	1	4	0		4	3	3	0	
+0	0	0	E	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	S	5	6	3	1	SAD	5	6	4	1	SAAB
+0	1	18	A	5	6	3	0		5	7	4	1	ADDS
+0	1	19	D	5	6	3	0		5	8	3	1	DAI
+0	1	20	A	6	0	9	1	AIRCANADA	6	0	3	1	AMF
+0	0	0	I	6	0	9	0		5	1	4	0	
+0	0	0	R	6	0	9	0		5	2	4	0	
+0	0	0	C	6	0	9	0		4	3	3	0	
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	1	21	N	6	0	9	0		6	5	3	1	NSA
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	D	6	0	9	0		5	7	4	0	
+0	0	0	A	6	0	9	0		5	8	3	0	
+0	1	22	M	7	0	3	1	MMI	6	0	3	0	
+0	0	0	M	7	0	3	0		5	1	4	0	
+0	0	0	I	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	T	7	4	5	1	TSADI	1	4	7	0	
+0	0	0	S	7	4	5	0		6	5	3	0	
+0	0	0	A	7	4	5	0		5	6	4	0	
+0	0	0	D	7	4	5	0		5	7	4	0	
+0	0	0	I	7	4	5	0		5	8	3	0	
+0	1	24	F	8	0	3	1	FEM	6	0	3	0	
+0	0	0	E	8	0	3	0		5	1	4	0	
+0	0	0	M	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	A	8	5	3	1	ABS	6	5	3	0	
+0	0	0	B	8	5	3	0		5	6	4	0	
+0	0	0	S	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	PEE	Person's head?
+4	TZF	Tic-tac-toe failure
+7	DUCTS	Channels
+9	EEC	Spain joined it in 1986: Abbr.
+10	ECCENTRIC	Like a three-dollar bill
+12	EKE	Make (out)
+13	IHIT	"___ the jackpot!"
+14	MPS	AWOL hunters
+15	ATOE	Stick ___ in the water
+17	SAD	Dispirited
+20	AIRCANADA	Star Alliance member
+22	MMI	Millennium start
+23	TSADI	Letter before qoph
+24	FEM	Like the Span. armada?
+25	ABS	Crunch targets
+17
+1	PUCK	Hockey disk
+2	ECCE	"Behold!," to Pilate
+3	ETE	Somme saison
+4	TERI	Dustin's "Tootsie" co-star
+5	ZEIT	Time, to Freud
+6	FCC	TV monitor
+7	DEE	Balmoral Castle
+8	SNIPEAT	Attack underhandedly
+11	THS	Music, dance, painting, etc.
+14	MOC	Footwear, informally
+15	AIME	"Darling, Je Vous ___ Beaucoup"
+16	TRIM	Curtail
+17	SAAB	9-5, e.g.
+18	ADDS	Subjoins
+19	DAI	Bao ___ (former Vietnamese emperor)
+20	AMF	Big inits. in bowling
+21	NSA	Code-cracking grp.

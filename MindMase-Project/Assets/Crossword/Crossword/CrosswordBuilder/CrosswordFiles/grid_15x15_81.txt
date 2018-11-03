@@ -1,0 +1,307 @@
+grid_15x15_81
+15
+0	1	1	L	0	0	3	1	LAO	0	0	3	1	LHZ
+0	1	2	A	0	0	3	0		0	1	4	1	AEON
+0	1	3	O	0	0	3	0		0	2	9	1	OINTHENEW
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	S	0	5	3	1	STE	0	5	4	1	SSGT
+0	1	5	T	0	5	3	0		0	6	8	1	TOOSMALL
+0	1	6	E	0	5	3	0		0	7	3	1	EUR
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	B	0	12	3	1	BLU	0	12	5	1	BONDI
+0	1	8	L	0	12	3	0		0	13	5	1	LYCEE
+0	1	9	U	0	12	3	0		0	14	4	1	USES
+0	1	10	H	1	0	4	1	HEIR	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	4	0	
+0	0	0	I	1	0	4	0		0	2	9	0	
+0	1	11	R	1	0	4	0		1	3	5	1	RIENS
+1	0	0	#	1	5	6	0		2	4	3	0	
+0	1	12	S	1	5	6	1	SOUNDS	0	5	4	0	
+0	0	0	O	1	5	6	0		0	6	8	0	
+0	0	0	U	1	5	6	0		0	7	3	0	
+0	1	13	N	1	5	6	0		1	8	4	1	NDAK
+0	1	14	D	1	5	6	0		1	9	3	1	DIN
+0	1	15	S	1	5	6	0		1	10	3	1	SNE
+1	0	0	#	1	12	3	0		2	11	5	0	
+0	1	16	O	1	12	3	1	OYS	0	12	5	0	
+0	0	0	Y	1	12	3	0		0	13	5	0	
+0	0	0	S	1	12	3	0		0	14	4	0	
+0	1	17	Z	2	0	15	1	ZONINGORDINANCE	0	0	3	0	
+0	0	0	O	2	0	15	0		0	1	4	0	
+0	0	0	N	2	0	15	0		0	2	9	0	
+0	0	0	I	2	0	15	0		1	3	5	0	
+0	1	18	N	2	0	15	0		2	4	3	1	NSC
+0	0	0	G	2	0	15	0		0	5	4	0	
+0	0	0	O	2	0	15	0		0	6	8	0	
+0	0	0	R	2	0	15	0		0	7	3	0	
+0	0	0	D	2	0	15	0		1	8	4	0	
+0	0	0	I	2	0	15	0		1	9	3	0	
+0	0	0	N	2	0	15	0		1	10	3	0	
+0	1	19	A	2	0	15	0		2	11	5	1	ACUFF
+0	0	0	N	2	0	15	0		0	12	5	0	
+0	0	0	C	2	0	15	0		0	13	5	0	
+0	0	0	E	2	0	15	0		0	14	4	0	
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	20	N	3	1	6	1	NTESTS	0	1	4	0	
+0	0	0	T	3	1	6	0		0	2	9	0	
+0	0	0	E	3	1	6	0		1	3	5	0	
+0	0	0	S	3	1	6	0		2	4	3	0	
+0	0	0	T	3	1	6	0		0	5	4	0	
+0	0	0	S	3	1	6	0		0	6	8	0	
+1	0	0	#	3	8	7	0		4	7	7	0	
+0	1	21	A	3	8	7	1	ANECDES	1	8	4	0	
+0	0	0	N	3	8	7	0		1	9	3	0	
+0	0	0	E	3	8	7	0		1	10	3	0	
+0	0	0	C	3	8	7	0		2	11	5	0	
+0	0	0	D	3	8	7	0		0	12	5	0	
+0	0	0	E	3	8	7	0		0	13	5	0	
+0	0	0	S	3	8	7	0		0	14	4	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	4	0	
+0	1	22	H	4	2	3	1	HNC	0	2	9	0	
+0	0	0	N	4	2	3	0		1	3	5	0	
+0	0	0	C	4	2	3	0		2	4	3	0	
+1	0	0	#	4	6	3	0		5	5	5	0	
+0	1	23	M	4	6	3	1	MOK	0	6	8	0	
+0	1	24	O	4	6	3	0		4	7	7	1	ORINOCO
+0	0	0	K	4	6	3	0		1	8	4	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	3	0		5	10	3	0	
+0	1	25	U	4	11	3	1	UIE	2	11	5	0	
+0	0	0	I	4	11	3	0		0	12	5	0	
+0	0	0	E	4	11	3	0		0	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	26	E	5	0	4	1	EYES	5	0	3	1	EPH
+0	1	27	Y	5	0	4	0		5	1	4	1	YEAS
+0	0	0	E	5	0	4	0		0	2	9	0	
+0	0	0	S	5	0	4	0		1	3	5	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	28	K	5	5	3	1	KAR	5	5	5	1	KEANU
+0	0	0	A	5	5	3	0		0	6	8	0	
+0	0	0	R	5	5	3	0		4	7	7	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	29	P	5	9	3	1	PDF	5	9	5	1	PFQIQ
+0	1	30	D	5	9	3	0		5	10	3	1	DIU
+0	0	0	F	5	9	3	0		2	11	5	0	
+1	0	0	#	5	13	0	0		6	12	9	0	
+1	0	0	#	5	14	0	0		6	13	4	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	P	6	0	3	1	PEN	5	0	3	0	
+0	0	0	E	6	0	3	0		5	1	4	0	
+0	0	0	N	6	0	3	0		0	2	9	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	32	E	6	5	3	1	ELI	5	5	5	0	
+0	0	0	L	6	5	3	0		0	6	8	0	
+0	0	0	I	6	5	3	0		4	7	7	0	
+1	0	0	#	6	9	5	0		7	8	8	0	
+0	1	33	F	6	9	5	1	FIFTY	5	9	5	0	
+0	0	0	I	6	9	5	0		5	10	3	0	
+0	0	0	F	6	9	5	0		2	11	5	0	
+0	1	34	T	6	9	5	0		6	12	9	1	TREATABLE
+0	1	35	Y	6	9	5	0		6	13	4	1	YANK
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	36	H	7	0	3	1	HAE	5	0	3	0	
+0	0	0	A	7	0	3	0		5	1	4	0	
+0	0	0	E	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	7	0		8	3	5	0	
+0	1	37	U	7	4	7	1	UALNCQU	7	4	3	1	UNL
+0	0	0	A	7	4	7	0		5	5	5	0	
+0	0	0	L	7	4	7	0		0	6	8	0	
+0	0	0	N	7	4	7	0		4	7	7	0	
+0	1	38	C	7	4	7	0		7	8	8	1	CHOOSERS
+0	0	0	Q	7	4	7	0		5	9	5	0	
+0	0	0	U	7	4	7	0		5	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	39	R	7	12	3	1	RAT	6	12	9	0	
+0	0	0	A	7	12	3	0		6	13	4	0	
+0	1	40	T	7	12	3	0		7	14	3	1	TDS
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	41	S	8	1	5	1	SWANN	5	1	4	0	
+0	0	0	W	8	1	5	0		0	2	9	0	
+0	1	42	A	8	1	5	0		8	3	5	1	AKISS
+0	0	0	N	8	1	5	0		7	4	3	0	
+0	0	0	N	8	1	5	0		5	5	5	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	43	O	8	7	3	1	OHI	4	7	7	0	
+0	0	0	H	8	7	3	0		7	8	8	0	
+0	0	0	I	8	7	3	0		5	9	5	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+1	0	0	#	8	12	3	0		9	11	5	0	
+0	1	44	E	8	12	3	1	END	6	12	9	0	
+0	0	0	N	8	12	3	0		6	13	4	0	
+0	0	0	D	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	0	0		10	0	0	0	
+1	0	0	#	9	2	0	0		10	1	5	0	
+1	0	0	#	9	3	3	0		10	2	5	0	
+0	1	45	K	9	3	3	1	KLU	8	3	5	0	
+0	0	0	L	9	3	3	0		7	4	3	0	
+0	0	0	U	9	3	3	0		5	5	5	0	
+1	0	0	#	9	7	3	0		10	6	4	0	
+0	1	46	C	9	7	3	1	COQ	4	7	7	0	
+0	0	0	O	9	7	3	0		7	8	8	0	
+0	0	0	Q	9	7	3	0		5	9	5	0	
+1	0	0	#	9	11	4	0		10	10	3	0	
+0	1	47	O	9	11	4	1	OAKS	9	11	5	1	OMARS
+0	0	0	A	9	11	4	0		6	12	9	0	
+0	0	0	K	9	11	4	0		6	13	4	0	
+0	0	0	S	9	11	4	0		7	14	3	0	
+1	0	0	#	10	1	3	0		11	0	4	0	
+0	1	48	S	10	1	3	1	SDI	10	1	5	1	SUEME
+0	1	49	D	10	1	3	0		10	2	5	1	DBASE
+0	0	0	I	10	1	3	0		8	3	5	0	
+1	0	0	#	10	5	0	0		11	4	3	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	50	N	10	6	3	1	NOO	10	6	4	1	NETB
+0	0	0	O	10	6	3	0		4	7	7	0	
+0	0	0	O	10	6	3	0		7	8	8	0	
+1	0	0	#	10	10	3	0		11	9	4	0	
+0	1	51	A	10	10	3	1	AMT	10	10	3	1	ALA
+0	0	0	M	10	10	3	0		9	11	5	0	
+0	0	0	T	10	10	3	0		6	12	9	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	52	S	11	0	7	1	SUBSIDE	11	0	4	1	STAD
+0	0	0	U	11	0	7	0		10	1	5	0	
+0	0	0	B	11	0	7	0		10	2	5	0	
+0	0	0	S	11	0	7	0		8	3	5	0	
+0	1	53	I	11	0	7	0		11	4	3	1	IIN
+0	1	54	D	11	0	7	0		11	5	3	1	DNA
+0	0	0	E	11	0	7	0		10	6	4	0	
+1	0	0	#	11	8	6	0		12	7	3	0	
+0	1	55	S	11	8	6	1	SALAAM	7	8	8	0	
+0	1	56	A	11	8	6	0		11	9	4	1	AHSO
+0	0	0	L	11	8	6	0		10	10	3	0	
+0	0	0	A	11	8	6	0		9	11	5	0	
+0	0	0	A	11	8	6	0		6	12	9	0	
+0	1	57	M	11	8	6	0		11	13	4	1	MOAS
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	58	T	12	0	15	1	TEASINTHEHARBOR	11	0	4	0	
+0	0	0	E	12	0	15	0		10	1	5	0	
+0	0	0	A	12	0	15	0		10	2	5	0	
+0	0	0	S	12	0	15	0		8	3	5	0	
+0	0	0	I	12	0	15	0		11	4	3	0	
+0	0	0	N	12	0	15	0		11	5	3	0	
+0	0	0	T	12	0	15	0		10	6	4	0	
+0	1	59	H	12	0	15	0		12	7	3	1	HOU
+0	0	0	E	12	0	15	0		7	8	8	0	
+0	0	0	H	12	0	15	0		11	9	4	0	
+0	0	0	A	12	0	15	0		10	10	3	0	
+0	0	0	R	12	0	15	0		9	11	5	0	
+0	0	0	B	12	0	15	0		6	12	9	0	
+0	0	0	O	12	0	15	0		11	13	4	0	
+0	1	60	R	12	0	15	0		12	14	3	1	RVS
+0	1	61	A	13	0	3	1	AMS	11	0	4	0	
+0	0	0	M	13	0	3	0		10	1	5	0	
+0	0	0	S	13	0	3	0		10	2	5	0	
+1	0	0	#	13	4	6	0		14	3	0	0	
+0	1	62	N	13	4	6	1	NABORS	11	4	3	0	
+0	0	0	A	13	4	6	0		11	5	3	0	
+0	0	0	B	13	4	6	0		10	6	4	0	
+0	0	0	O	13	4	6	0		12	7	3	0	
+0	0	0	R	13	4	6	0		7	8	8	0	
+0	0	0	S	13	4	6	0		11	9	4	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	63	S	13	11	4	1	SLAV	9	11	5	0	
+0	0	0	L	13	11	4	0		6	12	9	0	
+0	0	0	A	13	11	4	0		11	13	4	0	
+0	0	0	V	13	11	4	0		12	14	3	0	
+0	1	64	D	14	0	3	1	DEE	11	0	4	0	
+0	0	0	E	14	0	3	0		10	1	5	0	
+0	0	0	E	14	0	3	0		10	2	5	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	65	U	14	7	3	1	USO	12	7	3	0	
+0	0	0	S	14	7	3	0		7	8	8	0	
+0	0	0	O	14	7	3	0		11	9	4	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	66	E	14	12	3	1	ESS	6	12	9	0	
+0	0	0	S	14	12	3	0		11	13	4	0	
+0	0	0	S	14	12	3	0		12	14	3	0	
+39
+1	LAO	It's spoken in Vientiane
+4	STE	Suzanne, e.g.: Abbr.
+7	BLU	"Nel ___, dipinto ..." (1958 lyric)
+10	HEIR	One who's got it coming
+12	SOUNDS	Plumbs the depths
+16	OYS	Sounds of shock
+17	ZONINGORDINANCE	Part of a city code
+20	NTESTS	Bikini explosions
+21	ANECDES	Speech enliveners
+22	HNC	Chem. formula for hydrogen isocyanide
+23	MOK	Man in the hood?
+25	UIE	One-eighty
+26	EYES	Choice meat cuts
+28	KAR	Bright, to Brecht
+29	PDF	Suffix for many a sharable computer file
+31	PEN	International writers' org.
+32	ELI	Lawyer on TV's "Civil Wars"
+33	FIFTY	*Evenly split
+36	HAE	Scot's "own"
+37	UALNCQU	Celebrated St. Patrick's Day
+39	RAT	Kind of race
+41	SWANN	Main character in Proust's "Remembrance of Things Past"
+43	OHI	"___ don't know about that"
+44	END	Boundary
+45	KLU	50's baseball nickname
+46	COQ	Serving with vin
+47	OAKS	Stately florae
+48	SDI	80's Pentagon letters
+50	NOO	Emergency call
+51	AMT	Invoice abbr.
+52	SUBSIDE	Opposite of swell
+55	SALAAM	Greeting of respect
+58	TEASINTHEHARBOR	Eighty-sixed wares of 1773
+61	AMS	12-hr. stretches
+62	NABORS	He played a gas station attendant on "The Andy Griffith Show"
+63	SLAV	Cyrillic alphabet user
+64	DEE	Scenic Scottish river
+65	USO	Kind of show
+66	ESS	Part of a long and winding road?
+39
+1	LHZ	Young fellow
+2	AEON	It goes on and on and on
+3	OINTHENEW	Welcome January 1, say
+4	SSGT	Army E-6: Abbr.
+5	TOOSMALL	Like Cinderella's slipper, to her stepsisters
+6	EUR	Part of E.U.: Abbr.
+7	BONDI	Actress Beulah
+8	LYCEE	Certain 
+9	USES	Brings into play
+11	RIENS	Trifles: Fr.
+13	NDAK	Garrison Dam's state: Abbr.
+14	DIN	Conversation stopper?
+15	SNE	1983 Indy winner Tom
+18	NSC	Defense advisory org.
+19	ACUFF	"Wabash Cannonball" singer
+24	ORINOCO	Part of the Venezuela/ Colombia border
+26	EPH	Book before Phil.
+27	YEAS	Affirmative votes
+28	KEANU	Reeves of "Speed"
+29	PFQIQ	In rock, it may be heavy
+30	DIU	Island off India's coast
+34	TREATABLE	Like diabetes
+35	YANK	Pull sharply
+37	UNL	Having no bounds: Abbr.
+38	CHOOSERS	Picky people?
+40	TDS	6-pointers
+42	AKISS	Words sung before and after "is just"
+47	OMARS	Bradley and Epps
+48	SUEME	"So ___!"
+49	DBASE	Early statistical software
+50	NETB	Tennis miss
+51	ALA	Mobile home?: Abbr.
+52	STAD	Native village, in South Africa
+53	IIN	"There is no ___ team"
+54	DNA	Double-helix material
+56	AHSO	Mock words of enlightenment
+57	MOAS	Extinct New Zealanders
+59	HOU	The Astros, on scoreboards
+60	RVS	They may be parked in a park: Abbr.

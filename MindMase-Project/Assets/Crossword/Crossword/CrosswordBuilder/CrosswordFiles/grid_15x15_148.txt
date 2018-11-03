@@ -1,0 +1,309 @@
+grid_15x15_148
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	W	0	2	3	1	WAD	0	2	11	1	WALLOFCHINA
+0	1	2	A	0	2	3	0		0	3	3	1	ACE
+0	1	3	D	0	2	3	0		0	4	3	1	DTS
+1	0	0	#	0	6	0	0		1	5	5	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	S	0	7	3	1	SFC	0	7	4	1	SAND
+0	1	5	F	0	7	3	0		0	8	3	1	FAO
+0	1	6	C	0	7	3	0		0	9	8	1	CATALYST
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	5	0	
+0	1	7	R	0	12	3	1	REA	0	12	3	1	REE
+0	1	8	E	0	12	3	0		0	13	3	1	EWR
+0	1	9	A	0	12	3	0		0	14	3	1	ASE
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	10	P	1	1	5	1	PACTS	1	1	4	1	PAYS
+0	0	0	A	1	1	5	0		0	2	11	0	
+0	0	0	C	1	1	5	0		0	3	3	0	
+0	0	0	T	1	1	5	0		0	4	3	0	
+0	1	11	S	1	1	5	0		1	5	5	1	STORY
+1	0	0	#	1	7	3	0		2	6	0	0	
+0	1	12	A	1	7	3	1	AAA	0	7	4	0	
+0	0	0	A	1	7	3	0		0	8	3	0	
+0	0	0	A	1	7	3	0		0	9	8	0	
+1	0	0	#	1	11	4	0		2	10	3	0	
+0	1	13	S	1	11	4	1	SEWS	1	11	5	1	SHARE
+0	0	0	E	1	11	4	0		0	12	3	0	
+0	0	0	W	1	11	4	0		0	13	3	0	
+0	0	0	S	1	11	4	0		0	14	3	0	
+0	1	14	H	2	0	6	1	HALEST	2	0	3	1	HOD
+0	0	0	A	2	0	6	0		1	1	4	0	
+0	0	0	L	2	0	6	0		0	2	11	0	
+0	0	0	E	2	0	6	0		0	3	3	0	
+0	0	0	S	2	0	6	0		0	4	3	0	
+0	0	0	T	2	0	6	0		1	5	5	0	
+1	0	0	#	2	7	8	0		3	6	7	0	
+0	1	15	N	2	7	8	1	NOTTHERE	0	7	4	0	
+0	0	0	O	2	7	8	0		0	8	3	0	
+0	0	0	T	2	7	8	0		0	9	8	0	
+0	1	16	T	2	7	8	0		2	10	3	1	THO
+0	0	0	H	2	7	8	0		1	11	5	0	
+0	0	0	E	2	7	8	0		0	12	3	0	
+0	0	0	R	2	7	8	0		0	13	3	0	
+0	0	0	E	2	7	8	0		0	14	3	0	
+0	1	17	O	3	0	3	1	OYL	2	0	3	0	
+0	0	0	Y	3	0	3	0		1	1	4	0	
+0	0	0	L	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	18	O	3	5	3	1	OKD	1	5	5	0	
+0	1	19	K	3	5	3	0		3	6	7	1	KIWANIS
+0	0	0	D	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	20	A	3	9	3	1	AHA	0	9	8	0	
+0	0	0	H	3	9	3	0		2	10	3	0	
+0	0	0	A	3	9	3	0		1	11	5	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	21	D	4	0	3	1	DSO	2	0	3	0	
+0	0	0	S	4	0	3	0		1	1	4	0	
+0	0	0	O	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	3	0	
+0	1	22	T	4	4	3	1	TRI	4	4	3	1	TZE
+0	0	0	R	4	4	3	0		1	5	5	0	
+0	0	0	I	4	4	3	0		3	6	7	0	
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	5	0		5	8	7	0	
+0	1	23	L	4	9	5	1	LORCA	0	9	8	0	
+0	0	0	O	4	9	5	0		2	10	3	0	
+0	0	0	R	4	9	5	0		1	11	5	0	
+0	1	24	C	4	9	5	0		4	12	11	1	CAESARSWIFE
+0	1	25	A	4	9	5	0		4	13	5	1	ATRAP
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	8	0		6	1	5	0	
+0	1	26	F	5	2	8	1	FUZYWUZY	0	2	11	0	
+0	1	27	U	5	2	8	0		5	3	3	1	URU
+0	0	0	Z	5	2	8	0		4	4	3	0	
+0	0	0	Y	5	2	8	0		1	5	5	0	
+0	0	0	W	5	2	8	0		3	6	7	0	
+0	1	28	U	5	2	8	0		5	7	5	1	URGER
+0	1	29	Z	5	2	8	0		5	8	7	1	ZESTIER
+0	0	0	Y	5	2	8	0		0	9	8	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	30	E	5	11	3	1	EAT	1	11	5	0	
+0	0	0	A	5	11	3	0		4	12	11	0	
+0	0	0	T	5	11	3	0		4	13	5	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	31	N	6	0	5	1	NACRE	6	0	3	1	NON
+0	1	32	A	6	0	5	0		6	1	5	1	AAMCO
+0	0	0	C	6	0	5	0		0	2	11	0	
+0	0	0	R	6	0	5	0		5	3	3	0	
+0	0	0	E	6	0	5	0		4	4	3	0	
+1	0	0	#	6	6	4	0		7	5	8	0	
+0	1	33	A	6	6	4	1	ARES	3	6	7	0	
+0	0	0	R	6	6	4	0		5	7	5	0	
+0	0	0	E	6	6	4	0		5	8	7	0	
+0	0	0	S	6	6	4	0		0	9	8	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	34	E	6	12	3	1	ERS	4	12	11	0	
+0	0	0	R	6	12	3	0		4	13	5	0	
+0	1	35	S	6	12	3	0		6	14	3	1	SCH
+0	1	36	O	7	0	4	1	OAHU	6	0	3	0	
+0	0	0	A	7	0	4	0		6	1	5	0	
+0	0	0	H	7	0	4	0		0	2	11	0	
+0	0	0	U	7	0	4	0		5	3	3	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	37	A	7	5	5	1	ANGST	7	5	8	1	ATTESTTO
+0	0	0	N	7	5	5	0		3	6	7	0	
+0	0	0	G	7	5	5	0		5	7	5	0	
+0	0	0	S	7	5	5	0		5	8	7	0	
+0	0	0	T	7	5	5	0		0	9	8	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	38	U	7	11	4	1	USAC	7	11	3	1	UTE
+0	0	0	S	7	11	4	0		4	12	11	0	
+0	0	0	A	7	11	4	0		4	13	5	0	
+0	0	0	C	7	11	4	0		6	14	3	0	
+0	1	39	N	8	0	3	1	NMI	6	0	3	0	
+0	0	0	M	8	0	3	0		6	1	5	0	
+0	0	0	I	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	0	0		9	3	5	0	
+1	0	0	#	8	5	4	0		9	4	0	0	
+0	1	40	T	8	5	4	1	TIET	7	5	8	0	
+0	0	0	I	8	5	4	0		3	6	7	0	
+0	0	0	E	8	5	4	0		5	7	5	0	
+0	0	0	T	8	5	4	0		5	8	7	0	
+1	0	0	#	8	10	5	0		9	9	5	0	
+0	1	41	S	8	10	5	1	STAPH	8	10	3	1	STE
+0	0	0	T	8	10	5	0		7	11	3	0	
+0	0	0	A	8	10	5	0		4	12	11	0	
+0	0	0	P	8	10	5	0		4	13	5	0	
+0	0	0	H	8	10	5	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	42	C	9	1	3	1	CNS	6	1	5	0	
+0	0	0	N	9	1	3	0		0	2	11	0	
+0	1	43	S	9	1	3	0		9	3	5	1	SKIRR
+1	0	0	#	9	5	8	0		10	4	3	0	
+0	1	44	T	9	5	8	1	TSRISTER	7	5	8	0	
+0	0	0	S	9	5	8	0		3	6	7	0	
+0	0	0	R	9	5	8	0		5	7	5	0	
+0	0	0	I	9	5	8	0		5	8	7	0	
+0	1	45	S	9	5	8	0		9	9	5	1	STAEL
+0	0	0	T	9	5	8	0		8	10	3	0	
+0	0	0	E	9	5	8	0		7	11	3	0	
+0	0	0	R	9	5	8	0		4	12	11	0	
+1	0	0	#	9	14	0	0		10	13	4	0	
+1	0	0	#	9	15	0	0		10	14	3	0	
+1	0	0	#	10	1	5	0		11	0	0	0	
+0	1	46	O	10	1	5	1	OAKIE	6	1	5	0	
+0	0	0	A	10	1	5	0		0	2	11	0	
+0	0	0	K	10	1	5	0		9	3	5	0	
+0	1	47	I	10	1	5	0		10	4	3	1	IVE
+0	0	0	E	10	1	5	0		7	5	8	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	4	0	
+0	1	48	E	10	8	3	1	ETE	5	8	7	0	
+0	0	0	T	10	8	3	0		9	9	5	0	
+0	0	0	E	10	8	3	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	49	S	10	12	3	1	SUF	4	12	11	0	
+0	1	50	U	10	12	3	0		10	13	4	1	UPSA
+0	1	51	F	10	12	3	0		10	14	3	1	FAT
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	52	I	11	3	3	1	IVS	9	3	5	0	
+0	0	0	V	11	3	3	0		10	4	3	0	
+0	0	0	S	11	3	3	0		7	5	8	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	53	S	11	7	3	1	SRA	11	7	4	1	SACS
+0	0	0	R	11	7	3	0		5	8	7	0	
+0	0	0	A	11	7	3	0		9	9	5	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	54	W	11	12	3	1	WPA	4	12	11	0	
+0	0	0	P	11	12	3	0		10	13	4	0	
+0	0	0	A	11	12	3	0		10	14	3	0	
+0	1	55	L	12	0	8	1	LUCRETIA	12	0	3	1	LTR
+0	1	56	U	12	0	8	0		12	1	3	1	UIR
+0	1	57	C	12	0	8	0		12	2	3	1	CES
+0	0	0	R	12	0	8	0		9	3	5	0	
+0	0	0	E	12	0	8	0		10	4	3	0	
+0	0	0	T	12	0	8	0		7	5	8	0	
+0	1	58	I	12	0	8	0		12	6	3	1	IAL
+0	0	0	A	12	0	8	0		11	7	4	0	
+1	0	0	#	12	9	6	0		13	8	0	0	
+0	1	59	E	12	9	6	1	ENLIST	9	9	5	0	
+0	1	60	N	12	9	6	0		12	10	3	1	NOI
+0	1	61	L	12	9	6	0		12	11	3	1	LOM
+0	0	0	I	12	9	6	0		4	12	11	0	
+0	0	0	S	12	9	6	0		10	13	4	0	
+0	0	0	T	12	9	6	0		10	14	3	0	
+0	1	62	T	13	0	4	1	TIER	12	0	3	0	
+0	0	0	I	13	0	4	0		12	1	3	0	
+0	0	0	E	13	0	4	0		12	2	3	0	
+0	0	0	R	13	0	4	0		9	3	5	0	
+1	0	0	#	13	5	3	0		14	4	0	0	
+0	1	63	T	13	5	3	1	TAC	7	5	8	0	
+0	0	0	A	13	5	3	0		12	6	3	0	
+0	0	0	C	13	5	3	0		11	7	4	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	64	L	13	9	5	1	LOOFA	9	9	5	0	
+0	0	0	O	13	9	5	0		12	10	3	0	
+0	0	0	O	13	9	5	0		12	11	3	0	
+0	0	0	F	13	9	5	0		4	12	11	0	
+0	0	0	A	13	9	5	0		10	13	4	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+0	1	65	R	14	0	3	1	RRS	12	0	3	0	
+0	0	0	R	14	0	3	0		12	1	3	0	
+0	0	0	S	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	66	O	14	5	3	1	OLS	7	5	8	0	
+0	0	0	L	14	5	3	0		12	6	3	0	
+0	0	0	S	14	5	3	0		11	7	4	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	67	I	14	10	3	1	IME	12	10	3	0	
+0	0	0	M	14	10	3	0		12	11	3	0	
+0	0	0	E	14	10	3	0		4	12	11	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	WAD	Walletful
+4	SFC	Certain NCO
+7	REA	New Deal inits.
+10	PACTS	Deals
+12	AAA	Jump provider: Abbr.
+13	SEWS	Repairs some tears
+14	HALEST	Most robust
+15	NOTTHERE	Missing
+17	OYL	Thimble Theatre name
+18	OKD	Gave the thumbs-up
+20	AHA	"Now it's clear!"
+21	DSO	Award since 1886: Abbr.
+22	TRI	Part of TNT
+23	LORCA	Poet Federico Garc
+26	FUZYWUZY	1892 Kipling poem
+30	EAT	Use (up), as savings
+31	NACRE	Bead material
+33	ARES	Harmonia's father
+34	ERS	Stumblers' sounds
+36	OAHU	Home of Wheeler Army Airfield
+37	ANGST	Teen affliction
+38	USAC	Midget car-racing org.
+39	NMI	Application letters
+40	TIET	Amusement park purchase
+41	STAPH	Kind of infection
+42	CNS	Brain and spinal cord: Abbr.
+44	TSRISTER	Simpson attorney?
+46	OAKIE	Actor Jack of "The Great Dictator"
+48	ETE	It's hot in Cannes
+49	SUF	"-er" or "-ing," e.g.: Abbr.
+52	IVS	Drippers
+53	SRA	Mex. Mrs.
+54	WPA	New Deal inits.
+55	LUCRETIA	Mrs. James A. Garfield
+59	ENLIST	Sign up
+62	TIER	Tower part
+63	TAC	Middle of a kids' game
+64	LOOFA	Shower sponge
+65	RRS	B.&O. et al.
+66	OLS	Suffixes with glycer- and phen-
+67	IME	"___ Mine" (track on "Let It Be")
+39
+1	WALLOFCHINA	"Great" Asian landmark
+2	ACE	Master
+3	DTS	Skid row affliction
+4	SAND	Grit
+5	FAO	Toy store inits.
+6	CATALYST	Spark
+7	REE	Riddle-me-___
+8	EWR	Airport alternative to JFK or LGA
+9	ASE	"Peer Gynt" character
+10	PAYS	Settles up
+11	STORY	Alibi
+13	SHARE	Don't be a hog
+14	HOD	Container on a pole
+16	THO	Vietnam's Le Duc ___
+19	KIWANIS	Community group since 1915
+22	TZE	Philosopher Mo-___
+24	CAESARSWIFE	One who must be above suspicion, in a saying
+25	ATRAP	Fall into ___ (get caught)
+27	URU	Neighbor of Braz.
+28	URGER	Insistent one
+29	ZESTIER	More flavorful
+31	NON	Prefix with dairy
+32	AAMCO	Transmission repair franchise
+35	SCH	Part of J.H.S.: Abbr.
+37	ATTESTTO	Certify
+38	UTE	Indian tongue
+41	STE	Abbr. on many Qu
+43	SKIRR	Go rapidly
+45	STAEL	Author Madame de ___
+47	IVE	"___ got your number"
+50	UPSA	"___-daisy!"
+51	FAT	Prosperous
+53	SACS	Some egg containers
+55	LTR	Word unit: Abbr.
+56	UIR	Onetime TWA rival
+57	CES	These, in Oise
+58	IAL	Suffix with different
+60	NOI	"___ certainly do not!"
+61	LOM	Sellers

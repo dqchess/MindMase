@@ -1,0 +1,167 @@
+grid_11x11_164
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	D	0	2	3	1	DCI	0	2	5	1	DABLL
+0	1	2	C	0	2	3	0		0	3	3	1	CTA
+0	1	3	I	0	2	3	0		0	4	3	1	IEL
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	6	0	
+0	1	4	R	0	8	3	1	ROO	0	8	5	1	RUARK
+0	1	5	O	0	8	3	0		0	9	5	1	OMITS
+0	1	6	O	0	8	3	0		0	10	3	1	OYL
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	7	C	1	1	5	1	CATES	1	1	4	1	COOS
+0	0	0	A	1	1	5	0		0	2	5	0	
+0	0	0	T	1	1	5	0		0	3	3	0	
+0	0	0	E	1	1	5	0		0	4	3	0	
+0	1	8	S	1	1	5	0		1	5	9	1	STORYLINE
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	F	1	7	4	1	FUMY	1	7	6	1	FRESNO
+0	0	0	U	1	7	4	0		0	8	5	0	
+0	0	0	M	1	7	4	0		0	9	5	0	
+0	0	0	Y	1	7	4	0		0	10	3	0	
+0	1	10	C	2	0	6	1	COBALT	2	0	3	1	CFO
+0	0	0	O	2	0	6	0		1	1	4	0	
+0	0	0	B	2	0	6	0		0	2	5	0	
+0	0	0	A	2	0	6	0		0	3	3	0	
+0	0	0	L	2	0	6	0		0	4	3	0	
+0	0	0	T	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	11	R	2	7	4	1	RAIL	1	7	6	0	
+0	0	0	A	2	7	4	0		0	8	5	0	
+0	0	0	I	2	7	4	0		0	9	5	0	
+0	0	0	L	2	7	4	0		0	10	3	0	
+0	1	12	F	3	0	3	1	FOL	2	0	3	0	
+0	0	0	O	3	0	3	0		1	1	4	0	
+0	0	0	L	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	0	0		4	3	6	0	
+1	0	0	#	3	5	5	0		4	4	0	0	
+0	1	13	O	3	5	5	1	OVERT	1	5	9	0	
+0	1	14	V	3	5	5	0		3	6	3	1	VII
+0	0	0	E	3	5	5	0		1	7	6	0	
+0	0	0	R	3	5	5	0		0	8	5	0	
+0	0	0	T	3	5	5	0		0	9	5	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	O	4	0	4	1	OSLO	2	0	3	0	
+0	0	0	S	4	0	4	0		1	1	4	0	
+0	0	0	L	4	0	4	0		0	2	5	0	
+0	1	16	O	4	0	4	0		4	3	6	1	OWESTO
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	17	R	4	5	5	1	RISKS	1	5	9	0	
+0	0	0	I	4	5	5	0		3	6	3	0	
+0	0	0	S	4	5	5	0		1	7	6	0	
+0	0	0	K	4	5	5	0		0	8	5	0	
+0	0	0	S	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	18	W	5	3	5	1	WAYIN	4	3	6	0	
+0	1	19	A	5	3	5	0		5	4	3	1	ALC
+0	0	0	Y	5	3	5	0		1	5	9	0	
+0	0	0	I	5	3	5	0		3	6	3	0	
+0	0	0	N	5	3	5	0		1	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	20	S	6	1	5	1	SZELL	6	1	5	1	SPILT
+0	1	21	Z	6	1	5	0		6	2	5	1	ZELIG
+0	0	0	E	6	1	5	0		4	3	6	0	
+0	0	0	L	6	1	5	0		5	4	3	0	
+0	0	0	L	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	4	0		7	6	0	0	
+0	1	22	O	6	7	4	1	OMNI	1	7	6	0	
+0	1	23	M	6	7	4	0		6	8	5	1	MIRTH
+0	1	24	N	6	7	4	0		6	9	4	1	NCOS
+0	1	25	I	6	7	4	0		6	10	3	1	IES
+1	0	0	#	7	1	5	0		8	0	3	0	
+0	1	26	P	7	1	5	1	PESCI	6	1	5	0	
+0	0	0	E	7	1	5	0		6	2	5	0	
+0	0	0	S	7	1	5	0		4	3	6	0	
+0	0	0	C	7	1	5	0		5	4	3	0	
+0	0	0	I	7	1	5	0		1	5	9	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	I	7	8	3	1	ICE	6	8	5	0	
+0	0	0	C	7	8	3	0		6	9	4	0	
+0	0	0	E	7	8	3	0		6	10	3	0	
+0	1	28	H	8	0	4	1	HILT	8	0	3	1	HOM
+0	0	0	I	8	0	4	0		6	1	5	0	
+0	0	0	L	8	0	4	0		6	2	5	0	
+0	0	0	T	8	0	4	0		4	3	6	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	29	N	8	5	6	1	NEGROS	1	5	9	0	
+0	1	30	E	8	5	6	0		8	6	3	1	ETD
+0	1	31	G	8	5	6	0		8	7	3	1	GAO
+0	0	0	R	8	5	6	0		6	8	5	0	
+0	0	0	O	8	5	6	0		6	9	4	0	
+0	0	0	S	8	5	6	0		6	10	3	0	
+0	1	32	O	9	0	4	1	OLIO	8	0	3	0	
+0	0	0	L	9	0	4	0		6	1	5	0	
+0	0	0	I	9	0	4	0		6	2	5	0	
+0	0	0	O	9	0	4	0		4	3	6	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	33	E	9	5	5	1	ETATS	1	5	9	0	
+0	0	0	T	9	5	5	0		8	6	3	0	
+0	0	0	A	9	5	5	0		8	7	3	0	
+0	0	0	T	9	5	5	0		6	8	5	0	
+0	0	0	S	9	5	5	0		6	9	4	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	M	10	0	3	1	MTG	8	0	3	0	
+0	0	0	T	10	0	3	0		6	1	5	0	
+0	0	0	G	10	0	3	0		6	2	5	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	35	D	10	6	3	1	DOH	8	6	3	0	
+0	0	0	O	10	6	3	0		8	7	3	0	
+0	0	0	H	10	6	3	0		6	8	5	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	DCI	601, to Nero
+4	ROO	Aussie bounder
+7	CATES	Phoebe of "Gremlins"
+9	FUMY	Like noxious gases
+10	COBALT	Metal that gave its name to a shade of blue
+11	RAIL	Bunk bed feature
+12	FOL	Coming after: Abbr.
+13	OVERT	In-your-face
+15	OSLO	City ESE of Bergen
+17	RISKS	Thieves may take these
+18	WAYIN	Door
+20	SZELL	George ___, longtime Cleveland Orchestra conductor
+22	OMNI	Bygone science/sci-fi magazine
+26	PESCI	"GoodFellas" Oscar winner Joe
+27	ICE	It may be crushed
+28	HILT	Maximum extent
+29	NEGROS	Philippine island
+32	OLIO	Mishmash
+33	ETATS	The Dakotas, to de Gaulle
+34	MTG	Appt., often
+35	DOH	Exclamation added to the O.E.D. in 2001
+21
+1	DABLL	"A little ___ do ya" (1950s-'60s slogan)
+2	CTA	Windy City rail inits.
+3	IEL	Drive forward
+4	RUARK	"Something of Value" author Robert
+5	OMITS	Passes by
+6	OYL	Olive with a little salt?
+7	COOS	Talks lovingly
+8	STORYLINE	Narrative
+9	FRESNO	California county or its seat
+10	CFO	Head of cabbage?: Abbr.
+14	VII	Clock numeral
+16	OWESTO	Has a loan from
+19	ALC	Still product: Abbr.
+20	SPILT	Dumped out
+21	ZELIG	1983 Woody Allen film
+23	MIRTH	Feature of a Friars Club meeting
+24	NCOS	Three-stripers, e.g.: Abbr.
+25	IES	Suffix with pant or aunt
+28	HOM	Opposite of heter-
+30	ETD	Announcement in a waiting area: Abbr.
+31	GAO	Fed. overseer

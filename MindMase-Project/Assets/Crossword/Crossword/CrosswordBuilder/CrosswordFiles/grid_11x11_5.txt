@@ -1,0 +1,171 @@
+grid_11x11_5
+11
+0	1	1	E	0	0	3	1	ETA	0	0	3	1	EFF
+0	1	2	T	0	0	3	0		0	1	4	1	TIRO
+0	1	3	A	0	0	3	0		0	2	4	1	ANSE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	P	0	4	3	1	PNE	0	4	6	1	PEPSIN
+0	1	5	N	0	4	3	0		0	5	3	1	NEK
+0	1	6	E	0	4	3	0		0	6	3	1	ENS
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	E	0	8	3	1	EDH	0	8	6	1	EPINAL
+0	1	8	D	0	8	3	0		0	9	6	1	DIPOLE
+0	1	9	H	0	8	3	0		0	10	5	1	HESSE
+0	1	10	F	1	0	3	1	FIN	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	4	0	
+0	0	0	N	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	3	0		2	3	0	0	
+0	1	11	E	1	4	3	1	EEN	0	4	6	0	
+0	0	0	E	1	4	3	0		0	5	3	0	
+0	0	0	N	1	4	3	0		0	6	3	0	
+1	0	0	#	1	8	3	0		2	7	6	0	
+0	1	12	P	1	8	3	1	PIE	0	8	6	0	
+0	0	0	I	1	8	3	0		0	9	6	0	
+0	0	0	E	1	8	3	0		0	10	5	0	
+0	1	13	F	2	0	3	1	FRS	0	0	3	0	
+0	0	0	R	2	0	3	0		0	1	4	0	
+0	0	0	S	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	7	0		3	3	6	0	
+0	1	14	P	2	4	7	1	PKSLIPS	0	4	6	0	
+0	0	0	K	2	4	7	0		0	5	3	0	
+0	0	0	S	2	4	7	0		0	6	3	0	
+0	1	15	L	2	4	7	0		2	7	6	1	LUMBAR
+0	0	0	I	2	4	7	0		0	8	6	0	
+0	0	0	P	2	4	7	0		0	9	6	0	
+0	0	0	S	2	4	7	0		0	10	5	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	16	O	3	1	4	1	OENS	0	1	4	0	
+0	0	0	E	3	1	4	0		0	2	4	0	
+0	1	17	N	3	1	4	0		3	3	6	1	NORMAN
+0	0	0	S	3	1	4	0		0	4	6	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	18	U	3	7	4	1	UNOS	2	7	6	0	
+0	0	0	N	3	7	4	0		0	8	6	0	
+0	0	0	O	3	7	4	0		0	9	6	0	
+0	0	0	S	3	7	4	0		0	10	5	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	19	O	4	3	3	1	OIO	3	3	6	0	
+0	0	0	I	4	3	3	0		0	4	6	0	
+0	1	20	O	4	3	3	0		4	5	3	1	OTA
+1	0	0	#	4	7	4	0		5	6	6	0	
+0	1	21	M	4	7	4	1	MALE	2	7	6	0	
+0	0	0	A	4	7	4	0		0	8	6	0	
+0	0	0	L	4	7	4	0		0	9	6	0	
+0	0	0	E	4	7	4	0		0	10	5	0	
+1	0	0	#	5	1	9	0		6	0	5	0	
+0	1	22	T	5	1	9	1	TURNTABLE	5	1	6	1	TRACII
+0	1	23	U	5	1	9	0		5	2	6	1	UATTYK
+0	0	0	R	5	1	9	0		3	3	6	0	
+0	0	0	N	5	1	9	0		0	4	6	0	
+0	0	0	T	5	1	9	0		4	5	3	0	
+0	1	24	A	5	1	9	0		5	6	6	1	ARMETS
+0	0	0	B	5	1	9	0		2	7	6	0	
+0	0	0	L	5	1	9	0		0	8	6	0	
+0	0	0	E	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	25	G	6	0	4	1	GRAM	6	0	5	1	GRADE
+0	0	0	R	6	0	4	0		5	1	6	0	
+0	0	0	A	6	0	4	0		5	2	6	0	
+0	0	0	M	6	0	4	0		3	3	6	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	26	A	6	5	3	1	ARA	4	5	3	0	
+0	0	0	R	6	5	3	0		5	6	6	0	
+0	0	0	A	6	5	3	0		2	7	6	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	R	7	0	4	1	RATA	6	0	5	0	
+0	0	0	A	7	0	4	0		5	1	6	0	
+0	0	0	T	7	0	4	0		5	2	6	0	
+0	0	0	A	7	0	4	0		3	3	6	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	28	M	7	6	4	1	MRAZ	5	6	6	0	
+0	0	0	R	7	6	4	0		2	7	6	0	
+0	1	29	A	7	6	4	0		7	8	4	1	ANIM
+0	1	30	Z	7	6	4	0		7	9	4	1	ZTOP
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	A	8	0	7	1	ACTNICE	6	0	5	0	
+0	0	0	C	8	0	7	0		5	1	6	0	
+0	0	0	T	8	0	7	0		5	2	6	0	
+0	0	0	N	8	0	7	0		3	3	6	0	
+0	1	32	I	8	0	7	0		8	4	3	1	IRS
+0	1	33	C	8	0	7	0		8	5	3	1	COQ
+0	0	0	E	8	0	7	0		5	6	6	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	34	N	8	8	3	1	NTS	7	8	4	0	
+0	0	0	T	8	8	3	0		7	9	4	0	
+0	1	35	S	8	8	3	0		8	10	3	1	SCS
+0	1	36	D	9	0	3	1	DIY	6	0	5	0	
+0	0	0	I	9	0	3	0		5	1	6	0	
+0	0	0	Y	9	0	3	0		5	2	6	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	37	R	9	4	3	1	ROT	8	4	3	0	
+0	0	0	O	9	4	3	0		8	5	3	0	
+0	0	0	T	9	4	3	0		5	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	38	I	9	8	3	1	IOC	7	8	4	0	
+0	0	0	O	9	8	3	0		7	9	4	0	
+0	0	0	C	9	8	3	0		8	10	3	0	
+0	1	39	E	10	0	3	1	EIK	6	0	5	0	
+0	0	0	I	10	0	3	0		5	1	6	0	
+0	0	0	K	10	0	3	0		5	2	6	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	40	S	10	4	3	1	SQS	8	4	3	0	
+0	0	0	Q	10	4	3	0		8	5	3	0	
+0	0	0	S	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	41	M	10	8	3	1	MPS	7	8	4	0	
+0	0	0	P	10	8	3	0		7	9	4	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+25
+1	ETA	Pilot's guess: Abbr.
+4	PNE	Log cabin material, maybe
+7	EDH	Letter in runes
+10	FIN	Half of a sawbuck
+11	EEN	Poetic darkness
+12	PIE	Sales pitch?
+13	FRS	Former French money: Abbr.
+14	PKSLIPS	Unwelcome handouts
+16	OENS	1936 Olympics hero
+18	UNOS	Spanish ones
+19	OIO	Source of some rings
+21	MALE	Selective service registrant
+22	TURNTABLE	Once popular player
+25	GRAM	Tiny weight unit
+26	ARA	Constellation next to Norma
+27	RATA	Pro ___ (proportionately)
+28	MRAZ	Jason who sang "I'm Yours," 2008
+31	ACTNICE	Kindergarten admonition
+34	NTS	Some Windows systems
+36	DIY	Handyman's letters
+37	ROT	Break down
+38	IOC	Games grp.
+39	EIK	Apt. feature, in the classifieds
+40	SQS	Geometric figs.
+41	MPS	Brit. lawmakers
+21
+1	EFF	Gee preceder
+2	TIRO	Rookie: Var.
+3	ANSE	Faulkner hero
+4	PEPSIN	Digestive juice
+5	NEK	Educational cable network
+6	ENS	Dash-dot, dash-dot, dash-dot
+7	EPINAL	French city on the Moselle
+8	DIPOLE	Pair of opposite electric charges
+9	HESSE	"Steppenwolf" novelist
+15	LUMBAR	Like some vertebrae
+17	NORMAN	11th-century conqueror
+20	OTA	Hiroshima's river
+22	TRACII	Razor brand
+23	UATTYK	Like British bishops
+24	ARMETS	Headgear for medieval soldiers
+25	GRADE	A, B or C
+29	ANIM	Lively, in mus.
+30	ZTOP	Rock trio known for its bearded members
+32	IRS	Auditor's org.
+33	COQ	Serving with vin
+35	SCS	Barges

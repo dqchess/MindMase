@@ -1,0 +1,231 @@
+grid_13x13_148
+13
+0	1	1	C	0	0	5	1	CASEY	0	0	3	1	CDS
+0	1	2	A	0	0	5	0		0	1	8	1	AILERONS
+0	1	3	S	0	0	5	0		0	2	13	1	SAINTNECKLACE
+0	1	4	E	0	0	5	0		0	3	4	1	EDEL
+0	1	5	Y	0	0	5	0		0	4	3	1	YES
+1	0	0	#	0	6	0	0		1	5	6	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	6	L	0	8	3	1	LUB	0	8	3	1	LIM
+0	1	7	U	0	8	3	0		0	9	3	1	URL
+0	1	8	B	0	8	3	0		0	10	13	1	BEARSWATCHING
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	9	D	1	0	6	1	DIADEM	0	0	3	0	
+0	0	0	I	1	0	6	0		0	1	8	0	
+0	0	0	A	1	0	6	0		0	2	13	0	
+0	0	0	D	1	0	6	0		0	3	4	0	
+0	0	0	E	1	0	6	0		0	4	3	0	
+0	1	10	M	1	0	6	0		1	5	6	1	MTHOOD
+1	0	0	#	1	7	6	0		2	6	0	0	
+0	1	11	H	1	7	6	1	HIREES	1	7	4	1	HIST
+0	0	0	I	1	7	6	0		0	8	3	0	
+0	0	0	R	1	7	6	0		0	9	3	0	
+0	0	0	E	1	7	6	0		0	10	13	0	
+0	1	12	E	1	7	6	0		1	11	3	1	ETA
+0	1	13	S	1	7	6	0		1	12	3	1	SEU
+0	1	14	S	2	0	6	1	SLIEST	0	0	3	0	
+0	0	0	L	2	0	6	0		0	1	8	0	
+0	0	0	I	2	0	6	0		0	2	13	0	
+0	0	0	E	2	0	6	0		0	3	4	0	
+0	0	0	S	2	0	6	0		0	4	3	0	
+0	0	0	T	2	0	6	0		1	5	6	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	15	I	2	7	6	1	IMLATE	1	7	4	0	
+0	0	0	M	2	7	6	0		0	8	3	0	
+0	0	0	L	2	7	6	0		0	9	3	0	
+0	0	0	A	2	7	6	0		0	10	13	0	
+0	0	0	T	2	7	6	0		1	11	3	0	
+0	0	0	E	2	7	6	0		1	12	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	16	E	3	1	3	1	ENL	0	1	8	0	
+0	0	0	N	3	1	3	0		0	2	13	0	
+0	0	0	L	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	17	H	3	5	3	1	HBS	1	5	6	0	
+0	1	18	B	3	5	3	0		3	6	7	1	BARTERS
+0	0	0	S	3	5	3	0		1	7	4	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	19	R	3	10	3	1	RAU	0	10	13	0	
+0	0	0	A	3	10	3	0		1	11	3	0	
+0	0	0	U	3	10	3	0		1	12	3	0	
+0	1	20	A	4	0	3	1	ART	4	0	3	1	ASO
+0	0	0	R	4	0	3	0		0	1	8	0	
+0	0	0	T	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	4	0	
+0	1	21	O	4	5	6	1	OATERS	1	5	6	0	
+0	0	0	A	4	5	6	0		3	6	7	0	
+0	0	0	T	4	5	6	0		1	7	4	0	
+0	1	22	E	4	5	6	0		4	8	4	1	EWEN
+0	1	23	R	4	5	6	0		4	9	3	1	RAS
+0	0	0	S	4	5	6	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	8	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	24	S	5	0	3	1	SON	4	0	3	0	
+0	0	0	O	5	0	3	0		0	1	8	0	
+0	0	0	N	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	25	I	5	4	3	1	IOR	5	4	4	1	INST
+0	0	0	O	5	4	3	0		1	5	6	0	
+0	0	0	R	5	4	3	0		3	6	7	0	
+1	0	0	#	5	8	4	0		6	7	6	0	
+0	1	26	W	5	8	4	1	WAWA	4	8	4	0	
+0	0	0	A	5	8	4	0		4	9	3	0	
+0	0	0	W	5	8	4	0		0	10	13	0	
+0	1	27	A	5	8	4	0		5	11	8	1	AMBROSIA
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	O	6	0	13	1	ONEANDTHESAME	4	0	3	0	
+0	0	0	N	6	0	13	0		0	1	8	0	
+0	0	0	E	6	0	13	0		0	2	13	0	
+0	1	29	A	6	0	13	0		6	3	3	1	AIS
+0	0	0	N	6	0	13	0		5	4	4	0	
+0	0	0	D	6	0	13	0		1	5	6	0	
+0	0	0	T	6	0	13	0		3	6	7	0	
+0	1	30	H	6	0	13	0		6	7	6	1	HESTON
+0	0	0	E	6	0	13	0		4	8	4	0	
+0	0	0	S	6	0	13	0		4	9	3	0	
+0	0	0	A	6	0	13	0		0	10	13	0	
+0	0	0	M	6	0	13	0		5	11	8	0	
+0	1	31	E	6	0	13	0		6	12	3	1	ESS
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	32	S	7	1	4	1	SCIS	0	1	8	0	
+0	0	0	C	7	1	4	0		0	2	13	0	
+0	0	0	I	7	1	4	0		6	3	3	0	
+0	0	0	S	7	1	4	0		5	4	4	0	
+1	0	0	#	7	6	3	0		8	5	4	0	
+0	1	33	E	7	6	3	1	EEN	3	6	7	0	
+0	0	0	E	7	6	3	0		6	7	6	0	
+0	0	0	N	7	6	3	0		4	8	4	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	34	T	7	10	3	1	TBS	0	10	13	0	
+0	0	0	B	7	10	3	0		5	11	8	0	
+0	0	0	S	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	6	0		9	1	3	0	
+0	1	35	K	8	2	6	1	KSTARS	0	2	13	0	
+0	0	0	S	8	2	6	0		6	3	3	0	
+0	0	0	T	8	2	6	0		5	4	4	0	
+0	1	36	A	8	2	6	0		8	5	4	1	AMPS
+0	0	0	R	8	2	6	0		3	6	7	0	
+0	0	0	S	8	2	6	0		6	7	6	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	37	C	8	10	3	1	CRS	0	10	13	0	
+0	0	0	R	8	10	3	0		5	11	8	0	
+0	0	0	S	8	10	3	0		6	12	3	0	
+0	1	38	T	9	0	3	1	TKL	9	0	3	1	TSE
+0	1	39	K	9	0	3	0		9	1	3	1	KLM
+0	0	0	L	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	40	M	9	5	3	1	MST	8	5	4	0	
+0	0	0	S	9	5	3	0		3	6	7	0	
+0	0	0	T	9	5	3	0		6	7	6	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	41	O	9	9	3	1	OHO	9	9	4	1	OFNO
+0	0	0	H	9	9	3	0		0	10	13	0	
+0	0	0	O	9	9	3	0		5	11	8	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	S	10	0	6	1	SLAPUP	9	0	3	0	
+0	0	0	L	10	0	6	0		9	1	3	0	
+0	0	0	A	10	0	6	0		0	2	13	0	
+0	1	43	P	10	0	6	0		10	3	3	1	PES
+0	1	44	U	10	0	6	0		10	4	3	1	UEA
+0	0	0	P	10	0	6	0		8	5	4	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	45	O	10	7	6	1	OAFISH	6	7	6	0	
+0	1	46	A	10	7	6	0		10	8	3	1	AAH
+0	0	0	F	10	7	6	0		9	9	4	0	
+0	0	0	I	10	7	6	0		0	10	13	0	
+0	0	0	S	10	7	6	0		5	11	8	0	
+0	1	47	H	10	7	6	0		10	12	3	1	HEN
+0	1	48	E	11	0	6	1	EMCEES	9	0	3	0	
+0	0	0	M	11	0	6	0		9	1	3	0	
+0	0	0	C	11	0	6	0		0	2	13	0	
+0	0	0	E	11	0	6	0		10	3	3	0	
+0	0	0	E	11	0	6	0		10	4	3	0	
+0	0	0	S	11	0	6	0		8	5	4	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	49	N	11	7	6	1	NANNIE	6	7	6	0	
+0	0	0	A	11	7	6	0		10	8	3	0	
+0	0	0	N	11	7	6	0		9	9	4	0	
+0	0	0	N	11	7	6	0		0	10	13	0	
+0	0	0	I	11	7	6	0		5	11	8	0	
+0	0	0	E	11	7	6	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	50	E	12	2	3	1	ESA	0	2	13	0	
+0	0	0	S	12	2	3	0		10	3	3	0	
+0	0	0	A	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	51	H	12	8	5	1	HOGAN	10	8	3	0	
+0	0	0	O	12	8	5	0		9	9	4	0	
+0	0	0	G	12	8	5	0		0	10	13	0	
+0	0	0	A	12	8	5	0		5	11	8	0	
+0	0	0	N	12	8	5	0		10	12	3	0	
+29
+1	CASEY	"Mighty" man who struck out
+6	LUB	Friction reducer: Abbr.
+9	DIADEM	Royal headwear
+11	HIREES	Firm acceptances?
+14	SLIEST	Like the best ruse
+15	IMLATE	White Rabbit's cry
+16	ENL	Photog. service
+17	HBS	Quoits pegs
+19	RAU	Writer Santha Rama ___
+20	ART	Skill
+21	OATERS	"The Marshal of Cripple Creek" and others
+24	SON	End of some company names
+25	IOR	Suffix with super
+26	WAWA	"S.N.L." character Baba ___
+28	ONEANDTHESAME	<--
+32	SCIS	Chem. and bio.
+33	EEN	Poet's contraction
+34	TBS	Atlanta-based station
+35	KSTARS	Orange dwarfs
+37	CRS	Some accounting entries: Abbr.
+38	TKL	Damascus's land: Abbr.
+40	MST	Winter hours in Colo.
+41	OHO	Gloating cry
+42	SLAPUP	Excellent, in British lingo
+45	OAFISH	Hardly refined
+48	EMCEES	Hosts
+49	NANNIE	Au pair: Var.
+50	ESA	That se
+51	HOGAN	TV colonel
+29
+1	CDS	I.R.A. options
+2	AILERONS	Parts of airplane wings
+3	SAINTNECKLACE	Patron of jewelers?
+4	EDEL	Writer of a five-volume Henry James biography
+5	YES	"Right"
+6	LIM	Max. or min.
+7	URL	www destination
+8	BEARSWATCHING	Has a promising future in a zoo?
+10	MTHOOD	Ore. peak
+11	HIST	High school subj.
+12	ETA	Second letter before iota
+13	SEU	Blood bank supply
+18	BARTERS	Does deals without money
+20	ASO	Japan's largest active volcano
+22	EWEN	Writer on music David ___
+23	RAS	___ the Destroyer (rabble-rouser in Ralph Ellison's "Invisible Man")
+25	INST	Research facil.
+27	AMBROSIA	Food carried by doves
+29	AIS	Sue Grafton's "___ for Alibi"
+30	HESTON	Charlton of "The Ten Commandments"
+31	ESS	Scout leader?
+36	AMPS	Roadies carry them
+38	TSE	Literary inits.
+39	KLM	Carrier to Schiphol airport
+41	OFNO	___ consequence
+43	PES	Foot: Lat.
+44	UEA	Pupil's place
+46	AAH	Sound at a spa
+47	HEN	Old biddy

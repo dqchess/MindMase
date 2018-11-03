@@ -1,0 +1,117 @@
+grid_9x9_186
+9
+0	1	1	T	0	0	3	1	TND	0	0	3	1	TTL
+0	1	2	N	0	0	3	0		0	1	3	1	NEI
+0	1	3	D	0	0	3	0		0	2	9	1	DNASAMPLE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	B	0	5	3	1	BCD	0	5	3	1	BXQ
+0	1	5	C	0	5	3	0		0	6	9	1	CONTINUES
+0	1	6	D	0	5	3	0		0	7	5	1	DRAMS
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	T	1	0	4	1	TENN	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	3	0	
+0	0	0	N	1	0	4	0		0	2	9	0	
+0	1	8	N	1	0	4	0		1	3	4	1	NTOF
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	X	1	5	4	1	XORO	0	5	3	0	
+0	0	0	O	1	5	4	0		0	6	9	0	
+0	0	0	R	1	5	4	0		0	7	5	0	
+0	1	10	O	1	5	4	0		1	8	3	1	OYS
+0	1	11	L	2	0	4	1	LIAT	0	0	3	0	
+0	0	0	I	2	0	4	0		0	1	3	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	T	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	Q	2	5	4	1	QNAY	0	5	3	0	
+0	0	0	N	2	5	4	0		0	6	9	0	
+0	0	0	A	2	5	4	0		0	7	5	0	
+0	0	0	Y	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	S	3	2	3	1	SOG	0	2	9	0	
+0	0	0	O	3	2	3	0		1	3	4	0	
+0	1	14	G	3	2	3	0		3	4	3	1	GAY
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	T	3	6	3	1	TMS	0	6	9	0	
+0	0	0	M	3	6	3	0		0	7	5	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	16	S	4	1	7	1	SAFARIS	4	1	5	1	STYNE
+0	0	0	A	4	1	7	0		0	2	9	0	
+0	0	0	F	4	1	7	0		1	3	4	0	
+0	0	0	A	4	1	7	0		3	4	3	0	
+0	1	17	R	4	1	7	0		4	5	4	1	RIJN
+0	0	0	I	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	M	5	0	3	1	MTM	5	0	3	1	MHO
+0	0	0	T	5	0	3	0		4	1	5	0	
+0	0	0	M	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	19	Y	5	4	3	1	YIN	3	4	3	0	
+0	0	0	I	5	4	3	0		4	5	4	0	
+0	0	0	N	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	H	6	0	4	1	HYPE	5	0	3	0	
+0	0	0	Y	6	0	4	0		4	1	5	0	
+0	0	0	P	6	0	4	0		0	2	9	0	
+0	1	21	E	6	0	4	0		6	3	3	1	EYE
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	22	J	6	5	4	1	JUTE	4	5	4	0	
+0	0	0	U	6	5	4	0		0	6	9	0	
+0	1	23	T	6	5	4	0		6	7	3	1	TWA
+0	1	24	E	6	5	4	0		6	8	3	1	ETD
+0	1	25	O	7	0	4	1	ONLY	5	0	3	0	
+0	0	0	N	7	0	4	0		4	1	5	0	
+0	0	0	L	7	0	4	0		0	2	9	0	
+0	0	0	Y	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	26	N	7	5	4	1	NEWT	4	5	4	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	W	7	5	4	0		6	7	3	0	
+0	0	0	T	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	E	8	1	3	1	EEE	4	1	5	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	E	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	28	S	8	6	3	1	SAD	0	6	9	0	
+0	0	0	A	8	6	3	0		6	7	3	0	
+0	0	0	D	8	6	3	0		6	8	3	0	
+17
+1	TND	February ___ (Groundhog Day)
+4	BCD	A following?
+7	TENN	Volunteer State: Abbr.
+9	XORO	Tic-tac-toe choice
+11	LIAT	"South Pacific" role
+12	QNAY	___ and done with
+13	SOG	Soak
+15	TMS	Protected images, for short
+16	SAFARIS	Trips overseas
+18	MTM	'70s sitcom producer
+19	YIN	___ and yang
+20	HYPE	Some hot air
+22	JUTE	Burlap fiber
+25	ONLY	The 
+26	NEWT	Its eye is needed in a "Macbeth" recipe
+27	EEE	Unusual shoe width
+28	SAD	Needing buoying
+15
+1	TTL	Lumberjack's tool
+2	NEI	Verdi's "___ giardin del bello"
+3	DNASAMPLE	Bit of forensic evidence
+4	BXQ	Diagonal chess capture
+5	CONTINUES	Carries on
+6	DRAMS	Small amounts
+8	NTOF	Like many office jobs
+10	OYS	Jewish laments
+14	GAY	___ Men's Health Crisis
+16	STYNE	"Gypsy" composer Jule
+17	RIJN	Rembrandt van ___
+18	MHO	Unit now known as a siemens
+21	EYE	Ophthalmologist's study
+23	TWA	Co. of which Howard Hughes became the principal shareholder in 1939
+24	ETD	Flight board abbr.

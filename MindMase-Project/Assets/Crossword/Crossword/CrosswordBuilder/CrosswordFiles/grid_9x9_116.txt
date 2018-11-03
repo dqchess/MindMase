@@ -1,0 +1,117 @@
+grid_9x9_116
+9
+0	1	1	Y	0	0	3	1	YRS	0	0	3	1	YIP
+0	1	2	R	0	0	3	0		0	1	4	1	RTEE
+0	1	3	S	0	0	3	0		0	2	4	1	SAAR
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	M	0	5	3	1	MOM	0	5	3	1	MAT
+0	1	5	O	0	5	3	0		0	6	4	1	OLIO
+0	1	6	M	0	5	3	0		0	7	4	1	MEME
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	I	1	0	3	1	ITA	0	0	3	0	
+0	0	0	T	1	0	3	0		0	1	4	0	
+0	0	0	A	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	H	1	4	5	1	HALER	1	4	7	1	HEINOUS
+0	0	0	A	1	4	5	0		0	5	3	0	
+0	0	0	L	1	4	5	0		0	6	4	0	
+0	0	0	E	1	4	5	0		0	7	4	0	
+0	1	9	R	1	4	5	0		1	8	3	1	REO
+0	1	10	P	2	0	9	1	PEACETIME	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	4	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	1	11	C	2	0	9	0		2	3	3	1	CET
+0	0	0	E	2	0	9	0		1	4	7	0	
+0	0	0	T	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	4	0	
+0	0	0	M	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	E	3	1	4	1	EREI	0	1	4	0	
+0	0	0	R	3	1	4	0		0	2	4	0	
+0	0	0	E	3	1	4	0		2	3	3	0	
+0	0	0	I	3	1	4	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	O	3	6	3	1	OEO	0	6	4	0	
+0	0	0	E	3	6	3	0		0	7	4	0	
+0	0	0	O	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	T	4	3	3	1	TNG	2	3	3	0	
+0	0	0	N	4	3	3	0		1	4	7	0	
+0	1	15	G	4	3	3	0		4	5	3	1	GPS
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	M	5	0	3	1	MAE	5	0	3	1	MII
+0	1	17	A	5	0	3	0		5	1	4	1	ANGE
+0	1	18	E	5	0	3	0		5	2	4	1	ECON
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	19	O	5	4	4	1	OPER	1	4	7	0	
+0	0	0	P	5	4	4	0		4	5	3	0	
+0	1	20	E	5	4	4	0		5	6	4	1	EICS
+0	1	21	R	5	4	4	0		5	7	4	1	RVER
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	I	6	0	9	1	INCLUSIVE	5	0	3	0	
+0	0	0	N	6	0	9	0		5	1	4	0	
+0	0	0	C	6	0	9	0		5	2	4	0	
+0	1	23	L	6	0	9	0		6	3	3	1	LRG
+0	0	0	U	6	0	9	0		1	4	7	0	
+0	0	0	S	6	0	9	0		4	5	3	0	
+0	0	0	I	6	0	9	0		5	6	4	0	
+0	0	0	V	6	0	9	0		5	7	4	0	
+0	1	24	E	6	0	9	0		6	8	3	1	EES
+0	1	25	I	7	0	5	1	IGORS	5	0	3	0	
+0	0	0	G	7	0	5	0		5	1	4	0	
+0	0	0	O	7	0	5	0		5	2	4	0	
+0	0	0	R	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	26	C	7	6	3	1	CEE	5	6	4	0	
+0	0	0	E	7	6	3	0		5	7	4	0	
+0	0	0	E	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	E	8	1	3	1	ENG	5	1	4	0	
+0	0	0	N	8	1	3	0		5	2	4	0	
+0	0	0	G	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	28	S	8	6	3	1	SRS	5	6	4	0	
+0	0	0	R	8	6	3	0		5	7	4	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	YRS	Sentence units: Abbr.
+4	MOM	Classic tattoo
+7	ITA	Give-go go-between
+8	HALER	More healthy
+10	PEACETIME	Postwar period
+12	EREI	"I'll speak a prophecy ___ go": Shak.
+13	OEO	Great Society agcy.
+14	TNG	"Star Trek" series, to fans
+16	MAE	Common female middle name
+19	OPER	0, on a telephone: Abbr.
+22	INCLUSIVE	Nonsexist, in a way
+25	IGORS	Stravinsky and others
+26	CEE	Middling grade
+27	ENG	International lang.
+28	SRS	Name appendages
+17
+1	YIP	Poodle's greeting
+2	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+3	SAAR	German coal-producing region
+4	MAT	Pin cushion
+5	OLIO	Variety show fare
+6	MEME	Repetitive cry while waving a hand
+8	HEINOUS	Worse than awful
+9	REO	Old bus maker
+11	CET	This, to Th
+15	GPS	Some docs
+16	MII	Roman 1,002
+17	ANGE	Seraph of S
+18	ECON	Nobel Prize category: Abbr.
+20	EICS	Hollywood's Roberts and others
+21	RVER	Winnebago owner
+23	LRG	Big: Abbr.
+24	EES	Some Caltech grads

@@ -1,0 +1,113 @@
+grid_9x9_12
+9
+0	1	1	H	0	0	3	1	HOH	0	0	3	1	HIC
+0	1	2	O	0	0	3	0		0	1	3	1	OSE
+0	1	3	H	0	0	3	0		0	2	3	1	HID
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	Y	0	6	3	1	YON	0	6	5	1	YARNS
+0	1	5	O	0	6	3	0		0	7	5	1	ODETS
+0	1	6	N	0	6	3	0		0	8	3	1	NAE
+0	1	7	I	1	0	5	1	ISING	0	0	3	0	
+0	0	0	S	1	0	5	0		0	1	3	0	
+0	0	0	I	1	0	5	0		0	2	3	0	
+0	1	8	N	1	0	5	0		1	3	6	1	NASCAR
+0	1	9	G	1	0	5	0		1	4	7	1	GRACING
+1	0	0	#	1	6	3	0		2	5	6	0	
+0	1	10	A	1	6	3	1	ADA	0	6	5	0	
+0	0	0	D	1	6	3	0		0	7	5	0	
+0	0	0	A	1	6	3	0		0	8	3	0	
+0	1	11	C	2	0	9	1	CEDARTREE	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	3	0	
+0	0	0	D	2	0	9	0		0	2	3	0	
+0	0	0	A	2	0	9	0		1	3	6	0	
+0	0	0	R	2	0	9	0		1	4	7	0	
+0	1	12	T	2	0	9	0		2	5	6	1	TIESIN
+0	0	0	R	2	0	9	0		0	6	5	0	
+0	0	0	E	2	0	9	0		0	7	5	0	
+0	0	0	E	2	0	9	0		0	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	5	0		4	2	5	0	
+0	1	13	S	3	3	5	1	SAINT	1	3	6	0	
+0	0	0	A	3	3	5	0		1	4	7	0	
+0	0	0	I	3	3	5	0		2	5	6	0	
+0	0	0	N	3	3	5	0		0	6	5	0	
+0	0	0	T	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	S	4	1	7	1	SUCCESS	4	1	5	1	SCOWS
+0	1	15	U	4	1	7	0		4	2	5	1	UHURU
+0	0	0	C	4	1	7	0		1	3	6	0	
+0	0	0	C	4	1	7	0		1	4	7	0	
+0	0	0	E	4	1	7	0		2	5	6	0	
+0	0	0	S	4	1	7	0		0	6	5	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	16	C	5	1	5	1	CHAIS	4	1	5	0	
+0	0	0	H	5	1	5	0		4	2	5	0	
+0	0	0	A	5	1	5	0		1	3	6	0	
+0	0	0	I	5	1	5	0		1	4	7	0	
+0	0	0	S	5	1	5	0		2	5	6	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	17	M	6	0	9	1	MOURNINGS	6	0	3	1	MET
+0	0	0	O	6	0	9	0		4	1	5	0	
+0	0	0	U	6	0	9	0		4	2	5	0	
+0	0	0	R	6	0	9	0		1	3	6	0	
+0	0	0	N	6	0	9	0		1	4	7	0	
+0	0	0	I	6	0	9	0		2	5	6	0	
+0	1	18	N	6	0	9	0		6	6	3	1	NAM
+0	1	19	G	6	0	9	0		6	7	3	1	GSU
+0	1	20	S	6	0	9	0		6	8	3	1	SHY
+0	1	21	E	7	0	3	1	EWR	6	0	3	0	
+0	0	0	W	7	0	3	0		4	1	5	0	
+0	0	0	R	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	22	G	7	4	5	1	GNASH	1	4	7	0	
+0	0	0	N	7	4	5	0		2	5	6	0	
+0	0	0	A	7	4	5	0		6	6	3	0	
+0	0	0	S	7	4	5	0		6	7	3	0	
+0	0	0	H	7	4	5	0		6	8	3	0	
+0	1	23	T	8	0	3	1	TSU	6	0	3	0	
+0	0	0	S	8	0	3	0		4	1	5	0	
+0	0	0	U	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	24	M	8	6	3	1	MUY	6	6	3	0	
+0	0	0	U	8	6	3	0		6	7	3	0	
+0	0	0	Y	8	6	3	0		6	8	3	0	
+13
+1	HOH	Water, chemically
+4	YON	Burns's "O Were My Love ___ Lilac Fair"
+7	ISING	Walt Whitman's "___ the Body Electric"
+10	ADA	Toothy grp.?
+11	CEDARTREE	Source of fragrant wood
+13	SAINT	Peter or Patrick, e.g.
+14	SUCCESS	"Eureka!"
+16	CHAIS	Alternatives to lattes
+17	MOURNINGS	Periods of grief
+21	EWR	Airport alternative to JFK or LGA
+22	GNASH	Grind together
+23	TSU	Nashville inst.
+24	MUY	"___ bien"
+15
+1	HIC	Juice brand
+2	OSE	Suffix with sucr- and lact-
+3	HID	Kept under wraps
+4	YARNS	Paul Bunyan tales, e.g.
+5	ODETS	"Awake and Sing!" playwright
+6	NAE	Kiltie's turndown
+8	NASCAR	Dale Earnhardt org.
+9	GRACING	Adorning
+12	TIESIN	Connects (with)
+14	SCOWS	Punts, e.g.
+15	UHURU	Black ___ (reggae group)
+17	MET	Sat
+18	NAM	'60s-'70s service site
+19	GSU	Sch. in Atlanta
+20	SHY	Diffident

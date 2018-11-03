@@ -1,0 +1,117 @@
+grid_9x9_36
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	L	0	1	3	1	LOW	0	1	5	1	LEBON
+0	1	2	O	0	1	3	0		0	2	9	1	ONABUDGET
+0	1	3	W	0	1	3	0		0	3	3	1	WGN
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	P	0	6	3	1	PDA	0	6	9	1	PEPPERONI
+0	1	5	D	0	6	3	0		0	7	3	1	DOI
+0	1	6	A	0	6	3	0		0	8	3	1	ANT
+0	1	7	T	1	0	4	1	TENG	1	0	3	1	TAY
+0	0	0	E	1	0	4	0		0	1	5	0	
+0	0	0	N	1	0	4	0		0	2	9	0	
+0	0	0	G	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	N	1	5	4	1	NEON	1	5	4	1	NAHS
+0	0	0	E	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	3	0	
+0	0	0	N	1	5	4	0		0	8	3	0	
+0	1	9	A	2	0	4	1	ABAN	1	0	3	0	
+0	0	0	B	2	0	4	0		0	1	5	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	N	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	A	2	5	4	1	APIT	1	5	4	0	
+0	0	0	P	2	5	4	0		0	6	9	0	
+0	0	0	I	2	5	4	0		0	7	3	0	
+0	0	0	T	2	5	4	0		0	8	3	0	
+0	1	11	Y	3	0	3	1	YOB	1	0	3	0	
+0	0	0	O	3	0	3	0		0	1	5	0	
+0	0	0	B	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	C	3	4	3	1	CHP	3	4	3	1	CLX
+0	0	0	H	3	4	3	0		1	5	4	0	
+0	0	0	P	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	13	N	4	1	7	1	NULLSET	0	1	5	0	
+0	0	0	U	4	1	7	0		0	2	9	0	
+0	1	14	L	4	1	7	0		4	3	4	1	LEND
+0	0	0	L	4	1	7	0		3	4	3	0	
+0	0	0	S	4	1	7	0		1	5	4	0	
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	1	15	T	4	1	7	0		4	7	5	1	TIMLY
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	16	D	5	2	3	1	DEX	0	2	9	0	
+0	0	0	E	5	2	3	0		4	3	4	0	
+0	0	0	X	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	R	5	6	3	1	RIG	0	6	9	0	
+0	0	0	I	5	6	3	0		4	7	5	0	
+0	1	18	G	5	6	3	0		5	8	3	1	GAS
+0	1	19	L	6	0	4	1	LIGN	6	0	3	1	LDC
+0	1	20	I	6	0	4	0		6	1	3	1	IRS
+0	0	0	G	6	0	4	0		0	2	9	0	
+0	0	0	N	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	C	6	5	4	1	COMA	6	5	3	1	CED
+0	0	0	O	6	5	4	0		0	6	9	0	
+0	0	0	M	6	5	4	0		4	7	5	0	
+0	0	0	A	6	5	4	0		5	8	3	0	
+0	1	22	D	7	0	4	1	DRED	6	0	3	0	
+0	0	0	R	7	0	4	0		6	1	3	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	D	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	23	E	7	5	4	1	ENLS	6	5	3	0	
+0	0	0	N	7	5	4	0		0	6	9	0	
+0	0	0	L	7	5	4	0		4	7	5	0	
+0	0	0	S	7	5	4	0		5	8	3	0	
+0	1	24	C	8	0	3	1	CST	6	0	3	0	
+0	0	0	S	8	0	3	0		6	1	3	0	
+0	0	0	T	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	D	8	5	3	1	DIY	6	5	3	0	
+0	0	0	I	8	5	3	0		0	6	9	0	
+0	0	0	Y	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	LOW	Weathercast figure
+4	PDA	BlackBerry, e.g., in brief
+7	TENG	Singer/songwriter Vienna ___
+8	NEON	Bit of bar advertising
+9	ABAN	Impose ___ on
+10	APIT	"Whoso diggeth ___ shall fall therein": Proverbs
+11	YOB	Age-determining stat.
+12	CHP	Spin-producing tennis shot
+13	NULLSET	It has zero measure, in math
+16	DEX	Jazz saxophonist Gordon, familiarly
+17	RIG	Offshore apparatus
+19	LIGN	Wood: Prefix
+21	COMA	A person in it is out of it
+22	DRED	Stowe book
+23	ENLS	Big pictures: Abbr.
+24	CST	Setting for St. Paul: Abbr.
+25	DIY	Like many a home improvement project, for short
+15
+1	LEBON	Simon of Duran Duran
+2	ONABUDGET	With limited funds
+3	WGN	Chicago Cubs' station
+4	PEPPERONI	Pizzeria order
+5	DOI	"___ ever!"
+6	ANT	Queen of the hill?
+7	TAY	Longest river of Scotland
+8	NAHS	Casual denials
+12	CLX	160, to Caesar
+14	LEND	Libraries do it
+15	TIMLY	Opportune
+18	GAS	A number of dental patients?
+19	LDC	Parts of a house, in classifieds: Abbr.
+20	IRS	Spring addressee, for short
+21	CED	Like associates, on some e-mails

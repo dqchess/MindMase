@@ -1,0 +1,171 @@
+grid_11x11_71
+11
+0	1	1	B	0	0	3	1	BED	0	0	3	1	BAH
+0	1	2	E	0	0	3	0		0	1	11	1	ELECTRICIAN
+0	1	3	D	0	0	3	0		0	2	11	1	DILLYPICKLE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	T	0	4	3	1	TKO	0	4	3	1	TRI
+0	1	5	K	0	4	3	0		0	5	3	1	KIN
+0	1	6	O	0	4	3	0		0	6	3	1	OMG
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	I	0	8	3	1	INS	0	8	11	1	IHAVENOIDEA
+0	1	8	N	0	8	3	0		0	9	11	1	NONONURRENE
+0	1	9	S	0	8	3	0		0	10	3	1	STD
+0	1	10	A	1	0	3	1	ALI	0	0	3	0	
+0	0	0	L	1	0	3	0		0	1	11	0	
+0	0	0	I	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	11	R	1	4	7	1	RIMSHOT	0	4	3	0	
+0	0	0	I	1	4	7	0		0	5	3	0	
+0	0	0	M	1	4	7	0		0	6	3	0	
+0	1	12	S	1	4	7	0		1	7	3	1	SHE
+0	0	0	H	1	4	7	0		0	8	11	0	
+0	0	0	O	1	4	7	0		0	9	11	0	
+0	0	0	T	1	4	7	0		0	10	3	0	
+0	1	13	H	2	0	11	1	HELPINGHAND	0	0	3	0	
+0	0	0	E	2	0	11	0		0	1	11	0	
+0	0	0	L	2	0	11	0		0	2	11	0	
+0	1	14	P	2	0	11	0		2	3	3	1	PIC
+0	0	0	I	2	0	11	0		0	4	3	0	
+0	0	0	N	2	0	11	0		0	5	3	0	
+0	0	0	G	2	0	11	0		0	6	3	0	
+0	0	0	H	2	0	11	0		1	7	3	0	
+0	0	0	A	2	0	11	0		0	8	11	0	
+0	0	0	N	2	0	11	0		0	9	11	0	
+0	0	0	D	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	15	C	3	1	3	1	CLI	0	1	11	0	
+0	0	0	L	3	1	3	0		0	2	11	0	
+0	0	0	I	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	3	0	
+0	1	16	E	3	7	3	1	EVO	1	7	3	0	
+0	0	0	V	3	7	3	0		0	8	11	0	
+0	0	0	O	3	7	3	0		0	9	11	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	O	4	0	7	1	OTYCOON	4	0	3	1	OAM
+0	0	0	T	4	0	7	0		0	1	11	0	
+0	0	0	Y	4	0	7	0		0	2	11	0	
+0	0	0	C	4	0	7	0		2	3	3	0	
+0	1	18	O	4	0	7	0		4	4	3	1	OTB
+0	1	19	O	4	0	7	0		4	5	3	1	OAS
+0	1	20	N	4	0	7	0		4	6	3	1	NHS
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	21	E	4	8	3	1	ENL	0	8	11	0	
+0	0	0	N	4	8	3	0		0	9	11	0	
+0	1	22	L	4	8	3	0		4	10	3	1	LMN
+0	1	23	A	5	0	3	1	ARP	4	0	3	0	
+0	0	0	R	5	0	3	0		0	1	11	0	
+0	0	0	P	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	24	T	5	4	3	1	TAH	4	4	3	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	0	0	H	5	4	3	0		4	6	3	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	25	N	5	8	3	1	NUM	0	8	11	0	
+0	0	0	U	5	8	3	0		0	9	11	0	
+0	0	0	M	5	8	3	0		4	10	3	0	
+0	1	26	M	6	0	3	1	MII	4	0	3	0	
+0	0	0	I	6	0	3	0		0	1	11	0	
+0	0	0	I	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	7	0		7	3	3	0	
+0	1	27	B	6	4	7	1	BSSHORN	4	4	3	0	
+0	0	0	S	6	4	7	0		4	5	3	0	
+0	0	0	S	6	4	7	0		4	6	3	0	
+0	1	28	H	6	4	7	0		6	7	3	1	HOO
+0	0	0	O	6	4	7	0		0	8	11	0	
+0	0	0	R	6	4	7	0		0	9	11	0	
+0	0	0	N	6	4	7	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	29	C	7	1	3	1	CCC	0	1	11	0	
+0	0	0	C	7	1	3	0		0	2	11	0	
+0	1	30	C	7	1	3	0		7	3	3	1	CIO
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	31	O	7	7	3	1	OIR	6	7	3	0	
+0	0	0	I	7	7	3	0		0	8	11	0	
+0	0	0	R	7	7	3	0		0	9	11	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	32	B	8	0	11	1	BIKINIMODEL	8	0	3	1	BHA
+0	0	0	I	8	0	11	0		0	1	11	0	
+0	0	0	K	8	0	11	0		0	2	11	0	
+0	0	0	I	8	0	11	0		7	3	3	0	
+0	1	33	N	8	0	11	0		8	4	3	1	NGO
+0	1	34	I	8	0	11	0		8	5	3	1	IED
+0	1	35	M	8	0	11	0		8	6	3	1	MNO
+0	0	0	O	8	0	11	0		6	7	3	0	
+0	0	0	D	8	0	11	0		0	8	11	0	
+0	0	0	E	8	0	11	0		0	9	11	0	
+0	1	36	L	8	0	11	0		8	10	3	1	LGS
+0	1	37	H	9	0	7	1	HALOGEN	8	0	3	0	
+0	0	0	A	9	0	7	0		0	1	11	0	
+0	0	0	L	9	0	7	0		0	2	11	0	
+0	0	0	O	9	0	7	0		7	3	3	0	
+0	0	0	G	9	0	7	0		8	4	3	0	
+0	0	0	E	9	0	7	0		8	5	3	0	
+0	0	0	N	9	0	7	0		8	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	38	E	9	8	3	1	ENG	0	8	11	0	
+0	0	0	N	9	8	3	0		0	9	11	0	
+0	0	0	G	9	8	3	0		8	10	3	0	
+0	1	39	A	10	0	3	1	ANE	8	0	3	0	
+0	0	0	N	10	0	3	0		0	1	11	0	
+0	0	0	E	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	40	O	10	4	3	1	ODO	8	4	3	0	
+0	0	0	D	10	4	3	0		8	5	3	0	
+0	0	0	O	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	41	A	10	8	3	1	AES	0	8	11	0	
+0	0	0	E	10	8	3	0		0	9	11	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+23
+1	BED	Place for a spring
+4	TKO	What stops swings, briefly
+7	INS	Special connections
+10	ALI	Rope-a-dope boxer
+11	RIMSHOT	Comic punctuation from a drummer
+13	HELPINGHAND	Bit of aid
+15	CLI	151, in old Rome
+16	EVO	Bolivian president Morales
+17	OTYCOON	Getty, e.g.
+21	ENL	Certain photo order: Abbr.
+23	ARP	"Human Concretion" sculptor
+24	TAH	Panama, e.g.
+25	NUM	O.T. book
+26	MII	1,002, in old Rome
+27	BSSHORN	Tuba
+29	CCC	XXX x X
+31	OIR	Listen: Sp.
+32	BIKINIMODEL	One whose shots reveal lots
+37	HALOGEN	Kind of lamp
+38	ENG	Ally of the U.S.
+39	ANE	Request for Vanna
+40	ODO	Pope Urban II, originally
+41	AES	50's political inits.
+23
+1	BAH	"What nonsense!"
+2	ELECTRICIAN	One who may do a wire transfer
+3	DILLYPICKLE	Lulu of a predicament?
+4	TRI	Prefix with color or cycle
+5	KIN	They're related
+6	OMG	Online "Unbelievable!"
+7	IHAVENOIDEA	"Search me!"
+8	NONONURRENE	Disagreement
+9	STD	Gold is one: Abbr.
+12	SHE	"___-Devil"
+14	PIC	Many an e-mail attachment
+17	OAM	When "S.N.L." wraps in N.Y.C.
+18	OTB	Parlor letters
+19	OAS	Alliance created in 1948: Abbr.
+20	NHS	Selective high-school org.
+22	LMN	K-O connection
+28	HOO	"Yoo-__!"
+30	CIO	Union partner: Abbr.
+32	BHA	Food preservative, briefly
+33	NGO	Vietnam's ___ Dinh Diem
+34	IED	Roadside bomb, for short
+35	MNO	6 on a phone
+36	LGS	Linemen next to centers: Abbr.

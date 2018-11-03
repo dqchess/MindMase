@@ -1,0 +1,311 @@
+grid_15x15_94
+15
+0	1	1	I	0	0	3	1	IRS	0	0	4	1	IPSA
+0	1	2	R	0	0	3	0		0	1	5	1	RESEE
+0	1	3	S	0	0	3	0		0	2	5	1	SNERD
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	6	0	
+0	1	4	S	0	6	3	1	SYN	0	6	5	1	STACK
+0	1	5	Y	0	6	3	0		0	7	3	1	YEH
+0	1	6	N	0	6	3	0		0	8	3	1	NRC
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	7	0	
+0	1	7	E	0	12	3	1	EES	0	12	3	1	EME
+0	1	8	E	0	12	3	0		0	13	3	1	EBN
+0	1	9	S	0	12	3	0		0	14	3	1	SAT
+0	1	10	P	1	0	3	1	PEN	0	0	4	0	
+0	0	0	E	1	0	3	0		0	1	5	0	
+0	0	0	N	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	11	I	1	4	5	1	ITTER	1	4	3	1	INB
+0	1	12	T	1	4	5	0		1	5	6	1	TOIEMQ
+0	0	0	T	1	4	5	0		0	6	5	0	
+0	0	0	E	1	4	5	0		0	7	3	0	
+0	0	0	R	1	4	5	0		0	8	3	0	
+1	0	0	#	1	10	5	0		2	9	4	0	
+0	1	13	M	1	10	5	1	MAMBA	1	10	4	1	MMSU
+0	1	14	A	1	10	5	0		1	11	7	1	AMOEBIC
+0	0	0	M	1	10	5	0		0	12	3	0	
+0	0	0	B	1	10	5	0		0	13	3	0	
+0	0	0	A	1	10	5	0		0	14	3	0	
+0	1	15	S	2	0	3	1	SSE	0	0	4	0	
+0	0	0	S	2	0	3	0		0	1	5	0	
+0	0	0	E	2	0	3	0		0	2	5	0	
+1	0	0	#	2	4	11	0		3	3	3	0	
+0	1	16	N	2	4	11	1	NOAHCOMMENT	1	4	3	0	
+0	0	0	O	2	4	11	0		1	5	6	0	
+0	0	0	A	2	4	11	0		0	6	5	0	
+0	0	0	H	2	4	11	0		0	7	3	0	
+0	0	0	C	2	4	11	0		0	8	3	0	
+0	1	17	O	2	4	11	0		2	9	4	1	OGGI
+0	0	0	M	2	4	11	0		1	10	4	0	
+0	0	0	M	2	4	11	0		1	11	7	0	
+0	0	0	E	2	4	11	0		0	12	3	0	
+0	0	0	N	2	4	11	0		0	13	3	0	
+0	0	0	T	2	4	11	0		0	14	3	0	
+0	1	18	A	3	0	7	1	AEROBIC	0	0	4	0	
+0	0	0	E	3	0	7	0		0	1	5	0	
+0	0	0	R	3	0	7	0		0	2	5	0	
+0	1	19	O	3	0	7	0		3	3	3	1	OHI
+0	0	0	B	3	0	7	0		1	4	3	0	
+0	0	0	I	3	0	7	0		1	5	6	0	
+0	0	0	C	3	0	7	0		0	6	5	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	20	G	3	9	3	1	GSO	2	9	4	0	
+0	0	0	S	3	9	3	0		1	10	4	0	
+0	0	0	O	3	9	3	0		1	11	7	0	
+1	0	0	#	3	13	0	0		4	12	5	0	
+1	0	0	#	3	14	0	0		4	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	21	E	4	1	3	1	EDH	0	1	5	0	
+0	0	0	D	4	1	3	0		0	2	5	0	
+0	0	0	H	4	1	3	0		3	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	22	E	4	5	3	1	EKE	1	5	6	0	
+0	0	0	K	4	5	3	0		0	6	5	0	
+0	1	23	E	4	5	3	0		4	7	7	1	EVANDER
+1	0	0	#	4	9	5	0		5	8	4	0	
+0	1	24	G	4	9	5	1	GUESS	2	9	4	0	
+0	0	0	U	4	9	5	0		1	10	4	0	
+0	0	0	E	4	9	5	0		1	11	7	0	
+0	1	25	S	4	9	5	0		4	12	5	1	SEARS
+0	1	26	S	4	9	5	0		4	13	5	1	SITED
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	3	0		6	2	5	0	
+0	1	27	I	5	3	3	1	IUM	3	3	3	0	
+0	1	28	U	5	3	3	0		5	4	3	1	USC
+0	0	0	M	5	3	3	0		1	5	6	0	
+1	0	0	#	5	7	3	0		6	6	4	0	
+0	1	29	V	5	7	3	1	VII	4	7	7	0	
+0	1	30	I	5	7	3	0		5	8	4	1	IWIN
+0	0	0	I	5	7	3	0		2	9	4	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	31	B	5	11	3	1	BEI	1	11	7	0	
+0	0	0	E	5	11	3	0		4	12	5	0	
+0	0	0	I	5	11	3	0		4	13	5	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	32	W	6	0	3	1	WAS	6	0	3	1	WNS
+0	1	33	A	6	0	3	0		6	1	5	1	AUTOS
+0	1	34	S	6	0	3	0		6	2	5	1	SMUSH
+1	0	0	#	6	4	5	0		7	3	7	0	
+0	1	35	S	6	4	5	1	SQUAW	5	4	3	0	
+0	0	0	Q	6	4	5	0		1	5	6	0	
+0	1	36	U	6	4	5	0		6	6	4	1	USER
+0	0	0	A	6	4	5	0		4	7	7	0	
+0	0	0	W	6	4	5	0		5	8	4	0	
+1	0	0	#	6	10	0	0		7	9	0	0	
+1	0	0	#	6	11	4	0		7	10	3	0	
+0	1	37	I	6	11	4	1	IATE	1	11	7	0	
+0	0	0	A	6	11	4	0		4	12	5	0	
+0	0	0	T	6	11	4	0		4	13	5	0	
+0	1	38	E	6	11	4	0		6	14	3	1	EDS
+0	1	39	N	7	0	5	1	NUMIC	6	0	3	0	
+0	0	0	U	7	0	5	0		6	1	5	0	
+0	0	0	M	7	0	5	0		6	2	5	0	
+0	1	40	I	7	0	5	0		7	3	7	1	INTRUTH
+0	0	0	C	7	0	5	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	41	S	7	6	3	1	SNI	6	6	4	0	
+0	0	0	N	7	6	3	0		4	7	7	0	
+0	0	0	I	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	5	0		8	9	6	0	
+0	1	42	A	7	10	5	1	ACRED	7	10	3	1	ASU
+0	0	0	C	7	10	5	0		1	11	7	0	
+0	0	0	R	7	10	5	0		4	12	5	0	
+0	0	0	E	7	10	5	0		4	13	5	0	
+0	0	0	D	7	10	5	0		6	14	3	0	
+0	1	43	S	8	0	4	1	STUN	6	0	3	0	
+0	0	0	T	8	0	4	0		6	1	5	0	
+0	0	0	U	8	0	4	0		6	2	5	0	
+0	0	0	N	8	0	4	0		7	3	7	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	5	0		9	5	4	0	
+0	1	44	E	8	6	5	1	EDNAS	6	6	4	0	
+0	0	0	D	8	6	5	0		4	7	7	0	
+0	0	0	N	8	6	5	0		5	8	4	0	
+0	1	45	A	8	6	5	0		8	9	6	1	ASTARE
+0	0	0	S	8	6	5	0		7	10	3	0	
+1	0	0	#	8	12	3	0		9	11	3	0	
+0	1	46	S	8	12	3	1	SDS	4	12	5	0	
+0	0	0	D	8	12	3	0		4	13	5	0	
+0	0	0	S	8	12	3	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	47	O	9	1	3	1	OST	6	1	5	0	
+0	0	0	S	9	1	3	0		6	2	5	0	
+0	0	0	T	9	1	3	0		7	3	7	0	
+1	0	0	#	9	5	3	0		10	4	4	0	
+0	1	48	A	9	5	3	1	ARE	9	5	4	1	ADIA
+0	0	0	R	9	5	3	0		6	6	4	0	
+0	0	0	E	9	5	3	0		4	7	7	0	
+1	0	0	#	9	9	3	0		10	8	5	0	
+0	1	49	S	9	9	3	1	SUD	8	9	6	0	
+0	0	0	U	9	9	3	0		7	10	3	0	
+0	1	50	D	9	9	3	0		9	11	3	1	DOT
+1	0	0	#	9	13	0	0		10	12	5	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	5	0		11	0	0	0	
+0	1	51	S	10	1	5	1	SHRED	6	1	5	0	
+0	0	0	H	10	1	5	0		6	2	5	0	
+0	0	0	R	10	1	5	0		7	3	7	0	
+0	1	52	E	10	1	5	0		10	4	4	1	EBRO
+0	0	0	D	10	1	5	0		9	5	4	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	53	R	10	7	3	1	RCT	4	7	7	0	
+0	1	54	C	10	7	3	0		10	8	5	1	CRASS
+0	0	0	T	10	7	3	0		8	9	6	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	55	O	10	11	3	1	OHH	9	11	3	0	
+0	1	56	H	10	11	3	0		10	12	5	1	HELIC
+0	1	57	H	10	11	3	0		10	13	5	1	HROSS
+1	0	0	#	10	15	0	0		11	14	4	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	58	U	11	3	3	1	UBI	7	3	7	0	
+0	0	0	B	11	3	3	0		10	4	4	0	
+0	0	0	I	11	3	3	0		9	5	4	0	
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	7	0		12	7	3	0	
+0	1	59	R	11	8	7	1	RANTERS	10	8	5	0	
+0	0	0	A	11	8	7	0		8	9	6	0	
+0	1	60	N	11	8	7	0		11	10	3	1	NTS
+0	0	0	T	11	8	7	0		9	11	3	0	
+0	0	0	E	11	8	7	0		10	12	5	0	
+0	0	0	R	11	8	7	0		10	13	5	0	
+0	1	61	S	11	8	7	0		11	14	4	1	SEMI
+0	1	62	A	12	0	11	1	ABSTRACTART	12	0	3	1	ALT
+0	1	63	B	12	0	11	0		12	1	3	1	BIC
+0	1	64	S	12	0	11	0		12	2	3	1	STU
+0	0	0	T	12	0	11	0		7	3	7	0	
+0	0	0	R	12	0	11	0		10	4	4	0	
+0	0	0	A	12	0	11	0		9	5	4	0	
+0	1	65	C	12	0	11	0		12	6	3	1	CHE
+0	1	66	T	12	0	11	0		12	7	3	1	TOI
+0	0	0	A	12	0	11	0		10	8	5	0	
+0	0	0	R	12	0	11	0		8	9	6	0	
+0	0	0	T	12	0	11	0		11	10	3	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	67	L	12	12	3	1	LOE	10	12	5	0	
+0	0	0	O	12	12	3	0		10	13	5	0	
+0	0	0	E	12	12	3	0		11	14	4	0	
+0	1	68	L	13	0	5	1	LITHO	12	0	3	0	
+0	0	0	I	13	0	5	0		12	1	3	0	
+0	0	0	T	13	0	5	0		12	2	3	0	
+0	0	0	H	13	0	5	0		7	3	7	0	
+0	0	0	O	13	0	5	0		10	4	4	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	69	H	13	6	5	1	HOSES	12	6	3	0	
+0	0	0	O	13	6	5	0		12	7	3	0	
+0	0	0	S	13	6	5	0		10	8	5	0	
+0	0	0	E	13	6	5	0		8	9	6	0	
+0	0	0	S	13	6	5	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	70	I	13	12	3	1	ISM	10	12	5	0	
+0	0	0	S	13	12	3	0		10	13	5	0	
+0	0	0	M	13	12	3	0		11	14	4	0	
+0	1	71	T	14	0	3	1	TCU	12	0	3	0	
+0	0	0	C	14	0	3	0		12	1	3	0	
+0	0	0	U	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	72	E	14	6	3	1	EIS	12	6	3	0	
+0	0	0	I	14	6	3	0		12	7	3	0	
+0	0	0	S	14	6	3	0		10	8	5	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	73	C	14	12	3	1	CSI	10	12	5	0	
+0	0	0	S	14	12	3	0		10	13	5	0	
+0	0	0	I	14	12	3	0		11	14	4	0	
+41
+1	IRS	Recipient of much Apr. 15 mail
+4	SYN	Example, for instance: Abbr.
+7	EES	Telecom techies
+10	PEN	Warm-up spot, for short
+11	ITTER	Punctilious type, slangily
+13	MAMBA	Cousin of the cobra
+15	SSE	Scranton-to-Philadelphia dir.
+16	NOAHCOMMENT	"Enough rain already!"?
+18	AEROBIC	Like some exercises
+20	GSO	Mil. aide
+21	EDH	Old letter
+22	EKE	Manage to get, with "out"
+24	GUESS	"___ who?!"
+27	IUM	Elementary suffix
+29	VII	Last article of the U.S. Constitution
+31	BEI	Near, in Niedersachsen
+32	WAS	Functioned as
+35	SQUAW	___ Valley, Calif.
+37	IATE	"Must've been something ___"
+39	NUMIC	Language family that includes Ute, Shoshone and Comanche
+41	SNI	___ and snee
+42	ACRED	Like large landowners
+43	STUN	Phaser setting, on "Star Trek"
+44	EDNAS	Best and Ferber
+46	SDS	1960s campus grp.
+47	OST	East of Essen
+48	ARE	"So there you ___!"
+49	SUD	South of France
+51	SHRED	Scrap paper?
+53	RCT	Sales slip: Abbr.
+55	OHH	Cry from one who just got the joke
+58	UBI	___ supra (text comment)
+59	RANTERS	Ones on soapboxes
+62	ABSTRACTART	It challenges the imagination
+67	LOE	Star of "Youngblood," 1986
+68	LITHO	Certain print, briefly
+69	HOSES	Sprays
+70	ISM	Real ending
+71	TCU	The Horned Frogs, for short
+72	EIS	Rathskeller cooler
+73	CSI	William Petersen series
+41
+1	IPSA	Itself, in a Latin phrase
+2	RESEE	View again
+3	SNERD	He took the words out of Bergen's mouth
+4	STACK	It may go through the roof
+5	YEH	Informal assent
+6	NRC	Org. concerned with meltdowns
+7	EME	Suffix with morph-
+8	EBN	Surveyor's dir.
+9	SAT	Was inactive
+11	INB	Like Shostakovich's Symphony No. 2
+12	TOIEMQ	Quaking trees
+13	MMSU	Made angry
+14	AMOEBIC	Having an irregularly curved outline
+17	OGGI	Today, in Turin
+19	OHI	"___ get it!" ("Aha!")
+23	EVANDER	Boxer Holyfield
+25	SEARS	Kmart acquisition
+26	SITED	Put in place
+28	USC	L.A. campus
+30	IWIN	Game-ending declaration
+32	WNS	Bleaches
+33	AUTOS	Monte Carlo et al.
+34	SMUSH	Flatten
+36	USER	Tech caller
+38	EDS	Masthead figs.
+40	INTRUTH	"To be honest 
+42	ASU	Tempe inst.
+45	ASTARE	Gazing
+48	ADIA	1998 Sarah McLachlan hit
+50	DOT	Morse code component
+52	EBRO	River through Castile and Le
+54	CRASS	Like a yahoo
+56	HELIC	Spiral: Prefix
+57	HROSS	___ Perot
+60	NTS	Windows options
+61	SEMI	It may make a big haul
+62	ALT	Computer key abbr.
+63	BIC	Lighter maker
+64	STU	Good name for a cook
+65	CHE	Subject of 
+66	TOI	"Tais-___!" (French "Shut up!")

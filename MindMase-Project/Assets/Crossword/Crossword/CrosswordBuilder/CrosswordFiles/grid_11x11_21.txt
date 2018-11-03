@@ -1,0 +1,171 @@
+grid_11x11_21
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	M	0	1	3	1	MAV	0	1	5	1	MOWED
+0	1	2	A	0	1	3	0		0	2	5	1	AFIRE
+0	1	3	V	0	1	3	0		0	3	3	1	VFS
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	U	0	7	3	1	UAT	0	7	3	1	UZI
+0	1	5	A	0	7	3	0		0	8	5	1	ASSNS
+0	1	6	T	0	7	3	0		0	9	5	1	TENOF
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	D	1	0	5	1	DOFFS	1	0	3	1	DAO
+0	0	0	O	1	0	5	0		0	1	5	0	
+0	0	0	F	1	0	5	0		0	2	5	0	
+0	0	0	F	1	0	5	0		0	3	3	0	
+0	1	8	S	1	0	5	0		1	4	5	1	SHUTE
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	9	S	1	6	5	1	SZSEL	1	6	3	1	STU
+0	0	0	Z	1	6	5	0		0	7	3	0	
+0	0	0	S	1	6	5	0		0	8	5	0	
+0	0	0	E	1	6	5	0		0	9	5	0	
+0	1	10	L	1	6	5	0		1	10	3	1	LTR
+0	1	11	A	2	0	5	1	AWISH	1	0	3	0	
+0	0	0	W	2	0	5	0		0	1	5	0	
+0	0	0	I	2	0	5	0		0	2	5	0	
+0	0	0	S	2	0	5	0		0	3	3	0	
+0	0	0	H	2	0	5	0		1	4	5	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	T	2	6	5	1	TISNT	1	6	3	0	
+0	0	0	I	2	6	5	0		0	7	3	0	
+0	0	0	S	2	6	5	0		0	8	5	0	
+0	0	0	N	2	6	5	0		0	9	5	0	
+0	0	0	T	2	6	5	0		1	10	3	0	
+0	1	13	O	3	0	3	1	OER	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	R	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	U	3	4	3	1	UBU	1	4	5	0	
+0	1	15	B	3	4	3	0		3	5	5	1	BENDY
+0	0	0	U	3	4	3	0		1	6	3	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	N	3	8	3	1	NOR	0	8	5	0	
+0	0	0	O	3	8	3	0		0	9	5	0	
+0	0	0	R	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	17	D	4	1	5	1	DENTE	0	1	5	0	
+0	0	0	E	4	1	5	0		0	2	5	0	
+0	1	18	N	4	1	5	0		4	3	3	1	NHA
+0	0	0	T	4	1	5	0		1	4	5	0	
+0	0	0	E	4	1	5	0		3	5	5	0	
+1	0	0	#	4	7	3	0		5	6	5	0	
+0	1	19	N	4	7	3	1	NSF	4	7	3	1	NYT
+0	0	0	S	4	7	3	0		0	8	5	0	
+0	0	0	F	4	7	3	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	20	H	5	3	5	1	HENRY	4	3	3	0	
+0	0	0	E	5	3	5	0		1	4	5	0	
+0	0	0	N	5	3	5	0		3	5	5	0	
+0	1	21	R	5	3	5	0		5	6	5	1	ROLES
+0	0	0	Y	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	22	T	6	1	3	1	TBA	6	1	5	1	TEHEE
+0	1	23	B	6	1	3	0		6	2	5	1	BIALY
+0	0	0	A	6	1	3	0		4	3	3	0	
+1	0	0	#	6	5	5	0		7	4	3	0	
+0	1	24	D	6	5	5	1	DOTER	3	5	5	0	
+0	0	0	O	6	5	5	0		5	6	5	0	
+0	0	0	T	6	5	5	0		4	7	3	0	
+0	1	25	E	6	5	5	0		6	8	5	1	EVADE
+0	1	26	R	6	5	5	0		6	9	5	1	RIPON
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	27	W	7	0	3	1	WEI	7	0	3	1	WWT
+0	0	0	E	7	0	3	0		6	1	5	0	
+0	0	0	I	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	28	S	7	4	3	1	SYL	7	4	3	1	SKA
+0	0	0	Y	7	4	3	0		3	5	5	0	
+0	0	0	L	7	4	3	0		5	6	5	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	29	V	7	8	3	1	VIS	6	8	5	0	
+0	0	0	I	7	8	3	0		6	9	5	0	
+0	1	30	S	7	8	3	0		7	10	3	1	SEM
+0	1	31	W	8	0	5	1	WHACK	7	0	3	0	
+0	0	0	H	8	0	5	0		6	1	5	0	
+0	0	0	A	8	0	5	0		6	2	5	0	
+0	1	32	C	8	0	5	0		8	3	3	1	CLE
+0	0	0	K	8	0	5	0		7	4	3	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	33	E	8	6	5	1	ETAPE	5	6	5	0	
+0	1	34	T	8	6	5	0		8	7	3	1	TOT
+0	0	0	A	8	6	5	0		6	8	5	0	
+0	0	0	P	8	6	5	0		6	9	5	0	
+0	0	0	E	8	6	5	0		7	10	3	0	
+0	1	35	T	9	0	5	1	TELLA	7	0	3	0	
+0	0	0	E	9	0	5	0		6	1	5	0	
+0	0	0	L	9	0	5	0		6	2	5	0	
+0	0	0	L	9	0	5	0		8	3	3	0	
+0	0	0	A	9	0	5	0		7	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	36	S	9	6	5	1	SODOM	5	6	5	0	
+0	0	0	O	9	6	5	0		8	7	3	0	
+0	0	0	D	9	6	5	0		6	8	5	0	
+0	0	0	O	9	6	5	0		6	9	5	0	
+0	0	0	M	9	6	5	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	37	E	10	1	3	1	EYE	6	1	5	0	
+0	0	0	Y	10	1	3	0		6	2	5	0	
+0	0	0	E	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	38	T	10	7	3	1	TEN	8	7	3	0	
+0	0	0	E	10	7	3	0		6	8	5	0	
+0	0	0	N	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	MAV	Dallas player, for short
+4	UAT	Awake by
+7	DOFFS	Removes, in a way
+9	SZSEL	Cut
+11	AWISH	"Make ___!" (birthday cry)
+12	TISNT	"___ beauty, so to speak, nor good talk ...": Kipling
+13	OER	Poet's contraction
+14	UBU	"___ Roi" (Alfred Jarry play)
+16	NOR	Hide-hair link
+17	DENTE	Grinder in an Italian restaurant
+19	NSF	Reason for a bounced check: Abbr.
+20	HENRY	First Tudor king
+22	TBA	?, on a sched.
+24	DOTER	Mothering sort
+27	WEI	Third-century Chinese dynasty
+28	SYL	Word part: Abbr.
+29	VIS	Force, in ancient Rome
+31	WHACK	Take a paddle to
+33	ETAPE	Troop encampment
+35	TELLA	"I cannot ___ lie"
+36	SODOM	Vice venue
+37	EYE	Needle part
+38	TEN	Taps time
+23
+1	MOWED	Did yard work
+2	AFIRE	Eager and excited
+3	VFS	Some engines
+4	UZI	Action film staple
+5	ASSNS	Socs.
+6	TENOF	6:50, say
+7	DAO	1957 Physics Nobelist Tsung-___ Lee
+8	SHUTE	"On the Beach" novelist
+9	STU	Poker legend Ungar
+10	LTR	Epistle: Abbr.
+15	BENDY	Highly flexible, as wire strips
+18	NHA	Shelter grp.
+19	NYT	Big Apple media inits.
+21	ROLES	They're filled before shooting
+22	TEHEE	Giggly laugh
+23	BIALY	Onion-flavored roll
+25	EVADE	Sidestep
+26	RIPON	Wisconsin town where the Republican Party was born
+27	WWT	1940s conflict: Abbr.
+28	SKA	Relative of calypso
+30	SEM	Theological inst.
+32	CLE	Indians' home, for short
+34	TOT	One might be on a crib sheet

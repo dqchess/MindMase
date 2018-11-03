@@ -1,0 +1,117 @@
+grid_9x9_53
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	R	0	1	3	1	REQ	0	1	4	1	RIAA
+0	1	2	E	0	1	3	0		0	2	4	1	EDNA
+0	1	3	Q	0	1	3	0		0	3	3	1	QIN
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	A	0	6	3	1	AYN	0	6	4	1	ALAS
+0	1	5	Y	0	6	3	0		0	7	4	1	YULE
+0	1	6	N	0	6	3	0		0	8	3	1	NIS
+0	1	7	D	1	0	5	1	DIDIN	1	0	3	1	DCC
+0	0	0	I	1	0	5	0		0	1	4	0	
+0	0	0	D	1	0	5	0		0	2	4	0	
+0	0	0	I	1	0	5	0		0	3	3	0	
+0	1	8	N	1	0	5	0		1	4	7	1	NICOSIA
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	L	1	6	3	1	LUI	0	6	4	0	
+0	0	0	U	1	6	3	0		0	7	4	0	
+0	0	0	I	1	6	3	0		0	8	3	0	
+0	1	10	C	2	0	9	1	CANNIBALS	1	0	3	0	
+0	0	0	A	2	0	9	0		0	1	4	0	
+0	0	0	N	2	0	9	0		0	2	4	0	
+0	0	0	N	2	0	9	0		0	3	3	0	
+0	0	0	I	2	0	9	0		1	4	7	0	
+0	1	11	B	2	0	9	0		2	5	3	1	BAA
+0	0	0	A	2	0	9	0		0	6	4	0	
+0	0	0	L	2	0	9	0		0	7	4	0	
+0	0	0	S	2	0	9	0		0	8	3	0	
+0	1	12	C	3	0	3	1	CAA	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	4	0	
+0	0	0	A	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	C	3	4	4	1	CASE	1	4	7	0	
+0	0	0	A	3	4	4	0		2	5	3	0	
+0	0	0	S	3	4	4	0		0	6	4	0	
+0	0	0	E	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	T	4	3	3	1	TOA	4	3	3	1	TUB
+0	0	0	O	4	3	3	0		1	4	7	0	
+0	0	0	A	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	L	5	1	4	1	LOUS	5	1	4	1	LACY
+0	1	16	O	5	1	4	0		5	2	4	1	ORME
+0	0	0	U	5	1	4	0		4	3	3	0	
+0	0	0	S	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	M	5	6	3	1	MMS	5	6	4	1	MGRS
+0	1	18	M	5	6	3	0		5	7	4	1	METO
+0	1	19	S	5	6	3	0		5	8	3	1	SRA
+0	1	20	H	6	0	9	1	HARBINGER	6	0	3	1	HTO
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	R	6	0	9	0		5	2	4	0	
+0	0	0	B	6	0	9	0		4	3	3	0	
+0	0	0	I	6	0	9	0		1	4	7	0	
+0	1	21	N	6	0	9	0		6	5	3	1	NOD
+0	0	0	G	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	4	0	
+0	0	0	R	6	0	9	0		5	8	3	0	
+0	1	22	T	7	0	3	1	TCM	6	0	3	0	
+0	0	0	C	7	0	3	0		5	1	4	0	
+0	0	0	M	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	A	7	4	5	1	AORTA	1	4	7	0	
+0	0	0	O	7	4	5	0		6	5	3	0	
+0	0	0	R	7	4	5	0		5	6	4	0	
+0	0	0	T	7	4	5	0		5	7	4	0	
+0	0	0	A	7	4	5	0		5	8	3	0	
+0	1	24	O	8	0	3	1	OYE	6	0	3	0	
+0	0	0	Y	8	0	3	0		5	1	4	0	
+0	0	0	E	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	D	8	5	3	1	DSO	6	5	3	0	
+0	0	0	S	8	5	3	0		5	6	4	0	
+0	0	0	O	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	REQ	Necessity: Abbr.
+4	AYN	"The Fountainhead" writer Rand
+7	DIDIN	Brought to ruin
+9	LUI	Orl
+10	CANNIBALS	Ones who may get you into hot water?
+12	CAA	Major org. representing entertainers and athletes
+13	CASE	Legal assignment
+14	TOA	Worn ___ frazzle
+15	LOUS	Baseballers Brock and Piniella
+17	MMS	Music degrees
+20	HARBINGER	Sign of things to come
+22	TCM	Cable chan. for old films
+23	AORTA	Major blood carrier
+24	OYE	Gloria Estefan hit whose title is Spanish for "Listen!"
+25	DSO	Victoria Cross relative: Abbr.
+17
+1	RIAA	Org. that combats illegal file sharing
+2	EDNA	Novelist Ferber
+3	QIN	Dynasty during which much of the Great Wall of China was built
+4	ALAS	"___ the day!" (Shakespearean exclamation)
+5	YULE	Season to be jolly
+6	NIS	Former Serbian capital
+7	DCC	Century year
+8	NICOSIA	Mediterranean capital
+11	BAA	Sound made while being fleeced?
+14	TUB	Clunky ship
+15	LACY	Like some lingerie
+16	ORME	"Coffee, Tea ___?" (1960's best seller)
+17	MGRS	Some hirers: Abbr.
+18	METO	"Get ___ the Church on Time"
+19	SRA	Tabasco title: Abbr.
+20	HTO	Water
+21	NOD	Silent go-ahead

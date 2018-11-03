@@ -1,0 +1,239 @@
+grid_13x13_55
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	ARR	0	1	5	1	AFIST
+0	1	2	R	0	1	3	0		0	2	13	1	RANCHERSRAISE
+0	1	3	R	0	1	3	0		0	3	3	1	RSA
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	G	0	5	3	1	GOL	0	5	4	1	GRIP
+0	1	5	O	0	5	3	0		0	6	13	1	OUTSIDETHEBOX
+0	1	6	L	0	5	3	0		0	7	3	1	LSE
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	C	0	10	3	1	CSI	0	10	13	1	COMMONLABORER
+0	1	8	S	0	10	3	0		0	11	7	1	SPEARED
+0	1	9	I	0	10	3	0		0	12	6	1	ISINTO
+0	1	10	M	1	0	4	1	MFAS	1	0	3	1	MFA
+0	0	0	F	1	0	4	0		0	1	5	0	
+0	0	0	A	1	0	4	0		0	2	13	0	
+0	0	0	S	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	11	R	1	5	3	1	RUS	0	5	4	0	
+0	0	0	U	1	5	3	0		0	6	13	0	
+0	0	0	S	1	5	3	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	12	K	1	9	4	1	KOPS	1	9	3	1	KON
+0	0	0	O	1	9	4	0		0	10	13	0	
+0	0	0	P	1	9	4	0		0	11	7	0	
+0	0	0	S	1	9	4	0		0	12	6	0	
+0	1	13	F	2	0	4	1	FINA	1	0	3	0	
+0	0	0	I	2	0	4	0		0	1	5	0	
+0	0	0	N	2	0	4	0		0	2	13	0	
+0	0	0	A	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	3	0		3	4	3	0	
+0	1	14	I	2	5	3	1	ITE	0	5	4	0	
+0	0	0	T	2	5	3	0		0	6	13	0	
+0	0	0	E	2	5	3	0		0	7	3	0	
+1	0	0	#	2	9	4	0		3	8	3	0	
+0	1	15	O	2	9	4	1	OMEI	1	9	3	0	
+0	0	0	M	2	9	4	0		0	10	13	0	
+0	0	0	E	2	9	4	0		0	11	7	0	
+0	0	0	I	2	9	4	0		0	12	6	0	
+0	1	16	A	3	0	3	1	ASC	1	0	3	0	
+0	0	0	S	3	0	3	0		0	1	5	0	
+0	0	0	C	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	17	O	3	4	3	1	OPS	3	4	3	1	OYL
+0	0	0	P	3	4	3	0		0	5	4	0	
+0	0	0	S	3	4	3	0		0	6	13	0	
+1	0	0	#	3	8	5	0		4	7	3	0	
+0	1	18	U	3	8	5	1	UNMAN	3	8	3	1	USB
+0	0	0	N	3	8	5	0		1	9	3	0	
+0	0	0	M	3	8	5	0		0	10	13	0	
+0	0	0	A	3	8	5	0		0	11	7	0	
+0	0	0	N	3	8	5	0		0	12	6	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	19	T	4	1	4	1	THEY	0	1	5	0	
+0	0	0	H	4	1	4	0		0	2	13	0	
+0	1	20	E	4	1	4	0		4	3	3	1	EEG
+0	0	0	Y	4	1	4	0		3	4	3	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	21	I	4	6	3	1	IVS	0	6	13	0	
+0	1	22	V	4	6	3	0		4	7	3	1	VOX
+0	0	0	S	4	6	3	0		3	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	23	O	4	10	3	1	ORT	0	10	13	0	
+0	0	0	R	4	10	3	0		0	11	7	0	
+0	0	0	T	4	10	3	0		0	12	6	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	24	E	5	2	3	1	EEL	0	2	13	0	
+0	0	0	E	5	2	3	0		4	3	3	0	
+0	0	0	L	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	25	D	5	6	3	1	DOB	0	6	13	0	
+0	0	0	O	5	6	3	0		4	7	3	0	
+0	0	0	B	5	6	3	0		3	8	3	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	26	N	5	10	3	1	NEO	0	10	13	0	
+0	0	0	E	5	10	3	0		0	11	7	0	
+0	0	0	O	5	10	3	0		0	12	6	0	
+1	0	0	#	6	1	3	0		7	0	6	0	
+0	1	27	E	6	1	3	1	ERG	6	1	7	1	ENDORSE
+0	0	0	R	6	1	3	0		0	2	13	0	
+0	0	0	G	6	1	3	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	28	L	6	5	3	1	LEX	6	5	3	1	LIS
+0	0	0	E	6	5	3	0		0	6	13	0	
+0	0	0	X	6	5	3	0		4	7	3	0	
+1	0	0	#	6	9	3	0		7	8	3	0	
+0	1	29	L	6	9	3	1	LLD	6	9	3	1	LYN
+0	0	0	L	6	9	3	0		0	10	13	0	
+0	0	0	D	6	9	3	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	C	7	0	3	1	CNS	7	0	6	1	CATGUT
+0	0	0	N	7	0	3	0		6	1	7	0	
+0	0	0	S	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	31	F	7	4	3	1	FIT	7	4	3	1	FAY
+0	0	0	I	7	4	3	0		6	5	3	0	
+0	0	0	T	7	4	3	0		0	6	13	0	
+1	0	0	#	7	8	3	0		8	7	0	0	
+0	1	32	B	7	8	3	1	BYA	7	8	3	1	BOD
+0	0	0	Y	7	8	3	0		6	9	3	0	
+0	0	0	A	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	A	8	0	3	1	ADR	7	0	6	0	
+0	0	0	D	8	0	3	0		6	1	7	0	
+0	0	0	R	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	3	0		9	3	3	0	
+0	1	34	A	8	4	3	1	ASH	7	4	3	0	
+0	0	0	S	8	4	3	0		6	5	3	0	
+0	0	0	H	8	4	3	0		0	6	13	0	
+1	0	0	#	8	8	4	0		9	7	4	0	
+0	1	35	O	8	8	4	1	ONBY	7	8	3	0	
+0	0	0	N	8	8	4	0		6	9	3	0	
+0	0	0	B	8	8	4	0		0	10	13	0	
+0	1	36	Y	8	8	4	0		8	11	5	1	YETTO
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	37	T	9	0	5	1	TOADY	7	0	6	0	
+0	0	0	O	9	0	5	0		6	1	7	0	
+0	0	0	A	9	0	5	0		0	2	13	0	
+0	1	38	D	9	0	5	0		9	3	3	1	DAR
+0	0	0	Y	9	0	5	0		7	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	39	E	9	6	3	1	EUD	0	6	13	0	
+0	1	40	U	9	6	3	0		9	7	4	1	UTEP
+0	0	0	D	9	6	3	0		7	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	41	O	9	10	3	1	OED	0	10	13	0	
+0	0	0	E	9	10	3	0		8	11	5	0	
+0	1	42	D	9	10	3	0		9	12	3	1	DRT
+0	1	43	G	10	0	4	1	GRIA	7	0	6	0	
+0	0	0	R	10	0	4	0		6	1	7	0	
+0	0	0	I	10	0	4	0		0	2	13	0	
+0	0	0	A	10	0	4	0		9	3	3	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	44	A	10	5	3	1	ABT	10	5	3	1	ANE
+0	0	0	B	10	5	3	0		0	6	13	0	
+0	0	0	T	10	5	3	0		9	7	4	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	45	A	10	9	4	1	ARTR	10	9	3	1	ALD
+0	0	0	R	10	9	4	0		0	10	13	0	
+0	0	0	T	10	9	4	0		8	11	5	0	
+0	0	0	R	10	9	4	0		9	12	3	0	
+0	1	46	U	11	0	4	1	USSR	7	0	6	0	
+0	0	0	S	11	0	4	0		6	1	7	0	
+0	0	0	S	11	0	4	0		0	2	13	0	
+0	0	0	R	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	47	N	11	5	3	1	NOE	10	5	3	0	
+0	0	0	O	11	5	3	0		0	6	13	0	
+0	0	0	E	11	5	3	0		9	7	4	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	L	11	9	4	1	LETT	10	9	3	0	
+0	0	0	E	11	9	4	0		0	10	13	0	
+0	0	0	T	11	9	4	0		8	11	5	0	
+0	0	0	T	11	9	4	0		9	12	3	0	
+0	1	49	T	12	0	3	1	TEE	7	0	6	0	
+0	0	0	E	12	0	3	0		6	1	7	0	
+0	0	0	E	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	50	E	12	5	3	1	EXP	10	5	3	0	
+0	0	0	X	12	5	3	0		0	6	13	0	
+0	0	0	P	12	5	3	0		9	7	4	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	51	D	12	9	3	1	DRO	10	9	3	0	
+0	0	0	R	12	9	3	0		0	10	13	0	
+0	0	0	O	12	9	3	0		8	11	5	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+39
+1	ARR	Terminal abbr.
+4	GOL	Football score abroad
+7	CSI	Letters before a colon, on TV
+10	MFAS	Curators' degs.
+11	RUS	Moscow's land: Abbr.
+12	KOPS	Slapstick group, briefly
+13	FINA	Purveyor of luxury tableware Michael C. ___
+14	ITE	Suffix with Israel
+15	OMEI	Sacred Buddhist mountain
+16	ASC	Camera operator's org.
+17	OPS	Photo finish?
+18	UNMAN	Terrify
+19	THEY	Unnamed ones
+21	IVS	E.R. hookups
+23	ORT	Scrap
+24	EEL	Danger to divers
+25	DOB	Driver's lic. stat
+26	NEO	Prefix with paganism
+27	ERG	A little bit of work
+28	LEX	N.Y.C. subway, with "the"
+29	LLD	Harvard degree earned by J.F.K. in 1956
+30	CNS	Brain and spinal cord: Abbr.
+31	FIT	In fighting trim
+32	BYA	___ whisker
+33	ADR	Worker in the TV biz
+34	ASH	Volcano detritus
+35	ONBY	"Walk ___" (1964 Warwick hit)
+37	TOADY	Courtier
+39	EUD	Fix a squeak
+41	OED	Work started by London's Philological Soc.
+43	GRIA	Yago Sant'___ (wine brand)
+44	ABT	Noted touring dance grp.
+45	ARTR	1981 hit film with a 5'3" lead actor
+46	USSR	Erstwhile empire, in brief
+47	NOE	Zero
+48	LETT	Baltic resident
+49	TEE	Informal top
+50	EXP	Milk carton abbr.
+51	DRO	Be an utter bore?
+27
+1	AFIST	Make ___ (clench)
+2	RANCHERSRAISE	Middle of the query
+3	RSA	Mandela's land: Abbr.
+4	GRIP	Tennis lesson subject
+5	OUTSIDETHEBOX	Like a housecat's no-no?
+6	LSE	End of many an E-mail address
+7	COMMONLABORER	Typical termite in a California city?
+8	SPEARED	Picked up, as an hors d'oeuvre
+9	ISINTO	Loves
+10	MFA	Design deg.
+12	KON	___-Tiki
+17	OYL	Segar created her
+18	USB	Kind of port for a PC
+20	EEG	Thoughts on paper?: Abbr.
+22	VOX	___ populi
+27	ENDORSE	Back
+28	LIS	Easter fleur
+29	LYN	Nixon adviser Nofziger
+30	CATGUT	String once used for cellos
+31	FAY	Former baseball commissioner Vincent
+32	BOD	Chassis
+36	YETTO	___ come
+38	DAR	Historically inclined grp.
+40	UTEP	Sun Bowl Stadium sch.
+42	DRT	"___ & the Women" (Altman film)
+44	ANE	"Wheel of Fortune" request
+45	ALD	Munic. official

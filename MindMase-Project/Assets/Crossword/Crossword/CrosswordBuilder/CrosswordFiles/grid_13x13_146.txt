@@ -1,0 +1,231 @@
+grid_13x13_146
+13
+0	1	1	B	0	0	3	1	BUZ	0	0	4	1	BEIT
+0	1	2	U	0	0	3	0		0	1	4	1	ULLA
+0	1	3	Z	0	0	3	0		0	2	4	1	ZASU
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	7	0	
+0	1	4	H	0	6	3	1	HUT	0	6	3	1	HER
+0	1	5	U	0	6	3	0		0	7	4	1	UNIX
+0	1	6	T	0	6	3	0		0	8	5	1	TSETS
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	E	0	10	3	1	ENS	0	10	8	1	ENTREATS
+0	1	8	N	0	10	3	0		0	11	8	1	NEAREAST
+0	1	9	S	0	10	3	0		0	12	6	1	SESAME
+0	1	10	E	1	0	4	1	ELAL	0	0	4	0	
+0	0	0	L	1	0	4	0		0	1	4	0	
+0	0	0	A	1	0	4	0		0	2	4	0	
+0	1	11	L	1	0	4	0		1	3	6	1	LANATE
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	12	L	1	5	4	1	LENS	1	5	7	1	LASORDA
+0	0	0	E	1	5	4	0		0	6	3	0	
+0	0	0	N	1	5	4	0		0	7	4	0	
+0	0	0	S	1	5	4	0		0	8	5	0	
+1	0	0	#	1	10	3	0		2	9	3	0	
+0	1	13	N	1	10	3	1	NEE	0	10	8	0	
+0	0	0	E	1	10	3	0		0	11	8	0	
+0	0	0	E	1	10	3	0		0	12	6	0	
+0	1	14	I	2	0	4	1	ILSA	0	0	4	0	
+0	0	0	L	2	0	4	0		0	1	4	0	
+0	0	0	S	2	0	4	0		0	2	4	0	
+0	0	0	A	2	0	4	0		1	3	6	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	15	A	2	5	8	1	ARIETTAS	1	5	7	0	
+0	0	0	R	2	5	8	0		0	6	3	0	
+0	0	0	I	2	5	8	0		0	7	4	0	
+0	0	0	E	2	5	8	0		0	8	5	0	
+0	1	16	T	2	5	8	0		2	9	3	1	TEE
+0	0	0	T	2	5	8	0		0	10	8	0	
+0	0	0	A	2	5	8	0		0	11	8	0	
+0	0	0	S	2	5	8	0		0	12	6	0	
+0	1	17	T	3	0	6	1	TAUNTS	0	0	4	0	
+0	0	0	A	3	0	6	0		0	1	4	0	
+0	0	0	U	3	0	6	0		0	2	4	0	
+0	0	0	N	3	0	6	0		1	3	6	0	
+0	1	18	T	3	0	6	0		3	4	3	1	TNG
+0	0	0	S	3	0	6	0		1	5	7	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	19	X	3	7	6	1	XTERRA	0	7	4	0	
+0	0	0	T	3	7	6	0		0	8	5	0	
+0	0	0	E	3	7	6	0		2	9	3	0	
+0	0	0	R	3	7	6	0		0	10	8	0	
+0	0	0	R	3	7	6	0		0	11	8	0	
+0	0	0	A	3	7	6	0		0	12	6	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	8	0	
+1	0	0	#	4	3	4	0		5	2	8	0	
+0	1	20	A	4	3	4	1	ANOS	1	3	6	0	
+0	0	0	N	4	3	4	0		3	4	3	0	
+0	0	0	O	4	3	4	0		1	5	7	0	
+0	1	21	S	4	3	4	0		4	6	5	1	SOOTS
+1	0	0	#	4	8	5	0		5	7	7	0	
+0	1	22	S	4	8	5	1	SEEEM	0	8	5	0	
+0	0	0	E	4	8	5	0		2	9	3	0	
+0	0	0	E	4	8	5	0		0	10	8	0	
+0	0	0	E	4	8	5	0		0	11	8	0	
+0	0	0	M	4	8	5	0		0	12	6	0	
+1	0	0	#	5	1	7	0		6	0	0	0	
+0	1	23	O	5	1	7	1	OUTGROW	5	1	8	1	OTTERPOP
+0	1	24	U	5	1	7	0		5	2	8	1	USHERING
+0	0	0	T	5	1	7	0		1	3	6	0	
+0	0	0	G	5	1	7	0		3	4	3	0	
+0	0	0	R	5	1	7	0		1	5	7	0	
+0	0	0	O	5	1	7	0		4	6	5	0	
+0	1	25	W	5	1	7	0		5	7	7	1	WALLEYE
+1	0	0	#	5	9	0	0		6	8	0	0	
+1	0	0	#	5	10	3	0		6	9	6	0	
+0	1	26	A	5	10	3	1	AAE	0	10	8	0	
+0	0	0	A	5	10	3	0		0	11	8	0	
+0	0	0	E	5	10	3	0		0	12	6	0	
+1	0	0	#	6	1	3	0		7	0	6	0	
+0	1	27	T	6	1	3	1	TSE	5	1	8	0	
+0	0	0	S	6	1	3	0		5	2	8	0	
+0	0	0	E	6	1	3	0		1	3	6	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	28	D	6	5	3	1	DOA	1	5	7	0	
+0	0	0	O	6	5	3	0		4	6	5	0	
+0	0	0	A	6	5	3	0		5	7	7	0	
+1	0	0	#	6	9	3	0		7	8	3	0	
+0	1	29	Q	6	9	3	1	QTS	6	9	6	1	QATARI
+0	0	0	T	6	9	3	0		0	10	8	0	
+0	0	0	S	6	9	3	0		0	11	8	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	F	7	0	3	1	FTH	7	0	6	1	FSHARP
+0	0	0	T	7	0	3	0		5	1	8	0	
+0	0	0	H	7	0	3	0		5	2	8	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	7	0		8	4	5	0	
+0	1	31	A	7	5	7	1	ATLEAST	1	5	7	0	
+0	0	0	T	7	5	7	0		4	6	5	0	
+0	0	0	L	7	5	7	0		5	7	7	0	
+0	1	32	E	7	5	7	0		7	8	3	1	EAT
+0	0	0	A	7	5	7	0		6	9	6	0	
+0	0	0	S	7	5	7	0		0	10	8	0	
+0	0	0	T	7	5	7	0		0	11	8	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	S	8	0	5	1	SEEIT	7	0	6	0	
+0	0	0	E	8	0	5	0		5	1	8	0	
+0	0	0	E	8	0	5	0		5	2	8	0	
+0	1	34	I	8	0	5	0		8	3	3	1	IOC
+0	1	35	T	8	0	5	0		8	4	5	1	TRACK
+1	0	0	#	8	6	4	0		9	5	4	0	
+0	1	36	S	8	6	4	1	SLAT	4	6	5	0	
+0	0	0	L	8	6	4	0		5	7	7	0	
+0	0	0	A	8	6	4	0		7	8	3	0	
+0	0	0	T	8	6	4	0		6	9	6	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	4	0	
+0	1	37	H	9	0	6	1	HRRORS	7	0	6	0	
+0	0	0	R	9	0	6	0		5	1	8	0	
+0	0	0	R	9	0	6	0		5	2	8	0	
+0	0	0	O	9	0	6	0		8	3	3	0	
+0	0	0	R	9	0	6	0		8	4	5	0	
+0	1	38	S	9	0	6	0		9	5	4	1	SLAY
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	39	E	9	7	6	1	ETALII	5	7	7	0	
+0	0	0	T	9	7	6	0		7	8	3	0	
+0	0	0	A	9	7	6	0		6	9	6	0	
+0	1	40	L	9	7	6	0		9	10	4	1	LOAD
+0	1	41	I	9	7	6	0		9	11	4	1	ITTY
+0	1	42	I	9	7	6	0		9	12	4	1	ISEE
+0	1	43	A	10	0	8	1	APICALLY	7	0	6	0	
+0	0	0	P	10	0	8	0		5	1	8	0	
+0	0	0	I	10	0	8	0		5	2	8	0	
+0	0	0	C	10	0	8	0		8	3	3	0	
+0	0	0	A	10	0	8	0		8	4	5	0	
+0	0	0	L	10	0	8	0		9	5	4	0	
+0	1	44	L	10	0	8	0		10	6	3	1	LSD
+0	0	0	Y	10	0	8	0		5	7	7	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	45	R	10	9	4	1	ROTS	6	9	6	0	
+0	0	0	O	10	9	4	0		9	10	4	0	
+0	0	0	T	10	9	4	0		9	11	4	0	
+0	0	0	S	10	9	4	0		9	12	4	0	
+0	1	46	R	11	0	3	1	RON	7	0	6	0	
+0	0	0	O	11	0	3	0		5	1	8	0	
+0	0	0	N	11	0	3	0		5	2	8	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	47	C	11	4	4	1	CASE	8	4	5	0	
+0	0	0	A	11	4	4	0		9	5	4	0	
+0	0	0	S	11	4	4	0		10	6	3	0	
+0	0	0	E	11	4	4	0		5	7	7	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	I	11	9	4	1	IATE	6	9	6	0	
+0	0	0	A	11	9	4	0		9	10	4	0	
+0	0	0	T	11	9	4	0		9	11	4	0	
+0	0	0	E	11	9	4	0		9	12	4	0	
+0	1	49	P	12	0	3	1	PPG	7	0	6	0	
+0	0	0	P	12	0	3	0		5	1	8	0	
+0	0	0	G	12	0	3	0		5	2	8	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	50	K	12	4	3	1	KYD	8	4	5	0	
+0	0	0	Y	12	4	3	0		9	5	4	0	
+0	0	0	D	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	D	12	10	3	1	DYE	9	10	4	0	
+0	0	0	Y	12	10	3	0		9	11	4	0	
+0	0	0	E	12	10	3	0		9	12	4	0	
+31
+1	BUZ	Caffeine-induced state, slangily
+4	HUT	Rough housing
+7	ENS	Dash-dot, dash-dot, dash-dot
+10	ELAL	Carrier to J.F.K.
+12	LENS	Fisheye ___
+13	NEE	Word between two names
+14	ILSA	She said "Play it, Sam"
+15	ARIETTAS	Brief operatic solos
+17	TAUNTS	Rides
+19	XTERRA	Nissan model
+20	ANOS	Una d
+22	SEEEM	"I call 'em as I ___"
+23	OUTGROW	Get too big for
+26	AAE	"American Justice" network
+27	TSE	Chuang ___, Chinese philosopher
+28	DOA	___ favor
+29	QTS	Peck parts: Abbr.
+30	FTH	July holiday, with "the"
+31	ATLEAST	If nothing else
+33	SEEIT	___ coming
+36	SLAT	Crate component
+37	HRRORS	"Good grief!"
+39	ETALII	List ender
+43	APICALLY	Without a regular schedule
+45	ROTS	Decomposes
+46	RON	Ely of Tarzan fame
+47	CASE	Part of a judge's docket
+48	IATE	"Must be something ___"
+49	PPG	Hoops stat.
+50	KYD	Early English playwright Thomas
+51	DYE	Cyanine, e.g.
+27
+1	BEIT	"___ ever so humble ..."
+2	ULLA	"The Producers" character who sings "When You Got It, Flaunt It"
+3	ZASU	Pitts of Hollywood
+4	HER	H.M.S. part
+5	UNIX	Computer operating system developed by Bell Labs
+6	TSETS	Need for the winner of a Wimbledon men's match
+7	ENTREATS	Asks urgently
+8	NEAREAST	Area including Turkey and Israel
+9	SESAME	Opening word
+11	LANATE	Woolly
+12	LASORDA	Longtime Dodger manager Tommy
+16	TEE	Sports supporter
+18	TNG	"Star Trek: ___"
+21	SOOTS	Covers with fine black particles
+23	OTTERPOP	Sweet frozen treat
+24	USHERING	Leading down the aisle
+25	WALLEYE	Pikeperch
+29	QATARI	Persian Gulf dweller
+30	FSHARP	Tough key for pianists
+32	EAT	Tuck away
+34	IOC	Quadrennial games grp.
+35	TRACK	Racecourse
+38	SLAY	Dispatch
+40	LOAD	Whites or colors, e.g.
+41	ITTY	___-bitty
+42	ISEE	What "video" means literally
+44	LSD	Flashback causer

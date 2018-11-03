@@ -1,0 +1,115 @@
+grid_9x9_121
+9
+0	1	1	T	0	0	3	1	TUB	0	0	3	1	TOE
+0	1	2	U	0	0	3	0		0	1	3	1	USN
+0	1	3	B	0	0	3	0		0	2	9	1	BECKONING
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	P	0	5	3	1	PHI	0	5	3	1	POL
+0	1	5	H	0	5	3	0		0	6	9	1	HEADHUNTS
+0	1	6	I	0	5	3	0		0	7	5	1	INDUE
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	O	1	0	4	1	OSES	0	0	3	0	
+0	0	0	S	1	0	4	0		0	1	3	0	
+0	0	0	E	1	0	4	0		0	2	9	0	
+0	1	8	S	1	0	4	0		1	3	4	1	SHAD
+1	0	0	#	1	5	3	0		2	4	5	0	
+0	1	9	O	1	5	3	1	OEN	0	5	3	0	
+0	0	0	E	1	5	3	0		0	6	9	0	
+0	0	0	N	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	10	E	2	0	9	1	ENCHILADA	0	0	3	0	
+0	0	0	N	2	0	9	0		0	1	3	0	
+0	0	0	C	2	0	9	0		0	2	9	0	
+0	0	0	H	2	0	9	0		1	3	4	0	
+0	1	11	I	2	0	9	0		2	4	5	1	IZAAK
+0	0	0	L	2	0	9	0		0	5	3	0	
+0	0	0	A	2	0	9	0		0	6	9	0	
+0	0	0	D	2	0	9	0		0	7	5	0	
+0	1	12	A	2	0	9	0		2	8	3	1	AHS
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	K	3	2	3	1	KAZ	0	2	9	0	
+0	0	0	A	3	2	3	0		1	3	4	0	
+0	0	0	Z	3	2	3	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	D	3	6	3	1	DUH	0	6	9	0	
+0	0	0	U	3	6	3	0		0	7	5	0	
+0	0	0	H	3	6	3	0		2	8	3	0	
+0	1	15	T	4	0	9	1	TWODASHES	4	0	3	1	TET
+0	1	16	W	4	0	9	0		4	1	5	1	WARDS
+0	0	0	O	4	0	9	0		0	2	9	0	
+0	0	0	D	4	0	9	0		1	3	4	0	
+0	0	0	A	4	0	9	0		2	4	5	0	
+0	1	17	S	4	0	9	0		4	5	4	1	SAKE
+0	0	0	H	4	0	9	0		0	6	9	0	
+0	0	0	E	4	0	9	0		0	7	5	0	
+0	0	0	S	4	0	9	0		2	8	3	0	
+0	1	18	E	5	0	3	1	EAN	4	0	3	0	
+0	0	0	A	5	0	3	0		4	1	5	0	
+0	0	0	N	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	19	A	5	4	3	1	AAU	2	4	5	0	
+0	0	0	A	5	4	3	0		4	5	4	0	
+0	0	0	U	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	T	6	0	9	1	TRICKKNEE	4	0	3	0	
+0	0	0	R	6	0	9	0		4	1	5	0	
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	1	21	C	6	0	9	0		6	3	3	1	CAT
+0	0	0	K	6	0	9	0		2	4	5	0	
+0	0	0	K	6	0	9	0		4	5	4	0	
+0	0	0	N	6	0	9	0		0	6	9	0	
+0	1	22	E	6	0	9	0		6	7	3	1	ECI
+0	1	23	E	6	0	9	0		6	8	3	1	ESL
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	24	D	7	1	3	1	DNA	4	1	5	0	
+0	0	0	N	7	1	3	0		0	2	9	0	
+0	0	0	A	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	25	E	7	5	4	1	ETCS	4	5	4	0	
+0	0	0	T	7	5	4	0		0	6	9	0	
+0	0	0	C	7	5	4	0		6	7	3	0	
+0	0	0	S	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	26	S	8	1	3	1	SGT	4	1	5	0	
+0	0	0	G	8	1	3	0		0	2	9	0	
+0	0	0	T	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	27	S	8	6	3	1	SIL	0	6	9	0	
+0	0	0	I	8	6	3	0		6	7	3	0	
+0	0	0	L	8	6	3	0		6	8	3	0	
+15
+1	TUB	Place to unwind
+4	PHI	Sorority letter
+7	OSES	Medical suffixes
+9	OEN	Wine: Prefix
+10	ENCHILADA	"Big" one
+13	KAZ	Second baseman Matsui, to fans
+14	DUH	Self-deprecating utterance
+15	TWODASHES	Octet of black squares in the middle of this grid, typographically
+18	EAN	Suffix with Ecuador
+19	AAU	Sports org.
+20	TRICKKNEE	It may require joint checking
+24	DNA	Genes material
+25	ETCS	Truncation indications: Abbr.
+26	SGT	Pepper, e.g.
+27	SIL	Tony's consigliere, familiarly, on "The Sopranos"
+15
+1	TOE	Turning point?
+2	USN	"Top Gun" org.
+3	BECKONING	Making a curling motion with the forefinger, maybe
+4	POL	Party person
+5	HEADHUNTS	Recruits, in a way
+6	INDUE	___ time
+8	SHAD	Filleted fish
+11	IZAAK	___ Walton, author of "The Compleat Angler"
+12	AHS	Physical reactions?
+15	TET	Holiday in Asia
+16	WARDS	Some are critical
+17	SAKE	Japanese drink
+21	CAT	...
+22	ECI	Motel freebie
+23	ESL	Immigrant's course, for short

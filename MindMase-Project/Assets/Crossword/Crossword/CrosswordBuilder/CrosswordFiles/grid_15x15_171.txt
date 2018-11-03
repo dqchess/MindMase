@@ -1,0 +1,303 @@
+grid_15x15_171
+15
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	O	0	1	3	1	OOS	0	1	7	1	OLOROSO
+0	1	2	O	0	1	3	0		0	2	15	1	OOPSIDIDITAGAIN
+0	1	3	S	0	1	3	0		0	3	3	1	SUE
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	B	0	7	3	1	BAL	0	7	3	1	BOT
+0	1	5	A	0	7	3	0		0	8	8	1	AXHANDLE
+0	1	6	L	0	7	3	0		0	9	7	1	LYESOAP
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	7	X	0	11	3	1	XFL	0	11	3	1	XKE
+0	1	8	F	0	11	3	0		0	12	15	1	FASTEDDIEFELSON
+0	1	9	L	0	11	3	0		0	13	7	1	LITINTO
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	C	1	0	5	1	CLOUT	1	0	4	1	CHET
+0	0	0	L	1	0	5	0		0	1	7	0	
+0	0	0	O	1	0	5	0		0	2	15	0	
+0	0	0	U	1	0	5	0		0	3	3	0	
+0	1	11	T	1	0	5	0		1	4	4	1	TFRS
+1	0	0	#	1	6	4	0		2	5	3	0	
+0	1	12	R	1	6	4	1	ROXY	1	6	5	1	RRSTA
+0	0	0	O	1	6	4	0		0	7	3	0	
+0	0	0	X	1	6	4	0		0	8	8	0	
+0	0	0	Y	1	6	4	0		0	9	7	0	
+1	0	0	#	1	11	3	0		2	10	3	0	
+0	1	13	K	1	11	3	1	KAI	0	11	3	0	
+0	0	0	A	1	11	3	0		0	12	15	0	
+0	0	0	I	1	11	3	0		0	13	7	0	
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	14	H	2	0	14	1	HOPEFORTHEBEST	1	0	4	0	
+0	0	0	O	2	0	14	0		0	1	7	0	
+0	0	0	P	2	0	14	0		0	2	15	0	
+0	0	0	E	2	0	14	0		0	3	3	0	
+0	0	0	F	2	0	14	0		1	4	4	0	
+0	1	15	O	2	0	14	0		2	5	3	1	OPA
+0	0	0	R	2	0	14	0		1	6	5	0	
+0	0	0	T	2	0	14	0		0	7	3	0	
+0	0	0	H	2	0	14	0		0	8	8	0	
+0	0	0	E	2	0	14	0		0	9	7	0	
+0	1	16	B	2	0	14	0		2	10	3	1	BKS
+0	0	0	E	2	0	14	0		0	11	3	0	
+0	0	0	S	2	0	14	0		0	12	15	0	
+0	0	0	T	2	0	14	0		0	13	7	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	17	E	3	0	3	1	ERS	1	0	4	0	
+0	0	0	R	3	0	3	0		0	1	7	0	
+0	0	0	S	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	3	0		4	3	5	0	
+0	1	18	R	3	4	3	1	RPS	1	4	4	0	
+0	0	0	P	3	4	3	0		2	5	3	0	
+0	0	0	S	3	4	3	0		1	6	5	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	19	A	3	8	3	1	ASK	0	8	8	0	
+0	0	0	S	3	8	3	0		0	9	7	0	
+0	0	0	K	3	8	3	0		2	10	3	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	20	T	3	12	3	1	TIA	0	12	15	0	
+0	0	0	I	3	12	3	0		0	13	7	0	
+0	1	21	A	3	12	3	0		3	14	3	1	ASS
+0	1	22	T	4	0	7	1	TOILSAT	1	0	4	0	
+0	0	0	O	4	0	7	0		0	1	7	0	
+0	0	0	I	4	0	7	0		0	2	15	0	
+0	1	23	L	4	0	7	0		4	3	5	1	LILYW
+0	0	0	S	4	0	7	0		1	4	4	0	
+0	0	0	A	4	0	7	0		2	5	3	0	
+0	0	0	T	4	0	7	0		1	6	5	0	
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	24	N	4	8	3	1	NOS	0	8	8	0	
+0	0	0	O	4	8	3	0		0	9	7	0	
+0	0	0	S	4	8	3	0		2	10	3	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	E	4	12	3	1	ENS	0	12	15	0	
+0	0	0	N	4	12	3	0		0	13	7	0	
+0	0	0	S	4	12	3	0		3	14	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	26	S	5	1	3	1	SDI	0	1	7	0	
+0	0	0	D	5	1	3	0		0	2	15	0	
+0	0	0	I	5	1	3	0		4	3	5	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	4	0		6	5	0	0	
+0	1	27	A	5	6	4	1	ALDA	1	6	5	0	
+0	1	28	L	5	6	4	0		5	7	5	1	LEGSD
+0	0	0	D	5	6	4	0		0	8	8	0	
+0	0	0	A	5	6	4	0		0	9	7	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	5	12	3	0		6	11	5	0	
+0	1	29	D	5	12	3	1	DTS	0	12	15	0	
+0	0	0	T	5	12	3	0		0	13	7	0	
+0	0	0	S	5	12	3	0		3	14	3	0	
+1	0	0	#	6	1	4	0		7	0	0	0	
+0	1	30	O	6	1	4	1	OILY	0	1	7	0	
+0	0	0	I	6	1	4	0		0	2	15	0	
+0	0	0	L	6	1	4	0		4	3	5	0	
+0	1	31	Y	6	1	4	0		6	4	3	1	YEA
+1	0	0	#	6	6	0	0		7	5	0	0	
+1	0	0	#	6	7	7	0		7	6	8	0	
+0	1	32	E	6	7	7	1	ELPRADO	5	7	5	0	
+0	0	0	L	6	7	7	0		0	8	8	0	
+0	0	0	P	6	7	7	0		0	9	7	0	
+0	1	33	R	6	7	7	0		6	10	3	1	ROK
+0	1	34	A	6	7	7	0		6	11	5	1	ABACK
+0	0	0	D	6	7	7	0		0	12	15	0	
+0	0	0	O	6	7	7	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	7	0	
+0	1	35	D	7	2	3	1	DYE	0	2	15	0	
+0	0	0	Y	7	2	3	0		4	3	5	0	
+0	0	0	E	7	2	3	0		6	4	3	0	
+1	0	0	#	7	6	3	0		8	5	7	0	
+0	1	36	L	7	6	3	1	LGE	7	6	8	1	LINETEST
+0	0	0	G	7	6	3	0		5	7	5	0	
+0	0	0	E	7	6	3	0		0	8	8	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	37	O	7	10	3	1	OBI	6	10	3	0	
+0	0	0	B	7	10	3	0		6	11	5	0	
+0	0	0	I	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	7	0		9	0	3	0	
+0	1	38	K	8	1	7	1	KIWANIS	8	1	7	1	KINGPIN
+0	0	0	I	8	1	7	0		0	2	15	0	
+0	0	0	W	8	1	7	0		4	3	5	0	
+0	0	0	A	8	1	7	0		6	4	3	0	
+0	1	39	N	8	1	7	0		8	5	7	1	NEEDLES
+0	0	0	I	8	1	7	0		7	6	8	0	
+0	0	0	S	8	1	7	0		5	7	5	0	
+1	0	0	#	8	9	0	0		9	8	5	0	
+1	0	0	#	8	10	4	0		9	9	0	0	
+0	1	40	K	8	10	4	1	KAEL	6	10	3	0	
+0	0	0	A	8	10	4	0		6	11	5	0	
+0	0	0	E	8	10	4	0		0	12	15	0	
+0	1	41	L	8	10	4	0		8	13	7	1	LONBASE
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	42	N	9	0	3	1	NIT	9	0	3	1	NEE
+0	0	0	I	9	0	3	0		8	1	7	0	
+0	0	0	T	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	0	0		10	3	0	0	
+1	0	0	#	9	5	4	0		10	4	3	0	
+0	1	43	E	9	5	4	1	ENDS	8	5	7	0	
+0	0	0	N	9	5	4	0		7	6	8	0	
+0	0	0	D	9	5	4	0		5	7	5	0	
+0	1	44	S	9	5	4	0		9	8	5	1	SWEET
+1	0	0	#	9	10	0	0		10	9	3	0	
+1	0	0	#	9	11	3	0		10	10	4	0	
+0	1	45	C	9	11	3	1	CFO	6	11	5	0	
+0	0	0	F	9	11	3	0		0	12	15	0	
+0	0	0	O	9	11	3	0		8	13	7	0	
+1	0	0	#	9	15	0	0		10	14	4	0	
+0	1	46	E	10	0	3	1	ENA	9	0	3	0	
+0	0	0	N	10	0	3	0		8	1	7	0	
+0	0	0	A	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	47	C	10	4	3	1	CEE	10	4	3	1	CEO
+0	0	0	E	10	4	3	0		8	5	7	0	
+0	0	0	E	10	4	3	0		7	6	8	0	
+1	0	0	#	10	8	7	0		11	7	0	0	
+0	1	48	W	10	8	7	1	WEEKEND	9	8	5	0	
+0	1	49	E	10	8	7	0		10	9	3	1	ENV
+0	1	50	E	10	8	7	0		10	10	4	1	ELEE
+0	0	0	K	10	8	7	0		6	11	5	0	
+0	0	0	E	10	8	7	0		0	12	15	0	
+0	0	0	N	10	8	7	0		8	13	7	0	
+0	1	51	D	10	8	7	0		10	14	4	1	DOLE
+0	1	52	E	11	0	3	1	EGG	9	0	3	0	
+0	0	0	G	11	0	3	0		8	1	7	0	
+0	0	0	G	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	53	E	11	4	3	1	EDT	10	4	3	0	
+0	0	0	D	11	4	3	0		8	5	7	0	
+0	0	0	T	11	4	3	0		7	6	8	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	54	E	11	8	3	1	ENL	9	8	5	0	
+0	0	0	N	11	8	3	0		10	9	3	0	
+0	0	0	L	11	8	3	0		10	10	4	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	55	L	11	12	3	1	LBO	0	12	15	0	
+0	0	0	B	11	12	3	0		8	13	7	0	
+0	0	0	O	11	12	3	0		10	14	4	0	
+1	0	0	#	12	1	14	0		13	0	0	0	
+0	1	56	P	12	1	14	1	PAROLEREVERSAL	8	1	7	0	
+0	0	0	A	12	1	14	0		0	2	15	0	
+0	1	57	R	12	1	14	0		12	3	3	1	RIE
+0	0	0	O	12	1	14	0		10	4	3	0	
+0	0	0	L	12	1	14	0		8	5	7	0	
+0	0	0	E	12	1	14	0		7	6	8	0	
+0	1	58	R	12	1	14	0		12	7	3	1	RID
+0	0	0	E	12	1	14	0		9	8	5	0	
+0	0	0	V	12	1	14	0		10	9	3	0	
+0	0	0	E	12	1	14	0		10	10	4	0	
+0	1	59	R	12	1	14	0		12	11	3	1	RRS
+0	0	0	S	12	1	14	0		0	12	15	0	
+0	0	0	A	12	1	14	0		8	13	7	0	
+0	0	0	L	12	1	14	0		10	14	4	0	
+1	0	0	#	13	1	3	0		14	0	0	0	
+0	1	60	I	13	1	3	1	III	8	1	7	0	
+0	0	0	I	13	1	3	0		0	2	15	0	
+0	0	0	I	13	1	3	0		12	3	3	0	
+1	0	0	#	13	5	4	0		14	4	0	0	
+0	1	61	E	13	5	4	1	ESIT	8	5	7	0	
+0	0	0	S	13	5	4	0		7	6	8	0	
+0	0	0	I	13	5	4	0		12	7	3	0	
+0	0	0	T	13	5	4	0		9	8	5	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	62	E	13	10	5	1	EROSE	10	10	4	0	
+0	0	0	R	13	10	5	0		12	11	3	0	
+0	0	0	O	13	10	5	0		0	12	15	0	
+0	0	0	S	13	10	5	0		8	13	7	0	
+0	0	0	E	13	10	5	0		10	14	4	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	63	N	14	1	3	1	NNE	8	1	7	0	
+0	0	0	N	14	1	3	0		0	2	15	0	
+0	0	0	E	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	64	S	14	5	3	1	STD	8	5	7	0	
+0	0	0	T	14	5	3	0		7	6	8	0	
+0	0	0	D	14	5	3	0		12	7	3	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	65	S	14	11	3	1	SNE	12	11	3	0	
+0	0	0	N	14	11	3	0		0	12	15	0	
+0	0	0	E	14	11	3	0		8	13	7	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	OOS	Long-running film role
+4	BAL	Account amt.
+7	XFL	Object
+10	CLOUT	Pull
+12	ROXY	Popular theater name
+13	KAI	China's Chiang ___-shek
+14	HOPEFORTHEBEST	"Aspiration Man" by Gore Vidal
+17	ERS	Some TV drama settings
+18	RPS	Very quick rotation meas.
+19	ASK	Try to find out
+20	TIA	Rio relative
+22	TOILSAT	Labors over
+24	NOS	Directory data: Abbr.
+25	ENS	Ems followers
+26	SDI	Reagan cause: Abbr.
+27	ALDA	"The Aviator" actor, 2004
+29	DTS	The shakes, for short
+30	OILY	Smarmy
+32	ELPRADO	Where many Goyas hang
+35	DYE	It may be used for highlighting
+36	LGE	T-shirt size: Abbr.
+37	OBI	Eastern wrap
+38	KIWANIS	Community group since 1915
+40	KAEL	Film critic Pauline
+42	NIT	Annual hoops event, familiarly
+43	ENDS	Line pair
+45	CFO	Corp. money man or woman
+46	ENA	Faline's mother, in "Bambi"
+47	CEE	Clamp shape
+48	WEEKEND	Something much looked forward to
+52	EGG	Object of a spring hunt
+53	EDT	Summer hrs., in N.Y.C.
+54	ENL	Photographer's abbr.
+55	LBO	Certain corp. takeover
+56	PAROLEREVERSAL	Back-to-the-slammer order?
+60	III	Grandson, maybe
+61	ESIT	"Scratch that!"
+62	EROSE	Not smooth
+63	NNE	Compass heading
+64	STD	Reg. version
+65	SNE	1983 Indy winner Tom
+33
+1	OLOROSO	Medium-sweet sherry
+2	OOPSIDIDITAGAIN	2000 Britney Spears hit
+3	SUE	Prosecute
+4	BOT	Study of plants: Abbr.
+5	AXHANDLE	What a lumberjack holds
+6	LYESOAP	Strong hand cleaner
+7	XKE	Jaguar model
+8	FASTEDDIEFELSON	Paul Newman's role in "The Hustler"
+9	LITINTO	Slammed
+10	CHET	"Good-night, ___" (old TV sign-off)
+11	TFRS	Bank-to-bank transactions: Abbr.
+12	RRSTA	B. & O. stop: Abbr.
+15	OPA	Cost-controlling W.W. II agcy.
+16	BKS	Bibliophile's love: Abbr.
+21	ASS	Pompous sort
+23	LILYW	Above reproach
+28	LEGSD	1988 Peter Allen musical
+31	YEA	A way to vote
+33	ROK	1950's soldier, in brief
+34	ABACK	By surprise
+36	LINETEST	Part of a telephone worker's routine
+38	KINGPIN	Top dog
+39	NEEDLES	Christmas tree shedding
+41	LONBASE	Not brought home
+42	NEE	Follower of a new name
+44	SWEET	Saccharine
+47	CEO	Golden parachute receiver, maybe: Abbr.
+49	ENV	Ltr. container
+50	ELEE	Part of a C.S.A. signature
+51	DOLE	Relief
+57	RIE	Beginner
+58	RID	Relieve
+59	RRS	Four Monopoly assets: Abbr.

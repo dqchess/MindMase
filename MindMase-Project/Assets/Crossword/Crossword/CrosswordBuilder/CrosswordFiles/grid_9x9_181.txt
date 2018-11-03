@@ -1,0 +1,115 @@
+grid_9x9_181
+9
+0	1	1	T	0	0	4	1	TEAT	0	0	3	1	TAD
+0	1	2	E	0	0	4	0		0	1	3	1	ENO
+0	1	3	A	0	0	4	0		0	2	9	1	ADINTERIM
+0	1	4	T	0	0	4	0		0	3	5	1	TUNIS
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	5	C	0	6	3	1	COH	0	6	9	1	CREAMCAKE
+0	1	6	O	0	6	3	0		0	7	5	1	OSOLE
+0	1	7	H	0	6	3	0		0	8	4	1	HANS
+0	1	8	A	1	0	5	1	ANDUP	0	0	3	0	
+0	0	0	N	1	0	5	0		0	1	3	0	
+0	0	0	D	1	0	5	0		0	2	9	0	
+0	0	0	U	1	0	5	0		0	3	5	0	
+0	1	9	P	1	0	5	0		1	4	7	1	PGATOUR
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	R	1	6	3	1	RSA	0	6	9	0	
+0	0	0	S	1	6	3	0		0	7	5	0	
+0	0	0	A	1	6	3	0		0	8	4	0	
+0	1	11	D	2	0	5	1	DOING	0	0	3	0	
+0	0	0	O	2	0	5	0		0	1	3	0	
+0	0	0	I	2	0	5	0		0	2	9	0	
+0	0	0	N	2	0	5	0		0	3	5	0	
+0	0	0	G	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	0	0	
+0	1	12	E	2	6	3	1	EON	0	6	9	0	
+0	0	0	O	2	6	3	0		0	7	5	0	
+0	0	0	N	2	6	3	0		0	8	4	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	N	3	2	3	1	NIA	0	2	9	0	
+0	0	0	I	3	2	3	0		0	3	5	0	
+0	0	0	A	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	14	A	3	6	3	1	ALS	0	6	9	0	
+0	0	0	L	3	6	3	0		0	7	5	0	
+0	0	0	S	3	6	3	0		0	8	4	0	
+1	0	0	#	4	1	7	0		5	0	4	0	
+0	1	15	I	4	1	7	1	ITSTIME	4	1	5	1	ICIER
+0	0	0	T	4	1	7	0		0	2	9	0	
+0	0	0	S	4	1	7	0		0	3	5	0	
+0	0	0	T	4	1	7	0		1	4	7	0	
+0	1	16	I	4	1	7	0		4	5	5	1	ITSON
+0	0	0	M	4	1	7	0		0	6	9	0	
+0	0	0	E	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	A	5	0	3	1	ACE	5	0	4	1	AABA
+0	0	0	C	5	0	3	0		4	1	5	0	
+0	0	0	E	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	18	O	5	4	3	1	OTC	1	4	7	0	
+0	0	0	T	5	4	3	0		4	5	5	0	
+0	0	0	C	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	A	6	0	3	1	AIR	5	0	4	0	
+0	0	0	I	6	0	3	0		4	1	5	0	
+0	0	0	R	6	0	3	0		0	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	20	U	6	4	5	1	USAIN	1	4	7	0	
+0	0	0	S	6	4	5	0		4	5	5	0	
+0	0	0	A	6	4	5	0		0	6	9	0	
+0	1	21	I	6	4	5	0		6	7	3	1	IER
+0	1	22	N	6	4	5	0		6	8	3	1	NRA
+0	1	23	B	7	0	3	1	BEI	5	0	4	0	
+0	0	0	E	7	0	3	0		4	1	5	0	
+0	0	0	I	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	R	7	4	5	1	ROKER	1	4	7	0	
+0	0	0	O	7	4	5	0		4	5	5	0	
+0	0	0	K	7	4	5	0		0	6	9	0	
+0	0	0	E	7	4	5	0		6	7	3	0	
+0	0	0	R	7	4	5	0		6	8	3	0	
+0	1	25	A	8	0	3	1	ARM	5	0	4	0	
+0	0	0	R	8	0	3	0		4	1	5	0	
+0	0	0	M	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	4	0		9	4	0	0	
+0	1	26	N	8	5	4	1	NERA	4	5	5	0	
+0	0	0	E	8	5	4	0		0	6	9	0	
+0	0	0	R	8	5	4	0		6	7	3	0	
+0	0	0	A	8	5	4	0		6	8	3	0	
+17
+1	TEAT	Suckling spot
+5	COH	"Suzanne" songwriter
+8	ANDUP	Ending words in a price
+10	RSA	Cape Town's home: Abbr.
+11	DOING	"Nothing ___!"
+12	EON	Many, many moons
+13	NIA	Peeples of "Fame"
+14	ALS	Gore and Hirt
+15	ITSTIME	"We've waited long enough!"
+17	ACE	Sampras specialty
+18	OTC	Needing no script
+19	AIR	Voice
+20	USAIN	Lightning-fast Bolt
+23	BEI	"___ Mir Bist Du Schoen" (1938 hit)
+24	ROKER	TV weatherman
+25	ARM	Usher's offering
+26	NERA	Tiber tributary whose name means "black"
+13
+1	TAD	Tiny amount
+2	ENO	Brian of ambient music
+3	ADINTERIM	For the time being
+4	TUNIS	One of the Barbary States
+5	CREAMCAKE	Custard-filled dessert
+6	OSOLE	"___ Mio"
+7	HANS	Counter inventor Geiger
+9	PGATOUR	Driving distance is a concern in it
+15	ICIER	Slicker in the winter
+16	ITSON	Fight announcement
+17	AABA	Rub
+21	IER	Suffix with front
+22	NRA	Anti-Brady Bill org.

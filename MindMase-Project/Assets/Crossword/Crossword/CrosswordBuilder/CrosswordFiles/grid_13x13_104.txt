@@ -1,0 +1,233 @@
+grid_13x13_104
+13
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	0	0		1	2	8	0	
+1	0	0	#	0	4	3	0		1	3	5	0	
+0	1	1	M	0	4	3	1	MEN	0	4	6	1	MEASLY
+0	1	2	E	0	4	3	0		0	5	3	1	ELL
+0	1	3	N	0	4	3	0		0	6	3	1	NIL
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	4	0	
+0	1	4	E	0	10	3	1	EWR	0	10	3	1	EOS
+0	1	5	W	0	10	3	0		0	11	3	1	WDS
+0	1	6	R	0	10	3	0		0	12	3	1	RAO
+0	1	7	B	1	0	8	1	BUDSELIG	1	0	3	1	BOR
+0	1	8	U	1	0	8	0		1	1	4	1	UHUH
+0	1	9	D	1	0	8	0		1	2	8	1	DREAMING
+0	1	10	S	1	0	8	0		1	3	5	1	SERIA
+0	0	0	E	1	0	8	0		0	4	6	0	
+0	0	0	L	1	0	8	0		0	5	3	0	
+0	0	0	I	1	0	8	0		0	6	3	0	
+0	1	11	G	1	0	8	0		1	7	3	1	GYM
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	12	C	1	9	4	1	CODA	1	9	4	1	COMO
+0	0	0	O	1	9	4	0		0	10	3	0	
+0	0	0	D	1	9	4	0		0	11	3	0	
+0	0	0	A	1	9	4	0		0	12	3	0	
+0	1	13	O	2	0	8	1	OHREALLY	1	0	3	0	
+0	0	0	H	2	0	8	0		1	1	4	0	
+0	0	0	R	2	0	8	0		1	2	8	0	
+0	0	0	E	2	0	8	0		1	3	5	0	
+0	0	0	A	2	0	8	0		0	4	6	0	
+0	0	0	L	2	0	8	0		0	5	3	0	
+0	0	0	L	2	0	8	0		0	6	3	0	
+0	0	0	Y	2	0	8	0		1	7	3	0	
+1	0	0	#	2	9	4	0		3	8	3	0	
+0	1	14	O	2	9	4	1	OSSO	1	9	4	0	
+0	0	0	S	2	9	4	0		0	10	3	0	
+0	0	0	S	2	9	4	0		0	11	3	0	
+0	0	0	O	2	9	4	0		0	12	3	0	
+0	1	15	R	3	0	5	1	RUERS	1	0	3	0	
+0	0	0	U	3	0	5	0		1	1	4	0	
+0	0	0	E	3	0	5	0		1	2	8	0	
+0	0	0	R	3	0	5	0		1	3	5	0	
+0	0	0	S	3	0	5	0		0	4	6	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	16	M	3	7	3	1	MUM	1	7	3	0	
+0	1	17	U	3	7	3	0		3	8	3	1	UWE
+0	0	0	M	3	7	3	0		1	9	4	0	
+1	0	0	#	3	11	0	0		4	10	8	0	
+1	0	0	#	3	12	0	0		4	11	3	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	18	H	4	1	5	1	HAILS	1	1	4	0	
+0	0	0	A	4	1	5	0		1	2	8	0	
+0	0	0	I	4	1	5	0		1	3	5	0	
+0	0	0	L	4	1	5	0		0	4	6	0	
+0	1	19	S	4	1	5	0		4	5	4	1	SPCA
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	5	0		5	7	4	0	
+0	1	20	W	4	8	5	1	WOPAT	3	8	3	0	
+0	0	0	O	4	8	5	0		1	9	4	0	
+0	1	21	P	4	8	5	0		4	10	8	1	PUISSANT
+0	1	22	A	4	8	5	0		4	11	3	1	ABB
+0	1	23	T	4	8	5	0		4	12	3	1	TSA
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	7	0		6	1	3	0	
+0	1	24	M	5	2	7	1	MAYPOLE	1	2	8	0	
+0	0	0	A	5	2	7	0		1	3	5	0	
+0	0	0	Y	5	2	7	0		0	4	6	0	
+0	0	0	P	5	2	7	0		4	5	4	0	
+0	1	25	O	5	2	7	0		5	6	3	1	OIO
+0	1	26	L	5	2	7	0		5	7	4	1	LVII
+0	0	0	E	5	2	7	0		3	8	3	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	U	5	10	3	1	UBS	4	10	8	0	
+0	0	0	B	5	10	3	0		4	11	3	0	
+0	0	0	S	5	10	3	0		4	12	3	0	
+0	1	28	U	6	0	3	1	UNI	6	0	3	1	UVA
+0	1	29	N	6	0	3	0		6	1	3	1	NEL
+0	0	0	I	6	0	3	0		1	2	8	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	30	C	6	5	3	1	CIV	4	5	4	0	
+0	0	0	I	6	5	3	0		5	6	3	0	
+0	0	0	V	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	0	0		7	8	6	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	31	I	6	10	3	1	IBA	4	10	8	0	
+0	0	0	B	6	10	3	0		4	11	3	0	
+0	0	0	A	6	10	3	0		4	12	3	0	
+0	1	32	V	7	0	3	1	VEN	6	0	3	0	
+0	0	0	E	7	0	3	0		6	1	3	0	
+0	0	0	N	7	0	3	0		1	2	8	0	
+1	0	0	#	7	4	7	0		8	3	4	0	
+0	1	33	M	7	4	7	1	MAOISTS	7	4	3	1	MAC
+0	0	0	A	7	4	7	0		4	5	4	0	
+0	0	0	O	7	4	7	0		5	6	3	0	
+0	0	0	I	7	4	7	0		5	7	4	0	
+0	1	34	S	7	4	7	0		7	8	6	1	SLOINS
+0	1	35	T	7	4	7	0		7	9	5	1	TOPEE
+0	0	0	S	7	4	7	0		4	10	8	0	
+1	0	0	#	7	12	0	0		8	11	4	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	36	A	8	0	5	1	ALGIA	6	0	3	0	
+0	0	0	L	8	0	5	0		6	1	3	0	
+0	0	0	G	8	0	5	0		1	2	8	0	
+0	1	37	I	8	0	5	0		8	3	4	1	ISTS
+0	0	0	A	8	0	5	0		7	4	3	0	
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	5	0		9	6	0	0	
+0	1	38	I	8	7	5	1	ILOST	5	7	4	0	
+0	0	0	L	8	7	5	0		7	8	6	0	
+0	0	0	O	8	7	5	0		7	9	5	0	
+0	0	0	S	8	7	5	0		4	10	8	0	
+0	1	39	T	8	7	5	0		8	11	4	1	TTTT
+1	0	0	#	8	13	0	0		9	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	3	0	
+1	0	0	#	9	3	3	0		10	2	3	0	
+0	1	40	S	9	3	3	1	SCH	8	3	4	0	
+0	0	0	C	9	3	3	0		7	4	3	0	
+0	1	41	H	9	3	3	0		9	5	3	1	HAJ
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	5	0		10	7	3	0	
+0	1	42	O	9	8	5	1	OPATE	7	8	6	0	
+0	0	0	P	9	8	5	0		7	9	5	0	
+0	0	0	A	9	8	5	0		4	10	8	0	
+0	0	0	T	9	8	5	0		8	11	4	0	
+0	1	43	E	9	8	5	0		9	12	3	1	ESE
+0	1	44	G	10	0	4	1	GEST	10	0	3	1	GRO
+0	1	45	E	10	0	4	0		10	1	3	1	EOE
+0	1	46	S	10	0	4	0		10	2	3	1	SSR
+0	0	0	T	10	0	4	0		8	3	4	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	47	A	10	5	8	1	ANCIENTS	9	5	3	0	
+0	1	48	N	10	5	8	0		10	6	3	1	NEI
+0	1	49	C	10	5	8	0		10	7	3	1	CAN
+0	0	0	I	10	5	8	0		7	8	6	0	
+0	0	0	E	10	5	8	0		7	9	5	0	
+0	0	0	N	10	5	8	0		4	10	8	0	
+0	0	0	T	10	5	8	0		8	11	4	0	
+0	0	0	S	10	5	8	0		9	12	3	0	
+0	1	50	R	11	0	4	1	ROSS	10	0	3	0	
+0	0	0	O	11	0	4	0		10	1	3	0	
+0	0	0	S	11	0	4	0		10	2	3	0	
+0	0	0	S	11	0	4	0		8	3	4	0	
+1	0	0	#	11	5	8	0		12	4	0	0	
+0	1	51	J	11	5	8	1	JEANETTE	9	5	3	0	
+0	0	0	E	11	5	8	0		10	6	3	0	
+0	0	0	A	11	5	8	0		10	7	3	0	
+0	0	0	N	11	5	8	0		7	8	6	0	
+0	0	0	E	11	5	8	0		7	9	5	0	
+0	0	0	T	11	5	8	0		4	10	8	0	
+0	0	0	T	11	5	8	0		8	11	4	0	
+0	0	0	E	11	5	8	0		9	12	3	0	
+0	1	52	O	12	0	3	1	OER	10	0	3	0	
+0	0	0	E	12	0	3	0		10	1	3	0	
+0	0	0	R	12	0	3	0		10	2	3	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	53	I	12	6	3	1	INS	10	6	3	0	
+0	0	0	N	12	6	3	0		10	7	3	0	
+0	0	0	S	12	6	3	0		7	8	6	0	
+1	0	0	#	12	10	0	0		13	9	0	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	MEN	Checkers, e.g.
+4	EWR	Airport alternative to JFK or LGA
+7	BUDSELIG	Baseball commissioner starting in 1992
+12	CODA	End notes?
+13	OHREALLY	"Is that so?"
+14	OSSO	Bologna bone
+15	RUERS	They might atone
+16	MUM	Britain's Queen ___
+18	HAILS	Lauds
+20	WOPAT	Actor Tom of "The Dukes of Hazzard"
+24	MAYPOLE	What some celebrations are centered around
+27	UBS	Financial inst. that bought PaineWebber in 2000
+28	UNI	Directional beginning
+30	CIV	Early second-century date
+31	IBA	Hall-of-Fame basketball coach Hank
+32	VEN	Title for one on the way to sainthood: Abbr.
+33	MAOISTS	Gang of Four members
+36	ALGIA	Pain: Suffix
+38	ILOST	Pauline Kael's "___ It at the Movies"
+40	SCH	M.I.T. or N.Y.U.
+42	OPATE	Sedative
+44	GEST	Daring deed
+47	ANCIENTS	Plato and Aristotle, e.g.
+50	ROSS	"King Richard II" lord
+51	JEANETTE	30's singer MacDonald
+52	OER	Anthem preposition
+53	INS	It'll cover you: Abbr.
+33
+1	MEASLY	Pathetically small
+2	ELL	Wright wing?
+3	NIL	Common soccer score
+4	EOS	Chariot rider of myth
+5	WDS	Vocabulary: Abbr.
+6	RAO	Indian novelist Raja ___
+7	BOR	Part of N.Y.C.
+8	UHUH	"That's a lie!"
+9	DREAMING	Having night vision?
+10	SERIA	Opera ___
+11	GYM	Nautilus locale
+12	COMO	"Juke Box Baby" singer
+17	UWE	Hockey's Krupp
+19	SPCA	Org. that promotes adoption
+21	PUISSANT	Powerful
+22	ABB	Hit Brit sitcom
+23	TSA	It goes through lots of luggage: Abbr.
+25	OIO	Source of some rings
+26	LVII	Chapter 57
+28	UVA	A.C.C. member
+29	NEL	First word of Dante's "Inferno"
+33	MAC	Big ___ (Golden Arches offering)
+34	SLOINS	Some steaks
+35	TOPEE	Lightweight helmet, in India
+37	ISTS	Followers
+39	TTTT	Angers, with "off"
+41	HAJ	Leon Uris novel, with "The"
+43	ESE	Language ending
+44	GRO	Miracle-___ (lawn products brand)
+45	EOE	Want-ad letters
+46	SSR	Belarus or Ukraine, once: Abbr.
+48	NEI	"In the," in Italy
+49	CAN	Put up

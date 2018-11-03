@@ -1,0 +1,231 @@
+grid_13x13_172
+13
+0	1	1	T	0	0	3	1	TKL	0	0	3	1	TGI
+0	1	2	K	0	0	3	0		0	1	3	1	KLM
+0	1	3	L	0	0	3	0		0	2	3	1	LOA
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	8	0	
+1	0	0	#	0	6	4	0		1	5	0	0	
+0	1	4	D	0	6	4	1	DRED	0	6	3	1	DEA
+0	1	5	R	0	6	4	0		0	7	3	1	RST
+0	1	6	E	0	6	4	0		0	8	3	1	ECI
+0	1	7	D	0	6	4	0		0	9	7	1	DROPSET
+1	0	0	#	0	11	0	0		1	10	8	0	
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	G	1	0	5	1	GLOAT	0	0	3	0	
+0	0	0	L	1	0	5	0		0	1	3	0	
+0	0	0	O	1	0	5	0		0	2	3	0	
+0	1	9	A	1	0	5	0		1	3	3	1	AGN
+0	1	10	T	1	0	5	0		1	4	8	1	TIREDOUT
+1	0	0	#	1	6	7	0		2	5	5	0	
+0	1	11	E	1	6	7	1	ESCROWS	0	6	3	0	
+0	0	0	S	1	6	7	0		0	7	3	0	
+0	0	0	C	1	6	7	0		0	8	3	0	
+0	0	0	R	1	6	7	0		0	9	7	0	
+0	1	12	O	1	6	7	0		1	10	8	1	ONEONONE
+0	1	13	W	1	6	7	0		1	11	3	1	WIT
+0	1	14	S	1	6	7	0		1	12	3	1	SSE
+0	1	15	I	2	0	13	1	IMAGINATIONIS	0	0	3	0	
+0	0	0	M	2	0	13	0		0	1	3	0	
+0	0	0	A	2	0	13	0		0	2	3	0	
+0	0	0	G	2	0	13	0		1	3	3	0	
+0	0	0	I	2	0	13	0		1	4	8	0	
+0	1	16	N	2	0	13	0		2	5	5	1	NATER
+0	0	0	A	2	0	13	0		0	6	3	0	
+0	0	0	T	2	0	13	0		0	7	3	0	
+0	0	0	I	2	0	13	0		0	8	3	0	
+0	0	0	O	2	0	13	0		0	9	7	0	
+0	0	0	N	2	0	13	0		1	10	8	0	
+0	0	0	I	2	0	13	0		1	11	3	0	
+0	0	0	S	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	3	0		4	2	8	0	
+0	1	17	N	3	3	3	1	NRA	1	3	3	0	
+0	0	0	R	3	3	3	0		1	4	8	0	
+0	0	0	A	3	3	3	0		2	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	0	0	
+1	0	0	#	3	9	4	0		4	8	8	0	
+0	1	18	P	3	9	4	1	PETE	0	9	7	0	
+0	0	0	E	3	9	4	0		1	10	8	0	
+0	0	0	T	3	9	4	0		1	11	3	0	
+0	0	0	E	3	9	4	0		1	12	3	0	
+0	1	19	T	4	0	3	1	TWA	4	0	3	1	TKT
+0	1	20	W	4	0	3	0		4	1	4	1	WOOD
+0	1	21	A	4	0	3	0		4	2	8	1	ALBACORE
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	22	E	4	4	3	1	ETC	1	4	8	0	
+0	0	0	T	4	4	3	0		2	5	5	0	
+0	1	23	C	4	4	3	0		4	6	5	1	CYNIC
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	24	T	4	8	3	1	TSO	4	8	8	1	TUTANKHA
+0	0	0	S	4	8	3	0		0	9	7	0	
+0	0	0	O	4	8	3	0		1	10	8	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	K	5	0	3	1	KOL	4	0	3	0	
+0	0	0	O	5	0	3	0		4	1	4	0	
+0	0	0	L	5	0	3	0		4	2	8	0	
+1	0	0	#	5	4	3	0		6	3	7	0	
+0	1	26	D	5	4	3	1	DEY	1	4	8	0	
+0	0	0	E	5	4	3	0		2	5	5	0	
+0	0	0	Y	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	4	0		6	7	5	0	
+0	1	27	U	5	8	4	1	UEND	4	8	8	0	
+0	0	0	E	5	8	4	0		0	9	7	0	
+0	0	0	N	5	8	4	0		1	10	8	0	
+0	1	28	D	5	8	4	0		5	11	4	1	DBOY
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	T	6	0	13	1	TOBEORNOTTOBE	4	0	3	0	
+0	0	0	O	6	0	13	0		4	1	4	0	
+0	0	0	B	6	0	13	0		4	2	8	0	
+0	1	30	E	6	0	13	0		6	3	7	1	EMANATE
+0	0	0	O	6	0	13	0		1	4	8	0	
+0	0	0	R	6	0	13	0		2	5	5	0	
+0	0	0	N	6	0	13	0		4	6	5	0	
+0	1	31	O	6	0	13	0		6	7	5	1	OVETT
+0	0	0	T	6	0	13	0		4	8	8	0	
+0	0	0	T	6	0	13	0		0	9	7	0	
+0	0	0	O	6	0	13	0		1	10	8	0	
+0	0	0	B	6	0	13	0		5	11	4	0	
+0	1	32	E	6	0	13	0		6	12	3	1	ESE
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	33	D	7	1	4	1	DAMU	4	1	4	0	
+0	0	0	A	7	1	4	0		4	2	8	0	
+0	0	0	M	7	1	4	0		6	3	7	0	
+0	0	0	U	7	1	4	0		1	4	8	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	34	I	7	6	3	1	IVA	4	6	5	0	
+0	0	0	V	7	6	3	0		6	7	5	0	
+0	0	0	A	7	6	3	0		4	8	8	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	35	N	7	10	3	1	NOS	1	10	8	0	
+0	0	0	O	7	10	3	0		5	11	4	0	
+0	0	0	S	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	3	0	
+0	1	36	C	8	2	3	1	CAT	4	2	8	0	
+0	0	0	A	8	2	3	0		6	3	7	0	
+0	0	0	T	8	2	3	0		1	4	8	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	37	C	8	6	3	1	CEN	4	6	5	0	
+0	0	0	E	8	6	3	0		6	7	5	0	
+0	0	0	N	8	6	3	0		4	8	8	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	38	E	8	10	3	1	EYE	1	10	8	0	
+0	0	0	Y	8	10	3	0		5	11	4	0	
+0	0	0	E	8	10	3	0		6	12	3	0	
+0	1	39	N	9	0	4	1	NION	9	0	3	1	NEI
+0	1	40	I	9	0	4	0		9	1	3	1	IRK
+0	0	0	O	9	0	4	0		4	2	8	0	
+0	0	0	N	9	0	4	0		6	3	7	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	41	T	9	7	3	1	TKO	6	7	5	0	
+0	0	0	K	9	7	3	0		4	8	8	0	
+0	1	42	O	9	7	3	0		9	9	3	1	OED
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	E	10	0	13	1	ERRATICTHERED	9	0	3	0	
+0	0	0	R	10	0	13	0		9	1	3	0	
+0	0	0	R	10	0	13	0		4	2	8	0	
+0	0	0	A	10	0	13	0		6	3	7	0	
+0	1	44	T	10	0	13	0		10	4	3	1	TTT
+0	1	45	I	10	0	13	0		10	5	3	1	IEL
+0	1	46	C	10	0	13	0		10	6	3	1	CSA
+0	0	0	T	10	0	13	0		6	7	5	0	
+0	0	0	H	10	0	13	0		4	8	8	0	
+0	0	0	E	10	0	13	0		9	9	3	0	
+0	1	47	R	10	0	13	0		10	10	3	1	RAY
+0	1	48	E	10	0	13	0		10	11	3	1	ERS
+0	1	49	D	10	0	13	0		10	12	3	1	DSL
+0	1	50	I	11	0	7	1	IKETTES	9	0	3	0	
+0	0	0	K	11	0	7	0		9	1	3	0	
+0	0	0	E	11	0	7	0		4	2	8	0	
+0	0	0	T	11	0	7	0		6	3	7	0	
+0	0	0	T	11	0	7	0		10	4	3	0	
+0	0	0	E	11	0	7	0		10	5	3	0	
+0	0	0	S	11	0	7	0		10	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	51	A	11	8	5	1	ADARS	4	8	8	0	
+0	0	0	D	11	8	5	0		9	9	3	0	
+0	0	0	A	11	8	5	0		10	10	3	0	
+0	0	0	R	11	8	5	0		10	11	3	0	
+0	0	0	S	11	8	5	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	4	0		13	2	0	0	
+0	1	52	E	12	3	4	1	ETLA	6	3	7	0	
+0	0	0	T	12	3	4	0		10	4	3	0	
+0	0	0	L	12	3	4	0		10	5	3	0	
+0	0	0	A	12	3	4	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	Y	12	10	3	1	YSL	10	10	3	0	
+0	0	0	S	12	10	3	0		10	11	3	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+27
+1	TKL	Damascus's land: Abbr.
+4	DRED	1856 Stowe novel
+8	GLOAT	Be a bad winner
+11	ESCROWS	Third-party accounts
+15	IMAGINATIONIS	Start of an Einstein quote that holds true when solving clever crosswords
+17	NRA	Gun rights grp.
+18	PETE	Singer Seeger
+19	TWA	American acquisition of 2001
+22	ETC	Abbr. sometimes used twice in a row
+24	TSO	General on a menu
+25	KOL	___ Nidre (Yom Kippur prayer)
+26	DEY	Susan of "L.A. Law"
+27	UEND	Flip
+29	TOBEORNOTTOBE	Soliloquy question from Hamlet
+33	DAMU	Block
+34	IVA	___ Archer, with whom Sam Spade had an affair
+35	NOS	Business card info: Abbr.
+36	CAT	Big name in the ad biz
+37	CEN	Midmost: Abbr.
+38	EYE	Hieroglyphic symbol
+39	NION	Whim
+41	TKO	Decision letters
+43	ERRATICTHERED	Nickname for an unpredictable Communist?
+50	IKETTES	1960s R&B backup group, with "the"
+51	ADARS	Jewish months
+52	ETLA	Ici ___ (here and there, to Th
+53	YSL	DKNY competitor
+31
+1	TGI	___ Friday's (restaurant chain)
+2	KLM	Dutch carrier
+3	LOA	"Long," in Hawaii
+4	DEA	Traffic cop's org.?
+5	RST	Trio after Q
+6	ECI	Motel freebie
+7	DROPSET	Weight training unit
+9	AGN	Once more: Abbr.
+10	TIREDOUT	Ran ragged
+12	ONEONONE	Kind of defense
+13	WIT	Dorothy Parker quality
+14	SSE	Storm course: Abbr.
+16	NATER	Talk incessantly
+19	TKT	Certain pass: Abbr.
+20	WOOD	Cherry, e.g.
+21	ALBACORE	Relative of a bigeye
+23	CYNIC	Jaded figure
+24	TUTANKHA	Egyptian royal
+28	DBOY	Command to an overfriendly canine
+30	EMANATE	Throw out
+31	OVETT	British runner Steve
+32	ESE	Lubbock-to-Abilene dir.
+39	NEI	"In the," in Italy
+40	IRK	Get one's goat
+42	OED	Philologists' work, for short
+44	TTT	Fort Smith-to-Little Rock dir.
+45	IEL	Drive forward
+46	CSA	The South, in the Civil War: Abbr.
+47	RAY	Bit of sunshine
+48	ERS	Sounds of fluster
+49	DSL	Computer connection choice

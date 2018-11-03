@@ -1,0 +1,309 @@
+grid_15x15_154
+15
+1	0	0	#	0	1	4	0		1	0	3	0	
+0	1	1	S	0	1	4	1	SUEY	0	1	9	1	SURPLUSES
+0	1	2	U	0	1	4	0		0	2	9	1	USHERETTE
+0	1	3	E	0	1	4	0		0	3	3	1	ETA
+0	1	4	Y	0	1	4	0		0	4	3	1	YER
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	5	W	0	7	3	1	WAL	0	7	15	1	WERNERKLEMPERER
+0	1	6	A	0	7	3	0		0	8	3	1	ABA
+0	1	7	L	0	7	3	0		0	9	3	1	LOB
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	8	S	0	12	3	1	SCI	0	12	5	1	SDLTG
+0	1	9	C	0	12	3	0		0	13	5	1	CROSS
+0	1	10	I	0	12	3	0		0	14	3	1	ITT
+0	1	11	D	1	0	6	1	DUSTED	1	0	3	1	DEO
+0	0	0	U	1	0	6	0		0	1	9	0	
+0	0	0	S	1	0	6	0		0	2	9	0	
+0	0	0	T	1	0	6	0		0	3	3	0	
+0	0	0	E	1	0	6	0		0	4	3	0	
+0	1	12	D	1	0	6	0		1	5	3	1	DDE
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	13	E	1	7	4	1	EBON	0	7	15	0	
+0	0	0	B	1	7	4	0		0	8	3	0	
+0	0	0	O	1	7	4	0		0	9	3	0	
+0	1	14	N	1	7	4	0		1	10	3	1	NIN
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	15	D	1	12	3	1	DRT	0	12	5	0	
+0	0	0	R	1	12	3	0		0	13	5	0	
+0	0	0	T	1	12	3	0		0	14	3	0	
+0	1	16	E	2	0	6	1	ERHARD	1	0	3	0	
+0	0	0	R	2	0	6	0		0	1	9	0	
+0	0	0	H	2	0	6	0		0	2	9	0	
+0	0	0	A	2	0	6	0		0	3	3	0	
+0	0	0	R	2	0	6	0		0	4	3	0	
+0	0	0	D	2	0	6	0		1	5	3	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	17	R	2	7	4	1	RABI	0	7	15	0	
+0	0	0	A	2	7	4	0		0	8	3	0	
+0	0	0	B	2	7	4	0		0	9	3	0	
+0	0	0	I	2	7	4	0		1	10	3	0	
+1	0	0	#	2	12	3	0		3	11	4	0	
+0	1	18	L	2	12	3	1	LOT	0	12	5	0	
+0	0	0	O	2	12	3	0		0	13	5	0	
+0	0	0	T	2	12	3	0		0	14	3	0	
+0	1	19	O	3	0	3	1	OPE	1	0	3	0	
+0	0	0	P	3	0	3	0		0	1	9	0	
+0	0	0	E	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	0	0		4	3	3	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	20	E	3	5	3	1	EON	1	5	3	0	
+0	1	21	O	3	5	3	0		3	6	3	1	OSH
+0	0	0	N	3	5	3	0		0	7	15	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	4	0		4	9	0	0	
+0	1	22	N	3	10	4	1	NITS	1	10	3	0	
+0	1	23	I	3	10	4	0		3	11	4	1	INNS
+0	0	0	T	3	10	4	0		0	12	5	0	
+0	0	0	S	3	10	4	0		0	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	24	L	4	1	3	1	LRG	0	1	9	0	
+0	0	0	R	4	1	3	0		0	2	9	0	
+0	1	25	G	4	1	3	0		4	3	3	1	GYR
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	3	0		5	5	5	0	
+0	1	26	S	4	6	3	1	SEQ	3	6	3	0	
+0	0	0	E	4	6	3	0		0	7	15	0	
+0	1	27	Q	4	6	3	0		4	8	4	1	QEII
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	3	0		5	10	4	0	
+0	1	28	N	4	11	3	1	NGS	3	11	4	0	
+0	0	0	G	4	11	3	0		0	12	5	0	
+0	0	0	S	4	11	3	0		0	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	29	U	5	1	3	1	UEY	0	1	9	0	
+0	0	0	E	5	1	3	0		0	2	9	0	
+0	0	0	Y	5	1	3	0		4	3	3	0	
+1	0	0	#	5	5	7	0		6	4	4	0	
+0	1	30	T	5	5	7	1	THREEON	5	5	5	1	TWEAK
+0	0	0	H	5	5	7	0		3	6	3	0	
+0	0	0	R	5	5	7	0		0	7	15	0	
+0	0	0	E	5	5	7	0		4	8	4	0	
+0	1	31	E	5	5	7	0		5	9	5	1	ENNES
+0	1	32	O	5	5	7	0		5	10	4	1	OGGI
+0	0	0	N	5	5	7	0		3	11	4	0	
+1	0	0	#	5	13	0	0		6	12	9	0	
+1	0	0	#	5	14	0	0		6	13	9	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	33	J	6	0	6	1	JSTRAW	6	0	3	1	JTA
+0	0	0	S	6	0	6	0		0	1	9	0	
+0	0	0	T	6	0	6	0		0	2	9	0	
+0	0	0	R	6	0	6	0		4	3	3	0	
+0	1	34	A	6	0	6	0		6	4	4	1	ACTS
+0	0	0	W	6	0	6	0		5	5	5	0	
+1	0	0	#	6	7	8	0		7	6	4	0	
+0	1	35	K	6	7	8	1	KINGSIZE	0	7	15	0	
+0	0	0	I	6	7	8	0		4	8	4	0	
+0	0	0	N	6	7	8	0		5	9	5	0	
+0	0	0	G	6	7	8	0		5	10	4	0	
+0	0	0	S	6	7	8	0		3	11	4	0	
+0	1	36	I	6	7	8	0		6	12	9	1	INHIBITOR
+0	1	37	Z	6	7	8	0		6	13	9	1	ZETAJONES
+0	1	38	E	6	7	8	0		6	14	3	1	ECH
+0	1	39	T	7	0	3	1	TET	6	0	3	0	
+0	0	0	E	7	0	3	0		0	1	9	0	
+0	0	0	T	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	7	0		8	3	4	0	
+0	1	40	C	7	4	7	1	CEILING	6	4	4	0	
+0	0	0	E	7	4	7	0		5	5	5	0	
+0	1	41	I	7	4	7	0		7	6	4	1	ITIC
+0	0	0	L	7	4	7	0		0	7	15	0	
+0	0	0	I	7	4	7	0		4	8	4	0	
+0	0	0	N	7	4	7	0		5	9	5	0	
+0	0	0	G	7	4	7	0		5	10	4	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	42	N	7	12	3	1	NEC	6	12	9	0	
+0	0	0	E	7	12	3	0		6	13	9	0	
+0	0	0	C	7	12	3	0		6	14	3	0	
+0	1	43	A	8	0	8	1	ASEPTATE	6	0	3	0	
+0	0	0	S	8	0	8	0		0	1	9	0	
+0	0	0	E	8	0	8	0		0	2	9	0	
+0	1	44	P	8	0	8	0		8	3	4	1	PEDI
+0	0	0	T	8	0	8	0		6	4	4	0	
+0	0	0	A	8	0	8	0		5	5	5	0	
+0	0	0	T	8	0	8	0		7	6	4	0	
+0	0	0	E	8	0	8	0		0	7	15	0	
+1	0	0	#	8	9	6	0		9	8	3	0	
+0	1	45	E	8	9	6	1	EIGHTH	5	9	5	0	
+0	0	0	I	8	9	6	0		5	10	4	0	
+0	1	46	G	8	9	6	0		8	11	3	1	GLO
+0	0	0	H	8	9	6	0		6	12	9	0	
+0	0	0	T	8	9	6	0		6	13	9	0	
+0	0	0	H	8	9	6	0		6	14	3	0	
+1	0	0	#	9	1	0	0		10	0	0	0	
+1	0	0	#	9	2	0	0		10	1	5	0	
+1	0	0	#	9	3	7	0		10	2	5	0	
+0	1	47	E	9	3	7	1	ESKIMOS	8	3	4	0	
+0	0	0	S	9	3	7	0		6	4	4	0	
+0	0	0	K	9	3	7	0		5	5	5	0	
+0	0	0	I	9	3	7	0		7	6	4	0	
+0	0	0	M	9	3	7	0		0	7	15	0	
+0	1	48	O	9	3	7	0		9	8	3	1	OLE
+0	0	0	S	9	3	7	0		5	9	5	0	
+1	0	0	#	9	11	3	0		10	10	0	0	
+0	1	49	L	9	11	3	1	LIA	8	11	3	0	
+0	0	0	I	9	11	3	0		6	12	9	0	
+0	0	0	A	9	11	3	0		6	13	9	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	50	A	10	1	3	1	ASD	10	1	5	1	APPLY
+0	1	51	S	10	1	3	0		10	2	5	1	SHUSH
+0	0	0	D	10	1	3	0		8	3	4	0	
+1	0	0	#	10	5	0	0		11	4	3	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	52	C	10	6	3	1	CPL	7	6	4	0	
+0	0	0	P	10	6	3	0		0	7	15	0	
+0	0	0	L	10	6	3	0		9	8	3	0	
+1	0	0	#	10	10	0	0		11	9	3	0	
+1	0	0	#	10	11	3	0		11	10	0	0	
+0	1	53	O	10	11	3	1	OBJ	8	11	3	0	
+0	0	0	B	10	11	3	0		6	12	9	0	
+0	0	0	J	10	11	3	0		6	13	9	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	4	0		12	0	3	0	
+0	1	54	P	11	1	4	1	PHIL	10	1	5	0	
+0	0	0	H	11	1	4	0		10	2	5	0	
+0	0	0	I	11	1	4	0		8	3	4	0	
+0	1	55	L	11	1	4	0		11	4	3	1	LYN
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	56	E	11	7	3	1	EEL	0	7	15	0	
+0	0	0	E	11	7	3	0		9	8	3	0	
+0	1	57	L	11	7	3	0		11	9	3	1	LGE
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	58	I	11	12	3	1	IOU	6	12	9	0	
+0	0	0	O	11	12	3	0		6	13	9	0	
+0	1	59	U	11	12	3	0		11	14	3	1	UAR
+0	1	60	A	12	0	3	1	APU	12	0	3	1	AMB
+0	0	0	P	12	0	3	0		10	1	5	0	
+0	0	0	U	12	0	3	0		10	2	5	0	
+1	0	0	#	12	4	4	0		13	3	0	0	
+0	1	61	Y	12	4	4	1	YOUR	11	4	3	0	
+0	1	62	O	12	4	4	0		12	5	3	1	OIR
+0	1	63	U	12	4	4	0		12	6	3	1	UTA
+0	0	0	R	12	4	4	0		0	7	15	0	
+1	0	0	#	12	9	6	0		13	8	0	0	
+0	1	64	G	12	9	6	1	GRETNA	11	9	3	0	
+0	1	65	R	12	9	6	0		12	10	3	1	RCS
+0	1	66	E	12	9	6	0		12	11	3	1	EHS
+0	0	0	T	12	9	6	0		6	12	9	0	
+0	0	0	N	12	9	6	0		6	13	9	0	
+0	0	0	A	12	9	6	0		11	14	3	0	
+0	1	67	M	13	0	3	1	MLS	12	0	3	0	
+0	0	0	L	13	0	3	0		10	1	5	0	
+0	0	0	S	13	0	3	0		10	2	5	0	
+1	0	0	#	13	4	4	0		14	3	0	0	
+0	1	68	N	13	4	4	1	NITE	11	4	3	0	
+0	0	0	I	13	4	4	0		12	5	3	0	
+0	0	0	T	13	4	4	0		12	6	3	0	
+0	0	0	E	13	4	4	0		0	7	15	0	
+1	0	0	#	13	9	6	0		14	8	0	0	
+0	1	69	E	13	9	6	1	ECHOER	11	9	3	0	
+0	0	0	C	13	9	6	0		12	10	3	0	
+0	0	0	H	13	9	6	0		12	11	3	0	
+0	0	0	O	13	9	6	0		6	12	9	0	
+0	0	0	E	13	9	6	0		6	13	9	0	
+0	0	0	R	13	9	6	0		11	14	3	0	
+0	1	70	B	14	0	3	1	BYH	12	0	3	0	
+0	0	0	Y	14	0	3	0		10	1	5	0	
+0	0	0	H	14	0	3	0		10	2	5	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	71	R	14	5	3	1	RAR	12	5	3	0	
+0	0	0	A	14	5	3	0		12	6	3	0	
+0	0	0	R	14	5	3	0		0	7	15	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	4	0		15	9	0	0	
+0	1	72	S	14	10	4	1	SSRS	12	10	3	0	
+0	0	0	S	14	10	4	0		12	11	3	0	
+0	0	0	R	14	10	4	0		6	12	9	0	
+0	0	0	S	14	10	4	0		6	13	9	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	SUEY	Chop ___
+5	WAL	Opening of a retail store?
+8	SCI	"The Cat in the Hat Knows a Lot About That!" subj.
+11	DUSTED	Checked for fingerprints
+13	EBON	Dark black
+15	DRT	Sullivan Travis, in a 2000 film title
+16	ERHARD	Werner ___, 1970's seminar leader
+17	RABI	Physics Nobelist Isidor I. ___
+18	LOT	Tract
+19	OPE	Unstop, poetically
+20	EON	Just about forever
+22	NITS	Their parents are parasites
+24	LRG	Big: Abbr.
+26	SEQ	Et ___ (and the following)
+28	NGS	Riot-stopping grps.
+29	UEY	Quick turnaround, slangily
+30	THREEON	Bases loaded
+33	JSTRAW	Stick pulled from a pile
+35	KINGSIZE	Really big, as a mattress
+39	TET	Three-day holiday
+40	CEILING	Floor's opposite
+42	NEC	Asian electronics giant
+43	ASEPTATE	Lacking a dividing membrane
+45	EIGHTH	Like Van Buren's presidency
+47	ESKIMOS	Yup'ik and others
+49	LIA	Knight who hosts a country music radio show
+50	ASD	Comparable in years
+52	CPL	An N.C.O.
+53	OBJ	It commonly follows a verb: Abbr.
+54	PHIL	Punxsutawney groundhog
+56	EEL	It's sometimes wrapped in rice
+58	IOU	Note traded for bills
+60	APU	"The Simpsons" clerk
+61	YOUR	Not their
+64	GRETNA	___ Green, Scottish town famous for runaway weddings
+67	MLS	Approximately 946 of these make a qt.
+68	NITE	Time for Nick?
+69	ECHOER	Parrot
+70	BYH	From memory
+71	RAR	Soldier
+72	SSRS	Part of Eastern Europe, once: Abbr.
+39
+1	SURPLUSES	It's nice to run these
+2	USHERETTE	Old-style theater guide
+3	ETA	The "H" in Hellenic
+4	YER	Saw attachment?
+5	WERNERKLEMPERER	Col. Klink player on "Hogan's Heroes"
+6	ABA	Attys.' org.
+7	LOB	High ball?
+8	SDLTG	Witch of ___
+9	CROSS	Liable to snap
+10	ITT	Sheraton Hotels owner
+11	DEO	___ gratias (thanks be to God: Lat.)
+12	DDE	Noted 1915 West Point grad.
+14	NIN	"Collages" novelist
+21	OSH	Workplace watchdog, for short
+23	INNS	They have guests
+25	GYR	Spiral: Prefix
+27	QEII	Monarch moniker, for short
+30	TWEAK	Playful pinch
+31	ENNES	Politically incorrect endings
+32	OGGI	Today, in Turin
+33	JTA	Interim rulers
+34	ACTS	Play makers?
+36	INHIBITOR	Anticatalyst
+37	ZETAJONES	"Chicago" Oscar winner
+38	ECH	Level of hierarchy: Abbr.
+41	ITIC	Inflamed, in suffixes
+44	PEDI	Foot: Prefix
+46	GLO	Shine, in ads
+48	OLE	Triumphant shout
+50	APPLY	Put on
+51	SHUSH	"Be quiet!"
+55	LYN	Reagan adviser Nofziger
+57	LGE	Big: Abbr.
+59	UAR	Onetime neighbor of Israel: Abbr.
+60	AMB	Presidential appointee: Abbr.
+62	OIR	Listen: Sp.
+63	UTA	Hagen of stage and screen
+65	RCS	Alternatives to Pepsis
+66	EHS	Geezers' replies

@@ -1,0 +1,117 @@
+grid_9x9_158
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	3	0	
+0	1	1	H	0	2	3	1	HUS	0	2	4	1	HAAS
+0	1	2	U	0	2	3	0		0	3	3	1	UDO
+0	1	3	S	0	2	3	0		0	4	9	1	SYCAMORES
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	U	0	6	3	1	URU	0	6	4	1	UOFA
+0	1	5	R	0	6	3	0		0	7	4	1	RHET
+0	1	6	U	0	6	3	0		0	8	3	1	USL
+0	1	7	L	1	0	5	1	LEADY	1	0	3	1	LTR
+0	1	8	E	1	0	5	0		1	1	3	1	ESE
+0	0	0	A	1	0	5	0		0	2	4	0	
+0	0	0	D	1	0	5	0		0	3	3	0	
+0	0	0	Y	1	0	5	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	O	1	6	3	1	OHS	0	6	4	0	
+0	0	0	H	1	6	3	0		0	7	4	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	10	T	2	0	9	1	TSAOCTFEL	1	0	3	0	
+0	0	0	S	2	0	9	0		1	1	3	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	0	0	O	2	0	9	0		0	3	3	0	
+0	0	0	C	2	0	9	0		0	4	9	0	
+0	1	11	T	2	0	9	0		2	5	3	1	TCU
+0	0	0	F	2	0	9	0		0	6	4	0	
+0	0	0	E	2	0	9	0		0	7	4	0	
+0	0	0	L	2	0	9	0		0	8	3	0	
+0	1	12	R	3	0	3	1	RES	1	0	3	0	
+0	0	0	E	3	0	3	0		1	1	3	0	
+0	0	0	S	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	A	3	4	4	1	ACAT	0	4	9	0	
+0	0	0	C	3	4	4	0		2	5	3	0	
+0	0	0	A	3	4	4	0		0	6	4	0	
+0	0	0	T	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	S	4	3	3	1	SMU	4	3	3	1	SHY
+0	0	0	M	4	3	3	0		0	4	9	0	
+0	0	0	U	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	3	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	A	5	1	4	1	AWHO	5	1	4	1	ASTA
+0	1	16	W	5	1	4	0		5	2	4	1	WSMS
+0	0	0	H	5	1	4	0		4	3	3	0	
+0	0	0	O	5	1	4	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	W	5	6	3	1	WIM	5	6	4	1	WALT
+0	1	18	I	5	6	3	0		5	7	3	1	INI
+0	1	19	M	5	6	3	0		5	8	3	1	MSN
+0	1	20	A	6	0	9	1	ASSYRIANS	6	0	3	1	AMB
+0	0	0	S	6	0	9	0		5	1	4	0	
+0	0	0	S	6	0	9	0		5	2	4	0	
+0	0	0	Y	6	0	9	0		4	3	3	0	
+0	0	0	R	6	0	9	0		0	4	9	0	
+0	1	21	I	6	0	9	0		6	5	3	1	ILE
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	N	6	0	9	0		5	7	3	0	
+0	0	0	S	6	0	9	0		5	8	3	0	
+0	1	22	M	7	0	3	1	MTM	6	0	3	0	
+0	0	0	T	7	0	3	0		5	1	4	0	
+0	0	0	M	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	E	7	4	5	1	ELLIN	0	4	9	0	
+0	0	0	L	7	4	5	0		6	5	3	0	
+0	0	0	L	7	4	5	0		5	6	4	0	
+0	0	0	I	7	4	5	0		5	7	3	0	
+0	0	0	N	7	4	5	0		5	8	3	0	
+0	1	24	B	8	0	3	1	BAS	6	0	3	0	
+0	0	0	A	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	25	S	8	4	3	1	SET	0	4	9	0	
+0	0	0	E	8	4	3	0		6	5	3	0	
+0	0	0	T	8	4	3	0		5	6	4	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	HUS	Czech martyr Jan
+4	URU	Montevideo's land: Abbr.
+7	LEADY	Dull
+9	OHS	Cries of surprise
+10	TSAOCTFEL	Washington to California
+12	RES	Lawyer's thing
+13	ACAT	"___ in gloves catches no mice"
+14	SMU	Sch. that plays Texas A&M
+15	AWHO	Seuss
+17	WIM	Director Wenders
+20	ASSYRIANS	Subjects of King Sargon
+22	MTM	'70s sitcom producer
+23	ELLIN	Mystery writer Stanley
+24	BAS	Undergrad degrees: Abbr.
+25	SET	It may follow a wash
+17
+1	HAAS	Berkeley's ___ School of Business
+2	UDO	Japanese salad ingredient
+3	SYCAMORES	Graceful trees
+4	UOFA	Tucson sch.
+5	RHET	Orator's skill: Abbr.
+6	USL	Southeastern Conf. team
+7	LTR	Paper size: Abbr.
+8	ESE	Hamburg-to-Berlin dir.
+11	TCU	Western Athletic Conference sch.
+14	SHY	Reluctant to meet people, say
+15	ASTA	Aid in solving the disappearance of the Thin Man
+16	WSMS	Circus reactions
+17	WALT	First name in animation
+18	INI	___ Kamoze of reggae
+19	MSN	ISP with a butterfly logo
+20	AMB	State dept. figure
+21	ILE	Any of the Marquises, par exemple

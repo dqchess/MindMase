@@ -1,0 +1,171 @@
+grid_11x11_27
+11
+0	1	1	C	0	0	3	1	CLE	0	0	3	1	CFO
+0	1	2	L	0	0	3	0		0	1	3	1	LOB
+0	1	3	E	0	0	3	0		0	2	11	1	EREISAWELBA
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	E	0	4	3	1	EMU	0	4	7	1	EBBTIDE
+0	1	5	M	0	4	3	0		0	5	3	1	MIR
+0	1	6	U	0	4	3	0		0	6	3	1	UTI
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	G	0	8	3	1	GAO	0	8	11	1	GOGOBANANAS
+0	1	8	A	0	8	3	0		0	9	7	1	ACETONE
+0	1	9	O	0	8	3	0		0	10	3	1	OCS
+0	1	10	F	1	0	7	1	FORABIT	0	0	3	0	
+0	0	0	O	1	0	7	0		0	1	3	0	
+0	0	0	R	1	0	7	0		0	2	11	0	
+0	1	11	A	1	0	7	0		1	3	3	1	AYS
+0	0	0	B	1	0	7	0		0	4	7	0	
+0	0	0	I	1	0	7	0		0	5	3	0	
+0	0	0	T	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	12	O	1	8	3	1	OCC	0	8	11	0	
+0	0	0	C	1	8	3	0		0	9	7	0	
+0	0	0	C	1	8	3	0		0	10	3	0	
+0	1	13	O	2	0	11	1	OBEYBRIDGES	0	0	3	0	
+0	0	0	B	2	0	11	0		0	1	3	0	
+0	0	0	E	2	0	11	0		0	2	11	0	
+0	0	0	Y	2	0	11	0		1	3	3	0	
+0	0	0	B	2	0	11	0		0	4	7	0	
+0	0	0	R	2	0	11	0		0	5	3	0	
+0	0	0	I	2	0	11	0		0	6	3	0	
+0	1	14	D	2	0	11	0		2	7	3	1	DNA
+0	0	0	G	2	0	11	0		0	8	11	0	
+0	0	0	E	2	0	11	0		0	9	7	0	
+0	0	0	S	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	7	0	
+0	1	15	I	3	2	3	1	IST	0	2	11	0	
+0	0	0	S	3	2	3	0		1	3	3	0	
+0	0	0	T	3	2	3	0		0	4	7	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	7	0	
+0	1	16	N	3	7	3	1	NOT	2	7	3	0	
+0	0	0	O	3	7	3	0		0	8	11	0	
+0	0	0	T	3	7	3	0		0	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	R	4	0	3	1	RUS	4	0	3	1	RND
+0	1	18	U	4	0	3	0		4	1	7	1	USELESS
+0	0	0	S	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	7	0		5	3	0	0	
+0	1	19	I	4	4	7	1	INLABOR	0	4	7	0	
+0	1	20	N	4	4	7	0		4	5	3	1	NES
+0	1	21	L	4	4	7	0		4	6	7	1	LATERAL
+0	0	0	A	4	4	7	0		2	7	3	0	
+0	0	0	B	4	4	7	0		0	8	11	0	
+0	0	0	O	4	4	7	0		0	9	7	0	
+0	1	22	R	4	4	7	0		4	10	3	1	RGT
+0	1	23	N	5	0	3	1	NSA	4	0	3	0	
+0	0	0	S	5	0	3	0		4	1	7	0	
+0	0	0	A	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	24	D	5	4	3	1	DEA	0	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	A	5	4	3	0		4	6	7	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	25	A	5	8	3	1	ANG	0	8	11	0	
+0	0	0	N	5	8	3	0		0	9	7	0	
+0	0	0	G	5	8	3	0		4	10	3	0	
+0	1	26	D	6	0	7	1	DEWIEST	4	0	3	0	
+0	0	0	E	6	0	7	0		4	1	7	0	
+0	0	0	W	6	0	7	0		0	2	11	0	
+0	1	27	I	6	0	7	0		6	3	3	1	INI
+0	0	0	E	6	0	7	0		0	4	7	0	
+0	0	0	S	6	0	7	0		4	5	3	0	
+0	0	0	T	6	0	7	0		4	6	7	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	28	N	6	8	3	1	NET	0	8	11	0	
+0	0	0	E	6	8	3	0		0	9	7	0	
+0	0	0	T	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	29	L	7	1	3	1	LEN	4	1	7	0	
+0	0	0	E	7	1	3	0		0	2	11	0	
+0	0	0	N	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	30	E	7	6	3	1	EWA	4	6	7	0	
+0	1	31	W	7	6	3	0		7	7	3	1	WAR
+0	0	0	A	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	32	D	8	0	11	1	DELIVERANCE	8	0	3	1	DUB
+0	0	0	E	8	0	11	0		4	1	7	0	
+0	0	0	L	8	0	11	0		0	2	11	0	
+0	0	0	I	8	0	11	0		6	3	3	0	
+0	1	33	V	8	0	11	0		8	4	3	1	VIG
+0	1	34	E	8	0	11	0		8	5	3	1	ENE
+0	0	0	R	8	0	11	0		4	6	7	0	
+0	0	0	A	8	0	11	0		7	7	3	0	
+0	0	0	N	8	0	11	0		0	8	11	0	
+0	1	35	C	8	0	11	0		8	9	3	1	CGI
+0	1	36	E	8	0	11	0		8	10	3	1	EEC
+0	1	37	U	9	0	3	1	USB	8	0	3	0	
+0	0	0	S	9	0	3	0		4	1	7	0	
+0	0	0	B	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	38	I	9	4	7	1	INARAGE	8	4	3	0	
+0	0	0	N	9	4	7	0		8	5	3	0	
+0	0	0	A	9	4	7	0		4	6	7	0	
+0	0	0	R	9	4	7	0		7	7	3	0	
+0	0	0	A	9	4	7	0		0	8	11	0	
+0	0	0	G	9	4	7	0		8	9	3	0	
+0	0	0	E	9	4	7	0		8	10	3	0	
+0	1	39	B	10	0	3	1	BSA	8	0	3	0	
+0	0	0	S	10	0	3	0		4	1	7	0	
+0	0	0	A	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	40	G	10	4	3	1	GEL	8	4	3	0	
+0	0	0	E	10	4	3	0		8	5	3	0	
+0	0	0	L	10	4	3	0		4	6	7	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	41	S	10	8	3	1	SIC	0	8	11	0	
+0	0	0	I	10	8	3	0		8	9	3	0	
+0	0	0	C	10	8	3	0		8	10	3	0	
+23
+1	CLE	Indians' home, for short
+4	EMU	It'll never fly
+7	GAO	Fed. auditor
+10	FORABIT	Briefly
+12	OCC	Line of work: Abbr.
+13	OBEYBRIDGES	Take orders from Lloyd?
+15	IST	Suffix with Darwin
+16	NOT	"Believe It or ___!"
+17	RUS	Bulg. relative
+19	INLABOR	Giving birth
+23	NSA	Intel org.
+24	DEA	Grp. that has agony over ecstasy?
+25	ANG	Geom. measure
+26	DEWIEST	Most childishly pure
+28	NET	Safety equipment
+29	LEN	Hall-of-Fame QB Dawson
+30	EWA	Actress Aulin
+32	DELIVERANCE	Ned Beatty's film debut, 1972
+37	USB	Kind of port for a PC
+38	INARAGE	Blowing a gasket
+39	BSA	Badge awarder: Abbr.
+40	GEL	Foam alternative
+41	SIC	Word to an attack dog
+23
+1	CFO	Budgetary bigwig, for short
+2	LOB	It's a long shot, usually
+3	EREISAWELBA	End of a Napoleonic palindrome
+4	EBBTIDE	Shore leave?
+5	MIR	Former space station
+6	UTI	___ possidetis (as you possess, at law)
+7	GOGOBANANAS	Disco fruit?
+8	ACETONE	Polish remover
+9	OCS	Training acad.
+11	AYS	Calls of port?
+14	DNA	Modern test subj.
+17	RND	Not sq.
+18	USELESS	Of no value
+20	NES	Classic game console letters
+21	LATERAL	Side
+22	RGT	Mil. unit
+27	INI	Singer Kamoze
+31	WAR	"The trade of kings": Dryden
+32	DUB	Nickname
+33	VIG	Bookie's charge, for short
+34	ENE	Pilot's heading: Abbr.
+35	CGI	Film special effects, briefly
+36	EEC	Spain is in it: Abbr.

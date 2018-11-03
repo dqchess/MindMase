@@ -1,0 +1,311 @@
+grid_15x15_151
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	I	0	1	3	1	IKE	0	1	5	1	INURE
+0	1	2	K	0	1	3	0		0	2	11	1	KRISPYKREME
+0	1	3	E	0	1	3	0		0	3	3	1	EIN
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	F	0	6	3	1	FLA	0	6	11	1	FLEXITARIAN
+0	1	5	L	0	6	3	0		0	7	3	1	LEN
+0	1	6	A	0	6	3	0		0	8	3	1	ASI
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	5	0	
+0	1	7	M	0	12	3	1	MOA	0	12	3	1	MIT
+0	1	8	O	0	12	3	0		0	13	3	1	ODA
+0	1	9	A	0	12	3	0		0	14	3	1	AON
+0	1	10	I	1	0	4	1	INRI	1	0	3	1	ICE
+0	0	0	N	1	0	4	0		0	1	5	0	
+0	0	0	R	1	0	4	0		0	2	11	0	
+0	0	0	I	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	11	F	1	5	5	1	FLESH	1	5	3	1	FEM
+0	0	0	L	1	5	5	0		0	6	11	0	
+0	0	0	E	1	5	5	0		0	7	3	0	
+0	0	0	S	1	5	5	0		0	8	3	0	
+0	1	12	H	1	5	5	0		1	9	3	1	HEE
+1	0	0	#	1	11	4	0		2	10	0	0	
+0	1	13	D	1	11	4	1	DIDO	1	11	5	1	DIDNT
+0	0	0	I	1	11	4	0		0	12	3	0	
+0	0	0	D	1	11	4	0		0	13	3	0	
+0	0	0	O	1	11	4	0		0	14	3	0	
+0	1	14	C	2	0	4	1	CUIN	1	0	3	0	
+0	0	0	U	2	0	4	0		0	1	5	0	
+0	0	0	I	2	0	4	0		0	2	11	0	
+0	0	0	N	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	5	0		3	4	3	0	
+0	1	15	E	2	5	5	1	EENIE	1	5	3	0	
+0	0	0	E	2	5	5	0		0	6	11	0	
+0	0	0	N	2	5	5	0		0	7	3	0	
+0	0	0	I	2	5	5	0		0	8	3	0	
+0	0	0	E	2	5	5	0		1	9	3	0	
+1	0	0	#	2	11	4	0		3	10	4	0	
+0	1	16	I	2	11	4	1	ITAN	1	11	5	0	
+0	0	0	T	2	11	4	0		0	12	3	0	
+0	0	0	A	2	11	4	0		0	13	3	0	
+0	0	0	N	2	11	4	0		0	14	3	0	
+0	1	17	E	3	0	3	1	ERS	1	0	3	0	
+0	0	0	R	3	0	3	0		0	1	5	0	
+0	0	0	S	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	18	B	3	4	3	1	BMX	3	4	3	1	BSC
+0	0	0	M	3	4	3	0		1	5	3	0	
+0	0	0	X	3	4	3	0		0	6	11	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	3	0		4	8	11	0	
+0	1	19	E	3	9	3	1	ETD	1	9	3	0	
+0	1	20	T	3	9	3	0		3	10	4	1	TAVI
+0	0	0	D	3	9	3	0		1	11	5	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	21	E	4	1	4	1	EPPS	0	1	5	0	
+0	0	0	P	4	1	4	0		0	2	11	0	
+0	1	22	P	4	1	4	0		4	3	3	1	PAY
+0	0	0	S	4	1	4	0		3	4	3	0	
+1	0	0	#	4	6	3	0		5	5	4	0	
+0	1	23	I	4	6	3	1	IMP	0	6	11	0	
+0	1	24	M	4	6	3	0		4	7	7	1	MELINDA
+0	1	25	P	4	6	3	0		4	8	11	1	PRUNEDANISH
+1	0	0	#	4	10	4	0		5	9	0	0	
+0	1	26	A	4	10	4	1	ANCE	3	10	4	0	
+0	0	0	N	4	10	4	0		1	11	5	0	
+0	1	27	C	4	10	4	0		4	12	11	1	CENTSOFSITE
+0	1	28	E	4	10	4	0		4	13	5	1	ENEST
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	7	0		6	1	5	0	
+0	1	29	Y	5	2	7	1	YACHTER	0	2	11	0	
+0	0	0	A	5	2	7	0		4	3	3	0	
+0	0	0	C	5	2	7	0		3	4	3	0	
+0	1	30	H	5	2	7	0		5	5	4	1	HSIA
+0	0	0	T	5	2	7	0		0	6	11	0	
+0	0	0	E	5	2	7	0		4	7	7	0	
+0	0	0	R	5	2	7	0		4	8	11	0	
+1	0	0	#	5	10	4	0		6	9	4	0	
+0	1	31	V	5	10	4	1	VTEN	3	10	4	0	
+0	0	0	T	5	10	4	0		1	11	5	0	
+0	0	0	E	5	10	4	0		4	12	11	0	
+0	0	0	N	5	10	4	0		4	13	5	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	32	O	6	0	4	1	OAKY	6	0	3	1	OAF
+0	1	33	A	6	0	4	0		6	1	5	1	ACOIN
+0	0	0	K	6	0	4	0		0	2	11	0	
+0	0	0	Y	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	6	0		7	4	0	0	
+0	1	34	S	6	5	6	1	SALUKI	5	5	4	0	
+0	0	0	A	6	5	6	0		0	6	11	0	
+0	0	0	L	6	5	6	0		4	7	7	0	
+0	0	0	U	6	5	6	0		4	8	11	0	
+0	1	35	K	6	5	6	0		6	9	4	1	KAYO
+0	0	0	I	6	5	6	0		3	10	4	0	
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	36	N	6	12	3	1	NEI	4	12	11	0	
+0	0	0	E	6	12	3	0		4	13	5	0	
+0	1	37	I	6	12	3	0		6	14	3	1	IRA
+0	1	38	A	7	0	3	1	ACR	6	0	3	0	
+0	0	0	C	7	0	3	0		6	1	5	0	
+0	0	0	R	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	5	0		8	4	4	0	
+0	1	39	I	7	5	5	1	IRINA	5	5	4	0	
+0	0	0	R	7	5	5	0		0	6	11	0	
+0	0	0	I	7	5	5	0		4	7	7	0	
+0	0	0	N	7	5	5	0		4	8	11	0	
+0	0	0	A	7	5	5	0		6	9	4	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	40	T	7	12	3	1	TSR	4	12	11	0	
+0	0	0	S	7	12	3	0		4	13	5	0	
+0	0	0	R	7	12	3	0		6	14	3	0	
+0	1	41	F	8	0	3	1	FOE	6	0	3	0	
+0	0	0	O	8	0	3	0		6	1	5	0	
+0	0	0	E	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	6	0		9	3	5	0	
+0	1	42	R	8	4	6	1	RAINEY	8	4	4	1	ROBT
+0	0	0	A	8	4	6	0		5	5	4	0	
+0	0	0	I	8	4	6	0		0	6	11	0	
+0	0	0	N	8	4	6	0		4	7	7	0	
+0	0	0	E	8	4	6	0		4	8	11	0	
+0	0	0	Y	8	4	6	0		6	9	4	0	
+1	0	0	#	8	11	4	0		9	10	3	0	
+0	1	43	U	8	11	4	1	USTA	8	11	3	1	UTE
+0	0	0	S	8	11	4	0		4	12	11	0	
+0	0	0	T	8	11	4	0		4	13	5	0	
+0	0	0	A	8	11	4	0		6	14	3	0	
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	44	I	9	1	4	1	IMSO	6	1	5	0	
+0	0	0	M	9	1	4	0		0	2	11	0	
+0	1	45	S	9	1	4	0		9	3	5	1	STGER
+0	0	0	O	9	1	4	0		8	4	4	0	
+1	0	0	#	9	6	7	0		10	5	0	0	
+0	1	46	A	9	6	7	1	ADDONTO	0	6	11	0	
+0	0	0	D	9	6	7	0		4	7	7	0	
+0	0	0	D	9	6	7	0		4	8	11	0	
+0	0	0	O	9	6	7	0		6	9	4	0	
+0	1	47	N	9	6	7	0		9	10	3	1	NHL
+0	0	0	T	9	6	7	0		8	11	3	0	
+0	0	0	O	9	6	7	0		4	12	11	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	4	0		11	0	0	0	
+0	1	48	N	10	1	4	1	NETB	6	1	5	0	
+0	0	0	E	10	1	4	0		0	2	11	0	
+0	0	0	T	10	1	4	0		9	3	5	0	
+0	0	0	B	10	1	4	0		8	4	4	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	49	N	10	6	3	1	NAA	0	6	11	0	
+0	0	0	A	10	6	3	0		4	7	7	0	
+0	0	0	A	10	6	3	0		4	8	11	0	
+1	0	0	#	10	10	4	0		11	9	3	0	
+0	1	50	H	10	10	4	1	HEFT	9	10	3	0	
+0	0	0	E	10	10	4	0		8	11	3	0	
+0	0	0	F	10	10	4	0		4	12	11	0	
+0	1	51	T	10	10	4	0		10	13	5	1	TABLE
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	52	G	11	3	3	1	GTD	9	3	5	0	
+0	0	0	T	11	3	3	0		8	4	4	0	
+0	1	53	D	11	3	3	0		11	5	3	1	DOB
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	54	N	11	8	3	1	NEL	4	8	11	0	
+0	1	55	E	11	8	3	0		11	9	3	1	EDY
+0	0	0	L	11	8	3	0		9	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	56	S	11	12	3	1	SAL	4	12	11	0	
+0	0	0	A	11	12	3	0		10	13	5	0	
+0	1	57	L	11	12	3	0		11	14	3	1	LSI
+0	1	58	H	12	0	4	1	HOSE	12	0	3	1	HEP
+0	1	59	O	12	0	4	0		12	1	3	1	ODD
+0	1	60	S	12	0	4	0		12	2	3	1	SEQ
+0	0	0	E	12	0	4	0		9	3	5	0	
+1	0	0	#	12	5	5	0		13	4	0	0	
+0	1	61	O	12	5	5	1	OVOID	11	5	3	0	
+0	1	62	V	12	5	5	0		12	6	3	1	VIL
+0	1	63	O	12	5	5	0		12	7	3	1	OTA
+0	0	0	I	12	5	5	0		4	8	11	0	
+0	0	0	D	12	5	5	0		11	9	3	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	64	M	12	11	4	1	MIBS	12	11	3	1	MAZ
+0	0	0	I	12	11	4	0		4	12	11	0	
+0	0	0	B	12	11	4	0		10	13	5	0	
+0	0	0	S	12	11	4	0		11	14	3	0	
+0	1	65	E	13	0	4	1	EDER	12	0	3	0	
+0	0	0	D	13	0	4	0		12	1	3	0	
+0	0	0	E	13	0	4	0		12	2	3	0	
+0	0	0	R	13	0	4	0		9	3	5	0	
+1	0	0	#	13	5	5	0		14	4	0	0	
+0	1	66	B	13	5	5	1	BITSY	11	5	3	0	
+0	0	0	I	13	5	5	0		12	6	3	0	
+0	0	0	T	13	5	5	0		12	7	3	0	
+0	0	0	S	13	5	5	0		4	8	11	0	
+0	0	0	Y	13	5	5	0		11	9	3	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	67	A	13	11	4	1	ATLI	12	11	3	0	
+0	0	0	T	13	11	4	0		4	12	11	0	
+0	0	0	L	13	11	4	0		10	13	5	0	
+0	0	0	I	13	11	4	0		11	14	3	0	
+0	1	68	P	14	0	3	1	PDQ	12	0	3	0	
+0	0	0	D	14	0	3	0		12	1	3	0	
+0	0	0	Q	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	69	L	14	6	3	1	LAH	12	6	3	0	
+0	0	0	A	14	6	3	0		12	7	3	0	
+0	0	0	H	14	6	3	0		4	8	11	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	70	Z	14	11	3	1	ZEE	12	11	3	0	
+0	0	0	E	14	11	3	0		4	12	11	0	
+0	0	0	E	14	11	3	0		10	13	5	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+43
+1	IKE	Presidential nickname
+4	FLA	Lake Okeechobee's state: Abbr.
+7	MOA	Extinct flightless bird
+10	INRI	Cross characters
+11	FLESH	Blood's partner
+13	DIDO	Queen abandoned by Aeneas
+14	CUIN	Chili powder ingredient
+15	EENIE	___, meenie, miney, mo
+16	ITAN	Call ___ evening
+17	ERS	Sounds of ambivalence
+18	BMX	Stunt biker's bike
+19	ETD	Airport schedule abbr.
+21	EPPS	Actor Omar
+23	IMP	Tiny terror
+26	ANCE	Ending to avoid?
+29	YACHTER	Boatsman
+31	VTEN	Powerful kind of engine
+32	OAKY	Tasting like certain wood
+34	SALUKI	Tall, slender hound
+36	NEI	"In the," in Italy
+38	ACR	Horizontally: Abbr.
+39	IRINA	Sister of Olga and Masha, in Chekhov
+40	TSR	Early Dungeons & Dragons co.
+41	FOE	Red, e.g., once
+42	RAINEY	Old blues singer Ma ___
+43	USTA	Logo at Arthur Ashe Stadium
+44	IMSO	"___ in Love With You"
+46	ADDONTO	Supplement
+48	NETB	Tennis miss
+49	NAA	Sports org.
+50	HEFT	Test the weight of
+52	GTD	Ensured: Abbr.
+54	NEL	"___ mezzo del cammin di nostra vita": Dante
+56	SAL	___ volatile
+58	HOSE	Fire truck need
+61	OVOID	Egglike
+64	MIBS	Game of marbles
+65	EDER	1987 Pulitzer critic Richard
+66	BITSY	Minute
+67	ATLI	Brynhild's brother, in myth
+68	PDQ	A.S.A.P.
+69	LAH	___-di-dah
+70	ZEE	Last in a series
+39
+1	INURE	Habituate
+2	KRISPYKREME	It opened its first store in Winston-Salem, N.C., in 1937
+3	EIN	A, as in Augsburg
+4	FLEXITARIAN	In modern lingo, a vegetarian who occasionally eats meat
+5	LEN	Baseball's Dykstra
+6	ASI	"___ said..."
+7	MIT	Sch. on the Charles
+8	ODA	Harem room
+9	AON	Get an ___ (ace)
+10	ICE	Word with pack or pick
+11	FEM	Like the Span. armada?
+12	HEE	Part of a bray
+13	DIDNT	Jimmy Webb's "___ We"
+18	BSC	Deg. in biology or physics
+20	TAVI	Rikki-tikki-___ (Kipling mongoose)
+22	PAY	Foot the bill
+24	MELINDA	Dillon of "A Christmas Story"
+25	PRUNEDANISH	Fruit pastry
+27	CENTSOFSITE	Coins found at a dig?
+28	ENEST	Older couple's home, often
+30	HSIA	4,000-year-old Chinese dynasty
+32	OAF	Butterfingers
+33	ACOIN	Flip ___ (decide by chance)
+35	KAYO	Lay flat
+37	IRA	Lyrical Gershwin
+42	ROBT	___ Morris, signature on the Declaration of Independence
+43	UTE	Adaptable truck, for short
+45	STGER	Antiaircraft missile
+47	NHL	Whaler's org.
+51	TABLE	Put off
+53	DOB	Driver's license stat.
+55	EDY	Big name in ice cream
+57	LSI	Long-running B'way musical seen by couples?
+58	HEP	Up on things, daddy-o
+59	ODD	Quaint
+60	SEQ	Et ___ (and the following): Abbr.
+62	VIL	Rockies resort
+63	OTA	Taxonomic suffix
+64	MAZ	1960 World Series hero, familiarly

@@ -1,0 +1,307 @@
+grid_15x15_143
+15
+0	1	1	A	0	0	3	1	ARN	0	0	3	1	ARC
+0	1	2	R	0	0	3	0		0	1	3	1	RPI
+0	1	3	N	0	0	3	0		0	2	11	1	NSTTHECLOCK
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	3	0	
+0	1	4	F	0	5	4	1	FANG	0	5	3	1	FEE
+0	1	5	A	0	5	4	0		0	6	5	1	AANDE
+0	1	6	N	0	5	4	0		0	7	5	1	NSTAR
+0	1	7	G	0	5	4	0		0	8	9	1	GETBACKAT
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	8	T	0	12	3	1	TET	0	12	3	1	TEE
+0	1	9	E	0	12	3	0		0	13	3	1	EPS
+0	1	10	T	0	12	3	0		0	14	3	1	THS
+0	1	11	R	1	0	3	1	RPS	0	0	3	0	
+0	0	0	P	1	0	3	0		0	1	3	0	
+0	0	0	S	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	0	0	
+0	1	12	L	1	4	7	1	LEASERS	1	4	3	1	LSU
+0	0	0	E	1	4	7	0		0	5	3	0	
+0	0	0	A	1	4	7	0		0	6	5	0	
+0	0	0	S	1	4	7	0		0	7	5	0	
+0	0	0	E	1	4	7	0		0	8	9	0	
+0	1	13	R	1	4	7	0		1	9	3	1	ROS
+0	1	14	S	1	4	7	0		1	10	3	1	SPA
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	15	E	1	12	3	1	EPH	0	12	3	0	
+0	0	0	P	1	12	3	0		0	13	3	0	
+0	0	0	H	1	12	3	0		0	14	3	0	
+0	1	16	C	2	0	3	1	CIT	0	0	3	0	
+0	0	0	I	2	0	3	0		0	1	3	0	
+0	0	0	T	2	0	3	0		0	2	11	0	
+1	0	0	#	2	4	11	0		3	3	4	0	
+0	1	17	S	2	4	11	1	SENTTOPRESS	1	4	3	0	
+0	0	0	E	2	4	11	0		0	5	3	0	
+0	0	0	N	2	4	11	0		0	6	5	0	
+0	0	0	T	2	4	11	0		0	7	5	0	
+0	0	0	T	2	4	11	0		0	8	9	0	
+0	0	0	O	2	4	11	0		1	9	3	0	
+0	0	0	P	2	4	11	0		1	10	3	0	
+0	1	18	R	2	4	11	0		2	11	3	1	RTE
+0	0	0	E	2	4	11	0		0	12	3	0	
+0	0	0	S	2	4	11	0		0	13	3	0	
+0	0	0	S	2	4	11	0		0	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	7	0	
+0	1	19	T	3	2	3	1	TSU	0	2	11	0	
+0	1	20	S	3	2	3	0		3	3	4	1	SPAT
+0	0	0	U	3	2	3	0		1	4	3	0	
+1	0	0	#	3	6	6	0		4	5	0	0	
+0	1	21	D	3	6	6	1	DABSAT	0	6	5	0	
+0	0	0	A	3	6	6	0		0	7	5	0	
+0	0	0	B	3	6	6	0		0	8	9	0	
+0	0	0	S	3	6	6	0		1	9	3	0	
+0	0	0	A	3	6	6	0		1	10	3	0	
+0	0	0	T	3	6	6	0		2	11	3	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	7	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	22	C	4	1	3	1	CHP	4	1	7	1	CHATTEL
+0	0	0	H	4	1	3	0		0	2	11	0	
+0	0	0	P	4	1	3	0		3	3	4	0	
+1	0	0	#	4	5	0	0		5	4	5	0	
+1	0	0	#	4	6	3	0		5	5	5	0	
+0	1	23	E	4	6	3	1	ERA	0	6	5	0	
+0	0	0	R	4	6	3	0		0	7	5	0	
+0	0	0	A	4	6	3	0		0	8	9	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	3	0		5	10	5	0	
+0	1	24	E	4	11	3	1	EFS	2	11	3	0	
+0	1	25	F	4	11	3	0		4	12	11	1	FLAGONWAVER
+0	1	26	S	4	11	3	0		4	13	7	1	SONANTS
+1	0	0	#	4	15	0	0		5	14	4	0	
+1	0	0	#	5	1	5	0		6	0	4	0	
+0	1	27	H	5	1	5	1	HEARS	4	1	7	0	
+0	0	0	E	5	1	5	0		0	2	11	0	
+0	0	0	A	5	1	5	0		3	3	4	0	
+0	1	28	R	5	1	5	0		5	4	5	1	RCPTS
+0	1	29	S	5	1	5	0		5	5	5	1	SHELL
+1	0	0	#	5	7	0	0		6	6	9	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	30	C	5	8	3	1	CMA	0	8	9	0	
+0	1	31	M	5	8	3	0		5	9	5	1	MENSA
+0	1	32	A	5	8	3	0		5	10	5	1	ARTIN
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	33	L	5	12	3	1	LOI	4	12	11	0	
+0	0	0	O	5	12	3	0		4	13	7	0	
+0	1	34	I	5	12	3	0		5	14	4	1	IDLE
+0	1	35	F	6	0	11	1	FACTCHECKER	6	0	4	1	FTHS
+0	0	0	A	6	0	11	0		4	1	7	0	
+0	0	0	C	6	0	11	0		0	2	11	0	
+0	0	0	T	6	0	11	0		3	3	4	0	
+0	0	0	C	6	0	11	0		5	4	5	0	
+0	0	0	H	6	0	11	0		5	5	5	0	
+0	1	36	E	6	0	11	0		6	6	9	1	ENERVATES
+0	1	37	C	6	0	11	0		6	7	3	1	CDT
+0	0	0	K	6	0	11	0		0	8	9	0	
+0	0	0	E	6	0	11	0		5	9	5	0	
+0	0	0	R	6	0	11	0		5	10	5	0	
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	38	A	6	12	3	1	AND	4	12	11	0	
+0	0	0	N	6	12	3	0		4	13	7	0	
+0	0	0	D	6	12	3	0		5	14	4	0	
+0	1	39	T	7	0	3	1	TTL	6	0	4	0	
+0	0	0	T	7	0	3	0		4	1	7	0	
+0	0	0	L	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	7	0		8	3	0	0	
+0	1	40	P	7	4	7	1	PENDANT	5	4	5	0	
+0	0	0	E	7	4	7	0		5	5	5	0	
+0	0	0	N	7	4	7	0		6	6	9	0	
+0	0	0	D	7	4	7	0		6	7	3	0	
+0	0	0	A	7	4	7	0		0	8	9	0	
+0	0	0	N	7	4	7	0		5	9	5	0	
+0	0	0	T	7	4	7	0		5	10	5	0	
+1	0	0	#	7	12	3	0		8	11	4	0	
+0	1	41	G	7	12	3	1	GAL	4	12	11	0	
+0	0	0	A	7	12	3	0		4	13	7	0	
+0	0	0	L	7	12	3	0		5	14	4	0	
+0	1	42	H	8	0	3	1	HTO	6	0	4	0	
+0	0	0	T	8	0	3	0		4	1	7	0	
+0	0	0	O	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	11	0		9	3	0	0	
+0	1	43	T	8	4	11	1	TLETTSITONE	5	4	5	0	
+0	0	0	L	8	4	11	0		5	5	5	0	
+0	0	0	E	8	4	11	0		6	6	9	0	
+0	0	0	T	8	4	11	0		6	7	3	0	
+0	0	0	T	8	4	11	0		0	8	9	0	
+0	0	0	S	8	4	11	0		5	9	5	0	
+0	0	0	I	8	4	11	0		5	10	5	0	
+0	1	44	T	8	4	11	0		8	11	4	1	TEAR
+0	0	0	O	8	4	11	0		4	12	11	0	
+0	0	0	N	8	4	11	0		4	13	7	0	
+0	0	0	E	8	4	11	0		5	14	4	0	
+0	1	45	S	9	0	3	1	SEC	6	0	4	0	
+0	0	0	E	9	0	3	0		4	1	7	0	
+0	0	0	C	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	46	S	9	4	3	1	SLR	5	4	5	0	
+0	0	0	L	9	4	3	0		5	5	5	0	
+0	0	0	R	9	4	3	0		6	6	9	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	5	0		10	8	5	0	
+0	1	47	A	9	9	5	1	ANENT	5	9	5	0	
+0	0	0	N	9	9	5	0		5	10	5	0	
+0	0	0	E	9	9	5	0		8	11	4	0	
+0	0	0	N	9	9	5	0		4	12	11	0	
+0	0	0	T	9	9	5	0		4	13	7	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	48	L	10	1	3	1	LKP	4	1	7	0	
+0	0	0	K	10	1	3	0		0	2	11	0	
+0	1	49	P	10	1	3	0		10	3	3	1	PER
+1	0	0	#	10	5	0	0		11	4	3	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	50	V	10	6	3	1	VOA	6	6	9	0	
+0	1	51	O	10	6	3	0		10	7	5	1	ORBAD
+0	1	52	A	10	6	3	0		10	8	5	1	ADANA
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	53	A	10	11	3	1	AWS	8	11	4	0	
+0	0	0	W	10	11	3	0		4	12	11	0	
+0	0	0	S	10	11	3	0		4	13	7	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	6	0		12	2	3	0	
+0	1	54	E	11	3	6	1	ERHARD	10	3	3	0	
+0	1	55	R	11	3	6	0		11	4	3	1	REO
+0	1	56	H	11	3	6	0		11	5	3	1	HEC
+0	0	0	A	11	3	6	0		6	6	9	0	
+0	0	0	R	11	3	6	0		10	7	5	0	
+0	0	0	D	11	3	6	0		10	8	5	0	
+1	0	0	#	11	10	3	0		12	9	3	0	
+0	1	57	F	11	10	3	1	FRA	11	10	3	1	FDA
+0	0	0	R	11	10	3	0		8	11	4	0	
+0	0	0	A	11	10	3	0		4	12	11	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	58	E	12	0	11	1	ESTREETBAND	12	0	3	1	EGO
+0	1	59	S	12	0	11	0		12	1	3	1	SUN
+0	1	60	T	12	0	11	0		12	2	3	1	TNT
+0	0	0	R	12	0	11	0		10	3	3	0	
+0	0	0	E	12	0	11	0		11	4	3	0	
+0	0	0	E	12	0	11	0		11	5	3	0	
+0	0	0	T	12	0	11	0		6	6	9	0	
+0	0	0	B	12	0	11	0		10	7	5	0	
+0	0	0	A	12	0	11	0		10	8	5	0	
+0	1	61	N	12	0	11	0		12	9	3	1	NIK
+0	0	0	D	12	0	11	0		11	10	3	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	62	V	12	12	3	1	VWS	4	12	11	0	
+0	1	63	W	12	12	3	0		12	13	3	1	WBA
+0	1	64	S	12	12	3	0		12	14	3	1	SNL
+0	1	65	G	13	0	3	1	GUN	12	0	3	0	
+0	0	0	U	13	0	3	0		12	1	3	0	
+0	0	0	N	13	0	3	0		12	2	3	0	
+1	0	0	#	13	4	7	0		14	3	0	0	
+0	1	66	O	13	4	7	1	OCEANIA	11	4	3	0	
+0	0	0	C	13	4	7	0		11	5	3	0	
+0	0	0	E	13	4	7	0		6	6	9	0	
+0	0	0	A	13	4	7	0		10	7	5	0	
+0	0	0	N	13	4	7	0		10	8	5	0	
+0	0	0	I	13	4	7	0		12	9	3	0	
+0	0	0	A	13	4	7	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	67	E	13	12	3	1	EBN	4	12	11	0	
+0	0	0	B	13	12	3	0		12	13	3	0	
+0	0	0	N	13	12	3	0		12	14	3	0	
+0	1	68	O	14	0	3	1	ONT	12	0	3	0	
+0	0	0	N	14	0	3	0		12	1	3	0	
+0	0	0	T	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	4	0		15	5	0	0	
+0	1	69	S	14	6	4	1	SDAK	6	6	9	0	
+0	0	0	D	14	6	4	0		10	7	5	0	
+0	0	0	A	14	6	4	0		10	8	5	0	
+0	0	0	K	14	6	4	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	R	14	12	3	1	RAL	4	12	11	0	
+0	0	0	A	14	12	3	0		12	13	3	0	
+0	0	0	L	14	12	3	0		12	14	3	0	
+39
+1	ARN	Hal Foster comic character
+4	FANG	Point of attack?
+8	TET	Start of a lunar calendar abroad
+11	RPS	Turning meas.
+12	LEASERS	Some drivers
+15	EPH	Book after Galatians: Abbr.
+16	CIT	Summons: Abbr.
+17	SENTTOPRESS	Closed, as a magazine issue
+19	TSU	Nashville inst.
+21	DABSAT	Blots lightly
+22	CHP	Spin-producing tennis shot
+23	ERA	Bygone pol. cause
+24	EFS	A lot of fluff
+27	HEARS	Considers, as testimony
+30	CMA	Org. with an annual televised awards ceremony
+33	LOI	Napoleonic law
+35	FACTCHECKER	Magazine staffer
+38	AND	Further
+39	TTL	Lumberjack's tool
+40	PENDANT	Locket, often
+41	GAL	Miss at a barn dance
+42	HTO	Rain, essentially
+43	TLETTSITONE	Quotation compiler's singer?
+45	SEC	Heartbeat
+46	SLR	35mm camera type
+47	ANENT	With regard to
+48	LKP	British verb ending
+50	VOA	Cold war broadcasting inits.
+53	AWS	"Isn't that cute!" exclamations
+54	ERHARD	Adenauer's successor
+57	FRA	Filippo Lippi, for one
+58	ESTREETBAND	*The Boss's backers
+62	VWS	Bugs, e.g.
+65	GUN	Rev
+66	OCEANIA	About 3.5 million square miles
+67	EBN	Surveyor's dir.
+68	ONT	Que. neighbor
+69	SDAK	Mont. neighbor
+70	RAL	"Too-Ra-Loo-Ra-Loo-___"
+39
+1	ARC	Meteor's path
+2	RPI	Coll. in Troy, N.Y.
+3	NSTTHECLOCK	[See title, and proceed]
+4	FEE	Finder's reward
+5	AANDE	Sister of the Biography Channel
+6	NSTAR	Cool, very red celestial body
+7	GETBACKAT	Fix but good
+8	TEE	Certain pipe joint
+9	EPS	Some dance records, for short
+10	THS	Cultural topics
+12	LSU	Southeastern Conf. team
+13	ROS	Children's author/illustrator Asquith
+14	SPA	It has springs
+18	RTE	G.P.S. request
+20	SPAT	Dustup
+22	CHATTEL	Movable article of personal property
+25	FLAGONWAVER	Enthusiastic drinker at an old English inn?
+26	SONANTS	Voiced bits of speech
+28	RCPTS	Sales slips: Abbr.
+29	SHELL	Find at the beach
+31	MENSA	Symbol of brightness
+32	ARTIN	"Our Father which ___ heaven ..."
+34	IDLE	Kill time
+35	FTHS	Quarters
+36	ENERVATES	Exhausts
+37	CDT	What the Cubs play games in: Abbr.
+44	TEAR	Tendon injury
+49	PER	___ annum
+51	ORBAD	"Whether times are good ___, happy ..." (1971 song lyric)
+52	ADANA	Turkish city
+55	REO	Old bus maker
+56	HEC	"___ Ramsey" (70's western)
+57	FDA	Occasional medicine dropper?: Abbr.
+58	EGO	Elitist's problem
+59	SUN	The Sabbath, to Christians: Abbr.
+60	TNT	Nascar event airer
+61	NIK	Suffix with no-good
+63	WBA	Bout-sanctioning org.
+64	SNL	NBC prog. since 1975

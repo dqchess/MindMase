@@ -1,0 +1,231 @@
+grid_13x13_190
+13
+0	1	1	A	0	0	3	1	ARC	0	0	3	1	ATP
+0	1	2	R	0	0	3	0		0	1	4	1	REAO
+0	1	3	C	0	0	3	0		0	2	13	1	CNNHEADLINNWS
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	L	0	6	3	1	LEW	0	6	3	1	LOI
+0	1	5	E	0	6	3	0		0	7	3	1	ELM
+0	1	6	W	0	6	3	0		0	8	5	1	WOETO
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	O	0	10	3	1	OAS	0	10	13	1	ONEDIMMSIONAL
+0	1	8	A	0	10	3	0		0	11	8	1	ALMANACS
+0	1	9	S	0	10	3	0		0	12	3	1	SQS
+0	1	10	T	1	0	9	1	TENORSOLO	0	0	3	0	
+0	0	0	E	1	0	9	0		0	1	4	0	
+0	0	0	N	1	0	9	0		0	2	13	0	
+0	1	11	O	1	0	9	0		1	3	5	1	OTARY
+0	1	12	R	1	0	9	0		1	4	5	1	ROREM
+0	1	13	S	1	0	9	0		1	5	3	1	SMA
+0	0	0	O	1	0	9	0		0	6	3	0	
+0	0	0	L	1	0	9	0		0	7	3	0	
+0	0	0	O	1	0	9	0		0	8	5	0	
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	N	1	10	3	1	NLQ	0	10	13	0	
+0	0	0	L	1	10	3	0		0	11	8	0	
+0	0	0	Q	1	10	3	0		0	12	3	0	
+0	1	15	P	2	0	9	1	PANTOMIME	0	0	3	0	
+0	0	0	A	2	0	9	0		0	1	4	0	
+0	0	0	N	2	0	9	0		0	2	13	0	
+0	0	0	T	2	0	9	0		1	3	5	0	
+0	0	0	O	2	0	9	0		1	4	5	0	
+0	0	0	M	2	0	9	0		1	5	3	0	
+0	0	0	I	2	0	9	0		0	6	3	0	
+0	0	0	M	2	0	9	0		0	7	3	0	
+0	0	0	E	2	0	9	0		0	8	5	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	16	E	2	10	3	1	EMS	0	10	13	0	
+0	0	0	M	2	10	3	0		0	11	8	0	
+0	0	0	S	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	17	O	3	1	5	1	OHARA	0	1	4	0	
+0	0	0	H	3	1	5	0		0	2	13	0	
+0	0	0	A	3	1	5	0		1	3	5	0	
+0	0	0	R	3	1	5	0		1	4	5	0	
+0	0	0	A	3	1	5	0		1	5	3	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	4	0		4	7	4	0	
+0	1	18	T	3	8	4	1	TADA	0	8	5	0	
+0	1	19	A	3	8	4	0		3	9	3	1	API
+0	0	0	D	3	8	4	0		0	10	13	0	
+0	0	0	A	3	8	4	0		0	11	8	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	3	0		5	1	8	0	
+0	1	20	E	4	2	3	1	ERE	0	2	13	0	
+0	0	0	R	4	2	3	0		1	3	5	0	
+0	0	0	E	4	2	3	0		1	4	5	0	
+1	0	0	#	4	6	0	0		5	5	4	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	21	T	4	7	6	1	TOPING	4	7	4	1	TTYL
+0	0	0	O	4	7	6	0		0	8	5	0	
+0	0	0	P	4	7	6	0		3	9	3	0	
+0	0	0	I	4	7	6	0		0	10	13	0	
+0	0	0	N	4	7	6	0		0	11	8	0	
+0	1	22	G	4	7	6	0		4	12	3	1	GTD
+1	0	0	#	5	1	7	0		6	0	3	0	
+0	1	23	P	5	1	7	1	PAYMENT	5	1	8	1	PLANTERS
+0	0	0	A	5	1	7	0		0	2	13	0	
+0	0	0	Y	5	1	7	0		1	3	5	0	
+0	0	0	M	5	1	7	0		1	4	5	0	
+0	1	24	E	5	1	7	0		5	5	4	1	ESSY
+0	1	25	N	5	1	7	0		5	6	3	1	NOO
+0	0	0	T	5	1	7	0		4	7	4	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	26	I	5	9	4	1	IMAT	3	9	3	0	
+0	0	0	M	5	9	4	0		0	10	13	0	
+0	0	0	A	5	9	4	0		0	11	8	0	
+0	0	0	T	5	9	4	0		4	12	3	0	
+0	1	27	L	6	0	3	1	LLD	6	0	3	1	LFO
+0	0	0	L	6	0	3	0		5	1	8	0	
+0	0	0	D	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	28	S	6	5	3	1	SOY	5	5	4	0	
+0	0	0	O	6	5	3	0		5	6	3	0	
+0	0	0	Y	6	5	3	0		4	7	4	0	
+1	0	0	#	6	9	0	0		7	8	5	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	29	M	6	10	3	1	MCD	0	10	13	0	
+0	0	0	C	6	10	3	0		0	11	8	0	
+0	0	0	D	6	10	3	0		4	12	3	0	
+0	1	30	F	7	0	4	1	FALL	6	0	3	0	
+0	0	0	A	7	0	4	0		5	1	8	0	
+0	0	0	L	7	0	4	0		0	2	13	0	
+0	1	31	L	7	0	4	0		7	3	3	1	LOT
+1	0	0	#	7	5	7	0		8	4	5	0	
+0	1	32	S	7	5	7	1	SOLAASS	5	5	4	0	
+0	0	0	O	7	5	7	0		5	6	3	0	
+0	0	0	L	7	5	7	0		4	7	4	0	
+0	1	33	A	7	5	7	0		7	8	5	1	AISLE
+0	1	34	A	7	5	7	0		7	9	5	1	ATPAR
+0	0	0	S	7	5	7	0		0	10	13	0	
+0	0	0	S	7	5	7	0		0	11	8	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	35	O	8	0	6	1	ONIONY	6	0	3	0	
+0	0	0	N	8	0	6	0		5	1	8	0	
+0	0	0	I	8	0	6	0		0	2	13	0	
+0	0	0	O	8	0	6	0		7	3	3	0	
+0	1	36	N	8	0	6	0		8	4	5	1	NSYNC
+0	0	0	Y	8	0	6	0		5	5	4	0	
+1	0	0	#	8	7	0	0		9	6	0	0	
+1	0	0	#	8	8	3	0		9	7	3	0	
+0	1	37	I	8	8	3	1	ITI	7	8	5	0	
+0	0	0	T	8	8	3	0		7	9	5	0	
+0	0	0	I	8	8	3	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	4	0		10	0	3	0	
+0	1	38	T	9	1	4	1	TNTS	5	1	8	0	
+0	0	0	N	9	1	4	0		0	2	13	0	
+0	0	0	T	9	1	4	0		7	3	3	0	
+0	0	0	S	9	1	4	0		8	4	5	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	5	0		10	6	3	0	
+0	1	39	G	9	7	5	1	GSPOT	9	7	3	1	GIF
+0	0	0	S	9	7	5	0		7	8	5	0	
+0	0	0	P	9	7	5	0		7	9	5	0	
+0	0	0	O	9	7	5	0		0	10	13	0	
+0	1	40	T	9	7	5	0		9	11	4	1	TTTT
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	B	10	0	3	1	BEN	10	0	3	1	BTU
+0	0	0	E	10	0	3	0		5	1	8	0	
+0	0	0	N	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	9	0		11	3	0	0	
+0	1	42	Y	10	4	9	1	YPSILANTI	8	4	5	0	
+0	1	43	P	10	4	9	0		10	5	3	1	POG
+0	1	44	S	10	4	9	0		10	6	3	1	SSI
+0	0	0	I	10	4	9	0		9	7	3	0	
+0	0	0	L	10	4	9	0		7	8	5	0	
+0	0	0	A	10	4	9	0		7	9	5	0	
+0	0	0	N	10	4	9	0		0	10	13	0	
+0	0	0	T	10	4	9	0		9	11	4	0	
+0	1	45	I	10	4	9	0		10	12	3	1	IUD
+0	1	46	T	11	0	3	1	TRW	10	0	3	0	
+0	0	0	R	11	0	3	0		5	1	8	0	
+0	0	0	W	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	9	0		12	3	0	0	
+0	1	47	N	11	4	9	1	NOSFERATU	8	4	5	0	
+0	0	0	O	11	4	9	0		10	5	3	0	
+0	0	0	S	11	4	9	0		10	6	3	0	
+0	0	0	F	11	4	9	0		9	7	3	0	
+0	0	0	E	11	4	9	0		7	8	5	0	
+0	0	0	R	11	4	9	0		7	9	5	0	
+0	0	0	A	11	4	9	0		0	10	13	0	
+0	0	0	T	11	4	9	0		9	11	4	0	
+0	0	0	U	11	4	9	0		10	12	3	0	
+0	1	48	U	12	0	3	1	USS	10	0	3	0	
+0	0	0	S	12	0	3	0		5	1	8	0	
+0	0	0	S	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	49	C	12	4	3	1	CGI	8	4	5	0	
+0	0	0	G	12	4	3	0		10	5	3	0	
+0	0	0	I	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	L	12	10	3	1	LTD	0	10	13	0	
+0	0	0	T	12	10	3	0		9	11	4	0	
+0	0	0	D	12	10	3	0		10	12	3	0	
+29
+1	ARC	Rainbow shape
+4	LEW	1950's All-Star Burdette
+7	OAS	Alliance headquartered in D.C.
+10	TENORSOLO	Pavarotti performance
+14	NLQ	Place to hang a ring
+15	PANTOMIME	Silent treatment?
+16	EMS	Type widths
+17	OHARA	Mitchell's Scarlett
+18	TADA	Bit of vocal fanfare
+20	ERE	"___ he drove out of sight..."
+21	TOPING	Drunk's activity
+23	PAYMENT	Creditor's demand
+26	IMAT	"This is where ___"
+27	LLD	Bar degree
+28	SOY	Nondairy milk source
+29	MCD	Year that Chaucer died
+30	FALL	Ladder danger
+32	SOLAASS	Unit of star measurement
+35	ONIONY	Like a bialy
+37	ITI	"That's ___ quit!"
+38	TNTS	Explosives
+39	GSPOT	Subject of a 1982 best seller
+41	BEN	Uncle of rice fame
+42	YPSILANTI	Home of Eastern Michigan University
+46	TRW	Credit-tracking co.
+47	NOSFERATU	1922 Max Schreck film
+48	USS	Abbr. before many state names
+49	CGI	Film special effects, for short
+50	LTD	Co. name end
+29
+1	ATP	Org. for Agassi and Roddick
+2	REAO	Island in French Polynesia
+3	CNNHEADLINNWS	Cable staple
+4	LOI	It's passed in a s
+5	ELM	Gypsy moth target
+6	WOETO	"___ him who believes in nothing": Victor Hugo
+7	ONEDIMMSIONAL	Like a line
+8	ALMANACS	Targets of fact-finding missions?
+9	SQS	Geometric figs.
+11	OTARY	Fur seal
+12	ROREM	1976 Pulitzer winner for "Air Music"
+13	SMA	Like a Scottish young 'un
+19	API	Bee: Prefix
+21	TTYL	"Gotta go," in chat rooms
+22	GTD	Ensured: Abbr.
+23	PLANTERS	Snack brand
+24	ESSY	Swedish actress Persson
+25	NOO	Emergency call
+27	LFO	Band with the 1999 hit "Summer Girls"
+31	LOT	Developer's investment
+33	AISLE	Divider of wedding guests
+34	ATPAR	How some stock is purchased
+36	NSYNC	"This I Promise You" band, 2000
+39	GIF	Computer file suffix
+40	TTTT	Torment
+41	BTU	A.C. letters
+43	POG	Faddish disk of the 1990s
+44	SSI	Fed. stipend
+45	IUD	Birth control device

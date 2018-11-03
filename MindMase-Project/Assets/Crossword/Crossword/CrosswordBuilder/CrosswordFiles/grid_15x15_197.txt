@@ -1,0 +1,309 @@
+grid_15x15_197
+15
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	P	0	1	3	1	PVC	0	1	8	1	PRESIDES
+0	1	2	V	0	1	3	0		0	2	8	1	VENEERED
+0	1	3	C	0	1	3	0		0	3	4	1	CNET
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SBC	0	6	3	1	SOS
+0	1	5	B	0	6	3	0		0	7	5	1	BETYB
+0	1	6	C	0	6	3	0		0	8	5	1	CREAM
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	Z	0	10	3	1	ZIP	0	10	3	1	ZIN
+0	1	8	I	0	10	3	0		0	11	3	1	IAM
+0	1	9	P	0	10	3	0		0	12	6	1	PGACRC
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	4	0		2	0	5	0	
+0	1	10	R	1	1	4	1	RENT	0	1	8	0	
+0	0	0	E	1	1	4	0		0	2	8	0	
+0	0	0	N	1	1	4	0		0	3	4	0	
+0	1	11	T	1	1	4	0		1	4	3	1	TEA
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	12	O	1	6	3	1	OER	0	6	3	0	
+0	0	0	E	1	6	3	0		0	7	5	0	
+0	0	0	R	1	6	3	0		0	8	5	0	
+1	0	0	#	1	10	4	0		2	9	5	0	
+0	1	13	I	1	10	4	1	IAGO	0	10	3	0	
+0	0	0	A	1	10	4	0		0	11	3	0	
+0	0	0	G	1	10	4	0		0	12	6	0	
+0	1	14	O	1	10	4	0		1	13	5	1	ORACH
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	R	2	0	5	1	RENEE	2	0	5	1	RUFFS
+0	0	0	E	2	0	5	0		0	1	8	0	
+0	0	0	N	2	0	5	0		0	2	8	0	
+0	0	0	E	2	0	5	0		0	3	4	0	
+0	0	0	E	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	9	0		3	5	4	0	
+0	1	16	S	2	6	9	1	STEINMART	0	6	3	0	
+0	0	0	T	2	6	9	0		0	7	5	0	
+0	0	0	E	2	6	9	0		0	8	5	0	
+0	1	17	I	2	6	9	0		2	9	5	1	ITALO
+0	0	0	N	2	6	9	0		0	10	3	0	
+0	0	0	M	2	6	9	0		0	11	3	0	
+0	0	0	A	2	6	9	0		0	12	6	0	
+0	0	0	R	2	6	9	0		1	13	5	0	
+0	1	18	T	2	6	9	0		2	14	3	1	TNT
+0	1	19	U	3	0	6	1	USETAX	2	0	5	0	
+0	0	0	S	3	0	6	0		0	1	8	0	
+0	0	0	E	3	0	6	0		0	2	8	0	
+0	0	0	T	3	0	6	0		0	3	4	0	
+0	0	0	A	3	0	6	0		1	4	3	0	
+0	1	20	X	3	0	6	0		3	5	4	1	XTRA
+1	0	0	#	3	7	3	0		4	6	4	0	
+0	1	21	Y	3	7	3	1	YAT	0	7	5	0	
+0	0	0	A	3	7	3	0		0	8	5	0	
+0	0	0	T	3	7	3	0		2	9	5	0	
+1	0	0	#	3	11	0	0		4	10	6	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	22	C	3	12	3	1	CAN	0	12	6	0	
+0	0	0	A	3	12	3	0		1	13	5	0	
+0	0	0	N	3	12	3	0		2	14	3	0	
+0	1	23	F	4	0	3	1	FIE	2	0	5	0	
+0	0	0	I	4	0	3	0		0	1	8	0	
+0	0	0	E	4	0	3	0		0	2	8	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	24	T	4	5	6	1	TUBMAN	3	5	4	0	
+0	1	25	U	4	5	6	0		4	6	4	1	UTWO
+0	0	0	B	4	5	6	0		0	7	5	0	
+0	0	0	M	4	5	6	0		0	8	5	0	
+0	0	0	A	4	5	6	0		2	9	5	0	
+0	1	26	N	4	5	6	0		4	10	6	1	NANCYS
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	27	R	4	12	3	1	RCT	0	12	6	0	
+0	0	0	C	4	12	3	0		1	13	5	0	
+0	0	0	T	4	12	3	0		2	14	3	0	
+0	1	28	F	5	0	3	1	FDR	2	0	5	0	
+0	0	0	D	5	0	3	0		0	1	8	0	
+0	0	0	R	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	29	O	5	4	3	1	ORT	5	4	6	1	OSKARS
+0	0	0	R	5	4	3	0		3	5	4	0	
+0	0	0	T	5	4	3	0		4	6	4	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	0	0	
+0	1	30	L	5	9	5	1	LARCH	2	9	5	0	
+0	0	0	A	5	9	5	0		4	10	6	0	
+0	1	31	R	5	9	5	0		5	11	3	1	RKO
+0	0	0	C	5	9	5	0		0	12	6	0	
+0	0	0	H	5	9	5	0		1	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	32	S	6	0	3	1	SEE	2	0	5	0	
+0	0	0	E	6	0	3	0		0	1	8	0	
+0	0	0	E	6	0	3	0		0	2	8	0	
+1	0	0	#	6	4	4	0		7	3	3	0	
+0	1	33	S	6	4	4	1	SAWN	5	4	6	0	
+0	0	0	A	6	4	4	0		3	5	4	0	
+0	0	0	W	6	4	4	0		4	6	4	0	
+0	1	34	N	6	4	4	0		6	7	3	1	NAW
+1	0	0	#	6	9	3	0		7	8	4	0	
+0	1	35	O	6	9	3	1	ONK	2	9	5	0	
+0	0	0	N	6	9	3	0		4	10	6	0	
+0	0	0	K	6	9	3	0		5	11	3	0	
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	36	S	7	1	4	1	SDAK	0	1	8	0	
+0	0	0	D	7	1	4	0		0	2	8	0	
+0	1	37	A	7	1	4	0		7	3	3	1	ARA
+0	0	0	K	7	1	4	0		5	4	6	0	
+1	0	0	#	7	6	3	0		8	5	5	0	
+0	1	38	O	7	6	3	1	OAK	4	6	4	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	1	39	K	7	6	3	0		7	8	4	1	KALE
+1	0	0	#	7	10	4	0		8	9	4	0	
+0	1	40	C	7	10	4	1	COPS	4	10	6	0	
+0	0	0	O	7	10	4	0		5	11	3	0	
+0	1	41	P	7	10	4	0		7	12	8	1	PHONETAG
+0	1	42	S	7	10	4	0		7	13	8	1	SUPPLEST
+1	0	0	#	7	15	0	0		8	14	5	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	5	0	
+1	0	0	#	8	3	3	0		9	2	6	0	
+0	1	43	R	8	3	3	1	RAE	7	3	3	0	
+0	0	0	A	8	3	3	0		5	4	6	0	
+0	1	44	E	8	3	3	0		8	5	5	1	EWOKS
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	45	W	8	7	4	1	WAVY	6	7	3	0	
+0	0	0	A	8	7	4	0		7	8	4	0	
+0	1	46	V	8	7	4	0		8	9	4	1	VERS
+0	0	0	Y	8	7	4	0		4	10	6	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	47	H	8	12	3	1	HUM	7	12	8	0	
+0	0	0	U	8	12	3	0		7	13	8	0	
+0	1	48	M	8	12	3	0		8	14	5	1	MERLS
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	49	C	9	1	5	1	CHARW	9	1	5	1	CASIO
+0	1	50	H	9	1	5	0		9	2	6	1	HBEATS
+0	0	0	A	9	1	5	0		7	3	3	0	
+0	0	0	R	9	1	5	0		5	4	6	0	
+0	0	0	W	9	1	5	0		8	5	5	0	
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	3	0		10	7	5	0	
+0	1	51	L	9	8	3	1	LES	7	8	4	0	
+0	0	0	E	9	8	3	0		8	9	4	0	
+0	0	0	S	9	8	3	0		4	10	6	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	52	O	9	12	3	1	OPE	7	12	8	0	
+0	0	0	P	9	12	3	0		7	13	8	0	
+0	0	0	E	9	12	3	0		8	14	5	0	
+0	1	53	H	10	0	3	1	HAB	10	0	3	1	HAG
+0	0	0	A	10	0	3	0		9	1	5	0	
+0	0	0	B	10	0	3	0		9	2	6	0	
+1	0	0	#	10	4	6	0		11	3	0	0	
+0	1	54	S	10	4	6	1	SORTER	5	4	6	0	
+0	0	0	O	10	4	6	0		8	5	5	0	
+0	1	55	R	10	4	6	0		10	6	5	1	ROTOR
+0	1	56	T	10	4	6	0		10	7	5	1	TRACI
+0	0	0	E	10	4	6	0		7	8	4	0	
+0	0	0	R	10	4	6	0		8	9	4	0	
+1	0	0	#	10	11	0	0		11	10	3	0	
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	57	N	10	12	3	1	NPR	7	12	8	0	
+0	0	0	P	10	12	3	0		7	13	8	0	
+0	0	0	R	10	12	3	0		8	14	5	0	
+0	1	58	A	11	0	3	1	ASE	10	0	3	0	
+0	0	0	S	11	0	3	0		9	1	5	0	
+0	0	0	E	11	0	3	0		9	2	6	0	
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	59	K	11	5	3	1	KOR	8	5	5	0	
+0	0	0	O	11	5	3	0		10	6	5	0	
+0	0	0	R	11	5	3	0		10	7	5	0	
+1	0	0	#	11	9	6	0		12	8	3	0	
+0	1	60	S	11	9	6	1	SEWELL	8	9	4	0	
+0	1	61	E	11	9	6	0		11	10	3	1	ELA
+0	1	62	W	11	9	6	0		11	11	4	1	WUSS
+0	0	0	E	11	9	6	0		7	12	8	0	
+0	0	0	L	11	9	6	0		7	13	8	0	
+0	0	0	L	11	9	6	0		8	14	5	0	
+0	1	63	G	12	0	9	1	GIANTSTAR	10	0	3	0	
+0	0	0	I	12	0	9	0		9	1	5	0	
+0	0	0	A	12	0	9	0		9	2	6	0	
+0	1	64	N	12	0	9	0		12	3	3	1	NTH
+0	1	65	T	12	0	9	0		12	4	3	1	TOE
+0	0	0	S	12	0	9	0		8	5	5	0	
+0	0	0	T	12	0	9	0		10	6	5	0	
+0	0	0	A	12	0	9	0		10	7	5	0	
+0	1	66	R	12	0	9	0		12	8	3	1	RAT
+1	0	0	#	12	10	5	0		13	9	0	0	
+0	1	67	L	12	10	5	1	LUTES	11	10	3	0	
+0	0	0	U	12	10	5	0		11	11	4	0	
+0	0	0	T	12	10	5	0		7	12	8	0	
+0	0	0	E	12	10	5	0		7	13	8	0	
+0	0	0	S	12	10	5	0		8	14	5	0	
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	68	O	13	1	4	1	OTTO	9	1	5	0	
+0	0	0	T	13	1	4	0		9	2	6	0	
+0	0	0	T	13	1	4	0		12	3	3	0	
+0	0	0	O	13	1	4	0		12	4	3	0	
+1	0	0	#	13	6	3	0		14	5	0	0	
+0	1	69	O	13	6	3	1	OCA	10	6	5	0	
+0	0	0	C	13	6	3	0		10	7	5	0	
+0	0	0	A	13	6	3	0		12	8	3	0	
+1	0	0	#	13	10	4	0		14	9	0	0	
+0	1	70	A	13	10	4	1	ASAS	11	10	3	0	
+0	0	0	S	13	10	4	0		11	11	4	0	
+0	0	0	A	13	10	4	0		7	12	8	0	
+0	0	0	S	13	10	4	0		7	13	8	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	71	S	14	2	3	1	SHE	9	2	6	0	
+0	0	0	H	14	2	3	0		12	3	3	0	
+0	0	0	E	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	72	R	14	6	3	1	RIT	10	6	5	0	
+0	0	0	I	14	6	3	0		10	7	5	0	
+0	0	0	T	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	73	S	14	11	3	1	SGT	11	11	4	0	
+0	0	0	G	14	11	3	0		7	12	8	0	
+0	0	0	T	14	11	3	0		7	13	8	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+43
+1	PVC	"The Charge of the Light Brigade" figure
+4	SBC	Year that Dionysius of Halicarnassus is believed to have died
+7	ZIP	Goose egg
+10	RENT	1996 Tony winner
+12	OER	Across, in verse
+13	IAGO	Rival of Cassio
+15	RENEE	___ Montoya, DC Comics heroine known as the Question
+16	STEINMART	Discount clothing store chain
+19	USETAX	Excise on some out-of-state purchases
+21	YAT	Sun ___-sen
+22	CAN	No-___-do
+23	FIE	"Jack and the Beanstalk" exclamation
+24	TUBMAN	Abolitionist Harriet
+27	RCT	Sales slip: Abbr.
+28	FDR	New Deal pres.
+29	ORT	Leaving after lunch
+30	LARCH	Durable wood
+32	SEE	Go out with
+33	SAWN	Cut, as a log
+35	ONK	In tune
+36	SDAK	Mount Rushmore locale: Abbr.
+38	OAK	Kind of finish
+40	COPS	Takes the wrong way?
+43	RAE	___ Strait, east of Canada's King William Island
+45	WAVY	Like moir
+47	HUM	Continuous sound
+49	CHARW	Office building cleaner
+51	LES	"___ Miz"
+52	OPE	Unlock, in verse
+53	HAB	Bell Centre team member, familiarly
+54	SORTER	One concerned with classes
+57	NPR	Home of "The Diane Rehm Show"
+58	ASE	Wall Street org.
+59	KOR	Asian peninsula: Abbr.
+60	SEWELL	"Black Beauty" author
+63	GIANTSTAR	AT&T Park standout?
+67	LUTES	Cousins of mandolins
+68	OTTO	"Beetle Bailey" bulldog
+69	OCA	Goose, in Spain or Italy
+70	ASAS	Gray and others
+71	SHE	Alan Jay Lerner's "___ Wasn't You"
+72	RIT	Slowing down, in mus.
+73	SGT	Pepper, e.g.
+37
+1	PRESIDES	Heads
+2	VENEERED	Like most modern furniture
+3	CNET	Site for techies
+4	SOS	Brillo alternative
+5	BETYB	Gosh-darn
+6	CREAM	Alfredo sauce ingredient
+7	ZIN	Cab alternative
+8	IAM	"___ a Rock"
+9	PGACRC	Declare, old-style
+11	TEA	Event at which some people wear gloves
+14	ORACH	Spinachlike plant
+15	RUFFS	Elizabethan collars
+17	ITALO	Aviator ___ Balbo
+18	TNT	Basic cable inits.
+20	XTRA	Additional, in ads
+25	UTWO	Classic spy plane
+26	NANCYS	Kwan and Kerrigan
+29	OSKARS	Herr Schindler and others
+31	RKO	"Flying Down to Rio" studio
+34	NAW	Rural refusal
+37	ARA	T. S. Eliot's "___ Vos Prec"
+39	KALE	Cabbagelike plant
+41	PHONETAG	Game "played" with answering machines
+42	SUPPLEST	Least rigid
+44	EWOKS	George Lucas creations
+46	VERS	___ libre (poetry style)
+48	MERLS	Blackbirds
+49	CASIO	Tokyo-based synthesizer maker
+50	HBEATS	1950's doo-wop group with the hit "A Thousand Miles Away," with "the"
+53	HAG	Frightful female
+55	ROTOR	Copter part
+56	TRACI	Bingham of "Baywatch"
+61	ELA	She, in Bras
+62	WUSS	Pantywaist
+64	NTH	Indefinitely large
+65	TOE	Tip for a ballerina
+66	RAT	Judas

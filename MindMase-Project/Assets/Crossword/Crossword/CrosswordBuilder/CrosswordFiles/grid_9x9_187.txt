@@ -1,0 +1,115 @@
+grid_9x9_187
+9
+0	1	1	Z	0	0	3	1	ZSA	0	0	3	1	ZSH
+0	1	2	S	0	0	3	0		0	1	3	1	SSR
+0	1	3	A	0	0	3	0		0	2	9	1	ANABOLISM
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	S	0	5	3	1	SAT	0	5	3	1	STR
+0	1	5	A	0	5	3	0		0	6	9	1	ANOMALIES
+0	1	6	T	0	5	3	0		0	7	5	1	TOWIT
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	S	1	0	3	1	SSN	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	3	0	
+0	0	0	N	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	A	1	4	4	1	ATNO	1	4	7	1	ABLATED
+0	0	0	T	1	4	4	0		0	5	3	0	
+0	0	0	N	1	4	4	0		0	6	9	0	
+0	0	0	O	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	9	H	2	0	9	1	HRAPBROWN	0	0	3	0	
+0	0	0	R	2	0	9	0		0	1	3	0	
+0	0	0	A	2	0	9	0		0	2	9	0	
+0	1	10	P	2	0	9	0		2	3	3	1	PEN
+0	0	0	B	2	0	9	0		1	4	7	0	
+0	0	0	R	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	W	2	0	9	0		0	7	5	0	
+0	1	11	N	2	0	9	0		2	8	3	1	NOH
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	B	3	2	3	1	BEL	0	2	9	0	
+0	0	0	E	3	2	3	0		2	3	3	0	
+0	0	0	L	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	M	3	6	3	1	MIO	0	6	9	0	
+0	0	0	I	3	6	3	0		0	7	5	0	
+0	0	0	O	3	6	3	0		2	8	3	0	
+0	1	14	J	4	0	9	1	JEONAMATH	4	0	3	1	JUD
+0	1	15	E	4	0	9	0		4	1	5	1	ERRAS
+0	0	0	O	4	0	9	0		0	2	9	0	
+0	0	0	N	4	0	9	0		2	3	3	0	
+0	0	0	A	4	0	9	0		1	4	7	0	
+0	1	16	M	4	0	9	0		4	5	3	1	MET
+0	0	0	A	4	0	9	0		0	6	9	0	
+0	0	0	T	4	0	9	0		0	7	5	0	
+0	0	0	H	4	0	9	0		2	8	3	0	
+0	1	17	U	5	0	3	1	URL	4	0	3	0	
+0	0	0	R	5	0	3	0		4	1	5	0	
+0	0	0	L	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	T	5	4	3	1	TEL	1	4	7	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	0	0	L	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	D	6	0	9	1	DRIVETIME	4	0	3	0	
+0	0	0	R	6	0	9	0		4	1	5	0	
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	1	20	V	6	0	9	0		6	3	3	1	VAL
+0	0	0	E	6	0	9	0		1	4	7	0	
+0	0	0	T	6	0	9	0		4	5	3	0	
+0	0	0	I	6	0	9	0		0	6	9	0	
+0	1	21	M	6	0	9	0		6	7	3	1	MLB
+0	1	22	E	6	0	9	0		6	8	3	1	EDA
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	23	A	7	1	4	1	ASAD	4	1	5	0	
+0	0	0	S	7	1	4	0		0	2	9	0	
+0	0	0	A	7	1	4	0		6	3	3	0	
+0	0	0	D	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	E	7	6	3	1	ELD	0	6	9	0	
+0	0	0	L	7	6	3	0		6	7	3	0	
+0	0	0	D	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	S	8	1	3	1	SML	4	1	5	0	
+0	0	0	M	8	1	3	0		0	2	9	0	
+0	0	0	L	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	S	8	6	3	1	SBA	0	6	9	0	
+0	0	0	B	8	6	3	0		6	7	3	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+15
+1	ZSA	When doubled, a Gabor
+4	SAT	Emulated Jack Horner
+7	SSN	Payroll fig.
+8	ATNO	Gold's is 79: Abbr.
+9	HRAPBROWN	Black activist of the 60's
+12	BEL	Brussels's land: Abbr.
+13	MIO	Italian mine
+14	JEONAMATH	Hero of Super Bowl III
+17	URL	It may be bookmarked
+18	TEL	Number on a bus. card
+19	DRIVETIME	Rush hour, to radio programmers
+23	ASAD	"___ tale's best for winter": Shak.
+24	ELD	Time long ago
+25	SML	Choice of sizes: Abbr.
+26	SBA	Govt. loan org.
+15
+1	ZSH	Actress Lupino
+2	SSR	Georgia was one: Abbr.
+3	ANABOLISM	Process of molecular synthesis
+4	STR	Narrow connector: Abbr.
+5	ANOMALIES	Deviations
+6	TOWIT	Namely
+8	ABLATED	Removed by melting, e.g.
+10	PEN	Stock holder
+11	NOH	Kabuki kin
+14	JUD	Olympic sport since 1964
+15	ERRAS	Odd jobs
+16	MET	Happened upon
+20	VAL	Kilmer of "The Doors"
+21	MLB	Org. for Mariners
+22	EDA	Author LeShan

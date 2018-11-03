@@ -1,0 +1,229 @@
+grid_13x13_30
+13
+1	0	0	#	0	1	0	0		1	0	6	0	
+1	0	0	#	0	2	0	0		1	1	12	0	
+1	0	0	#	0	3	3	0		1	2	12	0	
+0	1	1	H	0	3	3	1	HOV	0	3	3	1	HEP
+0	1	2	O	0	3	3	0		0	4	3	1	OSS
+0	1	3	V	0	3	3	0		0	5	3	1	VUE
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	4	O	0	9	3	1	ORG	0	9	3	1	ORE
+0	1	5	R	0	9	3	0		0	10	12	1	RECONMISSION
+0	1	6	G	0	9	3	0		0	11	12	1	GUITARSTRING
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	7	T	1	0	7	1	TAPESUP	1	0	6	1	TESLAS
+0	1	8	A	1	0	7	0		1	1	12	1	ALLINALATHER
+0	1	9	P	1	0	7	0		1	2	12	1	PARENTSTRIKE
+0	0	0	E	1	0	7	0		0	3	3	0	
+0	0	0	S	1	0	7	0		0	4	3	0	
+0	0	0	U	1	0	7	0		0	5	3	0	
+0	1	10	P	1	0	7	0		1	6	11	1	PSYCHICHAVE
+1	0	0	#	1	8	5	0		2	7	0	0	
+0	1	11	A	1	8	5	1	AREUP	1	8	3	1	AAA
+0	0	0	R	1	8	5	0		0	9	3	0	
+0	0	0	E	1	8	5	0		0	10	12	0	
+0	0	0	U	1	8	5	0		0	11	12	0	
+0	1	12	P	1	8	5	0		1	12	3	1	PAT
+0	1	13	E	2	0	7	1	ELAPSES	1	0	6	0	
+0	0	0	L	2	0	7	0		1	1	12	0	
+0	0	0	A	2	0	7	0		1	2	12	0	
+0	0	0	P	2	0	7	0		0	3	3	0	
+0	0	0	S	2	0	7	0		0	4	3	0	
+0	0	0	E	2	0	7	0		0	5	3	0	
+0	0	0	S	2	0	7	0		1	6	11	0	
+1	0	0	#	2	8	5	0		3	7	6	0	
+0	1	14	A	2	8	5	1	AECIA	1	8	3	0	
+0	0	0	E	2	8	5	0		0	9	3	0	
+0	0	0	C	2	8	5	0		0	10	12	0	
+0	0	0	I	2	8	5	0		0	11	12	0	
+0	0	0	A	2	8	5	0		1	12	3	0	
+0	1	15	S	3	0	3	1	SLR	1	0	6	0	
+0	0	0	L	3	0	3	0		1	1	12	0	
+0	0	0	R	3	0	3	0		1	2	12	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	3	0		4	5	6	0	
+0	1	16	Y	3	6	3	1	YMA	1	6	11	0	
+0	1	17	M	3	6	3	0		3	7	6	1	MAOTAI
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	18	O	3	10	3	1	OTT	0	10	12	0	
+0	0	0	T	3	10	3	0		0	11	12	0	
+0	0	0	T	3	10	3	0		1	12	3	0	
+0	1	19	L	4	0	3	1	LIE	1	0	6	0	
+0	0	0	I	4	0	3	0		1	1	12	0	
+0	0	0	E	4	0	3	0		1	2	12	0	
+1	0	0	#	4	4	4	0		5	3	0	0	
+0	1	20	D	4	4	4	1	DECA	4	4	3	1	DSL
+0	1	21	E	4	4	4	0		4	5	6	1	EOLIAN
+0	0	0	C	4	4	4	0		1	6	11	0	
+0	0	0	A	4	4	4	0		3	7	6	0	
+1	0	0	#	4	9	3	0		5	8	0	0	
+0	1	22	O	4	9	3	1	ONA	4	9	3	1	OCD
+0	0	0	N	4	9	3	0		0	10	12	0	
+0	0	0	A	4	9	3	0		0	11	12	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	23	A	5	0	3	1	ANN	1	0	6	0	
+0	0	0	N	5	0	3	0		1	1	12	0	
+0	0	0	N	5	0	3	0		1	2	12	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	24	S	5	4	4	1	SOHO	4	4	3	0	
+0	0	0	O	5	4	4	0		4	5	6	0	
+0	0	0	H	5	4	4	0		1	6	11	0	
+0	0	0	O	5	4	4	0		3	7	6	0	
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	25	C	5	9	3	1	CMR	4	9	3	0	
+0	0	0	M	5	9	3	0		0	10	12	0	
+0	0	0	R	5	9	3	0		0	11	12	0	
+1	0	0	#	5	13	0	0		6	12	6	0	
+0	1	26	S	6	0	13	1	SATELLITEDISH	1	0	6	0	
+0	0	0	A	6	0	13	0		1	1	12	0	
+0	0	0	T	6	0	13	0		1	2	12	0	
+0	1	27	E	6	0	13	0		6	3	3	1	EHS
+0	0	0	L	6	0	13	0		4	4	3	0	
+0	0	0	L	6	0	13	0		4	5	6	0	
+0	0	0	I	6	0	13	0		1	6	11	0	
+0	0	0	T	6	0	13	0		3	7	6	0	
+0	1	28	E	6	0	13	0		6	8	3	1	ENS
+0	0	0	D	6	0	13	0		4	9	3	0	
+0	0	0	I	6	0	13	0		0	10	12	0	
+0	0	0	S	6	0	13	0		0	11	12	0	
+0	1	29	H	6	0	13	0		6	12	6	1	HEISTS
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	30	L	7	1	3	1	LSH	1	1	12	0	
+0	0	0	S	7	1	3	0		1	2	12	0	
+0	0	0	H	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	31	I	7	5	4	1	ICAN	4	5	6	0	
+0	0	0	C	7	5	4	0		1	6	11	0	
+0	0	0	A	7	5	4	0		3	7	6	0	
+0	0	0	N	7	5	4	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	32	S	7	10	3	1	STE	0	10	12	0	
+0	0	0	T	7	10	3	0		0	11	12	0	
+0	0	0	E	7	10	3	0		6	12	6	0	
+1	0	0	#	8	1	3	0		9	0	3	0	
+0	1	33	A	8	1	3	1	ATS	1	1	12	0	
+0	0	0	T	8	1	3	0		1	2	12	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	4	0		9	4	3	0	
+0	1	34	A	8	5	4	1	AHIS	4	5	6	0	
+0	0	0	H	8	5	4	0		1	6	11	0	
+0	0	0	I	8	5	4	0		3	7	6	0	
+0	0	0	S	8	5	4	0		6	8	3	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	35	S	8	10	3	1	SRI	0	10	12	0	
+0	0	0	R	8	10	3	0		0	11	12	0	
+0	0	0	I	8	10	3	0		6	12	6	0	
+0	1	36	L	9	0	3	1	LTR	9	0	3	1	LCD
+0	0	0	T	9	0	3	0		1	1	12	0	
+0	0	0	R	9	0	3	0		1	2	12	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	37	S	9	4	3	1	SNA	9	4	3	1	SOO
+0	0	0	N	9	4	3	0		4	5	6	0	
+0	0	0	A	9	4	3	0		1	6	11	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	38	I	9	10	3	1	IIS	0	10	12	0	
+0	0	0	I	9	10	3	0		0	11	12	0	
+0	0	0	S	9	10	3	0		6	12	6	0	
+0	1	39	C	10	0	5	1	CHICO	9	0	3	0	
+0	0	0	H	10	0	5	0		1	1	12	0	
+0	0	0	I	10	0	5	0		1	2	12	0	
+0	1	40	C	10	0	5	0		10	3	3	1	CKS
+0	0	0	O	10	0	5	0		9	4	3	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	41	V	10	6	7	1	VERMONT	1	6	11	0	
+0	1	42	E	10	6	7	0		10	7	3	1	EDE
+0	1	43	R	10	6	7	0		10	8	3	1	RGT
+0	1	44	M	10	6	7	0		10	9	3	1	MIS
+0	0	0	O	10	6	7	0		0	10	12	0	
+0	0	0	N	10	6	7	0		0	11	12	0	
+0	0	0	T	10	6	7	0		6	12	6	0	
+0	1	45	D	11	0	5	1	DEKKO	9	0	3	0	
+0	0	0	E	11	0	5	0		1	1	12	0	
+0	0	0	K	11	0	5	0		1	2	12	0	
+0	0	0	K	11	0	5	0		10	3	3	0	
+0	0	0	O	11	0	5	0		9	4	3	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	46	E	11	6	7	1	EDGINGS	1	6	11	0	
+0	0	0	D	11	6	7	0		10	7	3	0	
+0	0	0	G	11	6	7	0		10	8	3	0	
+0	0	0	I	11	6	7	0		10	9	3	0	
+0	0	0	N	11	6	7	0		0	10	12	0	
+0	0	0	G	11	6	7	0		0	11	12	0	
+0	0	0	S	11	6	7	0		6	12	6	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	47	R	12	1	3	1	RES	1	1	12	0	
+0	0	0	E	12	1	3	0		1	2	12	0	
+0	0	0	S	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	48	E	12	7	3	1	ETS	10	7	3	0	
+0	0	0	T	12	7	3	0		10	8	3	0	
+0	0	0	S	12	7	3	0		10	9	3	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	HOV	Kind of lane
+4	ORG	U.R.L. ending
+7	TAPESUP	Binds, as wounds
+11	AREUP	"Your 15 minutes of fame ___!"
+13	ELAPSES	Runs out
+14	AECIA	Fungal spore sacs
+15	SLR	Shooting option, briefly
+16	YMA	Singer Sumac
+18	OTT	Old Polo Grounds headliner
+19	LIE	More than stretch the truth
+20	DECA	Geometric prefix
+22	ONA	Off ___ tangent
+23	ANN	Reinking on Broadway
+24	SOHO	Arty Big Apple area
+25	CMR	Nav. leader
+26	SATELLITEDISH	Wide receiver?
+30	LSH	Sorority letters
+31	ICAN	Self-confident assertion
+32	STE	Paris's Rue ___ Croix de la Bretonnerie: Abbr.
+33	ATS	Symbols like @
+34	AHIS	Large food tunas
+35	SRI	Eastern honorific
+36	LTR	L, e.g.: Abbr.
+37	SNA	Dundee precip
+38	IIS	___ for iron
+39	CHICO	Harpo's interpreter
+41	VERMONT	First U.S. state to abolish slavery
+45	DEKKO	Glimpse, in British slang
+46	EDGINGS	Border decorations
+47	RES	Monitor setting, briefly
+48	ETS	Non-earthlings, briefly
+25
+1	HEP	Like some cats
+2	OSS	Hush-hush W.W. II agcy.
+3	VUE	Nice look?
+4	ORE	___-Ida (Tater Tots maker)
+5	RECONMISSION	Memo about a religious outpost for prisoners?
+6	GUITARSTRING	One of six, usually
+7	TESLAS	Webers per square meter
+8	ALLINALATHER	Worked up
+9	PARENTSTRIKE	Reason the kids were left alone?
+10	PSYCHICHAVE	Part 2 of the quip
+11	AAA	Distress call recipient: Abbr.
+12	PAT	Like some answers
+17	MAOTAI	Strong Chinese liquor
+20	DSL	Dial-up alternative, for short
+21	EOLIAN	Windblown
+22	OCD	Neat freak's condition, e.g., for short
+27	EHS	Interrogatives
+28	ENS	Recent U.S.N.A. grad
+29	HEISTS	They may be pulled off
+36	LCD	Watch readout, for short
+37	SOO	Yemana's portrayer on "Barney Miller"
+40	CKS	Bank drafts: Abbr.
+42	EDE	Dutch city
+43	RGT	Mil. unit
+44	MIS	Badly, at first

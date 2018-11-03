@@ -1,0 +1,303 @@
+grid_15x15_31
+15
+0	1	1	M	0	0	3	1	MYC	0	0	3	1	MCK
+0	1	2	Y	0	0	3	0		0	1	4	1	YANK
+0	1	3	C	0	0	3	0		0	2	4	1	CPOS
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	4	0		1	6	5	0	
+0	1	4	M	0	7	4	1	MEAG	0	7	4	1	MAYI
+0	1	5	E	0	7	4	0		0	8	4	1	EROS
+0	1	6	A	0	7	4	0		0	9	4	1	AUTH
+0	1	7	G	0	7	4	0		0	10	3	1	GMA
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	8	H	0	12	3	1	HIK	0	12	10	1	HOOVERSION
+0	1	9	I	0	12	3	0		0	13	6	1	INNESS
+0	1	10	K	0	12	3	0		0	14	3	1	KKK
+0	1	11	C	1	0	5	1	CAPOT	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	4	0	
+0	0	0	P	1	0	5	0		0	2	4	0	
+0	1	12	O	1	0	5	0		1	3	6	1	OWESTO
+0	1	13	T	1	0	5	0		1	4	4	1	TANT
+1	0	0	#	1	6	5	0		2	5	3	0	
+0	1	14	H	1	6	5	1	HARUM	1	6	5	1	HOLST
+0	0	0	A	1	6	5	0		0	7	4	0	
+0	0	0	R	1	6	5	0		0	8	4	0	
+0	0	0	U	1	6	5	0		0	9	4	0	
+0	0	0	M	1	6	5	0		0	10	3	0	
+1	0	0	#	1	12	3	0		2	11	5	0	
+0	1	15	O	1	12	3	1	ONK	0	12	10	0	
+0	0	0	N	1	12	3	0		0	13	6	0	
+0	0	0	K	1	12	3	0		0	14	3	0	
+0	1	16	K	2	0	15	1	KNOWATOYOTAWONK	0	0	3	0	
+0	0	0	N	2	0	15	0		0	1	4	0	
+0	0	0	O	2	0	15	0		0	2	4	0	
+0	0	0	W	2	0	15	0		1	3	6	0	
+0	0	0	A	2	0	15	0		1	4	4	0	
+0	1	17	T	2	0	15	0		2	5	3	1	TGI
+0	0	0	O	2	0	15	0		1	6	5	0	
+0	0	0	Y	2	0	15	0		0	7	4	0	
+0	0	0	O	2	0	15	0		0	8	4	0	
+0	0	0	T	2	0	15	0		0	9	4	0	
+0	0	0	A	2	0	15	0		0	10	3	0	
+0	1	18	W	2	0	15	0		2	11	5	1	WAXED
+0	0	0	O	2	0	15	0		0	12	10	0	
+0	0	0	N	2	0	15	0		0	13	6	0	
+0	0	0	K	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	9	0		4	0	0	0	
+0	1	19	K	3	1	9	1	KSENGLISH	0	1	4	0	
+0	0	0	S	3	1	9	0		0	2	4	0	
+0	0	0	E	3	1	9	0		1	3	6	0	
+0	0	0	N	3	1	9	0		1	4	4	0	
+0	0	0	G	3	1	9	0		2	5	3	0	
+0	0	0	L	3	1	9	0		1	6	5	0	
+0	0	0	I	3	1	9	0		0	7	4	0	
+0	0	0	S	3	1	9	0		0	8	4	0	
+0	0	0	H	3	1	9	0		0	9	4	0	
+1	0	0	#	3	11	3	0		4	10	0	0	
+0	1	20	A	3	11	3	1	AVE	2	11	5	0	
+0	0	0	V	3	11	3	0		0	12	10	0	
+0	0	0	E	3	11	3	0		0	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	4	0		5	2	10	0	
+0	1	21	S	4	3	4	1	STIS	1	3	6	0	
+0	0	0	T	4	3	4	0		1	4	4	0	
+0	0	0	I	4	3	4	0		2	5	3	0	
+0	0	0	S	4	3	4	0		1	6	5	0	
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	0	0		5	9	3	0	
+1	0	0	#	4	11	3	0		5	10	4	0	
+0	1	22	X	4	11	3	1	XES	2	11	5	0	
+0	0	0	E	4	11	3	0		0	12	10	0	
+0	0	0	S	4	11	3	0		0	13	6	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	23	W	5	0	4	1	WRAT	5	0	3	1	WWW
+0	1	24	R	5	0	4	0		5	1	3	1	REI
+0	1	25	A	5	0	4	0		5	2	10	1	AGLIOEOLIO
+0	0	0	T	5	0	4	0		1	3	6	0	
+1	0	0	#	5	5	0	0		6	4	4	0	
+1	0	0	#	5	6	8	0		6	5	0	0	
+0	1	26	T	5	6	8	1	THRIVERS	1	6	5	0	
+0	1	27	H	5	6	8	0		5	7	5	1	HITME
+0	1	28	R	5	6	8	0		5	8	3	1	RMS
+0	1	29	I	5	6	8	0		5	9	3	1	IBO
+0	1	30	V	5	6	8	0		5	10	4	1	VENO
+0	0	0	E	5	6	8	0		2	11	5	0	
+0	0	0	R	5	6	8	0		0	12	10	0	
+0	0	0	S	5	6	8	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	W	6	0	5	1	WEGOT	5	0	3	0	
+0	0	0	E	6	0	5	0		5	1	3	0	
+0	0	0	G	6	0	5	0		5	2	10	0	
+0	0	0	O	6	0	5	0		1	3	6	0	
+0	1	32	T	6	0	5	0		6	4	4	1	TWIG
+1	0	0	#	6	6	0	0		7	5	3	0	
+1	0	0	#	6	7	6	0		7	6	3	0	
+0	1	33	I	6	7	6	1	IMBEDS	5	7	5	0	
+0	0	0	M	6	7	6	0		5	8	3	0	
+0	0	0	B	6	7	6	0		5	9	3	0	
+0	0	0	E	6	7	6	0		5	10	4	0	
+0	0	0	D	6	7	6	0		2	11	5	0	
+0	0	0	S	6	7	6	0		0	12	10	0	
+1	0	0	#	6	14	0	0		7	13	3	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	34	W	7	0	3	1	WIL	5	0	3	0	
+0	0	0	I	7	0	3	0		5	1	3	0	
+0	0	0	L	7	0	3	0		5	2	10	0	
+1	0	0	#	7	4	7	0		8	3	5	0	
+0	1	35	W	7	4	7	1	WAITSON	6	4	4	0	
+0	1	36	A	7	4	7	0		7	5	3	1	ADE
+0	1	37	I	7	4	7	0		7	6	3	1	IER
+0	0	0	T	7	4	7	0		5	7	5	0	
+0	0	0	S	7	4	7	0		5	8	3	0	
+0	0	0	O	7	4	7	0		5	9	3	0	
+0	0	0	N	7	4	7	0		5	10	4	0	
+1	0	0	#	7	12	3	0		8	11	6	0	
+0	1	38	I	7	12	3	1	ISA	0	12	10	0	
+0	1	39	S	7	12	3	0		7	13	3	1	SRO
+0	1	40	A	7	12	3	0		7	14	3	1	ASS
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	6	0		9	1	6	0	
+0	1	41	I	8	2	6	1	IBIDEM	5	2	10	0	
+0	1	42	B	8	2	6	0		8	3	5	1	BGIRL
+0	0	0	I	8	2	6	0		6	4	4	0	
+0	0	0	D	8	2	6	0		7	5	3	0	
+0	0	0	E	8	2	6	0		7	6	3	0	
+0	0	0	M	8	2	6	0		5	7	5	0	
+1	0	0	#	8	9	0	0		9	8	5	0	
+1	0	0	#	8	10	5	0		9	9	0	0	
+0	1	43	O	8	10	5	1	ODORS	5	10	4	0	
+0	1	44	D	8	10	5	0		8	11	6	1	DOUBTS
+0	0	0	O	8	10	5	0		0	12	10	0	
+0	0	0	R	8	10	5	0		7	13	3	0	
+0	0	0	S	8	10	5	0		7	14	3	0	
+1	0	0	#	9	1	8	0		10	0	0	0	
+0	1	45	D	9	1	8	1	DOGGEREL	9	1	6	1	DSTUDS
+0	0	0	O	9	1	8	0		5	2	10	0	
+0	0	0	G	9	1	8	0		8	3	5	0	
+0	0	0	G	9	1	8	0		6	4	4	0	
+0	0	0	E	9	1	8	0		7	5	3	0	
+0	0	0	R	9	1	8	0		7	6	3	0	
+0	0	0	E	9	1	8	0		5	7	5	0	
+0	1	46	L	9	1	8	0		9	8	5	1	LULLS
+1	0	0	#	9	10	0	0		10	9	3	0	
+1	0	0	#	9	11	4	0		10	10	4	0	
+0	1	47	O	9	11	4	1	ONOS	8	11	6	0	
+0	0	0	N	9	11	4	0		0	12	10	0	
+0	0	0	O	9	11	4	0		7	13	3	0	
+0	0	0	S	9	11	4	0		7	14	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	48	S	10	1	3	1	SEI	9	1	6	0	
+0	0	0	E	10	1	3	0		5	2	10	0	
+0	0	0	I	10	1	3	0		8	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	4	0	
+1	0	0	#	10	7	0	0		11	6	4	0	
+1	0	0	#	10	8	4	0		11	7	4	0	
+0	1	49	U	10	8	4	1	URDU	9	8	5	0	
+0	1	50	R	10	8	4	0		10	9	3	1	REA
+0	1	51	D	10	8	4	0		10	10	4	1	DRNO
+0	0	0	U	10	8	4	0		8	11	6	0	
+1	0	0	#	10	13	0	0		11	12	4	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	52	T	11	1	3	1	TOR	9	1	6	0	
+0	0	0	O	11	1	3	0		5	2	10	0	
+0	0	0	R	11	1	3	0		8	3	5	0	
+1	0	0	#	11	5	9	0		12	4	3	0	
+0	1	53	K	11	5	9	1	KILLERBBB	11	5	4	1	KEDS
+0	1	54	I	11	5	9	0		11	6	4	1	IYAR
+0	1	55	L	11	5	9	0		11	7	4	1	LEYS
+0	0	0	L	11	5	9	0		9	8	5	0	
+0	0	0	E	11	5	9	0		10	9	3	0	
+0	0	0	R	11	5	9	0		10	10	4	0	
+0	0	0	B	11	5	9	0		8	11	6	0	
+0	1	56	B	11	5	9	0		11	12	4	1	BECK
+0	1	57	B	11	5	9	0		11	13	4	1	BRAE
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	58	B	12	0	15	1	BULLSEYELANTERN	12	0	3	1	BIO
+0	0	0	U	12	0	15	0		9	1	6	0	
+0	0	0	L	12	0	15	0		5	2	10	0	
+0	0	0	L	12	0	15	0		8	3	5	0	
+0	1	59	S	12	0	15	0		12	4	3	1	SAS
+0	0	0	E	12	0	15	0		11	5	4	0	
+0	0	0	Y	12	0	15	0		11	6	4	0	
+0	0	0	E	12	0	15	0		11	7	4	0	
+0	0	0	L	12	0	15	0		9	8	5	0	
+0	0	0	A	12	0	15	0		10	9	3	0	
+0	0	0	N	12	0	15	0		10	10	4	0	
+0	0	0	T	12	0	15	0		8	11	6	0	
+0	0	0	E	12	0	15	0		11	12	4	0	
+0	0	0	R	12	0	15	0		11	13	4	0	
+0	1	60	N	12	0	15	0		12	14	3	1	NRA
+0	1	61	I	13	0	3	1	IDI	12	0	3	0	
+0	0	0	D	13	0	3	0		9	1	6	0	
+0	0	0	I	13	0	3	0		5	2	10	0	
+1	0	0	#	13	4	5	0		14	3	0	0	
+0	1	62	A	13	4	5	1	ADAYS	12	4	3	0	
+0	0	0	D	13	4	5	0		11	5	4	0	
+0	0	0	A	13	4	5	0		11	6	4	0	
+0	0	0	Y	13	4	5	0		11	7	4	0	
+0	0	0	S	13	4	5	0		9	8	5	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	63	O	13	10	5	1	OSCAR	10	10	4	0	
+0	0	0	S	13	10	5	0		8	11	6	0	
+0	0	0	C	13	10	5	0		11	12	4	0	
+0	0	0	A	13	10	5	0		11	13	4	0	
+0	0	0	R	13	10	5	0		12	14	3	0	
+0	1	64	O	14	0	3	1	OSO	12	0	3	0	
+0	0	0	S	14	0	3	0		9	1	6	0	
+0	0	0	O	14	0	3	0		5	2	10	0	
+1	0	0	#	14	4	4	0		15	3	0	0	
+0	1	65	S	14	4	4	1	SSRS	12	4	3	0	
+0	0	0	S	14	4	4	0		11	5	4	0	
+0	0	0	R	14	4	4	0		11	6	4	0	
+0	0	0	S	14	4	4	0		11	7	4	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	66	K	14	12	3	1	KEA	11	12	4	0	
+0	0	0	E	14	12	3	0		11	13	4	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+33
+1	MYC	Mushroom: Prefix
+4	MEAG	Largest employer in Newton, Iowa, until 2006
+8	HIK	Park activity
+11	CAPOT	Horse of the Year that won the 1949 Preakness and Belmont
+14	HARUM	Elvis film "___ Scarum"
+15	ONK	In tune
+16	KNOWATOYOTAWONK	Rub elbows with an expert on some Japanese cars?
+19	KSENGLISH	"Proper" speech
+20	AVE	N.Y.C.'s Madison ___
+21	STIS	Boonies
+22	XES	Tic-tac-toe side
+23	WRAT	Lab subject
+26	THRIVERS	Prospering ones
+31	WEGOT	"___ the Beat" (1982 Go-Gos hit)
+33	IMBEDS	Fixes firmly
+34	WIL	1977 "Gnomes" best-selling author Huygen
+35	WAITSON	Serves at a restaurant
+38	ISA	Bib. prophet
+41	IBIDEM	Footnote word
+43	ODORS	They may be found in sneakers
+45	DOGGEREL	Base lines?
+47	ONOS	Lennon's in-laws
+48	SEI	Variety of whale
+49	URDU	Hindi relative
+52	TOR	Windswept point
+53	KILLERBBB	Lethal stingers
+58	BULLSEYELANTERN	Night light used by Sherlock Holmes
+61	IDI	First name in dictators
+62	ADAYS	All in ___ work
+63	OSCAR	Golden award
+64	OSO	Barcelona bear
+65	SSRS	Part of Eastern Europe, once: Abbr.
+66	KEA	Mauna ___ (volcano)
+41
+1	MCK	R & B singer Brian
+2	YANK	Pull a fast one?
+3	CPOS	Navy noncoms
+4	MAYI	"Please?"
+5	EROS	Love's inspiration
+6	AUTH	Short story-writer
+7	GMA	"Today" rival, for short
+8	HOOVERSION	F.B.I. director's side of the story?
+9	INNESS	"Rainbow After a Storm" artist
+10	KKK	Hateful org.
+12	OWESTO	Has a loan from
+13	TANT	"___ pis!" ("Too bad!," in France)
+14	HOLST	Composer of "The Planets"
+17	TGI	___ Friday's (restaurant chain)
+18	WAXED	Like some floors and legs
+23	WWW	Letters in a U.R.L.
+24	REI	King, in Lisbon
+25	AGLIOEOLIO	Simple trattoria dressing
+27	HITME	Blackjack player's request
+28	RMS	Classified abbr.
+29	IBO	Writer Chinua Achebe, by birth
+30	VENO	"Arterio-" counterpart
+32	TWIG	Bit of basketwork
+36	ADE	Commercial suffix with Power
+37	IER	Occupational suffix
+39	SRO	Sign of stage success
+40	ASS	Brayer
+42	BGIRL	*Saloon floozie
+44	DOUBTS	They may be reasonable
+45	DSTUDS	Ear ornaments
+46	LULLS	Quiet times
+50	REA	"Michael Collins" actor, 1996
+51	DRNO	1962 Joseph Wiseman title role
+53	KEDS	Converse competitor
+54	IYAR	Month after Nisan
+55	LEYS	Simon who wrote "The Death of Napoleon"
+56	BECK	Call's partner
+57	BRAE	Greenock hillock
+58	BIO	Life in a library
+59	SAS	Stockholm-bound carrier
+60	NRA	Arm supporters, for short

@@ -1,0 +1,311 @@
+grid_15x15_2
+15
+0	1	1	L	0	0	3	1	LTD	0	0	3	1	LGA
+0	1	2	T	0	0	3	0		0	1	3	1	TAB
+0	1	3	D	0	0	3	0		0	2	15	1	DEERAFEMALEDEER
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	A	0	6	3	1	AFT	0	6	3	1	ABA
+0	1	5	F	0	6	3	0		0	7	3	1	FAG
+0	1	6	T	0	6	3	0		0	8	6	1	THEPEN
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	U	0	10	3	1	UGH	0	10	4	1	UNPC
+0	1	8	G	0	10	3	0		0	11	3	1	GOA
+0	1	9	H	0	10	3	0		0	12	15	1	HAMILTONONTARIO
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	G	1	0	5	1	GAELS	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	3	0	
+0	0	0	E	1	0	5	0		0	2	15	0	
+0	1	11	L	1	0	5	0		1	3	4	1	LVOV
+0	1	12	S	1	0	5	0		1	4	3	1	SEN
+1	0	0	#	1	6	3	0		2	5	6	0	
+0	1	13	B	1	6	3	1	BAH	0	6	3	0	
+0	0	0	A	1	6	3	0		0	7	3	0	
+0	0	0	H	1	6	3	0		0	8	6	0	
+1	0	0	#	1	10	4	0		2	9	0	0	
+0	1	14	N	1	10	4	1	NOAH	0	10	4	0	
+0	0	0	O	1	10	4	0		0	11	3	0	
+0	0	0	A	1	10	4	0		0	12	15	0	
+0	1	15	H	1	10	4	0		1	13	5	1	HSIMI
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	16	A	2	0	9	1	ABEVERAGE	0	0	3	0	
+0	0	0	B	2	0	9	0		0	1	3	0	
+0	0	0	E	2	0	9	0		0	2	15	0	
+0	0	0	V	2	0	9	0		1	3	4	0	
+0	0	0	E	2	0	9	0		1	4	3	0	
+0	1	17	R	2	0	9	0		2	5	6	1	RADIAL
+0	0	0	A	2	0	9	0		0	6	3	0	
+0	0	0	G	2	0	9	0		0	7	3	0	
+0	0	0	E	2	0	9	0		0	8	6	0	
+1	0	0	#	2	10	4	0		3	9	3	0	
+0	1	18	P	2	10	4	1	PAMS	0	10	4	0	
+0	0	0	A	2	10	4	0		0	11	3	0	
+0	0	0	M	2	10	4	0		0	12	15	0	
+0	0	0	S	2	10	4	0		1	13	5	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	4	0		4	1	4	0	
+0	1	19	R	3	2	4	1	RONA	0	2	15	0	
+0	0	0	O	3	2	4	0		1	3	4	0	
+0	0	0	N	3	2	4	0		1	4	3	0	
+0	0	0	A	3	2	4	0		2	5	6	0	
+1	0	0	#	3	7	0	0		4	6	4	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	20	P	3	8	3	1	PEC	0	8	6	0	
+0	1	21	E	3	8	3	0		3	9	3	1	EDT
+0	0	0	C	3	8	3	0		0	10	4	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	22	I	3	12	3	1	III	0	12	15	0	
+0	0	0	I	3	12	3	0		1	13	5	0	
+0	1	23	I	3	12	3	0		3	14	3	1	ISR
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	24	M	4	1	3	1	MAV	4	1	4	1	MONO
+0	0	0	A	4	1	3	0		0	2	15	0	
+0	0	0	V	4	1	3	0		1	3	4	0	
+1	0	0	#	4	5	5	0		5	4	0	0	
+0	1	25	D	4	5	5	1	DUKED	2	5	6	0	
+0	1	26	U	4	5	5	0		4	6	4	1	UDAY
+0	1	27	K	4	5	5	0		4	7	7	1	KEELING
+0	0	0	E	4	5	5	0		0	8	6	0	
+0	0	0	D	4	5	5	0		3	9	3	0	
+1	0	0	#	4	11	4	0		5	10	0	0	
+0	1	28	E	4	11	4	1	ELMS	4	11	3	1	ESK
+0	0	0	L	4	11	4	0		0	12	15	0	
+0	0	0	M	4	11	4	0		1	13	5	0	
+0	0	0	S	4	11	4	0		3	14	3	0	
+0	1	29	T	5	0	3	1	TOF	5	0	3	1	TUN
+0	0	0	O	5	0	3	0		4	1	4	0	
+0	0	0	F	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	0	0		6	3	0	0	
+1	0	0	#	5	5	5	0		6	4	3	0	
+0	1	30	I	5	5	5	1	IDENT	2	5	6	0	
+0	0	0	D	5	5	5	0		4	6	4	0	
+0	0	0	E	5	5	5	0		4	7	7	0	
+0	0	0	N	5	5	5	0		0	8	6	0	
+0	0	0	T	5	5	5	0		3	9	3	0	
+1	0	0	#	5	11	4	0		6	10	3	0	
+0	1	31	S	5	11	4	1	STIR	4	11	3	0	
+0	0	0	T	5	11	4	0		0	12	15	0	
+0	0	0	I	5	11	4	0		1	13	5	0	
+0	0	0	R	5	11	4	0		3	14	3	0	
+0	1	32	U	6	0	3	1	UNE	5	0	3	0	
+0	0	0	N	6	0	3	0		4	1	4	0	
+0	0	0	E	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	4	0		7	3	0	0	
+0	1	33	D	6	4	4	1	DAAE	6	4	3	1	DFC
+0	0	0	A	6	4	4	0		2	5	6	0	
+0	0	0	A	6	4	4	0		4	6	4	0	
+0	0	0	E	6	4	4	0		4	7	7	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	3	0		7	9	6	0	
+0	1	34	S	6	10	3	1	SKO	6	10	3	1	SFO
+0	0	0	K	6	10	3	0		4	11	3	0	
+0	0	0	O	6	10	3	0		0	12	15	0	
+1	0	0	#	6	14	0	0		7	13	4	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	N	7	0	3	1	NOM	5	0	3	0	
+0	0	0	O	7	0	3	0		4	1	4	0	
+0	0	0	M	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	3	0	
+0	1	36	F	7	4	7	1	FLYLEAF	6	4	3	0	
+0	0	0	L	7	4	7	0		2	5	6	0	
+0	0	0	Y	7	4	7	0		4	6	4	0	
+0	0	0	L	7	4	7	0		4	7	7	0	
+0	1	37	E	7	4	7	0		7	8	4	1	ENDS
+0	1	38	A	7	4	7	0		7	9	6	1	ADIDAS
+0	0	0	F	7	4	7	0		6	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	39	N	7	12	3	1	NEW	0	12	15	0	
+0	1	40	E	7	12	3	0		7	13	4	1	ERNS
+0	1	41	W	7	12	3	0		7	14	3	1	WEE
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	5	0	
+0	1	42	A	8	2	3	1	ACC	0	2	15	0	
+0	1	43	C	8	2	3	0		8	3	3	1	CIT
+0	0	0	C	8	2	3	0		6	4	3	0	
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	4	0		9	6	6	0	
+0	1	44	I	8	7	4	1	INDO	4	7	7	0	
+0	0	0	N	8	7	4	0		7	8	4	0	
+0	0	0	D	8	7	4	0		7	9	6	0	
+0	0	0	O	8	7	4	0		6	10	3	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	45	O	8	12	3	1	ORE	0	12	15	0	
+0	0	0	R	8	12	3	0		7	13	4	0	
+0	0	0	E	8	12	3	0		7	14	3	0	
+0	1	46	A	9	0	4	1	ATLI	9	0	3	1	APE
+0	1	47	T	9	0	4	0		9	1	5	1	TODDS
+0	0	0	L	9	0	4	0		0	2	15	0	
+0	0	0	I	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	48	R	9	5	5	1	RANDI	9	5	3	1	RLS
+0	1	49	A	9	5	5	0		9	6	6	1	AERATE
+0	0	0	N	9	5	5	0		4	7	7	0	
+0	0	0	D	9	5	5	0		7	8	4	0	
+0	0	0	I	9	5	5	0		7	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	9	12	3	0		10	11	4	0	
+0	1	50	N	9	12	3	1	NNE	0	12	15	0	
+0	0	0	N	9	12	3	0		7	13	4	0	
+0	0	0	E	9	12	3	0		7	14	3	0	
+0	1	51	P	10	0	4	1	POET	9	0	3	0	
+0	0	0	O	10	0	4	0		9	1	5	0	
+0	0	0	E	10	0	4	0		0	2	15	0	
+0	0	0	T	10	0	4	0		8	3	3	0	
+1	0	0	#	10	5	5	0		11	4	4	0	
+0	1	52	L	10	5	5	1	LEGSD	9	5	3	0	
+0	0	0	E	10	5	5	0		9	6	6	0	
+0	0	0	G	10	5	5	0		4	7	7	0	
+0	0	0	S	10	5	5	0		7	8	4	0	
+0	0	0	D	10	5	5	0		7	9	6	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	53	L	10	11	3	1	LTS	10	11	4	1	LOOK
+0	0	0	T	10	11	3	0		0	12	15	0	
+0	0	0	S	10	11	3	0		7	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	54	E	11	0	3	1	EDD	9	0	3	0	
+0	0	0	D	11	0	3	0		9	1	5	0	
+0	0	0	D	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	55	T	11	4	3	1	TSR	11	4	4	1	TIDE
+0	0	0	S	11	4	3	0		9	5	3	0	
+0	0	0	R	11	4	3	0		9	6	6	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	4	0		12	8	3	0	
+0	1	56	A	11	9	4	1	ANOA	7	9	6	0	
+0	1	57	N	11	9	4	0		11	10	3	1	NFC
+0	0	0	O	11	9	4	0		10	11	4	0	
+0	0	0	A	11	9	4	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+1	0	0	#	12	1	4	0		13	0	0	0	
+0	1	58	D	12	1	4	1	DESI	9	1	5	0	
+0	0	0	E	12	1	4	0		0	2	15	0	
+0	1	59	S	12	1	4	0		12	3	3	1	SNI
+0	0	0	I	12	1	4	0		11	4	4	0	
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	60	A	12	6	9	1	ASPSFORME	9	6	6	0	
+0	1	61	S	12	6	9	0		12	7	3	1	SNO
+0	1	62	P	12	6	9	0		12	8	3	1	PTS
+0	0	0	S	12	6	9	0		7	9	6	0	
+0	0	0	F	12	6	9	0		11	10	3	0	
+0	0	0	O	12	6	9	0		10	11	4	0	
+0	0	0	R	12	6	9	0		0	12	15	0	
+0	1	63	M	12	6	9	0		12	13	3	1	MCK
+0	1	64	E	12	6	9	0		12	14	3	1	EKE
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	65	S	13	1	4	1	SEND	9	1	5	0	
+0	0	0	E	13	1	4	0		0	2	15	0	
+0	0	0	N	13	1	4	0		12	3	3	0	
+0	0	0	D	13	1	4	0		11	4	4	0	
+1	0	0	#	13	6	3	0		14	5	0	0	
+0	1	66	T	13	6	3	1	TNT	9	6	6	0	
+0	0	0	N	13	6	3	0		12	7	3	0	
+0	0	0	T	13	6	3	0		12	8	3	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	67	C	13	10	5	1	CKICK	11	10	3	0	
+0	0	0	K	13	10	5	0		10	11	4	0	
+0	0	0	I	13	10	5	0		0	12	15	0	
+0	0	0	C	13	10	5	0		12	13	3	0	
+0	0	0	K	13	10	5	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	68	R	14	2	3	1	RIE	0	2	15	0	
+0	0	0	I	14	2	3	0		12	3	3	0	
+0	0	0	E	14	2	3	0		11	4	4	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	69	E	14	6	3	1	EOS	9	6	6	0	
+0	0	0	O	14	6	3	0		12	7	3	0	
+0	0	0	S	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	O	14	12	3	1	OKE	0	12	15	0	
+0	0	0	K	14	12	3	0		12	13	3	0	
+0	0	0	E	14	12	3	0		12	14	3	0	
+43
+1	LTD	Inc., in Britain
+4	AFT	Astern
+7	UGH	"Horrors!"
+10	GAELS	Scottish Celts
+13	BAH	Word to Cratchit
+14	NOAH	Genesis skipper
+16	ABEVERAGE	End of the quip
+18	PAMS	Actress Dawber and others
+19	RONA	Barrett known for her dish
+20	PEC	Muscle mag topic
+22	III	Sequel's sequel
+24	MAV	Dallas player, briefly
+25	DUKED	Hit with the fists
+28	ELMS	They line some old streets
+29	TOF	___ a kind (pair)
+30	IDENT	Security need: Abbr.
+31	STIR	Ado
+32	UNE	Monet's one
+33	DAAE	Christine ___, "The Phantom of the Opera" heroine
+34	SKO	Grinder
+35	NOM	[This makes me mad!]
+36	FLYLEAF	Place for an autograph
+39	NEW	Powerful ad word
+42	ACC	Duke is part of it, for short
+44	INDO	Prefix with Aryan
+45	ORE	Pay dirt
+46	ATLI	Hun king, in myth
+48	RANDI	The Amazing ___ (magician)
+50	NNE	Johannesburg-to-Nairobi dir.
+51	POET	Coffeehouse performer
+52	LEGSD	1988 Peter Allen musical
+53	LTS	Mil. figures
+54	EDD	"The Tonight Show" announcer Hall
+55	TSR	Dungeons & Dragons game co.
+56	ANOA	Small forest buffalo
+58	DESI	Big name in '50s TV
+60	ASPSFORME	Cleopatra's last request?
+65	SEND	E-mail option
+66	TNT	Coyote's supply in Road Runner cartoons
+67	CKICK	Soccer award
+68	RIE	Beginner
+69	EOS	Goddess of the morning
+70	OKE	Fine and dandy, in old slang
+39
+1	LGA	Big Apple-bound luggage tag code
+2	TAB	Opening device
+3	DEERAFEMALEDEER	Doe, in song
+4	ABA	Litigators' grp.
+5	FAG	___ end (very last part)
+6	THEPEN	It's "mightier," in a saying
+7	UNPC	Potentially insulting
+8	GOA	State whose capital is Panaji
+9	HAMILTONONTARIO	City on the Niagara Escarpment
+11	LVOV	Ukrainian city near the Polish border
+12	SEN	Person in a chamber: Abbr.
+15	HSIMI	*"If only!"
+17	RADIAL	Like sunbeams
+21	EDT	Mass. setting
+23	ISR	Medit. land
+24	MONO	Like early records
+26	UDAY	Son of Saddam
+27	KEELING	Falling (over)
+28	ESK	Northern Amer.
+29	TUN	252 wine gallons
+33	DFC	Mil. pilot's award
+34	SFO	W. Coast air hub
+37	ENDS	Far left and far right
+38	ADIDAS	Athletic shoe manufacturer
+40	ERNS	Fish-eating birds
+41	WEE	...
+43	CIT	Op. ___ (footnote abbr.)
+46	APE	Gorilla
+47	TODDS	Lincoln in-laws
+48	RLS	"Treasure Island" inits.
+49	AERATE	Make bubbly
+53	LOOK	"The way I see it ..."
+55	TIDE	Move text around
+57	NFC	Cowboys' grp.
+59	SNI	___ and snee
+61	SNO	___-Cat (winter vehicle)
+62	PTS	Scores: Abbr.
+63	MCK	R & B singer Brian
+64	EKE	___ out (just manage)

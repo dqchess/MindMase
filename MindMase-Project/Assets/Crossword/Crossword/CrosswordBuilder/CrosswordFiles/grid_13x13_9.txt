@@ -1,0 +1,233 @@
+grid_13x13_9
+13
+0	1	1	M	0	0	3	1	MAS	0	0	3	1	MRX
+0	1	2	A	0	0	3	0		0	1	3	1	AIM
+0	1	3	S	0	0	3	0		0	2	13	1	SOAPOPERATION
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	G	0	4	3	1	GNP	0	4	6	1	GOKART
+0	1	5	N	0	4	3	0		0	5	3	1	NBS
+0	1	6	P	0	4	3	0		0	6	3	1	POT
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	C	0	10	3	1	CPL	0	10	13	1	CAPITALLETTER
+0	1	8	P	0	10	3	0		0	11	9	1	PROPOSALS
+0	1	9	L	0	10	3	0		0	12	5	1	LETEM
+0	1	10	R	1	0	7	1	RIOLOBO	0	0	3	0	
+0	0	0	I	1	0	7	0		0	1	3	0	
+0	0	0	O	1	0	7	0		0	2	13	0	
+0	1	11	L	1	0	7	0		1	3	3	1	LRG
+0	0	0	O	1	0	7	0		0	4	6	0	
+0	0	0	B	1	0	7	0		0	5	3	0	
+0	0	0	O	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	5	0		2	7	3	0	
+0	1	12	S	1	8	5	1	STARE	1	8	3	1	SEN
+0	1	13	T	1	8	5	0		1	9	3	1	TSR
+0	0	0	A	1	8	5	0		0	10	13	0	
+0	0	0	R	1	8	5	0		0	11	9	0	
+0	0	0	E	1	8	5	0		0	12	5	0	
+0	1	14	X	2	0	13	1	XMARKSTHESPOT	0	0	3	0	
+0	0	0	M	2	0	13	0		0	1	3	0	
+0	0	0	A	2	0	13	0		0	2	13	0	
+0	0	0	R	2	0	13	0		1	3	3	0	
+0	0	0	K	2	0	13	0		0	4	6	0	
+0	0	0	S	2	0	13	0		0	5	3	0	
+0	0	0	T	2	0	13	0		0	6	3	0	
+0	1	15	H	2	0	13	0		2	7	3	1	HUN
+0	0	0	E	2	0	13	0		1	8	3	0	
+0	0	0	S	2	0	13	0		1	9	3	0	
+0	0	0	P	2	0	13	0		0	10	13	0	
+0	0	0	O	2	0	13	0		0	11	9	0	
+0	0	0	T	2	0	13	0		0	12	5	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	9	0	
+0	1	16	P	3	2	3	1	PGA	0	2	13	0	
+0	0	0	G	3	2	3	0		1	3	3	0	
+0	0	0	A	3	2	3	0		0	4	6	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	17	U	3	7	6	1	UNRIPE	2	7	3	0	
+0	0	0	N	3	7	6	0		1	8	3	0	
+0	0	0	R	3	7	6	0		1	9	3	0	
+0	0	0	I	3	7	6	0		0	10	13	0	
+0	0	0	P	3	7	6	0		0	11	9	0	
+0	0	0	E	3	7	6	0		0	12	5	0	
+0	1	18	E	4	0	3	1	EEO	4	0	3	1	EIS
+0	1	19	E	4	0	3	0		4	1	9	1	EMPTYNETS
+0	0	0	O	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	20	R	4	4	4	1	RRUN	0	4	6	0	
+0	1	21	R	4	4	4	0		4	5	3	1	REO
+0	1	22	U	4	4	4	0		4	6	5	1	UDINE
+0	0	0	N	4	4	4	0		2	7	3	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	23	T	4	10	3	1	TOM	0	10	13	0	
+0	0	0	O	4	10	3	0		0	11	9	0	
+0	0	0	M	4	10	3	0		0	12	5	0	
+0	1	24	I	5	0	7	1	IMPUTED	4	0	3	0	
+0	0	0	M	5	0	7	0		4	1	9	0	
+0	0	0	P	5	0	7	0		0	2	13	0	
+0	1	25	U	5	0	7	0		5	3	3	1	UDE
+0	0	0	T	5	0	7	0		0	4	6	0	
+0	0	0	E	5	0	7	0		4	5	3	0	
+0	0	0	D	5	0	7	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	26	C	5	9	3	1	CAS	5	9	3	1	CIE
+0	0	0	A	5	9	3	0		0	10	13	0	
+0	0	0	S	5	9	3	0		0	11	9	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	27	S	6	0	4	1	SPED	4	0	3	0	
+0	0	0	P	6	0	4	0		4	1	9	0	
+0	0	0	E	6	0	4	0		0	2	13	0	
+0	0	0	D	6	0	4	0		5	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	28	O	6	5	3	1	OIL	4	5	3	0	
+0	0	0	I	6	5	3	0		4	6	5	0	
+0	1	29	L	6	5	3	0		6	7	3	1	LAO
+1	0	0	#	6	9	4	0		7	8	6	0	
+0	1	30	I	6	9	4	1	ILAY	5	9	3	0	
+0	0	0	L	6	9	4	0		0	10	13	0	
+0	0	0	A	6	9	4	0		0	11	9	0	
+0	1	31	Y	6	9	4	0		6	12	3	1	YEE
+1	0	0	#	7	1	3	0		8	0	5	0	
+0	1	32	T	7	1	3	1	TRE	4	1	9	0	
+0	0	0	R	7	1	3	0		0	2	13	0	
+0	0	0	E	7	1	3	0		5	3	3	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	7	0		8	5	3	0	
+0	1	33	N	7	6	7	1	NACELLE	4	6	5	0	
+0	0	0	A	7	6	7	0		6	7	3	0	
+0	1	34	C	7	6	7	0		7	8	6	1	CLAUDE
+0	0	0	E	7	6	7	0		5	9	3	0	
+0	0	0	L	7	6	7	0		0	10	13	0	
+0	0	0	L	7	6	7	0		0	11	9	0	
+0	0	0	E	7	6	7	0		6	12	3	0	
+0	1	35	R	8	0	3	1	RYA	8	0	5	1	REGIS
+0	0	0	Y	8	0	3	0		4	1	9	0	
+0	0	0	A	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	4	0		9	4	3	0	
+0	1	36	G	8	5	4	1	GEOL	8	5	3	1	GYR
+0	0	0	E	8	5	4	0		4	6	5	0	
+0	0	0	O	8	5	4	0		6	7	3	0	
+0	0	0	L	8	5	4	0		7	8	6	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	37	E	8	10	3	1	ESE	0	10	13	0	
+0	0	0	S	8	10	3	0		0	11	9	0	
+0	0	0	E	8	10	3	0		6	12	3	0	
+0	1	38	E	9	0	6	1	ENTITY	8	0	5	0	
+0	0	0	N	9	0	6	0		4	1	9	0	
+0	0	0	T	9	0	6	0		0	2	13	0	
+0	1	39	I	9	0	6	0		9	3	3	1	IGO
+0	1	40	T	9	0	6	0		9	4	3	1	TEK
+0	0	0	Y	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	41	A	9	8	3	1	APT	7	8	6	0	
+0	1	42	P	9	8	3	0		9	9	3	1	PNC
+0	0	0	T	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	G	10	0	13	1	GEIGERCOUNTER	8	0	5	0	
+0	0	0	E	10	0	13	0		4	1	9	0	
+0	0	0	I	10	0	13	0		0	2	13	0	
+0	0	0	G	10	0	13	0		9	3	3	0	
+0	0	0	E	10	0	13	0		9	4	3	0	
+0	0	0	R	10	0	13	0		8	5	3	0	
+0	1	44	C	10	0	13	0		10	6	3	1	CRO
+0	1	45	O	10	0	13	0		10	7	3	1	OEN
+0	0	0	U	10	0	13	0		7	8	6	0	
+0	0	0	N	10	0	13	0		9	9	3	0	
+0	0	0	T	10	0	13	0		0	10	13	0	
+0	1	46	E	10	0	13	0		10	11	3	1	ELO
+0	1	47	R	10	0	13	0		10	12	3	1	RLS
+0	1	48	I	11	0	5	1	ITOOK	8	0	5	0	
+0	0	0	T	11	0	5	0		4	1	9	0	
+0	0	0	O	11	0	5	0		0	2	13	0	
+0	0	0	O	11	0	5	0		9	3	3	0	
+0	0	0	K	11	0	5	0		9	4	3	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	49	R	11	6	7	1	REDCELL	10	6	3	0	
+0	0	0	E	11	6	7	0		10	7	3	0	
+0	0	0	D	11	6	7	0		7	8	6	0	
+0	0	0	C	11	6	7	0		9	9	3	0	
+0	0	0	E	11	6	7	0		0	10	13	0	
+0	0	0	L	11	6	7	0		10	11	3	0	
+0	0	0	L	11	6	7	0		10	12	3	0	
+0	1	50	S	12	0	3	1	SSN	8	0	5	0	
+0	0	0	S	12	0	3	0		4	1	9	0	
+0	0	0	N	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	51	O	12	6	3	1	ONE	10	6	3	0	
+0	0	0	N	12	6	3	0		10	7	3	0	
+0	0	0	E	12	6	3	0		7	8	6	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	52	R	12	10	3	1	ROS	0	10	13	0	
+0	0	0	O	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+29
+1	MAS	Pas' mates
+4	GNP	Econ. statistic
+7	CPL	An N.C.O.
+10	RIOLOBO	1970 western named for a fictional Texas city
+12	STARE	It may be fixed
+14	XMARKSTHESPOT	Treasure map phrase
+16	PGA	Eagle shooters' grp.
+17	UNRIPE	Still green
+18	EEO	Abbr. in a help wanted ad
+20	RRUN	1960 Updike novel
+23	TOM	Alley denizen
+24	IMPUTED	Credited
+26	CAS	Job for un docteur
+27	SPED	Cannonballed
+28	OIL	Peanut product
+30	ILAY	"Now ___ me down..."
+32	TRE	Three, in Rome
+33	NACELLE	Enclosed part of a blimp
+35	RYA	Hand-woven Scandinavian rug
+36	GEOL	One of the phys. sciences
+37	ESE	Syracuse-to-Albany dir.
+38	ENTITY	Being
+41	APT	Like the mot juste
+43	GEIGERCOUNTER	Particle-detecting device
+48	ITOOK	"___ a trip on a train..." (Benny Goodman lyric)
+49	REDCELL	Oxygen carrier
+50	SSN	W-2 info: Abbr.
+51	ONE	Single word
+52	ROS	Bandleader Edmundo
+31
+1	MRX	Mysterious fellow
+2	AIM	Sharpshooter's gift
+3	SOAPOPERATION	"Detergent factory, e.g.?"
+4	GOKART	Kiddie racer
+5	NBS	Measurements overseer: Abbr.
+6	POT	Ale holder
+7	CAPITALLETTER	Feature replaced in four clues in this puzzle
+8	PROPOSALS	Some people kneel before them
+9	LETEM	"I'm not gonna stand in their way"
+11	LRG	Big: Abbr.
+12	SEN	Bill offerer: Abbr.
+13	TSR	Early Dungeons & Dragons co.
+15	HUN	Marauder
+18	EIS	It may block the Rhein
+19	EMPTYNETS	Fisherman's woe?
+21	REO	Stutz contemporary
+22	UDINE	Province of Italy
+25	UDE	Ulan-___, Russia
+26	CIE	Inc., abroad
+29	LAO	China's ___-tse
+31	YEE	"___-haw!"
+34	CLAUDE	Rains in the movies
+35	REGIS	TV host Philbin
+36	GYR	Spiral: Prefix
+39	IGO	"___ Crazy" (1977 Paul Davis hit)
+40	TEK	Electronic narcotic in Shatner novels
+42	PNC	___ Park, home for the Pittsburgh Pirates
+44	CRO	___-Magnon
+45	OEN	Vintner's prefix
+46	ELO	Grp. with the debut single "10538 Overture"
+47	RLS	"Kidnapped" author's inits.

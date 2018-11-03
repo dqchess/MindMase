@@ -1,0 +1,167 @@
+grid_11x11_153
+11
+0	1	1	M	0	0	3	1	MTG	0	0	5	1	MILLE
+0	1	2	T	0	0	3	0		0	1	6	1	TSMITH
+0	1	3	G	0	0	3	0		0	2	6	1	GINGER
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	6	0		1	4	0	0	
+0	1	4	B	0	5	6	1	BECOOL	0	5	3	1	BAR
+0	1	5	E	0	5	6	0		0	6	3	1	EDY
+0	1	6	C	0	5	6	0		0	7	6	1	COMEUP
+0	1	7	O	0	5	6	0		0	8	4	1	OPAH
+0	1	8	O	0	5	6	0		0	9	4	1	OTTS
+0	1	9	L	0	5	6	0		0	10	3	1	LAH
+0	1	10	I	1	0	4	1	ISIN	0	0	5	0	
+0	0	0	S	1	0	4	0		0	1	6	0	
+0	0	0	I	1	0	4	0		0	2	6	0	
+0	1	11	N	1	0	4	0		1	3	3	1	NTH
+1	0	0	#	1	5	6	0		2	4	5	0	
+0	1	12	A	1	5	6	1	ADOPTA	0	5	3	0	
+0	0	0	D	1	5	6	0		0	6	3	0	
+0	0	0	O	1	5	6	0		0	7	6	0	
+0	0	0	P	1	5	6	0		0	8	4	0	
+0	0	0	T	1	5	6	0		0	9	4	0	
+0	0	0	A	1	5	6	0		0	10	3	0	
+0	1	13	L	2	0	11	1	LMNTARYMATH	0	0	5	0	
+0	0	0	M	2	0	11	0		0	1	6	0	
+0	0	0	N	2	0	11	0		0	2	6	0	
+0	0	0	T	2	0	11	0		1	3	3	0	
+0	1	14	A	2	0	11	0		2	4	5	1	ATTYS
+0	0	0	R	2	0	11	0		0	5	3	0	
+0	0	0	Y	2	0	11	0		0	6	3	0	
+0	0	0	M	2	0	11	0		0	7	6	0	
+0	0	0	A	2	0	11	0		0	8	4	0	
+0	0	0	T	2	0	11	0		0	9	4	0	
+0	0	0	H	2	0	11	0		0	10	3	0	
+0	1	15	L	3	0	5	1	LIGHT	0	0	5	0	
+0	0	0	I	3	0	5	0		0	1	6	0	
+0	0	0	G	3	0	5	0		0	2	6	0	
+0	0	0	H	3	0	5	0		1	3	3	0	
+0	0	0	T	3	0	5	0		2	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	5	0	
+0	1	16	E	3	7	3	1	EHS	0	7	6	0	
+0	0	0	H	3	7	3	0		0	8	4	0	
+0	0	0	S	3	7	3	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	17	E	4	0	3	1	ETE	0	0	5	0	
+0	0	0	T	4	0	3	0		0	1	6	0	
+0	0	0	E	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	4	0		5	3	6	0	
+0	1	18	T	4	4	4	1	THRU	2	4	5	0	
+0	1	19	H	4	4	4	0		4	5	3	1	HCE
+0	1	20	R	4	4	4	0		4	6	5	1	RHEAS
+0	0	0	U	4	4	4	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	21	H	5	1	9	1	HRRYCHPIN	0	1	6	0	
+0	0	0	R	5	1	9	0		0	2	6	0	
+0	1	22	R	5	1	9	0		5	3	6	1	RUNOFF
+0	0	0	Y	5	1	9	0		2	4	5	0	
+0	0	0	C	5	1	9	0		4	5	3	0	
+0	0	0	H	5	1	9	0		4	6	5	0	
+0	0	0	P	5	1	9	0		0	7	6	0	
+0	1	23	I	5	1	9	0		5	8	6	1	IODATE
+0	1	24	N	5	1	9	0		5	9	6	1	NAUGHT
+1	0	0	#	5	11	0	0		6	10	5	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	4	0		7	2	4	0	
+0	1	25	U	6	3	4	1	USEE	5	3	6	0	
+0	0	0	S	6	3	4	0		2	4	5	0	
+0	0	0	E	6	3	4	0		4	5	3	0	
+0	0	0	E	6	3	4	0		4	6	5	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	26	O	6	8	3	1	OAS	5	8	6	0	
+0	0	0	A	6	8	3	0		5	9	6	0	
+0	1	27	S	6	8	3	0		6	10	5	1	SPEED
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	28	H	7	1	3	1	HIN	7	1	4	1	HILT
+0	1	29	I	7	1	3	0		7	2	4	1	ICES
+0	0	0	N	7	1	3	0		5	3	6	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	30	A	7	6	5	1	ANDUP	4	6	5	0	
+0	1	31	N	7	6	5	0		7	7	3	1	NCO
+0	0	0	D	7	6	5	0		5	8	6	0	
+0	0	0	U	7	6	5	0		5	9	6	0	
+0	0	0	P	7	6	5	0		6	10	5	0	
+0	1	32	N	8	0	11	1	NICOLASCAGE	8	0	3	1	NOI
+0	0	0	I	8	0	11	0		7	1	4	0	
+0	0	0	C	8	0	11	0		7	2	4	0	
+0	0	0	O	8	0	11	0		5	3	6	0	
+0	1	33	L	8	0	11	0		8	4	3	1	LIU
+0	1	34	A	8	0	11	0		8	5	3	1	ANN
+0	0	0	S	8	0	11	0		4	6	5	0	
+0	0	0	C	8	0	11	0		7	7	3	0	
+0	0	0	A	8	0	11	0		5	8	6	0	
+0	0	0	G	8	0	11	0		5	9	6	0	
+0	0	0	E	8	0	11	0		6	10	5	0	
+0	1	35	O	9	0	6	1	OLEFIN	8	0	3	0	
+0	0	0	L	9	0	6	0		7	1	4	0	
+0	0	0	E	9	0	6	0		7	2	4	0	
+0	0	0	F	9	0	6	0		5	3	6	0	
+0	0	0	I	9	0	6	0		8	4	3	0	
+0	0	0	N	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	36	O	9	7	4	1	OTHE	7	7	3	0	
+0	0	0	T	9	7	4	0		5	8	6	0	
+0	0	0	H	9	7	4	0		5	9	6	0	
+0	0	0	E	9	7	4	0		6	10	5	0	
+0	1	37	I	10	0	6	1	ITSFUN	8	0	3	0	
+0	0	0	T	10	0	6	0		7	1	4	0	
+0	0	0	S	10	0	6	0		7	2	4	0	
+0	0	0	F	10	0	6	0		5	3	6	0	
+0	0	0	U	10	0	6	0		8	4	3	0	
+0	0	0	N	10	0	6	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	38	E	10	8	3	1	ETD	5	8	6	0	
+0	0	0	T	10	8	3	0		5	9	6	0	
+0	0	0	D	10	8	3	0		6	10	5	0	
+19
+1	MTG	Part of an office sched.
+4	BECOOL	"Take a chill pill!"
+10	ISIN	"The doctor ___"
+12	ADOPTA	Highway or Pet lead-in
+13	LMNTARYMATH	1 + 1 = 2, e.g.
+15	LIGHT	Traffic controller
+16	EHS	Uninspired reactions
+17	ETE	Chaud period
+18	THRU	"No ___ traffic"
+21	HRRYCHPIN	Laughing 1970's singer?
+25	USEE	Certain plaintiff, at law
+26	OAS	Some draft picks
+28	HIN	Ancient Hebrew liquid measure
+30	ANDUP	Ending words in a price
+32	NICOLASCAGE	Actor whose first credited role was in "Rumble Fish"
+35	OLEFIN	Herculon's fiber
+36	OTHE	"Top ___ mornin'!"
+37	ITSFUN	"You'll enjoy this"
+38	ETD	LAX posting
+23
+1	MILLE	A thousand, in France
+2	TSMITH	Artisan whose work is featured in this puzzle?
+3	GINGER	Teriyaki ingredient
+4	BAR	Kind of graph
+5	EDY	Ice cream mogul Joseph
+6	COMEUP	Arise
+7	OPAH	Sashimi fish
+8	OTTS	Giant Mel et al.
+9	LAH	"Well, ___-di- dah!"
+11	NTH	Certain power
+14	ATTYS	Some partners: Abbr.
+19	HCE	Therefore
+20	RHEAS	Ostrichlike birds
+22	RUNOFF	Make copies of
+23	IODATE	Halogen salt
+24	NAUGHT	Nothingness
+27	SPEED	"The primary factor in a successful attack," per Lord Mountbatten
+28	HILT	Sword handle
+29	ICES	Desserts that give chills
+31	NCO	Chevron sporter: Abbr.
+32	NOI	"There is ___ in team"
+33	LIU	Sch. in Brooklyn
+34	ANN	Lee who founded the Shakers

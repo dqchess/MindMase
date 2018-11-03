@@ -1,0 +1,233 @@
+grid_13x13_27
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	B	0	1	3	1	BRO	0	1	5	1	BOLAN
+0	1	2	R	0	1	3	0		0	2	5	1	RNASE
+0	1	3	O	0	1	3	0		0	3	4	1	OSIP
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	B	0	5	3	1	BHA	0	5	3	1	BCE
+0	1	5	H	0	5	3	0		0	6	3	1	HAM
+0	1	6	A	0	5	3	0		0	7	4	1	ALAP
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	S	0	10	3	1	SSS	0	10	7	1	SPATULA
+0	1	8	S	0	10	3	0		0	11	7	1	SENECAN
+0	1	9	S	0	10	3	0		0	12	6	1	SEELEY
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	10	O	1	1	3	1	ONS	0	1	5	0	
+0	0	0	N	1	1	3	0		0	2	5	0	
+0	0	0	S	1	1	3	0		0	3	4	0	
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	11	C	1	5	4	1	CALM	0	5	3	0	
+0	0	0	A	1	5	4	0		0	6	3	0	
+0	0	0	L	1	5	4	0		0	7	4	0	
+0	1	12	M	1	5	4	0		1	8	3	1	MYA
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	13	P	1	10	3	1	PEE	0	10	7	0	
+0	0	0	E	1	10	3	0		0	11	7	0	
+0	0	0	E	1	10	3	0		0	12	6	0	
+0	1	14	E	2	0	9	1	ELAINEMAY	2	0	3	1	ERO
+0	0	0	L	2	0	9	0		0	1	5	0	
+0	0	0	A	2	0	9	0		0	2	5	0	
+0	0	0	I	2	0	9	0		0	3	4	0	
+0	1	15	N	2	0	9	0		2	4	5	1	NYALA
+0	0	0	E	2	0	9	0		0	5	3	0	
+0	0	0	M	2	0	9	0		0	6	3	0	
+0	0	0	A	2	0	9	0		0	7	4	0	
+0	0	0	Y	2	0	9	0		1	8	3	0	
+1	0	0	#	2	10	3	0		3	9	5	0	
+0	1	16	A	2	10	3	1	ANE	0	10	7	0	
+0	0	0	N	2	10	3	0		0	11	7	0	
+0	0	0	E	2	10	3	0		0	12	6	0	
+0	1	17	R	3	0	5	1	RASPY	2	0	3	0	
+0	0	0	A	3	0	5	0		0	1	5	0	
+0	0	0	S	3	0	5	0		0	2	5	0	
+0	0	0	P	3	0	5	0		0	3	4	0	
+0	0	0	Y	3	0	5	0		2	4	5	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	18	P	3	7	6	1	PASTEL	0	7	4	0	
+0	0	0	A	3	7	6	0		1	8	3	0	
+0	1	19	S	3	7	6	0		3	9	5	1	SPICY
+0	0	0	T	3	7	6	0		0	10	7	0	
+0	0	0	E	3	7	6	0		0	11	7	0	
+0	0	0	L	3	7	6	0		0	12	6	0	
+0	1	20	O	4	0	3	1	ONE	2	0	3	0	
+0	0	0	N	4	0	3	0		0	1	5	0	
+0	0	0	E	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	3	0		5	3	5	0	
+0	1	21	A	4	4	3	1	AST	2	4	5	0	
+0	1	22	S	4	4	3	0		4	5	4	1	SUMP
+0	1	23	T	4	4	3	0		4	6	5	1	TREET
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	24	P	4	9	4	1	PUCE	3	9	5	0	
+0	0	0	U	4	9	4	0		0	10	7	0	
+0	0	0	C	4	9	4	0		0	11	7	0	
+0	0	0	E	4	9	4	0		0	12	6	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	7	0	
+1	0	0	#	5	3	5	0		6	2	7	0	
+0	1	25	S	5	3	5	1	SLURP	5	3	5	1	SLING
+0	0	0	L	5	3	5	0		2	4	5	0	
+0	0	0	U	5	3	5	0		4	5	4	0	
+0	0	0	R	5	3	5	0		4	6	5	0	
+0	1	26	P	5	3	5	0		5	7	4	1	PRAM
+1	0	0	#	5	9	4	0		6	8	5	0	
+0	1	27	I	5	9	4	1	ILAY	3	9	5	0	
+0	0	0	L	5	9	4	0		0	10	7	0	
+0	0	0	A	5	9	4	0		0	11	7	0	
+0	0	0	Y	5	9	4	0		0	12	6	0	
+1	0	0	#	6	1	11	0		7	0	6	0	
+0	1	28	A	6	1	11	1	ALLAMERICAN	6	1	7	1	ALLUDED
+0	1	29	L	6	1	11	0		6	2	7	1	LOANERS
+0	0	0	L	6	1	11	0		5	3	5	0	
+0	0	0	A	6	1	11	0		2	4	5	0	
+0	0	0	M	6	1	11	0		4	5	4	0	
+0	0	0	E	6	1	11	0		4	6	5	0	
+0	0	0	R	6	1	11	0		5	7	4	0	
+0	1	30	I	6	1	11	0		6	8	5	1	ITISA
+0	0	0	C	6	1	11	0		3	9	5	0	
+0	0	0	A	6	1	11	0		0	10	7	0	
+0	0	0	N	6	1	11	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	31	E	7	0	4	1	ELOI	7	0	6	1	EASING
+0	0	0	L	7	0	4	0		6	1	7	0	
+0	0	0	O	7	0	4	0		6	2	7	0	
+0	0	0	I	7	0	4	0		5	3	5	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	32	P	7	5	5	1	PEATY	4	5	4	0	
+0	0	0	E	7	5	5	0		4	6	5	0	
+0	0	0	A	7	5	5	0		5	7	4	0	
+0	0	0	T	7	5	5	0		6	8	5	0	
+0	0	0	Y	7	5	5	0		3	9	5	0	
+1	0	0	#	7	11	0	0		8	10	5	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	33	A	8	0	4	1	ALAN	7	0	6	0	
+0	0	0	L	8	0	4	0		6	1	7	0	
+0	0	0	A	8	0	4	0		6	2	7	0	
+0	0	0	N	8	0	4	0		5	3	5	0	
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	3	0		9	5	4	0	
+0	1	34	T	8	6	3	1	TMI	4	6	5	0	
+0	0	0	M	8	6	3	0		5	7	4	0	
+0	0	0	I	8	6	3	0		6	8	5	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	35	F	8	10	3	1	FMS	8	10	5	1	FIANE
+0	1	36	M	8	10	3	0		8	11	5	1	MRHYD
+0	1	37	S	8	10	3	0		8	12	3	1	SOA
+0	1	38	S	9	0	6	1	SUNGTO	7	0	6	0	
+0	0	0	U	9	0	6	0		6	1	7	0	
+0	0	0	N	9	0	6	0		6	2	7	0	
+0	0	0	G	9	0	6	0		5	3	5	0	
+0	1	39	T	9	0	6	0		9	4	3	1	TOM
+0	1	40	O	9	0	6	0		9	5	4	1	OMIO
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	5	0		10	7	3	0	
+0	1	41	S	9	8	5	1	SPIRO	6	8	5	0	
+0	1	42	P	9	8	5	0		9	9	4	1	PHDS
+0	0	0	I	9	8	5	0		8	10	5	0	
+0	0	0	R	9	8	5	0		8	11	5	0	
+0	0	0	O	9	8	5	0		8	12	3	0	
+0	1	43	I	10	0	3	1	IDE	7	0	6	0	
+0	0	0	D	10	0	3	0		6	1	7	0	
+0	0	0	E	10	0	3	0		6	2	7	0	
+1	0	0	#	10	4	9	0		11	3	0	0	
+0	1	44	O	10	4	9	1	OMAHAHAHA	9	4	3	0	
+0	0	0	M	10	4	9	0		9	5	4	0	
+0	1	45	A	10	4	9	0		10	6	3	1	ABC
+0	1	46	H	10	4	9	0		10	7	3	1	HST
+0	0	0	A	10	4	9	0		6	8	5	0	
+0	0	0	H	10	4	9	0		9	9	4	0	
+0	0	0	A	10	4	9	0		8	10	5	0	
+0	0	0	H	10	4	9	0		8	11	5	0	
+0	0	0	A	10	4	9	0		8	12	3	0	
+0	1	47	N	11	0	3	1	NER	7	0	6	0	
+0	0	0	E	11	0	3	0		6	1	7	0	
+0	0	0	R	11	0	3	0		6	2	7	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	48	M	11	4	4	1	MIBS	9	4	3	0	
+0	0	0	I	11	4	4	0		9	5	4	0	
+0	0	0	B	11	4	4	0		10	6	3	0	
+0	0	0	S	11	4	4	0		10	7	3	0	
+1	0	0	#	11	9	3	0		12	8	0	0	
+0	1	49	D	11	9	3	1	DNY	9	9	4	0	
+0	0	0	N	11	9	3	0		8	10	5	0	
+0	0	0	Y	11	9	3	0		8	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	50	G	12	0	3	1	GDS	7	0	6	0	
+0	0	0	D	12	0	3	0		6	1	7	0	
+0	0	0	S	12	0	3	0		6	2	7	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	51	O	12	5	3	1	OCT	9	5	4	0	
+0	0	0	C	12	5	3	0		10	6	3	0	
+0	0	0	T	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	52	S	12	9	3	1	SED	9	9	4	0	
+0	0	0	E	12	9	3	0		8	10	5	0	
+0	0	0	D	12	9	3	0		8	11	5	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	BRO	Pal, colloquially
+4	BHA	Food preservative, briefly
+7	SSS	Former lottery org.
+10	ONS	Walk-___
+11	CALM	Pacific
+13	PEE	Eta : aitch :: rho : ___
+14	ELAINEMAY	1998 Best Screenplay nominee for "Primary Colors"
+16	ANE	"Wheel of Fortune" buy
+17	RASPY	Like W. C. Fields's voice
+18	PASTEL	Cassatt medium
+20	ONE	Point value in Scrabble of every letter in this puzzle
+21	AST	Neighbor of Ger. and Hung.
+24	PUCE	Brownish purple
+25	SLURP	Eat noisily
+27	ILAY	"As ___ Dying"
+28	ALLAMERICAN	Elite athlete
+31	ELOI	H. G. Wells people
+32	PEATY	Like bogs
+33	ALAN	Lyricist Bergman
+34	TMI	Pa. nuclear accident site, 1979
+35	FMS	Some radios, for short
+38	SUNGTO	Serenaded
+41	SPIRO	Vice President Agnew
+43	IDE	Suffix with glycer-
+44	OMAHAHAHA	Response to a Nebraskan's gag?
+47	NER	___ Tamid (synagogue lamp)
+48	MIBS	Marbles game
+49	DNY	Letters after Daniel Moynihan's name
+50	GDS	Mdse.
+51	OCT	National Boss Day mo.
+52	SED	Supported
+29
+1	BOLAN	Pakistan's ___ Pass
+2	RNASE	Biochemical enzyme, briefly
+3	OSIP	Poet Mandelstam
+4	BCE	Pre-A.D.
+5	HAM	Eggs Benedict need
+6	ALAP	Gain ___ (get ahead in a race)
+7	SPATULA	Icing tool
+8	SENECAN	Like some Roman tragedies
+9	SEELEY	Old vaudeville actress Blossom
+12	MYA	One-named singer seen in "Dirty Dancing: Havana Nights"
+14	ERO	Back on the ranch?
+15	NYALA	African antelope
+19	SPICY	Hot
+22	SUMP	Cesspool
+23	TREET	Questionable cradle location
+25	SLING	Armrest?
+26	PRAM	Coventry park sight
+28	ALLUDED	Referred
+29	LOANERS	Car dealers' offerings
+30	ITISA	"___ far far better thing ...": Dickens
+31	EASING	Facilitating
+35	FIANE	Intended
+36	MRHYD	Literary alter ego
+37	SOA	"___ wise guy, eh?"
+39	TOM	Mr. Cat
+40	OMIO	"___ babbino caro" (Puccini aria)
+42	PHDS	Degrees of excellence?
+45	ABC	Paradigm of easiness
+46	HST	1940s presidential inits.

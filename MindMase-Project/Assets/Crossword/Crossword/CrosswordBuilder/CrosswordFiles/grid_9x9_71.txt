@@ -1,0 +1,115 @@
+grid_9x9_71
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	P	0	1	3	1	PAS	0	1	5	1	PERIT
+0	1	2	A	0	1	3	0		0	2	9	1	ATONALITY
+0	1	3	S	0	1	3	0		0	3	3	1	STG
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	R	0	6	3	1	RAJ	0	6	9	1	ROOTEDOUT
+0	1	5	A	0	6	3	0		0	7	3	1	AAU
+0	1	6	J	0	6	3	0		0	8	3	1	JRS
+0	1	7	G	1	0	5	1	GETTO	1	0	3	1	GEE
+0	0	0	E	1	0	5	0		0	1	5	0	
+0	0	0	T	1	0	5	0		0	2	9	0	
+0	0	0	T	1	0	5	0		0	3	3	0	
+0	1	8	O	1	0	5	0		1	4	7	1	OETEGAB
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	O	1	6	3	1	OAR	0	6	9	0	
+0	0	0	A	1	6	3	0		0	7	3	0	
+0	0	0	R	1	6	3	0		0	8	3	0	
+0	1	10	E	2	0	9	1	EROGENOUS	1	0	3	0	
+0	0	0	R	2	0	9	0		0	1	5	0	
+0	0	0	O	2	0	9	0		0	2	9	0	
+0	0	0	G	2	0	9	0		0	3	3	0	
+0	0	0	E	2	0	9	0		1	4	7	0	
+0	1	11	N	2	0	9	0		2	5	3	1	NIT
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	U	2	0	9	0		0	7	3	0	
+0	0	0	S	2	0	9	0		0	8	3	0	
+0	1	12	E	3	0	3	1	EIN	1	0	3	0	
+0	0	0	I	3	0	3	0		0	1	5	0	
+0	0	0	N	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	T	3	4	3	1	TIT	1	4	7	0	
+0	0	0	I	3	4	3	0		2	5	3	0	
+0	0	0	T	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	T	4	1	7	1	TAKETEA	0	1	5	0	
+0	0	0	A	4	1	7	0		0	2	9	0	
+0	1	15	K	4	1	7	0		4	3	3	1	KON
+0	0	0	E	4	1	7	0		1	4	7	0	
+0	0	0	T	4	1	7	0		2	5	3	0	
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	1	16	A	4	1	7	0		4	7	5	1	AESIR
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	L	5	2	3	1	LOG	0	2	9	0	
+0	0	0	O	5	2	3	0		4	3	3	0	
+0	0	0	G	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	D	5	6	3	1	DEF	0	6	9	0	
+0	0	0	E	5	6	3	0		4	7	5	0	
+0	1	19	F	5	6	3	0		5	8	3	1	FEN
+0	1	20	C	6	0	9	1	CHINAROSE	6	0	3	1	CES
+0	1	21	H	6	0	9	0		6	1	3	1	HCH
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	0	0	N	6	0	9	0		4	3	3	0	
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	1	22	R	6	0	9	0		6	5	3	1	RRS
+0	0	0	O	6	0	9	0		0	6	9	0	
+0	0	0	S	6	0	9	0		4	7	5	0	
+0	0	0	E	6	0	9	0		5	8	3	0	
+0	1	23	E	7	0	3	1	ECT	6	0	3	0	
+0	0	0	C	7	0	3	0		6	1	3	0	
+0	0	0	T	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	B	7	4	5	1	BRUIN	1	4	7	0	
+0	0	0	R	7	4	5	0		6	5	3	0	
+0	0	0	U	7	4	5	0		0	6	9	0	
+0	0	0	I	7	4	5	0		4	7	5	0	
+0	0	0	N	7	4	5	0		5	8	3	0	
+0	1	25	S	8	0	3	1	SHY	6	0	3	0	
+0	0	0	H	8	0	3	0		6	1	3	0	
+0	0	0	Y	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	S	8	5	3	1	STR	6	5	3	0	
+0	0	0	T	8	5	3	0		0	6	9	0	
+0	0	0	R	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	PAS	Things that talk in sch.?
+4	RAJ	Paul Scott series "The ___ Quartet"
+7	GETTO	Arrive at
+9	OAR	Dory feature
+10	EROGENOUS	Kind of zone
+12	EIN	A, in Austria
+13	TIT	Thick-plumed songbird
+14	TAKETEA	Have a break at 4:00, say
+17	LOG	Journal
+18	DEF	It may follow an etym.
+20	CHINAROSE	Garden bloomer
+23	ECT	External: Prefix
+24	BRUIN	Boston N.H.L.'er
+25	SHY	Unlikely to raise one's hand in class
+26	STR	Bering, for one: Abbr.
+15
+1	PERIT	Birthstone for most Leos
+2	ATONALITY	Quality of Bart
+3	STG	Brit. money
+4	ROOTEDOUT	Expunged
+5	AAU	Sports org.
+6	JRS	Univ. class
+7	GEE	"Hmmm"
+8	OETEGAB	Some Diego Rivera works
+11	NIT	Tiny carp?
+15	KON	___-Tiki
+16	AESIR	Race of Norse gods
+19	FEN	Wet lowland
+20	CES	These, overseas
+21	HCH	White House monogram
+22	RRS	Monopoly properties: Abbr.

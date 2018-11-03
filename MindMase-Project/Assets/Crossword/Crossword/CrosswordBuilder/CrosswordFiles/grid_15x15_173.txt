@@ -1,0 +1,307 @@
+grid_15x15_173
+15
+0	1	1	L	0	0	3	1	LRG	0	0	3	1	LLB
+0	1	2	R	0	0	3	0		0	1	8	1	RARAAVIS
+0	1	3	G	0	0	3	0		0	2	8	1	GRINDERS
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	M	0	4	3	1	MUD	0	4	3	1	MSG
+0	1	5	U	0	4	3	0		0	5	6	1	UPMOST
+0	1	6	D	0	4	3	0		0	6	5	1	DUEIN
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	P	0	10	3	1	PSI	0	10	3	1	PHI
+0	1	8	S	0	10	3	0		0	11	5	1	SOCAL
+0	1	9	I	0	10	3	0		0	12	6	1	IROBOT
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	5	0	
+0	1	10	L	1	0	9	1	LARKSPURS	0	0	3	0	
+0	0	0	A	1	0	9	0		0	1	8	0	
+0	0	0	R	1	0	9	0		0	2	8	0	
+0	1	11	K	1	0	9	0		1	3	3	1	KNE
+0	0	0	S	1	0	9	0		0	4	3	0	
+0	0	0	P	1	0	9	0		0	5	6	0	
+0	0	0	U	1	0	9	0		0	6	5	0	
+0	1	12	R	1	0	9	0		1	7	4	1	RALE
+0	1	13	S	1	0	9	0		1	8	3	1	SUE
+1	0	0	#	1	10	5	0		2	9	6	0	
+0	1	14	H	1	10	5	1	HORDE	0	10	3	0	
+0	0	0	O	1	10	5	0		0	11	5	0	
+0	0	0	R	1	10	5	0		0	12	6	0	
+0	1	15	D	1	10	5	0		1	13	5	1	DRIES
+0	1	16	E	1	10	5	0		1	14	5	1	ENTSE
+0	1	17	B	2	0	15	1	BRINGMEAUNICORN	0	0	3	0	
+0	0	0	R	2	0	15	0		0	1	8	0	
+0	0	0	I	2	0	15	0		0	2	8	0	
+0	0	0	N	2	0	15	0		1	3	3	0	
+0	0	0	G	2	0	15	0		0	4	3	0	
+0	0	0	M	2	0	15	0		0	5	6	0	
+0	0	0	E	2	0	15	0		0	6	5	0	
+0	0	0	A	2	0	15	0		1	7	4	0	
+0	0	0	U	2	0	15	0		1	8	3	0	
+0	1	18	N	2	0	15	0		2	9	6	1	NDHJEP
+0	0	0	I	2	0	15	0		0	10	3	0	
+0	0	0	C	2	0	15	0		0	11	5	0	
+0	0	0	O	2	0	15	0		0	12	6	0	
+0	0	0	R	2	0	15	0		1	13	5	0	
+0	0	0	N	2	0	15	0		1	14	5	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	19	A	3	1	3	1	ANE	0	1	8	0	
+0	0	0	N	3	1	3	0		0	2	8	0	
+0	0	0	E	3	1	3	0		1	3	3	0	
+1	0	0	#	3	5	5	0		4	4	3	0	
+0	1	20	O	3	5	5	1	OILED	0	5	6	0	
+0	0	0	I	3	5	5	0		0	6	5	0	
+0	0	0	L	3	5	5	0		1	7	4	0	
+0	0	0	E	3	5	5	0		1	8	3	0	
+0	0	0	D	3	5	5	0		2	9	6	0	
+1	0	0	#	3	11	4	0		4	10	3	0	
+0	1	21	A	3	11	4	1	ABIT	0	11	5	0	
+0	0	0	B	3	11	4	0		0	12	6	0	
+0	0	0	I	3	11	4	0		1	13	5	0	
+0	0	0	T	3	11	4	0		1	14	5	0	
+0	1	22	P	4	0	3	1	PAD	4	0	3	1	POD
+0	0	0	A	4	0	3	0		0	1	8	0	
+0	0	0	D	4	0	3	0		0	2	8	0	
+1	0	0	#	4	4	4	0		5	3	4	0	
+0	1	23	C	4	4	4	1	CSNE	4	4	3	1	CIR
+0	0	0	S	4	4	4	0		0	5	6	0	
+0	0	0	N	4	4	4	0		0	6	5	0	
+0	0	0	E	4	4	4	0		1	7	4	0	
+1	0	0	#	4	9	6	0		5	8	4	0	
+0	1	24	H	4	9	6	1	HALOES	2	9	6	0	
+0	1	25	A	4	9	6	0		4	10	3	1	AOK
+0	0	0	L	4	9	6	0		0	11	5	0	
+0	0	0	O	4	9	6	0		0	12	6	0	
+0	0	0	E	4	9	6	0		1	13	5	0	
+0	0	0	S	4	9	6	0		1	14	5	0	
+0	1	26	O	5	0	6	1	OVERIT	4	0	3	0	
+0	0	0	V	5	0	6	0		0	1	8	0	
+0	0	0	E	5	0	6	0		0	2	8	0	
+0	1	27	R	5	0	6	0		5	3	4	1	RENI
+0	0	0	I	5	0	6	0		4	4	3	0	
+0	0	0	T	5	0	6	0		0	5	6	0	
+1	0	0	#	5	7	0	0		6	6	4	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	28	X	5	8	3	1	XJO	5	8	4	1	XERS
+0	0	0	J	5	8	3	0		2	9	6	0	
+0	0	0	O	5	8	3	0		4	10	3	0	
+1	0	0	#	5	12	3	0		6	11	4	0	
+0	1	29	T	5	12	3	1	TSE	0	12	6	0	
+0	0	0	S	5	12	3	0		1	13	5	0	
+0	0	0	E	5	12	3	0		1	14	5	0	
+0	1	30	D	6	0	5	1	DIRER	4	0	3	0	
+0	0	0	I	6	0	5	0		0	1	8	0	
+0	0	0	R	6	0	5	0		0	2	8	0	
+0	0	0	E	6	0	5	0		5	3	4	0	
+0	0	0	R	6	0	5	0		4	4	3	0	
+1	0	0	#	6	6	6	0		7	5	6	0	
+0	1	31	C	6	6	6	1	CLEEKS	6	6	4	1	CHEW
+0	1	32	L	6	6	6	0		6	7	3	1	LAN
+0	0	0	E	6	6	6	0		5	8	4	0	
+0	0	0	E	6	6	6	0		2	9	6	0	
+0	0	0	K	6	6	6	0		4	10	3	0	
+0	1	33	S	6	6	6	0		6	11	4	1	SKEG
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	34	S	7	1	3	1	SSN	0	1	8	0	
+0	0	0	S	7	1	3	0		0	2	8	0	
+0	0	0	N	7	1	3	0		5	3	4	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	35	S	7	5	5	1	SHARP	7	5	6	1	STRAUB
+0	0	0	H	7	5	5	0		6	6	4	0	
+0	0	0	A	7	5	5	0		6	7	3	0	
+0	0	0	R	7	5	5	0		5	8	4	0	
+0	0	0	P	7	5	5	0		2	9	6	0	
+1	0	0	#	7	11	3	0		8	10	3	0	
+0	1	36	K	7	11	3	1	KIR	6	11	4	0	
+0	1	37	I	7	11	3	0		7	12	8	1	INTAGLIO
+0	1	38	R	7	11	3	0		7	13	8	1	REELSOFF
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	0	0		9	0	5	0	
+1	0	0	#	8	2	0	0		9	1	5	0	
+1	0	0	#	8	3	6	0		9	2	6	0	
+0	1	39	I	8	3	6	1	INTENS	5	3	4	0	
+0	1	40	N	8	3	6	0		8	4	3	1	NTS
+0	0	0	T	8	3	6	0		7	5	6	0	
+0	0	0	E	8	3	6	0		6	6	4	0	
+0	0	0	N	8	3	6	0		6	7	3	0	
+0	0	0	S	8	3	6	0		5	8	4	0	
+1	0	0	#	8	10	5	0		9	9	6	0	
+0	1	41	R	8	10	5	1	RENES	8	10	3	1	RIT
+0	0	0	E	8	10	5	0		6	11	4	0	
+0	0	0	N	8	10	5	0		7	12	8	0	
+0	0	0	E	8	10	5	0		7	13	8	0	
+0	1	42	S	8	10	5	0		8	14	3	1	SNE
+0	1	43	S	9	0	3	1	STR	9	0	5	1	STELE
+0	1	44	T	9	0	3	0		9	1	5	1	THEIN
+0	1	45	R	9	0	3	0		9	2	6	1	REEKOF
+1	0	0	#	9	4	3	0		10	3	5	0	
+0	1	46	T	9	4	3	1	TRW	8	4	3	0	
+0	0	0	R	9	4	3	0		7	5	6	0	
+0	0	0	W	9	4	3	0		6	6	4	0	
+1	0	0	#	9	8	0	0		10	7	4	0	
+1	0	0	#	9	9	6	0		10	8	5	0	
+0	1	47	B	9	9	6	1	BIGTEN	9	9	6	1	BIPODS
+0	0	0	I	9	9	6	0		8	10	3	0	
+0	0	0	G	9	9	6	0		6	11	4	0	
+0	0	0	T	9	9	6	0		7	12	8	0	
+0	0	0	E	9	9	6	0		7	13	8	0	
+0	0	0	N	9	9	6	0		8	14	3	0	
+0	1	48	T	10	0	6	1	THEUSA	9	0	5	0	
+0	0	0	H	10	0	6	0		9	1	5	0	
+0	0	0	E	10	0	6	0		9	2	6	0	
+0	1	49	U	10	0	6	0		10	3	5	1	USERS
+0	0	0	S	10	0	6	0		8	4	3	0	
+0	0	0	A	10	0	6	0		7	5	6	0	
+1	0	0	#	10	7	4	0		11	6	3	0	
+0	1	50	F	10	7	4	1	FAIT	10	7	4	1	FUME
+0	1	51	A	10	7	4	0		10	8	5	1	ARPEL
+0	0	0	I	10	7	4	0		9	9	6	0	
+0	0	0	T	10	7	4	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	3	0	
+0	1	52	A	10	12	3	1	ALE	7	12	8	0	
+0	0	0	L	10	12	3	0		7	13	8	0	
+0	0	0	E	10	12	3	0		8	14	3	0	
+0	1	53	E	11	0	4	1	EEES	9	0	5	0	
+0	0	0	E	11	0	4	0		9	1	5	0	
+0	0	0	E	11	0	4	0		9	2	6	0	
+0	0	0	S	11	0	4	0		10	3	5	0	
+1	0	0	#	11	5	5	0		12	4	3	0	
+0	1	54	U	11	5	5	1	USURP	7	5	6	0	
+0	1	55	S	11	5	5	0		11	6	3	1	SUN
+0	0	0	U	11	5	5	0		10	7	4	0	
+0	0	0	R	11	5	5	0		10	8	5	0	
+0	0	0	P	11	5	5	0		9	9	6	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	56	L	11	11	3	1	LGS	11	11	3	1	LAL
+0	0	0	G	11	11	3	0		7	12	8	0	
+0	0	0	S	11	11	3	0		7	13	8	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	L	12	0	15	1	LIKEABUMPONALOG	9	0	5	0	
+0	0	0	I	12	0	15	0		9	1	5	0	
+0	0	0	K	12	0	15	0		9	2	6	0	
+0	0	0	E	12	0	15	0		10	3	5	0	
+0	1	58	A	12	0	15	0		12	4	3	1	AMU
+0	0	0	B	12	0	15	0		7	5	6	0	
+0	0	0	U	12	0	15	0		11	6	3	0	
+0	0	0	M	12	0	15	0		10	7	4	0	
+0	0	0	P	12	0	15	0		10	8	5	0	
+0	0	0	O	12	0	15	0		9	9	6	0	
+0	1	59	N	12	0	15	0		12	10	3	1	NAT
+0	0	0	A	12	0	15	0		11	11	3	0	
+0	0	0	L	12	0	15	0		7	12	8	0	
+0	0	0	O	12	0	15	0		7	13	8	0	
+0	1	60	G	12	0	15	0		12	14	3	1	GTE
+0	1	61	E	13	0	5	1	ENORM	9	0	5	0	
+0	0	0	N	13	0	5	0		9	1	5	0	
+0	0	0	O	13	0	5	0		9	2	6	0	
+0	0	0	R	13	0	5	0		10	3	5	0	
+0	0	0	M	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	9	0		14	5	0	0	
+0	1	62	N	13	6	9	1	NEEDALIFT	11	6	3	0	
+0	0	0	E	13	6	9	0		10	7	4	0	
+0	0	0	E	13	6	9	0		10	8	5	0	
+0	0	0	D	13	6	9	0		9	9	6	0	
+0	0	0	A	13	6	9	0		12	10	3	0	
+0	0	0	L	13	6	9	0		11	11	3	0	
+0	0	0	I	13	6	9	0		7	12	8	0	
+0	0	0	F	13	6	9	0		7	13	8	0	
+0	0	0	T	13	6	9	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	63	F	14	2	3	1	FSU	9	2	6	0	
+0	0	0	S	14	2	3	0		10	3	5	0	
+0	0	0	U	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	64	L	14	8	3	1	LST	10	8	5	0	
+0	0	0	S	14	8	3	0		9	9	6	0	
+0	0	0	T	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	65	O	14	12	3	1	OFE	7	12	8	0	
+0	0	0	F	14	12	3	0		7	13	8	0	
+0	0	0	E	14	12	3	0		12	14	3	0	
+37
+1	LRG	Big: Abbr.
+4	MUD	Really bad coffee
+7	PSI	Letter before omega
+10	LARKSPURS	Flowers of the buttercup family
+14	HORDE	Moving swarm
+17	BRINGMEAUNICORN	Anne Morrow Lindbergh book
+19	ANE	Most common draw in Scrabble
+20	OILED	Tipsy
+21	ABIT	Just slightly
+22	PAD	Expand unnecessarily
+23	CSNE	Fruit holder
+24	HALOES	Headbands?
+26	OVERIT	Moving on, say
+28	XJO	Used a chair
+29	TSE	"The Waste Land" poet's monogram
+30	DIRER	More grim
+31	CLEEKS	Narrow-faced irons
+34	SSN	Dashed fig.
+35	SHARP	On the ball or on the dot
+36	KIR	Red ap
+39	INTENS	How you might get change for a twenty
+41	RENES	Descartes and others
+43	STR	Bering, for one: Abbr.
+46	TRW	Old credit-tracking corp.
+47	BIGTEN	Indiana and Ohio are in it
+48	THEUSA	Where Springsteen was born, in song
+50	FAIT	___ accompli
+52	ALE	Inn serving
+53	EEES	Some shoes ... and a feature of this puzzle's theme
+54	USURP	Take by force
+56	LGS	Linemen next to centers: Abbr.
+57	LIKEABUMPONALOG	Stupidly silent
+61	ENORM	Vast, in verse
+62	NEEDALIFT	Question for a hitchhiker
+63	FSU	Home of the Seminoles: Abbr.
+64	LST	W.W. II craft: Abbr.
+65	OFE	Just recently
+41
+1	LLB	Overseas bar deg.
+2	RARAAVIS	Uncommon sort
+3	GRINDERS	Heros
+4	MSG	E-mail, e.g.: Abbr.
+5	UPMOST	Like Brahmins in the caste system
+6	DUEIN	Arriving, supposedly
+7	PHI	Dr. ___
+8	SOCAL	Setting for "The O.C.," for short
+9	IROBOT	Classic Isaac Asimov short-story collection
+11	KNE	Show obeisance
+12	RALE	Rough breathing
+13	SUE	Seek damages, say
+15	DRIES	Towels off
+16	ENTSE	Excite
+18	NDHJEP	Football squad
+22	POD	Escape ___
+23	CIR	Diam. x pi
+25	AOK	Just great
+27	RENI	Painter of the "Crucifixion of St. Peter" in the Vatican
+28	XERS	MTV generation
+31	CHEW	Stick of gum, e.g.
+32	LAN	PC connection
+33	SKEG	Rudder support
+35	STRAUB	Horror novelist Peter
+37	INTAGLIO	Incised printing method
+38	REELSOFF	Recites with ease
+40	NTS	Some Windows systems
+41	RIT	Slowing down, in music: Abbr.
+42	SNE	1983 Indy winner Tom
+43	STELE	Memorial marker
+44	THEIN	Dobie Gray's "___ Crowd"
+45	REEKOF	Smell like
+47	BIPODS	Rifle stands
+49	USERS	Not teetotalers
+50	FUME	Show anger
+51	ARPEL	Adrien ___ skin care products
+55	SUN	Work on a tan
+56	LAL	Kobe Bryant's team, on scoreboards
+58	AMU	___ Darya (Asian river)
+59	NAT	D.C. baseballer
+60	GTE	Onetime telecom giant

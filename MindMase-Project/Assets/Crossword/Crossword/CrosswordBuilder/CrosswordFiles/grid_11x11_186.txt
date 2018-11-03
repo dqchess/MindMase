@@ -1,0 +1,167 @@
+grid_11x11_186
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	S	0	2	3	1	SRS	0	2	11	1	SAKSFAVENUE
+0	1	2	R	0	2	3	0		0	3	3	1	RIE
+0	1	3	S	0	2	3	0		0	4	3	1	SNA
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	6	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	4	H	0	8	3	1	HAN	0	8	11	1	HOFDARKNESS
+0	1	5	A	0	8	3	0		0	9	3	1	ABE
+0	1	6	N	0	8	3	0		0	10	3	1	NER
+1	0	0	#	1	1	4	0		2	0	5	0	
+0	1	7	W	1	1	4	1	WAIN	1	1	6	1	WANTON
+0	0	0	A	1	1	4	0		0	2	11	0	
+0	0	0	I	1	1	4	0		0	3	3	0	
+0	0	0	N	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	8	N	1	6	5	1	NIOBE	1	6	6	1	NOFAIR
+0	1	9	I	1	6	5	0		1	7	3	1	IFI
+0	0	0	O	1	6	5	0		0	8	11	0	
+0	0	0	B	1	6	5	0		0	9	3	0	
+0	0	0	E	1	6	5	0		0	10	3	0	
+0	1	10	M	2	0	11	1	MAKEANOFFER	2	0	5	1	MOAMI
+0	0	0	A	2	0	11	0		1	1	6	0	
+0	0	0	K	2	0	11	0		0	2	11	0	
+0	0	0	E	2	0	11	0		0	3	3	0	
+0	0	0	A	2	0	11	0		0	4	3	0	
+0	1	11	N	2	0	11	0		2	5	7	1	NOSENSE
+0	0	0	O	2	0	11	0		1	6	6	0	
+0	0	0	F	2	0	11	0		1	7	3	0	
+0	0	0	F	2	0	11	0		0	8	11	0	
+0	0	0	E	2	0	11	0		0	9	3	0	
+0	0	0	R	2	0	11	0		0	10	3	0	
+0	1	12	O	3	0	3	1	ONS	2	0	5	0	
+0	0	0	N	3	0	3	0		1	1	6	0	
+0	0	0	S	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	4	0		4	4	6	0	
+0	1	13	O	3	5	4	1	OFID	2	5	7	0	
+0	0	0	F	3	5	4	0		1	6	6	0	
+0	0	0	I	3	5	4	0		1	7	3	0	
+0	0	0	D	3	5	4	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	5	0	
+0	1	14	A	4	0	3	1	ATF	2	0	5	0	
+0	0	0	T	4	0	3	0		1	1	6	0	
+0	0	0	F	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	15	I	4	4	3	1	ISA	4	4	6	1	INJUNE
+0	0	0	S	4	4	3	0		2	5	7	0	
+0	0	0	A	4	4	3	0		1	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	16	A	4	8	3	1	ATN	0	8	11	0	
+0	1	17	T	4	8	3	0		4	9	6	1	TWEETS
+0	1	18	N	4	8	3	0		4	10	5	1	NEATH
+0	1	19	M	5	0	3	1	MOA	2	0	5	0	
+0	0	0	O	5	0	3	0		1	1	6	0	
+0	0	0	A	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	20	N	5	4	3	1	NEI	4	4	6	0	
+0	0	0	E	5	4	3	0		2	5	7	0	
+0	0	0	I	5	4	3	0		1	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	R	5	8	3	1	RWE	0	8	11	0	
+0	0	0	W	5	8	3	0		4	9	6	0	
+0	0	0	E	5	8	3	0		4	10	5	0	
+0	1	22	I	6	0	3	1	INV	2	0	5	0	
+0	0	0	N	6	0	3	0		1	1	6	0	
+0	0	0	V	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	3	0	
+0	1	23	J	6	4	3	1	JNR	4	4	6	0	
+0	0	0	N	6	4	3	0		2	5	7	0	
+0	0	0	R	6	4	3	0		1	6	6	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	24	K	6	8	3	1	KEA	0	8	11	0	
+0	0	0	E	6	8	3	0		4	9	6	0	
+0	0	0	A	6	8	3	0		4	10	5	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	4	0		8	1	3	0	
+0	1	25	E	7	2	4	1	EMUS	0	2	11	0	
+0	1	26	M	7	2	4	0		7	3	3	1	MIR
+0	0	0	U	7	2	4	0		4	4	6	0	
+0	0	0	S	7	2	4	0		2	5	7	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	N	7	8	3	1	NET	0	8	11	0	
+0	0	0	E	7	8	3	0		4	9	6	0	
+0	0	0	T	7	8	3	0		4	10	5	0	
+0	1	28	C	8	0	11	1	CANINETEETH	8	0	3	1	CAS
+0	1	29	A	8	0	11	0		8	1	3	1	ASH
+0	0	0	N	8	0	11	0		0	2	11	0	
+0	0	0	I	8	0	11	0		7	3	3	0	
+0	0	0	N	8	0	11	0		4	4	6	0	
+0	0	0	E	8	0	11	0		2	5	7	0	
+0	1	30	T	8	0	11	0		8	6	3	1	TTL
+0	1	31	E	8	0	11	0		8	7	3	1	EEO
+0	0	0	E	8	0	11	0		0	8	11	0	
+0	0	0	T	8	0	11	0		4	9	6	0	
+0	0	0	H	8	0	11	0		4	10	5	0	
+0	1	32	A	9	0	5	1	ASURE	8	0	3	0	
+0	0	0	S	9	0	5	0		8	1	3	0	
+0	0	0	U	9	0	5	0		0	2	11	0	
+0	0	0	R	9	0	5	0		7	3	3	0	
+0	0	0	E	9	0	5	0		4	4	6	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	33	T	9	6	4	1	TESS	8	6	3	0	
+0	0	0	E	9	6	4	0		8	7	3	0	
+0	0	0	S	9	6	4	0		0	8	11	0	
+0	0	0	S	9	6	4	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	S	10	0	3	1	SHE	8	0	3	0	
+0	0	0	H	10	0	3	0		8	1	3	0	
+0	0	0	E	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	35	L	10	6	3	1	LOS	8	6	3	0	
+0	0	0	O	10	6	3	0		8	7	3	0	
+0	0	0	S	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	SRS	Grads-to-be
+4	HAN	Old Chinese dynasty
+7	WAIN	Farm cart
+8	NIOBE	Mythical queen of Thebes
+10	MAKEANOFFER	Start a negotiation
+12	ONS	Come-___ (marketing ploys)
+13	OFID	"The Wizard ___"
+14	ATF	Agcy. regulating guns
+15	ISA	Christie's "There ___ Tide"
+16	ATN	When some stores open
+19	MOA	Display in the Auckland Museum
+20	NEI	"In the," in Italy
+21	RWE	"Concord Hymn" writer's inits.
+22	INV	Bill: Abbr.
+23	JNR	Dad's namesake: Abbr.
+24	KEA	Mauna ___ Observatory
+25	EMUS	Skinny-legged trotters
+27	NET	What flounder flounder in
+28	CANINETEETH	Dogs have prominent ones
+32	ASURE	"It's ___ bet!"
+33	TESS	1979 Nastassia Kinski title role
+34	SHE	Sow or cow
+35	LOS	El relative
+19
+1	SAKSFAVENUE	It opened in Manhattan in 1924
+2	RIE	Beginner
+3	SNA	Winter fall, in Falkirk
+4	HOFDARKNESS	Joseph Conrad classic
+5	ABE	Five-spot
+6	NER	___ Tamid (synagogue lamp)
+7	WANTON	Maliciously done
+8	NOFAIR	"Foul!"
+9	IFI	"___ were you..."
+10	MOAMI	Frenchman's term of address
+11	NOSENSE	What flibbertigibbets make
+15	INJUNE	When summer starts
+17	TWEETS	Bird calls
+18	NEATH	Poet's "below"
+26	MIR	Humans last lived there in 2000
+28	CAS	___ in Charlie
+29	ASH	Result of a firing
+30	TTL	Lumberjack's tool
+31	EEO	Abbr. in a help wanted ad

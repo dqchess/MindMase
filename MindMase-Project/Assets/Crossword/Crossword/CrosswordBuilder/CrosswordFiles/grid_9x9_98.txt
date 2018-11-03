@@ -1,0 +1,117 @@
+grid_9x9_98
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	S	0	1	3	1	SHR	0	1	4	1	SSNS
+0	1	2	H	0	1	3	0		0	2	9	1	HOTSHOWER
+0	1	3	R	0	1	3	0		0	3	5	1	RNASE
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	U	0	5	3	1	ULT	0	5	3	1	UHF
+0	1	5	L	0	5	3	0		0	6	9	1	LOSESADAY
+0	1	6	T	0	5	3	0		0	7	4	1	TAZR
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	P	1	0	4	1	PSON	1	0	3	1	PAS
+0	0	0	S	1	0	4	0		0	1	4	0	
+0	0	0	O	1	0	4	0		0	2	9	0	
+0	0	0	N	1	0	4	0		0	3	5	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	H	1	5	4	1	HOAD	0	5	3	0	
+0	0	0	O	1	5	4	0		0	6	9	0	
+0	0	0	A	1	5	4	0		0	7	4	0	
+0	1	9	D	1	5	4	0		1	8	3	1	DKA
+0	1	10	A	2	0	4	1	ANTA	1	0	3	0	
+0	0	0	N	2	0	4	0		0	1	4	0	
+0	0	0	T	2	0	4	0		0	2	9	0	
+0	0	0	A	2	0	4	0		0	3	5	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	F	2	5	4	1	FSZK	0	5	3	0	
+0	0	0	S	2	5	4	0		0	6	9	0	
+0	0	0	Z	2	5	4	0		0	7	4	0	
+0	0	0	K	2	5	4	0		1	8	3	0	
+0	1	12	S	3	0	5	1	SSSSS	1	0	3	0	
+0	0	0	S	3	0	5	0		0	1	4	0	
+0	0	0	S	3	0	5	0		0	2	9	0	
+0	0	0	S	3	0	5	0		0	3	5	0	
+0	1	13	S	3	0	5	0		3	4	3	1	SRA
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	14	E	3	6	3	1	ERA	0	6	9	0	
+0	0	0	R	3	6	3	0		0	7	4	0	
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	15	H	4	2	5	1	HERBS	0	2	9	0	
+0	0	0	E	4	2	5	0		0	3	5	0	
+0	0	0	R	4	2	5	0		3	4	3	0	
+0	1	16	B	4	2	5	0		4	5	5	1	BLURB
+0	0	0	S	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	17	T	5	0	3	1	TOO	5	0	3	1	TAK
+0	1	18	O	5	0	3	0		5	1	4	1	OSIE
+0	0	0	O	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	5	0		6	3	3	0	
+0	1	19	A	5	4	5	1	ALATE	3	4	3	0	
+0	0	0	L	5	4	5	0		4	5	5	0	
+0	0	0	A	5	4	5	0		0	6	9	0	
+0	1	20	T	5	4	5	0		5	7	4	1	TOSH
+0	1	21	E	5	4	5	0		5	8	3	1	ESE
+0	1	22	A	6	0	4	1	ASWE	5	0	3	0	
+0	0	0	S	6	0	4	0		5	1	4	0	
+0	0	0	W	6	0	4	0		0	2	9	0	
+0	1	23	E	6	0	4	0		6	3	3	1	ELS
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	U	6	5	4	1	UDOS	4	5	5	0	
+0	0	0	D	6	5	4	0		0	6	9	0	
+0	0	0	O	6	5	4	0		5	7	4	0	
+0	0	0	S	6	5	4	0		5	8	3	0	
+0	1	25	K	7	0	4	1	KIEL	5	0	3	0	
+0	0	0	I	7	0	4	0		5	1	4	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	L	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	26	R	7	5	4	1	RASE	4	5	5	0	
+0	0	0	A	7	5	4	0		0	6	9	0	
+0	0	0	S	7	5	4	0		5	7	4	0	
+0	0	0	E	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	E	8	1	3	1	ERS	5	1	4	0	
+0	0	0	R	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	28	B	8	5	3	1	BYH	4	5	5	0	
+0	0	0	Y	8	5	3	0		0	6	9	0	
+0	0	0	H	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	SHR	Stock unit: Abbr.
+4	ULT	Farthest: Abbr.
+7	PSON	Hits repeatedly
+8	HOAD	1950s Wimbledon champ Lew
+10	ANTA	Broadway acronym
+11	FSZK	"I can't believe it!": 2 wds.
+12	SSSSS	Exceptional rating
+14	ERA	Memorable age
+15	HERBS	Garden output
+17	TOO	Also
+19	ALATE	Like Pegasus
+22	ASWE	"For ___ all know ..."
+24	UDOS	Japanese salad plants
+25	KIEL	German city on the Baltic
+26	RASE	Tear down, in England
+27	ERS	Speech bobbles
+28	BYH	From memory
+15
+1	SSNS	Credit application figs.
+2	HOTSHOWER	Workout follower
+3	RNASE	Biochemical enzyme, briefly
+4	UHF	14 and up, for short
+5	LOSESADAY	Crosses the international date line from east to west
+6	TAZR	Sacramento's ___ Arena
+7	PAS	Things that talk in sch.?
+9	DKA	Longtime Chicago Bears coach
+13	SRA	Mrs., in Mallorca
+16	BLURB	Words on a book jacket
+17	TAK	"And we'll ___ a cup o' kindness yet": Burns
+18	OSIE	Toddler's attire
+20	TOSH	Weekly Comedy Central host
+21	ESE	180 degrees from WNW
+23	ELS	Urban transportation

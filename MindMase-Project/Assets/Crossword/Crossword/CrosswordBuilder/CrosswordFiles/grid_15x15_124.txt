@@ -1,0 +1,303 @@
+grid_15x15_124
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	P	0	2	3	1	PEU	0	2	6	1	PICKAX
+0	1	2	E	0	2	3	0		0	3	3	1	EPH
+0	1	3	U	0	2	3	0		0	4	9	1	UPAGAINST
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	6	0		1	6	0	0	
+0	1	4	O	0	7	6	1	OGDENS	0	7	3	1	OBJ
+0	1	5	G	0	7	6	0		0	8	8	1	GLADIOLA
+0	1	6	D	0	7	6	0		0	9	4	1	DUCT
+0	1	7	E	0	7	6	0		0	10	4	1	EEKS
+0	1	8	N	0	7	6	0		0	11	3	1	NIS
+0	1	9	S	0	7	6	0		0	12	8	1	SCOOPERS
+1	0	0	#	0	14	0	0		1	13	7	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	10	L	1	1	5	1	LIPPI	1	1	5	1	LISLE
+0	0	0	I	1	1	5	0		0	2	6	0	
+0	0	0	P	1	1	5	0		0	3	3	0	
+0	0	0	P	1	1	5	0		0	4	9	0	
+0	1	11	I	1	1	5	0		1	5	3	1	IES
+1	0	0	#	1	7	7	0		2	6	3	0	
+0	1	12	B	1	7	7	1	BLUEICE	0	7	3	0	
+0	0	0	L	1	7	7	0		0	8	8	0	
+0	0	0	U	1	7	7	0		0	9	4	0	
+0	0	0	E	1	7	7	0		0	10	4	0	
+0	0	0	I	1	7	7	0		0	11	3	0	
+0	0	0	C	1	7	7	0		0	12	8	0	
+0	1	13	E	1	7	7	0		1	13	7	1	ENRAGES
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	14	M	2	0	14	1	MICHAELJACKSON	2	0	3	1	MEL
+0	0	0	I	2	0	14	0		1	1	5	0	
+0	0	0	C	2	0	14	0		0	2	6	0	
+0	0	0	H	2	0	14	0		0	3	3	0	
+0	0	0	A	2	0	14	0		0	4	9	0	
+0	0	0	E	2	0	14	0		1	5	3	0	
+0	1	15	L	2	0	14	0		2	6	3	1	LSE
+0	0	0	J	2	0	14	0		0	7	3	0	
+0	0	0	A	2	0	14	0		0	8	8	0	
+0	0	0	C	2	0	14	0		0	9	4	0	
+0	0	0	K	2	0	14	0		0	10	4	0	
+0	0	0	S	2	0	14	0		0	11	3	0	
+0	0	0	O	2	0	14	0		0	12	8	0	
+0	0	0	N	2	0	14	0		1	13	7	0	
+1	0	0	#	2	15	0	0		3	14	5	0	
+0	1	16	E	3	0	3	1	ESK	2	0	3	0	
+0	0	0	S	3	0	3	0		1	1	5	0	
+0	0	0	K	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	17	G	3	4	3	1	GSS	0	4	9	0	
+0	0	0	S	3	4	3	0		1	5	3	0	
+0	0	0	S	3	4	3	0		2	6	3	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	18	D	3	8	3	1	DTS	0	8	8	0	
+0	0	0	T	3	8	3	0		0	9	4	0	
+0	0	0	S	3	8	3	0		0	10	4	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	19	O	3	12	3	1	ORL	0	12	8	0	
+0	0	0	R	3	12	3	0		1	13	7	0	
+0	1	20	L	3	12	3	0		3	14	5	1	LHASA
+0	1	21	L	4	0	5	1	LLAMA	2	0	3	0	
+0	0	0	L	4	0	5	0		1	1	5	0	
+0	0	0	A	4	0	5	0		0	2	6	0	
+0	1	22	M	4	0	5	0		4	3	3	1	MGS
+0	0	0	A	4	0	5	0		0	4	9	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	23	E	4	6	3	1	EUI	2	6	3	0	
+0	1	24	U	4	6	3	0		4	7	7	1	UNTACKS
+0	0	0	I	4	6	3	0		0	8	8	0	
+1	0	0	#	4	10	0	0		5	9	4	0	
+1	0	0	#	4	11	4	0		5	10	0	0	
+0	1	25	O	4	11	4	1	OPAH	4	11	3	1	OSU
+0	0	0	P	4	11	4	0		0	12	8	0	
+0	0	0	A	4	11	4	0		1	13	7	0	
+0	0	0	H	4	11	4	0		3	14	5	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	26	E	5	1	4	1	EXGI	1	1	5	0	
+0	0	0	X	5	1	4	0		0	2	6	0	
+0	0	0	G	5	1	4	0		4	3	3	0	
+0	0	0	I	5	1	4	0		0	4	9	0	
+1	0	0	#	5	6	0	0		6	5	4	0	
+1	0	0	#	5	7	3	0		6	6	0	0	
+0	1	27	N	5	7	3	1	NOW	4	7	7	0	
+0	0	0	O	5	7	3	0		0	8	8	0	
+0	1	28	W	5	7	3	0		5	9	4	1	WAST
+1	0	0	#	5	11	4	0		6	10	9	0	
+0	1	29	S	5	11	4	1	SEGA	4	11	3	0	
+0	0	0	E	5	11	4	0		0	12	8	0	
+0	0	0	G	5	11	4	0		1	13	7	0	
+0	0	0	A	5	11	4	0		3	14	5	0	
+1	0	0	#	6	1	0	0		7	0	5	0	
+1	0	0	#	6	2	0	0		7	1	7	0	
+1	0	0	#	6	3	3	0		7	2	8	0	
+0	1	30	S	6	3	3	1	SNL	4	3	3	0	
+0	0	0	N	6	3	3	0		0	4	9	0	
+0	1	31	L	6	3	3	0		6	5	4	1	LORN
+1	0	0	#	6	7	8	0		7	6	8	0	
+0	1	32	T	6	7	8	1	TLATURES	4	7	7	0	
+0	0	0	L	6	7	8	0		0	8	8	0	
+0	0	0	A	6	7	8	0		5	9	4	0	
+0	1	33	T	6	7	8	0		6	10	9	1	THISENDUP
+0	0	0	U	6	7	8	0		4	11	3	0	
+0	0	0	R	6	7	8	0		0	12	8	0	
+0	0	0	E	6	7	8	0		1	13	7	0	
+0	0	0	S	6	7	8	0		3	14	5	0	
+0	1	34	P	7	0	3	1	PEA	7	0	5	1	PALME
+0	1	35	E	7	0	3	0		7	1	7	1	ECOCARS
+0	1	36	A	7	0	3	0		7	2	8	1	AERATION
+1	0	0	#	7	4	7	0		8	3	3	0	
+0	1	37	S	7	4	7	1	SODAASH	0	4	9	0	
+0	0	0	O	7	4	7	0		6	5	4	0	
+0	1	38	D	7	4	7	0		7	6	8	1	DIESIRAE
+0	0	0	A	7	4	7	0		4	7	7	0	
+0	0	0	A	7	4	7	0		0	8	8	0	
+0	0	0	S	7	4	7	0		5	9	4	0	
+0	0	0	H	7	4	7	0		6	10	9	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	39	S	7	12	3	1	SSA	0	12	8	0	
+0	0	0	S	7	12	3	0		1	13	7	0	
+0	0	0	A	7	12	3	0		3	14	5	0	
+0	1	40	A	8	0	8	1	ACENTRIC	7	0	5	0	
+0	0	0	C	8	0	8	0		7	1	7	0	
+0	0	0	E	8	0	8	0		7	2	8	0	
+0	1	41	N	8	0	8	0		8	3	3	1	NIN
+0	0	0	T	8	0	8	0		0	4	9	0	
+0	0	0	R	8	0	8	0		6	5	4	0	
+0	0	0	I	8	0	8	0		7	6	8	0	
+0	0	0	C	8	0	8	0		4	7	7	0	
+1	0	0	#	8	9	3	0		9	8	0	0	
+0	1	42	T	8	9	3	1	TID	5	9	4	0	
+0	0	0	I	8	9	3	0		6	10	9	0	
+0	1	43	D	8	9	3	0		8	11	3	1	DOT
+1	0	0	#	8	13	0	0		9	12	6	0	
+1	0	0	#	8	14	0	0		9	13	5	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	44	L	9	0	4	1	LORI	7	0	5	0	
+0	0	0	O	9	0	4	0		7	1	7	0	
+0	0	0	R	9	0	4	0		7	2	8	0	
+0	0	0	I	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	3	0		10	4	0	0	
+0	1	45	N	9	5	3	1	NEK	6	5	4	0	
+0	0	0	E	9	5	3	0		7	6	8	0	
+0	0	0	K	9	5	3	0		4	7	7	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	4	0		10	9	0	0	
+0	1	46	S	9	10	4	1	SOBS	6	10	9	0	
+0	0	0	O	9	10	4	0		8	11	3	0	
+0	1	47	B	9	10	4	0		9	12	6	1	BADEMS
+0	1	48	S	9	10	4	0		9	13	5	1	SPYRI
+1	0	0	#	9	15	0	0		10	14	3	0	
+0	1	49	M	10	0	4	1	MCAN	7	0	5	0	
+0	0	0	C	10	0	4	0		7	1	7	0	
+0	0	0	A	10	0	4	0		7	2	8	0	
+0	0	0	N	10	0	4	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	4	0	
+1	0	0	#	10	6	3	0		11	5	4	0	
+0	1	50	S	10	6	3	1	SSE	7	6	8	0	
+0	0	0	S	10	6	3	0		4	7	7	0	
+0	1	51	E	10	6	3	0		10	8	3	1	EWR
+1	0	0	#	10	10	5	0		11	9	3	0	
+0	1	52	E	10	10	5	1	ETAPE	6	10	9	0	
+0	0	0	T	10	10	5	0		8	11	3	0	
+0	0	0	A	10	10	5	0		9	12	6	0	
+0	0	0	P	10	10	5	0		9	13	5	0	
+0	1	53	E	10	10	5	0		10	14	3	1	EES
+0	1	54	E	11	0	3	1	EAT	7	0	5	0	
+0	0	0	A	11	0	3	0		7	1	7	0	
+0	0	0	T	11	0	3	0		7	2	8	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	55	F	11	4	3	1	FBI	11	4	4	1	FHUP
+0	1	56	B	11	4	3	0		11	5	4	1	BAMS
+0	0	0	I	11	4	3	0		7	6	8	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	57	W	11	8	3	1	WAN	10	8	3	0	
+0	1	58	A	11	8	3	0		11	9	3	1	AON
+0	0	0	N	11	8	3	0		6	10	9	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	59	D	11	12	3	1	DYE	9	12	6	0	
+0	0	0	Y	11	12	3	0		9	13	5	0	
+0	0	0	E	11	12	3	0		10	14	3	0	
+1	0	0	#	12	1	14	0		13	0	0	0	
+0	1	60	R	12	1	14	1	RICHARDRODGERS	7	1	7	0	
+0	0	0	I	12	1	14	0		7	2	8	0	
+0	1	61	C	12	1	14	0		12	3	3	1	CHI
+0	0	0	H	12	1	14	0		11	4	4	0	
+0	0	0	A	12	1	14	0		11	5	4	0	
+0	0	0	R	12	1	14	0		7	6	8	0	
+0	1	62	D	12	1	14	0		12	7	3	1	DNY
+0	0	0	R	12	1	14	0		10	8	3	0	
+0	0	0	O	12	1	14	0		11	9	3	0	
+0	0	0	D	12	1	14	0		6	10	9	0	
+0	1	63	G	12	1	14	0		12	11	3	1	GRR
+0	0	0	E	12	1	14	0		9	12	6	0	
+0	0	0	R	12	1	14	0		9	13	5	0	
+0	0	0	S	12	1	14	0		10	14	3	0	
+1	0	0	#	13	1	7	0		14	0	0	0	
+0	1	64	S	13	1	7	1	SOHUMAN	7	1	7	0	
+0	0	0	O	13	1	7	0		7	2	8	0	
+0	0	0	H	13	1	7	0		12	3	3	0	
+0	0	0	U	13	1	7	0		11	4	4	0	
+0	0	0	M	13	1	7	0		11	5	4	0	
+0	0	0	A	13	1	7	0		7	6	8	0	
+0	0	0	N	13	1	7	0		12	7	3	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	65	N	13	9	5	1	NURMI	11	9	3	0	
+0	0	0	U	13	9	5	0		6	10	9	0	
+0	0	0	R	13	9	5	0		12	11	3	0	
+0	0	0	M	13	9	5	0		9	12	6	0	
+0	0	0	I	13	9	5	0		9	13	5	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	6	0		15	1	0	0	
+0	1	66	N	14	2	6	1	NIPSEY	7	2	8	0	
+0	0	0	I	14	2	6	0		12	3	3	0	
+0	0	0	P	14	2	6	0		11	4	4	0	
+0	0	0	S	14	2	6	0		11	5	4	0	
+0	0	0	E	14	2	6	0		7	6	8	0	
+0	0	0	Y	14	2	6	0		12	7	3	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	67	P	14	10	3	1	PRS	6	10	9	0	
+0	0	0	R	14	10	3	0		12	11	3	0	
+0	0	0	S	14	10	3	0		9	12	6	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+37
+1	PEU	Little bit of French?
+4	OGDENS	Nash and others
+10	LIPPI	15th-century painter of "The Adoration of the Magi"
+12	BLUEICE	Michael Caine spy movie
+14	MICHAELJACKSON	King of Pop
+16	ESK	Northwest Terr. native
+17	GSS	Snare
+18	DTS	Jimjams
+19	ORL	Magic on a scoreboard?
+21	LLAMA	Animal that can be ridden
+23	EUI	Pins and needles' place
+25	OPAH	Colorful fish
+26	EXGI	Vet
+27	NOW	When repeated, a phrase of reproof
+29	SEGA	Mortal Kombat maker
+30	SNL	Inits. in TV comedy
+32	TLATURES	Sheet music notations
+34	PEA	Green globule
+37	SODAASH	Na2CO3
+39	SSA	Org. that has its benefits
+40	ACENTRIC	Lacking a middle
+42	TID	Prescription abbr.
+44	LORI	Actress Petty
+45	NEK	Educational cable network
+46	SOBS	Shows disconsolateness
+49	MCAN	Thom ___ footwear
+50	SSE	U-turn from NNW
+52	ETAPE	Where troops camp after a day's march
+54	EAT	Enjoy, with "up"
+55	FBI	Raiders' grp.
+57	WAN	Showing fatigue
+59	DYE	Textile company purchase
+60	RICHARDRODGERS	"Blue Moon" composer
+64	SOHUMAN	Words before "a Brain" and "an Animal" in book titles
+65	NURMI	1920's Olympics star from Finland
+66	NIPSEY	Comedian Russell
+67	PRS	7, on a phone
+37
+1	PICKAX	Chipper?
+2	EPH	Letter from St. Paul: Abbr.
+3	UPAGAINST	Facing
+4	OBJ	Part of a sentence: Abbr.
+5	GLADIOLA	Relative of an iris
+6	DUCT	Way in or out
+7	EEKS	Comics cries
+8	NIS	"___ for Noose" (Sue Grafton book)
+9	SCOOPERS	Items for urban dog-walkers
+10	LISLE	Fine cotton fabric
+11	IES	Plural suffix
+13	ENRAGES	Works into a passion
+14	MEL	Blount in the N.F.L. Hall of Fame
+15	LSE	End of many an E-mail address
+20	LHASA	Jokhang Temple locale
+22	MGS	Some old roadsters
+24	UNTACKS	Removes from a bulletin board
+25	OSU	Big Midwest sch.
+28	WAST	Biblical verb with "thou"
+31	LORN	Forsaken
+33	THISENDUP	Instruction on a box
+34	PALME	Former Swedish P.M. Olof ___
+35	ECOCARS	High-m.p.g. vehicles
+36	AERATION	Treatment with carbon dioxide
+38	DIESIRAE	Mass part
+41	NIN	"Henry & June" author
+43	DOT	It precedes "com"
+47	BADEMS	Bathing resort on the Lahn River
+48	SPYRI	Johanna ___, author of "Heidi"
+51	EWR	Airport alternative to JFK or LGA
+53	EES	Wiring experts: Abbr.
+55	FHUP	Glove
+56	BAMS	Loud hits
+58	AON	Get an ___ (ace)
+61	CHI	Cub's home, for short
+62	DNY	Letters after Daniel Moynihan's name
+63	GRR	Junkyard dog's greeting

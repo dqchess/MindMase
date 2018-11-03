@@ -1,0 +1,239 @@
+grid_13x13_61
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	S	0	1	3	1	SAO	0	1	4	1	SLRS
+0	1	2	A	0	1	3	0		0	2	13	1	AISLEBEDARNED
+0	1	3	O	0	1	3	0		0	3	3	1	OAK
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	L	0	5	3	1	LAW	0	5	4	1	LACT
+0	1	5	A	0	5	3	0		0	6	4	1	APSO
+0	1	6	W	0	5	3	0		0	7	3	1	WEI
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	4	0	
+0	1	7	P	0	10	3	1	PFC	0	10	13	1	PLACINGTRADES
+0	1	8	F	0	10	3	0		0	11	4	1	FVMG
+0	1	9	C	0	10	3	0		0	12	3	1	CII
+0	1	10	E	1	0	4	1	ELIA	1	0	3	1	EOE
+0	0	0	L	1	0	4	0		0	1	4	0	
+0	0	0	I	1	0	4	0		0	2	13	0	
+0	0	0	A	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	11	A	1	5	3	1	APE	0	5	4	0	
+0	0	0	P	1	5	3	0		0	6	4	0	
+0	0	0	E	1	5	3	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	4	0	
+0	1	12	M	1	9	4	1	MLVI	1	9	4	1	MISC
+0	0	0	L	1	9	4	0		0	10	13	0	
+0	0	0	V	1	9	4	0		0	11	4	0	
+0	0	0	I	1	9	4	0		0	12	3	0	
+0	1	13	O	2	0	4	1	ORSK	1	0	3	0	
+0	0	0	R	2	0	4	0		0	1	4	0	
+0	0	0	S	2	0	4	0		0	2	13	0	
+0	0	0	K	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	14	C	2	5	8	1	CSIMIAMI	0	5	4	0	
+0	0	0	S	2	5	8	0		0	6	4	0	
+0	0	0	I	2	5	8	0		0	7	3	0	
+0	1	15	M	2	5	8	0		2	8	4	1	MUDS
+0	0	0	I	2	5	8	0		1	9	4	0	
+0	0	0	A	2	5	8	0		0	10	13	0	
+0	0	0	M	2	5	8	0		0	11	4	0	
+0	0	0	I	2	5	8	0		0	12	3	0	
+0	1	16	E	3	0	3	1	ESL	1	0	3	0	
+0	0	0	S	3	0	3	0		0	1	4	0	
+0	0	0	L	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	17	U	3	4	3	1	UTO	3	4	3	1	UNC
+0	0	0	T	3	4	3	0		0	5	4	0	
+0	0	0	O	3	4	3	0		0	6	4	0	
+1	0	0	#	3	8	4	0		4	7	0	0	
+0	1	18	U	3	8	4	1	USCG	2	8	4	0	
+0	0	0	S	3	8	4	0		1	9	4	0	
+0	0	0	C	3	8	4	0		0	10	13	0	
+0	0	0	G	3	8	4	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	3	0	
+0	1	19	E	4	2	3	1	EIN	0	2	13	0	
+0	1	20	I	4	2	3	0		4	3	3	1	ISA
+0	0	0	N	4	2	3	0		3	4	3	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	3	0	
+0	1	21	D	4	8	3	1	DCI	2	8	4	0	
+0	0	0	C	4	8	3	0		1	9	4	0	
+0	0	0	I	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	3	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	22	C	5	0	9	1	CUBSCOUTS	5	0	3	1	CGI
+0	1	23	U	5	0	9	0		5	1	3	1	UTE
+0	0	0	B	5	0	9	0		0	2	13	0	
+0	0	0	S	5	0	9	0		4	3	3	0	
+0	0	0	C	5	0	9	0		3	4	3	0	
+0	1	24	O	5	0	9	0		5	5	3	1	ONX
+0	1	25	U	5	0	9	0		5	6	3	1	USD
+0	1	26	T	5	0	9	0		5	7	3	1	TAD
+0	0	0	S	5	0	9	0		2	8	4	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	27	N	5	10	3	1	NOP	0	10	13	0	
+0	1	28	O	5	10	3	0		5	11	3	1	OEN
+0	1	29	P	5	10	3	0		5	12	3	1	PER
+0	1	30	G	6	0	4	1	GTEA	5	0	3	0	
+0	0	0	T	6	0	4	0		5	1	3	0	
+0	0	0	E	6	0	4	0		0	2	13	0	
+0	0	0	A	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	4	0	
+0	1	31	N	6	5	3	1	NSA	5	5	3	0	
+0	0	0	S	6	5	3	0		5	6	3	0	
+0	0	0	A	6	5	3	0		5	7	3	0	
+1	0	0	#	6	9	4	0		7	8	3	0	
+0	1	32	O	6	9	4	1	OGEE	6	9	3	1	OFF
+0	0	0	G	6	9	4	0		0	10	13	0	
+0	0	0	E	6	9	4	0		5	11	3	0	
+0	0	0	E	6	9	4	0		5	12	3	0	
+0	1	33	I	7	0	3	1	IED	5	0	3	0	
+0	0	0	E	7	0	3	0		5	1	3	0	
+0	0	0	D	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	9	0		8	3	4	0	
+0	1	34	I	7	4	9	1	IXDDDFTNR	7	4	4	1	ISAY
+0	0	0	X	7	4	9	0		5	5	3	0	
+0	0	0	D	7	4	9	0		5	6	3	0	
+0	0	0	D	7	4	9	0		5	7	3	0	
+0	1	35	D	7	4	9	0		7	8	3	1	DAK
+0	0	0	F	7	4	9	0		6	9	3	0	
+0	0	0	T	7	4	9	0		0	10	13	0	
+0	0	0	N	7	4	9	0		5	11	3	0	
+0	0	0	R	7	4	9	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	36	A	8	2	3	1	ATS	0	2	13	0	
+0	1	37	T	8	2	3	0		8	3	4	1	TION
+0	0	0	S	8	2	3	0		7	4	4	0	
+1	0	0	#	8	6	0	0		9	5	0	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	3	0		9	7	4	0	
+0	1	38	A	8	8	3	1	AFR	7	8	3	0	
+0	0	0	F	8	8	3	0		6	9	3	0	
+0	0	0	R	8	8	3	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+1	0	0	#	9	1	4	0		10	0	3	0	
+0	1	39	F	9	1	4	1	FRIA	9	1	4	1	FNMA
+0	0	0	R	9	1	4	0		0	2	13	0	
+0	0	0	I	9	1	4	0		8	3	4	0	
+0	0	0	A	9	1	4	0		7	4	4	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	40	T	9	6	3	1	TEK	9	6	4	1	TNPK
+0	1	41	E	9	6	3	0		9	7	4	1	EGIS
+0	0	0	K	9	6	3	0		7	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	42	A	9	10	3	1	AOL	0	10	13	0	
+0	1	43	O	9	10	3	0		9	11	4	1	OSLO
+0	1	44	L	9	10	3	0		9	12	3	1	LEE
+0	1	45	A	10	0	8	1	ANNOYING	10	0	3	1	AAE
+0	0	0	N	10	0	8	0		9	1	4	0	
+0	0	0	N	10	0	8	0		0	2	13	0	
+0	0	0	O	10	0	8	0		8	3	4	0	
+0	0	0	Y	10	0	8	0		7	4	4	0	
+0	1	46	I	10	0	8	0		10	5	3	1	IDO
+0	0	0	N	10	0	8	0		9	6	4	0	
+0	0	0	G	10	0	8	0		9	7	4	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	47	M	10	9	4	1	MDSE	10	9	3	1	MUD
+0	0	0	D	10	9	4	0		0	10	13	0	
+0	0	0	S	10	9	4	0		9	11	4	0	
+0	0	0	E	10	9	4	0		9	12	3	0	
+0	1	48	A	11	0	4	1	AMEN	10	0	3	0	
+0	0	0	M	11	0	4	0		9	1	4	0	
+0	0	0	E	11	0	4	0		0	2	13	0	
+0	0	0	N	11	0	4	0		8	3	4	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	49	D	11	5	3	1	DPI	10	5	3	0	
+0	0	0	P	11	5	3	0		9	6	4	0	
+0	0	0	I	11	5	3	0		9	7	4	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	50	U	11	9	4	1	UELE	10	9	3	0	
+0	0	0	E	11	9	4	0		0	10	13	0	
+0	0	0	L	11	9	4	0		9	11	4	0	
+0	0	0	E	11	9	4	0		9	12	3	0	
+0	1	51	E	12	0	3	1	EAD	10	0	3	0	
+0	0	0	A	12	0	3	0		9	1	4	0	
+0	0	0	D	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	52	O	12	5	3	1	OKS	10	5	3	0	
+0	0	0	K	12	5	3	0		9	6	4	0	
+0	0	0	S	12	5	3	0		9	7	4	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	53	D	12	9	3	1	DSO	10	9	3	0	
+0	0	0	S	12	9	3	0		0	10	13	0	
+0	0	0	O	12	9	3	0		9	11	4	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+33
+1	SAO	___ Tiago
+4	LAW	It's practiced on "The Practice"
+7	PFC	Rank below cpl.
+10	ELIA	"Dream Children" essayist
+11	APE	Troglodyte
+12	MLVI	X years before Hastings
+13	ORSK	Second biggest city in Russia's Orenburg region
+14	CSIMIAMI	Hit show with a colon in its name
+16	ESL	Many an ex-pat takes it
+17	UTO	___-Aztecan
+18	USCG	Grp. that patrols shores
+19	EIN	German "a"
+21	DCI	601, to Nero
+22	CUBSCOUTS	Baby bear reconnoiterers?
+27	NOP	Alphabet trio
+30	GTEA	Lack of vigor
+31	NSA	Cryptologic grp.
+32	OGEE	Arch type
+33	IED	Roadside bomb: Abbr.
+34	IXDDDFTNR	Fully recovered: 2 wds.
+36	ATS	Symbols like @
+38	AFR	It's south of Eur.
+39	FRIA	Cold, to Conchita
+40	TEK	Shatner's sci-fi drug
+42	AOL	Co. in a 2001 merger with Time Warner
+45	ANNOYING	Pesky
+47	MDSE	Store goods: Abbr.
+48	AMEN	"Exactly right!"
+49	DPI	Computer printer meas.
+50	UELE	Congo river
+51	EAD	Year that Augustus exiled Ovid
+52	OKS	Gives a thumbs-up
+53	DSO	Victoria Cross relative: Abbr.
+33
+1	SLRS	Pentax Spotmatic and Nikon F2, for short
+2	AISLEBEDARNED	Snort of a confirmed bachelor?
+3	OAK	Sturdy building material
+4	LACT	Milk: Prefix
+5	APSO	Lhasa ___
+6	WEI	Early Chinese dynasty
+7	PLACINGTRADES	Stock market activity
+8	FVMG	Hairdo
+9	CII	LI doubled
+10	EOE	Classified letters
+12	MISC	Etc. category
+15	MUDS	Some spa mixtures
+17	UNC	Dad's bro
+20	ISA	1992 top 10 hit "Life ___ Highway"
+22	CGI	Film special effects, for short
+23	UTE	Skilled horseman of the Old West
+24	ONX	Black beauty
+25	USD	Amer. capital
+26	TAD	Thimbleful
+28	OEN	Vintner's prefix
+29	PER	Price word
+32	OFF	Not running
+34	ISAY	Bloke's "Well, well!"
+35	DAK	Former U.S. terr.
+37	TION	Relative of -ance
+39	FNMA	Low-cost home loan corp.
+40	TNPK	Expy.
+41	EGIS	Sponsorship
+43	OSLO	European port
+44	LEE	The General ___, "The Dukes of Hazzard" auto
+45	AAE	"American Justice" network
+46	IDO	Altar declaration
+47	MUD	Some campaign charges

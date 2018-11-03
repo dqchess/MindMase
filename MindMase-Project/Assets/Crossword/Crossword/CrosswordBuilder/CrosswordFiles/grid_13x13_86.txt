@@ -1,0 +1,229 @@
+grid_13x13_86
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	8	0	
+1	0	0	#	0	3	3	0		1	2	8	0	
+0	1	1	O	0	3	3	1	OHM	0	3	3	1	OED
+0	1	2	H	0	3	3	0		0	4	3	1	HTO
+0	1	3	M	0	3	3	0		0	5	3	1	MSN
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	6	0	
+0	1	4	V	0	10	3	1	VEA	0	10	3	1	VEN
+0	1	5	E	0	10	3	0		0	11	3	1	ELD
+0	1	6	A	0	10	3	0		0	12	3	1	ALS
+1	0	0	#	1	1	6	0		2	0	0	0	
+0	1	7	P	1	1	6	1	POETSC	1	1	8	1	PROSTATE
+0	1	8	O	1	1	6	0		1	2	8	1	OAKRIDGE
+0	0	0	E	1	1	6	0		0	3	3	0	
+0	0	0	T	1	1	6	0		0	4	3	0	
+0	0	0	S	1	1	6	0		0	5	3	0	
+0	1	9	C	1	1	6	0		1	6	11	1	CAMERALIONS
+1	0	0	#	1	8	5	0		2	7	3	0	
+0	1	10	B	1	8	5	1	BCELL	1	8	3	1	BOT
+0	1	11	C	1	8	5	0		1	9	6	1	CUATRO
+0	0	0	E	1	8	5	0		0	10	3	0	
+0	0	0	L	1	8	5	0		0	11	3	0	
+0	0	0	L	1	8	5	0		0	12	3	0	
+1	0	0	#	2	1	12	0		3	0	4	0	
+0	1	12	R	2	1	12	1	RADONABOUNDS	1	1	8	0	
+0	0	0	A	2	1	12	0		1	2	8	0	
+0	0	0	D	2	1	12	0		0	3	3	0	
+0	0	0	O	2	1	12	0		0	4	3	0	
+0	0	0	N	2	1	12	0		0	5	3	0	
+0	0	0	A	2	1	12	0		1	6	11	0	
+0	1	13	B	2	1	12	0		2	7	3	1	BEG
+0	0	0	O	2	1	12	0		1	8	3	0	
+0	0	0	U	2	1	12	0		1	9	6	0	
+0	0	0	N	2	1	12	0		0	10	3	0	
+0	0	0	D	2	1	12	0		0	11	3	0	
+0	0	0	S	2	1	12	0		0	12	3	0	
+0	1	14	B	3	0	3	1	BOK	3	0	4	1	BIGD
+0	0	0	O	3	0	3	0		1	1	8	0	
+0	0	0	K	3	0	3	0		1	2	8	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	15	M	3	6	4	1	META	1	6	11	0	
+0	0	0	E	3	6	4	0		2	7	3	0	
+0	0	0	T	3	6	4	0		1	8	3	0	
+0	0	0	A	3	6	4	0		1	9	6	0	
+1	0	0	#	3	11	0	0		4	10	8	0	
+1	0	0	#	3	12	0	0		4	11	8	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	16	I	4	0	3	1	ISR	3	0	4	0	
+0	0	0	S	4	0	3	0		1	1	8	0	
+0	0	0	R	4	0	3	0		1	2	8	0	
+1	0	0	#	4	4	4	0		5	3	0	0	
+0	1	17	O	4	4	4	1	ONEG	4	4	3	1	ORY
+0	1	18	N	4	4	4	0		4	5	3	1	NAW
+0	0	0	E	4	4	4	0		1	6	11	0	
+0	0	0	G	4	4	4	0		2	7	3	0	
+1	0	0	#	4	9	3	0		5	8	0	0	
+0	1	19	T	4	9	3	1	TEP	1	9	6	0	
+0	1	20	E	4	9	3	0		4	10	8	1	EACHTIME
+0	1	21	P	4	9	3	0		4	11	8	1	PEKOETEA
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	22	G	5	0	3	1	GTI	3	0	4	0	
+0	0	0	T	5	0	3	0		1	1	8	0	
+0	0	0	I	5	0	3	0		1	2	8	0	
+1	0	0	#	5	4	3	0		6	3	6	0	
+0	1	23	R	5	4	3	1	RAR	4	4	3	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	0	0	R	5	4	3	0		1	6	11	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	24	R	5	9	3	1	RAE	1	9	6	0	
+0	0	0	A	5	9	3	0		4	10	8	0	
+0	0	0	E	5	9	3	0		4	11	8	0	
+1	0	0	#	5	13	0	0		6	12	4	0	
+0	1	25	D	6	0	13	1	DADDYWARLOCKS	3	0	4	0	
+0	0	0	A	6	0	13	0		1	1	8	0	
+0	0	0	D	6	0	13	0		1	2	8	0	
+0	1	26	D	6	0	13	0		6	3	6	1	DISHUP
+0	0	0	Y	6	0	13	0		4	4	3	0	
+0	0	0	W	6	0	13	0		4	5	3	0	
+0	0	0	A	6	0	13	0		1	6	11	0	
+0	1	27	R	6	0	13	0		6	7	3	1	ROT
+0	1	28	L	6	0	13	0		6	8	3	1	LOY
+0	0	0	O	6	0	13	0		1	9	6	0	
+0	0	0	C	6	0	13	0		4	10	8	0	
+0	0	0	K	6	0	13	0		4	11	8	0	
+0	1	29	S	6	0	13	0		6	12	4	1	SHAY
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	30	T	7	1	3	1	TGI	1	1	8	0	
+0	0	0	G	7	1	3	0		1	2	8	0	
+0	0	0	I	7	1	3	0		6	3	6	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	31	L	7	6	3	1	LOO	1	6	11	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	O	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	32	H	7	10	3	1	HOH	4	10	8	0	
+0	0	0	O	7	10	3	0		4	11	8	0	
+0	0	0	H	7	10	3	0		6	12	4	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	33	E	8	1	3	1	EES	1	1	8	0	
+0	0	0	E	8	1	3	0		1	2	8	0	
+0	0	0	S	8	1	3	0		6	3	6	0	
+1	0	0	#	8	5	4	0		9	4	3	0	
+0	1	34	C	8	5	4	1	CITY	8	5	3	1	CGI
+0	0	0	I	8	5	4	0		1	6	11	0	
+0	0	0	T	8	5	4	0		6	7	3	0	
+0	0	0	Y	8	5	4	0		6	8	3	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	35	T	8	10	3	1	TEA	4	10	8	0	
+0	0	0	E	8	10	3	0		4	11	8	0	
+0	0	0	A	8	10	3	0		6	12	4	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	0	0		10	1	3	0	
+1	0	0	#	9	3	4	0		10	2	3	0	
+0	1	36	H	9	3	4	1	HUGO	6	3	6	0	
+0	1	37	U	9	3	4	0		9	4	3	1	URO
+0	0	0	G	9	3	4	0		8	5	3	0	
+0	0	0	O	9	3	4	0		1	6	11	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	38	I	9	10	3	1	ITY	4	10	8	0	
+0	0	0	T	9	10	3	0		4	11	8	0	
+0	0	0	Y	9	10	3	0		6	12	4	0	
+0	1	39	E	10	0	12	1	ENDURINGFAME	10	0	3	1	ECH
+0	1	40	N	10	0	12	0		10	1	3	1	NRA
+0	1	41	D	10	0	12	0		10	2	3	1	DOE
+0	0	0	U	10	0	12	0		6	3	6	0	
+0	0	0	R	10	0	12	0		9	4	3	0	
+0	0	0	I	10	0	12	0		8	5	3	0	
+0	0	0	N	10	0	12	0		1	6	11	0	
+0	1	42	G	10	0	12	0		10	7	3	1	GPS
+0	1	43	F	10	0	12	0		10	8	3	1	FIS
+0	1	44	A	10	0	12	0		10	9	3	1	ARN
+0	0	0	M	10	0	12	0		4	10	8	0	
+0	0	0	E	10	0	12	0		4	11	8	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+0	1	45	C	11	0	5	1	CROPO	10	0	3	0	
+0	0	0	R	11	0	5	0		10	1	3	0	
+0	0	0	O	11	0	5	0		10	2	3	0	
+0	0	0	P	11	0	5	0		6	3	6	0	
+0	0	0	O	11	0	5	0		9	4	3	0	
+1	0	0	#	11	6	6	0		12	5	0	0	
+0	1	46	S	11	6	6	1	SPIREA	1	6	11	0	
+0	0	0	P	11	6	6	0		10	7	3	0	
+0	0	0	I	11	6	6	0		10	8	3	0	
+0	0	0	R	11	6	6	0		10	9	3	0	
+0	0	0	E	11	6	6	0		4	10	8	0	
+0	0	0	A	11	6	6	0		4	11	8	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	47	H	12	0	3	1	HAE	10	0	3	0	
+0	0	0	A	12	0	3	0		10	1	3	0	
+0	0	0	E	12	0	3	0		10	2	3	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	48	S	12	7	3	1	SSN	10	7	3	0	
+0	0	0	S	12	7	3	0		10	8	3	0	
+0	0	0	N	12	7	3	0		10	9	3	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	OHM	Electrical unit
+4	VEA	Miles of film
+7	POETSC	Westminster Abbey area
+10	BCELL	Lymphocyte found in marrow
+12	RADONABOUNDS	GAS INCLUDED!
+14	BOK	___ choy (Chinese vegetable)
+15	META	Physics opening
+16	ISR	Neighbor of Jordan: Abbr.
+17	ONEG	Force that an astronaut feels on earth
+19	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+22	GTI	Popular Volkswagen model
+23	RAR	It's typically off base
+24	RAE	"Diff'rent Strokes" actress
+25	DADDYWARLOCKS	... comic strip character?
+30	TGI	___ Friday's (restaurant chain)
+31	LOO	Restroom at the Cock & Bull
+32	HOH	Water, chemically
+33	EES	Wirers, say: Abbr.
+34	CITY	Half of an E.P.A. rating
+35	TEA	Kind of party
+36	HUGO	Victor who wrote "Les Mis
+38	ITY	Suffix with dual
+39	ENDURINGFAME	Immortality, of a sort
+45	CROPO	Mysterious art visible from the sky
+46	SPIREA	Ornamental shrub
+47	HAE	Own, to Burns
+48	SSN	Info on a W-2 form: Abbr.
+29
+1	OED	Often-cited ref.
+2	HTO	Rain, essentially
+3	MSN	Yahoo competitor
+4	VEN	Title for one on the way to sainthood: Abbr.
+5	ELD	Antiquity, once
+6	ALS	Olympian Oerter and others
+7	PROSTATE	___ gland
+8	OAKRIDGE	Manhattan Project research center
+9	CAMERALIONS	Photogenic cats?
+10	BOT	Study of plants: Abbr.
+11	CUATRO	Number after tres
+13	BEG	Seek spare change
+14	BIGD	Stars' city, informally
+17	ORY	Suffix with deposit or reposit
+18	NAW	Hillbilly's rejection
+20	EACHTIME	On every single occasion
+21	PEKOETEA	Sri Lankan export
+26	DISHUP	Serve
+27	ROT	Bunk
+28	LOY	Powell's co-star in 1930's film
+29	SHAY	Open carriage
+34	CGI	Film special effects, briefly
+37	URO	Tail: Prefix
+39	ECH	Level of hierarchy: Abbr.
+40	NRA	New Deal org.
+41	DOE	One who might be interested in big bucks
+42	GPS	Auto gizmo that talks, in brief
+43	FIS	Hi-___
+44	ARN	Son of Prince Valiant

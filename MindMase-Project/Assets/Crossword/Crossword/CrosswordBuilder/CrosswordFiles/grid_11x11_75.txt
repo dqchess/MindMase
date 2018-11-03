@@ -1,0 +1,167 @@
+grid_11x11_75
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	6	0	
+1	0	0	#	0	3	3	0		1	2	10	0	
+0	1	1	A	0	3	3	1	AFC	0	3	4	1	AGNI
+0	1	2	F	0	3	3	0		0	4	3	1	FEE
+0	1	3	C	0	3	3	0		0	5	3	1	CRY
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	4	P	0	8	3	1	PAS	0	8	10	1	PETLARCENY
+0	1	5	A	0	8	3	0		0	9	3	1	ATE
+0	1	6	S	0	8	3	0		0	10	3	1	SER
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	7	R	1	1	5	1	REGER	1	1	6	1	RHETTS
+0	1	8	E	1	1	5	0		1	2	10	1	EOLIANHARP
+0	0	0	G	1	1	5	0		0	3	4	0	
+0	0	0	E	1	1	5	0		0	4	3	0	
+0	0	0	R	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	9	T	1	7	4	1	TETE	1	7	4	1	TAHE
+0	0	0	E	1	7	4	0		0	8	10	0	
+0	0	0	T	1	7	4	0		0	9	3	0	
+0	0	0	E	1	7	4	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	3	0	
+0	1	10	H	2	1	10	1	HONEYEATER	1	1	6	0	
+0	0	0	O	2	1	10	0		1	2	10	0	
+0	0	0	N	2	1	10	0		0	3	4	0	
+0	0	0	E	2	1	10	0		0	4	3	0	
+0	0	0	Y	2	1	10	0		0	5	3	0	
+0	1	11	E	2	1	10	0		2	6	4	1	EARP
+0	0	0	A	2	1	10	0		1	7	4	0	
+0	0	0	T	2	1	10	0		0	8	10	0	
+0	0	0	E	2	1	10	0		0	9	3	0	
+0	0	0	R	2	1	10	0		0	10	3	0	
+0	1	12	F	3	0	4	1	FELI	3	0	3	1	FUM
+0	0	0	E	3	0	4	0		1	1	6	0	
+0	0	0	L	3	0	4	0		1	2	10	0	
+0	0	0	I	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	A	3	6	3	1	AHL	2	6	4	0	
+0	0	0	H	3	6	3	0		1	7	4	0	
+0	0	0	L	3	6	3	0		0	8	10	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	14	U	4	0	3	1	UTI	3	0	3	0	
+0	0	0	T	4	0	3	0		1	1	6	0	
+0	0	0	I	4	0	3	0		1	2	10	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	5	0		5	4	4	0	
+0	1	15	T	4	5	5	1	TREAT	4	5	3	1	TUS
+0	0	0	R	4	5	5	0		2	6	4	0	
+0	0	0	E	4	5	5	0		1	7	4	0	
+0	0	0	A	4	5	5	0		0	8	10	0	
+0	1	16	T	4	5	5	0		4	9	6	1	TEASER
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	17	M	5	0	3	1	MTA	3	0	3	0	
+0	0	0	T	5	0	3	0		1	1	6	0	
+0	0	0	A	5	0	3	0		1	2	10	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	18	C	5	4	3	1	CUP	5	4	4	1	CEST
+0	0	0	U	5	4	3	0		4	5	3	0	
+0	0	0	P	5	4	3	0		2	6	4	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	19	R	5	8	3	1	REX	0	8	10	0	
+0	0	0	E	5	8	3	0		4	9	6	0	
+0	1	20	X	5	8	3	0		5	10	3	1	XLS
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	21	S	6	1	5	1	SNEES	1	1	6	0	
+0	0	0	N	6	1	5	0		1	2	10	0	
+0	1	22	E	6	1	5	0		6	3	4	1	EURO
+0	0	0	E	6	1	5	0		5	4	4	0	
+0	0	0	S	6	1	5	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	23	C	6	8	3	1	CAL	0	8	10	0	
+0	0	0	A	6	8	3	0		4	9	6	0	
+0	0	0	L	6	8	3	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	24	H	7	2	3	1	HUS	1	2	10	0	
+0	0	0	U	7	2	3	0		6	3	4	0	
+0	0	0	S	7	2	3	0		5	4	4	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	25	L	7	7	4	1	LESS	7	7	4	1	LOTS
+0	0	0	E	7	7	4	0		0	8	10	0	
+0	0	0	S	7	7	4	0		4	9	6	0	
+0	0	0	S	7	7	4	0		5	10	3	0	
+0	1	26	S	8	0	10	1	SMARTPHONE	8	0	3	1	SKD
+0	1	27	M	8	0	10	0		8	1	3	1	MAI
+0	0	0	A	8	0	10	0		1	2	10	0	
+0	0	0	R	8	0	10	0		6	3	4	0	
+0	0	0	T	8	0	10	0		5	4	4	0	
+0	1	28	P	8	0	10	0		8	5	3	1	PSY
+0	1	29	H	8	0	10	0		8	6	3	1	HAD
+0	0	0	O	8	0	10	0		7	7	4	0	
+0	0	0	N	8	0	10	0		0	8	10	0	
+0	0	0	E	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	30	K	9	0	4	1	KARO	8	0	3	0	
+0	0	0	A	9	0	4	0		8	1	3	0	
+0	0	0	R	9	0	4	0		1	2	10	0	
+0	0	0	O	9	0	4	0		6	3	4	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	31	S	9	5	5	1	SATYR	8	5	3	0	
+0	0	0	A	9	5	5	0		8	6	3	0	
+0	0	0	T	9	5	5	0		7	7	4	0	
+0	0	0	Y	9	5	5	0		0	8	10	0	
+0	0	0	R	9	5	5	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	32	D	10	0	3	1	DIP	8	0	3	0	
+0	0	0	I	10	0	3	0		8	1	3	0	
+0	0	0	P	10	0	3	0		1	2	10	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	33	Y	10	5	3	1	YDS	8	5	3	0	
+0	0	0	D	10	5	3	0		8	6	3	0	
+0	0	0	S	10	5	3	0		7	7	4	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	AFC	Bills are in it: Abbr.
+4	PAS	Mas' partners
+7	REGER	Composer Max
+9	TETE	French noodle?
+10	HONEYEATER	Bird with a long, protrusible tongue
+12	FELI	Like Christmas in Madrid?
+13	AHL	Sports org. with the Calder Cup
+14	UTI	___ possidetis (as you possess, at law)
+15	TREAT	Trick's alternative
+17	MTA	N.Y.C. subway operator
+18	CUP	Saucer's go-with
+19	REX	Andy's dinosaur in "Toy Story"
+21	SNEES	Bygone blades
+23	CAL	Berkeley campus nickname
+24	HUS	Czech religious reformer Jan
+25	LESS	To a smaller degree
+26	SMARTPHONE	Android runner, e.g.
+30	KARO	Syrup brand
+31	SATYR	Wanton type
+32	DIP	Dance move
+33	YDS	Upholsterer's meas.
+21
+1	AGNI	Latin lambs
+2	FEE	Membership charge
+3	CRY	Hue's partner
+4	PETLARCENY	Case for Ace Ventura?
+5	ATE	Downed a sub?
+6	SER	Talk for the flock: Abbr.
+7	RHETTS	Country singer Akins and others
+8	EOLIANHARP	Music maker "played" by the wind
+9	TAHE	Chevrolet model
+11	EARP	Tombstone figure
+12	FUM	Part of a giant's chant
+15	TUS	Overseer of schools: Abbr.
+16	TEASER	Promo, perhaps
+18	CEST	"___ la guerre!"
+20	XLS	Big sizes, briefly
+22	EURO	New money on the Continent
+25	LOTS	They may be drawn
+26	SKD	Dog doc
+27	MAI	Month before juin
+28	PSY	Subj. that deals with mixed feelings
+29	HAD	Taken in

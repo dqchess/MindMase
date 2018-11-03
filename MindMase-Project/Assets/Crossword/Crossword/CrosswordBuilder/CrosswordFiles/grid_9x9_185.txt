@@ -1,0 +1,115 @@
+grid_9x9_185
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	W	0	1	3	1	WHA	0	1	9	1	WILDSWINE
+0	1	2	H	0	1	3	0		0	2	9	1	HEARTBEAT
+0	1	3	A	0	1	3	0		0	3	3	1	ANS
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	I	0	5	3	1	IST	0	5	5	1	ISNOT
+0	1	5	S	0	5	3	0		0	6	9	1	SEEDLINGS
+0	1	6	T	0	5	3	0		0	7	9	1	TEDDYBEAR
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	C	1	0	4	1	CIEN	1	0	3	1	CEL
+0	0	0	I	1	0	4	0		0	1	9	0	
+0	0	0	E	1	0	4	0		0	2	9	0	
+0	0	0	N	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	S	1	5	4	1	SEEP	0	5	5	0	
+0	0	0	E	1	5	4	0		0	6	9	0	
+0	0	0	E	1	5	4	0		0	7	9	0	
+0	1	9	P	1	5	4	0		1	8	3	1	PSY
+0	1	10	E	2	0	4	1	ELAS	1	0	3	0	
+0	0	0	L	2	0	4	0		0	1	9	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	N	2	5	4	1	NEDS	0	5	5	0	
+0	0	0	E	2	5	4	0		0	6	9	0	
+0	0	0	D	2	5	4	0		0	7	9	0	
+0	0	0	S	2	5	4	0		1	8	3	0	
+0	1	12	L	3	0	3	1	LDR	1	0	3	0	
+0	0	0	D	3	0	3	0		0	1	9	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	R	3	4	5	1	RODDY	3	4	3	1	RUS
+0	0	0	O	3	4	5	0		0	5	5	0	
+0	0	0	D	3	4	5	0		0	6	9	0	
+0	0	0	D	3	4	5	0		0	7	9	0	
+0	0	0	Y	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	S	4	1	7	1	STOUTLY	0	1	9	0	
+0	0	0	T	4	1	7	0		0	2	9	0	
+0	1	15	O	4	1	7	0		4	3	5	1	OUTGS
+0	0	0	U	4	1	7	0		3	4	3	0	
+0	0	0	T	4	1	7	0		0	5	5	0	
+0	0	0	L	4	1	7	0		0	6	9	0	
+0	0	0	Y	4	1	7	0		0	7	9	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	16	V	5	0	5	1	VWBUS	5	0	3	1	VPS
+0	0	0	W	5	0	5	0		0	1	9	0	
+0	0	0	B	5	0	5	0		0	2	9	0	
+0	0	0	U	5	0	5	0		4	3	5	0	
+0	0	0	S	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	I	5	6	3	1	IBE	0	6	9	0	
+0	0	0	B	5	6	3	0		0	7	9	0	
+0	1	18	E	5	6	3	0		5	8	3	1	EGS
+0	1	19	P	6	0	4	1	PIET	5	0	3	0	
+0	0	0	I	6	0	4	0		0	1	9	0	
+0	0	0	E	6	0	4	0		0	2	9	0	
+0	0	0	T	6	0	4	0		4	3	5	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	20	A	6	5	4	1	ANEG	6	5	3	1	ANT
+0	0	0	N	6	5	4	0		0	6	9	0	
+0	0	0	E	6	5	4	0		0	7	9	0	
+0	0	0	G	6	5	4	0		5	8	3	0	
+0	1	21	S	7	0	4	1	SNAG	5	0	3	0	
+0	0	0	N	7	0	4	0		0	1	9	0	
+0	0	0	A	7	0	4	0		0	2	9	0	
+0	0	0	G	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	N	7	5	4	1	NGAS	6	5	3	0	
+0	0	0	G	7	5	4	0		0	6	9	0	
+0	0	0	A	7	5	4	0		0	7	9	0	
+0	0	0	S	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	23	E	8	1	3	1	ETS	0	1	9	0	
+0	0	0	T	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	T	8	5	3	1	TSR	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	R	8	5	3	0		0	7	9	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	WHA	"Huh?"
+4	IST	Suffix with viol
+7	CIEN	Diez x diez
+8	SEEP	Ooze through the cracks
+10	ELAS	Old musical notes
+11	NEDS	___ Point Lighthouse, Massachusetts landmark since 1838
+12	LDR	C.E.O., e.g.: Abbr.
+13	RODDY	Actor McDowall
+14	STOUTLY	With resolve
+16	VWBUS	Model featured in "Little Miss Sunshine"
+17	IBE	The Everlys' "When Will ___ Loved"
+19	PIET	Painter Mondrian
+20	ANEG	Uncommon blood type, informally
+21	SNAG	Hitch or glitch
+22	NGAS	Piped fuel
+23	ETS	U.F.O. crew
+24	TSR	Dungeons & Dragons game co.
+13
+1	WILDSWINE	Boar
+2	HEARTBEAT	Pump thump
+3	ANS	Partner of a ques.
+4	ISNOT	"This ___ a drill!"
+5	SEEDLINGS	Newly sprouted trees
+6	TEDDYBEAR	Theodore Roosevelt's namesake toy
+7	CEL	Animator's sheet
+9	PSY	Freud subj.
+13	RUS	Ukr. neighbor
+15	OUTGS	Picnics, e.g.
+16	VPS	They may report to C.E.O.'s
+18	EGS	Units in physics
+20	ANT	Lizard's nibble

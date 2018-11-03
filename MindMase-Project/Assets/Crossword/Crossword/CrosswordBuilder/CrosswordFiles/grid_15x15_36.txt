@@ -1,0 +1,305 @@
+grid_15x15_36
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	4	0		1	1	6	0	
+0	1	1	O	0	2	4	1	ONIN	0	2	15	1	OPENEDANACCOUNT
+0	1	2	N	0	2	4	0		0	3	3	1	NOE
+0	1	3	I	0	2	4	0		0	4	5	1	IKNOW
+0	1	4	N	0	2	4	0		0	5	7	1	NESTORS
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	S	0	8	3	1	STY	0	8	6	1	SAHIBS
+0	1	6	T	0	8	3	0		0	9	3	1	TAB
+0	1	7	Y	0	8	3	0		0	10	3	1	YAO
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	8	S	0	12	3	1	SOA	0	12	15	1	SEALOVEAPPROVAL
+0	1	9	O	0	12	3	0		0	13	7	1	OLMSTED
+0	1	10	A	0	12	3	0		0	14	6	1	ALPACA
+1	0	0	#	1	1	6	0		2	0	0	0	
+0	1	11	S	1	1	6	1	SPOKEN	1	1	6	1	STENTS
+0	0	0	P	1	1	6	0		0	2	15	0	
+0	0	0	O	1	1	6	0		0	3	3	0	
+0	0	0	K	1	1	6	0		0	4	5	0	
+0	0	0	E	1	1	6	0		0	5	7	0	
+0	1	12	N	1	1	6	0		1	6	3	1	NYT
+1	0	0	#	1	8	7	0		2	7	0	0	
+0	1	13	A	1	8	7	1	AAACELL	0	8	6	0	
+0	0	0	A	1	8	7	0		0	9	3	0	
+0	0	0	A	1	8	7	0		0	10	3	0	
+0	1	14	C	1	8	7	0		1	11	3	1	CCI
+0	0	0	E	1	8	7	0		0	12	15	0	
+0	0	0	L	1	8	7	0		0	13	7	0	
+0	0	0	L	1	8	7	0		0	14	6	0	
+1	0	0	#	2	1	6	0		3	0	3	0	
+0	1	15	T	2	1	6	1	TEENSY	1	1	6	0	
+0	0	0	E	2	1	6	0		0	2	15	0	
+0	0	0	E	2	1	6	0		0	3	3	0	
+0	0	0	N	2	1	6	0		0	4	5	0	
+0	0	0	S	2	1	6	0		0	5	7	0	
+0	0	0	Y	2	1	6	0		1	6	3	0	
+1	0	0	#	2	8	7	0		3	7	9	0	
+0	1	16	H	2	8	7	1	HBOCAMP	0	8	6	0	
+0	0	0	B	2	8	7	0		0	9	3	0	
+0	0	0	O	2	8	7	0		0	10	3	0	
+0	0	0	C	2	8	7	0		1	11	3	0	
+0	0	0	A	2	8	7	0		0	12	15	0	
+0	0	0	M	2	8	7	0		0	13	7	0	
+0	0	0	P	2	8	7	0		0	14	6	0	
+0	1	17	M	3	0	3	1	MEN	3	0	3	1	MOL
+0	0	0	E	3	0	3	0		1	1	6	0	
+0	0	0	N	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	18	O	3	4	5	1	OTTOI	0	4	5	0	
+0	0	0	T	3	4	5	0		0	5	7	0	
+0	0	0	T	3	4	5	0		1	6	3	0	
+0	1	19	O	3	4	5	0		3	7	9	1	ONONESWAY
+0	0	0	I	3	4	5	0		0	8	6	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	4	0		4	10	0	0	
+0	1	20	I	3	11	4	1	ILSA	1	11	3	0	
+0	0	0	L	3	11	4	0		0	12	15	0	
+0	0	0	S	3	11	4	0		0	13	7	0	
+0	0	0	A	3	11	4	0		0	14	6	0	
+0	1	21	O	4	0	6	1	ONETWO	3	0	3	0	
+0	0	0	N	4	0	6	0		1	1	6	0	
+0	0	0	E	4	0	6	0		0	2	15	0	
+0	1	22	T	4	0	6	0		4	3	5	1	TSETS
+0	0	0	W	4	0	6	0		0	4	5	0	
+0	0	0	O	4	0	6	0		0	5	7	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	23	N	4	7	3	1	NBA	3	7	9	0	
+0	0	0	B	4	7	3	0		0	8	6	0	
+0	1	24	A	4	7	3	0		4	9	3	1	ATL
+1	0	0	#	4	11	0	0		5	10	3	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	O	4	12	3	1	OTC	0	12	15	0	
+0	0	0	T	4	12	3	0		0	13	7	0	
+0	0	0	C	4	12	3	0		0	14	6	0	
+0	1	26	L	5	0	4	1	LTDS	3	0	3	0	
+0	0	0	T	5	0	4	0		1	1	6	0	
+0	0	0	D	5	0	4	0		0	2	15	0	
+0	0	0	S	5	0	4	0		4	3	5	0	
+1	0	0	#	5	5	6	0		6	4	0	0	
+0	1	27	R	5	5	6	1	ROOSTS	0	5	7	0	
+0	1	28	O	5	5	6	0		5	6	3	1	OON
+0	0	0	O	5	5	6	0		3	7	9	0	
+0	0	0	S	5	5	6	0		0	8	6	0	
+0	0	0	T	5	5	6	0		4	9	3	0	
+0	1	29	S	5	5	6	0		5	10	3	1	SAP
+1	0	0	#	5	12	3	0		6	11	5	0	
+0	1	30	V	5	12	3	1	VEA	0	12	15	0	
+0	0	0	E	5	12	3	0		0	13	7	0	
+0	0	0	A	5	12	3	0		0	14	6	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	31	S	6	1	3	1	SAE	1	1	6	0	
+0	0	0	A	6	1	3	0		0	2	15	0	
+0	0	0	E	6	1	3	0		4	3	5	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	32	S	6	5	3	1	SON	0	5	7	0	
+0	0	0	O	6	5	3	0		5	6	3	0	
+0	0	0	N	6	5	3	0		3	7	9	0	
+1	0	0	#	6	9	5	0		7	8	3	0	
+0	1	33	L	6	9	5	1	LANED	4	9	3	0	
+0	0	0	A	6	9	5	0		5	10	3	0	
+0	1	34	N	6	9	5	0		6	11	5	1	NEATO
+0	0	0	E	6	9	5	0		0	12	15	0	
+0	0	0	D	6	9	5	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	7	0	
+0	1	35	N	7	2	3	1	NTH	0	2	15	0	
+0	0	0	T	7	2	3	0		4	3	5	0	
+0	1	36	H	7	2	3	0		7	4	3	1	HED
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	37	N	7	6	3	1	NED	5	6	3	0	
+0	0	0	E	7	6	3	0		3	7	9	0	
+0	1	38	D	7	6	3	0		7	8	3	1	DAS
+1	0	0	#	7	10	3	0		8	9	7	0	
+0	1	39	P	7	10	3	1	PEA	5	10	3	0	
+0	0	0	E	7	10	3	0		6	11	5	0	
+0	0	0	A	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	6	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	5	0		9	0	6	0	
+0	1	40	P	8	1	5	1	PASEO	8	1	7	1	PYRAMID
+0	0	0	A	8	1	5	0		0	2	15	0	
+0	0	0	S	8	1	5	0		4	3	5	0	
+0	0	0	E	8	1	5	0		7	4	3	0	
+0	1	41	O	8	1	5	0		8	5	3	1	ORE
+1	0	0	#	8	7	3	0		9	6	6	0	
+0	1	42	S	8	7	3	1	SAY	3	7	9	0	
+0	0	0	A	8	7	3	0		7	8	3	0	
+0	1	43	Y	8	7	3	0		8	9	7	1	YEARONE
+1	0	0	#	8	11	3	0		9	10	0	0	
+0	1	44	A	8	11	3	1	APB	6	11	5	0	
+0	0	0	P	8	11	3	0		0	12	15	0	
+0	1	45	B	8	11	3	0		8	13	6	1	BETSEY
+1	0	0	#	8	15	0	0		9	14	3	0	
+0	1	46	M	9	0	3	1	MYC	9	0	6	1	MORALE
+0	0	0	Y	9	0	3	0		8	1	7	0	
+0	0	0	C	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	47	D	9	4	6	1	DROWSE	7	4	3	0	
+0	0	0	R	9	4	6	0		8	5	3	0	
+0	1	48	O	9	4	6	0		9	6	6	1	OWOSSO
+0	0	0	W	9	4	6	0		3	7	9	0	
+0	0	0	S	9	4	6	0		7	8	3	0	
+0	0	0	E	9	4	6	0		8	9	7	0	
+1	0	0	#	9	11	4	0		10	10	5	0	
+0	1	49	T	9	11	4	1	TPER	6	11	5	0	
+0	0	0	P	9	11	4	0		0	12	15	0	
+0	0	0	E	9	11	4	0		8	13	6	0	
+0	1	50	R	9	11	4	0		9	14	3	1	RST
+0	1	51	O	10	0	3	1	ORC	9	0	6	0	
+0	0	0	R	10	0	3	0		8	1	7	0	
+0	0	0	C	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	0	0		11	3	3	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	52	E	10	5	3	1	EWA	8	5	3	0	
+0	0	0	W	10	5	3	0		9	6	6	0	
+0	0	0	A	10	5	3	0		3	7	9	0	
+1	0	0	#	10	9	6	0		11	8	3	0	
+0	1	53	A	10	9	6	1	AMORTS	8	9	7	0	
+0	1	54	M	10	9	6	0		10	10	5	1	MSHES
+0	0	0	O	10	9	6	0		6	11	5	0	
+0	0	0	R	10	9	6	0		0	12	15	0	
+0	0	0	T	10	9	6	0		8	13	6	0	
+0	0	0	S	10	9	6	0		9	14	3	0	
+0	1	55	R	11	0	4	1	RAOM	9	0	6	0	
+0	0	0	A	11	0	4	0		8	1	7	0	
+0	0	0	O	11	0	4	0		0	2	15	0	
+0	1	56	M	11	0	4	0		11	3	3	1	MLI
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	5	0		12	5	3	0	
+0	1	57	O	11	6	5	1	OYERS	9	6	6	0	
+0	0	0	Y	11	6	5	0		3	7	9	0	
+0	1	58	E	11	6	5	0		11	8	3	1	EMO
+0	0	0	R	11	6	5	0		8	9	7	0	
+0	0	0	S	11	6	5	0		10	10	5	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	59	O	11	12	3	1	OST	0	12	15	0	
+0	0	0	S	11	12	3	0		8	13	6	0	
+0	0	0	T	11	12	3	0		9	14	3	0	
+0	1	60	A	12	0	7	1	AMULETS	9	0	6	0	
+0	0	0	M	12	0	7	0		8	1	7	0	
+0	0	0	U	12	0	7	0		0	2	15	0	
+0	0	0	L	12	0	7	0		11	3	3	0	
+0	1	61	E	12	0	7	0		12	4	3	1	ENO
+0	1	62	T	12	0	7	0		12	5	3	1	TGI
+0	0	0	S	12	0	7	0		9	6	6	0	
+1	0	0	#	12	8	6	0		13	7	0	0	
+0	1	63	M	12	8	6	1	MOHAVE	11	8	3	0	
+0	0	0	O	12	8	6	0		8	9	7	0	
+0	0	0	H	12	8	6	0		10	10	5	0	
+0	1	64	A	12	8	6	0		12	11	3	1	ADE
+0	0	0	V	12	8	6	0		0	12	15	0	
+0	0	0	E	12	8	6	0		8	13	6	0	
+1	0	0	#	12	15	0	0		13	14	0	0	
+0	1	65	L	13	0	7	1	LININGS	9	0	6	0	
+0	0	0	I	13	0	7	0		8	1	7	0	
+0	0	0	N	13	0	7	0		0	2	15	0	
+0	0	0	I	13	0	7	0		11	3	3	0	
+0	0	0	N	13	0	7	0		12	4	3	0	
+0	0	0	G	13	0	7	0		12	5	3	0	
+0	0	0	S	13	0	7	0		9	6	6	0	
+1	0	0	#	13	8	6	0		14	7	0	0	
+0	1	66	O	13	8	6	1	ONEDAY	11	8	3	0	
+0	0	0	N	13	8	6	0		8	9	7	0	
+0	0	0	E	13	8	6	0		10	10	5	0	
+0	0	0	D	13	8	6	0		12	11	3	0	
+0	0	0	A	13	8	6	0		0	12	15	0	
+0	0	0	Y	13	8	6	0		8	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+0	1	67	E	14	0	3	1	EDT	9	0	6	0	
+0	0	0	D	14	0	3	0		8	1	7	0	
+0	0	0	T	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	68	O	14	4	3	1	OIO	12	4	3	0	
+0	0	0	I	14	4	3	0		12	5	3	0	
+0	0	0	O	14	4	3	0		9	6	6	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	4	0		15	8	0	0	
+0	1	69	E	14	9	4	1	ESEL	8	9	7	0	
+0	0	0	S	14	9	4	0		10	10	5	0	
+0	0	0	E	14	9	4	0		12	11	3	0	
+0	0	0	L	14	9	4	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	ONIN	"Go ___!"
+5	STY	Shoat holder
+8	SOA	"___ wise guy, eh?"
+11	SPOKEN	Not tacit
+13	AAACELL	Certain battery
+15	TEENSY	Peewee
+16	HBOCAMP	Bum place to stay?
+17	MEN	Guys
+18	OTTOI	Holy Roman emperor crowned 962
+20	ILSA	Role for Ingrid
+21	ONETWO	Ring combo
+23	NBA	Org. with guards
+25	OTC	Like many stocks: Abbr.
+26	LTDS	Bygone Fords
+27	ROOSTS	Night sticks?
+30	VEA	Miles of film
+31	SAE	Reply facilitator: Abbr.
+32	SON	Sequel title starter
+33	LANED	Like a highway
+35	NTH	Highest
+37	NED	Beatty or Rorem
+39	PEA	Princess tormentor
+40	PASEO	Scenic walk
+42	SAY	Declare
+44	APB	A police car may get one: Abbr.
+46	MYC	Mushroom: Prefix
+47	DROWSE	Nod off
+49	TPER	Formal hat, informally
+51	ORC	Tolkien monster
+52	EWA	Actress Aulin of "Candy"
+53	AMORTS	Loan payment schedules: Abbr.
+55	RAOM	Haphazard
+57	OYERS	Some court hearings
+59	OST	German compass point
+60	AMULETS	Charms
+63	MOHAVE	Native Arizonan
+65	LININGS	Winter coat features
+66	ONEDAY	At a future time
+67	EDT	N.Y. follows it in the summer
+68	OIO	Source of some rings
+69	ESEL	Dusseldorf donkey
+35
+1	OPENEDANACCOUNT	Started to save, maybe
+2	NOE	Zero
+3	IKNOW	"No kidding"
+4	NESTORS	Patriarchs
+5	SAHIBS	Masters
+6	TAB	It's run up and then settled
+7	YAO	Hoopster ___ Ming
+8	SEALOVEAPPROVAL	Blessing for a shipboard romance?
+9	OLMSTED	Central Park designer Frederick Law ___
+10	ALPACA	Silky-fleeced animal
+11	STENTS	Surgical inserts
+12	NYT	W.S.J. rival
+14	CCI	201, classically
+17	MOL	Chem. unit
+19	ONONESWAY	Getting there
+22	TSETS	Need for the winner of a Wimbledon men's match
+24	ATL	U.S./U.K. divider
+28	OON	Suffix with ball
+29	SAP	One likely to be taken in
+34	NEATO	"Peachy"
+36	HED	Ending with soft or light
+38	DAS	"___ Rheingold"
+40	PYRAMID	Cheops construction
+41	ORE	Band of gold?
+43	YEARONE	The beginning
+45	BETSEY	Fashion designer Johnson
+46	MORALE	It sometimes needs boosting
+48	OWOSSO	Michigan town where Thomas Dewey was born
+50	RST	Run after Q
+54	MSHES	Prepares potatoes in a way
+56	MLI	Year before Philip I was born
+58	EMO	Comic Philips
+61	ENO	Brian of ambient music
+62	TGI	___ Friday
+64	ADE	Add-on for Gator

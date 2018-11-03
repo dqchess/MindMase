@@ -1,0 +1,167 @@
+grid_11x11_20
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	4	0		1	1	5	0	
+0	1	1	H	0	2	4	1	HARD	0	2	11	1	HORSEOPERAS
+0	1	2	A	0	2	4	0		0	3	3	1	AON
+0	1	3	R	0	2	4	0		0	4	3	1	RNA
+0	1	4	D	0	2	4	0		0	5	3	1	DEM
+1	0	0	#	0	7	0	0		1	6	6	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	P	0	8	3	1	PST	0	8	11	1	PATRONSAINT
+0	1	6	S	0	8	3	0		0	9	4	1	STAD
+0	1	7	T	0	8	3	0		0	10	3	1	TTL
+1	0	0	#	1	1	6	0		2	0	0	0	
+0	1	8	R	1	1	6	1	ROONEY	1	1	5	1	ROLLA
+0	0	0	O	1	1	6	0		0	2	11	0	
+0	0	0	O	1	1	6	0		0	3	3	0	
+0	0	0	N	1	1	6	0		0	4	3	0	
+0	0	0	E	1	1	6	0		0	5	3	0	
+0	1	9	Y	1	1	6	0		1	6	6	1	YELLAT
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	10	A	1	8	3	1	ATT	0	8	11	0	
+0	0	0	T	1	8	3	0		0	9	4	0	
+0	0	0	T	1	8	3	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	3	0	
+0	1	11	O	2	1	10	1	ORNAMENTAL	1	1	5	0	
+0	0	0	R	2	1	10	0		0	2	11	0	
+0	0	0	N	2	1	10	0		0	3	3	0	
+0	0	0	A	2	1	10	0		0	4	3	0	
+0	0	0	M	2	1	10	0		0	5	3	0	
+0	0	0	E	2	1	10	0		1	6	6	0	
+0	1	12	N	2	1	10	0		2	7	3	1	NAT
+0	0	0	T	2	1	10	0		0	8	11	0	
+0	0	0	A	2	1	10	0		0	9	4	0	
+0	0	0	L	2	1	10	0		0	10	3	0	
+0	1	13	S	3	0	3	1	SLS	3	0	3	1	SAT
+0	0	0	L	3	0	3	0		1	1	5	0	
+0	0	0	S	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	6	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	14	L	3	6	4	1	LARD	1	6	6	0	
+0	0	0	A	3	6	4	0		2	7	3	0	
+0	0	0	R	3	6	4	0		0	8	11	0	
+0	0	0	D	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	A	4	0	3	1	ALE	3	0	3	0	
+0	0	0	L	4	0	3	0		1	1	5	0	
+0	0	0	E	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	5	0		5	3	0	0	
+0	1	16	A	4	4	5	1	AALTO	4	4	6	1	AMBLIN
+0	1	17	A	4	4	5	0		4	5	3	1	ABS
+0	0	0	L	4	4	5	0		1	6	6	0	
+0	0	0	T	4	4	5	0		2	7	3	0	
+0	0	0	O	4	4	5	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	18	T	5	0	3	1	TAO	3	0	3	0	
+0	0	0	A	5	0	3	0		1	1	5	0	
+0	0	0	O	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	19	M	5	4	3	1	MBA	4	4	6	0	
+0	0	0	B	5	4	3	0		4	5	3	0	
+0	0	0	A	5	4	3	0		1	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	20	N	5	8	3	1	NSC	0	8	11	0	
+0	1	21	S	5	8	3	0		5	9	5	1	STADT
+0	1	22	C	5	8	3	0		5	10	3	1	CGS
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	5	0		7	1	4	0	
+0	1	23	P	6	2	5	1	PABST	0	2	11	0	
+0	1	24	A	6	2	5	0		6	3	3	1	AER
+0	0	0	B	6	2	5	0		4	4	6	0	
+0	0	0	S	6	2	5	0		4	5	3	0	
+0	0	0	T	6	2	5	0		1	6	6	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	25	S	6	8	3	1	STG	0	8	11	0	
+0	0	0	T	6	8	3	0		5	9	5	0	
+0	0	0	G	6	8	3	0		5	10	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	26	P	7	1	4	1	PEEL	7	1	4	1	PAID
+0	0	0	E	7	1	4	0		0	2	11	0	
+0	0	0	E	7	1	4	0		6	3	3	0	
+0	0	0	L	7	1	4	0		4	4	6	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	A	7	8	3	1	AAS	0	8	11	0	
+0	0	0	A	7	8	3	0		5	9	5	0	
+0	0	0	S	7	8	3	0		5	10	3	0	
+0	1	28	E	8	0	10	1	EARRINGAID	8	0	3	1	ELS
+0	0	0	A	8	0	10	0		7	1	4	0	
+0	0	0	R	8	0	10	0		0	2	11	0	
+0	0	0	R	8	0	10	0		6	3	3	0	
+0	0	0	I	8	0	10	0		4	4	6	0	
+0	1	29	N	8	0	10	0		8	5	3	1	NEN
+0	1	30	G	8	0	10	0		8	6	3	1	GEL
+0	1	31	A	8	0	10	0		8	7	3	1	ADA
+0	0	0	I	8	0	10	0		0	8	11	0	
+0	0	0	D	8	0	10	0		5	9	5	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	32	L	9	0	3	1	LIA	8	0	3	0	
+0	0	0	I	9	0	3	0		7	1	4	0	
+0	0	0	A	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	33	N	9	4	6	1	NEEDNT	4	4	6	0	
+0	0	0	E	9	4	6	0		8	5	3	0	
+0	0	0	E	9	4	6	0		8	6	3	0	
+0	0	0	D	9	4	6	0		8	7	3	0	
+0	0	0	N	9	4	6	0		0	8	11	0	
+0	0	0	T	9	4	6	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	S	10	0	3	1	SDS	8	0	3	0	
+0	0	0	D	10	0	3	0		7	1	4	0	
+0	0	0	S	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	4	0		11	4	0	0	
+0	1	35	N	10	5	4	1	NLAT	8	5	3	0	
+0	0	0	L	10	5	4	0		8	6	3	0	
+0	0	0	A	10	5	4	0		8	7	3	0	
+0	0	0	T	10	5	4	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	HARD	Stony
+5	PST	Hrs. in the West
+8	ROONEY	Mickey of "National Velvet"
+10	ATT	Part of "D.A.": Abbr.
+11	ORNAMENTAL	Like some shrubs
+13	SLS	Classic Mercedes roadsters
+14	LARD	___ Lad, doughnut shop on "The Simpsons"
+15	ALE	"Cakes and ___" (Maugham novel)
+16	AALTO	Noted Finnish architect
+18	TAO	Confucian principle
+19	MBA	George W. deg.
+20	NSC	Pres. advisory grp.
+23	PABST	Colt 45 producer
+25	STG	Brit. money
+26	PEEL	Undress
+27	AAS	Recovery grps.
+28	EARRINGAID	Help at the jeweler's?
+32	LIA	Knight who hosts a country music radio show
+33	NEEDNT	"You ___ bother!"
+34	SDS	Port Huron Statement org.
+35	NLAT	About 40 degrees, for N.Y.C.
+21
+1	HORSEOPERAS	Western-themed films
+2	AON	___ Center (Chicago skyscraper)
+3	RNA	It's stranded
+4	DEM	Person on the left?: Abbr.
+5	PATRONSAINT	Denis, to France
+6	STAD	Native village, in South Africa
+7	TTL	Lumberjack's tool
+8	ROLLA	University of Missouri locale
+9	YELLAT	Severely chastise
+12	NAT	Insurrectionist Turner
+13	SAT	Used a pew
+16	AMBLIN	Company co-founded by Spielberg
+17	ABS	Middle muscles, for short
+21	STADT	German city
+22	CGS	Like a system of scientific meas.
+24	AER	Cousin of atmo-
+26	PAID	Office stamp
+28	ELS	Hollow center?
+29	NEN	Relief pitcher Robb
+30	GEL	Salon supply
+31	ADA	Literary title character with a palindromic name

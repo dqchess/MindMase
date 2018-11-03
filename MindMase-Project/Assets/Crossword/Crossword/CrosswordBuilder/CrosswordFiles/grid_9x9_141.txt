@@ -1,0 +1,117 @@
+grid_9x9_141
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	C	0	1	3	1	CYD	0	1	5	1	CREAM
+0	1	2	Y	0	1	3	0		0	2	9	1	YARDSTICK
+0	1	3	D	0	1	3	0		0	3	3	1	DSO
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	W	0	6	3	1	WBC	0	6	9	1	WEAKKNEED
+0	1	5	B	0	6	3	0		0	7	3	1	BKS
+0	1	6	C	0	6	3	0		0	8	3	1	CEE
+0	1	7	T	1	0	4	1	TRAS	1	0	3	1	TAL
+0	0	0	R	1	0	4	0		0	1	5	0	
+0	0	0	A	1	0	4	0		0	2	9	0	
+0	0	0	S	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	D	1	5	4	1	DEKE	1	5	4	1	DEBT
+0	0	0	E	1	5	4	0		0	6	9	0	
+0	0	0	K	1	5	4	0		0	7	3	0	
+0	0	0	E	1	5	4	0		0	8	3	0	
+0	1	9	A	2	0	4	1	AERO	1	0	3	0	
+0	0	0	E	2	0	4	0		0	1	5	0	
+0	0	0	R	2	0	4	0		0	2	9	0	
+0	0	0	O	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	E	2	5	4	1	EASE	1	5	4	0	
+0	0	0	A	2	5	4	0		0	6	9	0	
+0	0	0	S	2	5	4	0		0	7	3	0	
+0	0	0	E	2	5	4	0		0	8	3	0	
+0	1	11	L	3	0	3	1	LAD	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	5	0	
+0	0	0	D	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	B	3	4	3	1	BBK	3	4	3	1	BID
+0	0	0	B	3	4	3	0		1	5	4	0	
+0	0	0	K	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	13	M	4	1	7	1	MSXITKH	0	1	5	0	
+0	0	0	S	4	1	7	0		0	2	9	0	
+0	1	14	X	4	1	7	0		4	3	4	1	XERS
+0	0	0	I	4	1	7	0		3	4	3	0	
+0	0	0	T	4	1	7	0		1	5	4	0	
+0	0	0	K	4	1	7	0		0	6	9	0	
+0	1	15	H	4	1	7	0		4	7	5	1	HYDRA
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	16	T	5	2	3	1	TED	0	2	9	0	
+0	0	0	E	5	2	3	0		4	3	4	0	
+0	0	0	D	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	N	5	6	3	1	NYT	0	6	9	0	
+0	0	0	Y	5	6	3	0		4	7	5	0	
+0	1	18	T	5	6	3	0		5	8	3	1	TCI
+0	1	19	E	6	0	4	1	EMIR	6	0	3	1	ELS
+0	1	20	M	6	0	4	0		6	1	3	1	MIA
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	0	0	R	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	R	6	5	4	1	REDC	6	5	3	1	RAP
+0	0	0	E	6	5	4	0		0	6	9	0	
+0	0	0	D	6	5	4	0		4	7	5	0	
+0	0	0	C	6	5	4	0		5	8	3	0	
+0	1	22	L	7	0	4	1	LICS	6	0	3	0	
+0	0	0	I	7	0	4	0		6	1	3	0	
+0	0	0	C	7	0	4	0		0	2	9	0	
+0	0	0	S	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	23	A	7	5	4	1	AERI	6	5	3	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	R	7	5	4	0		4	7	5	0	
+0	0	0	I	7	5	4	0		5	8	3	0	
+0	1	24	S	8	0	3	1	SAK	6	0	3	0	
+0	0	0	A	8	0	3	0		6	1	3	0	
+0	0	0	K	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	P	8	5	3	1	PDA	6	5	3	0	
+0	0	0	D	8	5	3	0		0	6	9	0	
+0	0	0	A	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	CYD	Children's book illustrator Moore
+4	WBC	Fighters' org.
+7	TRAS	Skipping syllables
+8	DEKE	Astronaut Slayton
+9	AERO	Prefix with plane
+10	EASE	Shift very carefully
+11	LAD	Cub scout, say
+12	BBK	Famed bluesman [black]
+13	MSXITKH	Extremely significant
+16	TED	Actor Danson
+17	NYT	Media co. symbol on the Big Board
+19	EMIR	Arab prince
+21	REDC	Relief provider
+22	LICS	Hunters' needs: Abbr.
+23	AERI	Ethereal: Prefix
+24	SAK	Bag, in brand names
+25	PDA	Handheld computer, briefly
+15
+1	CREAM	Best by far
+2	YARDSTICK	Standard
+3	DSO	Brit. medal
+4	WEAKKNEED	Cowardly
+5	BKS	Jacket locales: Abbr.
+6	CEE	Mid-grade?
+7	TAL	1960-61 world chess champ
+8	DEBT	Credit card bills, e.g.
+12	BID	Bridge declaration
+14	XERS	MTV generation
+15	HYDRA	Victim of Hercules
+18	TCI	Big inits. in cable
+19	ELS	Windy City trains
+20	MIA	Cara ___ (Italian term of endearment)
+21	RAP	Grandmaster Flash's music

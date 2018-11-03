@@ -1,0 +1,167 @@
+grid_11x11_142
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	I	0	2	3	1	INB	0	2	6	1	INSPOT
+0	1	2	N	0	2	3	0		0	3	4	1	NDAK
+0	1	3	B	0	2	3	0		0	4	3	1	BRR
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	D	0	7	3	1	DLY	0	7	6	1	DENUDE
+0	1	5	L	0	7	3	0		0	8	4	1	LAIT
+0	1	6	Y	0	7	3	0		0	9	4	1	YULE
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	7	I	1	1	5	1	INDRA	1	1	5	1	INNES
+0	0	0	N	1	1	5	0		0	2	6	0	
+0	0	0	D	1	1	5	0		0	3	4	0	
+0	0	0	R	1	1	5	0		0	4	3	0	
+0	1	8	A	1	1	5	0		1	5	9	1	AAGONIZES
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	E	1	7	4	1	EAUS	0	7	6	0	
+0	0	0	A	1	7	4	0		0	8	4	0	
+0	0	0	U	1	7	4	0		0	9	4	0	
+0	1	10	S	1	7	4	0		1	10	3	1	SEN
+0	1	11	A	2	0	6	1	ANSARA	2	0	3	1	ATN
+0	0	0	N	2	0	6	0		1	1	5	0	
+0	0	0	S	2	0	6	0		0	2	6	0	
+0	0	0	A	2	0	6	0		0	3	4	0	
+0	0	0	R	2	0	6	0		0	4	3	0	
+0	0	0	A	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	12	N	2	7	4	1	NILE	0	7	6	0	
+0	0	0	I	2	7	4	0		0	8	4	0	
+0	0	0	L	2	7	4	0		0	9	4	0	
+0	0	0	E	2	7	4	0		1	10	3	0	
+0	1	13	T	3	0	4	1	TNPK	2	0	3	0	
+0	0	0	N	3	0	4	0		1	1	5	0	
+0	0	0	P	3	0	4	0		0	2	6	0	
+0	0	0	K	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	6	0		4	4	0	0	
+0	1	14	G	3	5	6	1	GLUTEN	1	5	9	0	
+0	1	15	L	3	5	6	0		3	6	3	1	LEI
+0	0	0	U	3	5	6	0		0	7	6	0	
+0	0	0	T	3	5	6	0		0	8	4	0	
+0	0	0	E	3	5	6	0		0	9	4	0	
+0	0	0	N	3	5	6	0		1	10	3	0	
+0	1	16	N	4	0	3	1	NEO	2	0	3	0	
+0	0	0	E	4	0	3	0		1	1	5	0	
+0	0	0	O	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	17	O	4	5	3	1	OED	1	5	9	0	
+0	0	0	E	4	5	3	0		3	6	3	0	
+0	0	0	D	4	5	3	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	18	S	5	1	9	1	STEPNIECE	1	1	5	0	
+0	0	0	T	5	1	9	0		0	2	6	0	
+0	1	19	E	5	1	9	0		5	3	6	1	ESPIAL
+0	1	20	P	5	1	9	0		5	4	3	1	PEE
+0	0	0	N	5	1	9	0		1	5	9	0	
+0	0	0	I	5	1	9	0		3	6	3	0	
+0	0	0	E	5	1	9	0		0	7	6	0	
+0	1	21	C	5	1	9	0		5	8	6	1	CUTSUP
+0	1	22	E	5	1	9	0		5	9	5	1	ETHER
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	23	S	6	3	3	1	SEI	5	3	6	0	
+0	0	0	E	6	3	3	0		5	4	3	0	
+0	0	0	I	6	3	3	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	24	U	6	8	3	1	UTE	5	8	6	0	
+0	0	0	T	6	8	3	0		5	9	5	0	
+0	1	25	E	6	8	3	0		6	10	3	1	EOE
+0	1	26	T	7	0	6	1	TROPEZ	7	0	3	1	TUM
+0	1	27	R	7	0	6	0		7	1	4	1	RNAS
+0	1	28	O	7	0	6	0		7	2	4	1	OCTO
+0	0	0	P	7	0	6	0		5	3	6	0	
+0	0	0	E	7	0	6	0		5	4	3	0	
+0	0	0	Z	7	0	6	0		1	5	9	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	29	O	7	7	4	1	OTHO	7	7	4	1	OYER
+0	0	0	T	7	7	4	0		5	8	6	0	
+0	0	0	H	7	7	4	0		5	9	5	0	
+0	0	0	O	7	7	4	0		6	10	3	0	
+0	1	30	U	8	0	4	1	UNCI	7	0	3	0	
+0	0	0	N	8	0	4	0		7	1	4	0	
+0	0	0	C	8	0	4	0		7	2	4	0	
+0	0	0	I	8	0	4	0		5	3	6	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	31	E	8	5	6	1	ELYSEE	1	5	9	0	
+0	1	32	L	8	5	6	0		8	6	3	1	LOA
+0	0	0	Y	8	5	6	0		7	7	4	0	
+0	0	0	S	8	5	6	0		5	8	6	0	
+0	0	0	E	8	5	6	0		5	9	5	0	
+0	0	0	E	8	5	6	0		6	10	3	0	
+0	1	33	M	9	0	4	1	MATA	7	0	3	0	
+0	0	0	A	9	0	4	0		7	1	4	0	
+0	0	0	T	9	0	4	0		7	2	4	0	
+0	0	0	A	9	0	4	0		5	3	6	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	34	S	9	5	5	1	SOEUR	1	5	9	0	
+0	0	0	O	9	5	5	0		8	6	3	0	
+0	0	0	E	9	5	5	0		7	7	4	0	
+0	0	0	U	9	5	5	0		5	8	6	0	
+0	0	0	R	9	5	5	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	35	S	10	1	3	1	SOL	7	1	4	0	
+0	0	0	O	10	1	3	0		7	2	4	0	
+0	0	0	L	10	1	3	0		5	3	6	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	36	A	10	6	3	1	ARP	8	6	3	0	
+0	0	0	R	10	6	3	0		7	7	4	0	
+0	0	0	P	10	6	3	0		5	8	6	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	INB	Bach's "Mass ___ Minor"
+4	DLY	How things may be lit or remembered
+7	INDRA	Hindu god of thunder
+9	EAUS	Waters, informally
+11	ANSARA	Michael ___, Cochise player in 1950s TV
+12	NILE	Green or blue shade
+13	TNPK	Expy.
+14	GLUTEN	Substance in wheat flour
+16	NEO	Classical start
+17	OED	Set of Brit. tomes
+18	STEPNIECE	Girl from uncle?
+23	SEI	Variety of whale
+24	UTE	Colorado Indian
+26	TROPEZ	Saint-___, France
+29	OTHO	Emperor after Galba
+30	UNCI	Hook-shaped parts of brains
+31	ELYSEE	French president
+33	MATA	First name in spydom
+34	SOEUR	French sister
+35	SOL	Scale part
+36	ARP	Pioneering Dadaist
+21
+1	INSPOT	Popular place
+2	NDAK	State straddling two time zones: Abbr.
+3	BRR	December exclamation
+4	DENUDE	Bare
+5	LAIT	Milk, abroad
+6	YULE	Festive time
+7	INNES	Laura who plays Dr. Weaver on "ER"
+8	AAGONIZES	Gets upset
+10	SEN	One of 100: Abbr.
+11	ATN	When some stores open
+15	LEI	Handout at a tiki bar
+19	ESPIAL	Observation
+20	PEE	Second of April?
+21	CUTSUP	Misbehaves
+22	ETHER	Early anesthetic
+25	EOE	Want-ad letters
+26	TUM	"The Rum ___ Tugger" (song from "Cats")
+27	RNAS	Genetic strands
+28	OCTO	Twice tetra-
+29	OYER	Certain court hearing
+32	LOA	"Mahalo nui ___" ("Thank you very much," in Hilo)

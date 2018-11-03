@@ -1,0 +1,115 @@
+grid_9x9_160
+9
+0	1	1	W	0	0	3	1	WIN	0	0	3	1	WSJ
+0	1	2	I	0	0	3	0		0	1	3	1	IPO
+0	1	3	N	0	0	3	0		0	2	9	1	NAHUATLAN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	I	0	5	3	1	IBF	0	5	3	1	ILA
+0	1	5	B	0	5	3	0		0	6	9	1	BAYWINDOW
+0	1	6	F	0	5	3	0		0	7	5	1	FIELD
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	S	1	0	3	1	SPA	0	0	3	0	
+0	0	0	P	1	0	3	0		0	1	3	0	
+0	0	0	A	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	A	1	4	4	1	ALAI	1	4	7	1	AMULETS
+0	0	0	L	1	4	4	0		0	5	3	0	
+0	0	0	A	1	4	4	0		0	6	9	0	
+0	0	0	I	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	9	J	2	0	9	1	JOHNMAYER	0	0	3	0	
+0	0	0	O	2	0	9	0		0	1	3	0	
+0	0	0	H	2	0	9	0		0	2	9	0	
+0	1	10	N	2	0	9	0		2	3	3	1	NUI
+0	0	0	M	2	0	9	0		1	4	7	0	
+0	0	0	A	2	0	9	0		0	5	3	0	
+0	0	0	Y	2	0	9	0		0	6	9	0	
+0	0	0	E	2	0	9	0		0	7	5	0	
+0	1	11	R	2	0	9	0		2	8	3	1	REE
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	U	3	2	3	1	UUU	0	2	9	0	
+0	0	0	U	3	2	3	0		2	3	3	0	
+0	0	0	U	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	W	3	6	3	1	WLE	0	6	9	0	
+0	0	0	L	3	6	3	0		0	7	5	0	
+0	0	0	E	3	6	3	0		2	8	3	0	
+0	1	14	T	4	0	9	1	TRAILSIDE	4	0	3	1	THR
+0	1	15	R	4	0	9	0		4	1	5	1	RIENS
+0	0	0	A	4	0	9	0		0	2	9	0	
+0	0	0	I	4	0	9	0		2	3	3	0	
+0	0	0	L	4	0	9	0		1	4	7	0	
+0	1	16	S	4	0	9	0		4	5	3	1	SIE
+0	0	0	I	4	0	9	0		0	6	9	0	
+0	0	0	D	4	0	9	0		0	7	5	0	
+0	0	0	E	4	0	9	0		2	8	3	0	
+0	1	17	H	5	0	3	1	HIT	4	0	3	0	
+0	0	0	I	5	0	3	0		4	1	5	0	
+0	0	0	T	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	E	5	4	3	1	EIN	1	4	7	0	
+0	0	0	I	5	4	3	0		4	5	3	0	
+0	0	0	N	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	R	6	0	9	1	RELATEDTO	4	0	3	0	
+0	0	0	E	6	0	9	0		4	1	5	0	
+0	0	0	L	6	0	9	0		0	2	9	0	
+0	1	20	A	6	0	9	0		6	3	3	1	AHL
+0	0	0	T	6	0	9	0		1	4	7	0	
+0	0	0	E	6	0	9	0		4	5	3	0	
+0	0	0	D	6	0	9	0		0	6	9	0	
+0	1	21	T	6	0	9	0		6	7	3	1	TBA
+0	1	22	O	6	0	9	0		6	8	3	1	OJS
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	23	N	7	1	4	1	NAHS	4	1	5	0	
+0	0	0	A	7	1	4	0		0	2	9	0	
+0	0	0	H	7	1	4	0		6	3	3	0	
+0	0	0	S	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	O	7	6	3	1	OBJ	0	6	9	0	
+0	0	0	B	7	6	3	0		6	7	3	0	
+0	0	0	J	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	S	8	1	3	1	SNL	4	1	5	0	
+0	0	0	N	8	1	3	0		0	2	9	0	
+0	0	0	L	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	W	8	6	3	1	WAS	0	6	9	0	
+0	0	0	A	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	WIN	Sports page statistic
+4	IBF	Pugilists' org.
+7	SPA	Hydrotherapy venue
+8	ALAI	Trans ___ (Kyrgyz/Tajik border range)
+9	JOHNMAYER	"No Such Thing" blues rocker
+12	UUU	Familiar Olympics chant
+13	WLE	Corduroy ridge
+14	TRAILSIDE	Like some park facilities
+17	HIT	Single or double
+18	EIN	German "a"
+19	RELATEDTO	Sharing blood with
+23	NAHS	Casual turndowns
+24	OBJ	Kind of case, in gram.
+25	SNL	Chevy vehicle, briefly
+26	WAS	Took place
+15
+1	WSJ	Financial paper: Abbr.
+2	IPO	Subject for a W.S.J. article
+3	NAHUATLAN	Mexican tongue
+4	ILA	Dockworker's org.
+5	BAYWINDOW	Alcove from which to watch the street
+6	FIELD	Place for a test
+8	AMULETS	Supposed sources of good fortune
+10	NUI	"Mahalo ___ loa" ("Thank you very much," in Maui)
+11	REE	Shipwreck cause, sometimes
+14	THR	By way of: Abbr.
+15	RIENS	Trifles: Fr.
+16	SIE	You, abroad
+20	AHL	Sports org. with the Calder Cup
+21	TBA	Not yet decided, on a sched.
+22	OJS	Harvey Wallbanger mixers, briefly

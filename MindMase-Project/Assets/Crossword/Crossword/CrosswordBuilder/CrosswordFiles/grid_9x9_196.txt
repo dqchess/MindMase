@@ -1,0 +1,115 @@
+grid_9x9_196
+9
+0	1	1	N	0	0	3	1	NAL	0	0	3	1	NIH
+0	1	2	A	0	0	3	0		0	1	4	1	ADIP
+0	1	3	L	0	0	3	0		0	2	9	1	LATENIGHT
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	F	0	5	3	1	FAM	0	5	3	1	FIE
+0	1	5	A	0	5	3	0		0	6	9	1	ATHENIANS
+0	1	6	M	0	5	3	0		0	7	4	1	MAAR
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	I	1	0	3	1	IDA	0	0	3	0	
+0	0	0	D	1	0	3	0		0	1	4	0	
+0	0	0	A	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	V	1	4	5	1	VITAL	1	4	7	1	VHHPHYM
+0	0	0	I	1	4	5	0		0	5	3	0	
+0	0	0	T	1	4	5	0		0	6	9	0	
+0	0	0	A	1	4	5	0		0	7	4	0	
+0	1	9	L	1	4	5	0		1	8	3	1	LYN
+0	1	10	H	2	0	9	1	HITTHEHAY	0	0	3	0	
+0	0	0	I	2	0	9	0		0	1	4	0	
+0	0	0	T	2	0	9	0		0	2	9	0	
+0	1	11	T	2	0	9	0		2	3	3	1	TAO
+0	0	0	H	2	0	9	0		1	4	7	0	
+0	0	0	E	2	0	9	0		0	5	3	0	
+0	0	0	H	2	0	9	0		0	6	9	0	
+0	0	0	A	2	0	9	0		0	7	4	0	
+0	0	0	Y	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	P	3	1	4	1	PEAH	0	1	4	0	
+0	0	0	E	3	1	4	0		0	2	9	0	
+0	0	0	A	3	1	4	0		2	3	3	0	
+0	0	0	H	3	1	4	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	E	3	6	3	1	ERN	0	6	9	0	
+0	0	0	R	3	6	3	0		0	7	4	0	
+0	0	0	N	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	14	N	4	2	5	1	NOPUN	0	2	9	0	
+0	0	0	O	4	2	5	0		2	3	3	0	
+0	0	0	P	4	2	5	0		1	4	7	0	
+0	1	15	U	4	2	5	0		4	5	3	1	USB
+0	0	0	N	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	M	5	0	3	1	MRI	5	0	3	1	MDI
+0	1	17	R	5	0	3	0		5	1	4	1	ROSA
+0	0	0	I	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	18	H	5	4	4	1	HSIA	1	4	7	0	
+0	0	0	S	5	4	4	0		4	5	3	0	
+0	0	0	I	5	4	4	0		0	6	9	0	
+0	1	19	A	5	4	4	0		5	7	4	1	AGAS
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	D	6	0	9	1	DOGGYBAGS	5	0	3	0	
+0	0	0	O	6	0	9	0		5	1	4	0	
+0	0	0	G	6	0	9	0		0	2	9	0	
+0	1	21	G	6	0	9	0		6	3	3	1	GAL
+0	0	0	Y	6	0	9	0		1	4	7	0	
+0	0	0	B	6	0	9	0		4	5	3	0	
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	0	0	G	6	0	9	0		5	7	4	0	
+0	1	22	S	6	0	9	0		6	8	3	1	SAE
+0	1	23	I	7	0	5	1	ISHAM	5	0	3	0	
+0	0	0	S	7	0	5	0		5	1	4	0	
+0	0	0	H	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		6	3	3	0	
+0	0	0	M	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	N	7	6	3	1	NAA	0	6	9	0	
+0	0	0	A	7	6	3	0		5	7	4	0	
+0	0	0	A	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	A	8	1	3	1	ATL	5	1	4	0	
+0	0	0	T	8	1	3	0		0	2	9	0	
+0	0	0	L	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	S	8	6	3	1	SSE	0	6	9	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	0	0	E	8	6	3	0		6	8	3	0	
+15
+1	NAL	Big inits. in paperback publishing
+4	FAM	Reunion grp.
+7	IDA	Wyo. neighbor
+8	VITAL	Like some signs and statistics
+10	HITTHEHAY	Turn in
+12	PEAH	Farmyard female
+13	ERN	Directional ending
+14	NOPUN	"___ intended"
+16	MRI	Test for internal injuries, briefly
+18	HSIA	Early Chinese dynasty
+20	DOGGYBAGS	Diners' requests
+23	ISHAM	"It Had to Be You" composer ___ Jones
+24	NAA	Sports org.
+25	ATL	One of the oceans: Abbr.
+26	SSE	Salt Lake City-to-Provo dir.
+15
+1	NIH	Biomedical research agcy.
+2	ADIP	Took ___ (went swimming)
+3	LATENIGHT	Around the witching hour
+4	FIE	Old-style interjection
+5	ATHENIANS	Plato and Socrates
+6	MAAR	Picasso's muse Dora ___
+8	VHHPHYM	Become nervous: 2 wds.
+9	LYN	___ St. James, first woman to be named the Indy 500 Rookie of the Year, 1992
+11	TAO	"Chuang Tzu" principle
+15	USB	Kind of port for a PC
+16	MDI	Start of the 16th century
+17	ROSA	Alpine peak Monte ___
+19	AGAS	Mideast titles
+21	GAL	Guy's date
+22	SAE	Reply facilitator: Abbr.

@@ -1,0 +1,115 @@
+grid_9x9_164
+9
+0	1	1	K	0	0	3	1	KOO	0	0	3	1	KRA
+0	1	2	O	0	0	3	0		0	1	3	1	OOM
+0	1	3	O	0	0	3	0		0	2	9	1	ONPUTTING
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	E	0	5	3	1	EGG	0	5	3	1	EFT
+0	1	5	G	0	5	3	0		0	6	9	1	GRUFFNESS
+0	1	6	G	0	5	3	0		0	7	5	1	GODBE
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	R	1	0	4	1	RONS	0	0	3	0	
+0	0	0	O	1	0	4	0		0	1	3	0	
+0	0	0	N	1	0	4	0		0	2	9	0	
+0	1	8	S	1	0	4	0		1	3	4	1	SLRS
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	F	1	5	4	1	FROM	0	5	3	0	
+0	0	0	R	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	5	0	
+0	1	10	M	1	5	4	0		1	8	3	1	MEI
+0	1	11	A	2	0	9	1	AMPLITUDE	0	0	3	0	
+0	0	0	M	2	0	9	0		0	1	3	0	
+0	0	0	P	2	0	9	0		0	2	9	0	
+0	0	0	L	2	0	9	0		1	3	4	0	
+0	1	12	I	2	0	9	0		2	4	5	1	ILSAS
+0	0	0	T	2	0	9	0		0	5	3	0	
+0	0	0	U	2	0	9	0		0	6	9	0	
+0	0	0	D	2	0	9	0		0	7	5	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	U	3	2	3	1	URL	0	2	9	0	
+0	0	0	R	3	2	3	0		1	3	4	0	
+0	0	0	L	3	2	3	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	F	3	6	3	1	FBI	0	6	9	0	
+0	0	0	B	3	6	3	0		0	7	5	0	
+0	0	0	I	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	15	I	4	1	7	1	ITSSAFE	4	1	5	1	ITOOK
+0	0	0	T	4	1	7	0		0	2	9	0	
+0	0	0	S	4	1	7	0		1	3	4	0	
+0	0	0	S	4	1	7	0		2	4	5	0	
+0	1	16	A	4	1	7	0		4	5	4	1	ATEN
+0	0	0	F	4	1	7	0		0	6	9	0	
+0	0	0	E	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	I	5	0	3	1	ITT	5	0	3	1	ISR
+0	0	0	T	5	0	3	0		4	1	5	0	
+0	0	0	T	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	A	5	4	3	1	ATN	2	4	5	0	
+0	0	0	T	5	4	3	0		4	5	4	0	
+0	0	0	N	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	S	6	0	9	1	SOITSEEMS	5	0	3	0	
+0	0	0	O	6	0	9	0		4	1	5	0	
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	1	20	T	6	0	9	0		6	3	3	1	TAB
+0	0	0	S	6	0	9	0		2	4	5	0	
+0	0	0	E	6	0	9	0		4	5	4	0	
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	1	21	M	6	0	9	0		6	7	3	1	MEE
+0	1	22	S	6	0	9	0		6	8	3	1	SCM
+0	1	23	R	7	0	4	1	RONA	5	0	3	0	
+0	0	0	O	7	0	4	0		4	1	5	0	
+0	0	0	N	7	0	4	0		0	2	9	0	
+0	0	0	A	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	N	7	5	4	1	NSEC	4	5	4	0	
+0	0	0	S	7	5	4	0		0	6	9	0	
+0	0	0	E	7	5	4	0		6	7	3	0	
+0	0	0	C	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	K	8	1	3	1	KGB	4	1	5	0	
+0	0	0	G	8	1	3	0		0	2	9	0	
+0	0	0	B	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	S	8	6	3	1	SEM	0	6	9	0	
+0	0	0	E	8	6	3	0		6	7	3	0	
+0	0	0	M	8	6	3	0		6	8	3	0	
+15
+1	KOO	Hootchy-___
+4	EGG	Pudding ingredient
+7	RONS	Reagan Sr. and Jr.
+9	FROM	Word on a gift tag
+11	AMPLITUDE	Wave measurement
+13	URL	Net location
+14	FBI	Hoover's org.
+15	ITSSAFE	"All clear"
+17	ITT	Cousin ___
+18	ATN	When some stores open
+19	SOITSEEMS	"Sure looks that way"
+23	RONA	Barrett or Jaffe
+24	NSEC	Minute part of a min.
+25	KGB	Background of Vladimir Putin, for short
+26	SEM	School yr. section
+15
+1	KRA	Malay Peninsula's Isthmus of ___
+2	OOM	Part of a tuba sound
+3	ONPUTTING	Guidebook for golf greens?
+4	EFT	Newt
+5	GRUFFNESS	Surly manner
+6	GODBE	"___ with you" (parting words)
+8	SLRS	Some cameras, for short
+10	MEI	"Don't blame ___ voted for..."
+12	ILSAS	Characters in "Casablanca" and "Judge Dredd"
+15	ITOOK	"___ a trip on a train..." (Benny Goodman lyric)
+16	ATEN	"... two fives for ___?"
+17	ISR	Country whose national anthem's title means "The Hope": Abbr.
+20	TAB	It may be run up
+21	MEE	English author and editor Arthur ___
+22	SCM	Inits. on old typewriters

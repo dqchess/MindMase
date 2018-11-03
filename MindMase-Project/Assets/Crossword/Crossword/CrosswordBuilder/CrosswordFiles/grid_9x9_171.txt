@@ -1,0 +1,115 @@
+grid_9x9_171
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	N	0	1	3	1	NPR	0	1	9	1	NERVOUSLY
+0	1	2	P	0	1	3	0		0	2	9	1	PENALTIES
+0	1	3	R	0	1	3	0		0	3	3	1	RNS
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	E	0	6	3	1	ETE	0	6	9	1	ELECTIVES
+0	1	5	T	0	6	3	0		0	7	9	1	TUNAONRYE
+0	1	6	E	0	6	3	0		0	8	3	1	EMA
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	7	E	1	1	3	1	EEN	0	1	9	0	
+0	0	0	E	1	1	3	0		0	2	9	0	
+0	0	0	N	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	A	1	5	4	1	ALUM	1	5	4	1	AAAA
+0	0	0	L	1	5	4	0		0	6	9	0	
+0	0	0	U	1	5	4	0		0	7	9	0	
+0	0	0	M	1	5	4	0		0	8	3	0	
+0	1	9	U	2	0	4	1	URNS	2	0	3	1	UAT
+0	0	0	R	2	0	4	0		0	1	9	0	
+0	0	0	N	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	A	2	5	4	1	AENA	1	5	4	0	
+0	0	0	E	2	5	4	0		0	6	9	0	
+0	0	0	N	2	5	4	0		0	7	9	0	
+0	0	0	A	2	5	4	0		0	8	3	0	
+0	1	11	A	3	0	3	1	AVA	2	0	3	0	
+0	0	0	V	3	0	3	0		0	1	9	0	
+0	0	0	A	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	P	3	4	4	1	PACA	3	4	3	1	PRE
+0	0	0	A	3	4	4	0		1	5	4	0	
+0	0	0	C	3	4	4	0		0	6	9	0	
+0	0	0	A	3	4	4	0		0	7	9	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	13	T	4	0	9	1	TOLERATOR	2	0	3	0	
+0	0	0	O	4	0	9	0		0	1	9	0	
+0	0	0	L	4	0	9	0		0	2	9	0	
+0	1	14	E	4	0	9	0		4	3	4	1	ENNE
+0	0	0	R	4	0	9	0		3	4	3	0	
+0	0	0	A	4	0	9	0		1	5	4	0	
+0	0	0	T	4	0	9	0		0	6	9	0	
+0	0	0	O	4	0	9	0		0	7	9	0	
+0	1	15	R	4	0	9	0		4	8	3	1	RFS
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	16	U	5	1	4	1	UTNE	0	1	9	0	
+0	0	0	T	5	1	4	0		0	2	9	0	
+0	0	0	N	5	1	4	0		4	3	4	0	
+0	0	0	E	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	I	5	6	3	1	INF	0	6	9	0	
+0	0	0	N	5	6	3	0		0	7	9	0	
+0	0	0	F	5	6	3	0		4	8	3	0	
+0	1	18	A	6	0	4	1	ASIN	6	0	3	1	AGA
+0	0	0	S	6	0	4	0		0	1	9	0	
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	0	0	N	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	19	D	6	5	4	1	DVRS	6	5	3	1	DRI
+0	0	0	V	6	5	4	0		0	6	9	0	
+0	0	0	R	6	5	4	0		0	7	9	0	
+0	0	0	S	6	5	4	0		4	8	3	0	
+0	1	20	G	7	0	4	1	GLEE	6	0	3	0	
+0	0	0	L	7	0	4	0		0	1	9	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	E	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	21	R	7	5	3	1	REY	6	5	3	0	
+0	0	0	E	7	5	3	0		0	6	9	0	
+0	0	0	Y	7	5	3	0		0	7	9	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	22	A	8	0	3	1	AYS	6	0	3	0	
+0	0	0	Y	8	0	3	0		0	1	9	0	
+0	0	0	S	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	23	I	8	5	3	1	ISE	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	E	8	5	3	0		0	7	9	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	NPR	"As It Happens" airer
+4	ETE	Common French word with two accents
+7	EEN	Poetic dusk
+8	ALUM	Astringent
+9	URNS	Tomb items
+10	AENA	Insurance giant
+11	AVA	Hollywood autobiography subtitled "My Story"
+12	PACA	White-spotted rodent
+13	TOLERATOR	No bigot
+16	UTNE	Alternative digest magazine
+17	INF	Like Beethoven's Symphony No. 8
+18	ASIN	Q ___ queen
+19	DVRS	TiVo's, e.g.
+20	GLEE	Cause of big smiles
+21	REY	Spain's Carlos I or II
+22	AYS	Bards' affirmations
+23	ISE	Ending with real in London
+13
+1	NERVOUSLY	With clammy hands, say
+2	PENALTIES	Football coach's nightmare
+3	RNS	Hosp. V.I.P.'s
+4	ELECTIVES	Nonrequired courses
+5	TUNAONRYE	Deli order
+6	EMA	___ Savahl (couture label)
+8	AAAA	High rating
+9	UAT	Awake by
+12	PRE	Historic lead-in
+14	ENNE	Non-P.C. suffix
+15	RFS	Baseball positions: Abbr.
+18	AGA	Turkish V.I.P.
+19	DRI	Soft & ___ (Gillette brand)

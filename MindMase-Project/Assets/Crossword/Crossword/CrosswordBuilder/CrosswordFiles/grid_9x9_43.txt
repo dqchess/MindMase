@@ -1,0 +1,113 @@
+grid_9x9_43
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	3	0	
+1	0	0	#	0	3	3	0		1	2	3	0	
+0	1	1	G	0	3	3	1	GIN	0	3	5	1	GETNO
+0	1	2	I	0	3	3	0		0	4	9	1	IRENECARA
+0	1	3	N	0	3	3	0		0	5	3	1	NGN
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	4	A	1	0	9	1	ALLERGIES	1	0	3	1	ALG
+0	1	5	L	1	0	9	0		1	1	3	1	LIL
+0	1	6	L	1	0	9	0		1	2	3	1	LSE
+0	0	0	E	1	0	9	0		0	3	5	0	
+0	0	0	R	1	0	9	0		0	4	9	0	
+0	0	0	G	1	0	9	0		0	5	3	0	
+0	1	7	I	1	0	9	0		1	6	3	1	IES
+0	1	8	E	1	0	9	0		1	7	3	1	ERO
+0	1	9	S	1	0	9	0		1	8	3	1	SSS
+0	1	10	L	2	0	9	1	LISTENERS	1	0	3	0	
+0	0	0	I	2	0	9	0		1	1	3	0	
+0	0	0	S	2	0	9	0		1	2	3	0	
+0	0	0	T	2	0	9	0		0	3	5	0	
+0	0	0	E	2	0	9	0		0	4	9	0	
+0	0	0	N	2	0	9	0		0	5	3	0	
+0	0	0	E	2	0	9	0		1	6	3	0	
+0	0	0	R	2	0	9	0		1	7	3	0	
+0	0	0	S	2	0	9	0		1	8	3	0	
+0	1	11	G	3	0	5	1	GLENN	1	0	3	0	
+0	0	0	L	3	0	5	0		1	1	3	0	
+0	0	0	E	3	0	5	0		1	2	3	0	
+0	0	0	N	3	0	5	0		0	3	5	0	
+0	0	0	N	3	0	5	0		0	4	9	0	
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	12	S	3	6	3	1	SOS	1	6	3	0	
+0	0	0	O	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	3	0	
+0	1	13	O	4	3	3	1	OEN	0	3	5	0	
+0	0	0	E	4	3	3	0		0	4	9	0	
+0	1	14	N	4	3	3	0		4	5	5	1	NOHOW
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	3	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	15	A	5	0	3	1	ATT	5	0	3	1	AGA
+0	1	16	T	5	0	3	0		5	1	3	1	TON
+0	1	17	T	5	0	3	0		5	2	3	1	TNT
+1	0	0	#	5	4	5	0		6	3	3	0	
+0	1	18	C	5	4	5	1	COORS	0	4	9	0	
+0	0	0	O	5	4	5	0		4	5	5	0	
+0	1	19	O	5	4	5	0		5	6	3	1	OEO
+0	1	20	R	5	4	5	0		5	7	3	1	RAM
+0	1	21	S	5	4	5	0		5	8	3	1	SDS
+0	1	22	G	6	0	9	1	GONEAHEAD	5	0	3	0	
+0	0	0	O	6	0	9	0		5	1	3	0	
+0	0	0	N	6	0	9	0		5	2	3	0	
+0	1	23	E	6	0	9	0		6	3	3	1	EEL
+0	0	0	A	6	0	9	0		0	4	9	0	
+0	0	0	H	6	0	9	0		4	5	5	0	
+0	0	0	E	6	0	9	0		5	6	3	0	
+0	0	0	A	6	0	9	0		5	7	3	0	
+0	0	0	D	6	0	9	0		5	8	3	0	
+0	1	24	A	7	0	9	1	ANTEROOMS	5	0	3	0	
+0	0	0	N	7	0	9	0		5	1	3	0	
+0	0	0	T	7	0	9	0		5	2	3	0	
+0	0	0	E	7	0	9	0		6	3	3	0	
+0	0	0	R	7	0	9	0		0	4	9	0	
+0	0	0	O	7	0	9	0		4	5	5	0	
+0	0	0	O	7	0	9	0		5	6	3	0	
+0	0	0	M	7	0	9	0		5	7	3	0	
+0	0	0	S	7	0	9	0		5	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	0	0	
+1	0	0	#	8	3	3	0		9	2	0	0	
+0	1	25	L	8	3	3	1	LAW	6	3	3	0	
+0	0	0	A	8	3	3	0		0	4	9	0	
+0	0	0	W	8	3	3	0		4	5	5	0	
+1	0	0	#	8	7	0	0		9	6	0	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+11
+1	GIN	Card player's cry
+4	ALLERGIES	Scratch tests test for them
+10	LISTENERS	Radio audience
+11	GLENN	Close on stage
+12	SOS	Cry when going down?
+13	OEN	Vintner's prefix
+15	ATT	Part of a long-distance company's 800 number
+18	COORS	Beer from Golden, Colo.
+22	GONEAHEAD	Out to scout
+24	ANTEROOMS	Vestibules
+25	LAW	Maker or breaker lead-in
+17
+1	GETNO	"I ___ kick..."
+2	IRENECARA	"Flashdance ... What a Feeling" singer
+3	NGN	Stitch
+4	ALG	Math. class
+5	LIL	Short, for short
+6	LSE	End of many an E-mail address
+7	IES	Plural suffix
+8	ERO	Handel cantata "___ e Leandro"
+9	SSS	Deflation indication
+14	NOHOW	Not at all
+15	AGA	Princess Yasmin ___ Khan
+16	TON	Heavy measure
+17	TNT	Cause of many a blowup
+19	OEO	Fair-hiring agcy.
+20	RAM	Computer capacity, for short
+21	SDS	60's protest grp.
+23	EEL	Sniggler's catch

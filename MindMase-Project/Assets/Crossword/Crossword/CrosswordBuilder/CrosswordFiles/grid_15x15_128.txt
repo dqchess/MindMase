@@ -1,0 +1,305 @@
+grid_15x15_128
+15
+0	1	1	G	0	0	6	1	GILPIN	0	0	3	1	GUN
+0	1	2	I	0	0	6	0		0	1	3	1	IRA
+0	1	3	L	0	0	6	0		0	2	15	1	LIKEAHOUSEAFIRE
+0	1	4	P	0	0	6	0		0	3	5	1	PAEAN
+0	1	5	I	0	0	6	0		0	4	4	1	IHDR
+0	1	6	N	0	0	6	0		0	5	3	1	NSA
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	7	S	0	7	3	1	SHS	0	7	15	1	SEATTLELANDSMEN
+0	1	8	H	0	7	3	0		0	8	5	1	HAJIS
+0	1	9	S	0	7	3	0		0	9	4	1	STAE
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	10	A	0	11	3	1	ABS	0	11	3	1	AFB
+0	1	11	B	0	11	3	0		0	12	15	1	BRIDGEFINANCING
+0	1	12	S	0	11	3	0		0	13	6	1	SERTAS
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	13	U	1	0	6	1	URIAHS	0	0	3	0	
+0	0	0	R	1	0	6	0		0	1	3	0	
+0	0	0	I	1	0	6	0		0	2	15	0	
+0	0	0	A	1	0	6	0		0	3	5	0	
+0	0	0	H	1	0	6	0		0	4	4	0	
+0	0	0	S	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	3	0		2	6	7	0	
+0	1	14	E	1	7	3	1	EAT	0	7	15	0	
+0	0	0	A	1	7	3	0		0	8	5	0	
+0	0	0	T	1	7	3	0		0	9	4	0	
+1	0	0	#	1	11	4	0		2	10	3	0	
+0	1	15	F	1	11	4	1	FREE	0	11	3	0	
+0	0	0	R	1	11	4	0		0	12	15	0	
+0	0	0	E	1	11	4	0		0	13	6	0	
+0	1	16	E	1	11	4	0		1	14	3	1	EDS
+0	1	17	N	2	0	15	1	NAKEDASAJAYBIRD	0	0	3	0	
+0	0	0	A	2	0	15	0		0	1	3	0	
+0	0	0	K	2	0	15	0		0	2	15	0	
+0	0	0	E	2	0	15	0		0	3	5	0	
+0	0	0	D	2	0	15	0		0	4	4	0	
+0	0	0	A	2	0	15	0		0	5	3	0	
+0	1	18	S	2	0	15	0		2	6	7	1	SCIATIC
+0	0	0	A	2	0	15	0		0	7	15	0	
+0	0	0	J	2	0	15	0		0	8	5	0	
+0	0	0	A	2	0	15	0		0	9	4	0	
+0	1	19	Y	2	0	15	0		2	10	3	1	YSL
+0	0	0	B	2	0	15	0		0	11	3	0	
+0	0	0	I	2	0	15	0		0	12	15	0	
+0	0	0	R	2	0	15	0		0	13	6	0	
+0	0	0	D	2	0	15	0		1	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	20	E	3	2	3	1	EAR	0	2	15	0	
+0	0	0	A	3	2	3	0		0	3	5	0	
+0	0	0	R	3	2	3	0		0	4	4	0	
+1	0	0	#	3	6	5	0		4	5	0	0	
+0	1	21	C	3	6	5	1	CTIES	2	6	7	0	
+0	0	0	T	3	6	5	0		0	7	15	0	
+0	0	0	I	3	6	5	0		0	8	5	0	
+0	0	0	E	3	6	5	0		0	9	4	0	
+0	0	0	S	3	6	5	0		2	10	3	0	
+1	0	0	#	3	12	3	0		4	11	4	0	
+0	1	22	D	3	12	3	1	DTS	0	12	15	0	
+0	0	0	T	3	12	3	0		0	13	6	0	
+0	0	0	S	3	12	3	0		1	14	3	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	23	B	4	1	3	1	BAN	4	1	4	1	BALD
+0	0	0	A	4	1	3	0		0	2	15	0	
+0	0	0	N	4	1	3	0		0	3	5	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	3	0		5	5	3	0	
+0	1	24	I	4	6	3	1	ITS	2	6	7	0	
+0	0	0	T	4	6	3	0		0	7	15	0	
+0	0	0	S	4	6	3	0		0	8	5	0	
+1	0	0	#	4	10	4	0		5	9	0	0	
+0	1	25	L	4	10	4	1	LPGA	2	10	3	0	
+0	1	26	P	4	10	4	0		4	11	4	1	PAST
+0	0	0	G	4	10	4	0		0	12	15	0	
+0	0	0	A	4	10	4	0		0	13	6	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	27	W	5	0	3	1	WAH	5	0	3	1	WBA
+0	0	0	A	5	0	3	0		4	1	4	0	
+0	0	0	H	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	28	R	5	4	4	1	REAL	5	4	4	1	ROTC
+0	1	29	E	5	4	4	0		5	5	3	1	EFF
+0	0	0	A	5	4	4	0		2	6	7	0	
+0	0	0	L	5	4	4	0		0	7	15	0	
+1	0	0	#	5	9	0	0		6	8	7	0	
+1	0	0	#	5	10	0	0		6	9	0	0	
+1	0	0	#	5	11	3	0		6	10	4	0	
+0	1	30	A	5	11	3	1	AES	4	11	4	0	
+0	0	0	E	5	11	3	0		0	12	15	0	
+0	0	0	S	5	11	3	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	B	6	0	3	1	BLO	5	0	3	0	
+0	0	0	L	6	0	3	0		4	1	4	0	
+0	0	0	O	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	5	0		7	3	4	0	
+0	1	32	O	6	4	5	1	OFTEA	5	4	4	0	
+0	0	0	F	6	4	5	0		5	5	3	0	
+0	0	0	T	6	4	5	0		2	6	7	0	
+0	0	0	E	6	4	5	0		0	7	15	0	
+0	1	33	A	6	4	5	0		6	8	7	1	AMNESIA
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	34	N	6	10	3	1	NSF	6	10	4	1	NATL
+0	0	0	S	6	10	3	0		4	11	4	0	
+0	0	0	F	6	10	3	0		0	12	15	0	
+1	0	0	#	6	14	0	0		7	13	4	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	A	7	0	15	1	ADULTFILMRATING	5	0	3	0	
+0	0	0	D	7	0	15	0		4	1	4	0	
+0	0	0	U	7	0	15	0		0	2	15	0	
+0	1	36	L	7	0	15	0		7	3	4	1	LIEF
+0	0	0	T	7	0	15	0		5	4	4	0	
+0	0	0	F	7	0	15	0		5	5	3	0	
+0	0	0	I	7	0	15	0		2	6	7	0	
+0	0	0	L	7	0	15	0		0	7	15	0	
+0	0	0	M	7	0	15	0		6	8	7	0	
+0	1	37	R	7	0	15	0		7	9	3	1	RSA
+0	0	0	A	7	0	15	0		6	10	4	0	
+0	0	0	T	7	0	15	0		4	11	4	0	
+0	0	0	I	7	0	15	0		0	12	15	0	
+0	1	38	N	7	0	15	0		7	13	4	1	NILE
+0	1	39	G	7	0	15	0		7	14	3	1	GNC
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	6	0	
+0	1	40	S	8	2	3	1	SIC	0	2	15	0	
+0	0	0	I	8	2	3	0		7	3	4	0	
+0	0	0	C	8	2	3	0		5	4	4	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	41	C	8	6	5	1	CANST	2	6	7	0	
+0	0	0	A	8	6	5	0		0	7	15	0	
+0	0	0	N	8	6	5	0		6	8	7	0	
+0	0	0	S	8	6	5	0		7	9	3	0	
+0	0	0	T	8	6	5	0		6	10	4	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	42	N	8	12	3	1	NIN	0	12	15	0	
+0	0	0	I	8	12	3	0		7	13	4	0	
+0	0	0	N	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	43	G	9	1	3	1	GEE	9	1	6	1	GOTHIM
+0	0	0	E	9	1	3	0		0	2	15	0	
+0	0	0	E	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	0	0	
+1	0	0	#	9	7	4	0		10	6	5	0	
+0	1	44	N	9	7	4	1	NEAL	0	7	15	0	
+0	0	0	E	9	7	4	0		6	8	7	0	
+0	0	0	A	9	7	4	0		7	9	3	0	
+0	0	0	L	9	7	4	0		6	10	4	0	
+1	0	0	#	9	12	3	0		10	11	5	0	
+0	1	45	A	9	12	3	1	ALC	0	12	15	0	
+0	0	0	L	9	12	3	0		7	13	4	0	
+0	0	0	C	9	12	3	0		7	14	3	0	
+1	0	0	#	10	1	4	0		11	0	3	0	
+0	1	46	O	10	1	4	1	OAFS	9	1	6	0	
+0	0	0	A	10	1	4	0		0	2	15	0	
+0	0	0	F	10	1	4	0		7	3	4	0	
+0	1	47	S	10	1	4	0		10	4	3	1	SEL
+1	0	0	#	10	6	3	0		11	5	4	0	
+0	1	48	S	10	6	3	1	SDS	10	6	5	1	STYLE
+0	0	0	D	10	6	3	0		0	7	15	0	
+0	0	0	S	10	6	3	0		6	8	7	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	3	0		11	10	4	0	
+0	1	49	O	10	11	3	1	ONE	10	11	5	1	OVARY
+0	0	0	N	10	11	3	0		0	12	15	0	
+0	0	0	E	10	11	3	0		7	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	50	A	11	0	3	1	ATF	11	0	3	1	AST
+0	0	0	T	11	0	3	0		9	1	6	0	
+0	0	0	F	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	5	0		12	3	3	0	
+0	1	51	E	11	4	5	1	EATSI	10	4	3	0	
+0	1	52	A	11	4	5	0		11	5	4	1	AEAN
+0	0	0	T	11	4	5	0		10	6	5	0	
+0	0	0	S	11	4	5	0		0	7	15	0	
+0	0	0	I	11	4	5	0		6	8	7	0	
+1	0	0	#	11	10	3	0		12	9	3	0	
+0	1	53	P	11	10	3	1	PVC	11	10	4	1	PLUA
+0	0	0	V	11	10	3	0		10	11	5	0	
+0	0	0	C	11	10	3	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	54	S	12	0	15	1	SHIRLEYMACLAINE	11	0	3	0	
+0	0	0	H	12	0	15	0		9	1	6	0	
+0	0	0	I	12	0	15	0		0	2	15	0	
+0	1	55	R	12	0	15	0		12	3	3	1	REL
+0	0	0	L	12	0	15	0		10	4	3	0	
+0	0	0	E	12	0	15	0		11	5	4	0	
+0	0	0	Y	12	0	15	0		10	6	5	0	
+0	0	0	M	12	0	15	0		0	7	15	0	
+0	0	0	A	12	0	15	0		6	8	7	0	
+0	1	56	C	12	0	15	0		12	9	3	1	CTR
+0	0	0	L	12	0	15	0		11	10	4	0	
+0	0	0	A	12	0	15	0		10	11	5	0	
+0	0	0	I	12	0	15	0		0	12	15	0	
+0	1	57	N	12	0	15	0		12	13	3	1	NEU
+0	1	58	E	12	0	15	0		12	14	3	1	ERN
+0	1	59	T	13	0	4	1	TIRE	11	0	3	0	
+0	0	0	I	13	0	4	0		9	1	6	0	
+0	0	0	R	13	0	4	0		0	2	15	0	
+0	0	0	E	13	0	4	0		12	3	3	0	
+1	0	0	#	13	5	3	0		14	4	0	0	
+0	1	60	A	13	5	3	1	ALE	11	5	4	0	
+0	0	0	L	13	5	3	0		10	6	5	0	
+0	0	0	E	13	5	3	0		0	7	15	0	
+1	0	0	#	13	9	6	0		14	8	0	0	
+0	1	61	T	13	9	6	1	TURNER	12	9	3	0	
+0	0	0	U	13	9	6	0		11	10	4	0	
+0	0	0	R	13	9	6	0		10	11	5	0	
+0	0	0	N	13	9	6	0		0	12	15	0	
+0	0	0	E	13	9	6	0		12	13	3	0	
+0	0	0	R	13	9	6	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	62	M	14	1	3	1	MEL	9	1	6	0	
+0	0	0	E	14	1	3	0		0	2	15	0	
+0	0	0	L	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	63	N	14	5	3	1	NEN	11	5	4	0	
+0	0	0	E	14	5	3	0		10	6	5	0	
+0	0	0	N	14	5	3	0		0	7	15	0	
+1	0	0	#	14	9	6	0		15	8	0	0	
+0	1	64	R	14	9	6	1	RAYGUN	12	9	3	0	
+0	0	0	A	14	9	6	0		11	10	4	0	
+0	0	0	Y	14	9	6	0		10	11	5	0	
+0	0	0	G	14	9	6	0		0	12	15	0	
+0	0	0	U	14	9	6	0		12	13	3	0	
+0	0	0	N	14	9	6	0		12	14	3	0	
+39
+1	GILPIN	"Frasier" actress Peri
+7	SHS	Calls for silence
+10	ABS	Sit-up muscles
+13	URIAHS	Heep and others
+14	EAT	___ and run
+15	FREE	For the taking
+17	NAKEDASAJAYBIRD	Completely bare
+20	EAR	Song played at the school dance in "Back to the Future"
+21	CTIES	Rail supports
+22	DTS	Bowery bum's affliction
+23	BAN	Rule out
+24	ITS	"___ mine!"
+25	LPGA	Tour grp.
+27	WAH	Crib note?
+28	REAL	Unaltered
+30	AES	1950s campaign inits.
+31	BLO	Slo-___ fuse
+32	OFTEA	Not one's cup ___
+34	NSF	Univ. grant source
+35	ADULTFILMRATING	[See diagram]
+40	SIC	Word to an attack dog
+41	CANST	Art capable
+42	NIN	"Ladders to Fire" novelist Ana
+43	GEE	Head-scratcher's comment
+44	NEAL	"Batman" theme composer Hefti
+45	ALC	Vodka or whiskey: Abbr.
+46	OAFS	Boobs
+48	SDS	Vietnam War-era org.
+49	ONE	Till bill
+50	ATF	Agcy. regulating guns
+51	EATSI	Dines at home
+53	PVC	Insulation ingredient, for short
+54	SHIRLEYMACLAINE	Actress (1983), supporting actor (1999)
+59	TIRE	Kind of jack
+60	ALE	Tankard filler
+61	TURNER	Word with page or wood
+62	MEL	Oscar-winning Gibson
+63	NEN	Pitcher Robb ___
+64	RAYGUN	Zapper
+37
+1	GUN	Round container
+2	IRA	George's brother
+3	LIKEAHOUSEAFIRE	Hotly
+4	PAEAN	Psalm, e.g.
+5	IHDR	Scarlett O'Hara's home
+6	NSA	Codebreakers' org.
+7	SEATTLELANDSMEN	Might-have-been West Coast team
+8	HAJIS	Once-a-year travelers
+9	STAE	Union member
+10	AFB	Vance or Vandenberg: Abbr.
+11	BRIDGEFINANCING	Loan to a company before it goes public, say
+12	SERTAS	Some dormitory purchases
+16	EDS	Sullivan and Harris
+18	SCIATIC	Kind of nerve
+19	YSL	Couturier inits.
+23	BALD	Hairless
+26	PAST	Behind us all
+27	WBA	Pugs' org.
+28	ROTC	School org.
+29	EFF	Gee preceder
+33	AMNESIA	Dory's affliction in "Finding Nemo"
+34	NATL	League heading: Abbr.
+36	LIEF	Gladly
+37	RSA	Cape Town's home: Abbr.
+38	NILE	Bank-washer in Cairo
+39	GNC	Vitamin supplements store
+43	GOTHIM	Cry upon an arrest
+47	SEL	"S" on a French shaker
+48	STYLE	Class
+49	OVARY	Egg maker
+50	AST	N.Y.C. hrs. + 1
+52	AEAN	Like llamas
+53	PLUA	Feather, to Fernando
+55	REL	Emergency contact, often: Abbr.
+56	CTR	Abbr. after Lincoln or Kennedy
+57	NEU	It's not used in Germany
+58	ERN	Suffix with east

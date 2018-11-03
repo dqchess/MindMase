@@ -1,0 +1,233 @@
+grid_13x13_149
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	6	0	
+1	0	0	#	0	3	3	0		1	2	6	0	
+0	1	1	N	0	3	3	1	NOU	0	3	4	1	NINA
+0	1	2	O	0	3	3	0		0	4	5	1	OONAS
+0	1	3	U	0	3	3	0		0	5	3	1	UNA
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	4	M	0	8	3	1	MAR	0	8	6	1	MISTED
+0	1	5	A	0	8	3	0		0	9	3	1	AZT
+0	1	6	R	0	8	3	0		0	10	5	1	ROREM
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	7	I	1	1	5	1	ILION	1	1	6	1	IMEANT
+0	1	8	L	1	1	5	0		1	2	6	1	LAKOTA
+0	0	0	I	1	1	5	0		0	3	4	0	
+0	0	0	O	1	1	5	0		0	4	5	0	
+0	0	0	N	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	6	0		2	6	0	0	
+0	1	9	V	1	7	6	1	VIZORS	1	7	3	1	VJS
+0	0	0	I	1	7	6	0		0	8	6	0	
+0	0	0	Z	1	7	6	0		0	9	3	0	
+0	0	0	O	1	7	6	0		0	10	5	0	
+0	1	10	R	1	7	6	0		1	11	4	1	RAPS
+0	1	11	S	1	7	6	0		1	12	3	1	SWA
+1	0	0	#	2	1	5	0		3	0	3	0	
+0	1	12	M	2	1	5	1	MANNA	1	1	6	0	
+0	0	0	A	2	1	5	0		1	2	6	0	
+0	0	0	N	2	1	5	0		0	3	4	0	
+0	0	0	N	2	1	5	0		0	4	5	0	
+0	0	0	A	2	1	5	0		0	5	3	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	13	J	2	7	6	1	JSTRAW	1	7	3	0	
+0	0	0	S	2	7	6	0		0	8	6	0	
+0	0	0	T	2	7	6	0		0	9	3	0	
+0	0	0	R	2	7	6	0		0	10	5	0	
+0	0	0	A	2	7	6	0		1	11	4	0	
+0	0	0	W	2	7	6	0		1	12	3	0	
+0	1	14	B	3	0	5	1	BEKAA	3	0	3	1	BSA
+0	0	0	E	3	0	5	0		1	1	6	0	
+0	0	0	K	3	0	5	0		1	2	6	0	
+0	0	0	A	3	0	5	0		0	3	4	0	
+0	0	0	A	3	0	5	0		0	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	S	3	6	3	1	SST	3	6	7	1	SNORTED
+0	0	0	S	3	6	3	0		1	7	3	0	
+0	0	0	T	3	6	3	0		0	8	6	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	16	E	3	10	3	1	EPA	0	10	5	0	
+0	0	0	P	3	10	3	0		1	11	4	0	
+0	0	0	A	3	10	3	0		1	12	3	0	
+0	1	17	S	4	0	3	1	SAO	3	0	3	0	
+0	0	0	A	4	0	3	0		1	1	6	0	
+0	0	0	O	4	0	3	0		1	2	6	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	18	S	4	4	3	1	SSN	0	4	5	0	
+0	1	19	S	4	4	3	0		4	5	4	1	SHEP
+0	0	0	N	4	4	3	0		3	6	7	0	
+1	0	0	#	4	8	4	0		5	7	4	0	
+0	1	20	E	4	8	4	1	ELMS	0	8	6	0	
+0	1	21	L	4	8	4	0		4	9	3	1	LOM
+0	0	0	M	4	8	4	0		0	10	5	0	
+0	0	0	S	4	8	4	0		1	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	22	A	5	0	3	1	ANT	3	0	3	0	
+0	0	0	N	5	0	3	0		1	1	6	0	
+0	0	0	T	5	0	3	0		1	2	6	0	
+1	0	0	#	5	4	0	0		6	3	3	0	
+1	0	0	#	5	5	5	0		6	4	0	0	
+0	1	23	H	5	5	5	1	HOWDO	4	5	4	0	
+0	0	0	O	5	5	5	0		3	6	7	0	
+0	1	24	W	5	5	5	0		5	7	4	1	WOOD
+0	0	0	D	5	5	5	0		0	8	6	0	
+0	0	0	O	5	5	5	0		4	9	3	0	
+1	0	0	#	5	11	0	0		6	10	6	0	
+1	0	0	#	5	12	0	0		6	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	25	T	6	1	3	1	TAP	1	1	6	0	
+0	0	0	A	6	1	3	0		1	2	6	0	
+0	1	26	P	6	1	3	0		6	3	3	1	PPS
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	27	E	6	5	3	1	ERO	4	5	4	0	
+0	0	0	R	6	5	3	0		3	6	7	0	
+0	0	0	O	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	3	0		7	8	0	0	
+0	1	28	M	6	9	3	1	MAL	4	9	3	0	
+0	1	29	A	6	9	3	0		6	10	6	1	ABACUS
+0	1	30	L	6	9	3	0		6	11	6	1	LATETO
+1	0	0	#	6	13	0	0		7	12	3	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	0	0		8	1	4	0	
+1	0	0	#	7	3	5	0		8	2	5	0	
+0	1	31	P	7	3	5	1	PEPTO	6	3	3	0	
+0	1	32	E	7	3	5	0		7	4	6	1	ESPRIT
+0	0	0	P	7	3	5	0		4	5	4	0	
+0	0	0	T	7	3	5	0		3	6	7	0	
+0	0	0	O	7	3	5	0		5	7	4	0	
+1	0	0	#	7	9	0	0		8	8	5	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	33	B	7	10	3	1	BAS	6	10	6	0	
+0	0	0	A	7	10	3	0		6	11	6	0	
+0	1	34	S	7	10	3	0		7	12	3	1	SPR
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	35	M	8	1	4	1	MASS	8	1	4	1	MONO
+0	1	36	A	8	1	4	0		8	2	5	1	ANCON
+0	0	0	S	8	1	4	0		6	3	3	0	
+0	0	0	S	8	1	4	0		7	4	6	0	
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	37	E	8	6	3	1	EDA	3	6	7	0	
+0	0	0	D	8	6	3	0		5	7	4	0	
+0	1	38	A	8	6	3	0		8	8	5	1	ALONE
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	39	A	8	10	3	1	ATP	6	10	6	0	
+0	0	0	T	8	10	3	0		6	11	6	0	
+0	0	0	P	8	10	3	0		7	12	3	0	
+0	1	40	W	9	0	3	1	WON	9	0	3	1	WIZ
+0	0	0	O	9	0	3	0		8	1	4	0	
+0	0	0	N	9	0	3	0		8	2	5	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	41	P	9	4	3	1	PHD	7	4	6	0	
+0	1	42	H	9	4	3	0		9	5	3	1	HSN
+0	0	0	D	9	4	3	0		3	6	7	0	
+1	0	0	#	9	8	5	0		10	7	3	0	
+0	1	43	L	9	8	5	1	LACER	8	8	5	0	
+0	1	44	A	9	8	5	0		9	9	4	1	ANDI
+0	0	0	C	9	8	5	0		6	10	6	0	
+0	0	0	E	9	8	5	0		6	11	6	0	
+0	0	0	R	9	8	5	0		7	12	3	0	
+0	1	45	I	10	0	6	1	INCURS	9	0	3	0	
+0	0	0	N	10	0	6	0		8	1	4	0	
+0	0	0	C	10	0	6	0		8	2	5	0	
+0	1	46	U	10	0	6	0		10	3	3	1	UMA
+0	0	0	R	10	0	6	0		7	4	6	0	
+0	0	0	S	10	0	6	0		9	5	3	0	
+1	0	0	#	10	7	5	0		11	6	0	0	
+0	1	47	D	10	7	5	1	DONUT	10	7	3	1	DAB
+0	0	0	O	10	7	5	0		8	8	5	0	
+0	0	0	N	10	7	5	0		9	9	4	0	
+0	0	0	U	10	7	5	0		6	10	6	0	
+0	0	0	T	10	7	5	0		6	11	6	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+0	1	48	Z	11	0	6	1	ZOOMIN	9	0	3	0	
+0	0	0	O	11	0	6	0		8	1	4	0	
+0	0	0	O	11	0	6	0		8	2	5	0	
+0	0	0	M	11	0	6	0		10	3	3	0	
+0	0	0	I	11	0	6	0		7	4	6	0	
+0	0	0	N	11	0	6	0		9	5	3	0	
+1	0	0	#	11	7	5	0		12	6	0	0	
+0	1	49	A	11	7	5	1	ANDSO	10	7	3	0	
+0	0	0	N	11	7	5	0		8	8	5	0	
+0	0	0	D	11	7	5	0		9	9	4	0	
+0	0	0	S	11	7	5	0		6	10	6	0	
+0	0	0	O	11	7	5	0		6	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	50	N	12	2	3	1	NAT	8	2	5	0	
+0	0	0	A	12	2	3	0		10	3	3	0	
+0	0	0	T	12	2	3	0		7	4	6	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	51	B	12	7	3	1	BEI	10	7	3	0	
+0	0	0	E	12	7	3	0		8	8	5	0	
+0	0	0	I	12	7	3	0		9	9	4	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	NOU	___-Turn (sign)
+4	MAR	"Striving to better, oft we ___ what's well": Shak.
+7	ILION	Classical name of Troy
+9	VIZORS	Golfers' wear: Var.
+12	MANNA	Fall cuisine?
+13	JSTRAW	Stick pulled from a pile
+14	BEKAA	Hezbollah stronghold ___ Valley
+15	SST	2003 addition to the Museum of Flight
+16	EPA	Waste watchers: Abbr.
+17	SAO	___ Miguel, Azores island
+18	SSN	Dashed fig.
+20	ELMS	"Slippery" trees
+22	ANT	Social worker
+23	HOWDO	Greeting said with a tip of the hat
+25	TAP	Select
+27	ERO	Mancinelli opera "___ e Leandro"
+28	MAL	Bad beginning?
+31	PEPTO	Rumbly tummy soother
+33	BAS	English majors' degs.
+35	MASS	What "m" is in F = ma
+37	EDA	Writer LeShan
+39	ATP	Chem. neurotransmitter
+40	WON	Wooed very well
+41	PHD	Highest deg.
+43	LACER	Skater, before hitting the ice
+45	INCURS	Racks up
+47	DONUT	Glazed or powdered item
+48	ZOOMIN	Get close, maybe
+49	ANDSO	Linda Ellerbee's "___ It Goes"
+50	NAT	Insurrectionist Turner
+51	BEI	"___ Mir Bist Du Sch
+29
+1	NINA	15th-century traveler
+2	OONAS	Chaplin and others
+3	UNA	A, in Aquila
+4	MISTED	Lightly sprayed
+5	AZT	First drug approved to treat AIDS
+6	ROREM	Composer/author Ned
+7	IMEANT	Backpedaler's words
+8	LAKOTA	Crazy Horse, e.g.
+9	VJS	MTV hosts
+10	RAPS	Staples of s
+11	SWA	United competitor: Abbr.
+14	BSA	Jamboree org.
+15	SNORTED	Responded contemptuously
+19	SHEP	Faithful dog, affectionately
+21	LOM	Actor in Pink Panther films
+24	WOOD	A three or a five, for instance
+26	PPS	Second ltr. addition
+29	ABACUS	Early computer
+30	LATETO	Not prompt for
+32	ESPRIT	Sparkle and wit
+34	SPR	A season: Abbr.
+35	MONO	Like the Beatles' early work
+36	ANCON	Cornice support
+38	ALONE	Set apart
+40	WIZ	Discontinue
+42	HSN	Cable inits. for sales pitches
+44	ANDI	Como's "___ Love You So"
+46	UMA	Ralph's "The Avengers" co-star, 1998
+47	DAB	Dollop

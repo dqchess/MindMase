@@ -1,0 +1,115 @@
+grid_9x9_127
+9
+0	1	1	M	0	0	3	1	MGO	0	0	3	1	MCQ
+0	1	2	G	0	0	3	0		0	1	5	1	GIRDS
+0	1	3	O	0	0	3	0		0	2	5	1	ODSON
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	4	A	0	6	3	1	ASA	0	6	3	1	ATA
+0	1	5	S	0	6	3	0		0	7	3	1	SAR
+0	1	6	A	0	6	3	0		0	8	3	1	ARM
+0	1	7	C	1	0	3	1	CID	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	5	0	
+0	0	0	D	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	Q	1	4	5	1	QATAR	1	4	7	1	QUARTET
+0	1	9	A	1	4	5	0		1	5	5	1	ANNEE
+0	0	0	T	1	4	5	0		0	6	3	0	
+0	0	0	A	1	4	5	0		0	7	3	0	
+0	0	0	R	1	4	5	0		0	8	3	0	
+0	1	10	Q	2	0	3	1	QRS	0	0	3	0	
+0	0	0	R	2	0	3	0		0	1	5	0	
+0	0	0	S	2	0	3	0		0	2	5	0	
+1	0	0	#	2	4	5	0		3	3	5	0	
+0	1	11	U	2	4	5	1	UNARM	1	4	7	0	
+0	0	0	N	2	4	5	0		1	5	5	0	
+0	0	0	A	2	4	5	0		0	6	3	0	
+0	0	0	R	2	4	5	0		0	7	3	0	
+0	0	0	M	2	4	5	0		0	8	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	12	D	3	1	5	1	DOLAN	0	1	5	0	
+0	0	0	O	3	1	5	0		0	2	5	0	
+0	1	13	L	3	1	5	0		3	3	5	1	LANDO
+0	0	0	A	3	1	5	0		1	4	7	0	
+0	0	0	N	3	1	5	0		1	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	S	4	1	7	1	SNARERS	0	1	5	0	
+0	0	0	N	4	1	7	0		0	2	5	0	
+0	0	0	A	4	1	7	0		3	3	5	0	
+0	0	0	R	4	1	7	0		1	4	7	0	
+0	0	0	E	4	1	7	0		1	5	5	0	
+0	1	15	R	4	1	7	0		4	6	5	1	RSVPD
+0	1	16	S	4	1	7	0		4	7	5	1	STICH
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	5	0		6	2	3	0	
+0	1	17	N	5	3	5	1	NTEST	3	3	5	0	
+0	0	0	T	5	3	5	0		1	4	7	0	
+0	0	0	E	5	3	5	0		1	5	5	0	
+0	0	0	S	5	3	5	0		4	6	5	0	
+0	0	0	T	5	3	5	0		4	7	5	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	C	6	0	5	1	CHIDE	6	0	3	1	CDE
+0	1	19	H	6	0	5	0		6	1	3	1	HOH
+0	1	20	I	6	0	5	0		6	2	3	1	INS
+0	0	0	D	6	0	5	0		3	3	5	0	
+0	0	0	E	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	21	V	6	6	3	1	VIN	4	6	5	0	
+0	0	0	I	6	6	3	0		4	7	5	0	
+0	1	22	N	6	6	3	0		6	8	3	1	NBS
+0	1	23	D	7	0	5	1	DONOT	6	0	3	0	
+0	0	0	O	7	0	5	0		6	1	3	0	
+0	0	0	N	7	0	5	0		6	2	3	0	
+0	0	0	O	7	0	5	0		3	3	5	0	
+0	0	0	T	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	P	7	6	3	1	PCB	4	6	5	0	
+0	0	0	C	7	6	3	0		4	7	5	0	
+0	0	0	B	7	6	3	0		6	8	3	0	
+0	1	25	E	8	0	3	1	EHS	6	0	3	0	
+0	0	0	H	8	0	3	0		6	1	3	0	
+0	0	0	S	8	0	3	0		6	2	3	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	D	8	6	3	1	DHS	4	6	5	0	
+0	0	0	H	8	6	3	0		4	7	5	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	MGO	Tropical fruit
+4	ASA	Hard ___ rock
+7	CID	"Le ___" (Jules Massenet opera)
+8	QATAR	Home to Al Jazeera
+10	QRS	Letter run
+11	UNARM	Render harmless
+12	DOLAN	HBO founder Charles
+14	SNARERS	Gin makers
+17	NTEST	Desert trial, for short
+18	CHIDE	Baseball cover
+21	VIN	Sauterne, e.g.
+23	DONOT	Prohibitory words
+24	PCB	Environmental pollutant, for short
+25	EHS	Replies from the hard of hearing
+26	DHS	Baseball figures: Abbr.
+15
+1	MCQ	Actor known as the King of Cool
+2	GIRDS	Prepares for action
+3	ODSON	Has way too much of, slangily
+4	ATA	___ disadvantage (handicapped)
+5	SAR	Isl. near Corsica
+6	ARM	Hammer's partner
+8	QUARTET	Kiss, e.g.
+9	ANNEE	Period of douze mois
+13	LANDO	___ Calrissian of "Star Wars" films
+15	RSVPD	Sent regrets, say
+16	STICH	1991 Wimbledon champ
+18	CDE	The third to the fifth?
+19	HOH	Water, chemically
+20	INS	Powerbrokers
+22	NBS	Measurements overseer: Abbr.

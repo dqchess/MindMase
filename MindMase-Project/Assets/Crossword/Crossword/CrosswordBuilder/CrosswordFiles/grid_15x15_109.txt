@@ -1,0 +1,307 @@
+grid_15x15_109
+15
+0	1	1	P	0	0	3	1	PUF	0	0	3	1	PNE
+0	1	2	U	0	0	3	0		0	1	8	1	UCIRVINE
+0	1	3	F	0	0	3	0		0	2	8	1	FACECARD
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MES	0	5	6	1	MOVEON
+0	1	5	E	0	5	3	0		0	6	3	1	EDU
+0	1	6	S	0	5	3	0		0	7	3	1	SIL
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	0	0		1	9	7	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	7	F	0	12	3	1	FHS	0	12	6	1	FRESNO
+0	1	8	H	0	12	3	0		0	13	6	1	HIREES
+0	1	9	S	0	12	3	0		0	14	5	1	SOMNI
+0	1	10	N	1	0	4	1	NCAA	0	0	3	0	
+0	0	0	C	1	0	4	0		0	1	8	0	
+0	0	0	A	1	0	4	0		0	2	8	0	
+0	1	11	A	1	0	4	0		1	3	3	1	ASU
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	12	O	1	5	5	1	ODIST	0	5	6	0	
+0	0	0	D	1	5	5	0		0	6	3	0	
+0	0	0	I	1	5	5	0		0	7	3	0	
+0	1	13	S	1	5	5	0		1	8	4	1	SGNQ
+0	1	14	T	1	5	5	0		1	9	7	1	TAILING
+1	0	0	#	1	11	4	0		2	10	5	0	
+0	1	15	T	1	11	4	1	TRIO	1	11	3	1	TTL
+0	0	0	R	1	11	4	0		0	12	6	0	
+0	0	0	I	1	11	4	0		0	13	6	0	
+0	0	0	O	1	11	4	0		0	14	5	0	
+0	1	16	E	2	0	4	1	EICS	0	0	3	0	
+0	0	0	I	2	0	4	0		0	1	8	0	
+0	0	0	C	2	0	4	0		0	2	8	0	
+0	0	0	S	2	0	4	0		1	3	3	0	
+1	0	0	#	2	5	10	0		3	4	3	0	
+0	1	17	V	2	5	10	1	VULGARTERM	0	5	6	0	
+0	0	0	U	2	5	10	0		0	6	3	0	
+0	0	0	L	2	5	10	0		0	7	3	0	
+0	0	0	G	2	5	10	0		1	8	4	0	
+0	0	0	A	2	5	10	0		1	9	7	0	
+0	1	18	R	2	5	10	0		2	10	5	1	REMAN
+0	0	0	T	2	5	10	0		1	11	3	0	
+0	0	0	E	2	5	10	0		0	12	6	0	
+0	0	0	R	2	5	10	0		0	13	6	0	
+0	0	0	M	2	5	10	0		0	14	5	0	
+1	0	0	#	3	1	5	0		4	0	3	0	
+0	1	19	R	3	1	5	1	REUSE	0	1	8	0	
+0	0	0	E	3	1	5	0		0	2	8	0	
+0	0	0	U	3	1	5	0		1	3	3	0	
+0	1	20	S	3	1	5	0		3	4	3	1	SHR
+0	0	0	E	3	1	5	0		0	5	6	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	7	0		4	7	0	0	
+0	1	21	N	3	8	7	1	NIELSEN	1	8	4	0	
+0	0	0	I	3	8	7	0		1	9	7	0	
+0	0	0	E	3	8	7	0		2	10	5	0	
+0	0	0	L	3	8	7	0		1	11	3	0	
+0	0	0	S	3	8	7	0		0	12	6	0	
+0	0	0	E	3	8	7	0		0	13	6	0	
+0	0	0	N	3	8	7	0		0	14	5	0	
+0	1	22	P	4	0	3	1	PVC	4	0	3	1	PRI
+0	0	0	V	4	0	3	0		0	1	8	0	
+0	0	0	C	4	0	3	0		0	2	8	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	23	H	4	4	3	1	HOU	3	4	3	0	
+0	0	0	O	4	4	3	0		0	5	6	0	
+0	1	24	U	4	4	3	0		4	6	5	1	USTED
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	25	Q	4	8	3	1	QLM	1	8	4	0	
+0	0	0	L	4	8	3	0		1	9	7	0	
+0	0	0	M	4	8	3	0		2	10	5	0	
+1	0	0	#	4	12	3	0		5	11	4	0	
+0	1	26	N	4	12	3	1	NEI	0	12	6	0	
+0	0	0	E	4	12	3	0		0	13	6	0	
+0	0	0	I	4	12	3	0		0	14	5	0	
+0	1	27	R	5	0	3	1	RIA	4	0	3	0	
+0	0	0	I	5	0	3	0		0	1	8	0	
+0	0	0	A	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	28	R	5	4	3	1	RNS	3	4	3	0	
+0	0	0	N	5	4	3	0		0	5	6	0	
+0	0	0	S	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	5	0	
+0	1	29	I	5	9	5	1	IAGOS	1	9	7	0	
+0	0	0	A	5	9	5	0		2	10	5	0	
+0	1	30	G	5	9	5	0		5	11	4	1	GYRO
+0	0	0	O	5	9	5	0		0	12	6	0	
+0	0	0	S	5	9	5	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	I	6	0	4	1	INRI	4	0	3	0	
+0	0	0	N	6	0	4	0		0	1	8	0	
+0	0	0	R	6	0	4	0		0	2	8	0	
+0	1	32	I	6	0	4	0		6	3	4	1	ITSA
+1	0	0	#	6	5	0	0		7	4	0	0	
+1	0	0	#	6	6	6	0		7	5	7	0	
+0	1	33	T	6	6	6	1	TRANNY	4	6	5	0	
+0	1	34	R	6	6	6	0		6	7	3	1	RLS
+0	1	35	A	6	6	6	0		6	8	5	1	AIOLI
+0	0	0	N	6	6	6	0		1	9	7	0	
+0	0	0	N	6	6	6	0		2	10	5	0	
+0	0	0	Y	6	6	6	0		5	11	4	0	
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	36	E	7	1	3	1	EDT	0	1	8	0	
+0	0	0	D	7	1	3	0		0	2	8	0	
+0	0	0	T	7	1	3	0		6	3	4	0	
+1	0	0	#	7	5	5	0		8	4	5	0	
+0	1	37	S	7	5	5	1	SELIG	7	5	7	1	SILENTA
+0	0	0	E	7	5	5	0		4	6	5	0	
+0	0	0	L	7	5	5	0		6	7	3	0	
+0	0	0	I	7	5	5	0		6	8	5	0	
+0	0	0	G	7	5	5	0		1	9	7	0	
+1	0	0	#	7	11	3	0		8	10	0	0	
+0	1	38	R	7	11	3	1	RST	5	11	4	0	
+0	1	39	S	7	11	3	0		7	12	8	1	STERNUMS
+0	1	40	T	7	11	3	0		7	13	8	1	TIEGAMES
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	6	0	
+1	0	0	#	8	3	6	0		9	2	6	0	
+0	1	41	S	8	3	6	1	SAIDSO	6	3	4	0	
+0	1	42	A	8	3	6	0		8	4	5	1	ALLAN
+0	0	0	I	8	3	6	0		7	5	7	0	
+0	0	0	D	8	3	6	0		4	6	5	0	
+0	0	0	S	8	3	6	0		6	7	3	0	
+0	0	0	O	8	3	6	0		6	8	5	0	
+1	0	0	#	8	10	0	0		9	9	6	0	
+1	0	0	#	8	11	4	0		9	10	3	0	
+0	1	43	O	8	11	4	1	OTIC	5	11	4	0	
+0	0	0	T	8	11	4	0		7	12	8	0	
+0	0	0	I	8	11	4	0		7	13	8	0	
+0	1	44	C	8	11	4	0		8	14	3	1	CWT
+1	0	0	#	9	1	5	0		10	0	5	0	
+0	1	45	B	9	1	5	1	BEALL	9	1	6	1	BABELS
+0	1	46	E	9	1	5	0		9	2	6	1	EYELET
+0	0	0	A	9	1	5	0		6	3	4	0	
+0	0	0	L	9	1	5	0		8	4	5	0	
+0	0	0	L	9	1	5	0		7	5	7	0	
+1	0	0	#	9	7	0	0		10	6	4	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	47	L	9	8	3	1	LDL	6	8	5	0	
+0	1	48	D	9	8	3	0		9	9	6	1	DRESSY
+0	1	49	L	9	8	3	0		9	10	3	1	LAL
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	50	E	9	12	3	1	EEW	7	12	8	0	
+0	0	0	E	9	12	3	0		7	13	8	0	
+0	0	0	W	9	12	3	0		8	14	3	0	
+0	1	51	N	10	0	3	1	NAY	10	0	5	1	NARCO
+0	0	0	A	10	0	3	0		9	1	6	0	
+0	0	0	Y	10	0	3	0		9	2	6	0	
+1	0	0	#	10	4	3	0		11	3	3	0	
+0	1	52	L	10	4	3	1	LEE	8	4	5	0	
+0	0	0	E	10	4	3	0		7	5	7	0	
+0	1	53	E	10	4	3	0		10	6	4	1	ETLA
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	54	I	10	8	3	1	IRA	6	8	5	0	
+0	0	0	R	10	8	3	0		9	9	6	0	
+0	0	0	A	10	8	3	0		9	10	3	0	
+1	0	0	#	10	12	3	0		11	11	3	0	
+0	1	55	R	10	12	3	1	RGT	7	12	8	0	
+0	0	0	G	10	12	3	0		7	13	8	0	
+0	0	0	T	10	12	3	0		8	14	3	0	
+0	1	56	A	11	0	7	1	ABEYANT	10	0	5	0	
+0	0	0	B	11	0	7	0		9	1	6	0	
+0	0	0	E	11	0	7	0		9	2	6	0	
+0	1	57	Y	11	0	7	0		11	3	3	1	YEW
+0	0	0	A	11	0	7	0		8	4	5	0	
+0	0	0	N	11	0	7	0		7	5	7	0	
+0	0	0	T	11	0	7	0		10	6	4	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	5	0		12	8	3	0	
+0	1	58	E	11	9	5	1	ELENA	9	9	6	0	
+0	0	0	L	11	9	5	0		9	10	3	0	
+0	1	59	E	11	9	5	0		11	11	3	1	EGG
+0	0	0	N	11	9	5	0		7	12	8	0	
+0	0	0	A	11	9	5	0		7	13	8	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	60	R	12	0	10	1	RELENTLESS	10	0	5	0	
+0	0	0	E	12	0	10	0		9	1	6	0	
+0	0	0	L	12	0	10	0		9	2	6	0	
+0	0	0	E	12	0	10	0		11	3	3	0	
+0	0	0	N	12	0	10	0		8	4	5	0	
+0	0	0	T	12	0	10	0		7	5	7	0	
+0	0	0	L	12	0	10	0		10	6	4	0	
+0	1	61	E	12	0	10	0		12	7	3	1	EME
+0	1	62	S	12	0	10	0		12	8	3	1	SER
+0	0	0	S	12	0	10	0		9	9	6	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	63	G	12	11	4	1	GUMS	11	11	3	0	
+0	0	0	U	12	11	4	0		7	12	8	0	
+0	0	0	M	12	11	4	0		7	13	8	0	
+0	1	64	S	12	11	4	0		12	14	3	1	SNA
+0	1	65	C	13	0	4	1	CLEW	10	0	5	0	
+0	0	0	L	13	0	4	0		9	1	6	0	
+0	0	0	E	13	0	4	0		9	2	6	0	
+0	0	0	W	13	0	4	0		11	3	3	0	
+1	0	0	#	13	5	5	0		14	4	0	0	
+0	1	66	A	13	5	5	1	AAMES	7	5	7	0	
+0	0	0	A	13	5	5	0		10	6	4	0	
+0	0	0	M	13	5	5	0		12	7	3	0	
+0	0	0	E	13	5	5	0		12	8	3	0	
+0	0	0	S	13	5	5	0		9	9	6	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	67	G	13	11	4	1	GMEN	11	11	3	0	
+0	0	0	M	13	11	4	0		7	12	8	0	
+0	0	0	E	13	11	4	0		7	13	8	0	
+0	0	0	N	13	11	4	0		12	14	3	0	
+0	1	68	O	14	0	3	1	OST	10	0	5	0	
+0	0	0	S	14	0	3	0		9	1	6	0	
+0	0	0	T	14	0	3	0		9	2	6	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	69	E	14	7	3	1	ERY	12	7	3	0	
+0	0	0	R	14	7	3	0		12	8	3	0	
+0	0	0	Y	14	7	3	0		9	9	6	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	S	14	12	3	1	SSA	7	12	8	0	
+0	0	0	S	14	12	3	0		7	13	8	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+41
+1	PUF	Sta-___ fabric softener
+4	MES	Agosto, for one
+7	FHS	Violin cutouts
+10	NCAA	Annual hoops championship organizer, for short
+12	ODIST	Pindar, for one
+15	TRIO	Dumas's musketeers, for example
+16	EICS	Hollywood's Roberts and others
+17	VULGARTERM	Underthing that's part of a bleeped phrase?
+19	REUSE	Get more mileage from
+21	NIELSEN	He played Mr. Magoo in "Mr. Magoo"
+22	PVC	"The Charge of the Light Brigade" figure
+23	HOU	The Astros, on scoreboards
+25	QLM	___ Victor
+26	NEI	Verdi's "___ giardin del bello"
+27	RIA	Creek
+28	RNS	"ER" extras
+29	IAGOS	Villainous Shakespearean roles
+31	INRI	Cross reference?
+33	TRANNY	Gear-shift system, informally
+36	EDT	Summer hrs. in D.C.
+37	SELIG	Baseball bigwig Bud
+38	RST	18-20 in a sequence
+41	SAIDSO	Declared
+43	OTIC	Related to: Suffix
+45	BEALL	Beginning and end
+47	LDL	"Bad" cholesterol, for short
+50	EEW	"Ick!"
+51	NAY	Word of rejection
+52	LEE	Businessman Iacocca
+54	IRA	European nationalist org.
+55	RGT	Mil. unit
+56	ABEYANT	Temporarily suspended
+58	ELENA	Kagan of the Supreme Court
+60	RELENTLESS	Not taking no for an answer
+63	GUMS	Canine holders
+65	CLEW	Interest of Miss Marple
+66	AAMES	"Zapped!" co-star, 1982
+67	GMEN	1935 James Cagney crime film
+68	OST	Right turn from Nord
+69	ERY	Suffix with green
+70	SSA	Agcy. for retirees
+37
+1	PNE	Log cabin material, maybe
+2	UCIRVINE	The Anteaters of the Big West Conf.
+3	FACECARD	King or queen
+4	MOVEON	Continue
+5	EDU	Dot follower
+6	SIL	R.S.V.P. part
+7	FRESNO	San Joaquin Valley city
+8	HIREES	Firm acceptances?
+9	SOMNI	Sleep: Prefix
+11	ASU	Sun Devils' sch.
+13	SGNQ	___ even keel: 2 wds.
+14	TAILING	On the heels of
+15	TTL	Lumberjack's tool
+18	REMAN	Staff up again
+20	SHR	Nasdaq unit: Abbr.
+22	PRI	Part of C.P.I.
+24	USTED	You, in Yucat
+30	GYRO	Urban sidewalk vendor's offering
+32	ITSA	"___ Long Way to Tipperary"
+34	RLS	19th-century literary inits.
+35	AIOLI	Pungent dressing
+37	SILENTA	Bit of cocoa?
+39	STERNUMS	Breastbones
+40	TIEGAMES	Anticlimactic court outcomes
+42	ALLAN	Scottish poet ___ Ramsay
+44	CWT	43.359 kg.
+45	BABELS	Dins
+46	EYELET	Place for a lace
+48	DRESSY	Fancy
+49	LAL	Kobe Bryant's team, on scoreboards
+51	NARCO	One not user-friendly?
+53	ETLA	Ici ___ (here and there, to Th
+57	YEW	Archery wood
+59	EGG	Fragile decoration
+61	EME	Suffix with morph
+62	SER	Talk for the flock: Abbr.
+64	SNA	Dundee precip

@@ -1,0 +1,167 @@
+grid_11x11_74
+11
+1	0	0	#	0	1	4	0		1	0	4	0	
+0	1	1	P	0	1	4	1	PHDS	0	1	5	1	PHONE
+0	1	2	H	0	1	4	0		0	2	5	1	HILTS
+0	1	3	D	0	1	4	0		0	3	3	1	DRI
+0	1	4	S	0	1	4	0		0	4	3	1	SPN
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	6	0	
+0	1	5	C	0	8	3	1	CST	0	8	5	1	CORES
+0	1	6	S	0	8	3	0		0	9	5	1	SPILT
+0	1	7	T	0	8	3	0		0	10	3	1	TRS
+0	1	8	C	1	0	6	1	CHIRPS	1	0	4	1	CMII
+0	0	0	H	1	0	6	0		0	1	5	0	
+0	0	0	I	1	0	6	0		0	2	5	0	
+0	0	0	R	1	0	6	0		0	3	3	0	
+0	0	0	P	1	0	6	0		0	4	3	0	
+0	1	9	S	1	0	6	0		1	5	9	1	SELFWORTH
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	10	D	1	7	4	1	DOPR	1	7	6	1	DIVIDE
+0	0	0	O	1	7	4	0		0	8	5	0	
+0	0	0	P	1	7	4	0		0	9	5	0	
+0	0	0	R	1	7	4	0		0	10	3	0	
+0	1	11	M	2	0	6	1	MOLINE	1	0	4	0	
+0	0	0	O	2	0	6	0		0	1	5	0	
+0	0	0	L	2	0	6	0		0	2	5	0	
+0	0	0	I	2	0	6	0		0	3	3	0	
+0	0	0	N	2	0	6	0		0	4	3	0	
+0	0	0	E	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	12	I	2	7	4	1	IRIS	1	7	6	0	
+0	0	0	R	2	7	4	0		0	8	5	0	
+0	0	0	I	2	7	4	0		0	9	5	0	
+0	0	0	S	2	7	4	0		0	10	3	0	
+0	1	13	I	3	0	3	1	INT	1	0	4	0	
+0	0	0	N	3	0	3	0		0	1	5	0	
+0	0	0	T	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	0	0		4	3	6	0	
+1	0	0	#	3	5	5	0		4	4	0	0	
+0	1	14	L	3	5	5	1	LEVEL	1	5	9	0	
+0	1	15	E	3	5	5	0		3	6	3	1	EOE
+0	0	0	V	3	5	5	0		1	7	6	0	
+0	0	0	E	3	5	5	0		0	8	5	0	
+0	0	0	L	3	5	5	0		0	9	5	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	I	4	0	4	1	IEST	1	0	4	0	
+0	0	0	E	4	0	4	0		0	1	5	0	
+0	0	0	S	4	0	4	0		0	2	5	0	
+0	1	17	T	4	0	4	0		4	3	6	1	TRUSTY
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	18	F	4	5	5	1	FOIST	1	5	9	0	
+0	0	0	O	4	5	5	0		3	6	3	0	
+0	0	0	I	4	5	5	0		1	7	6	0	
+0	0	0	S	4	5	5	0		0	8	5	0	
+0	0	0	T	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	19	R	5	3	5	1	ROWED	4	3	6	0	
+0	1	20	O	5	3	5	0		5	4	3	1	ONT
+0	0	0	W	5	3	5	0		1	5	9	0	
+0	0	0	E	5	3	5	0		3	6	3	0	
+0	0	0	D	5	3	5	0		1	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	21	B	6	1	5	1	BRUNO	6	1	5	1	BISON
+0	1	22	R	6	1	5	0		6	2	5	1	RNASE
+0	0	0	U	6	1	5	0		4	3	6	0	
+0	0	0	N	6	1	5	0		5	4	3	0	
+0	0	0	O	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	4	0		7	6	0	0	
+0	1	23	E	6	7	4	1	ELSA	1	7	6	0	
+0	1	24	L	6	7	4	0		6	8	5	1	LIANA
+0	1	25	S	6	7	4	0		6	9	5	1	SIRES
+0	1	26	A	6	7	4	0		6	10	4	1	AITS
+1	0	0	#	7	1	5	0		8	0	3	0	
+0	1	27	I	7	1	5	1	INSTR	6	1	5	0	
+0	0	0	N	7	1	5	0		6	2	5	0	
+0	0	0	S	7	1	5	0		4	3	6	0	
+0	0	0	T	7	1	5	0		5	4	3	0	
+0	0	0	R	7	1	5	0		1	5	9	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	28	I	7	8	3	1	III	6	8	5	0	
+0	0	0	I	7	8	3	0		6	9	5	0	
+0	0	0	I	7	8	3	0		6	10	4	0	
+0	1	29	L	8	0	4	1	LSAT	8	0	3	1	LPN
+0	0	0	S	8	0	4	0		6	1	5	0	
+0	0	0	A	8	0	4	0		6	2	5	0	
+0	0	0	T	8	0	4	0		4	3	6	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	30	T	8	5	6	1	THEART	1	5	9	0	
+0	1	31	H	8	5	6	0		8	6	3	1	HAT
+0	1	32	E	8	5	6	0		8	7	3	1	EYE
+0	0	0	A	8	5	6	0		6	8	5	0	
+0	0	0	R	8	5	6	0		6	9	5	0	
+0	0	0	T	8	5	6	0		6	10	4	0	
+0	1	33	P	9	0	4	1	POSY	8	0	3	0	
+0	0	0	O	9	0	4	0		6	1	5	0	
+0	0	0	S	9	0	4	0		6	2	5	0	
+0	0	0	Y	9	0	4	0		4	3	6	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	34	H	9	5	6	1	HAYNES	1	5	9	0	
+0	0	0	A	9	5	6	0		8	6	3	0	
+0	0	0	Y	9	5	6	0		8	7	3	0	
+0	0	0	N	9	5	6	0		6	8	5	0	
+0	0	0	E	9	5	6	0		6	9	5	0	
+0	0	0	S	9	5	6	0		6	10	4	0	
+0	1	35	N	10	0	3	1	NNE	8	0	3	0	
+0	0	0	N	10	0	3	0		6	1	5	0	
+0	0	0	E	10	0	3	0		6	2	5	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	4	0		11	5	0	0	
+0	1	36	T	10	6	4	1	TEAS	8	6	3	0	
+0	0	0	E	10	6	4	0		8	7	3	0	
+0	0	0	A	10	6	4	0		6	8	5	0	
+0	0	0	S	10	6	4	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	PHDS	Pursuits of some candidates, for short
+5	CST	New Orleans setting: Abbr.
+8	CHIRPS	Cricket sounds
+10	DOPR	Send out press releases, e.g.
+11	MOLINE	Illinois home of Black Hawk College
+12	IRIS	One of Tennessee's state symbols
+13	INT	Play that introduced the word "robot"
+14	LEVEL	Like a pool table, ideally
+16	IEST	Superlative suffix
+18	FOIST	Impose (on)
+19	ROWED	Competed in a regatta
+21	BRUNO	Shoe designer Magli
+23	ELSA	Old radio's "___ Maxwell's Party Line"
+27	INSTR	Brass or woodwind: Abbr.
+28	III	1969 Super Bowl
+29	LSAT	Its max. score is 180
+30	THEART	Start of a how-to title
+33	POSY	Nosegay
+34	HAYNES	Todd who directed "I'm Not There," 2007
+35	NNE	Uptown's dir. in N.Y.C.
+36	TEAS	Twinings selections
+21
+1	PHONE	Get on the line
+2	HILTS	Handles
+3	DRI	Soft & ___ (Gillette brand)
+4	SPN	"Wheel of Fortune" option
+5	CORES	Centers
+6	SPILT	Ran over
+7	TRS	School basics
+8	CMII	Early 10th-century year
+9	SELFWORTH	*Personal esteem
+10	DIVIDE	Prepare to share
+15	EOE	Want ad letters
+17	TRUSTY	Reliable
+20	ONT	Ottawa's prov.
+21	BISON	Yellowstone sight
+22	RNASE	Pancreatic enzyme
+24	LIANA	Transport for Tarzan
+25	SIRES	Begets
+26	AITS	River islands
+29	LPN	Orderly supervisor, maybe: Abbr.
+31	HAT	Where a rabbit may be hidden
+32	EYE	Regard

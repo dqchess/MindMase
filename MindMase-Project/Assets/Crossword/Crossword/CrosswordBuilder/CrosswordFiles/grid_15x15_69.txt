@@ -1,0 +1,309 @@
+grid_15x15_69
+15
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	G	0	1	3	1	GRR	0	1	6	1	GLAZER
+0	1	2	R	0	1	3	0		0	2	15	1	RAISINGTHEPOINT
+0	1	3	R	0	1	3	0		0	3	3	1	RIT
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	5	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	W	0	7	3	1	WIZ	0	7	3	1	WAF
+0	1	5	I	0	7	3	0		0	8	3	1	IDO
+0	1	6	Z	0	7	3	0		0	9	7	1	ZEROSUM
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	R	0	12	3	1	RIM	0	12	15	1	REDSKYATMORNING
+0	1	8	I	0	12	3	0		0	13	3	1	IWO
+0	1	9	M	0	12	3	0		0	14	3	1	MET
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	10	L	1	1	5	1	LAICS	0	1	6	0	
+0	0	0	A	1	1	5	0		0	2	15	0	
+0	0	0	I	1	1	5	0		0	3	3	0	
+0	1	11	C	1	1	5	0		1	4	3	1	CIR
+0	1	12	S	1	1	5	0		1	5	5	1	SNORE
+1	0	0	#	1	7	4	0		2	6	3	0	
+0	1	13	A	1	7	4	1	ADEE	0	7	3	0	
+0	0	0	D	1	7	4	0		0	8	3	0	
+0	0	0	E	1	7	4	0		0	9	7	0	
+0	1	14	E	1	7	4	0		1	10	3	1	EGO
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	15	E	1	12	3	1	EWE	0	12	15	0	
+0	0	0	W	1	12	3	0		0	13	3	0	
+0	0	0	E	1	12	3	0		0	14	3	0	
+0	1	16	W	2	0	15	1	WAITINGFORGODOT	2	0	3	1	WOW
+0	0	0	A	2	0	15	0		0	1	6	0	
+0	0	0	I	2	0	15	0		0	2	15	0	
+0	0	0	T	2	0	15	0		0	3	3	0	
+0	0	0	I	2	0	15	0		1	4	3	0	
+0	0	0	N	2	0	15	0		1	5	5	0	
+0	1	17	G	2	0	15	0		2	6	3	1	GNL
+0	0	0	F	2	0	15	0		0	7	3	0	
+0	0	0	O	2	0	15	0		0	8	3	0	
+0	0	0	R	2	0	15	0		0	9	7	0	
+0	0	0	G	2	0	15	0		1	10	3	0	
+0	1	18	O	2	0	15	0		2	11	3	1	ONX
+0	0	0	D	2	0	15	0		0	12	15	0	
+0	0	0	O	2	0	15	0		0	13	3	0	
+0	0	0	T	2	0	15	0		0	14	3	0	
+0	1	19	O	3	0	3	1	OZS	2	0	3	0	
+0	0	0	Z	3	0	3	0		0	1	6	0	
+0	0	0	S	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	20	R	3	4	3	1	RON	1	4	3	0	
+0	0	0	O	3	4	3	0		1	5	5	0	
+0	0	0	N	3	4	3	0		2	6	3	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	4	0		4	8	4	0	
+0	1	21	O	3	9	4	1	OONS	0	9	7	0	
+0	0	0	O	3	9	4	0		1	10	3	0	
+0	0	0	N	3	9	4	0		2	11	3	0	
+0	0	0	S	3	9	4	0		0	12	15	0	
+1	0	0	#	3	14	0	0		4	13	4	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+0	1	22	W	4	0	3	1	WEI	2	0	3	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	I	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	5	0		5	4	4	0	
+0	1	23	R	4	5	5	1	RLESS	1	5	5	0	
+0	0	0	L	4	5	5	0		2	6	3	0	
+0	1	24	E	4	5	5	0		4	7	7	1	EBERSOL
+0	1	25	S	4	5	5	0		4	8	4	1	SLRS
+0	0	0	S	4	5	5	0		0	9	7	0	
+1	0	0	#	4	11	4	0		5	10	0	0	
+0	1	26	X	4	11	4	1	XKES	2	11	3	0	
+0	0	0	K	4	11	4	0		0	12	15	0	
+0	1	27	E	4	11	4	0		4	13	4	1	EONS
+0	1	28	S	4	11	4	0		4	14	3	1	SSN
+1	0	0	#	5	1	5	0		6	0	0	0	
+0	1	29	R	5	1	5	1	RNASE	0	1	6	0	
+0	0	0	N	5	1	5	0		0	2	15	0	
+0	1	30	A	5	1	5	0		5	3	3	1	AIR
+0	1	31	S	5	1	5	0		5	4	4	1	SEAU
+0	0	0	E	5	1	5	0		1	5	5	0	
+1	0	0	#	5	7	3	0		6	6	0	0	
+0	1	32	B	5	7	3	1	BLU	4	7	7	0	
+0	0	0	L	5	7	3	0		4	8	4	0	
+0	0	0	U	5	7	3	0		0	9	7	0	
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	33	Y	5	12	3	1	YOS	0	12	15	0	
+0	0	0	O	5	12	3	0		4	13	4	0	
+0	0	0	S	5	12	3	0		4	14	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	3	0		7	1	4	0	
+0	1	34	G	6	2	3	1	GIE	0	2	15	0	
+0	0	0	I	6	2	3	0		5	3	3	0	
+0	0	0	E	6	2	3	0		5	4	4	0	
+1	0	0	#	6	6	0	0		7	5	0	0	
+1	0	0	#	6	7	4	0		7	6	4	0	
+0	1	35	E	6	7	4	1	ERMA	4	7	7	0	
+0	0	0	R	6	7	4	0		4	8	4	0	
+0	0	0	M	6	7	4	0		0	9	7	0	
+0	1	36	A	6	7	4	0		6	10	4	1	ANOA
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	37	A	6	12	3	1	ANN	0	12	15	0	
+0	0	0	N	6	12	3	0		4	13	4	0	
+0	0	0	N	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	38	X	7	1	4	1	XTRA	7	1	4	1	XERO
+0	0	0	T	7	1	4	0		0	2	15	0	
+0	0	0	R	7	1	4	0		5	3	3	0	
+0	0	0	A	7	1	4	0		5	4	4	0	
+1	0	0	#	7	6	3	0		8	5	7	0	
+0	1	39	S	7	6	3	1	SRS	7	6	4	1	SPBY
+0	0	0	R	7	6	3	0		4	7	7	0	
+0	0	0	S	7	6	3	0		4	8	4	0	
+1	0	0	#	7	10	4	0		8	9	0	0	
+0	1	40	N	7	10	4	1	NUTS	6	10	4	0	
+0	1	41	U	7	10	4	0		7	11	3	1	UHF
+0	0	0	T	7	10	4	0		0	12	15	0	
+0	0	0	S	7	10	4	0		4	13	4	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	42	H	8	0	3	1	HEH	8	0	3	1	HES
+0	0	0	E	8	0	3	0		7	1	4	0	
+0	0	0	H	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	43	U	8	4	4	1	USPS	5	4	4	0	
+0	1	44	S	8	4	4	0		8	5	7	1	SIMILAR
+0	0	0	P	8	4	4	0		7	6	4	0	
+0	0	0	S	8	4	4	0		4	7	7	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	3	0		9	9	5	0	
+0	1	45	O	8	10	3	1	OHM	6	10	4	0	
+0	0	0	H	8	10	3	0		7	11	3	0	
+0	0	0	M	8	10	3	0		0	12	15	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	46	E	9	0	3	1	ERE	8	0	3	0	
+0	0	0	R	9	0	3	0		7	1	4	0	
+0	0	0	E	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	3	0		10	4	0	0	
+0	1	47	I	9	5	3	1	IBO	8	5	7	0	
+0	0	0	B	9	5	3	0		7	6	4	0	
+0	0	0	O	9	5	3	0		4	7	7	0	
+1	0	0	#	9	9	5	0		10	8	3	0	
+0	1	48	D	9	9	5	1	DAFOE	9	9	5	1	DUNNO
+0	0	0	A	9	9	5	0		6	10	4	0	
+0	0	0	F	9	9	5	0		7	11	3	0	
+0	0	0	O	9	9	5	0		0	12	15	0	
+0	1	49	E	9	9	5	0		9	13	6	1	EDISON
+1	0	0	#	9	15	0	0		10	14	3	0	
+0	1	50	S	10	0	4	1	SOPE	8	0	3	0	
+0	0	0	O	10	0	4	0		7	1	4	0	
+0	0	0	P	10	0	4	0		0	2	15	0	
+0	1	51	E	10	0	4	0		10	3	3	1	EMM
+1	0	0	#	10	5	5	0		11	4	3	0	
+0	1	52	M	10	5	5	1	MYLOU	8	5	7	0	
+0	0	0	Y	10	5	5	0		7	6	4	0	
+0	0	0	L	10	5	5	0		4	7	7	0	
+0	1	53	O	10	5	5	0		10	8	3	1	OMG
+0	0	0	U	10	5	5	0		9	9	5	0	
+1	0	0	#	10	11	0	0		11	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	54	R	10	12	3	1	RDS	0	12	15	0	
+0	0	0	D	10	12	3	0		9	13	6	0	
+0	1	55	S	10	12	3	0		10	14	3	1	SAM
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	4	0		12	1	3	0	
+0	1	56	O	11	2	4	1	OMEI	0	2	15	0	
+0	0	0	M	11	2	4	0		10	3	3	0	
+0	1	57	E	11	2	4	0		11	4	3	1	EAP
+0	0	0	I	11	2	4	0		8	5	7	0	
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	58	M	11	8	3	1	MNO	10	8	3	0	
+0	0	0	N	11	8	3	0		9	9	5	0	
+0	1	59	O	11	8	3	0		11	10	3	1	OER
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	60	N	11	12	3	1	NIA	0	12	15	0	
+0	0	0	I	11	12	3	0		9	13	6	0	
+0	0	0	A	11	12	3	0		10	14	3	0	
+0	1	61	A	12	0	15	1	ANIMALMAGNETISM	12	0	3	1	AYR
+0	1	62	N	12	0	15	0		12	1	3	1	NOG
+0	0	0	I	12	0	15	0		0	2	15	0	
+0	0	0	M	12	0	15	0		10	3	3	0	
+0	0	0	A	12	0	15	0		11	4	3	0	
+0	0	0	L	12	0	15	0		8	5	7	0	
+0	1	63	M	12	0	15	0		12	6	3	1	MUD
+0	1	64	A	12	0	15	0		12	7	3	1	APA
+0	0	0	G	12	0	15	0		10	8	3	0	
+0	0	0	N	12	0	15	0		9	9	5	0	
+0	0	0	E	12	0	15	0		11	10	3	0	
+0	1	65	T	12	0	15	0		12	11	3	1	TOA
+0	0	0	I	12	0	15	0		0	12	15	0	
+0	0	0	S	12	0	15	0		9	13	6	0	
+0	0	0	M	12	0	15	0		10	14	3	0	
+0	1	66	Y	13	0	3	1	YON	12	0	3	0	
+0	0	0	O	13	0	3	0		12	1	3	0	
+0	0	0	N	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	4	0		14	3	0	0	
+0	1	67	P	13	4	4	1	PAUP	11	4	3	0	
+0	0	0	A	13	4	4	0		8	5	7	0	
+0	0	0	U	13	4	4	0		12	6	3	0	
+0	0	0	P	13	4	4	0		12	7	3	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	68	O	13	9	5	1	ORONO	9	9	5	0	
+0	0	0	R	13	9	5	0		11	10	3	0	
+0	0	0	O	13	9	5	0		12	11	3	0	
+0	0	0	N	13	9	5	0		0	12	15	0	
+0	0	0	O	13	9	5	0		9	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+0	1	69	R	14	0	3	1	RGT	12	0	3	0	
+0	0	0	G	14	0	3	0		12	1	3	0	
+0	0	0	T	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	70	R	14	5	3	1	RDA	8	5	7	0	
+0	0	0	D	14	5	3	0		12	6	3	0	
+0	0	0	A	14	5	3	0		12	7	3	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	71	A	14	11	3	1	AGN	12	11	3	0	
+0	0	0	G	14	11	3	0		0	12	15	0	
+0	0	0	N	14	11	3	0		9	13	6	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	GRR	[That makes me a little angry]
+4	WIZ	1975 musical with a Yellow Brick Road, with "The"
+7	RIM	What a "swish" basketball shot doesn't touch
+10	LAICS	Flock members
+13	ADEE	Chick chaser?
+15	EWE	Baa-aad mother?
+16	WAITINGFORGODOT	Paris premiere of 1953
+19	OZS	Parts of lbs.
+20	RON	Pol Paul
+21	OONS	Suffixes with ball and bass
+22	WEI	Third-century Chinese dynasty
+23	RLESS	Like non-oyster months?
+26	XKES	Classic Jaguars
+29	RNASE	Biochemical enzyme, briefly
+32	BLU	Italian color
+33	YOS	Informal greetings
+34	GIE	"O, ___ me the lass ...": Burns
+35	ERMA	"Piece of My Heart" singer Franklin
+37	ANN	"Barbara ___" (1966 hit)
+38	XTRA	More, in adspeak
+39	SRS	Univ. applicants, typically
+40	NUTS	"Ape"
+42	HEH	Small chuckle
+43	USPS	"We deliver for you" sloganeer: Abbr.
+45	OHM	Its symbol is omega
+46	ERE	Long introduction?
+47	IBO	Nigerian people
+48	DAFOE	Actor Willem
+50	SOPE	Meryl Streep title role
+52	MYLOU	"Skip to ___"
+54	RDS	You may pass on these: Abbr.
+56	OMEI	Sacred Buddhist mountain
+58	MNO	Telephone triad
+60	NIA	Actress Vardalos
+61	ANIMALMAGNETISM	Sex appeal
+66	YON	Hither and ___
+67	PAUP	N.F.L. sacker Bryce ___
+68	ORONO	Northeast college town
+69	RGT	Mil. unit
+70	RDA	Fig. expressed in percents
+71	AGN	Once more: Abbr.
+39
+1	GLAZER	Bakery gizmo
+2	RAISINGTHEPOINT	Mentioning, as this puzzle's theme?
+3	RIT	Gradually slowing, in music: Abbr.
+4	WAF	Servicewoman, acronymically
+5	IDO	Courtroom response
+6	ZEROSUM	Like games without win-win outcomes
+7	REDSKYATMORNING	1970 Richard Thomas film adapted from a Richard Bradford novel
+8	IWO	Sulphur Island, for short
+9	MET	Got together
+11	CIR	Round fig.
+12	SNORE	More men do this than women, studies show
+14	EGO	Elitist's problem
+16	WOW	Bowl over
+17	GNL	Anguilla is part of it: Abbr.
+18	ONX	Black beauty
+24	EBERSOL	Longtime NBC sports exec
+25	SLRS	Camera shop display, for short
+27	EONS	A dog's age
+28	SSN	ID with two hyphens
+30	AIR	Put on TV
+31	SEAU	Former N.F.L. great Junior ___
+36	ANOA	Wild Indonesian bovine
+38	XERO	Prefix with graphic
+39	SPBY	Passed quickly
+41	UHF	Part of a TV dial
+42	HES	Peggy Lee's "___ a Tramp"
+44	SIMILAR	Like
+48	DUNNO	"Beats me!"
+49	EDISON	One full of ideas
+51	EMM	Kind of film, in brief
+53	OMG	Online gasp
+55	SAM	Football Hall-of-Famer Huff
+57	EAP	"To Helen" writer's inits.
+59	OER	Anthem contraction
+61	AYR	Strathclyde port
+62	NOG	Eggy beverage
+63	MUD	Name for a persona non grata
+64	APA	Therapists' org.
+65	TOA	Ode title starter

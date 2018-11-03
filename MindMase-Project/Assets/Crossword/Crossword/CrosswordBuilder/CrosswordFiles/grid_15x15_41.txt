@@ -1,0 +1,311 @@
+grid_15x15_41
+15
+1	0	0	#	0	1	0	0		1	0	4	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	V	0	2	3	1	VIN	0	2	15	1	VENTRILOQUYFOIL
+0	1	2	I	0	2	3	0		0	3	3	1	IRK
+0	1	3	N	0	2	3	0		0	4	3	1	NEE
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	4	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	4	Y	0	8	3	1	YFR	0	8	4	1	YOGH
+0	1	5	F	0	8	3	0		0	9	3	1	FIE
+0	1	6	R	0	8	3	0		0	10	3	1	REN
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	I	0	12	3	1	INF	0	12	15	1	ITISTHENEXTNOTE
+0	1	8	N	0	12	3	0		0	13	4	1	NOTH
+0	1	9	F	0	12	3	0		0	14	3	1	FEY
+0	1	10	S	1	0	5	1	SHERE	1	0	4	1	SYST
+0	1	11	H	1	0	5	0		1	1	4	1	HAGS
+0	0	0	E	1	0	5	0		0	2	15	0	
+0	0	0	R	1	0	5	0		0	3	3	0	
+0	0	0	E	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	5	0	
+0	1	12	L	1	6	5	1	LOOIE	1	6	4	1	LITA
+0	1	13	O	1	6	5	0		1	7	4	1	ONCE
+0	0	0	O	1	6	5	0		0	8	4	0	
+0	0	0	I	1	6	5	0		0	9	3	0	
+0	0	0	E	1	6	5	0		0	10	3	0	
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	14	T	1	12	3	1	TOE	0	12	15	0	
+0	0	0	O	1	12	3	0		0	13	4	0	
+0	0	0	E	1	12	3	0		0	14	3	0	
+0	1	15	Y	2	0	15	1	YANKEEINGENUITY	1	0	4	0	
+0	0	0	A	2	0	15	0		1	1	4	0	
+0	0	0	N	2	0	15	0		0	2	15	0	
+0	0	0	K	2	0	15	0		0	3	3	0	
+0	0	0	E	2	0	15	0		0	4	3	0	
+0	1	16	E	2	0	15	0		2	5	5	1	EIDER
+0	0	0	I	2	0	15	0		1	6	4	0	
+0	0	0	N	2	0	15	0		1	7	4	0	
+0	0	0	G	2	0	15	0		0	8	4	0	
+0	0	0	E	2	0	15	0		0	9	3	0	
+0	0	0	N	2	0	15	0		0	10	3	0	
+0	1	17	U	2	0	15	0		2	11	3	1	UUU
+0	0	0	I	2	0	15	0		0	12	15	0	
+0	0	0	T	2	0	15	0		0	13	4	0	
+0	0	0	Y	2	0	15	0		0	14	3	0	
+0	1	18	S	3	0	3	1	SGT	1	0	4	0	
+0	0	0	G	3	0	3	0		1	1	4	0	
+0	0	0	T	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	4	0		4	4	3	0	
+0	1	19	I	3	5	4	1	ITCH	2	5	5	0	
+0	0	0	T	3	5	4	0		1	6	4	0	
+0	0	0	C	3	5	4	0		1	7	4	0	
+0	0	0	H	3	5	4	0		0	8	4	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	3	0		4	10	3	0	
+0	1	20	U	3	11	3	1	USH	2	11	3	0	
+0	0	0	S	3	11	3	0		0	12	15	0	
+0	0	0	H	3	11	3	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	21	T	4	0	3	1	TSR	1	0	4	0	
+0	0	0	S	4	0	3	0		1	1	4	0	
+0	0	0	R	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	22	I	4	4	4	1	IDAE	4	4	3	1	ITA
+0	0	0	D	4	4	4	0		2	5	5	0	
+0	0	0	A	4	4	4	0		1	6	4	0	
+0	0	0	E	4	4	4	0		1	7	4	0	
+1	0	0	#	4	9	4	0		5	8	4	0	
+0	1	23	S	4	9	4	1	SMUT	4	9	3	1	SMU
+0	1	24	M	4	9	4	0		4	10	3	1	MAD
+0	0	0	U	4	9	4	0		2	11	3	0	
+0	0	0	T	4	9	4	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	4	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	4	0		6	1	4	0	
+0	1	25	I	5	2	4	1	IATE	0	2	15	0	
+0	1	26	A	5	2	4	0		5	3	3	1	AER
+0	0	0	T	5	2	4	0		4	4	3	0	
+0	0	0	E	5	2	4	0		2	5	5	0	
+1	0	0	#	5	7	0	0		6	6	4	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	27	E	5	8	3	1	EMA	5	8	4	1	EMEU
+0	0	0	M	5	8	3	0		4	9	3	0	
+0	0	0	A	5	8	3	0		4	10	3	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	28	H	5	12	3	1	HID	0	12	15	0	
+0	1	29	I	5	12	3	0		5	13	4	1	IPSO
+0	1	30	D	5	12	3	0		5	14	3	1	DIO
+1	0	0	#	6	1	10	0		7	0	3	0	
+0	1	31	C	6	1	10	1	CLEARASMUD	6	1	4	1	CEST
+0	0	0	L	6	1	10	0		0	2	15	0	
+0	0	0	E	6	1	10	0		5	3	3	0	
+0	0	0	A	6	1	10	0		4	4	3	0	
+0	0	0	R	6	1	10	0		2	5	5	0	
+0	1	32	A	6	1	10	0		6	6	4	1	AGUT
+0	1	33	S	6	1	10	0		6	7	3	1	SEZ
+0	0	0	M	6	1	10	0		5	8	4	0	
+0	0	0	U	6	1	10	0		4	9	3	0	
+0	0	0	D	6	1	10	0		4	10	3	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	34	E	6	12	3	1	EPI	0	12	15	0	
+0	0	0	P	6	12	3	0		5	13	4	0	
+0	0	0	I	6	12	3	0		5	14	3	0	
+0	1	35	M	7	0	4	1	MEOR	7	0	3	1	MES
+0	0	0	E	7	0	4	0		6	1	4	0	
+0	0	0	O	7	0	4	0		0	2	15	0	
+0	0	0	R	7	0	4	0		5	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	36	G	7	6	3	1	GEE	6	6	4	0	
+0	0	0	E	7	6	3	0		6	7	3	0	
+0	0	0	E	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	0	0		8	9	5	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	37	I	7	11	4	1	INSO	7	11	3	1	IDA
+0	0	0	N	7	11	4	0		0	12	15	0	
+0	0	0	S	7	11	4	0		5	13	4	0	
+0	0	0	O	7	11	4	0		5	14	3	0	
+0	1	38	E	8	0	3	1	ESQ	7	0	3	0	
+0	0	0	S	8	0	3	0		6	1	4	0	
+0	0	0	Q	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	10	0		9	3	0	0	
+0	1	39	I	8	4	10	1	ISUZURODEO	8	4	3	1	IZE
+0	1	40	S	8	4	10	0		8	5	3	1	SIR
+0	0	0	U	8	4	10	0		6	6	4	0	
+0	0	0	Z	8	4	10	0		6	7	3	0	
+0	0	0	U	8	4	10	0		5	8	4	0	
+0	1	41	R	8	4	10	0		8	9	5	1	RAILA
+0	1	42	O	8	4	10	0		8	10	3	1	ONO
+0	0	0	D	8	4	10	0		7	11	3	0	
+0	0	0	E	8	4	10	0		0	12	15	0	
+0	0	0	O	8	4	10	0		5	13	4	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	43	S	9	0	3	1	STU	7	0	3	0	
+0	0	0	T	9	0	3	0		6	1	4	0	
+0	0	0	U	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	44	Z	9	4	3	1	ZIT	8	4	3	0	
+0	0	0	I	9	4	3	0		8	5	3	0	
+0	0	0	T	9	4	3	0		6	6	4	0	
+1	0	0	#	9	8	0	0		10	7	4	0	
+1	0	0	#	9	9	4	0		10	8	4	0	
+0	1	45	A	9	9	4	1	ANAX	8	9	5	0	
+0	0	0	N	9	9	4	0		8	10	3	0	
+0	0	0	A	9	9	4	0		7	11	3	0	
+0	0	0	X	9	9	4	0		0	12	15	0	
+1	0	0	#	9	14	0	0		10	13	4	0	
+1	0	0	#	9	15	0	0		10	14	4	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	4	0	
+0	1	46	Y	10	2	4	1	YSER	0	2	15	0	
+0	1	47	S	10	2	4	0		10	3	3	1	SEN
+0	0	0	E	10	2	4	0		8	4	3	0	
+0	0	0	R	10	2	4	0		8	5	3	0	
+1	0	0	#	10	7	4	0		11	6	4	0	
+0	1	48	E	10	7	4	1	EZIO	10	7	4	1	ECCO
+0	1	49	Z	10	7	4	0		10	8	4	1	ZEIT
+0	0	0	I	10	7	4	0		8	9	5	0	
+0	0	0	O	10	7	4	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	50	T	10	12	3	1	TEE	0	12	15	0	
+0	1	51	E	10	12	3	0		10	13	4	1	ETNA
+0	1	52	E	10	12	3	0		10	14	4	1	ESSI
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	53	O	11	1	3	1	OFE	11	1	4	1	ORNO
+0	0	0	F	11	1	3	0		0	2	15	0	
+0	0	0	E	11	1	3	0		10	3	3	0	
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	54	I	11	6	4	1	ICEL	11	6	4	1	INGE
+0	0	0	C	11	6	4	0		10	7	4	0	
+0	0	0	E	11	6	4	0		10	8	4	0	
+0	0	0	L	11	6	4	0		8	9	5	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	55	N	11	12	3	1	NTS	0	12	15	0	
+0	0	0	T	11	12	3	0		10	13	4	0	
+0	0	0	S	11	12	3	0		10	14	4	0	
+0	1	56	P	12	0	15	1	PRONOUNCIATIONS	12	0	3	1	POG
+0	0	0	R	12	0	15	0		11	1	4	0	
+0	0	0	O	12	0	15	0		0	2	15	0	
+0	0	0	N	12	0	15	0		10	3	3	0	
+0	1	57	O	12	0	15	0		12	4	3	1	OBS
+0	1	58	U	12	0	15	0		12	5	3	1	UEA
+0	0	0	N	12	0	15	0		11	6	4	0	
+0	0	0	C	12	0	15	0		10	7	4	0	
+0	0	0	I	12	0	15	0		10	8	4	0	
+0	0	0	A	12	0	15	0		8	9	5	0	
+0	1	59	T	12	0	15	0		12	10	3	1	TAB
+0	1	60	I	12	0	15	0		12	11	3	1	ILE
+0	0	0	O	12	0	15	0		0	12	15	0	
+0	0	0	N	12	0	15	0		10	13	4	0	
+0	0	0	S	12	0	15	0		10	14	4	0	
+0	1	61	O	13	0	3	1	ONI	12	0	3	0	
+0	0	0	N	13	0	3	0		11	1	4	0	
+0	0	0	I	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	5	0		14	3	0	0	
+0	1	62	B	13	4	5	1	BEGOT	12	4	3	0	
+0	0	0	E	13	4	5	0		12	5	3	0	
+0	0	0	G	13	4	5	0		11	6	4	0	
+0	0	0	O	13	4	5	0		10	7	4	0	
+0	0	0	T	13	4	5	0		10	8	4	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	63	A	13	10	5	1	ALTAI	12	10	3	0	
+0	0	0	L	13	10	5	0		12	11	3	0	
+0	0	0	T	13	10	5	0		0	12	15	0	
+0	0	0	A	13	10	5	0		10	13	4	0	
+0	0	0	I	13	10	5	0		10	14	4	0	
+0	1	64	G	14	0	3	1	GOL	12	0	3	0	
+0	0	0	O	14	0	3	0		11	1	4	0	
+0	0	0	L	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	65	S	14	4	3	1	SAE	12	4	3	0	
+0	0	0	A	14	4	3	0		12	5	3	0	
+0	0	0	E	14	4	3	0		11	6	4	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	66	B	14	10	3	1	BEE	12	10	3	0	
+0	0	0	E	14	10	3	0		12	11	3	0	
+0	0	0	E	14	10	3	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	VIN	Beaujolais or Chablis
+4	YFR	N.B.A.
+7	INF	Gershwin's "Concerto ___"
+10	SHERE	___ Khan (tiger in "The Jungle Book")
+12	LOOIE	Sarge's superior
+14	TOE	Wingtip tip
+15	YANKEEINGENUITY	Crossword by Joe DiMaggio, e.g.?
+18	SGT	Lt. hopeful
+19	ITCH	Yen
+20	USH	Escort to a seat, slangily
+21	TSR	Dungeons & Dragons game co.
+22	IDAE	Family name suffix in taxonomy
+23	SMUT	Blue prints?
+25	IATE	"Must've been something ___"
+27	EMA	___ Savahl (couture label)
+28	HID	Withheld
+31	CLEARASMUD	Poorly explained
+34	EPI	Prefix with calyx or thalamus
+35	MEOR	"Is it just ___ ..."
+36	GEE	"How about that!"
+37	INSO	Start of many words?
+38	ESQ	Firm member: Abbr.
+39	ISUZURODEO	Onetime Chevy Blazer competitor
+43	STU	Trio after R
+44	ZIT	Spot concealed by makeup, maybe
+45	ANAX	Have ___ to grind
+46	YSER	Northern French river
+48	EZIO	Pinza of the Met
+50	TEE	Buttonless shirt
+53	OFE	Just recently
+54	ICEL	Reykjavik's land: Abbr.
+55	NTS	Some Windows systems
+56	PRONOUNCIATIONS	*Ways things are said
+61	ONI	Clandestine maritime org.
+62	BEGOT	Fathered
+63	ALTAI	Russia's ___ Republic
+64	GOL	"Well, ___ darn!"
+65	SAE	MS. enclosure
+66	BEE	Small buzzer
+43
+1	VENTRILOQUYFOIL	Dummy
+2	IRK	Rankle
+3	NEE	Obit word
+4	YOGH	Middle English letter
+5	FIE	Cousin of "Ugh!"
+6	REN	Cartoon dog
+7	ITISTHENEXTNOTE	Quote, part 3
+8	NOTH	Chris ___, player of Mr. Big on "Sex and the City"
+9	FEY	Tina of "30 Rock"
+10	SYST	Part of GPS: Abbr.
+11	HAGS	Storybook baddies
+12	LITA	Self-titled platinum album of 1988
+13	ONCE	Immediately, after "at"
+16	EIDER	You get down from it
+17	UUU	Familiar Olympics chant
+22	ITA	"Give ___ rest!"
+23	SMU	Dallas sch.
+24	MAD	Insane
+26	AER	Atmosphere: Prefix
+27	EMEU	Flightless bird: Var.
+29	IPSO	___ jure (legal term)
+30	DIO	God, in Roma
+31	CEST	"___ Si Bon" (1950s Eartha Kitt hit)
+32	AGUT	Bust ___
+33	SEZ	"Oh yeah? ___ who?"
+35	MES	Proven
+37	IDA	Moscow's home: Abbr.
+39	IZE	Suffix with special
+40	SIR	Knight's title
+41	RAILA	Angrily harangue
+42	ONO	"Bed-in" participant, 1969
+47	SEN	One with an office on Constitution Ave.
+48	ECCO	Behold, to Bellini
+49	ZEIT	Time, in Munich
+51	ETNA	It's active in Sicily
+52	ESSI	They, in Italy
+53	ORNO	Yes ___
+54	INGE	"Bus Stop" playwright
+56	POG	Collectible cap
+57	OBS	Out-of-date: Abbr.
+58	UEA	Pupil's place
+59	TAB	Can opener
+60	ILE	Project closing?

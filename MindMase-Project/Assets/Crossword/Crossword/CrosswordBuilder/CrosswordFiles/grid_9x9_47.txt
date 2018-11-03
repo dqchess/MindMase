@@ -1,0 +1,117 @@
+grid_9x9_47
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	3	0	
+0	1	1	Y	0	2	3	1	YON	0	2	4	1	YUGO
+0	1	2	O	0	2	3	0		0	3	3	1	OLA
+0	1	3	N	0	2	3	0		0	4	9	1	NTHDEGREE
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	G	0	6	3	1	GIS	0	6	4	1	GARS
+0	1	5	I	0	6	3	0		0	7	4	1	IATE
+0	1	6	S	0	6	3	0		0	8	3	1	SEZ
+0	1	7	A	1	0	5	1	ADULT	1	0	3	1	AMF
+0	1	8	D	1	0	5	0		1	1	3	1	DER
+0	0	0	U	1	0	5	0		0	2	4	0	
+0	0	0	L	1	0	5	0		0	3	3	0	
+0	0	0	T	1	0	5	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	A	1	6	3	1	AAE	0	6	4	0	
+0	0	0	A	1	6	3	0		0	7	4	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	10	M	2	0	9	1	MEGAHERTZ	1	0	3	0	
+0	0	0	E	2	0	9	0		1	1	3	0	
+0	0	0	G	2	0	9	0		0	2	4	0	
+0	0	0	A	2	0	9	0		0	3	3	0	
+0	0	0	H	2	0	9	0		0	4	9	0	
+0	1	11	E	2	0	9	0		2	5	3	1	EOE
+0	0	0	R	2	0	9	0		0	6	4	0	
+0	0	0	T	2	0	9	0		0	7	4	0	
+0	0	0	Z	2	0	9	0		0	8	3	0	
+0	1	12	F	3	0	3	1	FRO	1	0	3	0	
+0	0	0	R	3	0	3	0		1	1	3	0	
+0	0	0	O	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	D	3	4	4	1	DOSE	0	4	9	0	
+0	0	0	O	3	4	4	0		2	5	3	0	
+0	0	0	S	3	4	4	0		0	6	4	0	
+0	0	0	E	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	W	4	3	3	1	WEE	4	3	3	1	WOR
+0	0	0	E	4	3	3	0		0	4	9	0	
+0	0	0	E	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	3	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	G	5	1	4	1	GROG	5	1	4	1	GUNG
+0	1	16	R	5	1	4	0		5	2	4	1	REOS
+0	0	0	O	5	1	4	0		4	3	3	0	
+0	0	0	G	5	1	4	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	M	5	6	3	1	MAN	5	6	4	1	MLIN
+0	1	18	A	5	6	3	0		5	7	3	1	ALC
+0	1	19	N	5	6	3	0		5	8	3	1	NAA
+0	1	20	G	6	0	9	1	GUERRILLA	6	0	3	1	GON
+0	0	0	U	6	0	9	0		5	1	4	0	
+0	0	0	E	6	0	9	0		5	2	4	0	
+0	0	0	R	6	0	9	0		4	3	3	0	
+0	0	0	R	6	0	9	0		0	4	9	0	
+0	1	21	I	6	0	9	0		6	5	3	1	IRE
+0	0	0	L	6	0	9	0		5	6	4	0	
+0	0	0	L	6	0	9	0		5	7	3	0	
+0	0	0	A	6	0	9	0		5	8	3	0	
+0	1	22	O	7	0	3	1	ONO	6	0	3	0	
+0	0	0	N	7	0	3	0		5	1	4	0	
+0	0	0	O	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	E	7	4	5	1	ERICA	0	4	9	0	
+0	0	0	R	7	4	5	0		6	5	3	0	
+0	0	0	I	7	4	5	0		5	6	4	0	
+0	0	0	C	7	4	5	0		5	7	3	0	
+0	0	0	A	7	4	5	0		5	8	3	0	
+0	1	24	N	8	0	3	1	NGS	6	0	3	0	
+0	0	0	G	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	25	E	8	4	3	1	EEN	0	4	9	0	
+0	0	0	E	8	4	3	0		6	5	3	0	
+0	0	0	N	8	4	3	0		5	6	4	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	YON	Not here
+4	GIS	Amer. soldiers
+7	ADULT	18-and-over
+9	AAE	Popular cable channel
+10	MEGAHERTZ	Number on a dial
+12	FRO	To converse
+13	DOSE	Prescription amount
+14	WEE	Teensy
+15	GROG	Part of an old Royal Navy ration
+17	MAN	Enthusiastic exclamation
+20	GUERRILLA	Castro, prior to 1959
+22	ONO	Noted Tokyo-born singer
+23	ERICA	Author Jong
+24	NGS	Riot-stopping grps.
+25	EEN	Literary contraction
+17
+1	YUGO	Much-derided 1980s-'90s car
+2	OLA	"___ Dei"
+3	NTHDEGREE	Utmost
+4	GARS	Long-jawed fishes
+5	IATE	"Must be something ___"
+6	SEZ	Speaks, informally
+7	AMF	Bowling alley initials
+8	DER	"___ Freisch
+11	EOE	Help wanted abbr.
+14	WOR	Flagship station of the old Mutual Broadcasting System
+15	GUNG	Ho lead-in
+16	REOS	Model T contemporaries
+17	MLIN	Prized game fish
+18	ALC	Intoxicating agent: Abbr.
+19	NAA	Sports org.
+20	GON	Geometry ending
+21	IRE	Wrath

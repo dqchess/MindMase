@@ -1,0 +1,163 @@
+grid_11x11_8
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	D	0	2	3	1	DMA	0	2	11	1	DIPSWITCHES
+0	1	2	M	0	2	3	0		0	3	5	1	MANTA
+0	1	3	A	0	2	3	0		0	4	6	1	ALIENS
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	4	T	0	8	3	1	TNT	0	8	11	1	THEPROGRESS
+0	1	5	N	0	8	3	0		0	9	3	1	NEC
+0	1	6	T	0	8	3	0		0	10	3	1	TAE
+1	0	0	#	1	1	4	0		2	0	0	0	
+0	1	7	R	1	1	4	1	RIAL	1	1	6	1	ROUSER
+0	0	0	I	1	1	4	0		0	2	11	0	
+0	0	0	A	1	1	4	0		0	3	5	0	
+0	0	0	L	1	1	4	0		0	4	6	0	
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	8	O	1	6	5	1	OSHEA	1	6	3	1	ONS
+0	1	9	S	1	6	5	0		1	7	4	1	SPUD
+0	0	0	H	1	6	5	0		0	8	11	0	
+0	0	0	E	1	6	5	0		0	9	3	0	
+0	0	0	A	1	6	5	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	3	0	
+0	1	10	O	2	1	10	1	OPNIONPECE	1	1	6	0	
+0	0	0	P	2	1	10	0		0	2	11	0	
+0	0	0	N	2	1	10	0		0	3	5	0	
+0	0	0	I	2	1	10	0		0	4	6	0	
+0	1	11	O	2	1	10	0		2	5	7	1	ORANGES
+0	0	0	N	2	1	10	0		1	6	3	0	
+0	0	0	P	2	1	10	0		1	7	4	0	
+0	0	0	E	2	1	10	0		0	8	11	0	
+0	0	0	C	2	1	10	0		0	9	3	0	
+0	0	0	E	2	1	10	0		0	10	3	0	
+0	1	12	M	3	0	9	1	MUSTERSUP	3	0	3	1	MTM
+0	0	0	U	3	0	9	0		1	1	6	0	
+0	0	0	S	3	0	9	0		0	2	11	0	
+0	0	0	T	3	0	9	0		0	3	5	0	
+0	0	0	E	3	0	9	0		0	4	6	0	
+0	0	0	R	3	0	9	0		2	5	7	0	
+0	0	0	S	3	0	9	0		1	6	3	0	
+0	0	0	U	3	0	9	0		1	7	4	0	
+0	0	0	P	3	0	9	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	13	T	4	0	6	1	TSWANA	3	0	3	0	
+0	0	0	S	4	0	6	0		1	1	6	0	
+0	0	0	W	4	0	6	0		0	2	11	0	
+0	0	0	A	4	0	6	0		0	3	5	0	
+0	0	0	N	4	0	6	0		0	4	6	0	
+0	0	0	A	4	0	6	0		2	5	7	0	
+1	0	0	#	4	7	3	0		5	6	6	0	
+0	1	14	D	4	7	3	1	DRE	1	7	4	0	
+0	0	0	R	4	7	3	0		0	8	11	0	
+0	1	15	E	4	7	3	0		4	9	6	1	ENHASE
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	16	M	5	0	3	1	MEI	3	0	3	0	
+0	0	0	E	5	0	3	0		1	1	6	0	
+0	0	0	I	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	17	S	5	4	3	1	SNE	0	4	6	0	
+0	0	0	N	5	4	3	0		2	5	7	0	
+0	1	18	E	5	4	3	0		5	6	6	1	EUCHRE
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	19	O	5	8	3	1	ONA	0	8	11	0	
+0	0	0	N	5	8	3	0		4	9	6	0	
+0	1	20	A	5	8	3	0		5	10	3	1	AOL
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	21	R	6	1	3	1	RTS	1	1	6	0	
+0	0	0	T	6	1	3	0		0	2	11	0	
+0	1	22	S	6	1	3	0		6	3	4	1	SAES
+1	0	0	#	6	5	6	0		7	4	3	0	
+0	1	23	G	6	5	6	1	GUNGHO	2	5	7	0	
+0	0	0	U	6	5	6	0		5	6	6	0	
+0	1	24	N	6	5	6	0		6	7	5	1	NOOIL
+0	0	0	G	6	5	6	0		0	8	11	0	
+0	0	0	H	6	5	6	0		4	9	6	0	
+0	0	0	O	6	5	6	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	9	0		8	1	3	0	
+0	1	25	C	7	2	9	1	CAPECORAL	0	2	11	0	
+0	0	0	A	7	2	9	0		6	3	4	0	
+0	1	26	P	7	2	9	0		7	4	3	1	PRS
+0	0	0	E	7	2	9	0		2	5	7	0	
+0	0	0	C	7	2	9	0		5	6	6	0	
+0	0	0	O	7	2	9	0		6	7	5	0	
+0	0	0	R	7	2	9	0		0	8	11	0	
+0	0	0	A	7	2	9	0		4	9	6	0	
+0	0	0	L	7	2	9	0		5	10	3	0	
+0	1	27	I	8	0	10	1	INHERSHOES	8	0	3	1	IBI
+0	1	28	N	8	0	10	0		8	1	3	1	NLQ
+0	0	0	H	8	0	10	0		0	2	11	0	
+0	0	0	E	8	0	10	0		6	3	4	0	
+0	0	0	R	8	0	10	0		7	4	3	0	
+0	0	0	S	8	0	10	0		2	5	7	0	
+0	0	0	H	8	0	10	0		5	6	6	0	
+0	0	0	O	8	0	10	0		6	7	5	0	
+0	0	0	E	8	0	10	0		0	8	11	0	
+0	0	0	S	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	29	B	9	0	5	1	BLESS	8	0	3	0	
+0	0	0	L	9	0	5	0		8	1	3	0	
+0	0	0	E	9	0	5	0		0	2	11	0	
+0	0	0	S	9	0	5	0		6	3	4	0	
+0	0	0	S	9	0	5	0		7	4	3	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	30	R	9	6	4	1	RISE	5	6	6	0	
+0	0	0	I	9	6	4	0		6	7	5	0	
+0	0	0	S	9	6	4	0		0	8	11	0	
+0	0	0	E	9	6	4	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	31	I	10	0	3	1	IQS	8	0	3	0	
+0	0	0	Q	10	0	3	0		8	1	3	0	
+0	0	0	S	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	32	E	10	6	3	1	ELS	5	6	6	0	
+0	0	0	L	10	6	3	0		6	7	5	0	
+0	0	0	S	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	DMA	Basic teaching
+4	TNT	Army Corps of Engrs. supply
+7	RIAL	100 Iranian dinars
+8	OSHEA	Actor Milo
+10	OPNIONPECE	Editorial
+12	MUSTERSUP	Calls on, as strength
+13	TSWANA	A language of South Africa
+14	DRE	Hip-hop doc?
+16	MEI	"Don't tell ___ can't ...!"
+17	SNE	1983 Indy winner Tom
+19	ONA	___ roll (winning)
+21	RTS	Football positions: Abbr.
+23	GUNGHO	Avid
+25	CAPECORAL	Florida city on the Caloosahatchee
+27	INHERSHOES	Jennifer Weiner best seller made into a 2005 film
+29	BLESS	Give a benediction to
+30	RISE	Get out of bed
+31	IQS	Mental figures
+32	ELS	Transports near stairs
+19
+1	DIPSWITCHES	IPD DPI IDP
+2	MANTA	Tropical ray
+3	ALIENS	Ones who are worlds apart
+4	THEPROGRESS	Quote, part 3
+5	NEC	Jap. computer giant
+6	TAE	G.E. co-founder
+7	ROUSER	Electrifying speech
+8	ONS	Walk-___ (small parts)
+9	SPUD	Potato
+11	ORANGES	Order from Florida
+12	MTM	'70s TV production co.
+15	ENHASE	Set, as a gem
+18	EUCHRE	Game with right and left bowers
+20	AOL	Internet giant
+22	SAES	Requests from an ed.
+24	NOOIL	Reason for engine trouble, perhaps
+26	PRS	Couples: Abbr.
+27	IBI	There: Lat.
+28	NLQ	Place to hang a ring

@@ -1,0 +1,167 @@
+grid_11x11_9
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	O	0	2	3	1	OOF	0	2	11	1	OVERTIMEPIE
+0	1	2	O	0	2	3	0		0	3	3	1	OIL
+0	1	3	F	0	2	3	0		0	4	3	1	FIG
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	6	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	4	I	0	8	3	1	ISI	0	8	11	1	ITSELECTRIC
+0	1	5	S	0	8	3	0		0	9	3	1	SIE
+0	1	6	I	0	8	3	0		0	10	3	1	ISS
+1	0	0	#	1	1	4	0		2	0	0	0	
+0	1	7	X	1	1	4	1	XVII	1	1	6	1	XEDOUT
+0	0	0	V	1	1	4	0		0	2	11	0	
+0	0	0	I	1	1	4	0		0	3	3	0	
+0	0	0	I	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	8	T	1	6	5	1	TITIS	1	6	6	1	TAYLOR
+0	1	9	I	1	6	5	0		1	7	3	1	ISR
+0	0	0	T	1	6	5	0		0	8	11	0	
+0	0	0	I	1	6	5	0		0	9	3	0	
+0	0	0	S	1	6	5	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	4	0	
+0	1	10	E	2	1	10	1	EELGRASSES	1	1	6	0	
+0	0	0	E	2	1	10	0		0	2	11	0	
+0	0	0	L	2	1	10	0		0	3	3	0	
+0	0	0	G	2	1	10	0		0	4	3	0	
+0	1	11	R	2	1	10	0		2	5	7	1	RELIANT
+0	0	0	A	2	1	10	0		1	6	6	0	
+0	0	0	S	2	1	10	0		1	7	3	0	
+0	0	0	S	2	1	10	0		0	8	11	0	
+0	0	0	E	2	1	10	0		0	9	3	0	
+0	0	0	S	2	1	10	0		0	10	3	0	
+0	1	12	C	3	0	3	1	CDR	3	0	4	1	CHEM
+0	0	0	D	3	0	3	0		1	1	6	0	
+0	0	0	R	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	4	0		4	4	6	0	
+0	1	13	E	3	5	4	1	EYRE	2	5	7	0	
+0	0	0	Y	3	5	4	0		1	6	6	0	
+0	0	0	R	3	5	4	0		1	7	3	0	
+0	0	0	E	3	5	4	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	4	0	
+0	1	14	H	4	0	3	1	HOT	3	0	4	0	
+0	0	0	O	4	0	3	0		1	1	6	0	
+0	0	0	T	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	15	A	4	4	3	1	ALL	4	4	6	1	ARCARO
+0	0	0	L	4	4	3	0		2	5	7	0	
+0	0	0	L	4	4	3	0		1	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	16	L	4	8	3	1	LRG	0	8	11	0	
+0	1	17	R	4	8	3	0		4	9	6	1	RECAST
+0	1	18	G	4	8	3	0		4	10	4	1	GELD
+0	1	19	E	5	0	3	1	EUI	3	0	4	0	
+0	0	0	U	5	0	3	0		1	1	6	0	
+0	0	0	I	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	20	R	5	4	3	1	RIO	4	4	6	0	
+0	0	0	I	5	4	3	0		2	5	7	0	
+0	0	0	O	5	4	3	0		1	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	E	5	8	3	1	EEE	0	8	11	0	
+0	0	0	E	5	8	3	0		4	9	6	0	
+0	0	0	E	5	8	3	0		4	10	4	0	
+0	1	22	M	6	0	3	1	MTM	3	0	4	0	
+0	0	0	T	6	0	3	0		1	1	6	0	
+0	0	0	M	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	3	0	
+0	1	23	C	6	4	3	1	CAR	4	4	6	0	
+0	0	0	A	6	4	3	0		2	5	7	0	
+0	0	0	R	6	4	3	0		1	6	6	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	24	C	6	8	3	1	CCL	0	8	11	0	
+0	0	0	C	6	8	3	0		4	9	6	0	
+0	0	0	L	6	8	3	0		4	10	4	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	4	0		8	1	3	0	
+0	1	25	E	7	2	4	1	EMAN	0	2	11	0	
+0	1	26	M	7	2	4	0		7	3	3	1	MAS
+0	0	0	A	7	2	4	0		4	4	6	0	
+0	0	0	N	7	2	4	0		2	5	7	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	T	7	8	3	1	TAD	0	8	11	0	
+0	0	0	A	7	8	3	0		4	9	6	0	
+0	0	0	D	7	8	3	0		4	10	4	0	
+0	1	28	E	8	0	10	1	EXPARTNERS	8	0	3	1	EAD
+0	1	29	X	8	0	10	0		8	1	3	1	XVI
+0	0	0	P	8	0	10	0		0	2	11	0	
+0	0	0	A	8	0	10	0		7	3	3	0	
+0	0	0	R	8	0	10	0		4	4	6	0	
+0	0	0	T	8	0	10	0		2	5	7	0	
+0	1	30	N	8	0	10	0		8	6	3	1	NAP
+0	1	31	E	8	0	10	0		8	7	3	1	ELS
+0	0	0	R	8	0	10	0		0	8	11	0	
+0	0	0	S	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	32	A	9	0	5	1	AVISO	8	0	3	0	
+0	0	0	V	9	0	5	0		8	1	3	0	
+0	0	0	I	9	0	5	0		0	2	11	0	
+0	0	0	S	9	0	5	0		7	3	3	0	
+0	0	0	O	9	0	5	0		4	4	6	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	33	A	9	6	4	1	ALIT	8	6	3	0	
+0	0	0	L	9	6	4	0		8	7	3	0	
+0	0	0	I	9	6	4	0		0	8	11	0	
+0	0	0	T	9	6	4	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	D	10	0	3	1	DIE	8	0	3	0	
+0	0	0	I	10	0	3	0		8	1	3	0	
+0	0	0	E	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	35	P	10	6	3	1	PSC	8	6	3	0	
+0	0	0	S	10	6	3	0		8	7	3	0	
+0	0	0	C	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	OOF	Response to a stomach punch
+4	ISI	"Woe ___" (Patricia T. O'Conner best seller)
+7	XVII	1983 Super Bowl designation
+8	TITIS	South American monkeys
+10	EELGRASSES	Marine plants with ribbonlike leaves
+12	CDR	Digital file holder: Abbr.
+13	EYRE	Fictional Jane
+14	HOT	Wanting to be near one's fans?
+15	ALL	Exclusively
+16	LRG	Big: Abbr.
+19	EUI	Pins and needles' place
+20	RIO	South American cruise stop
+21	EEE	Like very wide shoes
+22	MTM	1970s TV production co.
+23	CAR	It must be tired to work
+24	CCL	Third-century year
+25	EMAN	Like squads in arena football
+27	TAD	Sliver
+28	EXPARTNERS	Former lovers, e.g.
+32	AVISO	Dispatch boat
+33	ALIT	Disembarked
+34	DIE	Run out of gas, say
+35	PSC	Utilities watchdog grp.
+19
+1	OVERTIMEPIE	Chart showing amounts spent working extra hours?
+2	OIL	Well-gotten gain?
+3	FIG	Kind of leaf
+4	ITSELECTRIC	Title for this puzzle
+5	SIE	You, abroad
+6	ISS	Magazine no.
+7	XEDOUT	Canceled
+8	TAYLOR	Jazz pianist Billy
+9	ISR	Mt. Tabor's country: Abbr.
+11	RELIANT	Dependent
+12	CHEM	Bond analysts' field?: Abbr.
+15	ARCARO	Winner of two Triple Crowns
+17	RECAST	Freshly worded
+18	GELD	Neuter
+26	MAS	More, in Monterrey
+28	EAD	Year that Augustus exiled Ovid
+29	XVI	"Sweet" age in ancient Rome?
+30	NAP	40 winks
+31	ELS	High ways?

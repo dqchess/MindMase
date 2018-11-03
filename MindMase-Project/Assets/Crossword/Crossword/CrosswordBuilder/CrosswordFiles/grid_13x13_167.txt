@@ -1,0 +1,227 @@
+grid_13x13_167
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	L	0	1	3	1	LUN	0	1	6	1	LOMEIN
+0	1	2	U	0	1	3	0		0	2	6	1	UMIAKS
+0	1	3	N	0	1	3	0		0	3	3	1	NEL
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	4	A	0	8	3	1	ASA	0	8	3	1	APB
+0	1	5	S	0	8	3	0		0	9	4	1	SAUR
+0	1	6	A	0	8	3	0		0	10	6	1	ASCOOL
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	O	1	1	4	1	OMEI	0	1	6	0	
+0	0	0	M	1	1	4	0		0	2	6	0	
+0	0	0	E	1	1	4	0		0	3	3	0	
+0	1	8	I	1	1	4	0		1	4	7	1	ILLEGIT
+1	0	0	#	1	6	6	0		2	5	5	0	
+0	1	9	R	1	6	6	1	REPAST	1	6	11	1	RODESHOTGUN
+0	1	10	E	1	6	6	0		1	7	3	1	ENS
+0	0	0	P	1	6	6	0		0	8	3	0	
+0	0	0	A	1	6	6	0		0	9	4	0	
+0	0	0	S	1	6	6	0		0	10	6	0	
+0	1	11	T	1	6	6	0		1	11	5	1	TKLES
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	12	A	2	0	13	1	AMILLIONBUCKS	2	0	3	1	AKA
+0	0	0	M	2	0	13	0		0	1	6	0	
+0	0	0	I	2	0	13	0		0	2	6	0	
+0	0	0	L	2	0	13	0		0	3	3	0	
+0	0	0	L	2	0	13	0		1	4	7	0	
+0	1	13	I	2	0	13	0		2	5	5	1	ILENE
+0	0	0	O	2	0	13	0		1	6	11	0	
+0	0	0	N	2	0	13	0		1	7	3	0	
+0	0	0	B	2	0	13	0		0	8	3	0	
+0	0	0	U	2	0	13	0		0	9	4	0	
+0	0	0	C	2	0	13	0		0	10	6	0	
+0	0	0	K	2	0	13	0		1	11	5	0	
+0	1	14	S	2	0	13	0		2	12	3	1	SYR
+0	1	15	K	3	0	3	1	KEA	2	0	3	0	
+0	0	0	E	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	16	L	3	4	4	1	LLDS	1	4	7	0	
+0	0	0	L	3	4	4	0		2	5	5	0	
+0	0	0	D	3	4	4	0		1	6	11	0	
+0	0	0	S	3	4	4	0		1	7	3	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	17	R	3	9	4	1	ROLY	0	9	4	0	
+0	0	0	O	3	9	4	0		0	10	6	0	
+0	0	0	L	3	9	4	0		1	11	5	0	
+0	0	0	Y	3	9	4	0		2	12	3	0	
+0	1	18	A	4	0	3	1	AIK	2	0	3	0	
+0	0	0	I	4	0	3	0		0	1	6	0	
+0	0	0	K	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	3	0		5	3	3	0	
+0	1	19	E	4	4	3	1	EEE	1	4	7	0	
+0	0	0	E	4	4	3	0		2	5	5	0	
+0	0	0	E	4	4	3	0		1	6	11	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	0	0		5	8	7	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	20	O	4	10	3	1	OER	0	10	6	0	
+0	0	0	E	4	10	3	0		1	11	5	0	
+0	0	0	R	4	10	3	0		2	12	3	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	21	N	5	1	6	1	NSIGNS	0	1	6	0	
+0	0	0	S	5	1	6	0		0	2	6	0	
+0	1	22	I	5	1	6	0		5	3	3	1	IDA
+0	0	0	G	5	1	6	0		1	4	7	0	
+0	0	0	N	5	1	6	0		2	5	5	0	
+0	0	0	S	5	1	6	0		1	6	11	0	
+1	0	0	#	5	8	4	0		6	7	5	0	
+0	1	23	G	5	8	4	1	GELS	5	8	7	1	GROLIER
+0	1	24	E	5	8	4	0		5	9	3	1	EDO
+0	0	0	L	5	8	4	0		0	10	6	0	
+0	0	0	S	5	8	4	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	25	D	6	3	7	1	DIEHARD	5	3	3	0	
+0	0	0	I	6	3	7	0		1	4	7	0	
+0	0	0	E	6	3	7	0		2	5	5	0	
+0	0	0	H	6	3	7	0		1	6	11	0	
+0	1	26	A	6	3	7	0		6	7	5	1	ATEAT
+0	0	0	R	6	3	7	0		5	8	7	0	
+0	0	0	D	6	3	7	0		5	9	3	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	T	7	1	4	1	THAT	7	1	5	1	TCOAT
+0	1	28	H	7	1	4	0		7	2	6	1	HARRAH
+0	0	0	A	7	1	4	0		5	3	3	0	
+0	0	0	T	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	6	0		8	5	0	0	
+0	1	29	O	7	6	6	1	OTOOLE	1	6	11	0	
+0	0	0	T	7	6	6	0		6	7	5	0	
+0	0	0	O	7	6	6	0		5	8	7	0	
+0	0	0	O	7	6	6	0		5	9	3	0	
+0	1	30	L	7	6	6	0		7	10	6	1	LACUNA
+0	1	31	E	7	6	6	0		7	11	6	1	ENAMEL
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	32	M	8	0	3	1	MCA	8	0	3	1	MAP
+0	0	0	C	8	0	3	0		7	1	5	0	
+0	0	0	A	8	0	3	0		7	2	6	0	
+1	0	0	#	8	4	0	0		9	3	4	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	33	T	8	6	3	1	TEL	1	6	11	0	
+0	0	0	E	8	6	3	0		6	7	5	0	
+0	0	0	L	8	6	3	0		5	8	7	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	34	A	8	10	3	1	ANS	7	10	6	0	
+0	0	0	N	8	10	3	0		7	11	6	0	
+0	1	35	S	8	10	3	0		8	12	3	1	STP
+0	1	36	A	9	0	4	1	AORB	8	0	3	0	
+0	0	0	O	9	0	4	0		7	1	5	0	
+0	0	0	R	9	0	4	0		7	2	6	0	
+0	1	37	B	9	0	4	0		9	3	4	1	BASE
+1	0	0	#	9	5	4	0		10	4	3	0	
+0	1	38	A	9	5	4	1	AGAI	9	5	3	1	AHA
+0	0	0	G	9	5	4	0		1	6	11	0	
+0	0	0	A	9	5	4	0		6	7	5	0	
+0	0	0	I	9	5	4	0		5	8	7	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	C	9	10	3	1	CAT	7	10	6	0	
+0	0	0	A	9	10	3	0		7	11	6	0	
+0	0	0	T	9	10	3	0		8	12	3	0	
+0	1	40	P	10	0	13	1	PARACHUTEJUMP	8	0	3	0	
+0	0	0	A	10	0	13	0		7	1	5	0	
+0	0	0	R	10	0	13	0		7	2	6	0	
+0	0	0	A	10	0	13	0		9	3	4	0	
+0	1	41	C	10	0	13	0		10	4	3	1	CMS
+0	0	0	H	10	0	13	0		9	5	3	0	
+0	0	0	U	10	0	13	0		1	6	11	0	
+0	0	0	T	10	0	13	0		6	7	5	0	
+0	0	0	E	10	0	13	0		5	8	7	0	
+0	1	42	J	10	0	13	0		10	9	3	1	JEU
+0	0	0	U	10	0	13	0		7	10	6	0	
+0	0	0	M	10	0	13	0		7	11	6	0	
+0	0	0	P	10	0	13	0		8	12	3	0	
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	43	T	11	1	6	1	TASMAN	7	1	5	0	
+0	0	0	A	11	1	6	0		7	2	6	0	
+0	0	0	S	11	1	6	0		9	3	4	0	
+0	0	0	M	11	1	6	0		10	4	3	0	
+0	0	0	A	11	1	6	0		9	5	3	0	
+0	0	0	N	11	1	6	0		1	6	11	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	44	R	11	8	4	1	RENE	5	8	7	0	
+0	0	0	E	11	8	4	0		10	9	3	0	
+0	0	0	N	11	8	4	0		7	10	6	0	
+0	0	0	E	11	8	4	0		7	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	45	H	12	2	3	1	HES	7	2	6	0	
+0	0	0	E	12	2	3	0		9	3	4	0	
+0	0	0	S	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	46	U	12	9	3	1	UAL	10	9	3	0	
+0	0	0	A	12	9	3	0		7	10	6	0	
+0	0	0	L	12	9	3	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	LUN	___ Tha ("The King and I" role)
+4	ASA	Middle of a simile
+7	OMEI	Sacred Buddhist mountain
+9	REPAST	Buffet
+12	AMILLIONBUCKS	What the queasy rodeo rider didn't feel like?
+15	KEA	Mauna ___
+16	LLDS	Degrees for attys.
+17	ROLY	___-poly
+18	AIK	Rio producer
+19	EEE	Extra-wide shoe spec.
+20	OER	Anthem contraction
+21	NSIGNS	You'll need six of them to finish this puzzle
+23	GELS	Hair products
+25	DIEHARD	Action movie series
+27	THAT	This's partner
+29	OTOOLE	Most-nominated Best Actor (eight times) never to win an Oscar
+32	MCA	Major record label
+33	TEL	Bus. or res. number
+34	ANS	Interview part: Abbr.
+36	AORB	Simple choice
+38	AGAI	One way to race
+39	CAT	Leopard, e.g.
+40	PARACHUTEJUMP	Bygone Coney Island attraction
+43	TASMAN	Discoverer of New Zealand
+44	RENE	Tennis's Lacoste
+45	HES	Bulls, e.g.
+46	UAL	Initials at O'Hare
+27
+1	LOMEIN	Dish eaten with chopsticks
+2	UMIAKS	Walrus-skin boats
+3	NEL	"___ Blu, Dipinto di Blu"
+4	APB	What a patrol car might get, for short
+5	SAUR	Dino's tail?
+6	ASCOOL	Comparable to a cucumber
+8	ILLEGIT	Not on the up-and-up
+9	RODESHOTGUN	Had the passenger seat
+10	ENS	Pulver's rank: Abbr.
+11	TKLES	Bell sounds
+12	AKA	Alias preceder
+13	ILENE	Beckerman who wrote "Love, Loss and What I Wore"
+14	SYR	Arab League member: Abbr.
+22	IDA	Civil rights advocate ___ B. Wells
+23	GROLIER	Encyclopedia name
+24	EDO	Former name of Tokyo
+26	ATEAT	Bothered incessantly
+27	TCOAT	Paint job finale
+28	HARRAH	Casino chain founder William F. ___
+30	LACUNA	Gap in a manuscript
+31	ENAMEL	Canine covering
+32	MAP	War room fixture
+35	STP	Racing initials
+37	BASE	Kind of path or pay
+38	AHA	"I found it!"
+41	CMS	Ruler amts.
+42	JEU	___ d'esprit (witty remark)

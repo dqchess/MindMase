@@ -1,0 +1,233 @@
+grid_13x13_109
+13
+0	1	1	T	0	0	3	1	TVS	0	0	3	1	TOF
+0	1	2	V	0	0	3	0		0	1	5	1	VIREO
+0	1	3	S	0	0	3	0		0	2	13	1	SLIGHTMISTAKE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	N	0	5	3	1	NTS	0	5	3	1	NYE
+0	1	5	T	0	5	3	0		0	6	3	1	TNT
+0	1	6	S	0	5	3	0		0	7	7	1	SCREWUP
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	S	0	9	3	1	STE	0	9	4	1	SKIL
+0	1	8	T	0	9	3	0		0	10	13	1	TRAILATTORNEY
+0	1	9	E	0	9	3	0		0	11	7	1	EASTERS
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	O	1	0	3	1	OIL	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	5	0	
+0	0	0	L	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	0	0	
+0	1	11	S	1	4	4	1	SYNC	1	4	3	1	SPN
+0	0	0	Y	1	4	4	0		0	5	3	0	
+0	0	0	N	1	4	4	0		0	6	3	0	
+0	0	0	C	1	4	4	0		0	7	7	0	
+1	0	0	#	1	9	3	0		2	8	0	0	
+0	1	12	K	1	9	3	1	KRA	0	9	4	0	
+0	0	0	R	1	9	3	0		0	10	13	0	
+0	0	0	A	1	9	3	0		0	11	7	0	
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	F	2	0	3	1	FRI	0	0	3	0	
+0	0	0	R	2	0	3	0		0	1	5	0	
+0	0	0	I	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	4	0		3	3	4	0	
+0	1	14	P	2	4	4	1	PETR	1	4	3	0	
+0	0	0	E	2	4	4	0		0	5	3	0	
+0	0	0	T	2	4	4	0		0	6	3	0	
+0	0	0	R	2	4	4	0		0	7	7	0	
+1	0	0	#	2	9	3	0		3	8	5	0	
+0	1	15	I	2	9	3	1	IAS	0	9	4	0	
+0	0	0	A	2	9	3	0		0	10	13	0	
+0	0	0	S	2	9	3	0		0	11	7	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	16	E	3	1	4	1	EGAN	0	1	5	0	
+0	0	0	G	3	1	4	0		0	2	13	0	
+0	1	17	A	3	1	4	0		3	3	4	1	AMDA
+0	0	0	N	3	1	4	0		1	4	3	0	
+1	0	0	#	3	6	0	0		4	5	0	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	18	E	3	7	6	1	EOLITH	0	7	7	0	
+0	1	19	O	3	7	6	0		3	8	5	1	ONMAN
+0	0	0	L	3	7	6	0		0	9	4	0	
+0	0	0	I	3	7	6	0		0	10	13	0	
+0	0	0	T	3	7	6	0		0	11	7	0	
+0	1	20	H	3	7	6	0		3	12	3	1	HNS
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	21	O	4	1	3	1	OHM	0	1	5	0	
+0	0	0	H	4	1	3	0		0	2	13	0	
+0	0	0	M	4	1	3	0		3	3	4	0	
+1	0	0	#	4	5	0	0		5	4	5	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	22	A	4	6	3	1	AWN	4	6	5	1	ATYOU
+0	0	0	W	4	6	3	0		0	7	7	0	
+0	0	0	N	4	6	3	0		3	8	5	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	23	L	4	10	3	1	LEN	0	10	13	0	
+0	0	0	E	4	10	3	0		0	11	7	0	
+0	0	0	N	4	10	3	0		3	12	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	24	T	5	2	3	1	TDP	0	2	13	0	
+0	0	0	D	5	2	3	0		3	3	4	0	
+0	1	25	P	5	2	3	0		5	4	5	1	PROMS
+1	0	0	#	5	6	3	0		6	5	7	0	
+0	1	26	T	5	6	3	1	TUM	4	6	5	0	
+0	0	0	U	5	6	3	0		0	7	7	0	
+0	0	0	M	5	6	3	0		3	8	5	0	
+1	0	0	#	5	10	3	0		6	9	4	0	
+0	1	27	A	5	10	3	1	ARS	0	10	13	0	
+0	0	0	R	5	10	3	0		0	11	7	0	
+0	0	0	S	5	10	3	0		3	12	3	0	
+1	0	0	#	6	1	11	0		7	0	3	0	
+0	1	28	S	6	1	11	1	SMARTYPANTS	6	1	7	1	SHEERER
+0	0	0	M	6	1	11	0		0	2	13	0	
+0	0	0	A	6	1	11	0		3	3	4	0	
+0	0	0	R	6	1	11	0		5	4	5	0	
+0	1	29	T	6	1	11	0		6	5	7	1	TESTOUT
+0	0	0	Y	6	1	11	0		4	6	5	0	
+0	0	0	P	6	1	11	0		0	7	7	0	
+0	0	0	A	6	1	11	0		3	8	5	0	
+0	1	30	N	6	1	11	0		6	9	4	1	NOIT
+0	0	0	T	6	1	11	0		0	10	13	0	
+0	0	0	S	6	1	11	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	31	A	7	0	3	1	AHI	7	0	3	1	APR
+0	0	0	H	7	0	3	0		6	1	7	0	
+0	0	0	I	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	32	O	7	4	3	1	OEO	5	4	5	0	
+0	0	0	E	7	4	3	0		6	5	7	0	
+0	0	0	O	7	4	3	0		4	6	5	0	
+1	0	0	#	7	8	3	0		8	7	0	0	
+0	1	33	N	7	8	3	1	NOT	3	8	5	0	
+0	0	0	O	7	8	3	0		6	9	4	0	
+0	0	0	T	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	P	8	0	3	1	PES	7	0	3	0	
+0	0	0	E	8	0	3	0		6	1	7	0	
+0	0	0	S	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	3	0		9	3	4	0	
+0	1	35	M	8	4	3	1	MSU	5	4	5	0	
+0	0	0	S	8	4	3	0		6	5	7	0	
+0	0	0	U	8	4	3	0		4	6	5	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	36	I	8	9	3	1	IOS	6	9	4	0	
+0	0	0	O	8	9	3	0		0	10	13	0	
+0	1	37	S	8	9	3	0		8	11	5	1	SAGGY
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	38	R	9	0	6	1	RETEST	7	0	3	0	
+0	0	0	E	9	0	6	0		6	1	7	0	
+0	0	0	T	9	0	6	0		0	2	13	0	
+0	1	39	E	9	0	6	0		9	3	4	1	ELEA
+0	0	0	S	9	0	6	0		5	4	5	0	
+0	0	0	T	9	0	6	0		6	5	7	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	40	A	9	8	4	1	ATRA	9	8	3	1	AGS
+0	0	0	T	9	8	4	0		6	9	4	0	
+0	0	0	R	9	8	4	0		0	10	13	0	
+0	0	0	A	9	8	4	0		8	11	5	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	41	R	10	1	3	1	RAL	6	1	7	0	
+0	0	0	A	10	1	3	0		0	2	13	0	
+0	0	0	L	10	1	3	0		9	3	4	0	
+1	0	0	#	10	5	4	0		11	4	0	0	
+0	1	42	O	10	5	4	1	OLEG	6	5	7	0	
+0	1	43	L	10	5	4	0		10	6	3	1	LLD
+0	1	44	E	10	5	4	0		10	7	3	1	EES
+0	0	0	G	10	5	4	0		9	8	3	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	45	N	10	10	3	1	NGN	0	10	13	0	
+0	0	0	G	10	10	3	0		8	11	5	0	
+0	1	46	N	10	10	3	0		10	12	3	1	NOB
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	47	E	11	1	3	1	EKE	6	1	7	0	
+0	0	0	K	11	1	3	0		0	2	13	0	
+0	0	0	E	11	1	3	0		9	3	4	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	48	U	11	5	4	1	ULES	6	5	7	0	
+0	0	0	L	11	5	4	0		10	6	3	0	
+0	0	0	E	11	5	4	0		10	7	3	0	
+0	0	0	S	11	5	4	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	49	E	11	10	3	1	EGO	0	10	13	0	
+0	0	0	G	11	10	3	0		8	11	5	0	
+0	0	0	O	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	50	R	12	1	3	1	REA	6	1	7	0	
+0	0	0	E	12	1	3	0		0	2	13	0	
+0	0	0	A	12	1	3	0		9	3	4	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	51	T	12	5	3	1	TDS	6	5	7	0	
+0	0	0	D	12	5	3	0		10	6	3	0	
+0	0	0	S	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	52	Y	12	10	3	1	YYB	0	10	13	0	
+0	0	0	Y	12	10	3	0		8	11	5	0	
+0	0	0	B	12	10	3	0		10	12	3	0	
+35
+1	TVS	Snow showers?
+4	NTS	Some Windows systems
+7	STE	Ile ___-H
+10	OIL	Engine need
+11	SYNC	Together, after "in"
+12	KRA	Malay Peninsula's Isthmus of ___
+13	FRI	Happy hour day, usually: Abbr.
+14	PETR	Czech-born N.H.L.'er Sykora or Prucha
+15	IAS	"___ in Icarus" (1979 French thriller)
+16	EGAN	First governor of Alaska
+18	EOLITH	Crude stone artifact
+21	OHM	Unit of resistance
+22	AWN	Wheat covering
+23	LEN	Basketball's ___ Elmore
+24	TDP	Group formed at C.C.N.Y. in 1910
+26	TUM	"The Rum ___ Tugger" (song from "Cats")
+27	ARS	MGM motto word
+28	SMARTYPANTS	Know-it-all
+31	AHI	Tuna type
+32	OEO	Antipoverty agcy.
+33	NOT	"___ bad!"
+34	PES	Flavius's foot
+35	MSU	Big Ten inits.
+36	IOS	Island near Naxos
+38	RETEST	Student's second chance
+40	ATRA	Brand in a bathroom
+41	RAL	"Too-ra-loo-ra-loo-___"
+42	OLEG	Two-time figure-skating Olympic gold medalist Protopopov
+45	NGN	Stitch
+47	EKE	Laboriously make
+48	ULES	Diminutive suffixes
+49	EGO	Cause of star wars?
+50	REA	Stephen of "The End of the Affair"
+51	TDS	Passing thoughts, for short?
+52	YYB	Eggs
+25
+1	TOF	___ a kind (pair)
+2	VIREO	Migratory songbird
+3	SLIGHTMISTAKE	Boo-boo
+4	NYE	TV's Science Guy
+5	TNT	Boom producer, for short
+6	SCREWUP	Homer Simpson type
+7	SKIL	Home tool maker
+8	TRAILATTORNEY	Hiker's counsel?
+9	EASTERS	Churchgoing times for many nonchurchgoers
+11	SPN	"Wheel of Fortune" option
+17	AMDA	Heather's "Melrose Place" role
+19	ONMAN	Pope's "An Essay ___"
+20	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+22	ATYOU	"Here's looking ___!"
+25	PROMS	Big balls
+28	SHEERER	More diaphanous
+29	TESTOUT	Give a whirl
+30	NOIT	"___ can't be!"
+31	APR	30-day mo.
+37	SAGGY	Needing a lift
+39	ELEA	Parmenides
+40	AGS	Dept. of Justice chiefs
+43	LLD	Foreign law deg.
+44	EES	Some tech grads
+46	NOB	Cribbage jack

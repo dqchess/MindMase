@@ -1,0 +1,307 @@
+grid_15x15_74
+15
+1	0	0	#	0	1	5	0		1	0	3	0	
+0	1	1	G	0	1	5	1	GYPSY	0	1	5	1	GERMY
+0	1	2	Y	0	1	5	0		0	2	5	1	YROSE
+0	1	3	P	0	1	5	0		0	3	3	1	PCS
+0	1	4	S	0	1	5	0		0	4	3	1	SHS
+0	1	5	Y	0	1	5	0		0	5	3	1	YEA
+1	0	0	#	0	7	0	0		1	6	4	0	
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	5	0		1	9	0	0	
+0	1	6	U	0	10	5	1	URAWA	0	10	3	1	UMS
+0	1	7	R	0	10	5	0		0	11	5	1	ROSIE
+0	1	8	A	0	10	5	0		0	12	9	1	APOCRYPHA
+0	1	9	W	0	10	5	0		0	13	4	1	WERE
+0	1	10	A	0	10	5	0		0	14	3	1	ARE
+0	1	11	P	1	0	9	1	PERCHESON	1	0	3	1	PEG
+0	0	0	E	1	0	9	0		0	1	5	0	
+0	0	0	R	1	0	9	0		0	2	5	0	
+0	0	0	C	1	0	9	0		0	3	3	0	
+0	0	0	H	1	0	9	0		0	4	3	0	
+0	0	0	E	1	0	9	0		0	5	3	0	
+0	1	12	S	1	0	9	0		1	6	4	1	SWAN
+0	1	13	O	1	0	9	0		1	7	3	1	OIS
+0	1	14	N	1	0	9	0		1	8	3	1	NWT
+1	0	0	#	1	10	5	0		2	9	4	0	
+0	1	15	M	1	10	5	1	MOPER	0	10	3	0	
+0	0	0	O	1	10	5	0		0	11	5	0	
+0	0	0	P	1	10	5	0		0	12	9	0	
+0	0	0	E	1	10	5	0		0	13	4	0	
+0	0	0	R	1	10	5	0		0	14	3	0	
+0	1	16	E	2	0	15	1	EROSSAWIWASSORE	1	0	3	0	
+0	0	0	R	2	0	15	0		0	1	5	0	
+0	0	0	O	2	0	15	0		0	2	5	0	
+0	0	0	S	2	0	15	0		0	3	3	0	
+0	0	0	S	2	0	15	0		0	4	3	0	
+0	0	0	A	2	0	15	0		0	5	3	0	
+0	0	0	W	2	0	15	0		1	6	4	0	
+0	0	0	I	2	0	15	0		1	7	3	0	
+0	0	0	W	2	0	15	0		1	8	3	0	
+0	1	17	A	2	0	15	0		2	9	4	1	AROO
+0	0	0	S	2	0	15	0		0	10	3	0	
+0	0	0	S	2	0	15	0		0	11	5	0	
+0	0	0	O	2	0	15	0		0	12	9	0	
+0	0	0	R	2	0	15	0		0	13	4	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+0	1	18	G	3	0	3	1	GMS	1	0	3	0	
+0	0	0	M	3	0	3	0		0	1	5	0	
+0	0	0	S	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	0	0		4	3	5	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	19	A	3	6	4	1	ASTR	1	6	4	0	
+0	0	0	S	3	6	4	0		1	7	3	0	
+0	0	0	T	3	6	4	0		1	8	3	0	
+0	0	0	R	3	6	4	0		2	9	4	0	
+1	0	0	#	3	11	3	0		4	10	3	0	
+0	1	20	I	3	11	3	1	ICE	0	11	5	0	
+0	0	0	C	3	11	3	0		0	12	9	0	
+0	0	0	E	3	11	3	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	6	0		5	0	0	0	
+0	1	21	Y	4	1	6	1	YEOMAN	0	1	5	0	
+0	0	0	E	4	1	6	0		0	2	5	0	
+0	1	22	O	4	1	6	0		4	3	5	1	ORKAN
+0	1	23	M	4	1	6	0		4	4	3	1	MAO
+0	1	24	A	4	1	6	0		4	5	3	1	AFT
+0	0	0	N	4	1	6	0		1	6	4	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	4	0		5	8	4	0	
+0	1	25	O	4	9	4	1	OXER	2	9	4	0	
+0	1	26	X	4	9	4	0		4	10	3	1	XSA
+0	0	0	E	4	9	4	0		0	11	5	0	
+0	0	0	R	4	9	4	0		0	12	9	0	
+1	0	0	#	4	14	0	0		5	13	4	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	3	0		6	2	9	0	
+0	1	27	R	5	3	3	1	RAF	4	3	5	0	
+0	0	0	A	5	3	3	0		4	4	3	0	
+0	0	0	F	5	3	3	0		4	5	3	0	
+1	0	0	#	5	7	0	0		6	6	4	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	28	O	5	8	3	1	OOS	5	8	4	1	ORLE
+0	0	0	O	5	8	3	0		2	9	4	0	
+0	0	0	S	5	8	3	0		4	10	3	0	
+1	0	0	#	5	12	3	0		6	11	5	0	
+0	1	29	Y	5	12	3	1	YET	0	12	9	0	
+0	1	30	E	5	12	3	0		5	13	4	1	EELS
+0	1	31	T	5	12	3	0		5	14	3	1	TSO
+1	0	0	#	6	1	8	0		7	0	3	0	
+0	1	32	M	6	1	8	1	MRKOTTER	6	1	4	1	MANE
+0	1	33	R	6	1	8	0		6	2	9	1	RHINEGOLD
+0	0	0	K	6	1	8	0		4	3	5	0	
+0	0	0	O	6	1	8	0		4	4	3	0	
+0	0	0	T	6	1	8	0		4	5	3	0	
+0	1	34	T	6	1	8	0		6	6	4	1	TAIZ
+0	1	35	E	6	1	8	0		6	7	3	1	EIN
+0	0	0	R	6	1	8	0		5	8	4	0	
+1	0	0	#	6	10	5	0		7	9	0	0	
+0	1	36	A	6	10	5	1	ALPES	4	10	3	0	
+0	1	37	L	6	10	5	0		6	11	5	1	LEILA
+0	0	0	P	6	10	5	0		0	12	9	0	
+0	0	0	E	6	10	5	0		5	13	4	0	
+0	0	0	S	6	10	5	0		5	14	3	0	
+0	1	38	H	7	0	4	1	HAHA	7	0	3	1	HOM
+0	0	0	A	7	0	4	0		6	1	4	0	
+0	0	0	H	7	0	4	0		6	2	9	0	
+0	0	0	A	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	39	A	7	6	3	1	AIL	6	6	4	0	
+0	0	0	I	7	6	3	0		6	7	3	0	
+0	0	0	L	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	40	E	7	11	4	1	EHLO	6	11	5	0	
+0	0	0	H	7	11	4	0		0	12	9	0	
+0	0	0	L	7	11	4	0		5	13	4	0	
+0	0	0	O	7	11	4	0		5	14	3	0	
+0	1	41	O	8	0	5	1	ONINE	7	0	3	0	
+0	0	0	N	8	0	5	0		6	1	4	0	
+0	0	0	I	8	0	5	0		6	2	9	0	
+0	0	0	N	8	0	5	0		4	3	5	0	
+0	1	42	E	8	0	5	0		8	4	3	1	ENT
+1	0	0	#	8	6	8	0		9	5	4	0	
+0	1	43	I	8	6	8	1	INERTIAS	6	6	4	0	
+0	0	0	N	8	6	8	0		6	7	3	0	
+0	0	0	E	8	6	8	0		5	8	4	0	
+0	1	44	R	8	6	8	0		8	9	3	1	RHE
+0	1	45	T	8	6	8	0		8	10	3	1	TUS
+0	0	0	I	8	6	8	0		6	11	5	0	
+0	0	0	A	8	6	8	0		0	12	9	0	
+0	0	0	S	8	6	8	0		5	13	4	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	46	M	9	0	3	1	MEN	7	0	3	0	
+0	0	0	E	9	0	3	0		6	1	4	0	
+0	0	0	N	9	0	3	0		6	2	9	0	
+1	0	0	#	9	4	3	0		10	3	5	0	
+0	1	47	N	9	4	3	1	NZZ	8	4	3	0	
+0	1	48	Z	9	4	3	0		9	5	4	1	ZSUM
+0	0	0	Z	9	4	3	0		6	6	4	0	
+1	0	0	#	9	8	0	0		10	7	0	0	
+1	0	0	#	9	9	3	0		10	8	4	0	
+0	1	49	H	9	9	3	1	HUL	8	9	3	0	
+0	0	0	U	9	9	3	0		8	10	3	0	
+0	0	0	L	9	9	3	0		6	11	5	0	
+1	0	0	#	9	13	0	0		10	12	5	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	4	0	
+0	1	50	E	10	2	4	1	ESTS	6	2	9	0	
+0	1	51	S	10	2	4	0		10	3	5	1	SOLAR
+0	0	0	T	10	2	4	0		8	4	3	0	
+0	0	0	S	10	2	4	0		9	5	4	0	
+1	0	0	#	10	7	0	0		11	6	3	0	
+1	0	0	#	10	8	6	0		11	7	3	0	
+0	1	52	S	10	8	6	1	SESAME	10	8	4	1	SECY
+0	0	0	E	10	8	6	0		8	9	3	0	
+0	0	0	S	10	8	6	0		8	10	3	0	
+0	0	0	A	10	8	6	0		6	11	5	0	
+0	1	53	M	10	8	6	0		10	12	5	1	MATTE
+0	1	54	E	10	8	6	0		10	13	5	1	EYEON
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	55	A	11	1	3	1	AGO	11	1	4	1	ATON
+0	0	0	G	11	1	3	0		6	2	9	0	
+0	0	0	O	11	1	3	0		10	3	5	0	
+1	0	0	#	11	5	4	0		12	4	3	0	
+0	1	56	U	11	5	4	1	UNDE	9	5	4	0	
+0	1	57	N	11	5	4	0		11	6	3	1	NAT
+0	1	58	D	11	5	4	0		11	7	3	1	DIO
+0	0	0	E	11	5	4	0		10	8	4	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	59	A	11	12	3	1	AYE	10	12	5	0	
+0	0	0	Y	11	12	3	0		10	13	5	0	
+0	1	60	E	11	12	3	0		11	14	3	1	EME
+0	1	61	P	12	0	15	1	PTOLEMAICSYSTEM	12	0	3	1	PBA
+0	0	0	T	12	0	15	0		11	1	4	0	
+0	0	0	O	12	0	15	0		6	2	9	0	
+0	0	0	L	12	0	15	0		10	3	5	0	
+0	1	62	E	12	0	15	0		12	4	3	1	ESE
+0	0	0	M	12	0	15	0		9	5	4	0	
+0	0	0	A	12	0	15	0		11	6	3	0	
+0	0	0	I	12	0	15	0		11	7	3	0	
+0	0	0	C	12	0	15	0		10	8	4	0	
+0	1	63	S	12	0	15	0		12	9	3	1	STP
+0	1	64	Y	12	0	15	0		12	10	3	1	YOO
+0	1	65	S	12	0	15	0		12	11	3	1	SIS
+0	0	0	T	12	0	15	0		10	12	5	0	
+0	0	0	E	12	0	15	0		10	13	5	0	
+0	0	0	M	12	0	15	0		11	14	3	0	
+0	1	66	B	13	0	5	1	BOLAS	12	0	3	0	
+0	0	0	O	13	0	5	0		11	1	4	0	
+0	0	0	L	13	0	5	0		6	2	9	0	
+0	0	0	A	13	0	5	0		10	3	5	0	
+0	0	0	S	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	9	0		14	5	0	0	
+0	1	67	T	13	6	9	1	TOYTOITOE	11	6	3	0	
+0	0	0	O	13	6	9	0		11	7	3	0	
+0	0	0	Y	13	6	9	0		10	8	4	0	
+0	0	0	T	13	6	9	0		12	9	3	0	
+0	0	0	O	13	6	9	0		12	10	3	0	
+0	0	0	I	13	6	9	0		12	11	3	0	
+0	0	0	T	13	6	9	0		10	12	5	0	
+0	0	0	O	13	6	9	0		10	13	5	0	
+0	0	0	E	13	6	9	0		11	14	3	0	
+0	1	68	A	14	0	5	1	ANDRE	12	0	3	0	
+0	0	0	N	14	0	5	0		11	1	4	0	
+0	0	0	D	14	0	5	0		6	2	9	0	
+0	0	0	R	14	0	5	0		10	3	5	0	
+0	0	0	E	14	0	5	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	5	0		15	8	0	0	
+0	1	69	P	14	9	5	1	POSEN	12	9	3	0	
+0	0	0	O	14	9	5	0		12	10	3	0	
+0	0	0	S	14	9	5	0		12	11	3	0	
+0	0	0	E	14	9	5	0		10	12	5	0	
+0	0	0	N	14	9	5	0		10	13	5	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+33
+1	GYPSY	Wanderer
+6	URAWA	Suburb of Tokyo
+11	PERCHESON	Uses as a roost
+15	MOPER	Sad sort
+16	EROSSAWIWASSORE	Either way, Cupid recognized my pain
+18	GMS	Ball club V.I.P.'s
+19	ASTR	Study of the heavens: Abbr.
+20	ICE	Freezer stuff
+21	YEOMAN	Official's helper
+25	OXER	Hedge with a guardrail to contain livestock
+27	RAF	Luftwaffe foe: Abbr.
+28	OOS	Long-running film role
+29	YET	Even
+32	MRKOTTER	Part of the Buchanan High faculty
+36	ALPES	French peaks
+38	HAHA	LOL, out loud
+39	AIL	Need a doctor's care
+40	EHLO	Craig of the N.B.A.
+41	ONINE	Cat-tails connection?
+43	INERTIAS	They keep you going
+46	MEN	Dudes
+47	NZZ	Popular Saab model
+49	HUL	Thieves' take
+50	ESTS	Hinders legally
+52	SESAME	Kind of seed on a roll
+55	AGO	Long, long ___
+56	UNDE	Sell short
+59	AYE	When repeated, a cry at sea
+61	PTOLEMAICSYSTEM	Classic geocentric theory
+66	BOLAS	Gauchos' weapons
+67	TOYTOITOE	R&B funk trio with the 1990 hit "Feels Good"
+68	ANDRE	Tennis great Agassi
+69	POSEN	City north of Breslau
+45
+1	GERMY	Potentially infectious
+2	YROSE	Texas has one, in song
+3	PCS	Alternatives to Macs
+4	SHS	Sounds from a librarian
+5	YEA	One of the first to raise a hand, usually
+6	UMS	Speakers' hesitations
+7	ROSIE	Perez with a nasally voice
+8	APOCRYPHA	Some extra books
+9	WERE	"___ in the Money" (1933 hit)
+10	ARE	Be altered?
+11	PEG	Many a pirate's appendage
+12	SWAN	Lohengrin, the Knight of the ___
+13	OIS	Grafton's "___ for Outlaw"
+14	NWT	Yukon neighbor: Abbr.
+17	AROO	Suffix with buck
+22	ORKAN	Like Mork of "Mork & Mindy"
+23	MAO	Great Leap Forward leader
+24	AFT	To the rear
+26	XSA	Opposite of SSW
+28	ORLE	Heraldic border
+30	EELS	Catch in pots
+31	TSO	General of Chinese menu fame
+32	MANE	Mule feature
+33	RHINEGOLD	Material from which the ring of the Nibelung was made
+34	TAIZ	City of southwest Yemen
+35	EIN	A, in Arnstadt
+37	LEILA	Actress Hyams of 1920's-30's film
+38	HOM	Same: Prefix
+42	ENT	Suffix with differ
+44	RHE	Baseball summary inits.
+45	TUS	Overseer of schools: Abbr.
+48	ZSUM	Having nothing lost or gained
+51	SOLAR	Kind of cell
+52	SECY	Pres. appointee
+53	MATTE	Not glossy
+54	EYEON	CBS News's "___ America"
+55	ATON	Plenty
+57	NAT	Holman who was known as Mister Basketball
+58	DIO	Divine one, to Dante
+60	EME	Suffix with morph-
+61	PBA	Strike force?: Abbr.
+62	ESE	Argot suffix
+63	STP	Its slogan is "The Racer's Edge"
+64	YOO	___-hoo
+65	SIS	Skipper, to Barbie

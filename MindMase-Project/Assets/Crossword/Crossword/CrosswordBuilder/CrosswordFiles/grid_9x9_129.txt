@@ -1,0 +1,117 @@
+grid_9x9_129
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	N	0	1	3	1	NCO	0	1	4	1	NOTS
+0	1	2	C	0	1	3	0		0	2	9	1	CRUSTACEA
+0	1	3	O	0	1	3	0		0	3	5	1	OBIES
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	T	0	5	3	1	TCU	0	5	3	1	TYE
+0	1	5	C	0	5	3	0		0	6	9	1	COOTIEPIE
+0	1	6	U	0	5	3	0		0	7	4	1	URNS
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	A	1	0	4	1	AORB	1	0	3	1	APO
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	R	1	0	4	0		0	2	9	0	
+0	0	0	B	1	0	4	0		0	3	5	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	Y	1	5	4	1	YORK	0	5	3	0	
+0	0	0	O	1	5	4	0		0	6	9	0	
+0	0	0	R	1	5	4	0		0	7	4	0	
+0	1	9	K	1	5	4	0		1	8	3	1	KSU
+0	1	10	P	2	0	4	1	PTUI	1	0	3	0	
+0	0	0	T	2	0	4	0		0	1	4	0	
+0	0	0	U	2	0	4	0		0	2	9	0	
+0	0	0	I	2	0	4	0		0	3	5	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	E	2	5	4	1	EONS	0	5	3	0	
+0	0	0	O	2	5	4	0		0	6	9	0	
+0	0	0	N	2	5	4	0		0	7	4	0	
+0	0	0	S	2	5	4	0		1	8	3	0	
+0	1	12	O	3	0	5	1	OSSEO	1	0	3	0	
+0	0	0	S	3	0	5	0		0	1	4	0	
+0	0	0	S	3	0	5	0		0	2	9	0	
+0	0	0	E	3	0	5	0		0	3	5	0	
+0	1	13	O	3	0	5	0		3	4	3	1	OAK
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	14	T	3	6	3	1	TSU	0	6	9	0	
+0	0	0	S	3	6	3	0		0	7	4	0	
+0	0	0	U	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	15	T	4	2	5	1	TSADI	0	2	9	0	
+0	0	0	S	4	2	5	0		0	3	5	0	
+0	0	0	A	4	2	5	0		3	4	3	0	
+0	1	16	D	4	2	5	0		4	5	5	1	DESON
+0	0	0	I	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	17	J	5	0	3	1	JTA	5	0	3	1	JET
+0	1	18	T	5	0	3	0		5	1	4	1	TKOS
+0	0	0	A	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	5	0		6	3	3	0	
+0	1	19	K	5	4	5	1	KEELS	3	4	3	0	
+0	0	0	E	5	4	5	0		4	5	5	0	
+0	0	0	E	5	4	5	0		0	6	9	0	
+0	1	20	L	5	4	5	0		5	7	4	1	LULU
+0	1	21	S	5	4	5	0		5	8	3	1	SDS
+0	1	22	E	6	0	4	1	EKCO	5	0	3	0	
+0	0	0	K	6	0	4	0		5	1	4	0	
+0	0	0	C	6	0	4	0		0	2	9	0	
+0	1	23	O	6	0	4	0		6	3	3	1	ODD
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	S	6	5	4	1	SPUD	4	5	5	0	
+0	0	0	P	6	5	4	0		0	6	9	0	
+0	0	0	U	6	5	4	0		5	7	4	0	
+0	0	0	D	6	5	4	0		5	8	3	0	
+0	1	25	T	7	0	4	1	TOED	5	0	3	0	
+0	0	0	O	7	0	4	0		5	1	4	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	D	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	26	O	7	5	4	1	OILS	4	5	5	0	
+0	0	0	I	7	5	4	0		0	6	9	0	
+0	0	0	L	7	5	4	0		5	7	4	0	
+0	0	0	S	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	S	8	1	3	1	SAD	5	1	4	0	
+0	0	0	A	8	1	3	0		0	2	9	0	
+0	0	0	D	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	28	N	8	5	3	1	NEU	4	5	5	0	
+0	0	0	E	8	5	3	0		0	6	9	0	
+0	0	0	U	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	NCO	No lieutenant yet: Abbr.
+4	TCU	Fort Worth inst.
+7	AORB	Simple choice
+8	YORK	Part of N.Y.S.E.
+10	PTUI	Spitting sound
+11	EONS	Years on end
+12	OSSEO	Bone: Prefix
+14	TSU	The Tigers of the Ohio Valley Conf.
+15	TSADI	Letter before qoph
+17	JTA	Interim rulers
+19	KEELS	Naval bases?
+22	EKCO	Big name in kitchenware
+24	SPUD	Starchy veggie
+25	TOED	Pointy-___
+26	OILS	Squelches a squeak
+27	SAD	Downcast
+28	NEU	Opposite of alt, in German
+15
+1	NOTS	Have-___ (lower economic group)
+2	CRUSTACEA	Shrimp, lobsters, etc.
+3	OBIES	Annual awards announced in New York's East Village
+4	TYE	Rope used in sailing
+5	COOTIEPIE	Germy dessert, to a five-year-old?
+6	URNS	Java servers
+7	APO	Address for an overseas G.I.
+9	KSU	The Wildcats, for short
+13	OAK	Acorn source
+16	DESON	Adores
+17	JET	Whirlpool feature
+18	TKOS	Boxer's stat
+20	LULU	Whopper
+21	SDS	Vietnam War opposer: Abbr.
+23	ODD	Like all primes but one

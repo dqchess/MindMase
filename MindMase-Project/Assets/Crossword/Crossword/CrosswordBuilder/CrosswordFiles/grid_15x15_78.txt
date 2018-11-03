@@ -1,0 +1,305 @@
+grid_15x15_78
+15
+1	0	0	#	0	1	0	0		1	0	4	0	
+1	0	0	#	0	2	5	0		1	1	4	0	
+0	1	1	S	0	2	5	1	STAGE	0	2	15	1	SAVEDBYTHEBELLI
+0	1	2	T	0	2	5	0		0	3	3	1	TMI
+0	1	3	A	0	2	5	0		0	4	3	1	AMS
+0	1	4	G	0	2	5	0		0	5	5	1	GAINS
+0	1	5	E	0	2	5	0		0	6	5	1	ETTES
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	6	C	0	10	3	1	CNN	0	10	6	1	CHEECH
+0	1	7	N	0	10	3	0		0	11	5	1	NYMPH
+0	1	8	N	0	10	3	0		0	12	15	1	NNBOTTLESOFBEER
+1	0	0	#	0	14	0	0		1	13	3	0	
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	9	T	1	0	9	1	TEAMMATES	1	0	4	1	TRES
+0	1	10	E	1	0	9	0		1	1	4	1	EEEE
+0	0	0	A	1	0	9	0		0	2	15	0	
+0	0	0	M	1	0	9	0		0	3	3	0	
+0	0	0	M	1	0	9	0		0	4	3	0	
+0	0	0	A	1	0	9	0		0	5	5	0	
+0	0	0	T	1	0	9	0		0	6	5	0	
+0	1	11	E	1	0	9	0		1	7	3	1	EEW
+0	1	12	S	1	0	9	0		1	8	3	1	SDS
+1	0	0	#	1	10	5	0		2	9	0	0	
+0	1	13	H	1	10	5	1	HYNDE	0	10	6	0	
+0	0	0	Y	1	10	5	0		0	11	5	0	
+0	0	0	N	1	10	5	0		0	12	15	0	
+0	1	14	D	1	10	5	0		1	13	3	1	DER
+0	1	15	E	1	10	5	0		1	14	3	1	EDT
+0	1	16	R	2	0	9	1	REVISITED	1	0	4	0	
+0	0	0	E	2	0	9	0		1	1	4	0	
+0	0	0	V	2	0	9	0		0	2	15	0	
+0	0	0	I	2	0	9	0		0	3	3	0	
+0	0	0	S	2	0	9	0		0	4	3	0	
+0	0	0	I	2	0	9	0		0	5	5	0	
+0	0	0	T	2	0	9	0		0	6	5	0	
+0	0	0	E	2	0	9	0		1	7	3	0	
+0	0	0	D	2	0	9	0		1	8	3	0	
+1	0	0	#	2	10	5	0		3	9	6	0	
+0	1	17	E	2	10	5	1	EMBED	0	10	6	0	
+0	0	0	M	2	10	5	0		0	11	5	0	
+0	0	0	B	2	10	5	0		0	12	15	0	
+0	0	0	E	2	10	5	0		1	13	3	0	
+0	0	0	D	2	10	5	0		1	14	3	0	
+0	1	18	E	3	0	3	1	EEE	1	0	4	0	
+0	0	0	E	3	0	3	0		1	1	4	0	
+0	0	0	E	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	10	0		4	4	3	0	
+0	1	19	N	3	5	10	1	NEWSREPORT	0	5	5	0	
+0	0	0	E	3	5	10	0		0	6	5	0	
+0	0	0	W	3	5	10	0		1	7	3	0	
+0	0	0	S	3	5	10	0		1	8	3	0	
+0	1	20	R	3	5	10	0		3	9	6	1	REEARN
+0	0	0	E	3	5	10	0		0	10	6	0	
+0	0	0	P	3	5	10	0		0	11	5	0	
+0	0	0	O	3	5	10	0		0	12	15	0	
+0	0	0	R	3	5	10	0		1	13	3	0	
+0	0	0	T	3	5	10	0		1	14	3	0	
+0	1	21	S	4	0	3	1	SED	1	0	4	0	
+0	0	0	E	4	0	3	0		1	1	4	0	
+0	0	0	D	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	3	0		5	3	3	0	
+0	1	22	M	4	4	3	1	MSS	4	4	3	1	MAD
+0	0	0	S	4	4	3	0		0	5	5	0	
+0	0	0	S	4	4	3	0		0	6	5	0	
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	23	E	4	9	4	1	ECHT	3	9	6	0	
+0	0	0	C	4	9	4	0		0	10	6	0	
+0	0	0	H	4	9	4	0		0	11	5	0	
+0	0	0	T	4	9	4	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	4	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	4	0	
+0	1	24	B	5	2	3	1	BSA	0	2	15	0	
+0	1	25	S	5	2	3	0		5	3	3	1	SAG
+0	0	0	A	5	2	3	0		4	4	3	0	
+1	0	0	#	5	6	0	0		6	5	6	0	
+1	0	0	#	5	7	4	0		6	6	0	0	
+0	1	26	A	5	7	4	1	ACEH	5	7	5	1	ALLSS
+0	1	27	C	5	7	4	0		5	8	3	1	CAB
+0	0	0	E	5	7	4	0		3	9	6	0	
+0	0	0	H	5	7	4	0		0	10	6	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	28	T	5	12	3	1	TKL	0	12	15	0	
+0	1	29	K	5	12	3	0		5	13	4	1	KAMA
+0	1	30	L	5	12	3	0		5	14	3	1	LGS
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	31	D	6	1	5	1	DYADS	6	1	4	1	DVDS
+0	0	0	Y	6	1	5	0		0	2	15	0	
+0	0	0	A	6	1	5	0		5	3	3	0	
+0	0	0	D	6	1	5	0		4	4	3	0	
+0	1	32	S	6	1	5	0		6	5	6	1	SHOVES
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	33	L	6	7	3	1	LAA	5	7	5	0	
+0	0	0	A	6	7	3	0		5	8	3	0	
+0	0	0	A	6	7	3	0		3	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	34	L	6	12	3	1	LAG	0	12	15	0	
+0	0	0	A	6	12	3	0		5	13	4	0	
+0	0	0	G	6	12	3	0		5	14	3	0	
+0	1	35	X	7	0	4	1	XVTG	7	0	3	1	XES
+0	0	0	V	7	0	4	0		6	1	4	0	
+0	0	0	T	7	0	4	0		0	2	15	0	
+0	0	0	G	7	0	4	0		5	3	3	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	36	H	7	5	5	1	HOLBR	6	5	6	0	
+0	1	37	O	7	5	5	0		7	6	3	1	OPT
+0	0	0	L	7	5	5	0		5	7	5	0	
+0	0	0	B	7	5	5	0		5	8	3	0	
+0	0	0	R	7	5	5	0		3	9	6	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	38	G	7	11	4	1	GEMS	7	11	3	1	GAO
+0	0	0	E	7	11	4	0		0	12	15	0	
+0	0	0	M	7	11	4	0		5	13	4	0	
+0	0	0	S	7	11	4	0		5	14	3	0	
+0	1	39	E	8	0	3	1	EDH	7	0	3	0	
+0	0	0	D	8	0	3	0		6	1	4	0	
+0	0	0	H	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	6	0	
+0	1	40	O	8	5	3	1	OPS	6	5	6	0	
+0	0	0	P	8	5	3	0		7	6	3	0	
+0	0	0	S	8	5	3	0		5	7	5	0	
+1	0	0	#	8	9	5	0		9	8	0	0	
+0	1	41	N	8	9	5	1	NYASA	3	9	6	0	
+0	1	42	Y	8	9	5	0		8	10	3	1	YSL
+0	0	0	A	8	9	5	0		7	11	3	0	
+0	0	0	S	8	9	5	0		0	12	15	0	
+0	0	0	A	8	9	5	0		5	13	4	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	43	S	9	0	3	1	SSE	7	0	3	0	
+0	0	0	S	9	0	3	0		6	1	4	0	
+0	0	0	E	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	4	0		10	3	5	0	
+0	1	44	P	9	4	4	1	PVTS	9	4	6	1	PATTON
+0	0	0	V	9	4	4	0		6	5	6	0	
+0	0	0	T	9	4	4	0		7	6	3	0	
+0	0	0	S	9	4	4	0		5	7	5	0	
+1	0	0	#	9	9	0	0		10	8	5	0	
+1	0	0	#	9	10	3	0		10	9	5	0	
+0	1	45	S	9	10	3	1	SOO	8	10	3	0	
+0	0	0	O	9	10	3	0		7	11	3	0	
+0	0	0	O	9	10	3	0		0	12	15	0	
+1	0	0	#	9	14	0	0		10	13	4	0	
+1	0	0	#	9	15	0	0		10	14	4	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	4	0		11	1	3	0	
+0	1	46	B	10	2	4	1	BRAE	0	2	15	0	
+0	1	47	R	10	2	4	0		10	3	5	1	RAISA
+0	0	0	A	10	2	4	0		9	4	6	0	
+0	0	0	E	10	2	4	0		6	5	6	0	
+1	0	0	#	10	7	0	0		11	6	3	0	
+1	0	0	#	10	8	3	0		11	7	3	0	
+0	1	48	T	10	8	3	1	TEL	10	8	5	1	TILED
+0	1	49	E	10	8	3	0		10	9	5	1	ENLAI
+0	0	0	L	10	8	3	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	50	F	10	12	3	1	FWD	0	12	15	0	
+0	1	51	W	10	12	3	0		10	13	4	1	WOOS
+0	1	52	D	10	12	3	0		10	14	4	1	DINT
+0	1	53	S	11	0	10	1	SWEATSTAIN	11	0	3	1	SRI
+0	1	54	W	11	0	10	0		11	1	3	1	WEA
+0	0	0	E	11	0	10	0		0	2	15	0	
+0	0	0	A	11	0	10	0		10	3	5	0	
+0	0	0	T	11	0	10	0		9	4	6	0	
+0	0	0	S	11	0	10	0		6	5	6	0	
+0	1	55	T	11	0	10	0		11	6	3	1	TCI
+0	1	56	A	11	0	10	0		11	7	3	1	AON
+0	0	0	I	11	0	10	0		10	8	5	0	
+0	0	0	N	11	0	10	0		10	9	5	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	57	B	11	12	3	1	BOI	0	12	15	0	
+0	0	0	O	11	12	3	0		10	13	4	0	
+0	0	0	I	11	12	3	0		10	14	4	0	
+0	1	58	R	12	0	5	1	RELIT	11	0	3	0	
+0	0	0	E	12	0	5	0		11	1	3	0	
+0	0	0	L	12	0	5	0		0	2	15	0	
+0	0	0	I	12	0	5	0		10	3	5	0	
+0	0	0	T	12	0	5	0		9	4	6	0	
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	59	C	12	6	9	1	COLLUDEON	11	6	3	0	
+0	0	0	O	12	6	9	0		11	7	3	0	
+0	0	0	L	12	6	9	0		10	8	5	0	
+0	0	0	L	12	6	9	0		10	9	5	0	
+0	1	60	U	12	6	9	0		12	10	3	1	URN
+0	1	61	D	12	6	9	0		12	11	3	1	DNA
+0	0	0	E	12	6	9	0		0	12	15	0	
+0	0	0	O	12	6	9	0		10	13	4	0	
+0	0	0	N	12	6	9	0		10	14	4	0	
+0	1	62	I	13	0	5	1	IALSO	11	0	3	0	
+0	0	0	A	13	0	5	0		11	1	3	0	
+0	0	0	L	13	0	5	0		0	2	15	0	
+0	0	0	S	13	0	5	0		10	3	5	0	
+0	0	0	O	13	0	5	0		9	4	6	0	
+1	0	0	#	13	6	9	0		14	5	0	0	
+0	1	63	I	13	6	9	1	INEARNEST	11	6	3	0	
+0	0	0	N	13	6	9	0		11	7	3	0	
+0	0	0	E	13	6	9	0		10	8	5	0	
+0	0	0	A	13	6	9	0		10	9	5	0	
+0	0	0	R	13	6	9	0		12	10	3	0	
+0	0	0	N	13	6	9	0		12	11	3	0	
+0	0	0	E	13	6	9	0		0	12	15	0	
+0	0	0	S	13	6	9	0		10	13	4	0	
+0	0	0	T	13	6	9	0		10	14	4	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	64	I	14	2	3	1	IAN	0	2	15	0	
+0	0	0	A	14	2	3	0		10	3	5	0	
+0	0	0	N	14	2	3	0		9	4	6	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	5	0		15	7	0	0	
+0	1	65	D	14	8	5	1	DINAR	10	8	5	0	
+0	0	0	I	14	8	5	0		10	9	5	0	
+0	0	0	N	14	8	5	0		12	10	3	0	
+0	0	0	A	14	8	5	0		12	11	3	0	
+0	0	0	R	14	8	5	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+37
+1	STAGE	Produce
+6	CNN	"Larry King Live" channel
+9	TEAMMATES	Ones on a bench together
+13	HYNDE	Chrissie of the Pretenders
+16	REVISITED	Saw more of
+17	EMBED	Incorporate, as a YouTube video into a Web site
+18	EEE	Wide shoe spec
+19	NEWSREPORT	Program interruption
+21	SED	But, to Brutus
+22	MSS	Things to be edited: Abbr.
+23	ECHT	Genuine: Ger.
+24	BSA	Jamboree grp.
+26	ACEH	Banda ___ (2004 tsunami site)
+28	TKL	Damascus's land: Abbr.
+31	DYADS	Twosomes
+33	LAA	"___ note to follow ..."
+34	LAG	Jet ___
+35	XVTG	Sharp-billed diver
+36	HOLBR	Noted Twain portrayer [black]
+38	GEMS	Beauties
+39	EDH	Old letter
+40	OPS	Special ___ (military force)
+41	NYASA	Lake bordered by Malawi, Mozambique and Tanzania
+43	SSE	Maui-to-Hawaii dir.
+44	PVTS	A lot of mil. personnel
+45	SOO	U.S./Canada's ___ Canals
+46	BRAE	Hill near a loch
+48	TEL	Haifa hill
+50	FWD	Subject line starter on many an e-mail joke
+53	SWEATSTAIN	Laundry challenge for a gymgoer
+57	BOI	"Sk8er ___" (2002 top 10 hit)
+58	RELIT	Like twice-smoked cigars
+59	COLLUDEON	Plan jointly, as a prank
+62	IALSO	"___ say it is good to fall": Whitman, "Song of Myself"
+63	INEARNEST	Seriously
+64	IAN	Bond's Fleming
+65	DINAR	Iranian bread
+39
+1	SAVEDBYTHEBELLI	Successfully defended in court by Melvin?
+2	TMI	"More than I need to know," in modern lingo
+3	AMS	Classified times: Abbr.
+4	GAINS	Dieters' woes
+5	ETTES	Towel ends?
+6	CHEECH	Half of a 1970s-'80s comedy duo
+7	NYMPH	Pretty maiden of Greek myth
+8	NNBOTTLESOFBEER	Wall array of song
+9	TRES	Number of film caballeros
+10	EEEE	Shoe box marking
+11	EEW	"Ick!"
+12	SDS	60's radicals: Abbr.
+14	DER	Article abroad
+15	EDT	Tennis's U.S. Open is played on it: Abbr.
+20	REEARN	Gain again
+22	MAD	Alfred E. Neuman's magazine
+25	SAG	Fall down
+26	ALLSS	Special team
+27	CAB	It's hailed
+29	KAMA	___ sutra
+30	LGS	Linemen next to centers: Abbr.
+31	DVDS	Burned things
+32	SHOVES	Elbows
+35	XES	Simple signatures
+37	OPT	Decide to take, with "for"
+38	GAO	Fed. overseer
+42	YSL	Fashion letters
+44	PATTON	Old Blood and Guts
+47	RAISA	Last First Lady of the U.S.S.R.
+48	TILED	Like some fireplaces
+49	ENLAI	Name in Chinese politics
+51	WOOS	Courts
+52	DINT	Force
+53	SRI	Indian name starter
+54	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+55	TCI	Cable giant, for short
+56	AON	___ Center (Chicago skyscraper)
+60	URN	Banquet holder
+61	DNA	Reproductive material

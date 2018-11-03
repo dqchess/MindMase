@@ -1,0 +1,309 @@
+grid_15x15_126
+15
+0	1	1	D	0	0	3	1	DUO	0	0	3	1	DIU
+0	1	2	U	0	0	3	0		0	1	4	1	USNA
+0	1	3	O	0	0	3	0		0	2	4	1	OOHS
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	I	0	4	3	1	IAL	0	4	3	1	IFI
+0	1	5	A	0	4	3	0		0	5	6	1	ARNETT
+0	1	6	L	0	4	3	0		0	6	4	1	LATI
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	A	0	8	3	1	AHH	0	8	9	1	ADRENALIN
+0	1	8	H	0	8	3	0		0	9	3	1	HSN
+0	1	9	H	0	8	3	0		0	10	3	1	HOS
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	10	I	0	12	3	1	ITY	0	12	10	1	INARTISTIC
+0	1	11	T	0	12	3	0		0	13	10	1	TERRYCLOTH
+0	1	12	Y	0	12	3	0		0	14	3	1	YAR
+0	1	13	I	1	0	3	1	ISO	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	4	0	
+0	0	0	O	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	7	0		2	3	0	0	
+0	1	14	F	1	4	7	1	FRAIDSO	0	4	3	0	
+0	0	0	R	1	4	7	0		0	5	6	0	
+0	0	0	A	1	4	7	0		0	6	4	0	
+0	1	15	I	1	4	7	0		1	7	3	1	IER
+0	0	0	D	1	4	7	0		0	8	9	0	
+0	0	0	S	1	4	7	0		0	9	3	0	
+0	0	0	O	1	4	7	0		0	10	3	0	
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	16	N	1	12	3	1	NEA	0	12	10	0	
+0	0	0	E	1	12	3	0		0	13	10	0	
+0	0	0	A	1	12	3	0		0	14	3	0	
+0	1	17	U	2	0	3	1	UNH	0	0	3	0	
+0	0	0	N	2	0	3	0		0	1	4	0	
+0	0	0	H	2	0	3	0		0	2	4	0	
+1	0	0	#	2	4	7	0		3	3	5	0	
+0	1	18	I	2	4	7	1	INTERNS	0	4	3	0	
+0	0	0	N	2	4	7	0		0	5	6	0	
+0	0	0	T	2	4	7	0		0	6	4	0	
+0	0	0	E	2	4	7	0		1	7	3	0	
+0	0	0	R	2	4	7	0		0	8	9	0	
+0	0	0	N	2	4	7	0		0	9	3	0	
+0	0	0	S	2	4	7	0		0	10	3	0	
+1	0	0	#	2	12	3	0		3	11	3	0	
+0	1	19	A	2	12	3	1	ARR	0	12	10	0	
+0	0	0	R	2	12	3	0		0	13	10	0	
+0	0	0	R	2	12	3	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	20	A	3	1	3	1	ASI	0	1	4	0	
+0	0	0	S	3	1	3	0		0	2	4	0	
+0	1	21	I	3	1	3	0		3	3	5	1	IMHIP
+1	0	0	#	3	5	4	0		4	4	7	0	
+0	1	22	E	3	5	4	1	EIRE	0	5	6	0	
+0	0	0	I	3	5	4	0		0	6	4	0	
+0	0	0	R	3	5	4	0		1	7	3	0	
+0	0	0	E	3	5	4	0		0	8	9	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	3	0		4	10	7	0	
+0	1	23	O	3	11	3	1	ORR	3	11	3	1	ORT
+0	0	0	R	3	11	3	0		0	12	10	0	
+0	0	0	R	3	11	3	0		0	13	10	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	10	0	
+1	0	0	#	4	3	3	0		5	2	10	0	
+0	1	24	M	4	3	3	1	MIT	3	3	5	0	
+0	1	25	I	4	3	3	0		4	4	7	1	ISABELS
+0	0	0	T	4	3	3	0		0	5	6	0	
+1	0	0	#	4	7	0	0		5	6	0	0	
+1	0	0	#	4	8	6	0		5	7	5	0	
+0	1	26	N	4	8	6	1	NFORTY	0	8	9	0	
+0	1	27	F	4	8	6	0		4	9	3	1	FRA
+0	1	28	O	4	8	6	0		4	10	7	1	OCTAGON
+0	0	0	R	4	8	6	0		3	11	3	0	
+0	0	0	T	4	8	6	0		0	12	10	0	
+0	0	0	Y	4	8	6	0		0	13	10	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	29	C	5	1	5	1	COHST	5	1	10	1	CEASEFIRES
+0	1	30	O	5	1	5	0		5	2	10	1	OLMANRIVER
+0	0	0	H	5	1	5	0		3	3	5	0	
+0	0	0	S	5	1	5	0		4	4	7	0	
+0	0	0	T	5	1	5	0		0	5	6	0	
+1	0	0	#	5	7	7	0		6	6	9	0	
+0	1	31	A	5	7	7	1	AARCTIC	5	7	5	1	ALCEE
+0	0	0	A	5	7	7	0		0	8	9	0	
+0	0	0	R	5	7	7	0		4	9	3	0	
+0	0	0	C	5	7	7	0		4	10	7	0	
+0	0	0	T	5	7	7	0		3	11	3	0	
+0	0	0	I	5	7	7	0		0	12	10	0	
+0	0	0	C	5	7	7	0		0	13	10	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	32	D	6	0	5	1	DELIA	6	0	3	1	DLI
+0	0	0	E	6	0	5	0		5	1	10	0	
+0	0	0	L	6	0	5	0		5	2	10	0	
+0	0	0	I	6	0	5	0		3	3	5	0	
+0	0	0	A	6	0	5	0		4	4	7	0	
+1	0	0	#	6	6	5	0		7	5	0	0	
+0	1	33	I	6	6	5	1	ILLAT	6	6	9	1	ITSTRICKY
+0	0	0	L	6	6	5	0		5	7	5	0	
+0	0	0	L	6	6	5	0		0	8	9	0	
+0	0	0	A	6	6	5	0		4	9	3	0	
+0	0	0	T	6	6	5	0		4	10	7	0	
+1	0	0	#	6	12	3	0		7	11	5	0	
+0	1	34	S	6	12	3	1	SLO	0	12	10	0	
+0	0	0	L	6	12	3	0		0	13	10	0	
+0	1	35	O	6	12	3	0		6	14	3	1	ONS
+0	1	36	L	7	0	5	1	LAMPB	6	0	3	0	
+0	0	0	A	7	0	5	0		5	1	10	0	
+0	0	0	M	7	0	5	0		5	2	10	0	
+0	0	0	P	7	0	5	0		3	3	5	0	
+0	0	0	B	7	0	5	0		4	4	7	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	37	T	7	6	3	1	TCI	6	6	9	0	
+0	0	0	C	7	6	3	0		5	7	5	0	
+0	0	0	I	7	6	3	0		0	8	9	0	
+1	0	0	#	7	10	5	0		8	9	0	0	
+0	1	38	A	7	10	5	1	AFTON	4	10	7	0	
+0	1	39	F	7	10	5	0		7	11	5	1	FROSH
+0	0	0	T	7	10	5	0		0	12	10	0	
+0	0	0	O	7	10	5	0		0	13	10	0	
+0	0	0	N	7	10	5	0		6	14	3	0	
+0	1	40	I	8	0	3	1	ISA	6	0	3	0	
+0	0	0	S	8	0	3	0		5	1	10	0	
+0	0	0	A	8	0	3	0		5	2	10	0	
+1	0	0	#	8	4	5	0		9	3	3	0	
+0	1	41	E	8	4	5	1	ESSEN	4	4	7	0	
+0	1	42	S	8	4	5	0		8	5	3	1	SAE
+0	0	0	S	8	4	5	0		6	6	9	0	
+0	0	0	E	8	4	5	0		5	7	5	0	
+0	0	0	N	8	4	5	0		0	8	9	0	
+1	0	0	#	8	10	5	0		9	9	6	0	
+0	1	43	G	8	10	5	1	GRITS	4	10	7	0	
+0	0	0	R	8	10	5	0		7	11	5	0	
+0	0	0	I	8	10	5	0		0	12	10	0	
+0	0	0	T	8	10	5	0		0	13	10	0	
+0	0	0	S	8	10	5	0		6	14	3	0	
+1	0	0	#	9	1	7	0		10	0	0	0	
+0	1	44	E	9	1	7	1	ENDLATE	5	1	10	0	
+0	0	0	N	9	1	7	0		5	2	10	0	
+0	1	45	D	9	1	7	0		9	3	3	1	DAI
+0	0	0	L	9	1	7	0		4	4	7	0	
+0	0	0	A	9	1	7	0		8	5	3	0	
+0	0	0	T	9	1	7	0		6	6	9	0	
+0	0	0	E	9	1	7	0		5	7	5	0	
+1	0	0	#	9	9	5	0		10	8	0	0	
+0	1	46	H	9	9	5	1	HOOCH	9	9	6	1	HARDER
+0	0	0	O	9	9	5	0		4	10	7	0	
+0	0	0	O	9	9	5	0		7	11	5	0	
+0	0	0	C	9	9	5	0		0	12	10	0	
+0	0	0	H	9	9	5	0		0	13	10	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	6	0		11	0	0	0	
+0	1	47	F	10	1	6	1	FRASER	5	1	10	0	
+0	0	0	R	10	1	6	0		5	2	10	0	
+0	0	0	A	10	1	6	0		9	3	3	0	
+0	0	0	S	10	1	6	0		4	4	7	0	
+0	0	0	E	10	1	6	0		8	5	3	0	
+0	0	0	R	10	1	6	0		6	6	9	0	
+1	0	0	#	10	8	0	0		11	7	3	0	
+1	0	0	#	10	9	3	0		11	8	4	0	
+0	1	48	A	10	9	3	1	ANS	9	9	6	0	
+0	0	0	N	10	9	3	0		4	10	7	0	
+0	0	0	S	10	9	3	0		7	11	5	0	
+1	0	0	#	10	13	0	0		11	12	4	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	49	I	11	1	3	1	III	5	1	10	0	
+0	0	0	I	11	1	3	0		5	2	10	0	
+0	0	0	I	11	1	3	0		9	3	3	0	
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	50	I	11	6	4	1	ITER	6	6	9	0	
+0	1	51	T	11	6	4	0		11	7	3	1	TEE
+0	1	52	E	11	6	4	0		11	8	4	1	ENNE
+0	0	0	R	11	6	4	0		9	9	6	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	53	H	11	11	3	1	HRH	7	11	5	0	
+0	1	54	R	11	11	3	0		11	12	4	1	RUDI
+0	1	55	H	11	11	3	0		11	13	4	1	HSON
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	56	O	12	0	3	1	ORV	12	0	3	1	ODS
+0	0	0	R	12	0	3	0		5	1	10	0	
+0	0	0	V	12	0	3	0		5	2	10	0	
+1	0	0	#	12	4	7	0		13	3	0	0	
+0	1	57	A	12	4	7	1	ASCENDS	12	4	3	1	ALL
+0	1	58	S	12	4	7	0		12	5	3	1	SIE
+0	0	0	C	12	4	7	0		6	6	9	0	
+0	0	0	E	12	4	7	0		11	7	3	0	
+0	0	0	N	12	4	7	0		11	8	4	0	
+0	0	0	D	12	4	7	0		9	9	6	0	
+0	1	59	S	12	4	7	0		12	10	3	1	SDI
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	60	U	12	12	3	1	USB	11	12	4	0	
+0	0	0	S	12	12	3	0		11	13	4	0	
+0	1	61	B	12	12	3	0		12	14	3	1	BRA
+0	1	62	D	13	0	3	1	DEE	12	0	3	0	
+0	0	0	E	13	0	3	0		5	1	10	0	
+0	0	0	E	13	0	3	0		5	2	10	0	
+1	0	0	#	13	4	7	0		14	3	0	0	
+0	1	63	L	13	4	7	1	LIKENED	12	4	3	0	
+0	0	0	I	13	4	7	0		12	5	3	0	
+0	0	0	K	13	4	7	0		6	6	9	0	
+0	0	0	E	13	4	7	0		11	7	3	0	
+0	0	0	N	13	4	7	0		11	8	4	0	
+0	0	0	E	13	4	7	0		9	9	6	0	
+0	0	0	D	13	4	7	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	64	D	13	12	3	1	DOR	11	12	4	0	
+0	0	0	O	13	12	3	0		11	13	4	0	
+0	0	0	R	13	12	3	0		12	14	3	0	
+0	1	65	S	14	0	3	1	SSR	12	0	3	0	
+0	0	0	S	14	0	3	0		5	1	10	0	
+0	0	0	R	14	0	3	0		5	2	10	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	66	L	14	4	3	1	LEY	12	4	3	0	
+0	0	0	E	14	4	3	0		12	5	3	0	
+0	0	0	Y	14	4	3	0		6	6	9	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	67	E	14	8	3	1	ERI	11	8	4	0	
+0	0	0	R	14	8	3	0		9	9	6	0	
+0	0	0	I	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	68	I	14	12	3	1	INA	11	12	4	0	
+0	0	0	N	14	12	3	0		11	13	4	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+43
+1	DUO	Brace
+4	IAL	It makes "adverb" an adjective
+7	AHH	Physical sound
+10	ITY	Suffix with theatrical
+13	ISO	Metric starter
+14	FRAIDSO	"Yep, unfortunately"
+16	NEA	Grant giver, for short
+17	UNH	New Eng. school
+18	INTERNS	Some summer workers
+19	ARR	Departure's opposite: Abbr.
+20	ASI	Do-say connection
+22	EIRE	Yeats's home
+23	ORR	Scottish Peace Nobelist John Boyd ___
+24	MIT	Sch. near Harvard
+26	NFORTY	Mark your card!
+29	COHST	Regis Philbin, e.g.
+31	AARCTIC	Pole position?
+32	DELIA	Ionian festival honoring Apollo
+33	ILLAT	___ ease
+34	SLO	Mo preceder
+36	LAMPB	Some soot
+37	TCI	Big inits. in cable
+38	AFTON	"Flow gently, sweet ___": Burns
+40	ISA	"There ___ tide..."
+41	ESSEN	Big Bertha's birthplace
+43	GRITS	Alternative to hash browns
+44	ENDLATE	Run longer than expected
+46	HOOCH	Sauce
+47	FRASER	Chief river of British Columbia
+48	ANS	Reply: Abbr.
+49	III	George ___, longest-reigning English king
+50	ITER	Route for Ben-Hur
+53	HRH	Princely abbr.
+56	ORV	One of the Wright brothers, for short
+57	ASCENDS	Is caught up in the Rapture, e.g.
+60	USB	Kind of port for a PC
+62	DEE	Joey of the 60's twist craze
+63	LIKENED	Analogized
+64	DOR	L'Age ___
+65	SSR	Old geog. initials
+66	LEY	Writer Willy who popularized spaceflight
+67	ERI	"___ tu che macchiavi quell'anima"
+68	INA	___ fix
+37
+1	DIU	Island off India's coast
+2	USNA	Jimmy Carter's coll.
+3	OOHS	Wonder-full sounds
+4	IFI	"___ Did It" (2007 memoir)
+5	ARNETT	Desert Storm reporter
+6	LATI	Scale succession
+7	ADRENALIN	Epinephrine trademark
+8	HSN	Cable inits. for sales pitches
+9	HOS	Certain model railroads
+10	INARTISTIC	Near the bottom of the drawers?
+11	TERRYCLOTH	___, Towel Manufacturer
+12	YAR	Shostakovich's "Babi ___" Symphony
+15	IER	Suffix with cloth
+21	IMHIP	Beatnik's "Got it!"
+23	ORT	Leaving
+25	ISABELS	"___ Daughter," 2003 Judi Hendricks novel
+27	FRA	___ Mauro (lunar plain)
+28	OCTAGON	___ Building, landmark on New York's Roosevelt Island
+29	CEASEFIRES	Engagement breakers?
+30	OLMANRIVER	"Show Boat" show-stopper
+31	ALCEE	Rep. ___ Hastings of the House intelligence committee
+32	DLI	Mid sixth-century year
+33	ITSTRICKY	Warning to a puzzle doer
+35	ONS	Roll-___
+39	FROSH	High-school class, informally
+42	SAE	Reply facilitator: Abbr.
+45	DAI	Bao ___ (former Vietnamese emperor)
+46	HARDER	Taskmaster's cry
+51	TEE	Casual top
+52	ENNE	Cousin of -ette or -trix
+54	RUDI	Gernreich of fashion
+55	HSON	Personal and direct
+56	ODS	Has one's fill and more, briefly
+57	ALL	"Is that ___?"
+58	SIE	Trademarked marker
+59	SDI	Star Wars, briefly
+61	BRA	Woman's support system?

@@ -1,0 +1,235 @@
+grid_13x13_69
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	L	0	1	3	1	LAK	0	1	5	1	LUXES
+0	1	2	A	0	1	3	0		0	2	13	1	ASLIKELYASNOT
+0	1	3	K	0	1	3	0		0	3	3	1	KEA
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	G	0	6	3	1	GOI	0	6	13	1	GOTANINCREASE
+0	1	5	O	0	6	3	0		0	7	3	1	ORT
+0	1	6	I	0	6	3	0		0	8	3	1	III
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	B	0	10	3	1	BRO	0	10	13	1	BLUSHINGBRIDE
+0	1	8	R	0	10	3	0		0	11	7	1	REDNECK
+0	1	9	O	0	10	3	0		0	12	3	1	OSE
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	10	U	1	1	4	1	USEE	0	1	5	0	
+0	0	0	S	1	1	4	0		0	2	13	0	
+0	0	0	E	1	1	4	0		0	3	3	0	
+0	1	11	E	1	1	4	0		1	4	3	1	EXO
+1	0	0	#	1	6	7	0		2	5	3	0	
+0	1	12	O	1	6	7	1	ORIOLES	0	6	13	0	
+0	0	0	R	1	6	7	0		0	7	3	0	
+0	0	0	I	1	6	7	0		0	8	3	0	
+0	1	13	O	1	6	7	0		1	9	3	1	OTS
+0	0	0	L	1	6	7	0		0	10	13	0	
+0	0	0	E	1	6	7	0		0	11	7	0	
+0	0	0	S	1	6	7	0		0	12	3	0	
+0	1	14	E	2	0	13	1	EXLAXATTITUDE	2	0	3	1	EMT
+0	0	0	X	2	0	13	0		0	1	5	0	
+0	0	0	L	2	0	13	0		0	2	13	0	
+0	0	0	A	2	0	13	0		0	3	3	0	
+0	0	0	X	2	0	13	0		1	4	3	0	
+0	1	15	A	2	0	13	0		2	5	3	1	AKA
+0	0	0	T	2	0	13	0		0	6	13	0	
+0	0	0	T	2	0	13	0		0	7	3	0	
+0	0	0	I	2	0	13	0		0	8	3	0	
+0	0	0	T	2	0	13	0		1	9	3	0	
+0	0	0	U	2	0	13	0		0	10	13	0	
+0	0	0	D	2	0	13	0		0	11	7	0	
+0	0	0	E	2	0	13	0		0	12	3	0	
+0	1	16	M	3	0	3	1	MEI	2	0	3	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	I	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	17	O	3	4	3	1	OKA	1	4	3	0	
+0	0	0	K	3	4	3	0		2	5	3	0	
+0	0	0	A	3	4	3	0		0	6	13	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	18	S	3	9	3	1	SSN	1	9	3	0	
+0	0	0	S	3	9	3	0		0	10	13	0	
+0	0	0	N	3	9	3	0		0	11	7	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+0	1	19	T	4	0	4	1	TSKS	2	0	3	0	
+0	0	0	S	4	0	4	0		0	1	5	0	
+0	0	0	K	4	0	4	0		0	2	13	0	
+0	1	20	S	4	0	4	0		4	3	3	1	SIG
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	21	A	4	5	3	1	ANO	2	5	3	0	
+0	0	0	N	4	5	3	0		0	6	13	0	
+0	1	22	O	4	5	3	0		4	7	3	1	OOF
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	23	H	4	10	3	1	HEC	0	10	13	0	
+0	0	0	E	4	10	3	0		0	11	7	0	
+0	1	24	C	4	10	3	0		4	12	3	1	CCS
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	25	E	5	2	3	1	EIN	0	2	13	0	
+0	0	0	I	5	2	3	0		4	3	3	0	
+0	1	26	N	5	2	3	0		5	4	3	1	NIP
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	27	I	5	6	3	1	IOU	0	6	13	0	
+0	0	0	O	5	6	3	0		4	7	3	0	
+0	1	28	U	5	6	3	0		5	8	3	1	URB
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	29	I	5	10	3	1	ICC	0	10	13	0	
+0	0	0	C	5	10	3	0		0	11	7	0	
+0	0	0	C	5	10	3	0		4	12	3	0	
+0	1	30	B	6	0	13	1	BELGIANFRANKS	6	0	3	1	BEL
+0	1	31	E	6	0	13	0		6	1	7	1	EDGEOUT
+0	0	0	L	6	0	13	0		0	2	13	0	
+0	0	0	G	6	0	13	0		4	3	3	0	
+0	0	0	I	6	0	13	0		5	4	3	0	
+0	1	32	A	6	0	13	0		6	5	3	1	AAS
+0	0	0	N	6	0	13	0		0	6	13	0	
+0	0	0	F	6	0	13	0		4	7	3	0	
+0	0	0	R	6	0	13	0		5	8	3	0	
+0	1	33	A	6	0	13	0		6	9	3	1	AER
+0	0	0	N	6	0	13	0		0	10	13	0	
+0	0	0	K	6	0	13	0		0	11	7	0	
+0	0	0	S	6	0	13	0		4	12	3	0	
+0	1	34	E	7	0	3	1	EDY	6	0	3	0	
+0	0	0	D	7	0	3	0		6	1	7	0	
+0	0	0	Y	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	35	P	7	4	3	1	PAC	5	4	3	0	
+0	0	0	A	7	4	3	0		6	5	3	0	
+0	0	0	C	7	4	3	0		0	6	13	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	36	B	7	8	3	1	BEG	5	8	3	0	
+0	0	0	E	7	8	3	0		6	9	3	0	
+0	0	0	G	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	37	L	8	0	3	1	LGA	6	0	3	0	
+0	0	0	G	8	0	3	0		6	1	7	0	
+0	0	0	A	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	38	S	8	5	3	1	SRO	6	5	3	0	
+0	0	0	R	8	5	3	0		0	6	13	0	
+0	1	39	O	8	5	3	0		8	7	3	1	OMN
+1	0	0	#	8	9	4	0		9	8	3	0	
+0	1	40	R	8	9	4	1	RBIS	6	9	3	0	
+0	0	0	B	8	9	4	0		0	10	13	0	
+0	1	41	I	8	9	4	0		8	11	5	1	ISFOR
+0	1	42	S	8	9	4	0		8	12	3	1	SAT
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	43	E	9	1	3	1	ESL	6	1	7	0	
+0	0	0	S	9	1	3	0		0	2	13	0	
+0	1	44	L	9	1	3	0		9	3	3	1	LAT
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	45	E	9	6	3	1	EMP	0	6	13	0	
+0	0	0	M	9	6	3	0		8	7	3	0	
+0	1	46	P	9	6	3	0		9	8	3	1	PSF
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	47	R	9	10	3	1	RSA	0	10	13	0	
+0	0	0	S	9	10	3	0		8	11	5	0	
+0	0	0	A	9	10	3	0		8	12	3	0	
+0	1	48	J	10	0	13	1	JONATHANSWIFT	10	0	3	1	JQA
+0	0	0	O	10	0	13	0		6	1	7	0	
+0	0	0	N	10	0	13	0		0	2	13	0	
+0	0	0	A	10	0	13	0		9	3	3	0	
+0	1	49	T	10	0	13	0		10	4	3	1	TES
+0	1	50	H	10	0	13	0		10	5	3	1	HET
+0	0	0	A	10	0	13	0		0	6	13	0	
+0	0	0	N	10	0	13	0		8	7	3	0	
+0	0	0	S	10	0	13	0		9	8	3	0	
+0	1	51	W	10	0	13	0		10	9	3	1	WIE
+0	0	0	I	10	0	13	0		0	10	13	0	
+0	0	0	F	10	0	13	0		8	11	5	0	
+0	0	0	T	10	0	13	0		8	12	3	0	
+0	1	52	Q	11	0	7	1	QUOTEES	10	0	3	0	
+0	0	0	U	11	0	7	0		6	1	7	0	
+0	0	0	O	11	0	7	0		0	2	13	0	
+0	0	0	T	11	0	7	0		9	3	3	0	
+0	0	0	E	11	0	7	0		10	4	3	0	
+0	0	0	E	11	0	7	0		10	5	3	0	
+0	0	0	S	11	0	7	0		0	6	13	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	53	F	11	8	4	1	FIDO	9	8	3	0	
+0	0	0	I	11	8	4	0		10	9	3	0	
+0	0	0	D	11	8	4	0		0	10	13	0	
+0	0	0	O	11	8	4	0		8	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	54	A	12	0	3	1	ATT	10	0	3	0	
+0	0	0	T	12	0	3	0		6	1	7	0	
+0	0	0	T	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	55	S	12	4	3	1	STE	10	4	3	0	
+0	0	0	T	12	4	3	0		10	5	3	0	
+0	0	0	E	12	4	3	0		0	6	13	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	56	E	12	9	3	1	EER	10	9	3	0	
+0	0	0	E	12	9	3	0		0	10	13	0	
+0	0	0	R	12	9	3	0		8	11	5	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	LAK	"Mighty ___ a Rose"
+4	GOI	"There but for the grace of God ___"
+7	BRO	Bart, to Maggie
+10	USEE	One for whose benefit a legal suit is brought
+12	ORIOLES	1983 World Series champs
+14	EXLAXATTITUDE	Disposition of a regular sort of person?
+16	MEI	"Don't tell ___ can't ...!"
+17	OKA	900-plus-mile Volga feeder
+18	SSN	Fig. in identity theft
+19	TSKS	They connote disapproval
+21	ANO	Calendario span
+23	HEC	"___ Ramsey" (70's western)
+25	EIN	"___ weites Feld" (G
+27	IOU	Paper in a pot
+29	ICC	Watchdog agcy. beginning 1887
+30	BELGIANFRANKS	European money to pay for sausages?
+34	EDY	Ice cream maker Joseph
+35	PAC	Grp. paying for some election ads
+36	BEG	Say "pretty please"
+37	LGA	It's 11 miles NNW of JFK
+38	SRO	Letters of success
+40	RBIS	Ruth's 2,213
+43	ESL	Many an ex-pat takes it
+45	EMP	Charlemagne, e.g.: Abbr.
+47	RSA	Cape Town's home: Abbr.
+48	JONATHANSWIFT	Gulliver's creator
+52	QUOTEES	Those cited
+53	FIDO	Relative of Bowser
+54	ATT	Letters on a telephone bill
+55	STE	One may be prayed to: Abbr.
+56	EER	Always used by a poet
+31
+1	LUXES	Meter-candles
+2	ASLIKELYASNOT	Odds of Alda winning an Oscar?
+3	KEA	Mauna ___ (volcano)
+4	GOTANINCREASE	Made more money
+5	ORT	Leftover bit
+6	III	Sundial hour
+7	BLUSHINGBRIDE	Member of a wedding party
+8	REDNECK	Not the most refined fellow
+9	OSE	Suffix with lact-
+11	EXO	Skeleton's head?
+13	OTS	N.B.A. tiebreakers
+14	EMT	Ambulance asst.
+15	AKA	Wanted-poster letters
+20	SIG	Mr., in Milano
+22	OOF	Punch-in-the-stomach reaction
+24	CCS	Also addresses, as with an e-mail
+26	NIP	Bit of brandy
+28	URB	Inner city, e.g.
+30	BEL	___ and the Dragon (Apocryphal book)
+31	EDGEOUT	Barely best
+32	AAS	Some toy batteries
+33	AER	___ Lingus
+39	OMN	Every, to a pharmacist
+41	ISFOR	Supports
+42	SAT	Used a pew
+44	LAT	Muscle strengthened in rowing, in brief
+46	PSF	Pressure meas.
+48	JQA	Presidential inits.
+49	TES	Parts opposite some handles
+50	HET	Dithery, with "up"
+51	WIE	"___ geht's?" (German "How are you?")

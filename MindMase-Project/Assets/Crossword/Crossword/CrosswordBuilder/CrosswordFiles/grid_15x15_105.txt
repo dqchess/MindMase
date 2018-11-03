@@ -1,0 +1,301 @@
+grid_15x15_105
+15
+0	1	1	B	0	0	3	1	BBL	0	0	5	1	BUGLE
+0	1	2	B	0	0	3	0		0	1	6	1	BLEARY
+0	1	3	L	0	0	3	0		0	2	14	1	LESSERANTILLES
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	M	0	4	3	1	MLB	0	4	4	1	MYDC
+0	1	5	L	0	4	3	0		0	5	4	1	LEIA
+0	1	6	B	0	4	3	0		0	6	5	1	BASLE
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	W	0	8	3	1	WHA	0	8	3	1	WSJ
+0	1	8	H	0	8	3	0		0	9	3	1	HTO
+0	1	9	A	0	8	3	0		0	10	5	1	ARCHE
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	14	0	
+1	0	0	#	0	14	0	0		1	13	7	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	U	1	0	3	1	ULE	0	0	5	0	
+0	0	0	L	1	0	3	0		0	1	6	0	
+0	0	0	E	1	0	3	0		0	2	14	0	
+1	0	0	#	1	4	3	0		2	3	0	0	
+0	1	11	Y	1	4	3	1	YEA	0	4	4	0	
+0	0	0	E	1	4	3	0		0	5	4	0	
+0	0	0	A	1	4	3	0		0	6	5	0	
+1	0	0	#	1	8	6	0		2	7	11	0	
+0	1	12	S	1	8	6	1	STROBE	0	8	3	0	
+0	0	0	T	1	8	6	0		0	9	3	0	
+0	0	0	R	1	8	6	0		0	10	5	0	
+0	1	13	O	1	8	6	0		1	11	3	1	OKE
+0	1	14	B	1	8	6	0		1	12	14	1	BELIEVETHEHYPE
+0	1	15	E	1	8	6	0		1	13	7	1	EYEWEAR
+1	0	0	#	1	15	0	0		2	14	4	0	
+0	1	16	G	2	0	3	1	GES	0	0	5	0	
+0	0	0	E	2	0	3	0		0	1	6	0	
+0	0	0	S	2	0	3	0		0	2	14	0	
+1	0	0	#	2	4	11	0		3	3	6	0	
+0	1	17	D	2	4	11	1	DISCJOCKEYS	0	4	4	0	
+0	0	0	I	2	4	11	0		0	5	4	0	
+0	0	0	S	2	4	11	0		0	6	5	0	
+0	1	18	C	2	4	11	0		2	7	11	1	CLAWEDREINS
+0	0	0	J	2	4	11	0		0	8	3	0	
+0	0	0	O	2	4	11	0		0	9	3	0	
+0	0	0	C	2	4	11	0		0	10	5	0	
+0	0	0	K	2	4	11	0		1	11	3	0	
+0	0	0	E	2	4	11	0		1	12	14	0	
+0	0	0	Y	2	4	11	0		1	13	7	0	
+0	1	19	S	2	4	11	0		2	14	4	1	SNOW
+0	1	20	L	3	0	8	1	LASTCALL	0	0	5	0	
+0	0	0	A	3	0	8	0		0	1	6	0	
+0	0	0	S	3	0	8	0		0	2	14	0	
+0	1	21	T	3	0	8	0		3	3	6	1	TILTAT
+0	0	0	C	3	0	8	0		0	4	4	0	
+0	0	0	A	3	0	8	0		0	5	4	0	
+0	0	0	L	3	0	8	0		0	6	5	0	
+0	0	0	L	3	0	8	0		2	7	11	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	5	0		4	9	5	0	
+0	1	22	H	3	10	5	1	HELEN	0	10	5	0	
+0	0	0	E	3	10	5	0		1	11	3	0	
+0	0	0	L	3	10	5	0		1	12	14	0	
+0	0	0	E	3	10	5	0		1	13	7	0	
+0	0	0	N	3	10	5	0		2	14	4	0	
+0	1	23	E	4	0	4	1	EREI	0	0	5	0	
+0	0	0	R	4	0	4	0		0	1	6	0	
+0	0	0	E	4	0	4	0		0	2	14	0	
+0	0	0	I	4	0	4	0		3	3	6	0	
+1	0	0	#	4	5	0	0		5	4	3	0	
+1	0	0	#	4	6	5	0		5	5	0	0	
+0	1	24	E	4	6	5	1	EAPOE	0	6	5	0	
+0	0	0	A	4	6	5	0		2	7	11	0	
+0	1	25	P	4	6	5	0		4	8	4	1	PAAR
+0	1	26	O	4	6	5	0		4	9	5	1	OSTER
+0	0	0	E	4	6	5	0		0	10	5	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	27	I	4	12	3	1	IWO	1	12	14	0	
+0	0	0	W	4	12	3	0		1	13	7	0	
+0	0	0	O	4	12	3	0		2	14	4	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	28	Y	5	1	4	1	YRLY	0	1	6	0	
+0	0	0	R	5	1	4	0		0	2	14	0	
+0	0	0	L	5	1	4	0		3	3	6	0	
+0	1	29	Y	5	1	4	0		5	4	3	1	YIP
+1	0	0	#	5	6	0	0		6	5	5	0	
+1	0	0	#	5	7	3	0		6	6	0	0	
+0	1	30	W	5	7	3	1	WAS	2	7	11	0	
+0	0	0	A	5	7	3	0		4	8	4	0	
+0	0	0	S	5	7	3	0		4	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	5	12	3	0		6	11	6	0	
+0	1	31	E	5	12	3	1	EEW	1	12	14	0	
+0	0	0	E	5	12	3	0		1	13	7	0	
+0	0	0	W	5	12	3	0		2	14	4	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	7	0	
+0	1	32	A	6	2	4	1	ATIS	0	2	14	0	
+0	0	0	T	6	2	4	0		3	3	6	0	
+0	0	0	I	6	2	4	0		5	4	3	0	
+0	1	33	S	6	2	4	0		6	5	5	1	SPERM
+1	0	0	#	6	7	3	0		7	6	4	0	
+0	1	34	E	6	7	3	1	EAT	2	7	11	0	
+0	0	0	A	6	7	3	0		4	8	4	0	
+0	0	0	T	6	7	3	0		4	9	5	0	
+1	0	0	#	6	11	3	0		7	10	3	0	
+0	1	35	U	6	11	3	1	UVA	6	11	6	1	USUALS
+0	0	0	V	6	11	3	0		1	12	14	0	
+0	0	0	A	6	11	3	0		1	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	13	0		8	0	0	0	
+0	1	36	S	7	1	13	1	SNAPPYDRESSER	7	1	7	1	SIMMERS
+0	0	0	N	7	1	13	0		0	2	14	0	
+0	0	0	A	7	1	13	0		3	3	6	0	
+0	0	0	P	7	1	13	0		5	4	3	0	
+0	0	0	P	7	1	13	0		6	5	5	0	
+0	1	37	Y	7	1	13	0		7	6	4	1	YEAN
+0	0	0	D	7	1	13	0		2	7	11	0	
+0	0	0	R	7	1	13	0		4	8	4	0	
+0	0	0	E	7	1	13	0		4	9	5	0	
+0	1	38	S	7	1	13	0		7	10	3	1	SON
+0	0	0	S	7	1	13	0		6	11	6	0	
+0	0	0	E	7	1	13	0		1	12	14	0	
+0	0	0	R	7	1	13	0		1	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	3	0		9	0	4	0	
+0	1	39	I	8	1	3	1	ITT	7	1	7	0	
+0	0	0	T	8	1	3	0		0	2	14	0	
+0	0	0	T	8	1	3	0		3	3	6	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	40	E	8	5	3	1	EER	6	5	5	0	
+0	0	0	E	8	5	3	0		7	6	4	0	
+0	0	0	R	8	5	3	0		2	7	11	0	
+1	0	0	#	8	9	4	0		9	8	0	0	
+0	1	41	R	8	9	4	1	ROUT	4	9	5	0	
+0	0	0	O	8	9	4	0		7	10	3	0	
+0	0	0	U	8	9	4	0		6	11	6	0	
+0	0	0	T	8	9	4	0		1	12	14	0	
+1	0	0	#	8	14	0	0		9	13	6	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	42	A	9	0	3	1	AMI	9	0	4	1	ACTI
+0	0	0	M	9	0	3	0		7	1	7	0	
+0	0	0	I	9	0	3	0		0	2	14	0	
+1	0	0	#	9	4	0	0		10	3	0	0	
+1	0	0	#	9	5	3	0		10	4	5	0	
+0	1	43	R	9	5	3	1	RAE	6	5	5	0	
+0	0	0	A	9	5	3	0		7	6	4	0	
+0	0	0	E	9	5	3	0		2	7	11	0	
+1	0	0	#	9	9	0	0		10	8	5	0	
+1	0	0	#	9	10	4	0		10	9	0	0	
+0	1	44	N	9	10	4	1	NAHA	7	10	3	0	
+0	0	0	A	9	10	4	0		6	11	6	0	
+0	0	0	H	9	10	4	0		1	12	14	0	
+0	1	45	A	9	10	4	0		9	13	6	1	ATOMIC
+1	0	0	#	9	15	0	0		10	14	5	0	
+0	1	46	C	10	0	3	1	CML	9	0	4	0	
+0	0	0	M	10	0	3	0		7	1	7	0	
+0	0	0	L	10	0	3	0		0	2	14	0	
+1	0	0	#	10	4	5	0		11	3	3	0	
+0	1	47	O	10	4	5	1	OMNIA	10	4	5	1	OREAD
+0	0	0	M	10	4	5	0		6	5	5	0	
+0	0	0	N	10	4	5	0		7	6	4	0	
+0	0	0	I	10	4	5	0		2	7	11	0	
+0	1	48	A	10	4	5	0		10	8	5	1	AITCH
+1	0	0	#	10	10	0	0		11	9	4	0	
+1	0	0	#	10	11	4	0		11	10	4	0	
+0	1	49	L	10	11	4	1	LETS	6	11	6	0	
+0	0	0	E	10	11	4	0		1	12	14	0	
+0	0	0	T	10	11	4	0		9	13	6	0	
+0	1	50	S	10	11	4	0		10	14	5	1	STAPH
+0	1	51	T	11	0	5	1	TELAR	9	0	4	0	
+0	0	0	E	11	0	5	0		7	1	7	0	
+0	0	0	L	11	0	5	0		0	2	14	0	
+0	1	52	A	11	0	5	0		11	3	3	1	ANT
+0	0	0	R	11	0	5	0		10	4	5	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	8	0		12	6	3	0	
+0	1	53	N	11	7	8	1	NICESHOT	2	7	11	0	
+0	0	0	I	11	7	8	0		10	8	5	0	
+0	1	54	C	11	7	8	0		11	9	4	1	CLAN
+0	1	55	E	11	7	8	0		11	10	4	1	EENS
+0	0	0	S	11	7	8	0		6	11	6	0	
+0	0	0	H	11	7	8	0		1	12	14	0	
+0	0	0	O	11	7	8	0		9	13	6	0	
+0	0	0	T	11	7	8	0		10	14	5	0	
+0	1	56	I	12	0	11	1	IRENECASTLE	9	0	4	0	
+0	0	0	R	12	0	11	0		7	1	7	0	
+0	0	0	E	12	0	11	0		0	2	14	0	
+0	0	0	N	12	0	11	0		11	3	3	0	
+0	0	0	E	12	0	11	0		10	4	5	0	
+0	1	57	C	12	0	11	0		12	5	3	1	CRT
+0	1	58	A	12	0	11	0		12	6	3	1	ASS
+0	0	0	S	12	0	11	0		2	7	11	0	
+0	0	0	T	12	0	11	0		10	8	5	0	
+0	0	0	L	12	0	11	0		11	9	4	0	
+0	0	0	E	12	0	11	0		11	10	4	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	59	Y	12	12	3	1	YMA	1	12	14	0	
+0	0	0	M	12	12	3	0		9	13	6	0	
+0	0	0	A	12	12	3	0		10	14	5	0	
+1	0	0	#	13	1	6	0		14	0	0	0	
+0	1	60	S	13	1	6	1	SSTARS	7	1	7	0	
+0	0	0	S	13	1	6	0		0	2	14	0	
+0	0	0	T	13	1	6	0		11	3	3	0	
+0	0	0	A	13	1	6	0		10	4	5	0	
+0	0	0	R	13	1	6	0		12	5	3	0	
+0	0	0	S	13	1	6	0		12	6	3	0	
+1	0	0	#	13	8	3	0		14	7	0	0	
+0	1	61	C	13	8	3	1	CAN	10	8	5	0	
+0	0	0	A	13	8	3	0		11	9	4	0	
+0	0	0	N	13	8	3	0		11	10	4	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	62	P	13	12	3	1	PIP	1	12	14	0	
+0	0	0	I	13	12	3	0		9	13	6	0	
+0	0	0	P	13	12	3	0		10	14	5	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	0	0		15	1	0	0	
+1	0	0	#	14	3	0	0		15	2	0	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	63	D	14	4	3	1	DTS	10	4	5	0	
+0	0	0	T	14	4	3	0		12	5	3	0	
+0	0	0	S	14	4	3	0		12	6	3	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	64	H	14	8	3	1	HNS	10	8	5	0	
+0	0	0	N	14	8	3	0		11	9	4	0	
+0	0	0	S	14	8	3	0		11	10	4	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	65	E	14	12	3	1	ECH	1	12	14	0	
+0	0	0	C	14	12	3	0		9	13	6	0	
+0	0	0	H	14	12	3	0		10	14	5	0	
+39
+1	BBL	Oil shipment: Abbr.
+4	MLB	World Series org.
+7	WHA	"___ hoppen?"
+10	ULE	Cousin of -let
+11	YEA	Biblical affirmative
+12	STROBE	Photographer's light
+16	GES	Some washers and dryers
+17	DISCJOCKEYS	Some chart analysts
+20	LASTCALL	Gate announcement
+22	HELEN	Lover of Paris
+23	EREI	"Dear mother Ida, harken ___ die" (Tennyson refrain)
+24	EAPOE	"Berenice" author, briefly
+27	IWO	'45 battle site, for short
+28	YRLY	Annual: Abbr.
+30	WAS	Is in another form?
+31	EEW	"Ick!"
+32	ATIS	Poisonous Asian plant
+34	EAT	Dig in
+35	UVA	The Cavaliers of the N.C.A.A.
+36	SNAPPYDRESSER	Easy-to-assemble furniture?
+39	ITT	Old communications giant
+40	EER	Always, to a poet
+41	ROUT	Beat badly
+42	AMI	Buddy, in Burgundy
+43	RAE	Korean-American author Chang-___ Lee
+44	NAHA	Okinawa port
+46	CML	Roman 950
+47	OMNIA	Opera ___ (complete works: Lat.)
+49	LETS	"Oh, why not?"
+51	TELAR	Relating to tissue
+53	NICESHOT	Court encouragement
+56	IRENECASTLE	Half a famous dance team
+59	YMA	Peruvian-born Sumac
+60	SSTARS	Cool red giants
+61	CAN	Film container
+62	PIP	Domino dot
+63	DTS	The shakes
+64	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+65	ECH	Level of hierarchy: Abbr.
+33
+1	BUGLE	It's played on base
+2	BLEARY	Not sharp, as eyesight
+3	LESSERANTILLES	Where to find the Windward and Leeward Islands
+4	MYDC	Ball V.I.P.'s
+5	LEIA	Royal figure of sci-fi
+6	BASLE	Swiss canton or its capital, old-style
+7	WSJ	Dow Jones paper, for short
+8	HTO	Water
+9	ARCHE	Prefix with type
+13	OKE	Fine and dandy, in old slang
+14	BELIEVETHEHYPE	Don't ...!
+15	EYEWEAR	Goggles and glasses
+18	CLAWEDREINS	Scratched-up leather straps?
+19	SNOW	Kids' winter schoolday wish
+21	TILTAT	Fight with
+25	PAAR	Old late-night host
+26	OSTER	Blender maker
+29	YIP	Pound sound
+33	SPERM	Kind of whale
+35	USUALS	Regulars' requests
+36	SIMMERS	Stews
+37	YEAN	Bear young, as sheep
+38	SON	Trinity member
+42	ACTI	Show opener
+45	ATOMIC	Like the modern age
+47	OREAD	Echo, e.g.
+48	AITCH	It's silent in honor
+50	STAPH	Kind of infection, for short
+52	ANT	Offspring of a queen
+54	CLAN	Kiltie's group
+55	EENS	Poetic periods
+57	CRT	Certain monitor: Abbr.
+58	ASS	Braying beast

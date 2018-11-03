@@ -1,0 +1,115 @@
+grid_9x9_63
+9
+0	1	1	T	0	0	3	1	TAN	0	0	3	1	TAT
+0	1	2	A	0	0	3	0		0	1	3	1	ALY
+0	1	3	N	0	0	3	0		0	2	3	1	NAP
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	O	0	6	3	1	OTT	0	6	5	1	OTTOI
+0	1	5	T	0	6	3	0		0	7	5	1	TWIRL
+0	1	6	T	0	6	3	0		0	8	4	1	TOMS
+0	1	7	A	1	0	5	1	ALALA	0	0	3	0	
+0	0	0	L	1	0	5	0		0	1	3	0	
+0	0	0	A	1	0	5	0		0	2	3	0	
+0	1	8	L	1	0	5	0		1	3	5	1	LEVER
+0	1	9	A	1	0	5	0		1	4	7	1	ABIOTIC
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	T	1	6	3	1	TWO	0	6	5	0	
+0	0	0	W	1	6	3	0		0	7	5	0	
+0	0	0	O	1	6	3	0		0	8	4	0	
+0	1	11	T	2	0	5	1	TYPEB	0	0	3	0	
+0	0	0	Y	2	0	5	0		0	1	3	0	
+0	0	0	P	2	0	5	0		0	2	3	0	
+0	0	0	E	2	0	5	0		1	3	5	0	
+0	0	0	B	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	T	2	6	3	1	TIM	0	6	5	0	
+0	0	0	I	2	6	3	0		0	7	5	0	
+0	0	0	M	2	6	3	0		0	8	4	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	6	0		4	2	5	0	
+0	1	13	V	3	3	6	1	VIZORS	1	3	5	0	
+0	0	0	I	3	3	6	0		1	4	7	0	
+0	1	14	Z	3	3	6	0		3	5	5	1	ZOOMS
+0	0	0	O	3	3	6	0		0	6	5	0	
+0	0	0	R	3	3	6	0		0	7	5	0	
+0	0	0	S	3	3	6	0		0	8	4	0	
+1	0	0	#	4	1	7	0		5	0	4	0	
+0	1	15	O	4	1	7	1	OLEOOIL	4	1	5	1	OUNCE
+0	1	16	L	4	1	7	0		4	2	5	1	LEADY
+0	0	0	E	4	1	7	0		1	3	5	0	
+0	0	0	O	4	1	7	0		1	4	7	0	
+0	0	0	O	4	1	7	0		3	5	5	0	
+0	0	0	I	4	1	7	0		0	6	5	0	
+0	0	0	L	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	P	5	0	6	1	PUERTO	5	0	4	1	POLL
+0	0	0	U	5	0	6	0		4	1	5	0	
+0	0	0	E	5	0	6	0		4	2	5	0	
+0	0	0	R	5	0	6	0		1	3	5	0	
+0	0	0	T	5	0	6	0		1	4	7	0	
+0	0	0	O	5	0	6	0		3	5	5	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	O	6	0	3	1	ONA	5	0	4	0	
+0	0	0	N	6	0	3	0		4	1	5	0	
+0	0	0	A	6	0	3	0		4	2	5	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	19	I	6	4	5	1	IMUST	1	4	7	0	
+0	0	0	M	6	4	5	0		3	5	5	0	
+0	1	20	U	6	4	5	0		6	6	3	1	UPN
+0	1	21	S	6	4	5	0		6	7	3	1	SOY
+0	1	22	T	6	4	5	0		6	8	3	1	TTT
+0	1	23	L	7	0	3	1	LCD	5	0	4	0	
+0	0	0	C	7	0	3	0		4	1	5	0	
+0	0	0	D	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	C	7	4	5	1	CSPOT	1	4	7	0	
+0	0	0	S	7	4	5	0		3	5	5	0	
+0	0	0	P	7	4	5	0		6	6	3	0	
+0	0	0	O	7	4	5	0		6	7	3	0	
+0	0	0	T	7	4	5	0		6	8	3	0	
+0	1	25	L	8	0	3	1	LEY	5	0	4	0	
+0	0	0	E	8	0	3	0		4	1	5	0	
+0	0	0	Y	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	N	8	6	3	1	NYT	6	6	3	0	
+0	0	0	Y	8	6	3	0		6	7	3	0	
+0	0	0	T	8	6	3	0		6	8	3	0	
+15
+1	TAN	Acquisition for some vacationers
+4	OTT	Giant from Gretna
+7	ALALA	Spanish folk song
+10	TWO	It's "company"
+11	TYPEB	Laid-back
+12	TIM	Title guy in an animated HBO sitcom
+13	VIZORS	Golfers' wear: Var.
+15	OLEOOIL	Spread ingredient
+17	PUERTO	Habana or C
+18	ONA	"Lady ___ Train" (1945 film)
+19	IMUST	Words of certainty
+23	LCD	Like some flat-screen panels, for short
+24	CSPOT	100 clams
+25	LEY	Willy who wrote "The Conquest of Space"
+26	NYT	W.S.J. rival
+15
+1	TAT	Work with a shuttle
+2	ALY	Rita Hayworth's Khan
+3	NAP	What you may do when you're beat
+4	OTTOI	10th-century Holy Roman emperor
+5	TWIRL	Pirouette
+6	TOMS	Male tabbies
+8	LEVER	Jimmy
+9	ABIOTIC	Lacking life
+14	ZOOMS	Flies
+15	OUNCE	Light weight
+16	LEADY	Dull
+17	POLL	It's often done by phone
+20	UPN	It merged with the WB to form the CW
+21	SOY	Milk source
+22	TTT	Game-winning cry

@@ -1,0 +1,165 @@
+grid_11x11_86
+11
+0	1	1	C	0	0	3	1	CID	0	0	3	1	CAV
+0	1	2	I	0	0	3	0		0	1	3	1	IDE
+0	1	3	D	0	0	3	0		0	2	3	1	DMA
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	P	0	7	3	1	PPD	0	7	5	1	PHILO
+0	1	5	P	0	7	3	0		0	8	7	1	PARAPET
+0	1	6	D	0	7	3	0		0	9	7	1	DISCERN
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	A	1	0	5	1	ADMEN	0	0	3	0	
+0	0	0	D	1	0	5	0		0	1	3	0	
+0	0	0	M	1	0	5	0		0	2	3	0	
+0	1	8	E	1	0	5	0		1	3	4	1	ELKS
+0	1	9	N	1	0	5	0		1	4	3	1	NCR
+1	0	0	#	1	6	4	0		2	5	7	0	
+0	1	10	C	1	6	4	1	CHAI	1	6	5	1	CAPER
+0	0	0	H	1	6	4	0		0	7	5	0	
+0	0	0	A	1	6	4	0		0	8	7	0	
+0	0	0	I	1	6	4	0		0	9	7	0	
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	V	2	0	10	1	VEALCHAIRS	0	0	3	0	
+0	0	0	E	2	0	10	0		0	1	3	0	
+0	0	0	A	2	0	10	0		0	2	3	0	
+0	0	0	L	2	0	10	0		1	3	4	0	
+0	0	0	C	2	0	10	0		1	4	3	0	
+0	1	12	H	2	0	10	0		2	5	7	1	HERHOOR
+0	0	0	A	2	0	10	0		1	6	5	0	
+0	0	0	I	2	0	10	0		0	7	5	0	
+0	0	0	R	2	0	10	0		0	8	7	0	
+0	0	0	S	2	0	10	0		0	9	7	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	7	0	
+1	0	0	#	3	3	8	0		4	2	7	0	
+0	1	13	K	3	3	8	1	KREPLACH	1	3	4	0	
+0	0	0	R	3	3	8	0		1	4	3	0	
+0	0	0	E	3	3	8	0		2	5	7	0	
+0	0	0	P	3	3	8	0		1	6	5	0	
+0	0	0	L	3	3	8	0		0	7	5	0	
+0	0	0	A	3	3	8	0		0	8	7	0	
+0	0	0	C	3	3	8	0		0	9	7	0	
+0	1	14	H	3	3	8	0		3	10	3	1	HNS
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	15	I	4	1	3	1	IES	4	1	7	1	INARUSH
+0	1	16	E	4	1	3	0		4	2	7	1	ENTENTE
+0	0	0	S	4	1	3	0		1	3	4	0	
+1	0	0	#	4	5	6	0		5	4	5	0	
+0	1	17	R	4	5	6	1	REOPEN	2	5	7	0	
+0	0	0	E	4	5	6	0		1	6	5	0	
+0	0	0	O	4	5	6	0		0	7	5	0	
+0	0	0	P	4	5	6	0		0	8	7	0	
+0	0	0	E	4	5	6	0		0	9	7	0	
+0	0	0	N	4	5	6	0		3	10	3	0	
+0	1	18	A	5	0	3	1	ANN	5	0	3	1	ATF
+0	0	0	N	5	0	3	0		4	1	7	0	
+0	0	0	N	5	0	3	0		4	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	19	T	5	4	3	1	THR	5	4	5	1	TOTES
+0	0	0	H	5	4	3	0		2	5	7	0	
+0	0	0	R	5	4	3	0		1	6	5	0	
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	20	E	5	8	3	1	ERS	0	8	7	0	
+0	0	0	R	5	8	3	0		0	9	7	0	
+0	0	0	S	5	8	3	0		3	10	3	0	
+0	1	21	T	6	0	6	1	TATTOO	5	0	3	0	
+0	0	0	A	6	0	6	0		4	1	7	0	
+0	0	0	T	6	0	6	0		4	2	7	0	
+0	1	22	T	6	0	6	0		6	3	5	1	TEDDY
+0	0	0	O	6	0	6	0		5	4	5	0	
+0	0	0	O	6	0	6	0		2	5	7	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	23	M	6	7	3	1	MTN	6	7	4	1	MOCA
+0	0	0	T	6	7	3	0		0	8	7	0	
+0	0	0	N	6	7	3	0		0	9	7	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	F	7	0	8	1	FREETOGO	5	0	3	0	
+0	0	0	R	7	0	8	0		4	1	7	0	
+0	0	0	E	7	0	8	0		4	2	7	0	
+0	0	0	E	7	0	8	0		6	3	5	0	
+0	0	0	T	7	0	8	0		5	4	5	0	
+0	0	0	O	7	0	8	0		2	5	7	0	
+0	1	25	G	7	0	8	0		7	6	3	1	GSA
+0	0	0	O	7	0	8	0		6	7	4	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	26	U	8	1	10	1	UNDERSCORE	4	1	7	0	
+0	0	0	N	8	1	10	0		4	2	7	0	
+0	0	0	D	8	1	10	0		6	3	5	0	
+0	0	0	E	8	1	10	0		5	4	5	0	
+0	0	0	R	8	1	10	0		2	5	7	0	
+0	0	0	S	8	1	10	0		7	6	3	0	
+0	0	0	C	8	1	10	0		6	7	4	0	
+0	1	27	O	8	1	10	0		8	8	3	1	ONA
+0	1	28	R	8	1	10	0		8	9	3	1	RDY
+0	1	29	E	8	1	10	0		8	10	3	1	EWE
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	30	S	9	1	4	1	STDS	4	1	7	0	
+0	0	0	T	9	1	4	0		4	2	7	0	
+0	0	0	D	9	1	4	0		6	3	5	0	
+0	0	0	S	9	1	4	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	31	A	9	6	5	1	AANDW	7	6	3	0	
+0	0	0	A	9	6	5	0		6	7	4	0	
+0	0	0	N	9	6	5	0		8	8	3	0	
+0	0	0	D	9	6	5	0		8	9	3	0	
+0	0	0	W	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	32	H	10	1	3	1	HEY	4	1	7	0	
+0	0	0	E	10	1	3	0		4	2	7	0	
+0	0	0	Y	10	1	3	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	33	A	10	8	3	1	AYE	8	8	3	0	
+0	0	0	Y	10	8	3	0		8	9	3	0	
+0	0	0	E	10	8	3	0		8	10	3	0	
+19
+1	CID	Alfonso VI banished him
+4	PPD	Mail order abbr.
+7	ADMEN	Some Madison Ave. workers
+10	CHAI	Spicy tea
+11	VEALCHAIRS	Where calves are stretched out?
+13	KREPLACH	Jewish ravioli
+15	IES	Pant attachment?
+17	REOPEN	Come back following renovations, say
+18	ANN	Lily Tomlin character Edith ___
+19	THR	By way of: Abbr.
+20	ERS	Sounds of fluster
+21	TATTOO	Faddish 90's "art"
+23	MTN	New York's Bear ___: Abbr.
+24	FREETOGO	Released
+26	UNDERSCORE	Indication of stress
+30	STDS	They're normal: Abbr.
+31	AANDW	Big name in root beer
+32	HEY	"Hands off!"
+33	AYE	"Yes"
+21
+1	CAV	Cleveland player, for short
+2	IDE	Chemical ending
+3	DMA	Basic teaching
+4	PHILO	Theologian ___ Judaeus
+5	PARAPET	Citadel feature
+6	DISCERN	Tell apart
+8	ELKS	Some fraternal members
+9	NCR	A.T.M. maker
+10	CAPER	Food decoration
+12	HERHOOR	Title for Judge Judy
+14	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+15	INARUSH	With no time to lose
+16	ENTENTE	Summit goal
+18	ATF	Justice Dept. division
+19	TOTES	Lugs
+22	TEDDY	Presidential nickname
+23	MOCA	Provincial capital in the Dominican Republic
+25	GSA	Fed. govt. supplies distributor
+27	ONA	"Puppet ___ String" (1965 Elvis song)
+28	RDY	At a low ___
+29	EWE	She that is shorn

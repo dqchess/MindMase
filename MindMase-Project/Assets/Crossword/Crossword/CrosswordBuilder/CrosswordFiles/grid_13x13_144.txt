@@ -1,0 +1,235 @@
+grid_13x13_144
+13
+0	1	1	H	0	0	3	1	HEM	0	0	3	1	HID
+0	1	2	E	0	0	3	0		0	1	3	1	ENC
+0	1	3	M	0	0	3	0		0	2	13	1	MAIDSAIDPLAID
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MCK	0	5	3	1	MIB
+0	1	5	C	0	5	3	0		0	6	13	1	CHRISSIEHYNDE
+0	1	6	K	0	5	3	0		0	7	4	1	KROC
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	M	0	10	3	1	MIO	0	10	13	1	MASSMARKETING
+0	1	8	I	0	10	3	0		0	11	3	1	IER
+0	1	9	O	0	10	3	0		0	12	3	1	OSA
+0	1	10	I	1	0	4	1	INAN	0	0	3	0	
+0	0	0	N	1	0	4	0		0	1	3	0	
+0	0	0	A	1	0	4	0		0	2	13	0	
+0	1	11	N	1	0	4	0		1	3	5	1	NILES
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	12	I	1	5	4	1	IHRE	0	5	3	0	
+0	0	0	H	1	5	4	0		0	6	13	0	
+0	0	0	R	1	5	4	0		0	7	4	0	
+0	1	13	E	1	5	4	0		1	8	4	1	ESTO
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	A	1	10	3	1	AES	0	10	13	0	
+0	0	0	E	1	10	3	0		0	11	3	0	
+0	0	0	S	1	10	3	0		0	12	3	0	
+0	1	15	D	2	0	4	1	DCII	0	0	3	0	
+0	0	0	C	2	0	4	0		0	1	3	0	
+0	0	0	I	2	0	4	0		0	2	13	0	
+0	0	0	I	2	0	4	0		1	3	5	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	16	B	2	5	4	1	BROS	0	5	3	0	
+0	0	0	R	2	5	4	0		0	6	13	0	
+0	0	0	O	2	5	4	0		0	7	4	0	
+0	0	0	S	2	5	4	0		1	8	4	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	17	S	2	10	3	1	SRA	0	10	13	0	
+0	0	0	R	2	10	3	0		0	11	3	0	
+0	0	0	A	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	18	D	3	2	3	1	DLX	0	2	13	0	
+0	0	0	L	3	2	3	0		1	3	5	0	
+0	1	19	X	3	2	3	0		3	4	3	1	XAS
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	20	I	3	6	5	1	ICTUS	0	6	13	0	
+0	0	0	C	3	6	5	0		0	7	4	0	
+0	0	0	T	3	6	5	0		1	8	4	0	
+0	1	21	U	3	6	5	0		3	9	3	1	UHS
+0	0	0	S	3	6	5	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	22	R	4	0	7	1	RESEATS	4	0	3	1	ROW
+0	1	23	E	4	0	7	0		4	1	5	1	ENEST
+0	0	0	S	4	0	7	0		0	2	13	0	
+0	0	0	E	4	0	7	0		1	3	5	0	
+0	0	0	A	4	0	7	0		3	4	3	0	
+0	1	24	T	4	0	7	0		4	5	3	1	TIC
+0	0	0	S	4	0	7	0		0	6	13	0	
+1	0	0	#	4	8	4	0		5	7	0	0	
+0	1	25	O	4	8	4	1	OHMS	1	8	4	0	
+0	0	0	H	4	8	4	0		3	9	3	0	
+0	0	0	M	4	8	4	0		0	10	13	0	
+0	1	26	S	4	8	4	0		4	11	5	1	SEVEN
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	27	O	5	0	7	1	ONASSIS	4	0	3	0	
+0	0	0	N	5	0	7	0		4	1	5	0	
+0	0	0	A	5	0	7	0		0	2	13	0	
+0	0	0	S	5	0	7	0		1	3	5	0	
+0	0	0	S	5	0	7	0		3	4	3	0	
+0	0	0	I	5	0	7	0		4	5	3	0	
+0	0	0	S	5	0	7	0		0	6	13	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	28	S	5	9	3	1	SAE	3	9	3	0	
+0	0	0	A	5	9	3	0		0	10	13	0	
+0	0	0	E	5	9	3	0		4	11	5	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	W	6	0	3	1	WEI	4	0	3	0	
+0	0	0	E	6	0	3	0		4	1	5	0	
+0	0	0	I	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	30	C	6	5	3	1	CIE	4	5	3	0	
+0	0	0	I	6	5	3	0		0	6	13	0	
+0	1	31	E	6	5	3	0		6	7	3	1	ETA
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	32	R	6	10	3	1	RVS	0	10	13	0	
+0	0	0	V	6	10	3	0		4	11	5	0	
+0	1	33	S	6	10	3	0		6	12	3	1	STS
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	34	S	7	1	3	1	SDI	4	1	5	0	
+0	0	0	D	7	1	3	0		0	2	13	0	
+0	1	35	I	7	1	3	0		7	3	3	1	IKE
+1	0	0	#	7	5	0	0		8	4	4	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	36	E	7	6	7	1	ETICKET	0	6	13	0	
+0	0	0	T	7	6	7	0		6	7	3	0	
+0	1	37	I	7	6	7	0		7	8	3	1	ISP
+0	1	38	C	7	6	7	0		7	9	5	1	CTIES
+0	0	0	K	7	6	7	0		0	10	13	0	
+0	0	0	E	7	6	7	0		4	11	5	0	
+0	0	0	T	7	6	7	0		6	12	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	39	T	8	1	4	1	TPKE	4	1	5	0	
+0	0	0	P	8	1	4	0		0	2	13	0	
+0	0	0	K	8	1	4	0		7	3	3	0	
+0	1	40	E	8	1	4	0		8	4	4	1	ETTA
+1	0	0	#	8	6	7	0		9	5	4	0	
+0	1	41	H	8	6	7	1	HASTENS	0	6	13	0	
+0	0	0	A	8	6	7	0		6	7	3	0	
+0	0	0	S	8	6	7	0		7	8	3	0	
+0	0	0	T	8	6	7	0		7	9	5	0	
+0	0	0	E	8	6	7	0		0	10	13	0	
+0	0	0	N	8	6	7	0		4	11	5	0	
+0	0	0	S	8	6	7	0		6	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	5	0		10	1	3	0	
+0	1	42	L	9	2	5	1	LETBY	0	2	13	0	
+0	0	0	E	9	2	5	0		7	3	3	0	
+0	0	0	T	9	2	5	0		8	4	4	0	
+0	1	43	B	9	2	5	0		9	5	4	1	BANC
+0	0	0	Y	9	2	5	0		0	6	13	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	44	P	9	8	3	1	PIT	7	8	3	0	
+0	0	0	I	9	8	3	0		7	9	5	0	
+0	0	0	T	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	Y	10	0	3	1	YMA	10	0	3	1	YUP
+0	1	46	M	10	0	3	0		10	1	3	1	MTA
+0	0	0	A	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	4	0		11	3	0	0	
+0	1	47	T	10	4	4	1	TANS	8	4	4	0	
+0	0	0	A	10	4	4	0		9	5	4	0	
+0	0	0	N	10	4	4	0		0	6	13	0	
+0	1	48	S	10	4	4	0		10	7	3	1	SSN
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	49	E	10	9	4	1	EINS	7	9	5	0	
+0	0	0	I	10	9	4	0		0	10	13	0	
+0	1	50	N	10	9	4	0		10	11	3	1	NEO
+0	1	51	S	10	9	4	0		10	12	3	1	SEI
+0	1	52	U	11	0	3	1	UTI	10	0	3	0	
+0	0	0	T	11	0	3	0		10	1	3	0	
+0	0	0	I	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	53	A	11	4	4	1	ANDS	8	4	4	0	
+0	0	0	N	11	4	4	0		9	5	4	0	
+0	0	0	D	11	4	4	0		0	6	13	0	
+0	0	0	S	11	4	4	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	54	S	11	9	4	1	SNEE	7	9	5	0	
+0	0	0	N	11	9	4	0		0	10	13	0	
+0	0	0	E	11	9	4	0		10	11	3	0	
+0	0	0	E	11	9	4	0		10	12	3	0	
+0	1	55	P	12	0	3	1	PAD	10	0	3	0	
+0	0	0	A	12	0	3	0		10	1	3	0	
+0	0	0	D	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	56	C	12	5	3	1	CEN	9	5	4	0	
+0	0	0	E	12	5	3	0		0	6	13	0	
+0	0	0	N	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	57	G	12	10	3	1	GOI	0	10	13	0	
+0	0	0	O	12	10	3	0		10	11	3	0	
+0	0	0	I	12	10	3	0		10	12	3	0	
+33
+1	HEM	Shift's end?
+4	MCK	R & B singer Brian
+7	MIO	Pavarotti possessive
+10	INAN	"Back ___ hour"
+12	IHRE	Her: Ger.
+14	AES	"Call to Greatness" writer, initially speaking
+15	DCII	Seventh-century date
+16	BROS	Part of some co. names
+17	SRA	Sp. title
+18	DLX	Year in the reign of Justinian the Great
+20	ICTUS	Metrical accent
+22	RESEATS	Ushers after intermission
+25	OHMS	___ law (i=v/r)
+27	ONASSIS	Kennedy follower
+28	SAE	R.S.V.P. facilitator: Abbr.
+29	WEI	4th- to 6th-century Chinese dynasty
+30	CIE	French bus. firm
+32	RVS	Vacation wheels: Abbr.
+34	SDI	Reagan cause: Abbr.
+36	ETICKET	Airline convenience
+39	TPKE	N.J. or Pa. route
+41	HASTENS	Moves along
+42	LETBY	Allow to pass
+44	PIT	Stomach area
+45	YMA	Vocalist Sumac
+47	TANS	Catches some rays
+49	EINS	German unity
+52	UTI	___ possidetis (as you possess, at law)
+53	ANDS	No ifs, ___ or buts
+54	SNEE	Bygone blade
+55	PAD	Holder of notes
+56	CEN	1900s, e.g.: Abbr.
+57	GOI	"There but for the grace of God ___"
+29
+1	HID	Crawled under the bed, say
+2	ENC	Letter accompanier: Abbr.
+3	MAIDSAIDPLAID	Lass specified madras?
+4	MIB	1997 Will Smith/Tommy Lee Jones blockbuster, for short
+5	CHRISSIEHYNDE	The great Pretender?
+6	KROC	McDonald's founder Ray
+7	MASSMARKETING	What major retailers do
+8	IER	Occupational ending
+9	OSA	Spanish she-bear
+11	NILES	"The Nanny" butler
+13	ESTO	End of Missouri's motto
+19	XAS	___ in xylophone
+21	UHS	Pause fillers
+22	ROW	Scrape
+23	ENEST	Older couple's home, often
+24	TIC	Sudden contraction
+26	SEVEN	Common roll
+31	ETA	LAX guesstimate
+33	STS	Ave. intersectors
+35	IKE	Turner in the Rock and Roll Hall of Fame
+37	ISP	AOL, for one
+38	CTIES	Rail supports
+40	ETTA	Ending with Henri
+43	BANC	Court seat
+45	YUP	Nope's counterpart
+46	MTA	Inits. on N.Y.C. buses
+48	SSN	Subj. of the Privacy Act of 1974
+50	NEO	Not a veteran
+51	SEI	Six, in Tuscany

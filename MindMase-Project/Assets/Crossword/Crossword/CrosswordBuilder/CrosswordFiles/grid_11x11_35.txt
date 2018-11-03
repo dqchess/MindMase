@@ -1,0 +1,171 @@
+grid_11x11_35
+11
+0	1	1	A	0	0	3	1	AKA	0	0	4	1	AHEM
+0	1	2	K	0	0	3	0		0	1	6	1	KOREAN
+0	1	3	A	0	0	3	0		0	2	11	1	ADIMEADOZEN
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	I	0	4	3	1	IJK	0	4	4	1	IGAS
+0	1	5	J	0	4	3	0		0	5	3	1	JAN
+0	1	6	K	0	4	3	0		0	6	6	1	KIDNAP
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	I	0	8	3	1	INE	0	8	11	1	INTERRACIAL
+0	1	8	N	0	8	3	0		0	9	4	1	NARC
+0	1	9	E	0	8	3	0		0	10	3	1	EPA
+0	1	10	H	1	0	3	1	HOD	0	0	4	0	
+0	0	0	O	1	0	3	0		0	1	6	0	
+0	0	0	D	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	3	0		2	3	0	0	
+0	1	11	G	1	4	3	1	GAI	0	4	4	0	
+0	0	0	A	1	4	3	0		0	5	3	0	
+0	0	0	I	1	4	3	0		0	6	6	0	
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	12	N	1	8	3	1	NAP	0	8	11	0	
+0	0	0	A	1	8	3	0		0	9	4	0	
+0	0	0	P	1	8	3	0		0	10	3	0	
+0	1	13	E	2	0	3	1	ERI	0	0	4	0	
+0	0	0	R	2	0	3	0		0	1	6	0	
+0	0	0	I	2	0	3	0		0	2	11	0	
+1	0	0	#	2	4	3	0		3	3	5	0	
+0	1	14	A	2	4	3	1	AND	0	4	4	0	
+0	0	0	N	2	4	3	0		0	5	3	0	
+0	0	0	D	2	4	3	0		0	6	6	0	
+1	0	0	#	2	8	3	0		3	7	5	0	
+0	1	15	T	2	8	3	1	TRA	0	8	11	0	
+0	0	0	R	2	8	3	0		0	9	4	0	
+0	0	0	A	2	8	3	0		0	10	3	0	
+0	1	16	M	3	0	5	1	MEMOS	0	0	4	0	
+0	0	0	E	3	0	5	0		0	1	6	0	
+0	0	0	M	3	0	5	0		0	2	11	0	
+0	1	17	O	3	0	5	0		3	3	5	1	OSTAR
+0	0	0	S	3	0	5	0		0	4	4	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	18	N	3	6	4	1	NSEC	0	6	6	0	
+0	1	19	S	3	6	4	0		3	7	5	1	SWAMI
+0	0	0	E	3	6	4	0		0	8	11	0	
+0	0	0	C	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	20	A	4	1	3	1	AES	0	1	6	0	
+0	0	0	E	4	1	3	0		0	2	11	0	
+0	0	0	S	4	1	3	0		3	3	5	0	
+1	0	0	#	4	5	4	0		5	4	6	0	
+0	1	21	M	4	5	4	1	MAWR	4	5	3	1	MLE
+0	0	0	A	4	5	4	0		0	6	6	0	
+0	0	0	W	4	5	4	0		3	7	5	0	
+0	0	0	R	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	22	N	5	1	9	1	NATALPARK	0	1	6	0	
+0	0	0	A	5	1	9	0		0	2	11	0	
+0	0	0	T	5	1	9	0		3	3	5	0	
+0	1	23	A	5	1	9	0		5	4	6	1	AREACH
+0	0	0	L	5	1	9	0		4	5	3	0	
+0	0	0	P	5	1	9	0		0	6	6	0	
+0	0	0	A	5	1	9	0		3	7	5	0	
+0	0	0	R	5	1	9	0		0	8	11	0	
+0	1	24	K	5	1	9	0		5	9	6	1	KWANZA
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	25	D	6	2	4	1	DARE	0	2	11	0	
+0	0	0	A	6	2	4	0		3	3	5	0	
+0	0	0	R	6	2	4	0		5	4	6	0	
+0	0	0	E	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	3	0		7	6	4	0	
+0	1	26	M	6	7	3	1	MAW	3	7	5	0	
+0	0	0	A	6	7	3	0		0	8	11	0	
+0	0	0	W	6	7	3	0		5	9	6	0	
+1	0	0	#	6	11	0	0		7	10	4	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	L	7	1	4	1	LORE	7	1	4	1	LIVE
+0	0	0	O	7	1	4	0		0	2	11	0	
+0	0	0	R	7	1	4	0		3	3	5	0	
+0	0	0	E	7	1	4	0		5	4	6	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	28	M	7	6	5	1	MICAH	7	6	4	1	MOCA
+0	0	0	I	7	6	5	0		3	7	5	0	
+0	0	0	C	7	6	5	0		0	8	11	0	
+0	0	0	A	7	6	5	0		5	9	6	0	
+0	1	29	H	7	6	5	0		7	10	4	1	HATS
+0	1	30	M	8	0	3	1	MIZ	8	0	3	1	MAY
+0	0	0	I	8	0	3	0		7	1	4	0	
+0	0	0	Z	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	31	A	8	4	3	1	ATO	5	4	6	0	
+0	1	32	T	8	4	3	0		8	5	3	1	TIU
+0	0	0	O	8	4	3	0		7	6	4	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	33	I	8	8	3	1	INA	0	8	11	0	
+0	0	0	N	8	8	3	0		5	9	6	0	
+0	0	0	A	8	8	3	0		7	10	4	0	
+0	1	34	A	9	0	3	1	AVE	8	0	3	0	
+0	0	0	V	9	0	3	0		7	1	4	0	
+0	0	0	E	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	35	C	9	4	3	1	CIC	5	4	6	0	
+0	0	0	I	9	4	3	0		8	5	3	0	
+0	0	0	C	9	4	3	0		7	6	4	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	36	A	9	8	3	1	AZT	0	8	11	0	
+0	0	0	Z	9	8	3	0		5	9	6	0	
+0	0	0	T	9	8	3	0		7	10	4	0	
+0	1	37	Y	10	0	3	1	YEN	8	0	3	0	
+0	0	0	E	10	0	3	0		7	1	4	0	
+0	0	0	N	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	38	H	10	4	3	1	HUA	5	4	6	0	
+0	0	0	U	10	4	3	0		8	5	3	0	
+0	0	0	A	10	4	3	0		7	6	4	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	39	L	10	8	3	1	LAS	0	8	11	0	
+0	0	0	A	10	8	3	0		5	9	6	0	
+0	0	0	S	10	8	3	0		7	10	4	0	
+27
+1	AKA	Letters between two names
+4	IJK	Robt. Byrd
+7	INE	Like Dvor
+10	HOD	Brick holder
+11	GAI	Moo goo ___ pan
+12	NAP	A few Z's
+13	ERI	"___ tu che macchiavi" (Verdi lyric)
+14	AND	"The significance being 
+15	TRA	La la lead-in
+16	MEMOS	Staff directives
+18	NSEC	Small interval of time: Abbr.
+20	AES	Two-time Dem. nominee
+21	MAWR	Bryn ___
+22	NATALPARK	Zoo for newborns?
+25	DARE	Alternative to truth in a party game
+26	MAW	Stomach
+27	LORE	Grandparents' stories, e.g.
+28	MICAH	Book containing a prediction of the coming of the Messiah
+30	MIZ	"Les ___"
+31	ATO	From ___ B
+33	INA	___ heap
+34	AVE	Caesar's hello
+35	CIC	The Pres., militarily speaking
+36	AZT	Much-discussed drug
+37	YEN	Thirst
+38	HUA	Mao's successor as Chinese Communist leader
+39	LAS	___ Piedras, P.R.
+19
+1	AHEM	Pause filler
+2	KOREAN	Ethnic cuisine
+3	ADIMEADOZEN	Common and cheap
+4	IGAS	Certain supermarkets, for short
+5	JAN	Half of a popular 1960s singing duo
+6	KIDNAP	Abduct
+7	INTERRACIAL	Ethnically diverse
+8	NARC	G-man
+9	EPA	Factory-emissions testing grp.
+17	OSTAR	Massive, very hot celestial orb
+19	SWAMI	Hindu wise one
+21	MLE	Uncooperative one
+23	AREACH	Something straining credibility
+24	KWANZA	Winter celebration
+27	LIVE	CNN word
+28	MOCA	Provincial capital in the Dominican Republic
+29	HATS	They have crowns
+30	MAY	"Rough winds do shake the darling buds of ___": Shak.
+32	TIU	English war god

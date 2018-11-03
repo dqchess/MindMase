@@ -1,0 +1,167 @@
+grid_11x11_78
+11
+0	1	1	R	0	0	3	1	ROG	0	0	3	1	REP
+0	1	2	O	0	0	3	0		0	1	3	1	ORS
+0	1	3	G	0	0	3	0		0	2	11	1	GRILLATEASE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	5	0	
+0	1	4	S	0	5	4	1	SOLD	0	5	3	1	SAV
+0	1	5	O	0	5	4	0		0	6	3	1	OBE
+0	1	6	L	0	5	4	0		0	7	4	1	LOYE
+0	1	7	D	0	5	4	0		0	8	11	1	DROPTHEBALL
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	8	E	1	0	3	1	ERR	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	3	0	
+0	0	0	R	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	6	0		2	3	3	0	
+0	1	9	T	1	4	6	1	TABORS	1	4	5	1	TOEIN
+0	0	0	A	1	4	6	0		0	5	3	0	
+0	0	0	B	1	4	6	0		0	6	3	0	
+0	0	0	O	1	4	6	0		0	7	4	0	
+0	0	0	R	1	4	6	0		0	8	11	0	
+0	1	10	S	1	4	6	0		1	9	6	1	SUITED
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	P	2	0	10	1	PSILOVEYOU	0	0	3	0	
+0	0	0	S	2	0	10	0		0	1	3	0	
+0	0	0	I	2	0	10	0		0	2	11	0	
+0	1	12	L	2	0	10	0		2	3	3	1	LES
+0	0	0	O	2	0	10	0		1	4	5	0	
+0	0	0	V	2	0	10	0		0	5	3	0	
+0	0	0	E	2	0	10	0		0	6	3	0	
+0	0	0	Y	2	0	10	0		0	7	4	0	
+0	0	0	O	2	0	10	0		0	8	11	0	
+0	0	0	U	2	0	10	0		1	9	6	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	6	0	
+0	1	13	L	3	2	3	1	LEE	0	2	11	0	
+0	0	0	E	3	2	3	0		2	3	3	0	
+0	0	0	E	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	14	E	3	7	4	1	EPIS	0	7	4	0	
+0	0	0	P	3	7	4	0		0	8	11	0	
+0	0	0	I	3	7	4	0		1	9	6	0	
+0	1	15	S	3	7	4	0		3	10	3	1	STN
+1	0	0	#	4	1	5	0		5	0	3	0	
+0	1	16	E	4	1	5	1	ELSIE	4	1	6	1	ELLIES
+0	0	0	L	4	1	5	0		0	2	11	0	
+0	0	0	S	4	1	5	0		2	3	3	0	
+0	0	0	I	4	1	5	0		1	4	5	0	
+0	1	17	E	4	1	5	0		4	5	3	1	EYE
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	18	T	4	8	3	1	TTT	0	8	11	0	
+0	0	0	T	4	8	3	0		1	9	6	0	
+0	0	0	T	4	8	3	0		3	10	3	0	
+0	1	19	I	5	0	3	1	ILA	5	0	3	1	IBM
+0	0	0	L	5	0	3	0		4	1	6	0	
+0	0	0	A	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	20	N	5	4	3	1	NYT	1	4	5	0	
+0	0	0	Y	5	4	3	0		4	5	3	0	
+0	1	21	T	5	4	3	0		5	6	5	1	TEMPT
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	22	H	5	8	3	1	HEN	0	8	11	0	
+0	0	0	E	5	8	3	0		1	9	6	0	
+0	0	0	N	5	8	3	0		3	10	3	0	
+0	1	23	B	6	0	3	1	BLT	5	0	3	0	
+0	0	0	L	6	0	3	0		4	1	6	0	
+0	0	0	T	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	24	E	6	5	5	1	EELED	4	5	3	0	
+0	0	0	E	6	5	5	0		5	6	5	0	
+0	1	25	L	6	5	5	0		6	7	3	1	LAL
+0	0	0	E	6	5	5	0		0	8	11	0	
+0	0	0	D	6	5	5	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	M	7	0	4	1	MIEN	5	0	3	0	
+0	0	0	I	7	0	4	0		4	1	6	0	
+0	0	0	E	7	0	4	0		0	2	11	0	
+0	1	27	N	7	0	4	0		7	3	4	1	NTHS
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	28	M	7	6	3	1	MAB	5	6	5	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	B	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	29	E	8	1	10	1	EATONPLACE	4	1	6	0	
+0	0	0	A	8	1	10	0		0	2	11	0	
+0	0	0	T	8	1	10	0		7	3	4	0	
+0	1	30	O	8	1	10	0		8	4	3	1	OIE
+0	1	31	N	8	1	10	0		8	5	3	1	NFL
+0	0	0	P	8	1	10	0		5	6	5	0	
+0	0	0	L	8	1	10	0		6	7	3	0	
+0	0	0	A	8	1	10	0		0	8	11	0	
+0	1	32	C	8	1	10	0		8	9	3	1	COP
+0	1	33	E	8	1	10	0		8	10	3	1	ETS
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	34	S	9	1	6	1	SSHIFT	4	1	6	0	
+0	0	0	S	9	1	6	0		0	2	11	0	
+0	0	0	H	9	1	6	0		7	3	4	0	
+0	0	0	I	9	1	6	0		8	4	3	0	
+0	0	0	F	9	1	6	0		8	5	3	0	
+0	0	0	T	9	1	6	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	35	L	9	8	3	1	LOT	0	8	11	0	
+0	0	0	O	9	8	3	0		8	9	3	0	
+0	0	0	T	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	0	0	
+0	1	36	E	10	2	4	1	ESEL	0	2	11	0	
+0	0	0	S	10	2	4	0		7	3	4	0	
+0	0	0	E	10	2	4	0		8	4	3	0	
+0	0	0	L	10	2	4	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	37	L	10	8	3	1	LPS	0	8	11	0	
+0	0	0	P	10	8	3	0		8	9	3	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+21
+1	ROG	Baseball's Maris, for short
+4	SOLD	Cry after the rap of a hammer
+8	ERR	Fall from grace
+9	TABORS	Marchers' drums
+11	PSILOVEYOU	1964 Beatles hit
+13	LEE	Civil War general
+14	EPIS	Like some churches: Abbr.
+16	ELSIE	Milk pitcher?
+18	TTT	Game-winning cry
+19	ILA	Dockworker's org.
+20	NYT	Big Apple read: Abbr.
+22	HEN	Farm mother
+23	BLT	Dish that may come with a toothpick
+24	EELED	Fished for morays
+26	MIEN	Bearing
+28	MAB	Queen described by Mercutio
+29	EATONPLACE	"Upstairs, Downstairs" setting
+34	SSHIFT	It's not automatic
+35	LOT	Shooting site
+36	ESEL	Donkey, in D
+37	LPS	Hi-fi supply
+21
+1	REP	Good name, for short
+2	ORS	Connecting words in logic
+3	GRILLATEASE	Barbecue comfortably?
+4	SAV	Part of some discount store names
+5	OBE	2001 honor for J. K. Rowling
+6	LOYE	Ravel's "Ma mere ___" ("Mother Goose")
+7	DROPTHEBALL	Make an error
+9	TOEIN	Front-end alignment
+10	SUITED	Fit
+12	LES	"___ Girls" (1957 musical)
+15	STN	Bus term.
+16	ELLIES	Prestigious magazine awards
+17	EYE	CBS logo
+19	IBM	Computing-Tabulating-Recording Co., today
+21	TEMPT	Proffer bait
+25	LAL	Kobe Bryant's team, on scoreboards
+27	NTHS	Unspecified degrees
+30	OIE	Gallic goose
+31	NFL	Packers org.
+32	COP	Swipe
+33	ETS	They make contact in "Contact"

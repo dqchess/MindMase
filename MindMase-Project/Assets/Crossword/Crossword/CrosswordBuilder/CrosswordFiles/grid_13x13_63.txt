@@ -1,0 +1,233 @@
+grid_13x13_63
+13
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	Y	0	1	3	1	YSL	0	1	5	1	YARNS
+0	1	2	S	0	1	3	0		0	2	5	1	SYRIA
+0	1	3	L	0	1	3	0		0	3	3	1	LSI
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	6	0	
+0	1	4	M	0	6	3	1	MET	0	6	13	1	MIXEDMETAPHOR
+0	1	5	E	0	6	3	0		0	7	5	1	ESTES
+0	1	6	T	0	6	3	0		0	8	3	1	TIR
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	O	0	10	3	1	OFE	0	10	7	1	OLDPROS
+0	1	8	F	0	10	3	0		0	11	7	1	FORHIRE
+0	1	9	E	0	10	3	0		0	12	3	1	EDY
+0	1	10	P	1	0	4	1	PAYS	1	0	4	1	PASS
+0	0	0	A	1	0	4	0		0	1	5	0	
+0	0	0	Y	1	0	4	0		0	2	5	0	
+0	0	0	S	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	4	0	
+0	1	11	S	1	5	4	1	SISI	1	5	6	1	SETTEE
+0	0	0	I	1	5	4	0		0	6	13	0	
+0	0	0	S	1	5	4	0		0	7	5	0	
+0	0	0	I	1	5	4	0		0	8	3	0	
+1	0	0	#	1	10	3	0		2	9	6	0	
+0	1	12	L	1	10	3	1	LOD	0	10	7	0	
+0	0	0	O	1	10	3	0		0	11	7	0	
+0	0	0	D	1	10	3	0		0	12	3	0	
+0	1	13	A	2	0	13	1	ARRIDEXTRADRY	1	0	4	0	
+0	0	0	R	2	0	13	0		0	1	5	0	
+0	0	0	R	2	0	13	0		0	2	5	0	
+0	0	0	I	2	0	13	0		0	3	3	0	
+0	1	14	D	2	0	13	0		2	4	4	1	DREI
+0	0	0	E	2	0	13	0		1	5	6	0	
+0	0	0	X	2	0	13	0		0	6	13	0	
+0	0	0	T	2	0	13	0		0	7	5	0	
+0	0	0	R	2	0	13	0		0	8	3	0	
+0	1	15	A	2	0	13	0		2	9	6	1	AMALIE
+0	0	0	D	2	0	13	0		0	10	7	0	
+0	0	0	R	2	0	13	0		0	11	7	0	
+0	0	0	Y	2	0	13	0		0	12	3	0	
+0	1	16	S	3	0	3	1	SNI	1	0	4	0	
+0	0	0	N	3	0	3	0		0	1	5	0	
+0	0	0	I	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	17	R	3	4	4	1	RTEE	2	4	4	0	
+0	0	0	T	3	4	4	0		1	5	6	0	
+0	0	0	E	3	4	4	0		0	6	13	0	
+0	0	0	E	3	4	4	0		0	7	5	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	18	M	3	9	3	1	MPH	2	9	6	0	
+0	0	0	P	3	9	3	0		0	10	7	0	
+0	0	0	H	3	9	3	0		0	11	7	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+0	1	19	S	4	0	3	1	SSA	1	0	4	0	
+0	0	0	S	4	0	3	0		0	1	5	0	
+0	0	0	A	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	4	0		5	3	6	0	
+0	1	20	E	4	4	4	1	ETDS	2	4	4	0	
+0	0	0	T	4	4	4	0		1	5	6	0	
+0	0	0	D	4	4	4	0		0	6	13	0	
+0	0	0	S	4	4	4	0		0	7	5	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	21	A	4	9	4	1	ARIZ	2	9	6	0	
+0	0	0	R	4	9	4	0		0	10	7	0	
+0	0	0	I	4	9	4	0		0	11	7	0	
+0	1	22	Z	4	9	4	0		4	12	3	1	ZEE
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	7	0	
+1	0	0	#	5	3	4	0		6	2	7	0	
+0	1	23	D	5	3	4	1	DIEM	5	3	6	1	DOODLE
+0	0	0	I	5	3	4	0		2	4	4	0	
+0	0	0	E	5	3	4	0		1	5	6	0	
+0	0	0	M	5	3	4	0		0	6	13	0	
+1	0	0	#	5	8	0	0		6	7	6	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	24	L	5	9	4	1	LORE	2	9	6	0	
+0	0	0	O	5	9	4	0		0	10	7	0	
+0	0	0	R	5	9	4	0		0	11	7	0	
+0	0	0	E	5	9	4	0		4	12	3	0	
+0	1	25	A	6	0	4	1	AMOO	6	0	3	1	AKC
+0	1	26	M	6	0	4	0		6	1	7	1	MERMAID
+0	1	27	O	6	0	4	0		6	2	7	1	ONEACAT
+0	0	0	O	6	0	4	0		5	3	6	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	28	E	6	5	3	1	EEW	1	5	6	0	
+0	0	0	E	6	5	3	0		0	6	13	0	
+0	1	29	W	6	5	3	0		6	7	6	1	WHERES
+1	0	0	#	6	9	4	0		7	8	4	0	
+0	1	30	I	6	9	4	1	ISEE	2	9	6	0	
+0	0	0	S	6	9	4	0		0	10	7	0	
+0	0	0	E	6	9	4	0		0	11	7	0	
+0	0	0	E	6	9	4	0		4	12	3	0	
+0	1	31	K	7	0	4	1	KENO	6	0	3	0	
+0	0	0	E	7	0	4	0		6	1	7	0	
+0	0	0	N	7	0	4	0		6	2	7	0	
+0	0	0	O	7	0	4	0		5	3	6	0	
+1	0	0	#	7	5	0	0		8	4	0	0	
+1	0	0	#	7	6	4	0		8	5	5	0	
+0	1	32	T	7	6	4	1	THSE	0	6	13	0	
+0	0	0	H	7	6	4	0		6	7	6	0	
+0	1	33	S	7	6	4	0		7	8	4	1	SLIM
+0	0	0	E	7	6	4	0		2	9	6	0	
+1	0	0	#	7	11	0	0		8	10	5	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	4	0	
+0	1	34	C	8	0	4	1	CRED	6	0	3	0	
+0	0	0	R	8	0	4	0		6	1	7	0	
+0	0	0	E	8	0	4	0		6	2	7	0	
+0	0	0	D	8	0	4	0		5	3	6	0	
+1	0	0	#	8	5	4	0		9	4	0	0	
+0	1	35	K	8	5	4	1	KAEL	8	5	5	1	KATNA
+0	0	0	A	8	5	4	0		0	6	13	0	
+0	0	0	E	8	5	4	0		6	7	6	0	
+0	0	0	L	8	5	4	0		7	8	4	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	36	L	8	10	3	1	LLD	8	10	5	1	LYSOL
+0	1	37	L	8	10	3	0		8	11	5	1	LEICA
+0	1	38	D	8	10	3	0		8	12	4	1	DACE
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	39	M	9	1	3	1	MAL	6	1	7	0	
+0	0	0	A	9	1	3	0		6	2	7	0	
+0	0	0	L	9	1	3	0		5	3	6	0	
+1	0	0	#	9	5	4	0		10	4	3	0	
+0	1	40	A	9	5	4	1	APRI	8	5	5	0	
+0	0	0	P	9	5	4	0		0	6	13	0	
+0	0	0	R	9	5	4	0		6	7	6	0	
+0	0	0	I	9	5	4	0		7	8	4	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	41	Y	9	10	3	1	YEA	8	10	5	0	
+0	0	0	E	9	10	3	0		8	11	5	0	
+0	0	0	A	9	10	3	0		8	12	4	0	
+0	1	42	F	10	0	13	1	FACEDTHEMUSIC	10	0	3	1	FCC
+0	0	0	A	10	0	13	0		6	1	7	0	
+0	0	0	C	10	0	13	0		6	2	7	0	
+0	0	0	E	10	0	13	0		5	3	6	0	
+0	1	43	D	10	0	13	0		10	4	3	1	DOR
+0	0	0	T	10	0	13	0		8	5	5	0	
+0	0	0	H	10	0	13	0		0	6	13	0	
+0	0	0	E	10	0	13	0		6	7	6	0	
+0	0	0	M	10	0	13	0		7	8	4	0	
+0	1	44	U	10	0	13	0		10	9	3	1	UVA
+0	0	0	S	10	0	13	0		8	10	5	0	
+0	0	0	I	10	0	13	0		8	11	5	0	
+0	0	0	C	10	0	13	0		8	12	4	0	
+0	1	45	C	11	0	3	1	CIA	10	0	3	0	
+0	0	0	I	11	0	3	0		6	1	7	0	
+0	0	0	A	11	0	3	0		6	2	7	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	46	O	11	4	4	1	ONOS	10	4	3	0	
+0	0	0	N	11	4	4	0		8	5	5	0	
+0	0	0	O	11	4	4	0		0	6	13	0	
+0	0	0	S	11	4	4	0		6	7	6	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	47	V	11	9	4	1	VOCE	10	9	3	0	
+0	0	0	O	11	9	4	0		8	10	5	0	
+0	0	0	C	11	9	4	0		8	11	5	0	
+0	0	0	E	11	9	4	0		8	12	4	0	
+0	1	48	C	12	0	3	1	CDT	10	0	3	0	
+0	0	0	D	12	0	3	0		6	1	7	0	
+0	0	0	T	12	0	3	0		6	2	7	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	49	R	12	4	3	1	RAR	10	4	3	0	
+0	0	0	A	12	4	3	0		8	5	5	0	
+0	0	0	R	12	4	3	0		0	6	13	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	50	A	12	9	3	1	ALA	10	9	3	0	
+0	0	0	L	12	9	3	0		8	10	5	0	
+0	0	0	A	12	9	3	0		8	11	5	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+33
+1	YSL	DKNY competitor
+4	MET	Mr. ___ (Shea mascot)
+7	OFE	Just recently
+10	PAYS	Shells out
+11	SISI	"Say ___" (1940 hit)
+12	LOD	Israeli airport
+13	ARRIDEXTRADRY	Secret competitor
+16	SNI	___ and snee
+17	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+18	MPH	Speedometer letters
+19	SSA	F.I.C.A. funds it
+20	ETDS	LAX data: Abbr.
+21	ARIZ	Phoenix's state: Abbr.
+23	DIEM	Per ___
+24	LORE	Oft-told tales
+25	AMOO	"Here ___, there..."
+28	EEW	"Ick!"
+30	ISEE	"Right"
+31	KENO	Game with many balls
+32	THSE	"Just hear ___ sleigh bells jingling 
+34	CRED	Acceptance on the street, slangily
+35	KAEL	Critic Pauline
+36	LLD	Honorary law degree: Abbr.
+39	MAL	___ de mer (seasickness)
+40	APRI	2nd qtr. starter
+41	YEA	"___, though I walk ..."
+42	FACEDTHEMUSIC	Listened to a concert?
+45	CIA	"Three Days of the Condor" org.
+46	ONOS	Lennon's in-laws
+47	VOCE	Mezza ___
+48	CDT	The Chi. Cubs play games on this
+49	RAR	It's typically off base
+50	ALA	According to
+27
+1	YARNS	Paul Bunyan tales, e.g.
+2	SYRIA	Modern home of ancient Ebla
+3	LSI	Long-running B'way musical seen by couples?
+4	MIXEDMETAPHOR	"Answer to each of the six starred clues, literally"
+5	ESTES	Opera singer Simon ___
+6	TIR	Bushed
+7	OLDPROS	Seasoned vets
+8	FORHIRE	Available
+9	EDY	Actress Williams of the 1960s-'70s
+10	PASS	Frontier scout's discovery
+11	SETTEE	Sofa
+14	DREI	Number in Nuremberg
+15	AMALIE	Charlotte ___, Virgin Islands
+22	ZEE	Last of 26
+23	DOODLE	It may result from a long phone conversation
+25	AKC	Pedigree org. since 1884
+26	MERMAID	Creature with three appendages
+27	ONEACAT	Classic batting game
+29	WHERES	"___ the fire?"
+33	SLIM	Unpromising, as a chance
+35	KATNA	"Same goes for me"
+36	LYSOL	Cleaner/disinfectant brand
+37	LEICA	Big maker of binoculars
+38	DACE	Stout, freshwater fish
+42	FCC	Obscenity watcher: Abbr.
+43	DOR	Nova Scotia's Bras ___ Lake
+44	UVA	It was founded by Thos. Jefferson

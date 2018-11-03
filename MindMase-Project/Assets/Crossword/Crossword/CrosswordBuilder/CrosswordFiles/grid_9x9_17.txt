@@ -1,0 +1,115 @@
+grid_9x9_17
+9
+0	1	1	A	0	0	3	1	ARE	0	0	3	1	AWK
+0	1	2	R	0	0	3	0		0	1	4	1	ROTO
+0	1	3	E	0	0	3	0		0	2	9	1	EPICENTER
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	B	0	5	3	1	BDS	0	5	3	1	BBL
+0	1	5	D	0	5	3	0		0	6	9	1	DELINEATE
+0	1	6	S	0	5	3	0		0	7	4	1	SAES
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	W	1	0	3	1	WOP	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	4	0	
+0	0	0	P	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	O	1	4	5	1	OBEAH	1	4	7	1	OATHAYS
+0	0	0	B	1	4	5	0		0	5	3	0	
+0	0	0	E	1	4	5	0		0	6	9	0	
+0	0	0	A	1	4	5	0		0	7	4	0	
+0	1	9	H	1	4	5	0		1	8	3	1	HYP
+0	1	10	K	2	0	9	1	KTIEALLEY	0	0	3	0	
+0	0	0	T	2	0	9	0		0	1	4	0	
+0	0	0	I	2	0	9	0		0	2	9	0	
+0	1	11	E	2	0	9	0		2	3	3	1	EAT
+0	0	0	A	2	0	9	0		1	4	7	0	
+0	0	0	L	2	0	9	0		0	5	3	0	
+0	0	0	L	2	0	9	0		0	6	9	0	
+0	0	0	E	2	0	9	0		0	7	4	0	
+0	0	0	Y	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	12	O	3	1	4	1	OCAT	0	1	4	0	
+0	0	0	C	3	1	4	0		0	2	9	0	
+0	0	0	A	3	1	4	0		2	3	3	0	
+0	0	0	T	3	1	4	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	I	3	6	3	1	ISP	0	6	9	0	
+0	0	0	S	3	6	3	0		0	7	4	0	
+0	0	0	P	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	14	E	4	2	5	1	ETHAN	0	2	9	0	
+0	0	0	T	4	2	5	0		2	3	3	0	
+0	0	0	H	4	2	5	0		1	4	7	0	
+0	1	15	A	4	2	5	0		4	5	3	1	ATC
+0	0	0	N	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	K	5	0	3	1	KAN	5	0	3	1	KPS
+0	1	17	A	5	0	3	0		5	1	4	1	AENA
+0	0	0	N	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	18	A	5	4	4	1	ATES	1	4	7	0	
+0	0	0	T	5	4	4	0		4	5	3	0	
+0	0	0	E	5	4	4	0		0	6	9	0	
+0	1	19	S	5	4	4	0		5	7	4	1	SSTS
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	P	6	0	9	1	PETTYCASH	5	0	3	0	
+0	0	0	E	6	0	9	0		5	1	4	0	
+0	0	0	T	6	0	9	0		0	2	9	0	
+0	1	21	T	6	0	9	0		6	3	3	1	TEP
+0	0	0	Y	6	0	9	0		1	4	7	0	
+0	0	0	C	6	0	9	0		4	5	3	0	
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	0	0	S	6	0	9	0		5	7	4	0	
+0	1	22	H	6	0	9	0		6	8	3	1	HTO
+0	1	23	S	7	0	5	1	SNEES	5	0	3	0	
+0	0	0	N	7	0	5	0		5	1	4	0	
+0	0	0	E	7	0	5	0		0	2	9	0	
+0	0	0	E	7	0	5	0		6	3	3	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	T	7	6	3	1	TTT	0	6	9	0	
+0	0	0	T	7	6	3	0		5	7	4	0	
+0	0	0	T	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	A	8	1	3	1	ARP	5	1	4	0	
+0	0	0	R	8	1	3	0		0	2	9	0	
+0	0	0	P	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	E	8	6	3	1	ESO	0	6	9	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	0	0	O	8	6	3	0		6	8	3	0	
+15
+1	ARE	The Who's "Who ___ You"
+4	BDS	What directors sit on: Abbr.
+7	WOP	Doo-___
+8	OBEAH	West Indian sorcery
+10	KTIEALLEY	"Cheers" co-star
+12	OCAT	___ Bell
+13	ISP	AOL or Juno
+14	ETHAN	Author Canin
+16	KAN	It's north of Okla.
+18	ATES	Suffixes with consul
+20	PETTYCASH	Singers Tom + Johnny
+23	SNEES	Olden daggers
+24	TTT	Game-winning cry
+25	ARP	Hans of Dadaism
+26	ESO	Pamplona pronoun
+15
+1	AWK	Parrot's cry
+2	ROTO	Commercial lead-in for Rooter
+3	EPICENTER	Focal point
+4	BBL	OPEC unit: Abbr.
+5	DELINEATE	Sketch
+6	SAES	Requests from an ed.
+8	OATHAYS	Certain feeds for horses
+9	HYP	Under: Prefix
+11	EAT	Pack away
+15	ATC	Flight coordinators: Abbr.
+16	KPS	Some G.I. duties
+17	AENA	Insurance giant
+19	SSTS	Boom makers
+21	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+22	HTO	Water

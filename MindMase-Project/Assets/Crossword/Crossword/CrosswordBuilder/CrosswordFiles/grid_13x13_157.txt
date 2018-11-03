@@ -1,0 +1,233 @@
+grid_13x13_157
+13
+0	1	1	L	0	0	6	1	LEGSIT	0	0	3	1	LOL
+0	1	2	E	0	0	6	0		0	1	3	1	ERI
+0	1	3	G	0	0	6	0		0	2	3	1	GAS
+0	1	4	S	0	0	6	0		0	3	4	1	SCTV
+0	1	5	I	0	0	6	0		0	4	6	1	IHEARD
+0	1	6	T	0	0	6	0		0	5	7	1	TEDIOUS
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	3	0		1	8	4	0	
+0	1	7	A	0	9	3	1	APE	0	9	3	1	AFB
+0	1	8	P	0	9	3	0		0	10	9	1	PILOTLESS
+0	1	9	E	0	9	3	0		0	11	4	1	EEES
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	O	1	0	6	1	ORACHE	0	0	3	0	
+0	0	0	R	1	0	6	0		0	1	3	0	
+0	0	0	A	1	0	6	0		0	2	3	0	
+0	0	0	C	1	0	6	0		0	3	4	0	
+0	0	0	H	1	0	6	0		0	4	6	0	
+0	0	0	E	1	0	6	0		0	5	7	0	
+1	0	0	#	1	7	6	0		2	6	0	0	
+0	1	11	I	1	7	6	1	IFFIER	1	7	3	1	IBE
+0	1	12	F	1	7	6	0		1	8	4	1	FIRN
+0	0	0	F	1	7	6	0		0	9	3	0	
+0	0	0	I	1	7	6	0		0	10	9	0	
+0	0	0	E	1	7	6	0		0	11	4	0	
+0	1	13	R	1	7	6	0		1	12	3	1	RSA
+0	1	14	L	2	0	6	1	LISTED	0	0	3	0	
+0	0	0	I	2	0	6	0		0	1	3	0	
+0	0	0	S	2	0	6	0		0	2	3	0	
+0	0	0	T	2	0	6	0		0	3	4	0	
+0	0	0	E	2	0	6	0		0	4	6	0	
+0	0	0	D	2	0	6	0		0	5	7	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	15	B	2	7	6	1	BIBLES	1	7	3	0	
+0	0	0	I	2	7	6	0		1	8	4	0	
+0	0	0	B	2	7	6	0		0	9	3	0	
+0	0	0	L	2	7	6	0		0	10	9	0	
+0	0	0	E	2	7	6	0		0	11	4	0	
+0	0	0	S	2	7	6	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	6	0		4	2	9	0	
+0	1	16	V	3	3	6	1	VAINER	0	3	4	0	
+0	0	0	A	3	3	6	0		0	4	6	0	
+0	0	0	I	3	3	6	0		0	5	7	0	
+0	1	17	N	3	3	6	0		3	6	7	1	NIPPLES
+0	0	0	E	3	3	6	0		1	7	3	0	
+0	0	0	R	3	3	6	0		1	8	4	0	
+1	0	0	#	3	10	3	0		4	9	4	0	
+0	1	18	O	3	10	3	1	OSA	0	10	9	0	
+0	0	0	S	3	10	3	0		0	11	4	0	
+0	0	0	A	3	10	3	0		1	12	3	0	
+0	1	19	O	4	0	3	1	OAK	4	0	3	1	OBI
+0	1	20	A	4	0	3	0		4	1	4	1	AOKI
+0	1	21	K	4	0	3	0		4	2	9	1	KNOWITALL
+1	0	0	#	4	4	3	0		5	3	4	0	
+0	1	22	R	4	4	3	1	ROI	0	4	6	0	
+0	0	0	O	4	4	3	0		0	5	7	0	
+0	0	0	I	4	4	3	0		3	6	7	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	23	N	4	8	3	1	NWT	1	8	4	0	
+0	1	24	W	4	8	3	0		4	9	4	1	WARD
+0	0	0	T	4	8	3	0		0	10	9	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	B	5	0	7	1	BONEDUP	4	0	3	0	
+0	0	0	O	5	0	7	0		4	1	4	0	
+0	0	0	N	5	0	7	0		4	2	9	0	
+0	1	26	E	5	0	7	0		5	3	4	1	ENOS
+0	0	0	D	5	0	7	0		0	4	6	0	
+0	0	0	U	5	0	7	0		0	5	7	0	
+0	0	0	P	5	0	7	0		3	6	7	0	
+1	0	0	#	5	8	0	0		6	7	7	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	27	A	5	9	3	1	ALG	4	9	4	0	
+0	0	0	L	5	9	3	0		0	10	9	0	
+0	1	28	G	5	9	3	0		5	11	4	1	GLAM
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	I	6	0	4	1	IKON	4	0	3	0	
+0	0	0	K	6	0	4	0		4	1	4	0	
+0	0	0	O	6	0	4	0		4	2	9	0	
+0	0	0	N	6	0	4	0		5	3	4	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	30	S	6	5	3	1	SPN	0	5	7	0	
+0	0	0	P	6	5	3	0		3	6	7	0	
+0	1	31	N	6	5	3	0		6	7	7	1	NATTERS
+1	0	0	#	6	9	4	0		7	8	6	0	
+0	1	32	R	6	9	4	1	RELS	4	9	4	0	
+0	0	0	E	6	9	4	0		0	10	9	0	
+0	0	0	L	6	9	4	0		5	11	4	0	
+0	1	33	S	6	9	4	0		6	12	3	1	STA
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	34	I	7	1	3	1	IWO	4	1	4	0	
+0	0	0	W	7	1	3	0		4	2	9	0	
+0	0	0	O	7	1	3	0		5	3	4	0	
+1	0	0	#	7	5	0	0		8	4	4	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	35	L	7	6	7	1	LANDSAT	3	6	7	0	
+0	0	0	A	7	6	7	0		6	7	7	0	
+0	1	36	N	7	6	7	0		7	8	6	1	NEOSHO
+0	0	0	D	7	6	7	0		4	9	4	0	
+0	0	0	S	7	6	7	0		0	10	9	0	
+0	0	0	A	7	6	7	0		5	11	4	0	
+0	0	0	T	7	6	7	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	37	I	8	2	3	1	ISS	4	2	9	0	
+0	0	0	S	8	2	3	0		5	3	4	0	
+0	1	38	S	8	2	3	0		8	4	4	1	SESS
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	39	E	8	6	3	1	ETE	3	6	7	0	
+0	0	0	T	8	6	3	0		6	7	7	0	
+0	0	0	E	8	6	3	0		7	8	6	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	40	S	8	10	3	1	SMA	0	10	9	0	
+0	0	0	M	8	10	3	0		5	11	4	0	
+0	0	0	A	8	10	3	0		6	12	3	0	
+0	1	41	Y	9	0	3	1	YAT	9	0	3	1	YAW
+0	1	42	A	9	0	3	0		9	1	4	1	AGAS
+0	0	0	T	9	0	3	0		4	2	9	0	
+1	0	0	#	9	4	6	0		10	3	3	0	
+0	1	43	E	9	4	6	1	ELSTON	8	4	4	0	
+0	1	44	L	9	4	6	0		9	5	3	1	LIA
+0	0	0	S	9	4	6	0		3	6	7	0	
+0	0	0	T	9	4	6	0		6	7	7	0	
+0	0	0	O	9	4	6	0		7	8	6	0	
+0	1	45	N	9	4	6	0		9	9	4	1	NPIN
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	A	10	0	6	1	AGASSI	9	0	3	0	
+0	0	0	G	10	0	6	0		9	1	4	0	
+0	0	0	A	10	0	6	0		4	2	9	0	
+0	1	47	S	10	0	6	0		10	3	3	1	SEA
+0	0	0	S	10	0	6	0		8	4	4	0	
+0	0	0	I	10	0	6	0		9	5	3	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	48	E	10	7	6	1	ESPIES	6	7	7	0	
+0	0	0	S	10	7	6	0		7	8	6	0	
+0	0	0	P	10	7	6	0		9	9	4	0	
+0	1	49	I	10	7	6	0		10	10	3	1	INA
+0	1	50	E	10	7	6	0		10	11	3	1	EON
+0	1	51	S	10	7	6	0		10	12	3	1	SST
+0	1	52	W	11	0	6	1	WALESA	9	0	3	0	
+0	0	0	A	11	0	6	0		9	1	4	0	
+0	0	0	L	11	0	6	0		4	2	9	0	
+0	0	0	E	11	0	6	0		10	3	3	0	
+0	0	0	S	11	0	6	0		8	4	4	0	
+0	0	0	A	11	0	6	0		9	5	3	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	53	R	11	7	6	1	RHINOS	6	7	7	0	
+0	0	0	H	11	7	6	0		7	8	6	0	
+0	0	0	I	11	7	6	0		9	9	4	0	
+0	0	0	N	11	7	6	0		10	10	3	0	
+0	0	0	O	11	7	6	0		10	11	3	0	
+0	0	0	S	11	7	6	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	54	S	12	1	3	1	SLA	9	1	4	0	
+0	0	0	L	12	1	3	0		4	2	9	0	
+0	0	0	A	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	6	0		13	6	0	0	
+0	1	55	S	12	7	6	1	SONANT	6	7	7	0	
+0	0	0	O	12	7	6	0		7	8	6	0	
+0	0	0	N	12	7	6	0		9	9	4	0	
+0	0	0	A	12	7	6	0		10	10	3	0	
+0	0	0	N	12	7	6	0		10	11	3	0	
+0	0	0	T	12	7	6	0		10	12	3	0	
+29
+1	LEGSIT	Forgoes a cab, say
+7	APE	Going ___
+10	ORACHE	Spinachlike potherb
+11	IFFIER	Less settled
+14	LISTED	On the Big Board
+15	BIBLES	Cross references?
+16	VAINER	Like Narcissus, and then some
+18	OSA	Mother bear, in M
+19	OAK	___ Park, Ill.
+22	ROI	Louis XIV, par exemple
+23	NWT	Yukon neighbor: Abbr.
+25	BONEDUP	Studied in a hurry
+27	ALG	Afr. nation
+29	IKON	Image: Var.
+30	SPN	"Wheel of Fortune" option
+32	RELS	Genealogical listings: Abbr.
+34	IWO	Pacific battle site, in brief
+35	LANDSAT	Remote-sensing orbiter
+37	ISS	Mag. copy
+39	ETE	Summer in Qu
+40	SMA	Diminutive, in Dundee
+41	YAT	China's Sun ___-sen
+43	ELSTON	Pitcher Don of the 1950's-60's Cubs
+46	AGASSI	1994 U.S. Open winner
+48	ESPIES	Detects
+52	WALESA	Solidarnosc leader
+53	RHINOS	Ones making lots of charges
+54	SLA	Grp. famously involved in bank robberies
+55	SONANT	Making noises
+31
+1	LOL	Chat room chuckle
+2	ERI	Verdi aria "___ tu"
+3	GAS	Neon or oxygen
+4	SCTV	Onetime show for John Candy
+5	IHEARD	"It has come to my attention ..."
+6	TEDIOUS	Hardly exciting
+7	AFB	Langley, for one: Abbr.
+8	PILOTLESS	Flying alone
+9	EEES	Some shoes ... and a feature of this puzzle's theme
+11	IBE	The Everlys' "When Will ___ Loved"
+12	FIRN	Granular snow atop a glacier
+13	RSA	Cape Town's home: Abbr.
+17	NIPPLES	Parts of baby bottles
+19	OBI	"Madame Butterfly" wear
+20	AOKI	Golfer Isao
+21	KNOWITALL	Wisenheimer
+24	WARD	Charge
+26	ENOS	Slaughter of the 1940's-50's Cardinals
+28	GLAM	1970s rock genre
+31	NATTERS	Gabs
+33	STA	Place for a platform: Abbr.
+36	NEOSHO	Missouri town near the George Washington Carver National Monument
+38	SESS	Gen. Assembly event
+41	YAW	Deviate from a direct course
+42	AGAS	Turkish pooh-bahs
+44	LIA	___ Fail, Ireland's coronation stone
+45	NPIN	It's in the back row, right of center
+47	SEA	Pants part
+49	INA	"___ pig's eye!"
+50	EON	Geological stretch
+51	SST	Transatlantic flier, for short

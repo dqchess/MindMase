@@ -1,0 +1,167 @@
+grid_11x11_150
+11
+0	1	1	A	0	0	3	1	AJA	0	0	3	1	AAS
+0	1	2	J	0	0	3	0		0	1	3	1	JCE
+0	1	3	A	0	0	3	0		0	2	11	1	AUTHORMILNE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	T	0	6	3	1	TAS	0	6	4	1	THEL
+0	1	5	A	0	6	3	0		0	7	3	1	ARC
+0	1	6	S	0	6	3	0		0	8	11	1	SOUTHBENDIN
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	5	0	
+0	1	7	A	1	0	4	1	ACUP	0	0	3	0	
+0	0	0	C	1	0	4	0		0	1	3	0	
+0	0	0	U	1	0	4	0		0	2	11	0	
+0	1	8	P	1	0	4	0		1	3	4	1	PAAR
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	9	T	1	5	6	1	THROWS	1	5	9	1	THEMINUTE
+0	0	0	H	1	5	6	0		0	6	4	0	
+0	0	0	R	1	5	6	0		0	7	3	0	
+0	0	0	O	1	5	6	0		0	8	11	0	
+0	1	10	W	1	5	6	0		1	9	6	1	WBREAD
+0	1	11	S	1	5	6	0		1	10	5	1	SAENS
+0	1	12	S	2	0	4	1	SETA	0	0	3	0	
+0	0	0	E	2	0	4	0		0	1	3	0	
+0	0	0	T	2	0	4	0		0	2	11	0	
+0	0	0	A	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	13	H	2	5	6	1	HECUBA	1	5	9	0	
+0	0	0	E	2	5	6	0		0	6	4	0	
+0	0	0	C	2	5	6	0		0	7	3	0	
+0	0	0	U	2	5	6	0		0	8	11	0	
+0	0	0	B	2	5	6	0		1	9	6	0	
+0	0	0	A	2	5	6	0		1	10	5	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	5	0		4	1	6	0	
+0	1	14	H	3	2	5	1	HAMEL	0	2	11	0	
+0	0	0	A	3	2	5	0		1	3	4	0	
+0	1	15	M	3	2	5	0		3	4	3	1	MUG
+0	0	0	E	3	2	5	0		1	5	9	0	
+0	0	0	L	3	2	5	0		0	6	4	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	16	T	3	8	3	1	TRE	0	8	11	0	
+0	0	0	R	3	8	3	0		1	9	6	0	
+0	0	0	E	3	8	3	0		1	10	5	0	
+1	0	0	#	4	1	5	0		5	0	5	0	
+0	1	17	J	4	1	5	1	JORUM	4	1	6	1	JETLAG
+0	0	0	O	4	1	5	0		0	2	11	0	
+0	0	0	R	4	1	5	0		1	3	4	0	
+0	0	0	U	4	1	5	0		3	4	3	0	
+0	0	0	M	4	1	5	0		1	5	9	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	18	H	4	8	3	1	HEN	0	8	11	0	
+0	0	0	E	4	8	3	0		1	9	6	0	
+0	0	0	N	4	8	3	0		1	10	5	0	
+0	1	19	S	5	0	3	1	SER	5	0	5	1	SACHA
+0	0	0	E	5	0	3	0		4	1	6	0	
+0	0	0	R	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	20	G	5	4	3	1	GIA	3	4	3	0	
+0	0	0	I	5	4	3	0		1	5	9	0	
+0	1	21	A	5	4	3	0		5	6	3	1	AUT
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	22	B	5	8	3	1	BAS	0	8	11	0	
+0	0	0	A	5	8	3	0		1	9	6	0	
+0	0	0	S	5	8	3	0		1	10	5	0	
+0	1	23	A	6	0	3	1	ATM	5	0	5	0	
+0	0	0	T	6	0	3	0		4	1	6	0	
+0	0	0	M	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	5	0		7	4	4	0	
+0	1	24	N	6	5	5	1	NUKED	1	5	9	0	
+0	0	0	U	6	5	5	0		5	6	3	0	
+0	1	25	K	6	5	5	0		6	7	4	1	KOOK
+0	0	0	E	6	5	5	0		0	8	11	0	
+0	0	0	D	6	5	5	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	26	C	7	0	3	1	CLI	5	0	5	0	
+0	0	0	L	7	0	3	0		4	1	6	0	
+0	0	0	I	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	5	0		8	3	3	0	
+0	1	27	O	7	4	5	1	OUTON	7	4	4	1	OSTE
+0	0	0	U	7	4	5	0		1	5	9	0	
+0	0	0	T	7	4	5	0		5	6	3	0	
+0	0	0	O	7	4	5	0		6	7	4	0	
+0	0	0	N	7	4	5	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	H	8	0	6	1	HALEST	5	0	5	0	
+0	0	0	A	8	0	6	0		4	1	6	0	
+0	0	0	L	8	0	6	0		0	2	11	0	
+0	1	29	E	8	0	6	0		8	3	3	1	EAR
+0	0	0	S	8	0	6	0		7	4	4	0	
+0	0	0	T	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	30	O	8	7	4	1	ODER	6	7	4	0	
+0	0	0	D	8	7	4	0		0	8	11	0	
+0	1	31	E	8	7	4	0		8	9	3	1	EDT
+0	1	32	R	8	7	4	0		8	10	3	1	RDS
+0	1	33	A	9	0	6	1	AGNATE	5	0	5	0	
+0	0	0	G	9	0	6	0		4	1	6	0	
+0	0	0	N	9	0	6	0		0	2	11	0	
+0	0	0	A	9	0	6	0		8	3	3	0	
+0	0	0	T	9	0	6	0		7	4	4	0	
+0	0	0	E	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	34	K	9	7	4	1	KIDD	6	7	4	0	
+0	0	0	I	9	7	4	0		0	8	11	0	
+0	0	0	D	9	7	4	0		8	9	3	0	
+0	0	0	D	9	7	4	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	E	10	2	3	1	ERE	0	2	11	0	
+0	0	0	R	10	2	3	0		8	3	3	0	
+0	0	0	E	10	2	3	0		7	4	4	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	N	10	8	3	1	NTS	0	8	11	0	
+0	0	0	T	10	8	3	0		8	9	3	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+23
+1	AJA	1977 Steely Dan title track
+4	TAS	Univ. instructors
+7	ACUP	Bra size
+9	THROWS	Purposely loses
+12	SETA	Lead-in to fire, trap or price
+13	HECUBA	Wife of Priam
+14	HAMEL	Actress Veronica of "Hill Street Blues"
+16	TRE	Three, to Amati
+17	JORUM	Large bowl for holding drink
+18	HEN	Nester
+19	SER	Father's speech: Abbr.
+20	GIA	Already, in Italy
+22	BAS	Undergrad degrees: Abbr.
+23	ATM	Banking convenience
+24	NUKED	Zapped
+26	CLI	Second-century year
+27	OUTON	___ a limb
+28	HALEST	In the best shape
+30	ODER	River of Brandenburg
+33	AGNATE	Paternal kinsman
+34	KIDD	William the pirate
+35	ERE	Palindromic conjunction
+36	NTS	Some Windows systems
+19
+1	AAS	"___ in apple"
+2	JCE	"Dubliners" author
+3	AUTHORMILNE	A A
+4	THEL	Liberals
+5	ARC	Go up in the middle
+6	SOUTHBENDIN	Home of Notre Dame
+8	PAAR	Pioneer talk show host
+9	THEMINUTE	What a hip person may be up to
+10	WBREAD	Conventional
+11	SAENS	Composer Camille Saint-___
+15	MUG	Play to the camera
+17	JETLAG	Globetrotter's woe
+19	SACHA	Nickname for Alexander
+21	AUT	Self: Prefix
+25	KOOK	Eccentric
+27	OSTE	Bone: Prefix
+29	EAR	Pink Mr. Potato Head piece
+31	EDT	N.Y.C. summer setting
+32	RDS	Fork providers?: Abbr.

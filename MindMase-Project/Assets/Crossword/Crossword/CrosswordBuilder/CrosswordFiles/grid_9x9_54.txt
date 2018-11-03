@@ -1,0 +1,115 @@
+grid_9x9_54
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	G	0	1	3	1	GAD	0	1	4	1	GOTO
+0	1	2	A	0	1	3	0		0	2	9	1	AUSTRALIA
+0	1	3	D	0	1	3	0		0	3	3	1	DTS
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	R	0	6	3	1	RGS	0	6	9	1	REPOSSESS
+0	1	5	G	0	6	3	0		0	7	4	1	GELT
+0	1	6	S	0	6	3	0		0	8	3	1	SSE
+0	1	7	C	1	0	4	1	COUT	1	0	3	1	CIS
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	U	1	0	4	0		0	2	9	0	
+0	0	0	T	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	8	C	1	5	4	1	CEES	1	5	4	1	CMII
+0	0	0	E	1	5	4	0		0	6	9	0	
+0	0	0	E	1	5	4	0		0	7	4	0	
+0	0	0	S	1	5	4	0		0	8	3	0	
+0	1	9	I	2	0	9	1	ITSSIMPLE	1	0	3	0	
+0	0	0	T	2	0	9	0		0	1	4	0	
+0	0	0	S	2	0	9	0		0	2	9	0	
+0	0	0	S	2	0	9	0		0	3	3	0	
+0	1	10	I	2	0	9	0		2	4	5	1	IRVIN
+0	0	0	M	2	0	9	0		1	5	4	0	
+0	0	0	P	2	0	9	0		0	6	9	0	
+0	0	0	L	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		0	8	3	0	
+0	1	11	S	3	0	3	1	SOT	1	0	3	0	
+0	0	0	O	3	0	3	0		0	1	4	0	
+0	0	0	T	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	R	3	4	4	1	RIOT	2	4	5	0	
+0	0	0	I	3	4	4	0		1	5	4	0	
+0	0	0	O	3	4	4	0		0	6	9	0	
+0	0	0	T	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	13	R	4	2	5	1	RAVIS	0	2	9	0	
+0	1	14	A	4	2	5	0		4	3	4	1	ANTS
+0	0	0	V	4	2	5	0		2	4	5	0	
+0	0	0	I	4	2	5	0		1	5	4	0	
+0	0	0	S	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	L	5	1	4	1	LANI	5	1	4	1	LAVE
+0	0	0	A	5	1	4	0		0	2	9	0	
+0	0	0	N	5	1	4	0		4	3	4	0	
+0	0	0	I	5	1	4	0		2	4	5	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	16	S	5	6	3	1	STS	0	6	9	0	
+0	1	17	T	5	6	3	0		5	7	4	1	TPER
+0	1	18	S	5	6	3	0		5	8	3	1	SAD
+0	1	19	S	6	0	9	1	SALTNPEPA	6	0	3	1	SAR
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	L	6	0	9	0		0	2	9	0	
+0	0	0	T	6	0	9	0		4	3	4	0	
+0	0	0	N	6	0	9	0		2	4	5	0	
+0	1	20	P	6	0	9	0		6	5	3	1	PUT
+0	0	0	E	6	0	9	0		0	6	9	0	
+0	0	0	P	6	0	9	0		5	7	4	0	
+0	0	0	A	6	0	9	0		5	8	3	0	
+0	1	21	A	7	0	4	1	AVIS	6	0	3	0	
+0	0	0	V	7	0	4	0		5	1	4	0	
+0	0	0	I	7	0	4	0		0	2	9	0	
+0	0	0	S	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	22	U	7	5	4	1	USED	6	5	3	0	
+0	0	0	S	7	5	4	0		0	6	9	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	D	7	5	4	0		5	8	3	0	
+0	1	23	R	8	0	3	1	REA	6	0	3	0	
+0	0	0	E	8	0	3	0		5	1	4	0	
+0	0	0	A	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	T	8	5	3	1	TSR	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	R	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	GAD	Wander, with "about"
+4	RGS	They line up between centers and tackles: Abbr.
+7	COUT	Strike
+8	CEES	Cosmetic extremes?
+9	ITSSIMPLE	"No sweat ..."
+11	SOT	W. C. Fields persona
+12	RIOT	Uprising
+13	RAVIS	Shankar and others
+15	LANI	Lawyer/civil-rights activist Guinier
+16	STS	Urban grid: Abbr.
+19	SALTNPEPA	"Let's Talk About Sex" hip-hop group
+21	AVIS	No. 2
+22	USED	___ to be
+23	REA	Stephen of "Stuck," 2007
+24	TSR	Original Dungeons & Dragons co.
+15
+1	GOTO	Common command in Basic programming
+2	AUSTRALIA	Onetime America's Cup champ
+3	DTS	Shaky problem
+4	REPOSSESS	Take back
+5	GELT	Moolah
+6	SSE	Indianapolis-to-Atlanta dir.
+7	CIS	Sue Grafton's "___ for Corpse"
+8	CMII	Year in the reign of Edward the Elder
+10	IRVIN	Hall-of-Famer Michael of the Dallas Cowboys
+14	ANTS	Picnic invaders
+15	LAVE	Bathe
+17	TPER	Formal hat, informally
+18	SAD	Sorry
+19	SAR	Isl. near Corsica
+20	PUT	Stated

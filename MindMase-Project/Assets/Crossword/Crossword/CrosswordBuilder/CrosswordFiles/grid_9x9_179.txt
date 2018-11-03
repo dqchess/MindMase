@@ -1,0 +1,117 @@
+grid_9x9_179
+9
+0	1	1	G	0	0	3	1	GUV	0	0	3	1	GPS
+0	1	2	U	0	0	3	0		0	1	3	1	UEA
+0	1	3	V	0	0	3	0		0	2	9	1	VCANDREWS
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	R	0	5	3	1	RDS	0	5	3	1	RPI
+0	1	5	D	0	5	3	0		0	6	9	1	DECLARANT
+0	1	6	S	0	5	3	0		0	7	5	1	SABER
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	P	1	0	4	1	PECK	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	3	0	
+0	0	0	C	1	0	4	0		0	2	9	0	
+0	1	8	K	1	0	4	0		1	3	4	1	KRFN
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	9	P	1	5	3	1	PEA	0	5	3	0	
+0	0	0	E	1	5	3	0		0	6	9	0	
+0	0	0	A	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	10	S	2	0	4	1	SAAR	0	0	3	0	
+0	0	0	A	2	0	4	0		0	1	3	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	R	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	I	2	5	4	1	ICBM	0	5	3	0	
+0	0	0	C	2	5	4	0		0	6	9	0	
+0	0	0	B	2	5	4	0		0	7	5	0	
+0	1	12	M	2	5	4	0		2	8	3	1	MMM
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	N	3	2	3	1	NFL	0	2	9	0	
+0	0	0	F	3	2	3	0		1	3	4	0	
+0	1	14	L	3	2	3	0		3	4	3	1	LOA
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	L	3	6	3	1	LEM	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	M	3	6	3	0		2	8	3	0	
+0	1	16	D	4	0	9	1	DIDNOHARM	4	0	3	1	DON
+0	1	17	I	4	0	9	0		4	1	5	1	IIIII
+0	0	0	D	4	0	9	0		0	2	9	0	
+0	0	0	N	4	0	9	0		1	3	4	0	
+0	0	0	O	4	0	9	0		3	4	3	0	
+0	1	18	H	4	0	9	0		4	5	4	1	HIYA
+0	0	0	A	4	0	9	0		0	6	9	0	
+0	0	0	R	4	0	9	0		0	7	5	0	
+0	0	0	M	4	0	9	0		2	8	3	0	
+0	1	19	O	5	0	3	1	OIR	4	0	3	0	
+0	0	0	I	5	0	3	0		4	1	5	0	
+0	0	0	R	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	A	5	4	3	1	AIR	3	4	3	0	
+0	0	0	I	5	4	3	0		4	5	4	0	
+0	0	0	R	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	21	N	6	0	4	1	NIER	4	0	3	0	
+0	0	0	I	6	0	4	0		4	1	5	0	
+0	0	0	E	6	0	4	0		0	2	9	0	
+0	1	22	R	6	0	4	0		6	3	3	1	ROI
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	23	Y	6	5	4	1	YAYA	4	5	4	0	
+0	0	0	A	6	5	4	0		0	6	9	0	
+0	1	24	Y	6	5	4	0		6	7	3	1	YTK
+0	1	25	A	6	5	4	0		6	8	3	1	AZT
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	26	I	7	1	3	1	IWO	4	1	5	0	
+0	0	0	W	7	1	3	0		0	2	9	0	
+0	0	0	O	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	A	7	5	4	1	ANTZ	4	5	4	0	
+0	0	0	N	7	5	4	0		0	6	9	0	
+0	0	0	T	7	5	4	0		6	7	3	0	
+0	0	0	Z	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	I	8	1	3	1	ISI	4	1	5	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	I	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	T	8	6	3	1	TKT	0	6	9	0	
+0	0	0	K	8	6	3	0		6	7	3	0	
+0	0	0	T	8	6	3	0		6	8	3	0	
+17
+1	GUV	Informal term of address, in Britain
+4	RDS	Ways to go: Abbr.
+7	PECK	Apple quantity
+9	PEA	Podded plant
+10	SAAR	German industrial region
+11	ICBM	Titan, e.g.
+13	NFL	Patriot's org.
+15	LEM	NASA moon lander
+16	DIDNOHARM	Followed the Hippocratic oath, in a way
+19	OIR	Listen: Sp.
+20	AIR	Space station supply
+21	NIER	Forty-___
+23	YAYA	"Divine Secrets of the ___ Sisterhood"
+26	IWO	W.W. II battle site, for short
+27	ANTZ	1998 animated film
+28	ISI	"Woe ___" (best-selling grammar guide)
+29	TKT	It gets you in the house: Abbr.
+15
+1	GPS	Fam. doctors
+2	UEA	Pupil's place
+3	VCANDREWS	"Midnight Whispers" author
+4	RPI	The Engineers of N.Y.'s Liberty League
+5	DECLARANT	U.S. citizen-to-be
+6	SABER	Cavalry sword
+8	KRFN	Hungry mouths
+12	MMM	"Tasty!"
+14	LOA	"Mahalo nui ___" ("Thank you very much," in Hilo)
+16	DON	Opposite of remove
+17	IIIII	Five, on a gunslinger's gun
+18	HIYA	"Howdy!"
+22	ROI	Massenet's "Le ___ de Lahore"
+24	YTK	This puzzle's theme, phonetically
+25	AZT	Much talked-about antiviral drug, briefly

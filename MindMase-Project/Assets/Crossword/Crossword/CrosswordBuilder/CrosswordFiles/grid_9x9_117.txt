@@ -1,0 +1,115 @@
+grid_9x9_117
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	M	0	1	3	1	MBB	0	1	4	1	MDSE
+0	1	2	B	0	1	3	0		0	2	4	1	BOYS
+0	1	3	B	0	1	3	0		0	3	3	1	BRO
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	S	0	5	3	1	SGT	0	5	5	1	SAWIN
+0	1	5	G	0	5	3	0		0	6	4	1	GTEA
+0	1	6	T	0	5	3	0		0	7	4	1	TERN
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	O	1	0	9	1	ODOREATER	1	0	3	1	OAK
+0	0	0	D	1	0	9	0		0	1	4	0	
+0	0	0	O	1	0	9	0		0	2	4	0	
+0	0	0	R	1	0	9	0		0	3	3	0	
+0	1	8	E	1	0	9	0		1	4	7	1	EURASIA
+0	0	0	A	1	0	9	0		0	5	5	0	
+0	0	0	T	1	0	9	0		0	6	4	0	
+0	0	0	E	1	0	9	0		0	7	4	0	
+0	1	9	R	1	0	9	0		1	8	3	1	RET
+0	1	10	A	2	0	9	1	ASYOUWERE	1	0	3	0	
+0	0	0	S	2	0	9	0		0	1	4	0	
+0	0	0	Y	2	0	9	0		0	2	4	0	
+0	0	0	O	2	0	9	0		0	3	3	0	
+0	0	0	U	2	0	9	0		1	4	7	0	
+0	0	0	W	2	0	9	0		0	5	5	0	
+0	0	0	E	2	0	9	0		0	6	4	0	
+0	0	0	R	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+0	1	11	K	3	0	3	1	KES	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	4	0	
+0	0	0	S	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	12	R	3	4	5	1	RIANT	1	4	7	0	
+0	0	0	I	3	4	5	0		0	5	5	0	
+0	0	0	A	3	4	5	0		0	6	4	0	
+0	0	0	N	3	4	5	0		0	7	4	0	
+0	0	0	T	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	13	W	4	3	3	1	WAN	4	3	5	1	WIELD
+0	0	0	A	4	3	3	0		1	4	7	0	
+0	0	0	N	4	3	3	0		0	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	14	R	5	0	5	1	REGIS	5	0	3	1	RCT
+0	1	15	E	5	0	5	0		5	1	4	1	EURE
+0	1	16	G	5	0	5	0		5	2	4	1	GNAT
+0	0	0	I	5	0	5	0		4	3	5	0	
+0	0	0	S	5	0	5	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	H	5	6	3	1	HED	5	6	4	1	HOAG
+0	1	18	E	5	6	3	0		5	7	4	1	ERLE
+0	1	19	D	5	6	3	0		5	8	3	1	DMA
+0	1	20	C	6	0	9	1	CUNEIFORM	5	0	3	0	
+0	0	0	U	6	0	9	0		5	1	4	0	
+0	0	0	N	6	0	9	0		5	2	4	0	
+0	0	0	E	6	0	9	0		4	3	5	0	
+0	0	0	I	6	0	9	0		1	4	7	0	
+0	1	21	F	6	0	9	0		6	5	3	1	FLU
+0	0	0	O	6	0	9	0		5	6	4	0	
+0	0	0	R	6	0	9	0		5	7	4	0	
+0	0	0	M	6	0	9	0		5	8	3	0	
+0	1	22	T	7	0	9	1	TRALALALA	5	0	3	0	
+0	0	0	R	7	0	9	0		5	1	4	0	
+0	0	0	A	7	0	9	0		5	2	4	0	
+0	0	0	L	7	0	9	0		4	3	5	0	
+0	0	0	A	7	0	9	0		1	4	7	0	
+0	0	0	L	7	0	9	0		6	5	3	0	
+0	0	0	A	7	0	9	0		5	6	4	0	
+0	0	0	L	7	0	9	0		5	7	4	0	
+0	0	0	A	7	0	9	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	23	E	8	1	3	1	ETD	5	1	4	0	
+0	0	0	T	8	1	3	0		5	2	4	0	
+0	0	0	D	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	24	U	8	5	3	1	UGE	6	5	3	0	
+0	0	0	G	8	5	3	0		5	6	4	0	
+0	0	0	E	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+13
+1	MBB	Comic
+4	SGT	___ Friday
+7	ODOREATER	Shoe insert
+10	ASYOUWERE	Captain's command
+11	KES	Evelyn who played Scarlett's sister
+12	RIANT	Cheery
+13	WAN	Lacking color
+14	REGIS	TV host Philbin
+17	HED	"I knew a man Bojangles and ___ dance for you ..."
+20	CUNEIFORM	Writing with wedges and such
+22	TRALALALA	Skipper's run
+23	ETD	Airport abbr.
+24	UGE	Treatment
+17
+1	MDSE	Invoice itemization: Abbr.
+2	BOYS	Word before and after "will be"
+3	BRO	"Don't tase me, ___!"
+4	SAWIN	Admitted politely
+5	GTEA	Lack of vigor
+6	TERN	Graceful aquatic bird
+7	OAK	___-leaf cluster
+8	EURASIA	It spans 12 time zones
+9	RET	Out of service?: Abbr.
+13	WIELD	Exert, as influence
+14	RCT	Sales slip: Abbr.
+15	EURE	French river or department
+16	GNAT	Strain at a ___
+17	HOAG	Romance novelist Tami
+18	ERLE	Della's creator
+19	DMA	Basic teaching
+21	FLU	Asian ___

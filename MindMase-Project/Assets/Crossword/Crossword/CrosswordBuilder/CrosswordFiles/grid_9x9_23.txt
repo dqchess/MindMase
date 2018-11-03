@@ -1,0 +1,115 @@
+grid_9x9_23
+9
+0	1	1	M	0	0	3	1	MAP	0	0	3	1	MFG
+0	1	2	A	0	0	3	0		0	1	3	1	AAA
+0	1	3	P	0	0	3	0		0	2	3	1	PNE
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	G	0	6	3	1	GNP	0	6	5	1	GUARE
+0	1	5	N	0	6	3	0		0	7	5	1	NAMUR
+0	1	6	P	0	6	3	0		0	8	3	1	PLA
+0	1	7	F	1	0	5	1	FANGS	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	3	0	
+0	0	0	N	1	0	5	0		0	2	3	0	
+0	1	8	G	1	0	5	0		1	3	5	1	GLUES
+0	1	9	S	1	0	5	0		1	4	7	1	SSHAPED
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	U	1	6	3	1	UAL	0	6	5	0	
+0	0	0	A	1	6	3	0		0	7	5	0	
+0	0	0	L	1	6	3	0		0	8	3	0	
+0	1	11	G	2	0	5	1	GAELS	0	0	3	0	
+0	0	0	A	2	0	5	0		0	1	3	0	
+0	0	0	E	2	0	5	0		0	2	3	0	
+0	0	0	L	2	0	5	0		1	3	5	0	
+0	0	0	S	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	A	2	6	3	1	AMA	0	6	5	0	
+0	0	0	M	2	6	3	0		0	7	5	0	
+0	0	0	A	2	6	3	0		0	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	5	0		4	2	5	0	
+0	1	13	U	3	3	5	1	UHURU	1	3	5	0	
+0	0	0	H	3	3	5	0		1	4	7	0	
+0	1	14	U	3	3	5	0		3	5	5	1	UTAHN
+0	0	0	R	3	3	5	0		0	6	5	0	
+0	0	0	U	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	15	T	4	1	7	1	THEATER	4	1	5	1	TVSET
+0	1	16	H	4	1	7	0		4	2	5	1	HELPS
+0	0	0	E	4	1	7	0		1	3	5	0	
+0	0	0	A	4	1	7	0		1	4	7	0	
+0	0	0	T	4	1	7	0		3	5	5	0	
+0	0	0	E	4	1	7	0		0	6	5	0	
+0	0	0	R	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	17	V	5	1	5	1	VESPA	4	1	5	0	
+0	0	0	E	5	1	5	0		4	2	5	0	
+0	0	0	S	5	1	5	0		1	3	5	0	
+0	0	0	P	5	1	5	0		1	4	7	0	
+0	0	0	A	5	1	5	0		3	5	5	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	D	6	0	3	1	DSL	6	0	3	1	DRS
+0	0	0	S	6	0	3	0		4	1	5	0	
+0	0	0	L	6	0	3	0		4	2	5	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	19	E	6	4	5	1	EHUDS	1	4	7	0	
+0	0	0	H	6	4	5	0		3	5	5	0	
+0	1	20	U	6	4	5	0		6	6	3	1	UUU
+0	1	21	D	6	4	5	0		6	7	3	1	DOG
+0	1	22	S	6	4	5	0		6	8	3	1	SPH
+0	1	23	R	7	0	3	1	REP	6	0	3	0	
+0	0	0	E	7	0	3	0		4	1	5	0	
+0	0	0	P	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	D	7	4	5	1	DNUOP	1	4	7	0	
+0	0	0	N	7	4	5	0		3	5	5	0	
+0	0	0	U	7	4	5	0		6	6	3	0	
+0	0	0	O	7	4	5	0		6	7	3	0	
+0	0	0	P	7	4	5	0		6	8	3	0	
+0	1	25	S	8	0	3	1	STS	6	0	3	0	
+0	0	0	T	8	0	3	0		4	1	5	0	
+0	0	0	S	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	U	8	6	3	1	UGH	6	6	3	0	
+0	0	0	G	8	6	3	0		6	7	3	0	
+0	0	0	H	8	6	3	0		6	8	3	0	
+15
+1	MAP	Item in an airline magazine
+4	GNP	Drained
+7	FANGS	Part of many a Halloween outfit
+10	UAL	American rival: Abbr.
+11	GAELS	Iona College athletes
+12	AMA	Drs.' group
+13	UHURU	Black ___ (reggae group)
+15	THEATER	It may have a big bill
+17	VESPA	Line of motor scooters
+18	DSL	Alternative to dial-up
+19	EHUDS	Israel's Barak and Olmert
+23	REP	Handle, in a way
+24	DNUOP	Canine shelter
+25	STS	City grid: Abbr.
+26	UGH	Thumbs-down response
+15
+1	MFG	Abbr. before "Co." in some company names
+2	AAA	They can help you get started: Abbr.
+3	PNE	Log cabin material, maybe
+4	GUARE	"A Free Man of Color" playwright
+5	NAMUR	Belgian city or province
+6	PLA	Mao's group: Abbr.
+8	GLUES	Affixes in a scrapbook, say
+9	SSHAPED	Like some hooks
+14	UTAHN	Salt Lake City native
+15	TVSET	Soap box?
+16	HELPS	Chips in
+18	DRS	Physical conductors: Abbr.
+20	UUU	Familiar Olympics chant
+21	DOG	It's found in a pound
+22	SPH	Geom. figure

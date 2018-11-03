@@ -1,0 +1,167 @@
+grid_11x11_54
+11
+1	0	0	#	0	1	5	0		1	0	3	0	
+0	1	1	K	0	1	5	1	KENAI	0	1	5	1	KEPIS
+0	1	2	E	0	1	5	0		0	2	5	1	ETONS
+0	1	3	N	0	1	5	0		0	3	3	1	NHL
+0	1	4	A	0	1	5	0		0	4	3	1	AOL
+0	1	5	I	0	1	5	0		0	5	11	1	IDOLWORSHIP
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	6	C	0	8	3	1	CRI	0	8	5	1	CAROM
+0	1	7	R	0	8	3	0		0	9	5	1	RAWLS
+0	1	8	I	0	8	3	0		0	10	4	1	IRRS
+0	1	9	M	1	0	7	1	METHODS	1	0	3	1	MAC
+0	0	0	E	1	0	7	0		0	1	5	0	
+0	0	0	T	1	0	7	0		0	2	5	0	
+0	0	0	H	1	0	7	0		0	3	3	0	
+0	0	0	O	1	0	7	0		0	4	3	0	
+0	0	0	D	1	0	7	0		0	5	11	0	
+0	1	10	S	1	0	7	0		1	6	5	1	SSTAR
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	11	A	1	8	3	1	AAR	0	8	5	0	
+0	0	0	A	1	8	3	0		0	9	5	0	
+0	0	0	R	1	8	3	0		0	10	4	0	
+0	1	12	A	2	0	7	1	APOLLOS	1	0	3	0	
+0	0	0	P	2	0	7	0		0	1	5	0	
+0	0	0	O	2	0	7	0		0	2	5	0	
+0	0	0	L	2	0	7	0		0	3	3	0	
+0	0	0	L	2	0	7	0		0	4	3	0	
+0	0	0	O	2	0	7	0		0	5	11	0	
+0	0	0	S	2	0	7	0		1	6	5	0	
+1	0	0	#	2	8	3	0		3	7	4	0	
+0	1	13	R	2	8	3	1	RWR	0	8	5	0	
+0	0	0	W	2	8	3	0		0	9	5	0	
+0	0	0	R	2	8	3	0		0	10	4	0	
+0	1	14	C	3	0	3	1	CIN	1	0	3	0	
+0	0	0	I	3	0	3	0		0	1	5	0	
+0	0	0	N	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	0	0		4	3	4	0	
+1	0	0	#	3	5	6	0		4	4	0	0	
+0	1	15	L	3	5	6	1	LTCOLS	0	5	11	0	
+0	0	0	T	3	5	6	0		1	6	5	0	
+0	1	16	C	3	5	6	0		3	7	4	1	CRTS
+0	0	0	O	3	5	6	0		0	8	5	0	
+0	0	0	L	3	5	6	0		0	9	5	0	
+0	0	0	S	3	5	6	0		0	10	4	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	S	4	1	3	1	SSI	0	1	5	0	
+0	0	0	S	4	1	3	0		0	2	5	0	
+0	1	18	I	4	1	3	0		4	3	4	1	INSP
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	19	W	4	5	5	1	WARMS	0	5	11	0	
+0	0	0	A	4	5	5	0		1	6	5	0	
+0	0	0	R	4	5	5	0		3	7	4	0	
+0	0	0	M	4	5	5	0		0	8	5	0	
+0	0	0	S	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	20	N	5	3	5	1	NOORT	4	3	4	0	
+0	1	21	O	5	3	5	0		5	4	5	1	OUTTS
+0	0	0	O	5	3	5	0		0	5	11	0	
+0	0	0	R	5	3	5	0		1	6	5	0	
+0	0	0	T	5	3	5	0		3	7	4	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	4	0	
+0	1	22	M	6	1	5	1	MASUR	6	1	5	1	MORON
+0	1	23	A	6	1	5	0		6	2	5	1	AORTA
+0	0	0	S	6	1	5	0		4	3	4	0	
+0	0	0	U	6	1	5	0		5	4	5	0	
+0	0	0	R	6	1	5	0		0	5	11	0	
+1	0	0	#	6	7	3	0		7	6	0	0	
+0	1	24	S	6	7	3	1	SRO	3	7	4	0	
+0	1	25	R	6	7	3	0		6	8	5	1	RUBLE
+0	1	26	O	6	7	3	0		6	9	5	1	OLEOS
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	27	C	7	0	6	1	COOPTS	7	0	4	1	CECE
+0	0	0	O	7	0	6	0		6	1	5	0	
+0	0	0	O	7	0	6	0		6	2	5	0	
+0	0	0	P	7	0	6	0		4	3	4	0	
+0	0	0	T	7	0	6	0		5	4	5	0	
+0	0	0	S	7	0	6	0		0	5	11	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	28	U	7	8	3	1	ULU	6	8	5	0	
+0	0	0	L	7	8	3	0		6	9	5	0	
+0	1	29	U	7	8	3	0		7	10	3	1	URN
+0	1	30	E	8	0	3	1	ERR	7	0	4	0	
+0	0	0	R	8	0	3	0		6	1	5	0	
+0	0	0	R	8	0	3	0		6	2	5	0	
+1	0	0	#	8	4	7	0		9	3	0	0	
+0	1	31	T	8	4	7	1	THURBER	5	4	5	0	
+0	0	0	H	8	4	7	0		0	5	11	0	
+0	1	32	U	8	4	7	0		8	6	3	1	UMA
+0	1	33	R	8	4	7	0		8	7	3	1	RPT
+0	0	0	B	8	4	7	0		6	8	5	0	
+0	0	0	E	8	4	7	0		6	9	5	0	
+0	0	0	R	8	4	7	0		7	10	3	0	
+0	1	34	C	9	0	3	1	COT	7	0	4	0	
+0	0	0	O	9	0	3	0		6	1	5	0	
+0	0	0	T	9	0	3	0		6	2	5	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	35	S	9	4	7	1	SIMPLON	5	4	5	0	
+0	0	0	I	9	4	7	0		0	5	11	0	
+0	0	0	M	9	4	7	0		8	6	3	0	
+0	0	0	P	9	4	7	0		8	7	3	0	
+0	0	0	L	9	4	7	0		6	8	5	0	
+0	0	0	O	9	4	7	0		6	9	5	0	
+0	0	0	N	9	4	7	0		7	10	3	0	
+0	1	36	E	10	0	3	1	ENA	7	0	4	0	
+0	0	0	N	10	0	3	0		6	1	5	0	
+0	0	0	A	10	0	3	0		6	2	5	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	37	P	10	5	5	1	PATES	0	5	11	0	
+0	0	0	A	10	5	5	0		8	6	3	0	
+0	0	0	T	10	5	5	0		8	7	3	0	
+0	0	0	E	10	5	5	0		6	8	5	0	
+0	0	0	S	10	5	5	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	KENAI	Alaskan peninsula where Seward is located
+6	CRI	___ du coeur
+9	METHODS	Techniques
+11	AAR	River to the Rhine
+12	APOLLOS	Handsome young men
+13	RWR	Presidential inits.
+14	CIN	The Reds, on scoreboards
+15	LTCOLS	Maj. superiors
+17	SSI	Fed. stipend
+19	WARMS	Loosens (up)
+20	NOORT	Flemish painter Adam van ___ (teacher of Rubens)
+22	MASUR	Conductor Kurt
+24	SRO	Like a hit B'way show
+27	COOPTS	Takes as one's own
+28	ULU	Eskimo knife
+30	ERR	Foozle
+31	THURBER	"Is Sex Necessary?" author
+34	COT	Motel extra
+35	SIMPLON	Noted alpine tunnel
+36	ENA	Old Spanish queen
+37	PATES	Some spreads
+21
+1	KEPIS	French military wear
+2	ETONS	Wide collars
+3	NHL	Vezina Trophy org.
+4	AOL	Co. in a 2001 merger
+5	IDOLWORSHIP	Veneration of a cult image
+6	CAROM	Kind of shot
+7	RAWLS	R&B singer Lou
+8	IRRS	Clothing store bargain fodder: Abbr.
+9	MAC	"Buddy"
+10	SSTAR	Astronomical red giant
+16	CRTS	Some displays, briefly
+18	INSP	P.D. figure
+21	OUTTS	Beats in a pie contest?
+22	MORON	Lamebrain
+23	AORTA	Feeder of the body's organs
+25	RUBLE	Russian mint product
+26	OLEOS	They may be found in tubs
+27	CECE	Gospel singer Winans
+29	URN	Gravesite sight
+32	UMA	Ethan's co-star in "Gattaca," 1997
+33	RPT	Sch. assignment

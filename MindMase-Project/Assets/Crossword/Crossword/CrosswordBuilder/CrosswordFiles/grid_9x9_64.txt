@@ -1,0 +1,115 @@
+grid_9x9_64
+9
+0	1	1	W	0	0	3	1	WVU	0	0	4	1	WILY
+0	1	2	V	0	0	3	0		0	1	5	1	VADER
+0	1	3	U	0	0	3	0		0	2	9	1	UNREALITY
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	7	0	
+0	1	4	A	0	5	4	1	ASCH	0	5	5	1	AIRTO
+0	1	5	S	0	5	4	0		0	6	9	1	SNAILMAIL
+0	1	6	C	0	5	4	0		0	7	3	1	CGS
+0	1	7	H	0	5	4	0		0	8	3	1	HOE
+0	1	8	I	1	0	3	1	IAN	0	0	4	0	
+0	0	0	A	1	0	3	0		0	1	5	0	
+0	0	0	N	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	9	D	1	4	5	1	DINGO	1	4	7	1	DOGDAYS
+0	0	0	I	1	4	5	0		0	5	5	0	
+0	0	0	N	1	4	5	0		0	6	9	0	
+0	0	0	G	1	4	5	0		0	7	3	0	
+0	0	0	O	1	4	5	0		0	8	3	0	
+0	1	10	L	2	0	3	1	LDR	0	0	4	0	
+0	0	0	D	2	0	3	0		0	1	5	0	
+0	0	0	R	2	0	3	0		0	2	9	0	
+1	0	0	#	2	4	5	0		3	3	0	0	
+0	1	11	O	2	4	5	1	ORASE	1	4	7	0	
+0	0	0	R	2	4	5	0		0	5	5	0	
+0	0	0	A	2	4	5	0		0	6	9	0	
+0	0	0	S	2	4	5	0		0	7	3	0	
+0	0	0	E	2	4	5	0		0	8	3	0	
+0	1	12	Y	3	0	3	1	YEE	0	0	4	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	E	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	5	0	
+0	1	13	G	3	4	3	1	GTI	1	4	7	0	
+0	0	0	T	3	4	3	0		0	5	5	0	
+0	0	0	I	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	R	4	1	7	1	RAGDOLL	0	1	5	0	
+0	0	0	A	4	1	7	0		0	2	9	0	
+0	1	15	G	4	1	7	0		4	3	5	1	GANGS
+0	0	0	D	4	1	7	0		1	4	7	0	
+0	0	0	O	4	1	7	0		0	5	5	0	
+0	0	0	L	4	1	7	0		0	6	9	0	
+0	1	16	L	4	1	7	0		4	7	5	1	LEACH
+1	0	0	#	4	9	0	0		5	8	4	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	L	5	2	3	1	LAA	0	2	9	0	
+0	0	0	A	5	2	3	0		4	3	5	0	
+0	0	0	A	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	0	0	
+0	1	18	M	5	6	3	1	MES	0	6	9	0	
+0	0	0	E	5	6	3	0		4	7	5	0	
+0	1	19	S	5	6	3	0		5	8	4	1	SUEZ
+0	1	20	B	6	0	5	1	BRINY	6	0	3	1	BOD
+0	1	21	R	6	0	5	0		6	1	3	1	RUR
+0	0	0	I	6	0	5	0		0	2	9	0	
+0	0	0	N	6	0	5	0		4	3	5	0	
+0	0	0	Y	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	22	A	6	6	3	1	AAU	0	6	9	0	
+0	0	0	A	6	6	3	0		4	7	5	0	
+0	0	0	U	6	6	3	0		5	8	4	0	
+0	1	23	O	7	0	5	1	OUTGS	6	0	3	0	
+0	0	0	U	7	0	5	0		6	1	3	0	
+0	0	0	T	7	0	5	0		0	2	9	0	
+0	0	0	G	7	0	5	0		4	3	5	0	
+0	0	0	S	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	I	7	6	3	1	ICE	0	6	9	0	
+0	0	0	C	7	6	3	0		4	7	5	0	
+0	0	0	E	7	6	3	0		5	8	4	0	
+0	1	25	D	8	0	4	1	DRYS	6	0	3	0	
+0	0	0	R	8	0	4	0		6	1	3	0	
+0	0	0	Y	8	0	4	0		0	2	9	0	
+0	0	0	S	8	0	4	0		4	3	5	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	L	8	6	3	1	LHZ	0	6	9	0	
+0	0	0	H	8	6	3	0		4	7	5	0	
+0	0	0	Z	8	6	3	0		5	8	4	0	
+17
+1	WVU	Big East Conf. member
+4	ASCH	"Moses" novelist
+8	IAN	Ziering of "90210"
+9	DINGO	Coward, in Aussie slang
+10	LDR	Pres., e.g.
+11	ORASE	First part of psychosexual development
+12	YEE	"___-haw!" (western rider's cry)
+13	GTI	Popular Volkswagen model
+14	RAGDOLL	Ann or Andy
+17	LAA	"___ note to follow ..."
+18	MES	Enero, e.g.
+20	BRINY	Salty
+22	AAU	Sports org. for nonprofessionals
+23	OUTGS	Picnics, e.g.
+24	ICE	Winter driving hazard
+25	DRYS	Temperance advocates
+26	LHZ	Young fellow
+13
+1	WILY	Cunning
+2	VADER	Skywalker foe
+3	UNREALITY	Figment of the imagination
+4	AIRTO	___-ground missile
+5	SNAILMAIL	Communication means for computer-phobes
+6	CGS	Like a system of scientific meas.
+7	HOE	Something groundbreaking?
+9	DOGDAYS	Summer time
+15	GANGS	The Sharks and the Jets, e.g.
+16	LEACH	Percolate
+19	SUEZ	Red Sea port
+20	BOD	Chassis
+21	RUR	Capek drama

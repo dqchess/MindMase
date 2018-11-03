@@ -1,0 +1,169 @@
+grid_11x11_7
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	U	0	1	3	1	UTO	0	1	5	1	UZBEK
+0	1	2	T	0	1	3	0		0	2	5	1	TOEIN
+0	1	3	O	0	1	3	0		0	3	3	1	ODA
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	N	0	7	3	1	NMI	0	7	3	1	NEA
+0	1	5	M	0	7	3	0		0	8	5	1	MEDOC
+0	1	6	I	0	7	3	0		0	9	5	1	IRENE
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	A	1	0	6	1	AZODYE	1	0	3	1	AAR
+0	0	0	Z	1	0	6	0		0	1	5	0	
+0	0	0	O	1	0	6	0		0	2	5	0	
+0	0	0	D	1	0	6	0		0	3	3	0	
+0	1	8	Y	1	0	6	0		1	4	3	1	YRS
+0	1	9	E	1	0	6	0		1	5	9	1	ELEVATION
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	10	E	1	7	4	1	EERS	0	7	3	0	
+0	0	0	E	1	7	4	0		0	8	5	0	
+0	0	0	R	1	7	4	0		0	9	5	0	
+0	1	11	S	1	7	4	0		1	10	3	1	SRS
+0	1	12	A	2	0	11	1	ABEARLEADER	1	0	3	0	
+0	0	0	B	2	0	11	0		0	1	5	0	
+0	0	0	E	2	0	11	0		0	2	5	0	
+0	0	0	A	2	0	11	0		0	3	3	0	
+0	0	0	R	2	0	11	0		1	4	3	0	
+0	0	0	L	2	0	11	0		1	5	9	0	
+0	1	13	E	2	0	11	0		2	6	4	1	EDOM
+0	0	0	A	2	0	11	0		0	7	3	0	
+0	0	0	D	2	0	11	0		0	8	5	0	
+0	0	0	E	2	0	11	0		0	9	5	0	
+0	0	0	R	2	0	11	0		1	10	3	0	
+0	1	14	R	3	0	3	1	REI	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	I	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	15	S	3	4	3	1	SED	1	4	3	0	
+0	0	0	E	3	4	3	0		1	5	9	0	
+0	0	0	D	3	4	3	0		2	6	4	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	O	3	8	3	1	ONS	0	8	5	0	
+0	0	0	N	3	8	3	0		0	9	5	0	
+0	0	0	S	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	K	4	1	3	1	KNT	0	1	5	0	
+0	0	0	N	4	1	3	0		0	2	5	0	
+0	1	18	T	4	1	3	0		4	3	3	1	TUV
+1	0	0	#	4	5	5	0		5	4	4	0	
+0	1	19	V	4	5	5	1	VOICE	1	5	9	0	
+0	0	0	O	4	5	5	0		2	6	4	0	
+0	1	20	I	4	5	5	0		4	7	3	1	IIS
+0	0	0	C	4	5	5	0		0	8	5	0	
+0	0	0	E	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	21	U	5	3	5	1	UMAMI	4	3	3	0	
+0	1	22	M	5	3	5	0		5	4	4	1	MEDS
+0	0	0	A	5	3	5	0		1	5	9	0	
+0	0	0	M	5	3	5	0		2	6	4	0	
+0	0	0	I	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	23	A	6	1	5	1	AMVET	6	1	5	1	ASPCA
+0	1	24	M	6	1	5	0		6	2	5	1	MXOUT
+0	0	0	V	6	1	5	0		4	3	3	0	
+0	0	0	E	6	1	5	0		5	4	4	0	
+0	0	0	T	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	25	S	6	7	3	1	SIG	4	7	3	0	
+0	1	26	I	6	7	3	0		6	8	5	1	INDUS
+0	1	27	G	6	7	3	0		6	9	5	1	GEIST
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	28	U	7	0	3	1	USX	7	0	3	1	USD
+0	0	0	S	7	0	3	0		6	1	5	0	
+0	0	0	X	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	29	D	7	4	3	1	DIU	5	4	4	0	
+0	0	0	I	7	4	3	0		1	5	9	0	
+0	1	30	U	7	4	3	0		7	6	3	1	UNO
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	31	N	7	8	3	1	NEN	6	8	5	0	
+0	0	0	E	7	8	3	0		6	9	5	0	
+0	1	32	N	7	8	3	0		7	10	3	1	NEH
+0	1	33	S	8	0	11	1	SPOTSONADIE	7	0	3	0	
+0	0	0	P	8	0	11	0		6	1	5	0	
+0	0	0	O	8	0	11	0		6	2	5	0	
+0	1	34	T	8	0	11	0		8	3	3	1	TPS
+0	0	0	S	8	0	11	0		5	4	4	0	
+0	0	0	O	8	0	11	0		1	5	9	0	
+0	0	0	N	8	0	11	0		7	6	3	0	
+0	1	35	A	8	0	11	0		8	7	3	1	ARA
+0	0	0	D	8	0	11	0		6	8	5	0	
+0	0	0	I	8	0	11	0		6	9	5	0	
+0	0	0	E	8	0	11	0		7	10	3	0	
+0	1	36	D	9	0	4	1	DCUP	7	0	3	0	
+0	0	0	C	9	0	4	0		6	1	5	0	
+0	0	0	U	9	0	4	0		6	2	5	0	
+0	0	0	P	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	37	N	9	5	6	1	NORUSH	1	5	9	0	
+0	0	0	O	9	5	6	0		7	6	3	0	
+0	0	0	R	9	5	6	0		8	7	3	0	
+0	0	0	U	9	5	6	0		6	8	5	0	
+0	0	0	S	9	5	6	0		6	9	5	0	
+0	0	0	H	9	5	6	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	38	A	10	1	3	1	ATS	6	1	5	0	
+0	0	0	T	10	1	3	0		6	2	5	0	
+0	0	0	S	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	39	A	10	7	3	1	AST	8	7	3	0	
+0	0	0	S	10	7	3	0		6	8	5	0	
+0	0	0	T	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	UTO	___-Aztecan languages
+4	NMI	It indicates a void in some govt. records
+7	AZODYE	Chemical coloring
+10	EERS	Suffixes with ballad and command
+12	ABEARLEADER	Mike Ditka, e.g.?
+14	REI	King, in Portuguese
+15	SED	But, to Brutus
+16	ONS	Turn-___ (thrills)
+17	KNT	Old Eng. title
+19	VOICE	Alto or soprano
+21	UMAMI	Proposed "fifth taste," which means "savory" in Japanese
+23	AMVET	W.W. II-era G.I., e.g.
+25	SIG	Messina Mr.
+28	USX	Fortune 500 steelmaker
+29	DIU	Island off India's coast
+31	NEN	Pitcher Robb ___
+33	SPOTSONADIE	Pips
+36	DCUP	Bra specification
+37	NORUSH	"Take your time"
+38	ATS	Symbols like @
+39	AST	Nova Scotia clock setting: Abbr.
+23
+1	UZBEK	Language spoken in Tashkent
+2	TOEIN	Front wheel alignment
+3	ODA	___ Mae (Whoopi's "Ghost" role)
+4	NEA	Union with 3.2 mil. members
+5	MEDOC	Bordeaux variety
+6	IRENE	Destructive 1999 Florida hurricane
+7	AAR	Rhine tributary
+8	YRS	'07, '08 and '09
+9	ELEVATION	One mile, for Denver
+11	SRS	Some S.A.T. takers
+13	EDOM	Esau's descendants' land
+18	TUV	8 on a phone
+20	IIS	"___ for Innocent" (Grafton novel)
+22	MEDS	Rx items
+23	ASPCA	Org. that funds shelters
+24	MXOUT	Charge to the limit
+26	INDUS	Pakistani river
+27	GEIST	Zeit or polter follower
+28	USD	Currency shop abbr.
+30	UNO	Crazy eights cousin
+32	NEH	Old Testament book: Abbr.
+34	TPS	Festoons with Charmin, informally
+35	ARA	Football's Parseghian

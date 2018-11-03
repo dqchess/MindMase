@@ -1,0 +1,167 @@
+grid_11x11_32
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	6	0	
+1	0	0	#	0	3	3	0		1	2	10	0	
+0	1	1	V	0	3	3	1	VIG	0	3	5	1	VERVE
+0	1	2	I	0	3	3	0		0	4	6	1	IBISES
+0	1	3	G	0	3	3	0		0	5	3	1	GIA
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	D	0	8	3	1	DEW	0	8	10	1	DISSIDENTS
+0	1	5	E	0	8	3	0		0	9	3	1	EST
+0	1	6	W	0	8	3	0		0	10	3	1	WAS
+1	0	0	#	1	1	6	0		2	0	0	0	
+0	1	7	T	1	1	6	1	THEBIT	1	1	6	1	TALCUM
+0	1	8	H	1	1	6	0		1	2	10	1	HEARTSHAPE
+0	0	0	E	1	1	6	0		0	3	5	0	
+0	0	0	B	1	1	6	0		0	4	6	0	
+0	0	0	I	1	1	6	0		0	5	3	0	
+0	1	9	T	1	1	6	0		1	6	3	1	TLC
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	10	I	1	8	3	1	ISA	0	8	10	0	
+0	0	0	S	1	8	3	0		0	9	3	0	
+0	0	0	A	1	8	3	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	3	0	
+0	1	11	A	2	1	10	1	AERIALISTS	1	1	6	0	
+0	0	0	E	2	1	10	0		1	2	10	0	
+0	0	0	R	2	1	10	0		0	3	5	0	
+0	0	0	I	2	1	10	0		0	4	6	0	
+0	0	0	A	2	1	10	0		0	5	3	0	
+0	0	0	L	2	1	10	0		1	6	3	0	
+0	1	12	I	2	1	10	0		2	7	3	1	ITA
+0	0	0	S	2	1	10	0		0	8	10	0	
+0	0	0	T	2	1	10	0		0	9	3	0	
+0	0	0	S	2	1	10	0		0	10	3	0	
+0	1	13	S	3	0	5	1	SLAVS	3	0	3	1	SSH
+0	0	0	L	3	0	5	0		1	1	6	0	
+0	0	0	A	3	0	5	0		1	2	10	0	
+0	0	0	V	3	0	5	0		0	3	5	0	
+0	0	0	S	3	0	5	0		0	4	6	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	C	3	6	3	1	CTS	1	6	3	0	
+0	0	0	T	3	6	3	0		2	7	3	0	
+0	0	0	S	3	6	3	0		0	8	10	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	S	4	0	6	1	SCREED	3	0	3	0	
+0	0	0	C	4	0	6	0		1	1	6	0	
+0	0	0	R	4	0	6	0		1	2	10	0	
+0	0	0	E	4	0	6	0		0	3	5	0	
+0	0	0	E	4	0	6	0		0	4	6	0	
+0	1	16	D	4	0	6	0		4	5	3	1	DAI
+1	0	0	#	4	7	3	0		5	6	6	0	
+0	1	17	A	4	7	3	1	AIT	2	7	3	0	
+0	0	0	I	4	7	3	0		0	8	10	0	
+0	1	18	T	4	7	3	0		4	9	6	1	TESTEE
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	19	H	5	0	3	1	HUT	3	0	3	0	
+0	0	0	U	5	0	3	0		1	1	6	0	
+0	0	0	T	5	0	3	0		1	2	10	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	S	5	4	3	1	SAW	0	4	6	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	1	21	W	5	4	3	0		5	6	6	1	WOMBAT
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	D	5	8	3	1	DES	0	8	10	0	
+0	0	0	E	5	8	3	0		4	9	6	0	
+0	1	23	S	5	8	3	0		5	10	3	1	SOY
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	24	M	6	1	3	1	MSF	1	1	6	0	
+0	0	0	S	6	1	3	0		1	2	10	0	
+0	1	25	F	6	1	3	0		6	3	3	1	FCC
+1	0	0	#	6	5	6	0		7	4	3	0	
+0	1	26	I	6	5	6	1	IONESO	4	5	3	0	
+0	0	0	O	6	5	6	0		5	6	6	0	
+0	1	27	N	6	5	6	0		6	7	5	1	NOAIR
+0	0	0	E	6	5	6	0		0	8	10	0	
+0	0	0	S	6	5	6	0		4	9	6	0	
+0	0	0	O	6	5	6	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	28	H	7	2	3	1	HCE	1	2	10	0	
+0	0	0	C	7	2	3	0		6	3	3	0	
+0	1	29	E	7	2	3	0		7	4	3	1	EEL
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	30	M	7	6	5	1	MONTY	5	6	6	0	
+0	0	0	O	7	6	5	0		6	7	5	0	
+0	0	0	N	7	6	5	0		0	8	10	0	
+0	0	0	T	7	6	5	0		4	9	6	0	
+0	0	0	Y	7	6	5	0		5	10	3	0	
+0	1	31	E	8	0	10	1	EXACERBATE	8	0	3	1	EGO
+0	1	32	X	8	0	10	0		8	1	3	1	XDB
+0	0	0	A	8	0	10	0		1	2	10	0	
+0	0	0	C	8	0	10	0		6	3	3	0	
+0	0	0	E	8	0	10	0		7	4	3	0	
+0	1	33	R	8	0	10	0		8	5	3	1	RIS
+0	0	0	B	8	0	10	0		5	6	6	0	
+0	0	0	A	8	0	10	0		6	7	5	0	
+0	0	0	T	8	0	10	0		0	8	10	0	
+0	0	0	E	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	34	G	9	0	3	1	GDP	8	0	3	0	
+0	0	0	D	9	0	3	0		8	1	3	0	
+0	0	0	P	9	0	3	0		1	2	10	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	35	L	9	4	6	1	LIAISE	7	4	3	0	
+0	0	0	I	9	4	6	0		8	5	3	0	
+0	0	0	A	9	4	6	0		5	6	6	0	
+0	0	0	I	9	4	6	0		6	7	5	0	
+0	0	0	S	9	4	6	0		0	8	10	0	
+0	0	0	E	9	4	6	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	36	O	10	0	3	1	OBE	8	0	3	0	
+0	0	0	B	10	0	3	0		8	1	3	0	
+0	0	0	E	10	0	3	0		1	2	10	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	37	S	10	5	3	1	STR	8	5	3	0	
+0	0	0	T	10	5	3	0		5	6	6	0	
+0	0	0	R	10	5	3	0		6	7	5	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	VIG	Bookie's charge, for short
+4	DEW	___ point
+7	THEBIT	It may be champed at
+10	ISA	"There ___ Mountain" (1967 Donovan hit)
+11	AERIALISTS	Circus team
+13	SLAVS	Hungarians are situated between them
+14	CTS	Change for a dol.
+15	SCREED	Blowhard's speech
+17	AIT	Small island
+19	HUT	Shack
+20	SAW	One going back and forth
+22	DES	___ Moines, Iowa
+24	MSF	Misery
+26	IONESO	"Rhinoceros" playwright
+28	HCE	Therefore
+30	MONTY	It may be full
+31	EXACERBATE	Make worse
+34	GDP	Natl. economic stat
+35	LIAISE	Act as a go-between
+36	OBE	Honor bestowed by Queen Eliz.
+37	STR	Geog. feature
+21
+1	VERVE	Spice of life
+2	IBISES	Graceful birds
+3	GIA	Yankee fighter
+4	DISSIDENTS	Tiananmen Square figures
+5	EST	N.C. and S.C. zone
+6	WAS	Took place
+7	TALCUM	Soft powder
+8	HEARTSHAPE	Feature of many a box of chocolates
+9	TLC	Special attention for a patient, in brief
+12	ITA	Ending with Juan
+13	SSH	Library sound: Var.
+16	DAI	Bao ___ (former Vietnamese emperor)
+18	TESTEE	Student, at times
+21	WOMBAT	Burrowing animal
+23	SOY	Word with milk or sauce
+25	FCC	Govt. media monitor
+27	NOAIR	Asphyxiation cause
+29	EEL	Spawning fish
+31	EGO	Sense of self
+32	XDB	___ Khan
+33	RIS	Laugh, in Lyon

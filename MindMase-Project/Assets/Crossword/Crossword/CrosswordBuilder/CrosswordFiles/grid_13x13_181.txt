@@ -1,0 +1,229 @@
+grid_13x13_181
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	A	0	2	3	1	ASI	0	2	6	1	ANEMIC
+0	1	2	S	0	2	3	0		0	3	3	1	SAS
+0	1	3	I	0	2	3	0		0	4	3	1	ICS
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	S	0	6	3	1	SKU	0	6	4	1	SEEK
+0	1	5	K	0	6	3	0		0	7	4	1	KOFI
+0	1	6	U	0	6	3	0		0	8	9	1	UNANGELIC
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	C	0	10	3	1	CDS	0	10	6	1	COHEIR
+0	1	8	D	0	10	3	0		0	11	6	1	DOESSO
+0	1	9	S	0	10	3	0		0	12	6	1	SORTED
+1	0	0	#	1	1	8	0		2	0	3	0	
+0	1	10	A	1	1	8	1	ANACREON	1	1	5	1	ALULA
+0	0	0	N	1	1	8	0		0	2	6	0	
+0	0	0	A	1	1	8	0		0	3	3	0	
+0	0	0	C	1	1	8	0		0	4	3	0	
+0	1	11	R	1	1	8	0		1	5	3	1	RMS
+0	0	0	E	1	1	8	0		0	6	4	0	
+0	0	0	O	1	1	8	0		0	7	4	0	
+0	0	0	N	1	1	8	0		0	8	9	0	
+1	0	0	#	1	10	3	0		2	9	3	0	
+0	1	12	O	1	10	3	1	OOO	0	10	6	0	
+0	0	0	O	1	10	3	0		0	11	6	0	
+0	0	0	O	1	10	3	0		0	12	6	0	
+0	1	13	B	2	0	13	1	BLESSMEFATHER	2	0	3	1	BTP
+0	0	0	L	2	0	13	0		1	1	5	0	
+0	0	0	E	2	0	13	0		0	2	6	0	
+0	0	0	S	2	0	13	0		0	3	3	0	
+0	0	0	S	2	0	13	0		0	4	3	0	
+0	0	0	M	2	0	13	0		1	5	3	0	
+0	0	0	E	2	0	13	0		0	6	4	0	
+0	0	0	F	2	0	13	0		0	7	4	0	
+0	0	0	A	2	0	13	0		0	8	9	0	
+0	1	14	T	2	0	13	0		2	9	3	1	TTL
+0	0	0	H	2	0	13	0		0	10	6	0	
+0	0	0	E	2	0	13	0		0	11	6	0	
+0	0	0	R	2	0	13	0		0	12	6	0	
+0	1	15	T	3	0	3	1	TUM	2	0	3	0	
+0	0	0	U	3	0	3	0		1	1	5	0	
+0	0	0	M	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	0	0		4	3	3	0	
+1	0	0	#	3	5	8	0		4	4	9	0	
+0	1	16	S	3	5	8	1	SKINTEST	1	5	3	0	
+0	0	0	K	3	5	8	0		0	6	4	0	
+0	0	0	I	3	5	8	0		0	7	4	0	
+0	0	0	N	3	5	8	0		0	8	9	0	
+0	0	0	T	3	5	8	0		2	9	3	0	
+0	0	0	E	3	5	8	0		0	10	6	0	
+0	0	0	S	3	5	8	0		0	11	6	0	
+0	0	0	T	3	5	8	0		0	12	6	0	
+0	1	17	P	4	0	5	1	PLINY	2	0	3	0	
+0	0	0	L	4	0	5	0		1	1	5	0	
+0	0	0	I	4	0	5	0		0	2	6	0	
+0	1	18	N	4	0	5	0		4	3	3	1	NTS
+0	1	19	Y	4	0	5	0		4	4	9	1	YTTERBIUM
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	5	0		5	7	3	0	
+0	1	20	G	4	8	5	1	GLISE	0	8	9	0	
+0	0	0	L	4	8	5	0		2	9	3	0	
+0	0	0	I	4	8	5	0		0	10	6	0	
+0	0	0	S	4	8	5	0		0	11	6	0	
+0	0	0	E	4	8	5	0		0	12	6	0	
+1	0	0	#	5	1	8	0		6	0	0	0	
+0	1	21	A	5	1	8	1	ACTTHREE	1	1	5	0	
+0	0	0	C	5	1	8	0		0	2	6	0	
+0	0	0	T	5	1	8	0		4	3	3	0	
+0	0	0	T	5	1	8	0		4	4	9	0	
+0	1	22	H	5	1	8	0		5	5	3	1	HEA
+0	1	23	R	5	1	8	0		5	6	3	1	RRR
+0	1	24	E	5	1	8	0		5	7	3	1	ENL
+0	0	0	E	5	1	8	0		0	8	9	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	25	R	5	10	3	1	ROD	0	10	6	0	
+0	0	0	O	5	10	3	0		0	11	6	0	
+0	0	0	D	5	10	3	0		0	12	6	0	
+1	0	0	#	6	1	0	0		7	0	6	0	
+1	0	0	#	6	2	0	0		7	1	6	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	26	S	6	3	7	1	STERNLY	4	3	3	0	
+0	0	0	T	6	3	7	0		4	4	9	0	
+0	0	0	E	6	3	7	0		5	5	3	0	
+0	0	0	R	6	3	7	0		5	6	3	0	
+0	0	0	N	6	3	7	0		5	7	3	0	
+0	0	0	L	6	3	7	0		0	8	9	0	
+0	1	27	Y	6	3	7	0		6	9	3	1	YEA
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	28	M	7	0	3	1	MFA	7	0	6	1	MADRID
+0	1	29	F	7	0	3	0		7	1	6	1	FRIEDA
+0	1	30	A	7	0	3	0		7	2	6	1	AORTAE
+1	0	0	#	7	4	8	0		8	3	3	0	
+0	1	31	E	7	4	8	1	EARLIEST	4	4	9	0	
+0	0	0	A	7	4	8	0		5	5	3	0	
+0	0	0	R	7	4	8	0		5	6	3	0	
+0	0	0	L	7	4	8	0		5	7	3	0	
+0	0	0	I	7	4	8	0		0	8	9	0	
+0	0	0	E	7	4	8	0		6	9	3	0	
+0	1	32	S	7	4	8	0		7	10	6	1	SHLEPP
+0	1	33	T	7	4	8	0		7	11	5	1	TNUTS
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	34	A	8	0	5	1	AROAR	7	0	6	0	
+0	0	0	R	8	0	5	0		7	1	6	0	
+0	0	0	O	8	0	5	0		7	2	6	0	
+0	1	35	A	8	0	5	0		8	3	3	1	ATA
+0	0	0	R	8	0	5	0		4	4	9	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	5	0		9	7	3	0	
+0	1	36	C	8	8	5	1	CAHNS	0	8	9	0	
+0	0	0	A	8	8	5	0		6	9	3	0	
+0	0	0	H	8	8	5	0		7	10	6	0	
+0	0	0	N	8	8	5	0		7	11	5	0	
+0	1	37	S	8	8	5	0		8	12	3	1	SCS
+0	1	38	D	9	0	8	1	DIRTBIKE	7	0	6	0	
+0	0	0	I	9	0	8	0		7	1	6	0	
+0	0	0	R	9	0	8	0		7	2	6	0	
+0	0	0	T	9	0	8	0		8	3	3	0	
+0	0	0	B	9	0	8	0		4	4	9	0	
+0	1	39	I	9	0	8	0		9	5	4	1	ILSA
+0	1	40	K	9	0	8	0		9	6	4	1	KOTO
+0	1	41	E	9	0	8	0		9	7	3	1	EUR
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	42	L	9	10	3	1	LUC	7	10	6	0	
+0	0	0	U	9	10	3	0		7	11	5	0	
+0	0	0	C	9	10	3	0		8	12	3	0	
+0	1	43	R	10	0	13	1	RETAILOUTLETS	7	0	6	0	
+0	0	0	E	10	0	13	0		7	1	6	0	
+0	0	0	T	10	0	13	0		7	2	6	0	
+0	0	0	A	10	0	13	0		8	3	3	0	
+0	0	0	I	10	0	13	0		4	4	9	0	
+0	0	0	L	10	0	13	0		9	5	4	0	
+0	0	0	O	10	0	13	0		9	6	4	0	
+0	0	0	U	10	0	13	0		9	7	3	0	
+0	1	44	T	10	0	13	0		10	8	3	1	TOY
+0	1	45	L	10	0	13	0		10	9	3	1	LOI
+0	0	0	E	10	0	13	0		7	10	6	0	
+0	0	0	T	10	0	13	0		7	11	5	0	
+0	0	0	S	10	0	13	0		8	12	3	0	
+0	1	46	I	11	0	3	1	IDA	7	0	6	0	
+0	0	0	D	11	0	3	0		7	1	6	0	
+0	0	0	A	11	0	3	0		7	2	6	0	
+1	0	0	#	11	4	8	0		12	3	0	0	
+0	1	47	U	11	4	8	1	USTROOPS	4	4	9	0	
+0	0	0	S	11	4	8	0		9	5	4	0	
+0	0	0	T	11	4	8	0		9	6	4	0	
+0	0	0	R	11	4	8	0		9	7	3	0	
+0	0	0	O	11	4	8	0		10	8	3	0	
+0	0	0	O	11	4	8	0		10	9	3	0	
+0	0	0	P	11	4	8	0		7	10	6	0	
+0	0	0	S	11	4	8	0		7	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	48	D	12	0	3	1	DAE	7	0	6	0	
+0	0	0	A	12	0	3	0		7	1	6	0	
+0	0	0	E	12	0	3	0		7	2	6	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	49	M	12	4	3	1	MAO	4	4	9	0	
+0	0	0	A	12	4	3	0		9	5	4	0	
+0	0	0	O	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	50	Y	12	8	3	1	YIP	10	8	3	0	
+0	0	0	I	12	8	3	0		10	9	3	0	
+0	0	0	P	12	8	3	0		7	10	6	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	ASI	"___ recall ..."
+4	SKU	Merchandise ID
+7	CDS	Many records
+10	ANACREON	Ancient Greek lyric poet
+12	OOO	A winning combination in today's puzzle theme
+13	BLESSMEFATHER	Start of a confession
+15	TUM	"The Rum ___ Tugger" (song from "Cats")
+16	SKINTEST	Allergist's procedure
+17	PLINY	"Natural History" author
+20	GLISE	See for a second
+21	ACTTHREE	When "To be or not to be" is recited
+25	ROD	Punishment, with "the"
+26	STERNLY	How to give a reprimand
+28	MFA	Painter's deg.
+31	EARLIEST	First in time
+34	AROAR	Shouting
+36	CAHNS	Lyricist Sammy et al.
+38	DIRTBIKE	Off-road two-wheeler
+42	LUC	Capt. Jean-___ Picard of the U.S.S. Enterprise
+43	RETAILOUTLETS	Memo about stores for animal appendages?
+46	IDA	First Lady of 1900
+47	USTROOPS	G.I.'s
+48	DAE	"Lost" actor Daniel ___ Kim
+49	MAO	He wrote "Political power grows out of the barrel of a gun"
+50	YIP	Kennel sound
+31
+1	ANEMIC	Weak
+2	SAS	Nordic flier
+3	ICS	Suffix with robot
+4	SEEK	Hunt for
+5	KOFI	Boutros's successor
+6	UNANGELIC	Devilish
+7	COHEIR	Legacy sharer
+8	DOESSO	Playground retort
+9	SORTED	In cubbyholes
+10	ALULA	"Be-Bop-___"
+11	RMS	Apt. specs
+13	BTP	Group formed at Miami University in 1839
+14	TTL	Lumberjack's tool
+18	NTS	Some Windows systems
+19	YTTERBIUM	One of the rare earths
+22	HEA	"Hath ___ sister?": Shak.
+23	RRR	School basics, initially?
+24	ENL	Get the big picture?: Abbr.
+27	YEA	What a raised hand may mean
+28	MADRID	Capital of Spain
+29	FRIEDA	Charlie Brown's curly-haired pal
+30	AORTAE	They have major bifurcations
+32	SHLEPP	Lug: Var.
+33	TNUTS	Fastening devices
+35	ATA	Premium preceder
+37	SCS	Barges
+39	ILSA	Requester of "As Time Goes By"
+40	KOTO	Japanese zither
+41	EUR	Union land: Abbr.
+44	TOY	Nintendo product
+45	LOI	French law

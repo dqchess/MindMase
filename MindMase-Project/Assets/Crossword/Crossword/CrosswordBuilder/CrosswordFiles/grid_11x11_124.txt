@@ -1,0 +1,171 @@
+grid_11x11_124
+11
+0	1	1	R	0	0	5	1	RAVEN	0	0	3	1	RIM
+0	1	2	A	0	0	5	0		0	1	7	1	AGELINE
+0	1	3	V	0	0	5	0		0	2	7	1	VERITAS
+0	1	4	E	0	0	5	0		0	3	4	1	ETIC
+0	1	5	N	0	0	5	0		0	4	3	1	NIN
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	6	J	0	8	3	1	JIF	0	8	3	1	JAW
+0	1	7	I	0	8	3	0		0	9	3	1	IDE
+0	1	8	F	0	8	3	0		0	10	3	1	FAN
+0	1	9	I	1	0	6	1	IGETIT	0	0	3	0	
+0	0	0	G	1	0	6	0		0	1	7	0	
+0	0	0	E	1	0	6	0		0	2	7	0	
+0	0	0	T	1	0	6	0		0	3	4	0	
+0	0	0	I	1	0	6	0		0	4	3	0	
+0	1	10	T	1	0	6	0		1	5	9	1	TOYCHESTS
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	11	S	1	7	4	1	SADA	1	7	4	1	SESS
+0	0	0	A	1	7	4	0		0	8	3	0	
+0	0	0	D	1	7	4	0		0	9	3	0	
+0	0	0	A	1	7	4	0		0	10	3	0	
+0	1	12	M	2	0	6	1	MERINO	0	0	3	0	
+0	0	0	E	2	0	6	0		0	1	7	0	
+0	0	0	R	2	0	6	0		0	2	7	0	
+0	0	0	I	2	0	6	0		0	3	4	0	
+0	0	0	N	2	0	6	0		0	4	3	0	
+0	0	0	O	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	13	E	2	7	4	1	EWEN	1	7	4	0	
+0	0	0	W	2	7	4	0		0	8	3	0	
+0	0	0	E	2	7	4	0		0	9	3	0	
+0	0	0	N	2	7	4	0		0	10	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	14	L	3	1	3	1	LIC	0	1	7	0	
+0	0	0	I	3	1	3	0		0	2	7	0	
+0	0	0	C	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	3	0		4	4	0	0	
+0	1	15	Y	3	5	3	1	YDS	1	5	9	0	
+0	1	16	D	3	5	3	0		3	6	3	1	DPT
+0	0	0	S	3	5	3	0		1	7	4	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	H	4	0	3	1	HIT	4	0	3	1	HEN
+0	0	0	I	4	0	3	0		0	1	7	0	
+0	0	0	T	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	3	0	
+0	1	18	C	4	5	6	1	CPSNOW	1	5	9	0	
+0	0	0	P	4	5	6	0		3	6	3	0	
+0	0	0	S	4	5	6	0		1	7	4	0	
+0	1	19	N	4	5	6	0		4	8	7	1	NINEVEH
+0	1	20	O	4	5	6	0		4	9	7	1	ONEMIND
+0	1	21	W	4	5	6	0		4	10	3	1	WDS
+0	1	22	E	5	0	3	1	ENA	4	0	3	0	
+0	0	0	N	5	0	3	0		0	1	7	0	
+0	0	0	A	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	23	B	5	4	3	1	BHT	5	4	3	1	BIB
+0	0	0	H	5	4	3	0		1	5	9	0	
+0	0	0	T	5	4	3	0		3	6	3	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	24	I	5	8	3	1	IND	4	8	7	0	
+0	0	0	N	5	8	3	0		4	9	7	0	
+0	0	0	D	5	8	3	0		4	10	3	0	
+0	1	25	N	6	0	6	1	NESSIE	4	0	3	0	
+0	0	0	E	6	0	6	0		0	1	7	0	
+0	0	0	S	6	0	6	0		0	2	7	0	
+0	1	26	S	6	0	6	0		6	3	4	1	SUET
+0	0	0	I	6	0	6	0		5	4	3	0	
+0	0	0	E	6	0	6	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	27	N	6	8	3	1	NES	4	8	7	0	
+0	0	0	E	6	8	3	0		4	9	7	0	
+0	0	0	S	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	3	0		8	2	3	0	
+0	1	28	U	7	3	3	1	UBS	6	3	4	0	
+0	0	0	B	7	3	3	0		5	4	3	0	
+0	0	0	S	7	3	3	0		1	5	9	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	29	S	7	7	3	1	SEM	7	7	4	1	SALA
+0	0	0	E	7	7	3	0		4	8	7	0	
+0	0	0	M	7	7	3	0		4	9	7	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	30	E	8	0	4	1	EDGE	8	0	3	1	ESK
+0	1	31	D	8	0	4	0		8	1	3	1	DMA
+0	1	32	G	8	0	4	0		8	2	3	1	GUY
+0	0	0	E	8	0	4	0		6	3	4	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	33	T	8	5	6	1	TRAVIS	1	5	9	0	
+0	1	34	R	8	5	6	0		8	6	3	1	REF
+0	0	0	A	8	5	6	0		7	7	4	0	
+0	0	0	V	8	5	6	0		4	8	7	0	
+0	0	0	I	8	5	6	0		4	9	7	0	
+0	1	35	S	8	5	6	0		8	10	3	1	SES
+0	1	36	S	9	0	4	1	SMUT	8	0	3	0	
+0	0	0	M	9	0	4	0		8	1	3	0	
+0	0	0	U	9	0	4	0		8	2	3	0	
+0	0	0	T	9	0	4	0		6	3	4	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	37	S	9	5	6	1	SELENE	1	5	9	0	
+0	0	0	E	9	5	6	0		8	6	3	0	
+0	0	0	L	9	5	6	0		7	7	4	0	
+0	0	0	E	9	5	6	0		4	8	7	0	
+0	0	0	N	9	5	6	0		4	9	7	0	
+0	0	0	E	9	5	6	0		8	10	3	0	
+0	1	38	K	10	0	3	1	KAY	8	0	3	0	
+0	0	0	A	10	0	3	0		8	1	3	0	
+0	0	0	Y	10	0	3	0		8	2	3	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	5	0		11	5	0	0	
+0	1	39	F	10	6	5	1	FAHDS	8	6	3	0	
+0	0	0	A	10	6	5	0		7	7	4	0	
+0	0	0	H	10	6	5	0		4	8	7	0	
+0	0	0	D	10	6	5	0		4	9	7	0	
+0	0	0	S	10	6	5	0		8	10	3	0	
+23
+1	RAVEN	Lustrous black
+6	JIF	Skippy alternative
+9	IGETIT	Words before a sarcastic "ha ha"
+11	SADA	Actress Thompson of TV's "Family"
+12	MERINO	Fine wool
+13	EWEN	Writer on music David ___
+14	LIC	Need to get hitched: Abbr.
+15	YDS	Football stat: Abbr.
+17	HIT	Top 10 record
+18	CPSNOW	"Strangers and Brothers" novelist
+22	ENA	Disney doe
+23	BHT	Common preservative
+24	IND	Poll abbr.
+25	NESSIE	Scottish "sighting"
+27	NES	Gaming debut of 1985, briefly
+28	UBS	Financial inst. that bought PaineWebber in 2000
+29	SEM	Sch. term
+30	EDGE	Vantage
+33	TRAVIS	Tritt who sang "T-R-O-U-B-L-E"
+36	SMUT	No children's viewing
+37	SELENE	Moon goddess
+38	KAY	Bandleader Kyser
+39	FAHDS	Saudi royal and others
+23
+1	RIM	Salt's place on a margarita glass
+2	AGELINE	Facial feature, later in life
+3	VERITAS	In vino ___
+4	ETIC	Suffix with diet
+5	NIN	"A Woman Speaks" writer Ana
+6	JAW	Be windy
+7	IDE	Chemical compound suffix
+8	FAN	Harem accessory
+10	TOYCHESTS	Playroom fixtures
+11	SESS	Meeting: Abbr.
+16	DPT	Vaccine combo
+17	HEN	Source of collectible deposits
+19	NINEVEH	Capital of ancient Assyria
+20	ONEMIND	With "of," in total agreement
+21	WDS	Sentence fragments?: Abbr.
+23	BIB	Overalls part
+26	SUET	Fat used for tallow
+29	SALA	Room in a casa
+30	ESK	Northern Amer.
+31	DMA	Basic teaching
+32	GUY	Kind of wire
+34	REF	Zebra
+35	SES	Fathers

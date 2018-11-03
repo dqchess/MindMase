@@ -1,0 +1,115 @@
+grid_9x9_159
+9
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	A	0	2	3	1	AFS	0	2	9	1	APERTURES
+0	1	2	F	0	2	3	0		0	3	3	1	FPM
+0	1	3	S	0	2	3	0		0	4	9	1	SLYASAFOX
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	V	0	6	3	1	VIP	0	6	9	1	VOICEVOTE
+0	1	5	I	0	6	3	0		0	7	3	1	IDN
+0	1	6	P	0	6	3	0		0	8	3	1	PEE
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	A	1	1	4	1	APPL	1	1	4	1	ANSE
+0	0	0	P	1	1	4	0		0	2	9	0	
+0	0	0	P	1	1	4	0		0	3	3	0	
+0	0	0	L	1	1	4	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	8	O	1	6	3	1	ODE	0	6	9	0	
+0	0	0	D	1	6	3	0		0	7	3	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	9	E	2	0	9	1	ENEMYMINE	2	0	3	1	ETD
+0	0	0	N	2	0	9	0		1	1	4	0	
+0	0	0	E	2	0	9	0		0	2	9	0	
+0	0	0	M	2	0	9	0		0	3	3	0	
+0	0	0	Y	2	0	9	0		0	4	9	0	
+0	1	10	M	2	0	9	0		2	5	3	1	MST
+0	0	0	I	2	0	9	0		0	6	9	0	
+0	0	0	N	2	0	9	0		0	7	3	0	
+0	0	0	E	2	0	9	0		0	8	3	0	
+0	1	11	T	3	0	3	1	TSR	2	0	3	0	
+0	0	0	S	3	0	3	0		1	1	4	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	12	A	3	4	3	1	ASC	0	4	9	0	
+0	0	0	S	3	4	3	0		2	5	3	0	
+0	0	0	C	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	13	D	4	0	9	1	DETESTERS	2	0	3	0	
+0	0	0	E	4	0	9	0		1	1	4	0	
+0	0	0	T	4	0	9	0		0	2	9	0	
+0	1	14	E	4	0	9	0		4	3	3	1	EMT
+0	0	0	S	4	0	9	0		0	4	9	0	
+0	0	0	T	4	0	9	0		2	5	3	0	
+0	0	0	E	4	0	9	0		0	6	9	0	
+0	1	15	R	4	0	9	0		4	7	4	1	REOS
+0	1	16	S	4	0	9	0		4	8	3	1	STD
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	U	5	2	3	1	UMA	0	2	9	0	
+0	0	0	M	5	2	3	0		4	3	3	0	
+0	0	0	A	5	2	3	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	V	5	6	3	1	VET	0	6	9	0	
+0	0	0	E	5	6	3	0		4	7	4	0	
+0	0	0	T	5	6	3	0		4	8	3	0	
+0	1	19	C	6	0	9	1	CURTFLOOD	6	0	3	1	CHE
+0	1	20	U	6	0	9	0		6	1	3	1	UAT
+0	0	0	R	6	0	9	0		0	2	9	0	
+0	0	0	T	6	0	9	0		4	3	3	0	
+0	0	0	F	6	0	9	0		0	4	9	0	
+0	1	21	L	6	0	9	0		6	5	3	1	LAK
+0	0	0	O	6	0	9	0		0	6	9	0	
+0	0	0	O	6	0	9	0		4	7	4	0	
+0	0	0	D	6	0	9	0		4	8	3	0	
+0	1	22	H	7	0	3	1	HAE	6	0	3	0	
+0	0	0	A	7	0	3	0		6	1	3	0	
+0	0	0	E	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	4	0		8	3	0	0	
+0	1	23	O	7	4	4	1	OATS	0	4	9	0	
+0	0	0	A	7	4	4	0		6	5	3	0	
+0	0	0	T	7	4	4	0		0	6	9	0	
+0	0	0	S	7	4	4	0		4	7	4	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	24	E	8	0	3	1	ETS	6	0	3	0	
+0	0	0	T	8	0	3	0		6	1	3	0	
+0	0	0	S	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	25	X	8	4	3	1	XKE	0	4	9	0	
+0	0	0	K	8	4	3	0		6	5	3	0	
+0	0	0	E	8	4	3	0		0	6	9	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	AFS	Military branches: Abbr.
+4	VIP	Pooh-bah
+7	APPL	Special use: Abbr.
+8	ODE	Something Ben Jonson wrote to himself
+9	ENEMYMINE	Barry B. Longyear novella that won Hugo and Nebula awards
+11	TSR	Game co. that originated Dungeons & Dragons
+12	ASC	Camera operator's org.
+13	DETESTERS	Bigots, e.g.
+17	UMA	Fox News anchor Pemmaraju
+18	VET	Member of a post
+19	CURTFLOOD	Plumbers' favorite baseball player?
+22	HAE	"Some ___ meat and canna eat": Burns
+23	OATS	Horse's fare
+24	ETS	"Independence Day" invaders
+25	XKE	Jaguar model
+15
+1	APERTURES	Camera openings
+2	FPM	Tea time, maybe
+3	SLYASAFOX	Wily
+4	VOICEVOTE	Yea-or-nay event
+5	IDN	Insurance card info
+6	PEE	Top finisher?
+7	ANSE	Faulkner hero
+9	ETD	Plane takeoff guess: Abbr.
+10	MST	Phoenix setting: Abbr.
+14	EMT	CPR provider
+15	REOS	Classic cars
+16	STD	Part of S.O.P.: Abbr.
+19	CHE	Fourth Spanish letter
+20	UAT	Awake by
+21	LAK	"Mighty ___ a Rose"

@@ -1,0 +1,231 @@
+grid_13x13_94
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	P	0	1	3	1	PPD	0	1	6	1	PAULIV
+0	1	2	P	0	1	3	0		0	2	6	1	PRECIS
+0	1	3	D	0	1	3	0		0	3	3	1	DRS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	4	0		1	6	0	0	
+0	1	4	W	0	7	4	1	WHIR	0	7	3	1	WIG
+0	1	5	H	0	7	4	0		0	8	3	1	HAG
+0	1	6	I	0	7	4	0		0	9	3	1	IGA
+0	1	7	R	0	7	4	0		0	10	6	1	ROMANA
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	8	M	1	0	6	1	MARRER	1	0	3	1	MGT
+0	0	0	A	1	0	6	0		0	1	6	0	
+0	0	0	R	1	0	6	0		0	2	6	0	
+0	0	0	R	1	0	6	0		0	3	3	0	
+0	1	9	E	1	0	6	0		1	4	3	1	ESD
+0	1	10	R	1	0	6	0		1	5	3	1	RIO
+1	0	0	#	1	7	5	0		2	6	9	0	
+0	1	11	I	1	7	5	1	IAGOS	0	7	3	0	
+0	0	0	A	1	7	5	0		0	8	3	0	
+0	0	0	G	1	7	5	0		0	9	3	0	
+0	0	0	O	1	7	5	0		0	10	6	0	
+0	1	12	S	1	7	5	0		1	11	5	1	SETUP
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	G	2	0	12	1	GUESSINGGAME	1	0	3	0	
+0	0	0	U	2	0	12	0		0	1	6	0	
+0	0	0	E	2	0	12	0		0	2	6	0	
+0	0	0	S	2	0	12	0		0	3	3	0	
+0	0	0	S	2	0	12	0		1	4	3	0	
+0	0	0	I	2	0	12	0		1	5	3	0	
+0	1	14	N	2	0	12	0		2	6	9	1	NILEDELTA
+0	0	0	G	2	0	12	0		0	7	3	0	
+0	0	0	G	2	0	12	0		0	8	3	0	
+0	0	0	A	2	0	12	0		0	9	3	0	
+0	0	0	M	2	0	12	0		0	10	6	0	
+0	0	0	E	2	0	12	0		1	11	5	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+0	1	15	T	3	0	3	1	TLC	1	0	3	0	
+0	0	0	L	3	0	3	0		0	1	6	0	
+0	0	0	C	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	16	D	3	4	3	1	DOI	1	4	3	0	
+0	0	0	O	3	4	3	0		1	5	3	0	
+0	0	0	I	3	4	3	0		2	6	9	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	17	A	3	10	3	1	ATC	0	10	6	0	
+0	0	0	T	3	10	3	0		1	11	5	0	
+0	1	18	C	3	10	3	0		3	12	3	1	CNS
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	19	I	4	1	3	1	III	0	1	6	0	
+0	0	0	I	4	1	3	0		0	2	6	0	
+0	1	20	I	4	1	3	0		4	3	4	1	IONS
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	3	0		5	5	4	0	
+0	1	21	L	4	6	3	1	LDC	2	6	9	0	
+0	1	22	D	4	6	3	0		4	7	4	1	DEEP
+0	1	23	C	4	6	3	0		4	8	3	1	CRO
+1	0	0	#	4	10	3	0		5	9	4	0	
+0	1	24	N	4	10	3	1	NUN	0	10	6	0	
+0	0	0	U	4	10	3	0		1	11	5	0	
+0	0	0	N	4	10	3	0		3	12	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	25	V	5	1	3	1	VSO	0	1	6	0	
+0	0	0	S	5	1	3	0		0	2	6	0	
+0	0	0	O	5	1	3	0		4	3	4	0	
+1	0	0	#	5	5	8	0		6	4	3	0	
+0	1	26	B	5	5	8	1	BEERTAPS	5	5	4	1	BOER
+0	0	0	E	5	5	8	0		2	6	9	0	
+0	0	0	E	5	5	8	0		4	7	4	0	
+0	0	0	R	5	5	8	0		4	8	3	0	
+0	1	27	T	5	5	8	0		5	9	4	1	TNUT
+0	0	0	A	5	5	8	0		0	10	6	0	
+0	0	0	P	5	5	8	0		1	11	5	0	
+0	0	0	S	5	5	8	0		3	12	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	28	N	6	3	7	1	NIODEON	4	3	4	0	
+0	1	29	I	6	3	7	0		6	4	3	1	ILO
+0	0	0	O	6	3	7	0		5	5	4	0	
+0	0	0	D	6	3	7	0		2	6	9	0	
+0	0	0	E	6	3	7	0		4	7	4	0	
+0	0	0	O	6	3	7	0		4	8	3	0	
+0	0	0	N	6	3	7	0		5	9	4	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	R	7	0	8	1	REMSLEEP	7	0	3	1	RKC
+0	1	31	E	7	0	8	0		7	1	5	1	EASTS
+0	1	32	M	7	0	8	0		7	2	6	1	MATHIS
+0	0	0	S	7	0	8	0		4	3	4	0	
+0	0	0	L	7	0	8	0		6	4	3	0	
+0	0	0	E	7	0	8	0		5	5	4	0	
+0	0	0	E	7	0	8	0		2	6	9	0	
+0	0	0	P	7	0	8	0		4	7	4	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	33	U	7	9	3	1	ULU	5	9	4	0	
+0	1	34	L	7	9	3	0		7	10	6	1	LEMOND
+0	1	35	U	7	9	3	0		7	11	6	1	UNDYED
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	36	K	8	0	3	1	KAA	7	0	3	0	
+0	0	0	A	8	0	3	0		7	1	5	0	
+0	0	0	A	8	0	3	0		7	2	6	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	37	O	8	4	3	1	ORL	6	4	3	0	
+0	0	0	R	8	4	3	0		5	5	4	0	
+0	0	0	L	8	4	3	0		2	6	9	0	
+1	0	0	#	8	8	0	0		9	7	3	0	
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	38	T	8	9	3	1	TEN	5	9	4	0	
+0	0	0	E	8	9	3	0		7	10	6	0	
+0	0	0	N	8	9	3	0		7	11	6	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	39	C	9	0	3	1	CST	7	0	3	0	
+0	0	0	S	9	0	3	0		7	1	5	0	
+0	0	0	T	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	40	T	9	6	3	1	TCU	2	6	9	0	
+0	1	41	C	9	6	3	0		9	7	3	1	CCS
+0	1	42	U	9	6	3	0		9	8	3	1	UHW
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	43	M	9	10	3	1	MDT	7	10	6	0	
+0	0	0	D	9	10	3	0		7	11	6	0	
+0	1	44	T	9	10	3	0		9	12	3	1	TSE
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	45	T	10	1	12	1	THEBEACHBOYS	7	1	5	0	
+0	0	0	H	10	1	12	0		7	2	6	0	
+0	1	46	E	10	1	12	0		10	3	3	1	EXT
+0	1	47	B	10	1	12	0		10	4	3	1	BTP
+0	1	48	E	10	1	12	0		10	5	3	1	EES
+0	0	0	A	10	1	12	0		2	6	9	0	
+0	0	0	C	10	1	12	0		9	7	3	0	
+0	0	0	H	10	1	12	0		9	8	3	0	
+0	1	49	B	10	1	12	0		10	9	3	1	BAO
+0	0	0	O	10	1	12	0		7	10	6	0	
+0	0	0	Y	10	1	12	0		7	11	6	0	
+0	0	0	S	10	1	12	0		9	12	3	0	
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	50	S	11	1	5	1	SIXTE	7	1	5	0	
+0	0	0	I	11	1	5	0		7	2	6	0	
+0	0	0	X	11	1	5	0		10	3	3	0	
+0	0	0	T	11	1	5	0		10	4	3	0	
+0	0	0	E	11	1	5	0		10	5	3	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	51	S	11	7	6	1	SWANEE	9	7	3	0	
+0	0	0	W	11	7	6	0		9	8	3	0	
+0	0	0	A	11	7	6	0		10	9	3	0	
+0	0	0	N	11	7	6	0		7	10	6	0	
+0	0	0	E	11	7	6	0		7	11	6	0	
+0	0	0	E	11	7	6	0		9	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	4	0		13	1	0	0	
+0	1	52	S	12	2	4	1	STPS	7	2	6	0	
+0	0	0	T	12	2	4	0		10	3	3	0	
+0	0	0	P	12	2	4	0		10	4	3	0	
+0	0	0	S	12	2	4	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	53	O	12	9	3	1	ODD	10	9	3	0	
+0	0	0	D	12	9	3	0		7	10	6	0	
+0	0	0	D	12	9	3	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	PPD	One way to send merchandise: Abbr.
+4	WHIR	Fan sound
+8	MARRER	Graffitist, e.g.
+11	IAGOS	Villainous Shakespearean roles
+13	GUESSINGGAME	Charades, e.g.
+15	TLC	What good R.N.'s dispense
+16	DOI	"How ___ love thee? Let me..."
+17	ATC	Takeoff and landing overseers: Abbr.
+19	III	Three, on a sundial
+21	LDC	Parts of a house, in classifieds: Abbr.
+24	NUN	Resident of St. Mary's
+25	VSO	Brandy letters
+26	BEERTAPS	Frat party dispensers
+28	NIODEON	Early theater, briefly
+30	REMSLEEP	A catnap may not provide it
+33	ULU	Eskimo knife
+36	KAA	"The Jungle Book" python
+37	ORL	Magic on a scoreboard?
+38	TEN	Jack's inferior
+39	CST	Winter hrs. in Wichita
+40	TCU	Home of the Horned Frogs: Abbr.
+43	MDT	Wyo. is on it in the summer
+45	THEBEACHBOYS	1988 inductees into the Rock and Roll Hall of Fame
+50	SIXTE	Fencing position
+51	SWANEE	Gershwin's first hit
+52	STPS	Motor oil additives
+53	ODD	Eyebrow-raising
+31
+1	PAULIV	Pope after Marcellus II
+2	PRECIS	Abstract
+3	DRS	"M*A*S*H" staffers: Abbr.
+4	WIG	Artificial locks
+5	HAG	Witchy woman
+6	IGA	Prominent grocery chain
+7	ROMANA	Pax ___
+8	MGT	Place runners?: Abbr.
+9	ESD	Either of two books of the Apocrypha: Abbr.
+10	RIO	"Notorious" setting
+12	SETUP	Provide with a blind date, say
+14	NILEDELTA	Alexandria is in it
+18	CNS	Brain and spinal cord: Abbr.
+20	IONS	Charge holders
+22	DEEP	Yawning
+23	CRO	Early man prefix
+26	BOER	Great Trek trekker
+27	TNUT	Wide-headed fastener
+29	ILO	Human rights agcy.
+30	RKC	QB Manning
+31	EASTS	Some bridge players
+32	MATHIS	"No Love (But Your Love)" singer, 1958
+34	LEMOND	Three-time Tour de France winner
+35	UNDYED	Natural
+41	CCS	Not originals of letters, for short
+42	UHW	Beat and how!
+44	TSE	Bisected fly?
+46	EXT	Tel. no. addition
+47	BTP	Group formed at Miami University in 1839
+48	EES	Date
+49	BAO	Vietnamese leader ___ Dai

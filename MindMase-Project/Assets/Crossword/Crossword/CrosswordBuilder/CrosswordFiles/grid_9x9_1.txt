@@ -1,0 +1,115 @@
+grid_9x9_1
+9
+0	1	1	X	0	0	3	1	XOX	0	0	3	1	XVI
+0	1	2	O	0	0	3	0		0	1	3	1	OED
+0	1	3	X	0	0	3	0		0	2	9	1	XRAYSPECS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	R	0	5	3	1	RCS	0	5	3	1	RAP
+0	1	5	C	0	5	3	0		0	6	9	1	CLIMBOVER
+0	1	6	S	0	5	3	0		0	7	5	1	SANDL
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	V	1	0	3	1	VER	0	0	3	0	
+0	0	0	E	1	0	3	0		0	1	3	0	
+0	0	0	R	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	F	1	4	4	1	FALA	1	4	7	1	FUHRMAN
+0	0	0	A	1	4	4	0		0	5	3	0	
+0	0	0	L	1	4	4	0		0	6	9	0	
+0	0	0	A	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	9	I	2	0	9	1	IDALUPINO	0	0	3	0	
+0	0	0	D	2	0	9	0		0	1	3	0	
+0	0	0	A	2	0	9	0		0	2	9	0	
+0	1	10	L	2	0	9	0		2	3	3	1	LEU
+0	0	0	U	2	0	9	0		1	4	7	0	
+0	0	0	P	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	9	0	
+0	0	0	N	2	0	9	0		0	7	5	0	
+0	1	11	O	2	0	9	0		2	8	3	1	OIE
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	Y	3	2	3	1	YEH	0	2	9	0	
+0	0	0	E	3	2	3	0		2	3	3	0	
+0	0	0	H	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	M	3	6	3	1	MDI	0	6	9	0	
+0	0	0	D	3	6	3	0		0	7	5	0	
+0	0	0	I	3	6	3	0		2	8	3	0	
+0	1	14	I	4	0	9	1	INSURABLE	4	0	3	1	ILL
+0	1	15	N	4	0	9	0		4	1	5	1	NOEAR
+0	0	0	S	4	0	9	0		0	2	9	0	
+0	0	0	U	4	0	9	0		2	3	3	0	
+0	0	0	R	4	0	9	0		1	4	7	0	
+0	1	16	A	4	0	9	0		4	5	3	1	AIR
+0	0	0	B	4	0	9	0		0	6	9	0	
+0	0	0	L	4	0	9	0		0	7	5	0	
+0	0	0	E	4	0	9	0		2	8	3	0	
+0	1	17	L	5	0	3	1	LOP	4	0	3	0	
+0	0	0	O	5	0	3	0		4	1	5	0	
+0	0	0	P	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	M	5	4	3	1	MIO	1	4	7	0	
+0	0	0	I	5	4	3	0		4	5	3	0	
+0	0	0	O	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	L	6	0	9	1	LEEMARVIN	4	0	3	0	
+0	0	0	E	6	0	9	0		4	1	5	0	
+0	0	0	E	6	0	9	0		0	2	9	0	
+0	1	20	M	6	0	9	0		6	3	3	1	MAT
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	0	0	R	6	0	9	0		4	5	3	0	
+0	0	0	V	6	0	9	0		0	6	9	0	
+0	1	21	I	6	0	9	0		6	7	3	1	IGN
+0	1	22	N	6	0	9	0		6	8	3	1	NHS
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	23	A	7	1	4	1	ACAN	4	1	5	0	
+0	0	0	C	7	1	4	0		0	2	9	0	
+0	0	0	A	7	1	4	0		6	3	3	0	
+0	0	0	N	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	E	7	6	3	1	EGH	0	6	9	0	
+0	0	0	G	7	6	3	0		6	7	3	0	
+0	0	0	H	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	R	8	1	3	1	RST	4	1	5	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	T	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	R	8	6	3	1	RNS	0	6	9	0	
+0	0	0	N	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	XOX	Tic-tac-toe loser
+4	RCS	Some colas, familiarly
+7	VER	Part of a chap.
+8	FALA	Start of a carol's refrain
+9	IDALUPINO	"The Hitch-Hiker" director, 1953
+12	YEH	Informal assent
+13	MDI	Year in an Amerigo Vespucci voyage
+14	INSURABLE	Like life and health
+17	LOP	Chop off
+18	MIO	"O ___ babbino caro" (Puccini aria)
+19	LEEMARVIN	Best Actor of 1965
+23	ACAN	Open ___ of worms
+24	EGH	French vineyard
+25	RST	U preceders
+26	RNS	"ER" extras
+15
+1	XVI	"Sweet" age in ancient Rome?
+2	OED	Brit. lexicon
+3	XRAYSPECS	Novelty item in comic book ads
+4	RAP	Bad-mouth
+5	CLIMBOVER	Traverse, as a mountain ridge
+6	SANDL	C.D. issuer
+8	FUHRMAN	1995 cop on the spot
+10	LEU	Romanian coin
+11	OIE	Goose, to Gr
+14	ILL	Feeling much less than 100%
+15	NOEAR	An absence of musical skill
+16	AIR	Put on
+20	MAT	Gymnastics equipment
+21	IGN	Car key place: Abbr.
+22	NHS	Selective high-school org.

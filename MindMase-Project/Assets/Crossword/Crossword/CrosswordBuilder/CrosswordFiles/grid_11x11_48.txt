@@ -1,0 +1,165 @@
+grid_11x11_48
+11
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	E	0	1	3	1	ERY	0	1	5	1	ESSES
+0	1	2	R	0	1	3	0		0	2	5	1	RCPTS
+0	1	3	Y	0	1	3	0		0	3	3	1	YOO
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	G	0	7	3	1	GLI	0	7	6	1	GHETTO
+0	1	5	L	0	7	3	0		0	8	5	1	LARUE
+0	1	6	I	0	7	3	0		0	9	5	1	INSTR
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	A	1	0	6	1	ASCOOL	1	0	4	1	AENA
+0	0	0	S	1	0	6	0		0	1	5	0	
+0	0	0	C	1	0	6	0		0	2	5	0	
+0	0	0	O	1	0	6	0		0	3	3	0	
+0	1	8	O	1	0	6	0		1	4	7	1	OSTEOID
+0	1	9	L	1	0	6	0		1	5	9	1	LOUSINGUP
+1	0	0	#	1	7	3	0		2	6	0	0	
+0	1	10	H	1	7	3	1	HAN	0	7	6	0	
+0	0	0	A	1	7	3	0		0	8	5	0	
+0	0	0	N	1	7	3	0		0	9	5	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	E	2	0	6	1	ESPOSO	1	0	4	0	
+0	0	0	S	2	0	6	0		0	1	5	0	
+0	0	0	P	2	0	6	0		0	2	5	0	
+0	0	0	O	2	0	6	0		0	3	3	0	
+0	0	0	S	2	0	6	0		1	4	7	0	
+0	0	0	O	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	7	0	
+0	1	12	E	2	7	4	1	ERST	0	7	6	0	
+0	0	0	R	2	7	4	0		0	8	5	0	
+0	0	0	S	2	7	4	0		0	9	5	0	
+0	1	13	T	2	7	4	0		2	10	3	1	TSY
+0	1	14	N	3	0	3	1	NET	1	0	4	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	T	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	7	0		4	3	0	0	
+0	1	15	T	3	4	7	1	TUTTUTS	1	4	7	0	
+0	0	0	U	3	4	7	0		1	5	9	0	
+0	1	16	T	3	4	7	0		3	6	7	1	TOTTERS
+0	0	0	T	3	4	7	0		0	7	6	0	
+0	0	0	U	3	4	7	0		0	8	5	0	
+0	0	0	T	3	4	7	0		0	9	5	0	
+0	0	0	S	3	4	7	0		2	10	3	0	
+0	1	17	A	4	0	3	1	ASS	1	0	4	0	
+0	0	0	S	4	0	3	0		0	1	5	0	
+0	0	0	S	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	7	0		5	3	6	0	
+0	1	18	E	4	4	7	1	ESOTERY	1	4	7	0	
+0	0	0	S	4	4	7	0		1	5	9	0	
+0	0	0	O	4	4	7	0		3	6	7	0	
+0	0	0	T	4	4	7	0		0	7	6	0	
+0	0	0	E	4	4	7	0		0	8	5	0	
+0	0	0	R	4	4	7	0		0	9	5	0	
+0	0	0	Y	4	4	7	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	19	B	5	3	5	1	BOITO	5	3	6	1	BAILOR
+0	0	0	O	5	3	5	0		1	4	7	0	
+0	0	0	I	5	3	5	0		1	5	9	0	
+0	0	0	T	5	3	5	0		3	6	7	0	
+0	0	0	O	5	3	5	0		0	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	4	0	
+0	1	20	R	6	0	7	1	REPAINT	6	0	3	1	RAH
+0	1	21	E	6	0	7	0		6	1	5	1	EBERT
+0	1	22	P	6	0	7	0		6	2	5	1	PRIES
+0	0	0	A	6	0	7	0		5	3	6	0	
+0	0	0	I	6	0	7	0		1	4	7	0	
+0	0	0	N	6	0	7	0		1	5	9	0	
+0	0	0	T	6	0	7	0		3	6	7	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	23	B	6	8	3	1	BFA	6	8	5	1	BRAUN
+0	1	24	F	6	8	3	0		6	9	5	1	FAHDS
+0	1	25	A	6	8	3	0		6	10	4	1	APSO
+0	1	26	A	7	0	7	1	ABRIDGE	6	0	3	0	
+0	0	0	B	7	0	7	0		6	1	5	0	
+0	0	0	R	7	0	7	0		6	2	5	0	
+0	0	0	I	7	0	7	0		5	3	6	0	
+0	0	0	D	7	0	7	0		1	4	7	0	
+0	0	0	G	7	0	7	0		1	5	9	0	
+0	0	0	E	7	0	7	0		3	6	7	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	R	7	8	3	1	RAP	6	8	5	0	
+0	0	0	A	7	8	3	0		6	9	5	0	
+0	0	0	P	7	8	3	0		6	10	4	0	
+0	1	28	H	8	0	4	1	HEIL	6	0	3	0	
+0	0	0	E	8	0	4	0		6	1	5	0	
+0	0	0	I	8	0	4	0		6	2	5	0	
+0	0	0	L	8	0	4	0		5	3	6	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	29	U	8	5	6	1	URIAHS	1	5	9	0	
+0	0	0	R	8	5	6	0		3	6	7	0	
+0	1	30	I	8	5	6	0		8	7	3	1	IER
+0	0	0	A	8	5	6	0		6	8	5	0	
+0	0	0	H	8	5	6	0		6	9	5	0	
+0	0	0	S	8	5	6	0		6	10	4	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	31	R	9	1	3	1	REO	6	1	5	0	
+0	0	0	E	9	1	3	0		6	2	5	0	
+0	0	0	O	9	1	3	0		5	3	6	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	32	P	9	5	6	1	PSEUDO	1	5	9	0	
+0	0	0	S	9	5	6	0		3	6	7	0	
+0	0	0	E	9	5	6	0		8	7	3	0	
+0	0	0	U	9	5	6	0		6	8	5	0	
+0	0	0	D	9	5	6	0		6	9	5	0	
+0	0	0	O	9	5	6	0		6	10	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	33	T	10	1	3	1	TSR	6	1	5	0	
+0	0	0	S	10	1	3	0		6	2	5	0	
+0	0	0	R	10	1	3	0		5	3	6	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	34	R	10	7	3	1	RNS	8	7	3	0	
+0	0	0	N	10	7	3	0		6	8	5	0	
+0	0	0	S	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	ERY	Suffix with mock
+4	GLI	Les : French :: ___ : Italian
+7	ASCOOL	Comparable to a cucumber
+10	HAN	Chinese dynasty name
+11	ESPOSO	Husband, in Hidalgo
+12	ERST	Once, in old times
+14	NET	Snare
+15	TUTTUTS	Remarks of disapproval
+17	ASS	The law, to Mr. Bumble
+18	ESOTERY	Obscure stuff
+19	BOITO	"Mefistofele" composer
+20	REPAINT	Change one's coat?
+23	BFA	Designer's deg.
+26	ABRIDGE	Cut down
+27	RAP	Find fault with
+28	HEIL	Greeting to Hitler
+29	URIAHS	Heep and others
+31	REO	Flying Cloud of 1927-36
+32	PSEUDO	False start?
+33	TSR	Longtime Dungeons & Dragons maker
+34	RNS	Hosp. employees
+19
+1	ESSES	Slalom maneuvers
+2	RCPTS	Sales slips: Abbr.
+3	YOO	___-hoo
+4	GHETTO	Area in need of urban renewal
+5	LARUE	Lash of westerns
+6	INSTR	Wordless song: Abbr.
+7	AENA	Insurance giant
+8	OSTEOID	Bonelike
+9	LOUSINGUP	Botching
+13	TSY	Stowe girl
+16	TOTTERS	Walks unsteadily
+19	BAILOR	Trusty delivery person?
+20	RAH	When repeated, enthusiastic
+21	EBERT	Reviewer Roger
+22	PRIES	Acts like a quidnunc
+23	BRAUN	Big name in coffee makers
+24	FAHDS	Saudi royal and others
+25	APSO	Lhasa ___ (dog)
+30	IER	Suffix with hotel

@@ -1,0 +1,169 @@
+grid_11x11_125
+11
+0	1	1	S	0	0	3	1	SEW	0	0	5	1	SANTO
+0	1	2	E	0	0	3	0		0	1	5	1	ECARD
+0	1	3	W	0	0	3	0		0	2	11	1	WASISNORING
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	S	0	4	3	1	SKI	0	4	3	1	SIR
+0	1	5	K	0	4	3	0		0	5	3	1	KAA
+0	1	6	I	0	4	3	0		0	6	3	1	ISM
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	J	0	8	3	1	JNR	0	8	11	1	JOLLYROGERS
+0	1	8	N	0	8	3	0		0	9	5	1	NPEPA
+0	1	9	R	0	8	3	0		0	10	3	1	RAR
+0	1	10	A	1	0	7	1	ACACIAS	0	0	5	0	
+0	0	0	C	1	0	7	0		0	1	5	0	
+0	0	0	A	1	0	7	0		0	2	11	0	
+0	1	11	C	1	0	7	0		1	3	3	1	CHO
+0	0	0	I	1	0	7	0		0	4	3	0	
+0	0	0	A	1	0	7	0		0	5	3	0	
+0	0	0	S	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	3	0		2	7	4	0	
+0	1	12	O	1	8	3	1	OPA	0	8	11	0	
+0	0	0	P	1	8	3	0		0	9	5	0	
+0	0	0	A	1	8	3	0		0	10	3	0	
+0	1	13	N	2	0	11	1	NASHRAMBLER	0	0	5	0	
+0	0	0	A	2	0	11	0		0	1	5	0	
+0	0	0	S	2	0	11	0		0	2	11	0	
+0	0	0	H	2	0	11	0		1	3	3	0	
+0	0	0	R	2	0	11	0		0	4	3	0	
+0	0	0	A	2	0	11	0		0	5	3	0	
+0	0	0	M	2	0	11	0		0	6	3	0	
+0	1	14	B	2	0	11	0		2	7	4	1	BALE
+0	0	0	L	2	0	11	0		0	8	11	0	
+0	0	0	E	2	0	11	0		0	9	5	0	
+0	0	0	R	2	0	11	0		0	10	3	0	
+0	1	15	T	3	0	4	1	TRIO	0	0	5	0	
+0	0	0	R	3	0	4	0		0	1	5	0	
+0	0	0	I	3	0	4	0		0	2	11	0	
+0	0	0	O	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	3	0	
+0	1	16	A	3	7	3	1	ALP	2	7	4	0	
+0	0	0	L	3	7	3	0		0	8	11	0	
+0	0	0	P	3	7	3	0		0	9	5	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	17	O	4	0	3	1	ODS	0	0	5	0	
+0	0	0	D	4	0	3	0		0	1	5	0	
+0	0	0	S	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	6	0		5	3	4	0	
+0	1	18	W	4	4	6	1	WILLYA	4	4	3	1	WTO
+0	1	19	I	4	4	6	0		4	5	3	1	ITT
+0	1	20	L	4	4	6	0		4	6	3	1	LIA
+0	0	0	L	4	4	6	0		2	7	4	0	
+0	0	0	Y	4	4	6	0		0	8	11	0	
+0	0	0	A	4	4	6	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	7	0		6	1	5	0	
+0	1	21	N	5	2	7	1	NATTIER	0	2	11	0	
+0	1	22	A	5	2	7	0		5	3	4	1	AGAR
+0	0	0	T	5	2	7	0		4	4	3	0	
+0	0	0	T	5	2	7	0		4	5	3	0	
+0	0	0	I	5	2	7	0		4	6	3	0	
+0	0	0	E	5	2	7	0		2	7	4	0	
+0	0	0	R	5	2	7	0		0	8	11	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	5	0	
+1	0	0	#	6	1	6	0		7	0	0	0	
+0	1	23	B	6	1	6	1	BOGOTA	6	1	5	1	BEANO
+0	0	0	O	6	1	6	0		0	2	11	0	
+0	0	0	G	6	1	6	0		5	3	4	0	
+0	0	0	O	6	1	6	0		4	4	3	0	
+0	0	0	T	6	1	6	0		4	5	3	0	
+0	0	0	A	6	1	6	0		4	6	3	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	24	O	6	8	3	1	ONI	0	8	11	0	
+0	1	25	N	6	8	3	0		6	9	5	1	NORUN
+0	1	26	I	6	8	3	0		6	10	5	1	ITSME
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	27	E	7	1	3	1	ERA	6	1	5	0	
+0	0	0	R	7	1	3	0		0	2	11	0	
+0	0	0	A	7	1	3	0		5	3	4	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	28	I	7	7	4	1	IGOT	7	7	3	1	IST
+0	0	0	G	7	7	4	0		0	8	11	0	
+0	0	0	O	7	7	4	0		6	9	5	0	
+0	0	0	T	7	7	4	0		6	10	5	0	
+0	1	29	H	8	0	11	1	HAIRRAISERS	8	0	3	1	HIT
+0	0	0	A	8	0	11	0		6	1	5	0	
+0	0	0	I	8	0	11	0		0	2	11	0	
+0	0	0	R	8	0	11	0		5	3	4	0	
+0	1	30	R	8	0	11	0		8	4	3	1	RND
+0	1	31	A	8	0	11	0		8	5	3	1	AOW
+0	1	32	I	8	0	11	0		8	6	3	1	ISI
+0	0	0	S	8	0	11	0		7	7	3	0	
+0	0	0	E	8	0	11	0		0	8	11	0	
+0	0	0	R	8	0	11	0		6	9	5	0	
+0	0	0	S	8	0	11	0		6	10	5	0	
+0	1	33	I	9	0	3	1	INN	8	0	3	0	
+0	0	0	N	9	0	3	0		6	1	5	0	
+0	0	0	N	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	34	N	9	4	7	1	NOSTRUM	8	4	3	0	
+0	0	0	O	9	4	7	0		8	5	3	0	
+0	0	0	S	9	4	7	0		8	6	3	0	
+0	0	0	T	9	4	7	0		7	7	3	0	
+0	0	0	R	9	4	7	0		0	8	11	0	
+0	0	0	U	9	4	7	0		6	9	5	0	
+0	0	0	M	9	4	7	0		6	10	5	0	
+0	1	35	T	10	0	3	1	TOG	8	0	3	0	
+0	0	0	O	10	0	3	0		6	1	5	0	
+0	0	0	G	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	36	D	10	4	3	1	DWI	8	4	3	0	
+0	0	0	W	10	4	3	0		8	5	3	0	
+0	0	0	I	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	37	S	10	8	3	1	SNE	0	8	11	0	
+0	0	0	N	10	8	3	0		6	9	5	0	
+0	0	0	E	10	8	3	0		6	10	5	0	
+21
+1	SEW	Hem but not haw
+4	SKI	Snowmobile part
+7	JNR	Dad's namesake: Abbr.
+10	ACACIAS	These yield gum arabic
+12	OPA	W.W. II org.
+13	NASHRAMBLER	Car in the Playmates' 1958 hit "Beep Beep"
+15	TRIO	Threesome
+16	ALP	Gran Paradiso, e.g.
+17	ODS	Shows no moderation, briefly
+18	WILLYA	"Pretty please?"
+21	NATTIER	Less frowzy
+23	BOGOTA	Colombia's capital
+24	ONI	Clandestine maritime org.
+27	ERA	Baseball stat.
+28	IGOT	"___ Rhythm"
+29	HAIRRAISERS	Terrifying tales
+33	INN	Place to sojourn
+34	NOSTRUM	Patent medicine, e.g.
+35	TOG	Get dressed (up)
+36	DWI	Drunk motorist's offense, briefly
+37	SNE	1983 Indy winner Tom
+23
+1	SANTO	___ Domingo
+2	ECARD	Greeting in an in-box
+3	WASISNORING	Response to being elbowed, maybe
+4	SIR	Walter Raleigh, for one
+5	KAA	"The Jungle Book" python
+6	ISM	Doctrine: Suffix
+7	JOLLYROGERS	Pirate flags
+8	NPEPA	Salt-___ (rap trio)
+9	RAR	Soldier
+11	CHO	Comedian Margaret
+14	BALE	Cotton quantity
+18	WTO	GATT successor
+19	ITT	Old telecom giant
+20	LIA	___ F
+22	AGAR	Environment for multiplication, of sorts
+23	BEANO	Minor betting game
+25	NORUN	Like some baseball games
+26	ITSME	Response to "Who's there?"
+28	IST	Suffix with special
+29	HIT	Smash
+30	RND	Three minutes, in boxing: Abbr.
+31	AOW	Scoot
+32	ISI	"It ___" (reply to "Who's there?")

@@ -1,0 +1,235 @@
+grid_13x13_171
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	M	0	1	3	1	MOG	0	1	4	1	MUSE
+0	1	2	O	0	1	3	0		0	2	8	1	OLDNORSE
+0	1	3	G	0	1	3	0		0	3	3	1	GLO
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	6	0		1	6	0	0	
+0	1	4	L	0	7	6	1	LOOKER	0	7	7	1	LETSLIE
+0	1	5	O	0	7	6	0		0	8	3	1	OIO
+0	1	6	O	0	7	6	0		0	9	5	1	OLOGY
+0	1	7	K	0	7	6	0		0	10	4	1	KETT
+0	1	8	E	0	7	6	0		0	11	4	1	EEES
+0	1	9	R	0	7	6	0		0	12	3	1	RND
+0	1	10	F	1	0	6	1	FULLER	1	0	3	1	FIT
+0	0	0	U	1	0	6	0		0	1	4	0	
+0	0	0	L	1	0	6	0		0	2	8	0	
+0	0	0	L	1	0	6	0		0	3	3	0	
+0	1	11	E	1	0	6	0		1	4	4	1	ENNA
+0	1	12	R	1	0	6	0		1	5	3	1	REA
+1	0	0	#	1	7	6	0		2	6	0	0	
+0	1	13	E	1	7	6	1	EILEEN	0	7	7	0	
+0	0	0	I	1	7	6	0		0	8	3	0	
+0	0	0	L	1	7	6	0		0	9	5	0	
+0	0	0	E	1	7	6	0		0	10	4	0	
+0	0	0	E	1	7	6	0		0	11	4	0	
+0	0	0	N	1	7	6	0		0	12	3	0	
+0	1	14	I	2	0	6	1	ISDONE	1	0	3	0	
+0	0	0	S	2	0	6	0		0	1	4	0	
+0	0	0	D	2	0	6	0		0	2	8	0	
+0	0	0	O	2	0	6	0		0	3	3	0	
+0	0	0	N	2	0	6	0		1	4	4	0	
+0	0	0	E	2	0	6	0		1	5	3	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	15	T	2	7	6	1	TOOTED	0	7	7	0	
+0	0	0	O	2	7	6	0		0	8	3	0	
+0	0	0	O	2	7	6	0		0	9	5	0	
+0	0	0	T	2	7	6	0		0	10	4	0	
+0	0	0	E	2	7	6	0		0	11	4	0	
+0	0	0	D	2	7	6	0		0	12	3	0	
+0	1	16	T	3	0	3	1	TEN	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	4	0	
+0	0	0	N	3	0	3	0		0	2	8	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	17	N	3	4	4	1	NABS	1	4	4	0	
+0	0	0	A	3	4	4	0		1	5	3	0	
+0	1	18	B	3	4	4	0		3	6	7	1	BILLNYE
+0	0	0	S	3	4	4	0		0	7	7	0	
+1	0	0	#	3	9	3	0		4	8	3	0	
+0	1	19	G	3	9	3	1	GTS	0	9	5	0	
+0	0	0	T	3	9	3	0		0	10	4	0	
+0	0	0	S	3	9	3	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	3	0	
+0	1	20	O	4	2	3	1	OLA	0	2	8	0	
+0	1	21	L	4	2	3	0		4	3	3	1	LOP
+0	0	0	A	4	2	3	0		1	4	4	0	
+1	0	0	#	4	6	4	0		5	5	0	0	
+0	1	22	I	4	6	4	1	ILLY	3	6	7	0	
+0	0	0	L	4	6	4	0		0	7	7	0	
+0	1	23	L	4	6	4	0		4	8	3	1	LCD
+0	0	0	Y	4	6	4	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	8	0	
+1	0	0	#	4	12	0	0		5	11	3	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	M	5	0	4	1	MORO	5	0	3	1	MME
+0	1	25	O	5	0	4	0		5	1	3	1	OIS
+0	0	0	R	5	0	4	0		0	2	8	0	
+0	0	0	O	5	0	4	0		4	3	3	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	3	0		6	5	7	0	
+0	1	26	L	5	6	3	1	LIC	3	6	7	0	
+0	0	0	I	5	6	3	0		0	7	7	0	
+0	0	0	C	5	6	3	0		4	8	3	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	27	M	5	10	3	1	MAM	5	10	8	1	MORALIST
+0	1	28	A	5	10	3	0		5	11	3	1	ARI
+0	1	29	M	5	10	3	0		5	12	3	1	MDT
+0	1	30	M	6	0	13	1	MISPELLEDWORD	5	0	3	0	
+0	0	0	I	6	0	13	0		5	1	3	0	
+0	0	0	S	6	0	13	0		0	2	8	0	
+0	0	0	P	6	0	13	0		4	3	3	0	
+0	1	31	E	6	0	13	0		6	4	3	1	EWW
+0	1	32	L	6	0	13	0		6	5	7	1	LEACHES
+0	0	0	L	6	0	13	0		3	6	7	0	
+0	0	0	E	6	0	13	0		0	7	7	0	
+0	0	0	D	6	0	13	0		4	8	3	0	
+0	1	33	W	6	0	13	0		6	9	3	1	WGN
+0	0	0	O	6	0	13	0		5	10	8	0	
+0	0	0	R	6	0	13	0		5	11	3	0	
+0	0	0	D	6	0	13	0		5	12	3	0	
+0	1	34	E	7	0	3	1	ESE	5	0	3	0	
+0	0	0	S	7	0	3	0		5	1	3	0	
+0	0	0	E	7	0	3	0		0	2	8	0	
+1	0	0	#	7	4	3	0		8	3	5	0	
+0	1	35	W	7	4	3	1	WEN	6	4	3	0	
+0	0	0	E	7	4	3	0		6	5	7	0	
+0	0	0	N	7	4	3	0		3	6	7	0	
+1	0	0	#	7	8	0	0		8	7	0	0	
+1	0	0	#	7	9	4	0		8	8	4	0	
+0	1	36	G	7	9	4	1	GRIT	6	9	3	0	
+0	0	0	R	7	9	4	0		5	10	8	0	
+0	0	0	I	7	9	4	0		5	11	3	0	
+0	0	0	T	7	9	4	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	4	0	
+1	0	0	#	8	3	4	0		9	2	4	0	
+0	1	37	T	8	3	4	1	TWAY	8	3	5	1	TOWNS
+0	0	0	W	8	3	4	0		6	4	3	0	
+0	0	0	A	8	3	4	0		6	5	7	0	
+0	0	0	Y	8	3	4	0		3	6	7	0	
+1	0	0	#	8	8	3	0		9	7	3	0	
+0	1	38	R	8	8	3	1	RNA	8	8	4	1	REPT
+0	0	0	N	8	8	3	0		6	9	3	0	
+0	0	0	A	8	8	3	0		5	10	8	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	39	E	9	1	3	1	EMO	9	1	4	1	ERDA
+0	1	40	M	9	1	3	0		9	2	4	1	MOES
+0	0	0	O	9	1	3	0		8	3	5	0	
+1	0	0	#	9	5	4	0		10	4	3	0	
+0	1	41	C	9	5	4	1	CEPE	6	5	7	0	
+0	0	0	E	9	5	4	0		3	6	7	0	
+0	1	42	P	9	5	4	0		9	7	3	1	PUN
+0	0	0	E	9	5	4	0		8	8	4	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	43	L	9	10	3	1	LEN	5	10	8	0	
+0	1	44	E	9	10	3	0		9	11	4	1	EDTV
+0	1	45	N	9	10	3	0		9	12	3	1	NES
+0	1	46	G	10	0	6	1	GROWTH	10	0	3	1	GOB
+0	0	0	R	10	0	6	0		9	1	4	0	
+0	0	0	O	10	0	6	0		9	2	4	0	
+0	0	0	W	10	0	6	0		8	3	5	0	
+0	1	47	T	10	0	6	0		10	4	3	1	TSO
+0	0	0	H	10	0	6	0		6	5	7	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	48	U	10	7	6	1	UPSIDE	9	7	3	0	
+0	0	0	P	10	7	6	0		8	8	4	0	
+0	1	49	S	10	7	6	0		10	9	3	1	SEM
+0	0	0	I	10	7	6	0		5	10	8	0	
+0	0	0	D	10	7	6	0		9	11	4	0	
+0	0	0	E	10	7	6	0		9	12	3	0	
+0	1	50	O	11	0	6	1	ODENSE	10	0	3	0	
+0	0	0	D	11	0	6	0		9	1	4	0	
+0	0	0	E	11	0	6	0		9	2	4	0	
+0	0	0	N	11	0	6	0		8	3	5	0	
+0	0	0	S	11	0	6	0		10	4	3	0	
+0	0	0	E	11	0	6	0		6	5	7	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	51	N	11	7	6	1	NTESTS	9	7	3	0	
+0	0	0	T	11	7	6	0		8	8	4	0	
+0	0	0	E	11	7	6	0		10	9	3	0	
+0	0	0	S	11	7	6	0		5	10	8	0	
+0	0	0	T	11	7	6	0		9	11	4	0	
+0	0	0	S	11	7	6	0		9	12	3	0	
+0	1	52	B	12	0	6	1	BASSOS	10	0	3	0	
+0	0	0	A	12	0	6	0		9	1	4	0	
+0	0	0	S	12	0	6	0		9	2	4	0	
+0	0	0	S	12	0	6	0		8	3	5	0	
+0	0	0	O	12	0	6	0		10	4	3	0	
+0	0	0	S	12	0	6	0		6	5	7	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	53	M	12	9	3	1	MTV	10	9	3	0	
+0	0	0	T	12	9	3	0		5	10	8	0	
+0	0	0	V	12	9	3	0		9	11	4	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	MOG	Pet cat, in British lingo
+4	LOOKER	Dazzling eyeful
+10	FULLER	More complete
+13	EILEEN	Ford of fashion fame
+14	ISDONE	Needs no more work
+15	TOOTED	Blew
+16	TEN	High end of many scales
+17	NABS	Catches in the act
+19	GTS	Fast sports cars
+20	OLA	"___ Dei"
+22	ILLY	Badly
+24	MORO	1960
+26	LIC	Driver's need: Abbr.
+27	MAM	Mother, colloquially, in Britain
+30	MISPELLEDWORD	This answer contains one
+34	ESE	Ship's heading
+35	WEN	Cyst
+36	GRIT	Backbone
+37	TWAY	Bob ___, 1986 P.G.A. Player of the Year
+38	RNA	It's stranded
+39	EMO	Angsty music genre
+41	CEPE	French chef's mushroom
+43	LEN	Quarterback Dawson
+46	GROWTH	Business goal
+48	UPSIDE	Positive aspect
+50	ODENSE	Birthplace of Hans Christian Andersen
+51	NTESTS	Big blasts, for short
+52	BASSOS	Those playing the role of Boris Godunov
+53	MTV	Network with videos
+33
+1	MUSE	Deliberate
+2	OLDNORSE	The Eddas were written in it
+3	GLO	Shine, in commercial names
+4	LETSLIE	Leaves alone
+5	OIO	Source of some rings
+6	OLOGY	End of many a college major
+7	KETT	Etta of the comics
+8	EEES	Some shoes ... and a feature of this puzzle's theme
+9	RND	Three minutes, in boxing: Abbr.
+10	FIT	In good shape
+11	ENNA	Sicilian city
+12	REA	New Deal proj.
+18	BILLNYE	TV's Science Guy
+21	LOP	Cut (off), as with a sweeping motion
+23	LCD	Like digital clock nos.
+24	MME	Tussaud's title: Abbr.
+25	OIS	French suffix with Qu
+27	MORALIST	Holier-than-thou type
+28	ARI	Jackie O's man
+29	MDT	Summer clock setting, in the Rockies: Abbr.
+31	EWW	"How disgusting!"
+32	LEACHES	Percolates, as water
+33	WGN	Chicago-based Superstation
+37	TOWNS	Hamlet's relatives
+38	REPT	CNN offering: Abbr.
+39	ERDA	Mother of the Valkyries
+40	MOES	Place to which Bart Simpson makes prank calls
+42	PUN	One of about 3,000 in Shakespeare's plays
+44	EDTV	Ron Howard media satire
+45	NES	Super ___ (game system)
+46	GOB	Sailor
+47	TSO	General for whom a style of chicken is named
+49	SEM	Relig. school

@@ -1,0 +1,235 @@
+grid_13x13_26
+13
+0	1	1	I	0	0	3	1	IMS	0	0	3	1	IVO
+0	1	2	M	0	0	3	0		0	1	3	1	MIR
+0	1	3	S	0	0	3	0		0	2	13	1	SOAPOPERATION
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	R	0	5	3	1	RET	0	5	3	1	RTE
+0	1	5	E	0	5	3	0		0	6	3	1	ESO
+0	1	6	T	0	5	3	0		0	7	3	1	TOF
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	S	0	9	3	1	SPA	0	9	7	1	SIMILES
+0	1	8	P	0	9	3	0		0	10	13	1	PEACENOBELIST
+0	1	9	A	0	9	3	0		0	11	4	1	ASHE
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	V	1	0	4	1	VIOL	0	0	3	0	
+0	0	0	I	1	0	4	0		0	1	3	0	
+0	0	0	O	1	0	4	0		0	2	13	0	
+0	1	11	L	1	0	4	0		1	3	3	1	LCD
+1	0	0	#	1	5	3	0		2	4	3	0	
+0	1	12	T	1	5	3	1	TSO	0	5	3	0	
+0	0	0	S	1	5	3	0		0	6	3	0	
+0	0	0	O	1	5	3	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	4	0	
+0	1	13	I	1	9	4	1	IEST	0	9	7	0	
+0	0	0	E	1	9	4	0		0	10	13	0	
+0	0	0	S	1	9	4	0		0	11	4	0	
+0	1	14	T	1	9	4	0		1	12	3	1	TAD
+0	1	15	O	2	0	13	1	ORACLEOFOMAHA	0	0	3	0	
+0	0	0	R	2	0	13	0		0	1	3	0	
+0	0	0	A	2	0	13	0		0	2	13	0	
+0	0	0	C	2	0	13	0		1	3	3	0	
+0	1	16	L	2	0	13	0		2	4	3	1	LST
+0	0	0	E	2	0	13	0		0	5	3	0	
+0	0	0	O	2	0	13	0		0	6	3	0	
+0	0	0	F	2	0	13	0		0	7	3	0	
+0	1	17	O	2	0	13	0		2	8	4	1	ORAN
+0	0	0	M	2	0	13	0		0	9	7	0	
+0	0	0	A	2	0	13	0		0	10	13	0	
+0	0	0	H	2	0	13	0		0	11	4	0	
+0	0	0	A	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	18	P	3	2	3	1	PDS	0	2	13	0	
+0	0	0	D	3	2	3	0		1	3	3	0	
+0	0	0	S	3	2	3	0		2	4	3	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	19	R	3	8	5	1	RICED	2	8	4	0	
+0	0	0	I	3	8	5	0		0	9	7	0	
+0	0	0	C	3	8	5	0		0	10	13	0	
+0	0	0	E	3	8	5	0		0	11	4	0	
+0	0	0	D	3	8	5	0		1	12	3	0	
+0	1	20	Y	4	0	3	1	YAO	4	0	3	1	YAH
+0	1	21	A	4	0	3	0		4	1	4	1	AROO
+0	0	0	O	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	22	T	4	4	3	1	TUE	2	4	3	0	
+0	1	23	U	4	4	3	0		4	5	4	1	UPON
+0	1	24	E	4	4	3	0		4	6	5	1	EHUDS
+1	0	0	#	4	8	3	0		5	7	4	0	
+0	1	25	A	4	8	3	1	ALE	2	8	4	0	
+0	0	0	L	4	8	3	0		0	9	7	0	
+0	0	0	E	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	26	A	5	0	3	1	ARP	4	0	3	0	
+0	0	0	R	5	0	3	0		4	1	4	0	
+0	0	0	P	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	0	0		6	3	7	0	
+1	0	0	#	5	5	7	0		6	4	0	0	
+0	1	27	P	5	5	7	1	PHONENO	4	5	4	0	
+0	0	0	H	5	5	7	0		4	6	5	0	
+0	1	28	O	5	5	7	0		5	7	4	1	OTOS
+0	0	0	N	5	5	7	0		2	8	4	0	
+0	0	0	E	5	5	7	0		0	9	7	0	
+0	0	0	N	5	5	7	0		0	10	13	0	
+0	1	29	O	5	5	7	0		5	11	4	1	OILY
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	30	H	6	0	4	1	HOES	4	0	3	0	
+0	0	0	O	6	0	4	0		4	1	4	0	
+0	0	0	E	6	0	4	0		0	2	13	0	
+0	1	31	S	6	0	4	0		6	3	7	1	SLIPONS
+1	0	0	#	6	5	3	0		7	4	4	0	
+0	1	32	O	6	5	3	1	OUT	4	5	4	0	
+0	0	0	U	6	5	3	0		4	6	5	0	
+0	0	0	T	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	33	S	6	9	4	1	SOIL	0	9	7	0	
+0	0	0	O	6	9	4	0		0	10	13	0	
+0	0	0	I	6	9	4	0		5	11	4	0	
+0	1	34	L	6	9	4	0		6	12	3	1	LYE
+1	0	0	#	7	1	7	0		8	0	0	0	
+0	1	35	O	7	1	7	1	ORLANDO	4	1	4	0	
+0	0	0	R	7	1	7	0		0	2	13	0	
+0	0	0	L	7	1	7	0		6	3	7	0	
+0	1	36	A	7	1	7	0		7	4	4	1	ALEN
+0	0	0	N	7	1	7	0		4	5	4	0	
+0	0	0	D	7	1	7	0		4	6	5	0	
+0	0	0	O	7	1	7	0		5	7	4	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	37	B	7	10	3	1	BLY	0	10	13	0	
+0	0	0	L	7	10	3	0		5	11	4	0	
+0	0	0	Y	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	38	A	8	2	3	1	AIL	0	2	13	0	
+0	0	0	I	8	2	3	0		6	3	7	0	
+0	0	0	L	8	2	3	0		7	4	4	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	39	S	8	6	3	1	SSE	4	6	5	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	1	40	E	8	6	3	0		8	8	3	1	EUI
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	41	E	8	10	3	1	EYE	0	10	13	0	
+0	0	0	Y	8	10	3	0		5	11	4	0	
+0	0	0	E	8	10	3	0		6	12	3	0	
+0	1	42	P	9	0	5	1	POTPE	9	0	3	1	PUB
+0	1	43	O	9	0	5	0		9	1	4	1	ONUE
+0	0	0	T	9	0	5	0		0	2	13	0	
+0	0	0	P	9	0	5	0		6	3	7	0	
+0	0	0	E	9	0	5	0		7	4	4	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	44	U	9	8	3	1	URL	8	8	3	0	
+0	1	45	R	9	8	3	0		9	9	3	1	RCT
+0	0	0	L	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	U	10	0	13	1	UNIONOFFICIAL	9	0	3	0	
+0	0	0	N	10	0	13	0		9	1	4	0	
+0	0	0	I	10	0	13	0		0	2	13	0	
+0	0	0	O	10	0	13	0		6	3	7	0	
+0	0	0	N	10	0	13	0		7	4	4	0	
+0	1	47	O	10	0	13	0		10	5	3	1	ORI
+0	1	48	F	10	0	13	0		10	6	3	1	FIR
+0	1	49	F	10	0	13	0		10	7	3	1	FST
+0	0	0	I	10	0	13	0		8	8	3	0	
+0	0	0	C	10	0	13	0		9	9	3	0	
+0	0	0	I	10	0	13	0		0	10	13	0	
+0	1	50	A	10	0	13	0		10	11	3	1	AOW
+0	1	51	L	10	0	13	0		10	12	3	1	LSI
+0	1	52	B	11	0	4	1	BUON	9	0	3	0	
+0	0	0	U	11	0	4	0		9	1	4	0	
+0	0	0	O	11	0	4	0		0	2	13	0	
+0	0	0	N	11	0	4	0		6	3	7	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	53	R	11	5	3	1	RIS	10	5	3	0	
+0	0	0	I	11	5	3	0		10	6	3	0	
+0	0	0	S	11	5	3	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	54	T	11	9	4	1	TSOS	9	9	3	0	
+0	0	0	S	11	9	4	0		0	10	13	0	
+0	0	0	O	11	9	4	0		10	11	3	0	
+0	0	0	S	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	55	E	12	1	3	1	ENS	9	1	4	0	
+0	0	0	N	12	1	3	0		0	2	13	0	
+0	0	0	S	12	1	3	0		6	3	7	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	56	I	12	5	3	1	IRT	10	5	3	0	
+0	0	0	R	12	5	3	0		10	6	3	0	
+0	0	0	T	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	57	T	12	10	3	1	TWI	0	10	13	0	
+0	0	0	W	12	10	3	0		10	11	3	0	
+0	0	0	I	12	10	3	0		10	12	3	0	
+31
+1	IMS	Exchanges that may come with emoticons, briefly
+4	RET	No longer doing the job?: Abbr.
+7	SPA	Place to relax
+10	VIOL	Its players take a bow
+12	TSO	General on a Chinese menu
+13	IEST	Superlative ending
+15	ORACLEOFOMAHA	Warren Buffett's sobriquet
+18	PDS	They have precincts: Abbr.
+19	RICED	Not quite mashed
+20	YAO	Shanghai-born N.B.A. star
+22	TUE	Day of the wk.
+25	ALE	Rathskeller quaff
+26	ARP	Artist Jean
+27	PHONENO	Info on a bus. card
+30	HOES	Things that turn up in gardens?
+32	OUT	Available for purchase
+33	SOIL	Sully
+35	ORLANDO	Virginia Woolf novel
+37	BLY	Global traveler Nellie
+38	AIL	Feel under the weather
+39	SSE	Scranton-to-Philadelphia dir.
+41	EYE	One of Argus's array
+42	POTPE	Single-dish meal
+44	URL	Hi-tech bookmark
+46	UNIONOFFICIAL	#6: Justice of the peace?
+52	BUON	"___ appetito!"
+53	RIS	Loire laugh
+54	TSOS	General ___ chicken (Chinese dish)
+55	ENS	U.S.N. junior officer: Abbr.
+56	IRT	N.Y.C. line
+57	TWI	Light head?
+31
+1	IVO	1961 Literature Nobelist ___ Andric
+2	MIR	Onetime Soyuz destination
+3	SOAPOPERATION	"Detergent factory, e.g.?"
+4	RTE	Abbr. usually followed by a number
+5	ESO	Anka's "___ Beso"
+6	TOF	___ a kind (pair)
+7	SIMILES	Like things?
+8	PEACENOBELIST	"Begin, later in life"
+9	ASHE	"But, ___ was ambitious, I slew him": Brutus
+11	LCD	Screen abbr.
+14	TAD	Shaver
+16	LST	D-Day carrier: Abbr.
+17	ORAN	Port captured by Allied forces in 1942
+20	YAH	Derisive word
+21	AROO	Buck chaser?
+23	UPON	At the time of
+24	EHUDS	Israel's Barak and Olmert
+28	OTOS	Western Indians
+29	OILY	Not to be trusted
+31	SLIPONS	Loafers, e.g.
+34	LYE	Heavy-duty cleanser
+36	ALEN	Art Deco architect William Van ___
+40	EUI	Pins and needles' place
+42	PUB	Suds source
+43	ONUE	When expected
+45	RCT	Sales slip: Abbr.
+47	ORI	"...___ quit!"
+48	FIR	Balsam, e.g.
+49	FST	Camera setting
+50	AOW	Scoot
+51	LSI	Long-running B'way musical seen by couples?

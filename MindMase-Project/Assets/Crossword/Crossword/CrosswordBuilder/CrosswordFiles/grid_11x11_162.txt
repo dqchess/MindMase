@@ -1,0 +1,167 @@
+grid_11x11_162
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	5	0	
+0	1	1	S	0	3	3	1	SUE	0	3	4	1	SNOB
+0	1	2	U	0	3	3	0		0	4	3	1	UIR
+0	1	3	E	0	3	3	0		0	5	3	1	ENS
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	5	0	
+0	1	4	S	0	8	3	1	SLE	0	8	4	1	SMEE
+0	1	5	L	0	8	3	0		0	9	4	1	LINZ
+0	1	6	E	0	8	3	0		0	10	3	1	EDT
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	7	K	1	1	5	1	KANIN	1	1	5	1	KNEEH
+0	1	8	A	1	1	5	0		1	2	5	1	ADEAR
+0	0	0	N	1	1	5	0		0	3	4	0	
+0	0	0	I	1	1	5	0		0	4	3	0	
+0	0	0	N	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	9	A	1	7	4	1	AMID	1	7	5	1	AMNIO
+0	0	0	M	1	7	4	0		0	8	4	0	
+0	0	0	I	1	7	4	0		0	9	4	0	
+0	0	0	D	1	7	4	0		0	10	3	0	
+0	1	10	E	2	0	11	1	ENDORSEMENT	2	0	3	1	EBB
+0	0	0	N	2	0	11	0		1	1	5	0	
+0	0	0	D	2	0	11	0		1	2	5	0	
+0	0	0	O	2	0	11	0		0	3	4	0	
+0	0	0	R	2	0	11	0		0	4	3	0	
+0	0	0	S	2	0	11	0		0	5	3	0	
+0	1	11	E	2	0	11	0		2	6	4	1	EYER
+0	0	0	M	2	0	11	0		1	7	5	0	
+0	0	0	E	2	0	11	0		0	8	4	0	
+0	0	0	N	2	0	11	0		0	9	4	0	
+0	0	0	T	2	0	11	0		0	10	3	0	
+0	1	12	B	3	0	4	1	BEEB	2	0	3	0	
+0	0	0	E	3	0	4	0		1	1	5	0	
+0	0	0	E	3	0	4	0		1	2	5	0	
+0	0	0	B	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	13	Y	3	6	4	1	YNEZ	2	6	4	0	
+0	0	0	N	3	6	4	0		1	7	5	0	
+0	0	0	E	3	6	4	0		0	8	4	0	
+0	0	0	Z	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	14	B	4	0	3	1	BEA	2	0	3	0	
+0	0	0	E	4	0	3	0		1	1	5	0	
+0	0	0	A	4	0	3	0		1	2	5	0	
+1	0	0	#	4	4	0	0		5	3	5	0	
+1	0	0	#	4	5	3	0		5	4	4	0	
+0	1	15	B	4	5	3	1	BEI	4	5	3	1	BBL
+0	0	0	E	4	5	3	0		2	6	4	0	
+0	0	0	I	4	5	3	0		1	7	5	0	
+1	0	0	#	4	9	0	0		5	8	5	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	16	H	5	1	9	1	HRAPBROWN	1	1	5	0	
+0	0	0	R	5	1	9	0		1	2	5	0	
+0	1	17	A	5	1	9	0		5	3	5	1	ATOOL
+0	1	18	P	5	1	9	0		5	4	4	1	PICK
+0	0	0	B	5	1	9	0		4	5	3	0	
+0	0	0	R	5	1	9	0		2	6	4	0	
+0	0	0	O	5	1	9	0		1	7	5	0	
+0	1	19	W	5	1	9	0		5	8	5	1	WORSE
+0	1	20	N	5	1	9	0		5	9	5	1	NTEST
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	21	T	6	3	3	1	TIL	5	3	5	0	
+0	0	0	I	6	3	3	0		5	4	4	0	
+0	0	0	L	6	3	3	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	22	O	6	8	3	1	OTC	5	8	5	0	
+0	0	0	T	6	8	3	0		5	9	5	0	
+0	1	23	C	6	8	3	0		6	10	3	1	CED
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	24	E	7	1	4	1	EEOC	7	1	4	1	EREI
+0	1	25	E	7	1	4	0		7	2	4	1	EONS
+0	0	0	O	7	1	4	0		5	3	5	0	
+0	0	0	C	7	1	4	0		5	4	4	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	26	A	7	7	4	1	AREE	7	7	4	1	AGNI
+0	0	0	R	7	7	4	0		5	8	5	0	
+0	0	0	E	7	7	4	0		5	9	5	0	
+0	0	0	E	7	7	4	0		6	10	3	0	
+0	1	27	B	8	0	11	1	BROOKINGSSD	8	0	3	1	BKS
+0	0	0	R	8	0	11	0		7	1	4	0	
+0	0	0	O	8	0	11	0		7	2	4	0	
+0	0	0	O	8	0	11	0		5	3	5	0	
+0	0	0	K	8	0	11	0		5	4	4	0	
+0	1	28	I	8	0	11	0		8	5	3	1	IFS
+0	1	29	N	8	0	11	0		8	6	3	1	NAN
+0	0	0	G	8	0	11	0		7	7	4	0	
+0	0	0	S	8	0	11	0		5	8	5	0	
+0	0	0	S	8	0	11	0		5	9	5	0	
+0	0	0	D	8	0	11	0		6	10	3	0	
+0	1	30	K	9	0	4	1	KENL	8	0	3	0	
+0	0	0	E	9	0	4	0		7	1	4	0	
+0	0	0	N	9	0	4	0		7	2	4	0	
+0	0	0	L	9	0	4	0		5	3	5	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	31	F	9	5	5	1	FANET	8	5	3	0	
+0	0	0	A	9	5	5	0		8	6	3	0	
+0	0	0	N	9	5	5	0		7	7	4	0	
+0	0	0	E	9	5	5	0		5	8	5	0	
+0	0	0	T	9	5	5	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	32	S	10	0	3	1	SIS	8	0	3	0	
+0	0	0	I	10	0	3	0		7	1	4	0	
+0	0	0	S	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	33	S	10	5	3	1	SNI	8	5	3	0	
+0	0	0	N	10	5	3	0		8	6	3	0	
+0	0	0	I	10	5	3	0		7	7	4	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	SUE	Go after
+4	SLE	Trickiness
+7	KANIN	"Born Yesterday" playwright
+9	AMID	Surrounded by
+10	ENDORSEMENT	Star athlete's plum
+12	BEEB	Programme airer, with "the"
+13	YNEZ	California's Santa ___ Valley
+14	BEA	"___ pal..."
+15	BEI	Near, in Niedersachsen
+16	HRAPBROWN	Black activist of the 60's
+21	TIL	"... ___ the cows come home"
+22	OTC	Stock market abbr.
+24	EEOC	Fair-hiring org.
+26	AREE	Answer to the riddle "Dressed in summer, naked in winter"
+27	BROOKINGSSD	University town with ZIP code 57006
+30	KENL	___ Ration (dog food brand)
+31	FANET	Certain engine
+32	SIS	Cheer starter
+33	SNI	___ and snee
+23
+1	SNOB	Uppity type
+2	UIR	Onetime TWA rival
+3	ENS	U.S.N.A. grad
+4	SMEE	Barrie baddie
+5	LINZ	Austrian city on the Danube
+6	EDT	Summer clock setting: Abbr.
+7	KNEEH	Space under a desk
+8	ADEAR	"Be ___..."
+9	AMNIO	Job for an ob/gyn
+10	EBB	A drop in the ocean?
+11	EYER	Witness
+15	BBL	Unit of oil production: Abbr.
+17	ATOOL	"You're such ___" (teen put-down)
+18	PICK	Horse on a ticket
+19	WORSE	Not so good
+20	NTEST	Weapons check, in brief
+23	CED	Like associates, on some e-mails
+24	EREI	"...___ saw Elba"
+25	EONS	An eternity, seemingly
+26	AGNI	Lambs: Lat.
+27	BKS	Bibliophile's love: Abbr.
+28	IFS	What-___
+29	NAN	Tandoori-baked bread

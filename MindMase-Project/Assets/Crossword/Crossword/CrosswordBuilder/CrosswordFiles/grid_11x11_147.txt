@@ -1,0 +1,169 @@
+grid_11x11_147
+11
+0	1	1	I	0	0	3	1	IPS	0	0	6	1	INMONO
+0	1	2	P	0	0	3	0		0	1	6	1	PEERIN
+0	1	3	S	0	0	3	0		0	2	11	1	SWEENEYTODD
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	N	0	4	3	1	NAA	0	4	3	1	NIH
+0	1	5	A	0	4	3	0		0	5	3	1	ANA
+0	1	6	A	0	4	3	0		0	6	6	1	ATLAST
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	P	0	8	3	1	PEC	0	8	11	1	POWEROUTAGE
+0	1	8	E	0	8	3	0		0	9	4	1	EMAC
+0	1	9	C	0	8	3	0		0	10	3	1	CEY
+0	1	10	N	1	0	7	1	NEWMINT	0	0	6	0	
+0	0	0	E	1	0	7	0		0	1	6	0	
+0	0	0	W	1	0	7	0		0	2	11	0	
+0	1	11	M	1	0	7	0		1	3	3	1	MTS
+0	0	0	I	1	0	7	0		0	4	3	0	
+0	0	0	N	1	0	7	0		0	5	3	0	
+0	0	0	T	1	0	7	0		0	6	6	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	12	O	1	8	3	1	OME	0	8	11	0	
+0	0	0	M	1	8	3	0		0	9	4	0	
+0	0	0	E	1	8	3	0		0	10	3	0	
+0	1	13	M	2	0	11	1	MEETHALFWAY	0	0	6	0	
+0	0	0	E	2	0	11	0		0	1	6	0	
+0	0	0	E	2	0	11	0		0	2	11	0	
+0	0	0	T	2	0	11	0		1	3	3	0	
+0	0	0	H	2	0	11	0		0	4	3	0	
+0	0	0	A	2	0	11	0		0	5	3	0	
+0	0	0	L	2	0	11	0		0	6	6	0	
+0	1	14	F	2	0	11	0		2	7	3	1	FLA
+0	0	0	W	2	0	11	0		0	8	11	0	
+0	0	0	A	2	0	11	0		0	9	4	0	
+0	0	0	Y	2	0	11	0		0	10	3	0	
+0	1	15	O	3	0	4	1	ORES	0	0	6	0	
+0	0	0	R	3	0	4	0		0	1	6	0	
+0	0	0	E	3	0	4	0		0	2	11	0	
+0	0	0	S	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	16	A	3	6	4	1	ALEC	0	6	6	0	
+0	0	0	L	3	6	4	0		2	7	3	0	
+0	0	0	E	3	6	4	0		0	8	11	0	
+0	0	0	C	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	17	N	4	0	3	1	NIN	0	0	6	0	
+0	0	0	I	4	0	3	0		0	1	6	0	
+0	0	0	N	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	4	0		5	4	6	0	
+0	1	18	T	4	5	4	1	TSAR	4	5	3	1	TDS
+0	0	0	S	4	5	4	0		0	6	6	0	
+0	0	0	A	4	5	4	0		2	7	3	0	
+0	0	0	R	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	6	0	
+0	1	19	O	5	0	3	1	ONE	0	0	6	0	
+0	0	0	N	5	0	3	0		0	1	6	0	
+0	0	0	E	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	C	5	4	3	1	CDT	5	4	6	1	CPSNOW
+0	0	0	D	5	4	3	0		4	5	3	0	
+0	0	0	T	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	O	5	8	3	1	OBS	0	8	11	0	
+0	1	22	B	5	8	3	0		5	9	6	1	BRINES
+0	1	23	S	5	8	3	0		5	10	6	1	SUEDES
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	24	Y	6	2	4	1	YIPS	0	2	11	0	
+0	1	25	I	6	2	4	0		6	3	3	1	IVO
+0	0	0	P	6	2	4	0		5	4	6	0	
+0	0	0	S	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	26	U	6	8	3	1	URU	0	8	11	0	
+0	0	0	R	6	8	3	0		5	9	6	0	
+0	0	0	U	6	8	3	0		5	10	6	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	A	7	1	4	1	ATVS	7	1	4	1	ADDS
+0	0	0	T	7	1	4	0		0	2	11	0	
+0	0	0	V	7	1	4	0		6	3	3	0	
+0	0	0	S	7	1	4	0		5	4	6	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	28	A	7	7	4	1	ATIE	7	7	3	1	AMI
+0	0	0	T	7	7	4	0		0	8	11	0	
+0	0	0	I	7	7	4	0		5	9	6	0	
+0	0	0	E	7	7	4	0		5	10	6	0	
+0	1	29	V	8	0	11	1	VDOONDEMAND	8	0	3	1	VOA
+0	0	0	D	8	0	11	0		7	1	4	0	
+0	0	0	O	8	0	11	0		0	2	11	0	
+0	0	0	O	8	0	11	0		6	3	3	0	
+0	0	0	N	8	0	11	0		5	4	6	0	
+0	1	30	D	8	0	11	0		8	5	3	1	DBL
+0	1	31	E	8	0	11	0		8	6	3	1	ELE
+0	0	0	M	8	0	11	0		7	7	3	0	
+0	0	0	A	8	0	11	0		0	8	11	0	
+0	0	0	N	8	0	11	0		5	9	6	0	
+0	0	0	D	8	0	11	0		5	10	6	0	
+0	1	32	O	9	0	3	1	ODD	8	0	3	0	
+0	0	0	D	9	0	3	0		7	1	4	0	
+0	0	0	D	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	33	O	9	4	7	1	OBLIGEE	5	4	6	0	
+0	0	0	B	9	4	7	0		8	5	3	0	
+0	0	0	L	9	4	7	0		8	6	3	0	
+0	0	0	I	9	4	7	0		7	7	3	0	
+0	0	0	G	9	4	7	0		0	8	11	0	
+0	0	0	E	9	4	7	0		5	9	6	0	
+0	0	0	E	9	4	7	0		5	10	6	0	
+0	1	34	A	10	0	3	1	ASD	8	0	3	0	
+0	0	0	S	10	0	3	0		7	1	4	0	
+0	0	0	D	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	35	W	10	4	3	1	WLE	5	4	6	0	
+0	0	0	L	10	4	3	0		8	5	3	0	
+0	0	0	E	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	E	10	8	3	1	ESS	0	8	11	0	
+0	0	0	S	10	8	3	0		5	9	6	0	
+0	0	0	S	10	8	3	0		5	10	6	0	
+23
+1	IPS	Velocity meas.
+4	NAA	Sports org.
+7	PEC	Muscle builder's muscle, for short
+10	NEWMINT	Create afresh
+12	OME	Cockney residence
+13	MEETHALFWAY	Give a little, take a little
+15	ORES	Cinnabar, taconite, etc.
+16	ALEC	Tina's "30 Rock" co-star
+17	NIN	"Cities of the Interior" novelist
+18	TSAR	Pre-Communist autocrat
+19	ONE	Missing broadcast channel
+20	CDT	Spring setting in Chi-Town
+21	OBS	M.D.'s who deliver
+24	YIPS	Sounds in pounds
+26	URU	Arg. neighbor
+27	ATVS	Off-road bikes, for short
+28	ATIE	End in ___
+29	VDOONDEMAND	Streaming content
+32	ODD	Like 1, 3 or 7
+33	OBLIGEE	Bond recipient, in law
+34	ASD	Comparable in years
+35	WLE	Corduroy ridge
+36	ESS	Tricky curve
+21
+1	INMONO	Like old AM radio
+2	PEERIN	Look through a keyhole
+3	SWEENEYTODD	1979 musical about a half-mad barber
+4	NIH	Fed. biomedical research agency
+5	ANA	Bibliographical suffix
+6	ATLAST	Cry of relief
+7	POWEROUTAGE	Candle-lighting occasion
+8	EMAC	Apple originally marketed to schools
+9	CEY	Former Dodgers third baseman whom Chris Berman nicknamed "Born in the U.S."
+11	MTS	They're on the horizon: Abbr.
+14	FLA	Ga. neighbor
+18	TDS	Slo-mo replay subjects, often
+20	CPSNOW	"Strangers and Brothers" novelist
+22	BRINES	Pickle juices
+23	SUEDES	Some leathers
+25	IVO	___ Andric, 1961 Literature Nobelist
+27	ADDS	Contributes
+28	AMI	Athos or Porthos, e.g.
+29	VOA	Overseas broadcasting service: Abbr.
+30	DBL	R.B.I. producer, sometimes: Abbr.
+31	ELE	One in the charge of un instituteur

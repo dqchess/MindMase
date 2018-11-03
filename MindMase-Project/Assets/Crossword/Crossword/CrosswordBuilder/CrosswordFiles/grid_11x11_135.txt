@@ -1,0 +1,163 @@
+grid_11x11_135
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	9	0	
+0	1	1	Y	0	3	3	1	YOS	0	3	4	1	YURT
+0	1	2	O	0	3	3	0		0	4	3	1	OED
+0	1	3	S	0	3	3	0		0	5	3	1	SEE
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	9	0	
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	10	0		2	0	4	0	
+0	1	4	S	1	1	10	1	SQUEEZEBOX	1	1	5	1	SOTTO
+0	1	5	Q	1	1	10	0		1	2	9	1	QUADRATIC
+0	0	0	U	1	1	10	0		0	3	4	0	
+0	0	0	E	1	1	10	0		0	4	3	0	
+0	0	0	E	1	1	10	0		0	5	3	0	
+0	1	6	Z	1	1	10	0		1	6	5	1	ZFORT
+0	1	7	E	1	1	10	0		1	7	4	1	EONS
+0	1	8	B	1	1	10	0		1	8	9	1	BREEZESIN
+0	1	9	O	1	1	10	0		1	9	3	1	OCA
+0	1	10	X	1	1	10	0		1	10	3	1	XED
+0	1	11	T	2	0	11	1	TOURDEFORCE	2	0	4	1	TASM
+0	0	0	O	2	0	11	0		1	1	5	0	
+0	0	0	U	2	0	11	0		1	2	9	0	
+0	0	0	R	2	0	11	0		0	3	4	0	
+0	0	0	D	2	0	11	0		0	4	3	0	
+0	0	0	E	2	0	11	0		0	5	3	0	
+0	0	0	F	2	0	11	0		1	6	5	0	
+0	0	0	O	2	0	11	0		1	7	4	0	
+0	0	0	R	2	0	11	0		1	8	9	0	
+0	0	0	C	2	0	11	0		1	9	3	0	
+0	0	0	E	2	0	11	0		1	10	3	0	
+0	1	12	A	3	0	4	1	ATAT	2	0	4	0	
+0	0	0	T	3	0	4	0		1	1	5	0	
+0	0	0	A	3	0	4	0		1	2	9	0	
+0	0	0	T	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	13	O	3	6	5	1	ONEAD	1	6	5	0	
+0	0	0	N	3	6	5	0		1	7	4	0	
+0	0	0	E	3	6	5	0		1	8	9	0	
+0	0	0	A	3	6	5	0		1	9	3	0	
+0	0	0	D	3	6	5	0		1	10	3	0	
+0	1	14	S	4	0	3	1	STD	2	0	4	0	
+0	0	0	T	4	0	3	0		1	1	5	0	
+0	0	0	D	4	0	3	0		1	2	9	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	4	0		5	4	5	0	
+0	1	15	O	4	5	4	1	ORSE	4	5	3	1	OAM
+0	0	0	R	4	5	4	0		1	6	5	0	
+0	0	0	S	4	5	4	0		1	7	4	0	
+0	0	0	E	4	5	4	0		1	8	9	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	4	0	
+0	1	16	M	5	0	3	1	MOR	2	0	4	0	
+0	0	0	O	5	0	3	0		1	1	5	0	
+0	0	0	R	5	0	3	0		1	2	9	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	17	S	5	4	3	1	SAT	5	4	5	1	SIREN
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	0	0	T	5	4	3	0		1	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	18	Z	5	8	3	1	ZIP	1	8	9	0	
+0	1	19	I	5	8	3	0		5	9	5	1	ISBAD
+0	1	20	P	5	8	3	0		5	10	4	1	PENN
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	4	0		7	1	3	0	
+0	1	21	A	6	2	4	1	ANIM	1	2	9	0	
+0	1	22	N	6	2	4	0		6	3	4	1	NOMO
+0	0	0	I	6	2	4	0		5	4	5	0	
+0	0	0	M	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	23	E	6	8	3	1	ESE	1	8	9	0	
+0	0	0	S	6	8	3	0		5	9	5	0	
+0	0	0	E	6	8	3	0		5	10	4	0	
+0	1	24	M	7	0	5	1	MOTOR	7	0	3	1	MPS
+0	1	25	O	7	0	5	0		7	1	3	1	ORE
+0	0	0	T	7	0	5	0		1	2	9	0	
+0	0	0	O	7	0	5	0		6	3	4	0	
+0	0	0	R	7	0	5	0		5	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	26	I	7	7	4	1	ISBN	7	7	4	1	IDIO
+0	0	0	S	7	7	4	0		1	8	9	0	
+0	0	0	B	7	7	4	0		5	9	5	0	
+0	0	0	N	7	7	4	0		5	10	4	0	
+0	1	27	P	8	0	11	1	PRIMERIDIAN	7	0	3	0	
+0	0	0	R	8	0	11	0		7	1	3	0	
+0	0	0	I	8	0	11	0		1	2	9	0	
+0	0	0	M	8	0	11	0		6	3	4	0	
+0	0	0	E	8	0	11	0		5	4	5	0	
+0	1	28	R	8	0	11	0		8	5	3	1	RDY
+0	1	29	I	8	0	11	0		8	6	3	1	IWO
+0	0	0	D	8	0	11	0		7	7	4	0	
+0	0	0	I	8	0	11	0		1	8	9	0	
+0	0	0	A	8	0	11	0		5	9	5	0	
+0	0	0	N	8	0	11	0		5	10	4	0	
+0	1	30	S	9	0	10	1	SECONDWIND	7	0	3	0	
+0	0	0	E	9	0	10	0		7	1	3	0	
+0	0	0	C	9	0	10	0		1	2	9	0	
+0	0	0	O	9	0	10	0		6	3	4	0	
+0	0	0	N	9	0	10	0		5	4	5	0	
+0	0	0	D	9	0	10	0		8	5	3	0	
+0	0	0	W	9	0	10	0		8	6	3	0	
+0	0	0	I	9	0	10	0		7	7	4	0	
+0	0	0	N	9	0	10	0		1	8	9	0	
+0	0	0	D	9	0	10	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	0	0		11	2	0	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	31	Y	10	5	3	1	YOO	8	5	3	0	
+0	0	0	O	10	5	3	0		8	6	3	0	
+0	0	0	O	10	5	3	0		7	7	4	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+17
+1	YOS	Cries for attention
+4	SQUEEZEBOX	Concertina, informally
+11	TOURDEFORCE	Impressive achievement
+12	ATAT	Rat-___
+13	ONEAD	Millennium starter
+14	STD	Part of P.S.T.: Abbr.
+15	ORSE	Charger, to a Cockney
+16	MOR	Neighbor of Alg.
+17	SAT	Took a load off
+18	ZIP	Number after many a state postal abbr.
+21	ANIM	Lively, in mus.
+23	ESE	Sioux Falls-to-Cedar Rapids dir.
+24	MOTOR	Kind of mouth
+26	ISBN	Library ID
+27	PRIMERIDIAN	Line in London
+30	SECONDWIND	Something caught near the end of a race?
+31	YOO	"___-hoo!"
+21
+1	YURT	Tentlike dwelling with a conical roof
+2	OED	Philologists' work, for short
+3	SEE	Notice
+4	SOTTO	Lower than: It.
+5	QUADRATIC	Yielding a parabola, in a way
+6	ZFORT	Bad day's record for a batter
+7	EONS	Ages and ages
+8	BREEZESIN	Arrives without ceremony
+9	OCA	Wood sorrel
+10	XED	Marked, on a ballot
+11	TASM	Australian island: Abbr.
+15	OAM	When "S.N.L." ends
+17	SIREN	Lorelei, e.g.
+19	ISBAD	Misbehaves
+20	PENN	State-founding Friend
+22	NOMO	Pitcher Hideo ___
+24	MPS	House of Commons members: Abbr.
+25	ORE	Ida. neighbor
+26	IDIO	One's own, for a starter
+28	RDY	At a low ___
+29	IWO	Sulphur Island, for short

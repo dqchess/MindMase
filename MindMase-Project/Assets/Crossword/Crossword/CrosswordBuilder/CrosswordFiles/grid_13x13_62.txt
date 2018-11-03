@@ -1,0 +1,229 @@
+grid_13x13_62
+13
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	H	0	2	3	1	HUK	0	2	13	1	HOTONTHESCENT
+0	1	2	U	0	2	3	0		0	3	3	1	UNI
+0	1	3	K	0	2	3	0		0	4	3	1	KON
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	V	0	8	3	1	VIA	0	8	3	1	VCR
+0	1	5	I	0	8	3	0		0	9	5	1	ITASA
+0	1	6	A	0	8	3	0		0	10	13	1	ANGELASHASHES
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	I	1	0	7	1	IRONONS	1	0	3	1	IPA
+0	1	8	R	1	0	7	0		1	1	5	1	RUNES
+0	0	0	O	1	0	7	0		0	2	13	0	
+0	0	0	N	1	0	7	0		0	3	3	0	
+0	0	0	O	1	0	7	0		0	4	3	0	
+0	1	9	N	1	0	7	0		1	5	3	1	NSF
+0	1	10	S	1	0	7	0		1	6	3	1	STE
+1	0	0	#	1	8	4	0		2	7	5	0	
+0	1	11	C	1	8	4	1	CTNS	0	8	3	0	
+0	0	0	T	1	8	4	0		0	9	5	0	
+0	0	0	N	1	8	4	0		0	10	13	0	
+0	1	12	S	1	8	4	0		1	11	5	1	SEEMS
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	P	2	0	12	1	PUTINSTORAGE	1	0	3	0	
+0	0	0	U	2	0	12	0		1	1	5	0	
+0	0	0	T	2	0	12	0		0	2	13	0	
+0	0	0	I	2	0	12	0		0	3	3	0	
+0	0	0	N	2	0	12	0		0	4	3	0	
+0	0	0	S	2	0	12	0		1	5	3	0	
+0	0	0	T	2	0	12	0		1	6	3	0	
+0	1	14	O	2	0	12	0		2	7	5	1	ONPOT
+0	0	0	R	2	0	12	0		0	8	3	0	
+0	0	0	A	2	0	12	0		0	9	5	0	
+0	0	0	G	2	0	12	0		0	10	13	0	
+0	0	0	E	2	0	12	0		1	11	5	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+0	1	15	A	3	0	3	1	ANO	1	0	3	0	
+0	0	0	N	3	0	3	0		1	1	5	0	
+0	0	0	O	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	0	0		4	3	3	0	
+1	0	0	#	3	5	3	0		4	4	5	0	
+0	1	16	F	3	5	3	1	FEN	1	5	3	0	
+0	0	0	E	3	5	3	0		1	6	3	0	
+0	0	0	N	3	5	3	0		2	7	5	0	
+1	0	0	#	3	9	4	0		4	8	5	0	
+0	1	17	S	3	9	4	1	SEEK	0	9	5	0	
+0	0	0	E	3	9	4	0		0	10	13	0	
+0	0	0	E	3	9	4	0		1	11	5	0	
+0	1	18	K	3	9	4	0		3	12	3	1	KSU
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	19	E	4	1	4	1	ENER	1	1	5	0	
+0	0	0	N	4	1	4	0		0	2	13	0	
+0	1	20	E	4	1	4	0		4	3	3	1	EOE
+0	1	21	R	4	1	4	0		4	4	5	1	RSIZE
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	22	P	4	7	6	1	PSALMS	2	7	5	0	
+0	1	23	S	4	7	6	0		4	8	5	1	SOEUR
+0	0	0	A	4	7	6	0		0	9	5	0	
+0	0	0	L	4	7	6	0		0	10	13	0	
+0	0	0	M	4	7	6	0		1	11	5	0	
+0	0	0	S	4	7	6	0		3	12	3	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	24	S	5	1	4	1	STOS	1	1	5	0	
+0	0	0	T	5	1	4	0		0	2	13	0	
+0	0	0	O	5	1	4	0		4	3	3	0	
+0	0	0	S	5	1	4	0		4	4	5	0	
+1	0	0	#	5	6	3	0		6	5	5	0	
+0	1	25	O	5	6	3	1	OOO	5	6	3	1	OHH
+0	0	0	O	5	6	3	0		2	7	5	0	
+0	0	0	O	5	6	3	0		4	8	5	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	26	A	5	10	3	1	ASU	0	10	13	0	
+0	0	0	S	5	10	3	0		1	11	5	0	
+0	0	0	U	5	10	3	0		3	12	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	9	0		7	1	5	0	
+0	1	27	H	6	2	9	1	HEIGHTENS	0	2	13	0	
+0	0	0	E	6	2	9	0		4	3	3	0	
+0	0	0	I	6	2	9	0		4	4	5	0	
+0	1	28	G	6	2	9	0		6	5	5	1	GSPOT
+0	0	0	H	6	2	9	0		5	6	3	0	
+0	0	0	T	6	2	9	0		2	7	5	0	
+0	0	0	E	6	2	9	0		4	8	5	0	
+0	1	29	N	6	2	9	0		6	9	3	1	NGO
+0	0	0	S	6	2	9	0		0	10	13	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	A	7	0	3	1	AGE	7	0	3	1	ANA
+0	1	31	G	7	0	3	0		7	1	5	1	GORDO
+0	0	0	E	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	3	0		8	3	5	0	
+0	1	32	Z	7	4	3	1	ZSH	4	4	5	0	
+0	0	0	S	7	4	3	0		6	5	5	0	
+0	0	0	H	7	4	3	0		5	6	3	0	
+1	0	0	#	7	8	4	0		8	7	0	0	
+0	1	33	U	7	8	4	1	UGHS	4	8	5	0	
+0	0	0	G	7	8	4	0		6	9	3	0	
+0	0	0	H	7	8	4	0		0	10	13	0	
+0	1	34	S	7	8	4	0		7	11	5	1	SDATE
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	35	N	8	0	6	1	NOSTEP	7	0	3	0	
+0	0	0	O	8	0	6	0		7	1	5	0	
+0	0	0	S	8	0	6	0		0	2	13	0	
+0	1	36	T	8	0	6	0		8	3	5	1	THANE
+0	0	0	E	8	0	6	0		4	4	5	0	
+0	0	0	P	8	0	6	0		6	5	5	0	
+1	0	0	#	8	7	0	0		9	6	3	0	
+1	0	0	#	8	8	4	0		9	7	3	0	
+0	1	37	R	8	8	4	1	ROAD	4	8	5	0	
+0	0	0	O	8	8	4	0		6	9	3	0	
+0	0	0	A	8	8	4	0		0	10	13	0	
+0	0	0	D	8	8	4	0		7	11	5	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	38	A	9	0	4	1	ARCH	7	0	3	0	
+0	0	0	R	9	0	4	0		7	1	5	0	
+0	0	0	C	9	0	4	0		0	2	13	0	
+0	0	0	H	9	0	4	0		8	3	5	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	39	O	9	5	3	1	OHS	6	5	5	0	
+0	1	40	H	9	5	3	0		9	6	3	1	HOM
+0	1	41	S	9	5	3	0		9	7	3	1	SRA
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	42	S	9	10	3	1	SAS	0	10	13	0	
+0	0	0	A	9	10	3	0		7	11	5	0	
+0	1	43	S	9	10	3	0		9	12	3	1	SSN
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	44	D	10	1	12	1	DEADTORIGHTS	7	1	5	0	
+0	0	0	E	10	1	12	0		0	2	13	0	
+0	0	0	A	10	1	12	0		8	3	5	0	
+0	1	45	D	10	1	12	0		10	4	3	1	DOO
+0	0	0	T	10	1	12	0		6	5	5	0	
+0	0	0	O	10	1	12	0		9	6	3	0	
+0	0	0	R	10	1	12	0		9	7	3	0	
+0	1	46	I	10	1	12	0		10	8	3	1	IUM
+0	1	47	G	10	1	12	0		10	9	3	1	GRO
+0	0	0	H	10	1	12	0		0	10	13	0	
+0	0	0	T	10	1	12	0		7	11	5	0	
+0	0	0	S	10	1	12	0		9	12	3	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	48	O	11	1	4	1	ONNO	7	1	5	0	
+0	0	0	N	11	1	4	0		0	2	13	0	
+0	0	0	N	11	1	4	0		8	3	5	0	
+0	0	0	O	11	1	4	0		10	4	3	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	49	M	11	6	7	1	MAUREEN	9	6	3	0	
+0	0	0	A	11	6	7	0		9	7	3	0	
+0	0	0	U	11	6	7	0		10	8	3	0	
+0	0	0	R	11	6	7	0		10	9	3	0	
+0	0	0	E	11	6	7	0		0	10	13	0	
+0	0	0	E	11	6	7	0		7	11	5	0	
+0	0	0	N	11	6	7	0		9	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	50	T	12	2	3	1	TEO	0	2	13	0	
+0	0	0	E	12	2	3	0		8	3	5	0	
+0	0	0	O	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	51	M	12	8	3	1	MOS	10	8	3	0	
+0	0	0	O	12	8	3	0		10	9	3	0	
+0	0	0	S	12	8	3	0		0	10	13	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	HUK	Czech leader ousted in the Velvet Revolution, 1989
+4	VIA	Rome's Appia or Veneto
+7	IRONONS	They're pressed into service
+11	CTNS	Warehouse supply: Abbr.
+13	PUTINSTORAGE	The Kremlin's closet space?
+15	ANO	"I'll take that as ___"
+16	FEN	Marsh
+17	SEEK	Hunt for
+19	ENER	Cabinet dept.
+22	PSALMS	Whence the line "The meek shall inherit the earth"
+24	STOS	Things on rings
+25	OOO	Hockey shutout
+26	ASU	Tempe sch.
+27	HEIGHTENS	Intensifies
+30	AGE	Delicate subject
+32	ZSH	Actress Lupino
+33	UGHS	Critical comments
+35	NOSTEP	Warning on an airplane wing
+37	ROAD	Pike, e.g.
+38	ARCH	Vault
+39	OHS	Surprised gasps
+42	SAS	World's first carrier with a transpolar route
+44	DEADTORIGHTS	Red-handed
+48	ONNO	___ account
+49	MAUREEN	Actress Stapleton
+50	TEO	___ Fabi of auto racing
+51	MOS	Hip-hop's ___ Def
+29
+1	HOTONTHESCENT	In close pursuit
+2	UNI	Cycle starter
+3	KON	___-Tiki
+4	VCR	Betamax was an early one
+5	ITASA	Take ___ sign
+6	ANGELASHASHES	Olios for actress Cartwright?
+7	IPA	Pronunciation guide std.
+8	RUNES	Mysterious characters
+9	NSF	Reason for a bounced check: Abbr.
+10	STE	Julie, e.g.: Abbr.
+12	SEEMS	Has the earmarks of
+14	ONPOT	High, in a way
+18	KSU	Wildcats of the Big 12 Conf.
+20	EOE	Job ad abbr.
+21	RSIZE	Set at the proper level, as a work force
+23	SOEUR	Sibling of un fr
+25	OHH	Cry from one who just got the joke
+28	GSPOT	Subject of a 1982 best seller
+29	NGO	Old Vietnamese strongman ___ Dinh Diem
+30	ANA	Alicia of "Falcon Crest"
+31	GORDO	Mercury and Gemini astronaut, informally
+34	SDATE	Entry in a spaceship log
+36	THANE	Clan chief of old Scotland
+40	HOM	Prefix meaning "same"
+41	SRA	Tabasco title: Abbr.
+43	SSN	ID on I.R.S. forms
+45	DOO	Ski-___ snowmobiles
+46	IUM	Elementary ending
+47	GRO	Miracle-___ (garden brand)

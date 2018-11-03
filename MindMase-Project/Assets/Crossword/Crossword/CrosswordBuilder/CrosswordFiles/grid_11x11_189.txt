@@ -1,0 +1,165 @@
+grid_11x11_189
+11
+1	0	0	#	0	1	4	0		1	0	4	0	
+0	1	1	P	0	1	4	1	PAYP	0	1	6	1	PGACRC
+0	1	2	A	0	1	4	0		0	2	6	1	ARTIES
+0	1	3	Y	0	1	4	0		0	3	4	1	YEES
+0	1	4	P	0	1	4	0		0	4	3	1	PTA
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	5	P	0	6	3	1	PSF	0	6	6	1	PARSEE
+0	1	6	S	0	6	3	0		0	7	6	1	STIRIN
+0	1	7	F	0	6	3	0		0	8	4	1	FAVA
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	8	E	1	0	5	1	EGRET	1	0	4	1	ELAM
+0	0	0	G	1	0	5	0		0	1	6	0	
+0	0	0	R	1	0	5	0		0	2	6	0	
+0	0	0	E	1	0	5	0		0	3	4	0	
+0	0	0	T	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	9	A	1	6	5	1	ATARI	0	6	6	0	
+0	0	0	T	1	6	5	0		0	7	6	0	
+0	0	0	A	1	6	5	0		0	8	4	0	
+0	1	10	R	1	6	5	0		1	9	3	1	RAE
+0	1	11	I	1	6	5	0		1	10	3	1	ILL
+0	1	12	L	2	0	11	1	LATEARRIVAL	1	0	4	0	
+0	0	0	A	2	0	11	0		0	1	6	0	
+0	0	0	T	2	0	11	0		0	2	6	0	
+0	0	0	E	2	0	11	0		0	3	4	0	
+0	0	0	A	2	0	11	0		0	4	3	0	
+0	1	13	R	2	0	11	0		2	5	7	1	RIDDLER
+0	0	0	R	2	0	11	0		0	6	6	0	
+0	0	0	I	2	0	11	0		0	7	6	0	
+0	0	0	V	2	0	11	0		0	8	4	0	
+0	0	0	A	2	0	11	0		1	9	3	0	
+0	0	0	L	2	0	11	0		1	10	3	0	
+0	1	14	A	3	0	4	1	ACIS	1	0	4	0	
+0	0	0	C	3	0	4	0		0	1	6	0	
+0	0	0	I	3	0	4	0		0	2	6	0	
+0	0	0	S	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	6	0		4	4	0	0	
+0	1	15	I	3	5	6	1	ISRAEL	2	5	7	0	
+0	0	0	S	3	5	6	0		0	6	6	0	
+0	0	0	R	3	5	6	0		0	7	6	0	
+0	0	0	A	3	5	6	0		0	8	4	0	
+0	0	0	E	3	5	6	0		1	9	3	0	
+0	0	0	L	3	5	6	0		1	10	3	0	
+0	1	16	M	4	0	3	1	MRE	1	0	4	0	
+0	0	0	R	4	0	3	0		0	1	6	0	
+0	0	0	E	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	3	0		5	4	6	0	
+0	1	17	D	4	5	3	1	DEI	2	5	7	0	
+0	0	0	E	4	5	3	0		0	6	6	0	
+0	0	0	I	4	5	3	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	18	C	5	1	9	1	CSTUDENTS	0	1	6	0	
+0	0	0	S	5	1	9	0		0	2	6	0	
+0	1	19	T	5	1	9	0		5	3	6	1	TAOISM
+0	1	20	U	5	1	9	0		5	4	6	1	UINTAS
+0	0	0	D	5	1	9	0		2	5	7	0	
+0	0	0	E	5	1	9	0		0	6	6	0	
+0	0	0	N	5	1	9	0		0	7	6	0	
+0	1	21	T	5	1	9	0		5	8	6	1	THELIP
+0	1	22	S	5	1	9	0		5	9	6	1	SANELY
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	3	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	23	A	6	3	3	1	AIL	5	3	6	0	
+0	0	0	I	6	3	3	0		5	4	6	0	
+0	0	0	L	6	3	3	0		2	5	7	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	24	H	6	8	3	1	HAS	5	8	6	0	
+0	0	0	A	6	8	3	0		5	9	6	0	
+0	1	25	S	6	8	3	0		6	10	4	1	SSRS
+0	1	26	S	7	0	6	1	SIMONE	7	0	3	1	SSE
+0	1	27	I	7	0	6	0		7	1	3	1	IEL
+0	1	28	M	7	0	6	0		7	2	4	1	MMII
+0	0	0	O	7	0	6	0		5	3	6	0	
+0	0	0	N	7	0	6	0		5	4	6	0	
+0	0	0	E	7	0	6	0		2	5	7	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	29	L	7	7	4	1	LENS	7	7	4	1	LIME
+0	0	0	E	7	7	4	0		5	8	6	0	
+0	0	0	N	7	7	4	0		5	9	6	0	
+0	0	0	S	7	7	4	0		6	10	4	0	
+0	1	30	S	8	0	11	1	SEMITRAILER	7	0	3	0	
+0	0	0	E	8	0	11	0		7	1	3	0	
+0	0	0	M	8	0	11	0		7	2	4	0	
+0	0	0	I	8	0	11	0		5	3	6	0	
+0	0	0	T	8	0	11	0		5	4	6	0	
+0	0	0	R	8	0	11	0		2	5	7	0	
+0	1	31	A	8	0	11	0		8	6	3	1	AER
+0	0	0	I	8	0	11	0		7	7	4	0	
+0	0	0	L	8	0	11	0		5	8	6	0	
+0	0	0	E	8	0	11	0		5	9	6	0	
+0	0	0	R	8	0	11	0		6	10	4	0	
+0	1	32	E	9	0	5	1	ELISA	7	0	3	0	
+0	0	0	L	9	0	5	0		7	1	3	0	
+0	0	0	I	9	0	5	0		7	2	4	0	
+0	0	0	S	9	0	5	0		5	3	6	0	
+0	0	0	A	9	0	5	0		5	4	6	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	33	E	9	6	5	1	EMILS	8	6	3	0	
+0	0	0	M	9	6	5	0		7	7	4	0	
+0	0	0	I	9	6	5	0		5	8	6	0	
+0	0	0	L	9	6	5	0		5	9	6	0	
+0	0	0	S	9	6	5	0		6	10	4	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	34	I	10	2	3	1	IMS	7	2	4	0	
+0	0	0	M	10	2	3	0		5	3	6	0	
+0	0	0	S	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	4	0		11	5	0	0	
+0	1	35	R	10	6	4	1	REPY	8	6	3	0	
+0	0	0	E	10	6	4	0		7	7	4	0	
+0	0	0	P	10	6	4	0		5	8	6	0	
+0	0	0	Y	10	6	4	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	PAYP	Week or month at the office, usually
+5	PSF	Pressure meas.
+8	EGRET	"Snowy" bird
+9	ATARI	Pole Position company
+12	LATEARRIVAL	One who got held up, maybe
+14	ACIS	Galatea
+15	ISRAEL	Land of Canaan
+16	MRE	Field fare, briefly
+17	DEI	Of the, in Venice
+18	CSTUDENTS	They're far from valedictorians
+23	AIL	Feel ill
+24	HAS	Owns
+26	SIMONE	Sipowicz's partner on "NYPD Blue"
+29	LENS	Projector part
+30	SEMITRAILER	Vintage Tonka toy
+32	ELISA	"I Still See ___" ("Paint Your Wagon" tune)
+33	EMILS	Pianist Gilels et al.
+34	IMS	Private on-line chats, for short
+35	REPY	Give back
+21
+1	PGACRC	Declare, old-style
+2	ARTIES	Bandleader Shaw and others
+3	YEES	Ja and da
+4	PTA	School org.
+5	PARSEE	Minority member in India
+6	STIRIN	Recipe direction
+7	FAVA	Falafel bean
+8	ELAM	Jack of old oaters
+10	RAE	Scottish explorer of the Arctic
+11	ILL	"Well, ___ be!"
+13	RIDDLER	"Batman" villain
+19	TAOISM	Belief in a life of harmony with nature
+20	UINTAS	Utah mountains
+21	THELIP	Nickname for baseball's Leo Durocher
+22	SANELY	In a rational way
+25	SSRS	Bygone Black Sea borderers: Abbr.
+26	SSE	Pilothouse abbr.
+27	IEL	Drive forward
+28	MMII	Early third millennium date
+29	LIME	Green fruit drink flavor
+31	AER	___ Arann (Irish carrier)

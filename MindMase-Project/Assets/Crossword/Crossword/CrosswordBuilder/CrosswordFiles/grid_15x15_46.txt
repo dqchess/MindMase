@@ -1,0 +1,309 @@
+grid_15x15_46
+15
+0	1	1	C	0	0	3	1	CFC	0	0	3	1	COD
+0	1	2	F	0	0	3	0		0	1	15	1	FRATERNITYHOUSE
+0	1	3	C	0	0	3	0		0	2	15	1	CARRIESAFORTUNE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	D	0	4	3	1	DKA	0	4	3	1	DAG
+0	1	5	K	0	4	3	0		0	5	3	1	KIL
+0	1	6	A	0	4	3	0		0	6	8	1	AGARAGAR
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	O	0	8	3	1	OEN	0	8	5	1	OSSIA
+0	1	8	E	0	8	3	0		0	9	6	1	EVELYN
+0	1	9	N	0	8	3	0		0	10	3	1	NUS
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	10	C	0	12	3	1	CCU	0	12	15	1	CREASERESISTANT
+0	1	11	C	0	12	3	0		0	13	15	1	CORPORATELADDER
+0	1	12	U	0	12	3	0		0	14	3	1	UZI
+0	1	13	O	1	0	3	1	ORA	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	15	0	
+0	0	0	A	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	3	0		2	3	3	0	
+0	1	14	A	1	4	3	1	AIG	0	4	3	0	
+0	0	0	I	1	4	3	0		0	5	3	0	
+0	0	0	G	1	4	3	0		0	6	8	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	15	S	1	8	3	1	SVU	0	8	5	0	
+0	0	0	V	1	8	3	0		0	9	6	0	
+0	0	0	U	1	8	3	0		0	10	3	0	
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	16	R	1	12	3	1	ROZ	0	12	15	0	
+0	0	0	O	1	12	3	0		0	13	15	0	
+0	0	0	Z	1	12	3	0		0	14	3	0	
+0	1	17	D	2	0	11	1	DARKGLASSES	0	0	3	0	
+0	0	0	A	2	0	11	0		0	1	15	0	
+0	0	0	R	2	0	11	0		0	2	15	0	
+0	1	18	K	2	0	11	0		2	3	3	1	KEA
+0	0	0	G	2	0	11	0		0	4	3	0	
+0	0	0	L	2	0	11	0		0	5	3	0	
+0	0	0	A	2	0	11	0		0	6	8	0	
+0	1	19	S	2	0	11	0		2	7	3	1	SAD
+0	0	0	S	2	0	11	0		0	8	5	0	
+0	0	0	E	2	0	11	0		0	9	6	0	
+0	0	0	S	2	0	11	0		0	10	3	0	
+1	0	0	#	2	12	3	0		3	11	5	0	
+0	1	20	E	2	12	3	1	ERI	0	12	15	0	
+0	0	0	R	2	12	3	0		0	13	15	0	
+0	0	0	I	2	12	3	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	21	T	3	1	3	1	TRE	0	1	15	0	
+0	0	0	R	3	1	3	0		0	2	15	0	
+0	0	0	E	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	22	R	3	6	4	1	RAIL	0	6	8	0	
+0	0	0	A	3	6	4	0		2	7	3	0	
+0	0	0	I	3	6	4	0		0	8	5	0	
+0	0	0	L	3	6	4	0		0	9	6	0	
+1	0	0	#	3	11	3	0		4	10	0	0	
+0	1	23	P	3	11	3	1	PAP	3	11	5	1	POLIS
+0	0	0	A	3	11	3	0		0	12	15	0	
+0	0	0	P	3	11	3	0		0	13	15	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	24	L	4	0	4	1	LEIA	4	0	3	1	LGA
+0	0	0	E	4	0	4	0		0	1	15	0	
+0	0	0	I	4	0	4	0		0	2	15	0	
+0	0	0	A	4	0	4	0		2	3	3	0	
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	25	O	4	5	5	1	OADAY	4	5	3	1	OIR
+0	0	0	A	4	5	5	0		0	6	8	0	
+0	0	0	D	4	5	5	0		2	7	3	0	
+0	0	0	A	4	5	5	0		0	8	5	0	
+0	0	0	Y	4	5	5	0		0	9	6	0	
+1	0	0	#	4	11	3	0		5	10	5	0	
+0	1	26	O	4	11	3	1	OSO	3	11	5	0	
+0	0	0	S	4	11	3	0		0	12	15	0	
+0	0	0	O	4	11	3	0		0	13	15	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	27	G	5	0	3	1	GRE	4	0	3	0	
+0	0	0	R	5	0	3	0		0	1	15	0	
+0	0	0	E	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	28	P	5	4	3	1	PIG	5	4	5	1	PHILO
+0	0	0	I	5	4	3	0		4	5	3	0	
+0	0	0	G	5	4	3	0		0	6	8	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	0	0	
+0	1	29	N	5	9	5	1	NFLER	0	9	6	0	
+0	1	30	F	5	9	5	0		5	10	5	1	FLOGS
+0	0	0	L	5	9	5	0		3	11	5	0	
+0	0	0	E	5	9	5	0		0	12	15	0	
+0	0	0	R	5	9	5	0		0	13	15	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	A	6	0	3	1	ANS	4	0	3	0	
+0	0	0	N	6	0	3	0		0	1	15	0	
+0	0	0	S	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	4	0		7	3	5	0	
+0	1	32	H	6	4	4	1	HRAS	5	4	5	0	
+0	0	0	R	6	4	4	0		4	5	3	0	
+0	0	0	A	6	4	4	0		0	6	8	0	
+0	1	33	S	6	4	4	0		6	7	3	1	SEA
+1	0	0	#	6	9	0	0		7	8	8	0	
+1	0	0	#	6	10	4	0		7	9	0	0	
+0	1	34	L	6	10	4	1	LIRA	5	10	5	0	
+0	0	0	I	6	10	4	0		3	11	5	0	
+0	0	0	R	6	10	4	0		0	12	15	0	
+0	0	0	A	6	10	4	0		0	13	15	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	35	I	7	1	4	1	IASI	0	1	15	0	
+0	0	0	A	7	1	4	0		0	2	15	0	
+0	1	36	S	7	1	4	0		7	3	5	1	SAYSO
+0	0	0	I	7	1	4	0		5	4	5	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	37	R	7	6	3	1	REA	0	6	8	0	
+0	0	0	E	7	6	3	0		6	7	3	0	
+0	1	38	A	7	6	3	0		7	8	8	1	AFTERYOU
+1	0	0	#	7	10	4	0		8	9	3	0	
+0	1	39	O	7	10	4	1	OSET	5	10	5	0	
+0	0	0	S	7	10	4	0		3	11	5	0	
+0	0	0	E	7	10	4	0		0	12	15	0	
+0	0	0	T	7	10	4	0		0	13	15	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	40	T	8	1	4	1	TFAL	0	1	15	0	
+0	0	0	F	8	1	4	0		0	2	15	0	
+0	0	0	A	8	1	4	0		7	3	5	0	
+0	0	0	L	8	1	4	0		5	4	5	0	
+1	0	0	#	8	6	0	0		9	5	6	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	41	A	8	7	4	1	AFIG	6	7	3	0	
+0	0	0	F	8	7	4	0		7	8	8	0	
+0	1	42	I	8	7	4	0		8	9	3	1	IAT
+0	0	0	G	8	7	4	0		5	10	5	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	43	S	8	12	3	1	SEW	0	12	15	0	
+0	0	0	E	8	12	3	0		0	13	15	0	
+0	1	44	W	8	12	3	0		8	14	3	1	WAF
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	45	Y	9	1	5	1	YOYOS	0	1	15	0	
+0	0	0	O	9	1	5	0		0	2	15	0	
+0	0	0	Y	9	1	5	0		7	3	5	0	
+0	0	0	O	9	1	5	0		5	4	5	0	
+0	1	46	S	9	1	5	0		9	5	6	1	SAVEON
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	47	T	9	8	3	1	TAS	7	8	8	0	
+0	0	0	A	9	8	3	0		8	9	3	0	
+0	0	0	S	9	8	3	0		5	10	5	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	48	I	9	12	3	1	ILA	0	12	15	0	
+0	0	0	L	9	12	3	0		0	13	15	0	
+0	0	0	A	9	12	3	0		8	14	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	49	H	10	1	3	1	HRS	0	1	15	0	
+0	0	0	R	10	1	3	0		0	2	15	0	
+0	0	0	S	10	1	3	0		7	3	5	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	50	A	10	5	5	1	ABEET	9	5	6	0	
+0	1	51	B	10	5	5	0		10	6	5	1	BANKS
+0	1	52	E	10	5	5	0		10	7	3	1	EIN
+0	0	0	E	10	5	5	0		7	8	8	0	
+0	0	0	T	10	5	5	0		8	9	3	0	
+1	0	0	#	10	11	4	0		11	10	0	0	
+0	1	53	U	10	11	4	1	USAF	10	11	3	1	USC
+0	0	0	S	10	11	4	0		0	12	15	0	
+0	0	0	A	10	11	4	0		0	13	15	0	
+0	0	0	F	10	11	4	0		8	14	3	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	54	O	11	1	3	1	OTO	0	1	15	0	
+0	0	0	T	11	1	3	0		0	2	15	0	
+0	0	0	O	11	1	3	0		7	3	5	0	
+1	0	0	#	11	5	4	0		12	4	3	0	
+0	1	55	V	11	5	4	1	VAIR	9	5	6	0	
+0	0	0	A	11	5	4	0		10	6	5	0	
+0	0	0	I	11	5	4	0		10	7	3	0	
+0	0	0	R	11	5	4	0		7	8	8	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	56	S	11	11	3	1	STD	10	11	3	0	
+0	0	0	T	11	11	3	0		0	12	15	0	
+0	0	0	D	11	11	3	0		0	13	15	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	U	12	0	3	1	UUU	12	0	3	1	USL
+0	0	0	U	12	0	3	0		0	1	15	0	
+0	0	0	U	12	0	3	0		0	2	15	0	
+1	0	0	#	12	4	11	0		13	3	0	0	
+0	1	58	P	12	4	11	1	PENNYARCADE	12	4	3	1	PAC
+0	0	0	E	12	4	11	0		9	5	6	0	
+0	0	0	N	12	4	11	0		10	6	5	0	
+0	0	0	N	12	4	11	0		10	7	3	0	
+0	0	0	Y	12	4	11	0		7	8	8	0	
+0	1	59	A	12	4	11	0		12	9	3	1	AER
+0	1	60	R	12	4	11	0		12	10	3	1	ROB
+0	0	0	C	12	4	11	0		10	11	3	0	
+0	0	0	A	12	4	11	0		0	12	15	0	
+0	0	0	D	12	4	11	0		0	13	15	0	
+0	1	61	E	12	4	11	0		12	14	3	1	ERA
+0	1	62	S	13	0	3	1	SSN	12	0	3	0	
+0	0	0	S	13	0	3	0		0	1	15	0	
+0	0	0	N	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	3	0		14	3	0	0	
+0	1	63	A	13	4	3	1	AOK	12	4	3	0	
+0	0	0	O	13	4	3	0		9	5	6	0	
+0	0	0	K	13	4	3	0		10	6	5	0	
+1	0	0	#	13	8	3	0		14	7	0	0	
+0	1	64	O	13	8	3	1	OEO	7	8	8	0	
+0	0	0	E	13	8	3	0		12	9	3	0	
+0	0	0	O	13	8	3	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	65	N	13	12	3	1	NER	0	12	15	0	
+0	0	0	E	13	12	3	0		0	13	15	0	
+0	0	0	R	13	12	3	0		12	14	3	0	
+0	1	66	L	14	0	3	1	LEE	12	0	3	0	
+0	0	0	E	14	0	3	0		0	1	15	0	
+0	0	0	E	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	67	C	14	4	3	1	CNS	12	4	3	0	
+0	0	0	N	14	4	3	0		9	5	6	0	
+0	0	0	S	14	4	3	0		10	6	5	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	68	U	14	8	3	1	URB	7	8	8	0	
+0	0	0	R	14	8	3	0		12	9	3	0	
+0	0	0	B	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	69	T	14	12	3	1	TRA	0	12	15	0	
+0	0	0	R	14	12	3	0		0	13	15	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+47
+1	CFC	Freon initials
+4	DKA	Longtime Chicago Bears coach
+7	OEN	Wine: Prefix
+10	CCU	Heart ward, for short
+13	ORA	"... boy ___ girl?"
+14	AIG	Bailed-out insurance co. in 2008-09 news
+15	SVU	"Law & Order: ___"
+16	ROZ	Cartoonist Chast
+17	DARKGLASSES	Spy wear
+20	ERI	Verdi aria "___ tu"
+21	TRE	III in modern Rome
+22	RAIL	Banister
+23	PAP	Infant's food
+24	LEIA	Princess who observed the Force
+25	OADAY	Vitamin dosage
+26	OSO	Bear, in Barcelona
+27	GRE	M.A. hopeful's hurdle
+28	PIG	Overeater
+29	NFLER	Buc or Niner
+31	ANS	Follow-up to a ques.
+32	HRAS	Round dances
+34	LIRA	Former Italian money
+35	IASI	Old capital of Romania
+37	REA	Classic New Yorker cartoonist Gardner ___
+39	OSET	Kind of romance between actors
+40	TFAL	Purveyor of nonstick cookware
+41	AFIG	Not worth ___
+43	SEW	Leave in stitches?
+45	YOYOS	They're used in walking the dog
+47	TAS	Profs' help
+48	ILA	Dockworkers' grp.
+49	HRS	Time divs.
+50	ABEET	Red as ___
+53	USAF	Abbr. on a B-52
+54	OTO	Onetime dweller along the Platte
+55	VAIR	Heraldic fur
+56	STD	Kind of time: Abbr.
+57	UUU	Familiar Olympics chant
+58	PENNYARCADE	She plays her little game
+62	SSN	ID entered on every I.R.S. form
+63	AOK	Fine, informally
+64	OEO	War on Poverty agcy.
+65	NER	___ Tamid (synagogue lamp)
+66	LEE	Martial arts expert Bruce
+67	CNS	Brain and spinal cord: Abbr.
+68	URB	City, informally
+69	TRA	Song syllable
+33
+1	COD	Package letters
+2	FRATERNITYHOUSE	This is its brothers' keeper
+3	CARRIESAFORTUNE	Is well-endowed?
+4	DAG	Nobelist Hammarskj
+5	KIL	3,280.84 ft.
+6	AGARAGAR	Petri dish gel
+7	OSSIA	Direction to an alternative musical passage
+8	EVELYN	Crabtree & ___, purveyor of skin care products
+9	NUS	N N N
+10	CREASERESISTANT	Like Dacron
+11	CORPORATELADDER	Yuppie's way up
+12	UZI	Cause of widespread firing?
+18	KEA	Mauna ___ (volcano)
+19	SAD	Unfortunate
+23	POLIS	Greek city-state
+24	LGA	Plane's N.Y.C. destination, maybe
+25	OIR	Listen: Sp.
+28	PHILO	Detective Vance
+30	FLOGS	Thrashes
+33	SEA	Word before dog or legs
+36	SAYSO	What the boss has
+38	AFTERYOU	Words from Alphonse or Gaston
+42	IAT	"Am ___ risk?"
+44	WAF	Servicewoman, acronymically
+46	SAVEON	Get for less
+51	BANKS	Places of interest?
+52	EIN	Die Welt article
+53	USC	L.A. campus
+57	USL	Southeastern Conf. team
+58	PAC	Fed. Election Commission registrant
+59	AER	Atmospheric beginning
+60	ROB	Scott's "___ Roy"
+61	ERA	___ of Good Feelings

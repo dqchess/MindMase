@@ -1,0 +1,229 @@
+grid_13x13_177
+13
+0	1	1	H	0	0	6	1	HILTED	0	0	3	1	HAR
+0	1	2	I	0	0	6	0		0	1	4	1	IMET
+0	1	3	L	0	0	6	0		0	2	13	1	LONEARTSSTATE
+0	1	4	T	0	0	6	0		0	3	5	1	TUTTI
+0	1	5	E	0	0	6	0		0	4	5	1	ENARM
+0	1	6	D	0	0	6	0		0	5	3	1	DTS
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	I	0	9	3	1	IFS	0	9	3	1	IST
+0	1	8	F	0	9	3	0		0	10	13	1	FRONTALATTACK
+0	1	9	S	0	9	3	0		0	11	8	1	SOREEYES
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	A	1	0	8	1	AMOUNTTO	0	0	3	0	
+0	0	0	M	1	0	8	0		0	1	4	0	
+0	0	0	O	1	0	8	0		0	2	13	0	
+0	0	0	U	1	0	8	0		0	3	5	0	
+0	0	0	N	1	0	8	0		0	4	5	0	
+0	0	0	T	1	0	8	0		0	5	3	0	
+0	1	11	T	1	0	8	0		1	6	11	1	TELETYPISTS
+0	1	12	O	1	0	8	0		1	7	3	1	ONS
+1	0	0	#	1	9	3	0		2	8	3	0	
+0	1	13	S	1	9	3	1	SRO	0	9	3	0	
+0	0	0	R	1	9	3	0		0	10	13	0	
+0	0	0	O	1	9	3	0		0	11	8	0	
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	14	R	2	0	12	1	RENTASENATOR	0	0	3	0	
+0	0	0	E	2	0	12	0		0	1	4	0	
+0	0	0	N	2	0	12	0		0	2	13	0	
+0	0	0	T	2	0	12	0		0	3	5	0	
+0	0	0	A	2	0	12	0		0	4	5	0	
+0	0	0	S	2	0	12	0		0	5	3	0	
+0	0	0	E	2	0	12	0		1	6	11	0	
+0	0	0	N	2	0	12	0		1	7	3	0	
+0	1	15	A	2	0	12	0		2	8	3	1	ADV
+0	0	0	T	2	0	12	0		0	9	3	0	
+0	0	0	O	2	0	12	0		0	10	13	0	
+0	0	0	R	2	0	12	0		0	11	8	0	
+1	0	0	#	2	13	0	0		3	12	5	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	16	T	3	1	4	1	TETR	0	1	4	0	
+0	0	0	E	3	1	4	0		0	2	13	0	
+0	0	0	T	3	1	4	0		0	3	5	0	
+0	0	0	R	3	1	4	0		0	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	17	L	3	6	3	1	LSD	1	6	11	0	
+0	0	0	S	3	6	3	0		1	7	3	0	
+0	0	0	D	3	6	3	0		2	8	3	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	18	N	3	10	3	1	NEO	0	10	13	0	
+0	0	0	E	3	10	3	0		0	11	8	0	
+0	1	19	O	3	10	3	0		3	12	5	1	ODORS
+1	0	0	#	4	1	0	0		5	0	5	0	
+1	0	0	#	4	2	5	0		5	1	8	0	
+0	1	20	A	4	2	5	1	AIMEE	0	2	13	0	
+0	0	0	I	4	2	5	0		0	3	5	0	
+0	0	0	M	4	2	5	0		0	4	5	0	
+0	1	21	E	4	2	5	0		4	5	4	1	ELOI
+0	0	0	E	4	2	5	0		1	6	11	0	
+1	0	0	#	4	8	5	0		5	7	4	0	
+0	1	22	V	4	8	5	1	VOTED	2	8	3	0	
+0	1	23	O	4	8	5	0		4	9	3	1	OMS
+0	0	0	T	4	8	5	0		0	10	13	0	
+0	0	0	E	4	8	5	0		0	11	8	0	
+0	0	0	D	4	8	5	0		3	12	5	0	
+0	1	24	N	5	0	3	1	NPR	5	0	5	1	NOTAS
+0	1	25	P	5	0	3	0		5	1	8	1	PRESSMAN
+0	0	0	R	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	0	0		6	3	3	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	26	L	5	5	3	1	LTD	4	5	4	0	
+0	0	0	T	5	5	3	0		1	6	11	0	
+0	1	27	D	5	5	3	0		5	7	4	1	DESC
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	28	M	5	9	4	1	MAYO	4	9	3	0	
+0	0	0	A	5	9	4	0		0	10	13	0	
+0	0	0	Y	5	9	4	0		0	11	8	0	
+0	0	0	O	5	9	4	0		3	12	5	0	
+0	1	29	O	6	0	4	1	ORTO	5	0	5	0	
+0	0	0	R	6	0	4	0		5	1	8	0	
+0	0	0	T	6	0	4	0		0	2	13	0	
+0	1	30	O	6	0	4	0		6	3	3	1	OHH
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	31	O	6	5	3	1	OYE	4	5	4	0	
+0	0	0	Y	6	5	3	0		1	6	11	0	
+0	0	0	E	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	4	0		7	8	0	0	
+0	1	32	S	6	9	4	1	SLER	4	9	3	0	
+0	0	0	L	6	9	4	0		0	10	13	0	
+0	0	0	E	6	9	4	0		0	11	8	0	
+0	0	0	R	6	9	4	0		3	12	5	0	
+0	1	33	T	7	0	4	1	TESH	5	0	5	0	
+0	0	0	E	7	0	4	0		5	1	8	0	
+0	0	0	S	7	0	4	0		0	2	13	0	
+0	0	0	H	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	3	0		8	4	3	0	
+0	1	34	I	7	5	3	1	IPS	4	5	4	0	
+0	0	0	P	7	5	3	0		1	6	11	0	
+0	0	0	S	7	5	3	0		5	7	4	0	
+1	0	0	#	7	9	0	0		8	8	5	0	
+1	0	0	#	7	10	3	0		8	9	5	0	
+0	1	35	A	7	10	3	1	ASS	0	10	13	0	
+0	0	0	S	7	10	3	0		0	11	8	0	
+0	0	0	S	7	10	3	0		3	12	5	0	
+0	1	36	A	8	0	5	1	ASSHE	5	0	5	0	
+0	0	0	S	8	0	5	0		5	1	8	0	
+0	0	0	S	8	0	5	0		0	2	13	0	
+0	0	0	H	8	0	5	0		6	3	3	0	
+0	1	37	E	8	0	5	0		8	4	3	1	EER
+1	0	0	#	8	6	5	0		9	5	3	0	
+0	1	38	I	8	6	5	1	ICANT	1	6	11	0	
+0	0	0	C	8	6	5	0		5	7	4	0	
+0	1	39	A	8	6	5	0		8	8	5	1	AZERA
+0	1	40	N	8	6	5	0		8	9	5	1	NISEI
+0	0	0	T	8	6	5	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	41	S	9	0	3	1	SST	5	0	5	0	
+0	0	0	S	9	0	3	0		5	1	8	0	
+0	0	0	T	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	42	E	9	4	3	1	ERS	8	4	3	0	
+0	1	43	R	9	4	3	0		9	5	3	1	RAI
+0	0	0	S	9	4	3	0		1	6	11	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	44	Z	9	8	4	1	ZITI	8	8	5	0	
+0	0	0	I	9	8	4	0		8	9	5	0	
+0	0	0	T	9	8	4	0		0	10	13	0	
+0	1	45	I	9	8	4	0		9	11	4	1	IMAT
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	46	M	10	1	12	1	MAURATHESAME	5	1	8	0	
+0	0	0	A	10	1	12	0		0	2	13	0	
+0	1	47	U	10	1	12	0		10	3	3	1	UFW
+0	0	0	R	10	1	12	0		8	4	3	0	
+0	0	0	A	10	1	12	0		9	5	3	0	
+0	0	0	T	10	1	12	0		1	6	11	0	
+0	1	48	H	10	1	12	0		10	7	3	1	HUS
+0	0	0	E	10	1	12	0		8	8	5	0	
+0	0	0	S	10	1	12	0		8	9	5	0	
+0	0	0	A	10	1	12	0		0	10	13	0	
+0	0	0	M	10	1	12	0		9	11	4	0	
+0	1	49	E	10	1	12	0		10	12	3	1	ENO
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	50	A	11	1	3	1	ATF	5	1	8	0	
+0	0	0	T	11	1	3	0		0	2	13	0	
+0	0	0	F	11	1	3	0		10	3	3	0	
+1	0	0	#	11	5	8	0		12	4	0	0	
+0	1	51	I	11	5	8	1	ISURECAN	9	5	3	0	
+0	0	0	S	11	5	8	0		1	6	11	0	
+0	0	0	U	11	5	8	0		10	7	3	0	
+0	0	0	R	11	5	8	0		8	8	5	0	
+0	0	0	E	11	5	8	0		8	9	5	0	
+0	0	0	C	11	5	8	0		0	10	13	0	
+0	0	0	A	11	5	8	0		9	11	4	0	
+0	0	0	N	11	5	8	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	52	N	12	1	3	1	NEW	5	1	8	0	
+0	0	0	E	12	1	3	0		0	2	13	0	
+0	0	0	W	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	6	0		13	6	0	0	
+0	1	53	S	12	7	6	1	SAIKTO	10	7	3	0	
+0	0	0	A	12	7	6	0		8	8	5	0	
+0	0	0	I	12	7	6	0		8	9	5	0	
+0	0	0	K	12	7	6	0		0	10	13	0	
+0	0	0	T	12	7	6	0		9	11	4	0	
+0	0	0	O	12	7	6	0		10	12	3	0	
+29
+1	HILTED	Handled, as a sword
+7	IFS	They're hypothetical
+10	AMOUNTTO	Be the equivalent of
+13	SRO	Sign of a full house
+14	RENTASENATOR	Store that peddles political influence?
+16	TETR	Fourfront?
+17	LSD	Trip producer
+18	NEO	Revivalist
+20	AIMEE	Pop singer Mann
+22	VOTED	Helped someone get a seat
+24	NPR	Big inits. in news and culture
+26	LTD	India inc.?
+28	MAYO	County in NW Ireland
+29	ORTO	"... ___ go?"
+31	OYE	"___ Como Va" (1971 Santana hit)
+32	SLER	Slave to detail
+33	TESH	Musician John
+34	IPS	VCR speed meas.
+35	ASS	Smart ___ (wise guy)
+36	ASSHE	"Steady ___ goes"
+38	ICANT	"Impossible"
+41	SST	Rapid transit?
+42	ERS	Signs of fluster
+44	ZITI	Alternative to bow ties
+46	MAURATHESAME	Unchanging lady?
+50	ATF	Agcy. regulating guns
+51	ISURECAN	"You betcha!"
+52	NEW	Modernized
+53	SAIKTO	Accepted
+27
+1	HAR	Laugh syllable
+2	IMET	"Since ___ You Baby" (1956 hit)
+3	LONEARTSSTATE	Where hermit painters retire?
+4	TUTTI	___-frutti
+5	ENARM	Prepare to fight
+6	DTS	Juicer's problem
+7	IST	Column addition?
+8	FRONTALATTACK	No behind-the-back criticism
+9	SOREEYES	What a welcome sight relieves
+11	TELETYPISTS	Old UPI employees
+12	ONS	Roll-___
+15	ADV	Really or truly, e.g.: Abbr.
+19	ODORS	Things that disappear in the shower?
+21	ELOI	Fictional upper class
+23	OMS	Meditation syllables
+24	NOTAS	Less
+25	PRESSMAN	Newspaper employee
+27	DESC	Family tree abbr.
+30	OHH	Cry from one who just got the joke
+37	EER	"...all that wealth ___ gave": Gray
+39	AZERA	Luxury Hyundai sedan
+40	NISEI	Second-generation Japanese
+43	RAI	Heyerdahl raft
+45	IMAT	"This is where ___"
+47	UFW	Agricultural labor grp.
+48	HUS	Czech martyr Jan
+49	ENO	Roxy Music co-founder

@@ -1,0 +1,115 @@
+grid_9x9_115
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	B	0	2	3	1	BEV	0	2	9	1	BOOMERANG
+0	1	2	E	0	2	3	0		0	3	3	1	EFT
+0	1	3	V	0	2	3	0		0	4	9	1	VACANTLOT
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	T	0	6	3	1	TAE	0	6	9	1	THORNDIKE
+0	1	5	A	0	6	3	0		0	7	3	1	AMC
+0	1	6	E	0	6	3	0		0	8	3	1	ESK
+0	1	7	L	1	0	5	1	LOOFA	1	0	3	1	LSE
+0	1	8	O	1	0	5	0		1	1	4	1	OHMY
+0	0	0	O	1	0	5	0		0	2	9	0	
+0	0	0	F	1	0	5	0		0	3	3	0	
+0	0	0	A	1	0	5	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	H	1	6	3	1	HMS	0	6	9	0	
+0	0	0	M	1	6	3	0		0	7	3	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	10	S	2	0	9	1	SHOTCLOCK	1	0	3	0	
+0	0	0	H	2	0	9	0		1	1	4	0	
+0	0	0	O	2	0	9	0		0	2	9	0	
+0	0	0	T	2	0	9	0		0	3	3	0	
+0	0	0	C	2	0	9	0		0	4	9	0	
+0	1	11	L	2	0	9	0		2	5	3	1	LEI
+0	0	0	O	2	0	9	0		0	6	9	0	
+0	0	0	C	2	0	9	0		0	7	3	0	
+0	0	0	K	2	0	9	0		0	8	3	0	
+0	1	12	E	3	0	3	1	EMM	1	0	3	0	
+0	0	0	M	3	0	3	0		1	1	4	0	
+0	0	0	M	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	A	3	4	3	1	AER	0	4	9	0	
+0	0	0	E	3	4	3	0		2	5	3	0	
+0	0	0	R	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	Y	4	1	7	1	YENNING	1	1	4	0	
+0	0	0	E	4	1	7	0		0	2	9	0	
+0	1	15	N	4	1	7	0		4	3	3	1	NUT
+0	0	0	N	4	1	7	0		0	4	9	0	
+0	0	0	I	4	1	7	0		2	5	3	0	
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	1	16	G	4	1	7	0		4	7	4	1	GIDE
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	R	5	2	3	1	RUT	0	2	9	0	
+0	0	0	U	5	2	3	0		4	3	3	0	
+0	0	0	T	5	2	3	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	D	5	6	3	1	DIE	0	6	9	0	
+0	0	0	I	5	6	3	0		4	7	4	0	
+0	1	19	E	5	6	3	0		5	8	3	1	EON
+0	1	20	W	6	0	9	1	WHATLLIDO	6	0	3	1	WTS
+0	1	21	H	6	0	9	0		6	1	3	1	HET
+0	0	0	A	6	0	9	0		0	2	9	0	
+0	0	0	T	6	0	9	0		4	3	3	0	
+0	0	0	L	6	0	9	0		0	4	9	0	
+0	1	22	L	6	0	9	0		6	5	3	1	LAS
+0	0	0	I	6	0	9	0		0	6	9	0	
+0	0	0	D	6	0	9	0		4	7	4	0	
+0	0	0	O	6	0	9	0		5	8	3	0	
+0	1	23	T	7	0	3	1	TEN	6	0	3	0	
+0	0	0	E	7	0	3	0		6	1	3	0	
+0	0	0	N	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	O	7	4	5	1	OAKEN	0	4	9	0	
+0	0	0	A	7	4	5	0		6	5	3	0	
+0	0	0	K	7	4	5	0		0	6	9	0	
+0	0	0	E	7	4	5	0		4	7	4	0	
+0	0	0	N	7	4	5	0		5	8	3	0	
+0	1	25	S	8	0	3	1	STG	6	0	3	0	
+0	0	0	T	8	0	3	0		6	1	3	0	
+0	0	0	G	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	26	T	8	4	3	1	TSE	0	4	9	0	
+0	0	0	S	8	4	3	0		6	5	3	0	
+0	0	0	E	8	4	3	0		0	6	9	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	BEV	Drink: Abbr.
+4	TAE	___ kwon do
+7	LOOFA	Bath scrubber
+9	HMS	___ Bounty
+10	SHOTCLOCK	Pacer pacer?
+12	EMM	Kind of film, in brief
+13	AER	Atmospheric prefix
+14	YENNING	Desiring
+17	RUT	Tire channel
+18	DIE	Stop
+20	WHATLLIDO	1924 Irving Berlin tune
+23	TEN	Finger count
+24	OAKEN	Like some old buckets
+25	STG	Brit. money
+26	TSE	Mao or Lao follower
+15
+1	BOOMERANG	Backfire
+2	EFT	Spotted amphibian
+3	VACANTLOT	Something to build on
+4	THORNDIKE	Classic name in dictionaries
+5	AMC	Bravo competitor
+6	ESK	Inuit: Abbr.
+7	LSE	End of many an E-mail address
+8	OHMY	Words of surprise
+11	LEI	Island ring?
+15	NUT	Fruitcake
+16	GIDE	"Corydon" author
+19	EON	Gigayear
+20	WTS	Birth data: Abbr.
+21	HET	All ___ up
+22	LAS	Carol syllables

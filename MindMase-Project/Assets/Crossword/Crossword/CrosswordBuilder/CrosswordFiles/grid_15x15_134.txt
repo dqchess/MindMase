@@ -1,0 +1,309 @@
+grid_15x15_134
+15
+0	1	1	S	0	0	3	1	SSN	0	0	3	1	SEZ
+0	1	2	S	0	0	3	0		0	1	4	1	SKEW
+0	1	3	N	0	0	3	0		0	2	11	1	NEPLUSULTRA
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	B	0	5	3	1	BFA	0	5	3	1	BBL
+0	1	5	F	0	5	3	0		0	6	3	1	FYI
+0	1	6	A	0	5	3	0		0	7	4	1	AONE
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	4	0		1	10	6	0	
+0	1	7	M	0	11	4	1	MAWR	0	11	5	1	METOO
+0	1	8	A	0	11	4	0		0	12	3	1	AXE
+0	1	9	W	0	11	4	0		0	13	3	1	WTS
+0	1	10	R	0	11	4	0		0	14	3	1	RST
+0	1	11	E	1	0	4	1	EKES	0	0	3	0	
+0	0	0	K	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	11	0	
+0	1	12	S	1	0	4	0		1	3	4	1	SPOT
+1	0	0	#	1	5	4	0		2	4	4	0	
+0	1	13	B	1	5	4	1	BYOB	0	5	3	0	
+0	0	0	Y	1	5	4	0		0	6	3	0	
+0	0	0	O	1	5	4	0		0	7	4	0	
+0	1	14	B	1	5	4	0		1	8	5	1	BSIDE
+1	0	0	#	1	10	5	0		2	9	0	0	
+0	1	15	S	1	10	5	1	SEXTS	1	10	6	1	SHIEST
+0	0	0	E	1	10	5	0		0	11	5	0	
+0	0	0	X	1	10	5	0		0	12	3	0	
+0	0	0	T	1	10	5	0		0	13	3	0	
+0	0	0	S	1	10	5	0		0	14	3	0	
+0	1	16	Z	2	0	9	1	ZEPPELINS	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	4	0	
+0	0	0	P	2	0	9	0		0	2	11	0	
+0	0	0	P	2	0	9	0		1	3	4	0	
+0	1	17	E	2	0	9	0		2	4	4	1	EONS
+0	0	0	L	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	3	0	
+0	0	0	N	2	0	9	0		0	7	4	0	
+0	0	0	S	2	0	9	0		1	8	5	0	
+1	0	0	#	2	10	5	0		3	9	4	0	
+0	1	18	H	2	10	5	1	HTEST	1	10	6	0	
+0	0	0	T	2	10	5	0		0	11	5	0	
+0	0	0	E	2	10	5	0		0	12	3	0	
+0	0	0	S	2	10	5	0		0	13	3	0	
+0	0	0	T	2	10	5	0		0	14	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	19	W	3	1	4	1	WLOO	0	1	4	0	
+0	0	0	L	3	1	4	0		0	2	11	0	
+0	0	0	O	3	1	4	0		1	3	4	0	
+0	0	0	O	3	1	4	0		2	4	4	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	5	0		4	6	0	0	
+0	1	20	E	3	7	5	1	EIEIO	0	7	4	0	
+0	0	0	I	3	7	5	0		1	8	5	0	
+0	1	21	E	3	7	5	0		3	9	4	1	EIRE
+0	0	0	I	3	7	5	0		1	10	6	0	
+0	0	0	O	3	7	5	0		0	11	5	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	5	0	
+1	0	0	#	4	2	4	0		5	1	6	0	
+0	1	22	U	4	2	4	1	UTNE	0	2	11	0	
+0	0	0	T	4	2	4	0		1	3	4	0	
+0	0	0	N	4	2	4	0		2	4	4	0	
+0	1	23	E	4	2	4	0		4	5	3	1	EEO
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	6	0		5	7	5	0	
+0	1	24	D	4	8	6	1	DIEOFF	1	8	5	0	
+0	0	0	I	4	8	6	0		3	9	4	0	
+0	0	0	E	4	8	6	0		1	10	6	0	
+0	0	0	O	4	8	6	0		0	11	5	0	
+0	1	25	F	4	8	6	0		4	12	11	1	FIRSTFAMILY
+0	1	26	F	4	8	6	0		4	13	6	1	FINITE
+1	0	0	#	4	15	0	0		5	14	5	0	
+0	1	27	L	5	0	3	1	LOS	5	0	5	1	LUMPS
+0	1	28	O	5	0	3	0		5	1	6	1	ONEOUT
+0	0	0	S	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	7	0		6	3	3	0	
+0	1	29	S	5	4	7	1	SEEGERS	2	4	4	0	
+0	0	0	E	5	4	7	0		4	5	3	0	
+0	1	30	E	5	4	7	0		5	6	3	1	EPI
+0	1	31	G	5	4	7	0		5	7	5	1	GTOWN
+0	0	0	E	5	4	7	0		1	8	5	0	
+0	0	0	R	5	4	7	0		3	9	4	0	
+0	0	0	S	5	4	7	0		1	10	6	0	
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	32	I	5	12	3	1	IIN	4	12	11	0	
+0	0	0	I	5	12	3	0		4	13	6	0	
+0	1	33	N	5	12	3	0		5	14	5	1	NESTS
+0	1	34	U	6	0	4	1	UNUS	5	0	5	0	
+0	0	0	N	6	0	4	0		5	1	6	0	
+0	0	0	U	6	0	4	0		0	2	11	0	
+0	1	35	S	6	0	4	0		6	3	3	1	SOA
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	36	O	6	5	3	1	OPT	4	5	3	0	
+0	0	0	P	6	5	3	0		5	6	3	0	
+0	0	0	T	6	5	3	0		5	7	5	0	
+1	0	0	#	6	9	6	0		7	8	3	0	
+0	1	37	E	6	9	6	1	ETERNE	3	9	4	0	
+0	0	0	T	6	9	6	0		1	10	6	0	
+0	1	38	E	6	9	6	0		6	11	3	1	EPT
+0	0	0	R	6	9	6	0		4	12	11	0	
+0	0	0	N	6	9	6	0		4	13	6	0	
+0	0	0	E	6	9	6	0		5	14	5	0	
+0	1	39	M	7	0	4	1	MELO	5	0	5	0	
+0	0	0	E	7	0	4	0		5	1	6	0	
+0	0	0	L	7	0	4	0		0	2	11	0	
+0	0	0	O	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	0	0		8	4	6	0	
+1	0	0	#	7	6	3	0		8	5	4	0	
+0	1	40	I	7	6	3	1	IOC	5	6	3	0	
+0	0	0	O	7	6	3	0		5	7	5	0	
+0	1	41	C	7	6	3	0		7	8	3	1	COO
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	4	0		8	10	0	0	
+0	1	42	P	7	11	4	1	PSIS	6	11	3	0	
+0	0	0	S	7	11	4	0		4	12	11	0	
+0	0	0	I	7	11	4	0		4	13	6	0	
+0	0	0	S	7	11	4	0		5	14	5	0	
+0	1	43	P	8	0	6	1	POTASH	5	0	5	0	
+0	0	0	O	8	0	6	0		5	1	6	0	
+0	0	0	T	8	0	6	0		0	2	11	0	
+0	0	0	A	8	0	6	0		6	3	3	0	
+0	1	44	S	8	0	6	0		8	4	6	1	STROVE
+0	1	45	H	8	0	6	0		8	5	4	1	HOUR
+1	0	0	#	8	7	3	0		9	6	5	0	
+0	1	46	W	8	7	3	1	WOK	5	7	5	0	
+0	0	0	O	8	7	3	0		7	8	3	0	
+0	1	47	K	8	7	3	0		8	9	3	1	KUM
+1	0	0	#	8	11	4	0		9	10	4	0	
+0	1	48	T	8	11	4	1	TTTT	6	11	3	0	
+0	0	0	T	8	11	4	0		4	12	11	0	
+0	0	0	T	8	11	4	0		4	13	6	0	
+0	0	0	T	8	11	4	0		5	14	5	0	
+0	1	49	S	9	0	3	1	SUR	5	0	5	0	
+0	0	0	U	9	0	3	0		5	1	6	0	
+0	0	0	R	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	5	0	
+0	1	50	T	9	4	7	1	TORNOUT	8	4	6	0	
+0	0	0	O	9	4	7	0		8	5	4	0	
+0	1	51	R	9	4	7	0		9	6	5	1	RSVPD
+0	0	0	N	9	4	7	0		5	7	5	0	
+0	0	0	O	9	4	7	0		7	8	3	0	
+0	0	0	U	9	4	7	0		8	9	3	0	
+0	1	52	T	9	4	7	0		9	10	4	1	TISE
+1	0	0	#	9	12	3	0		10	11	4	0	
+0	1	53	F	9	12	3	1	FES	4	12	11	0	
+0	0	0	E	9	12	3	0		4	13	6	0	
+0	0	0	S	9	12	3	0		5	14	5	0	
+1	0	0	#	10	1	6	0		11	0	0	0	
+0	1	54	T	10	1	6	1	TAURUS	5	1	6	0	
+0	0	0	A	10	1	6	0		0	2	11	0	
+0	1	55	U	10	1	6	0		10	3	5	1	UNITY
+0	0	0	R	10	1	6	0		8	4	6	0	
+0	0	0	U	10	1	6	0		8	5	4	0	
+0	0	0	S	10	1	6	0		9	6	5	0	
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	56	M	10	9	4	1	MILA	8	9	3	0	
+0	0	0	I	10	9	4	0		9	10	4	0	
+0	1	57	L	10	9	4	0		10	11	4	1	LATS
+0	0	0	A	10	9	4	0		4	12	11	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	5	0		12	2	3	0	
+0	1	58	N	11	3	5	1	NORVO	10	3	5	0	
+0	0	0	O	11	3	5	0		8	4	6	0	
+0	0	0	R	11	3	5	0		8	5	4	0	
+0	0	0	V	11	3	5	0		9	6	5	0	
+0	1	59	O	11	3	5	0		11	7	4	1	OENS
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	4	0		12	9	3	0	
+0	1	60	S	11	10	4	1	SAME	9	10	4	0	
+0	0	0	A	11	10	4	0		10	11	4	0	
+0	0	0	M	11	10	4	0		4	12	11	0	
+0	1	61	E	11	10	4	0		11	13	4	1	EMER
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	62	D	12	0	5	1	DERIV	12	0	3	1	DCA
+0	1	63	E	12	0	5	0		12	1	3	1	EAT
+0	1	64	R	12	0	5	0		12	2	3	1	RRR
+0	0	0	I	12	0	5	0		10	3	5	0	
+0	0	0	V	12	0	5	0		8	4	6	0	
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	65	P	12	6	9	1	PEACETIME	9	6	5	0	
+0	0	0	E	12	6	9	0		11	7	4	0	
+0	1	66	A	12	6	9	0		12	8	3	1	AAA
+0	1	67	C	12	6	9	0		12	9	3	1	CST
+0	0	0	E	12	6	9	0		9	10	4	0	
+0	0	0	T	12	6	9	0		10	11	4	0	
+0	0	0	I	12	6	9	0		4	12	11	0	
+0	0	0	M	12	6	9	0		11	13	4	0	
+0	1	68	E	12	6	9	0		12	14	3	1	ETS
+0	1	69	C	13	0	5	1	CARTE	12	0	3	0	
+0	0	0	A	13	0	5	0		12	1	3	0	
+0	0	0	R	13	0	5	0		12	2	3	0	
+0	0	0	T	13	0	5	0		10	3	5	0	
+0	0	0	E	13	0	5	0		8	4	6	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	70	D	13	6	4	1	DNAS	9	6	5	0	
+0	0	0	N	13	6	4	0		11	7	4	0	
+0	0	0	A	13	6	4	0		12	8	3	0	
+0	0	0	S	13	6	4	0		12	9	3	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	71	S	13	11	4	1	SLET	10	11	4	0	
+0	0	0	L	13	11	4	0		4	12	11	0	
+0	0	0	E	13	11	4	0		11	13	4	0	
+0	0	0	T	13	11	4	0		12	14	3	0	
+0	1	72	A	14	0	4	1	ATRY	12	0	3	0	
+0	0	0	T	14	0	4	0		12	1	3	0	
+0	0	0	R	14	0	4	0		12	2	3	0	
+0	0	0	Y	14	0	4	0		10	3	5	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	73	S	14	7	3	1	SAT	11	7	4	0	
+0	0	0	A	14	7	3	0		12	8	3	0	
+0	0	0	T	14	7	3	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	74	Y	14	12	3	1	YRS	4	12	11	0	
+0	0	0	R	14	12	3	0		11	13	4	0	
+0	0	0	S	14	12	3	0		12	14	3	0	
+39
+1	SSN	Line on an appl. form
+4	BFA	Painter's deg.
+7	MAWR	Bryn ___ College
+11	EKES	Lengthens, old-style
+13	BYOB	"We're not supplying liquor"
+15	SEXTS	Titillating transmissions
+16	ZEPPELINS	Means of some W.W. I raids
+18	HTEST	1950's trial
+19	WLOO	Defeat
+20	EIEIO	Kids' song refrain
+22	UTNE	Eclectic bimonthly
+24	DIEOFF	Go from endangered to extinct
+27	LOS	Article in El Diario
+29	SEEGERS	"Pete ___ Greatest Hits" (1967 release)
+32	IIN	"Am ___ your way?"
+34	UNUS	"___ pro omnibus, omnes pro uno"
+36	OPT	Decide to leave, with "out"
+37	ETERNE	Perpetual, in poesy
+39	MELO	Drama intro?
+40	IOC	Org. with a five-ring logo
+42	PSIS	Greek letters that resemble pitchforks
+43	POTASH	K2CO3
+46	WOK	Bowl-shaped cooking aid
+48	TTTT	Sri Lankan exports
+49	SUR	Ivry-___-Seine (Paris suburb)
+50	TORNOUT	Not removed delicately
+53	FES	City NE of Casablanca
+54	TAURUS	Ford model
+56	MILA	"___ 18" (Uris novel)
+58	NORVO	Red of early jazz
+60	SAME	Aforementioned
+62	DERIV	Word origin: Abbr.
+65	PEACETIME	Postwar period
+69	CARTE	Upscale eatery handout
+70	DNAS	Geneticist's studies
+71	SLET	Hollywood up-and-comer
+72	ATRY	"Give it ___!"
+73	SAT	Put an end to something?
+74	YRS	'01, '02, etc.
+41
+1	SEZ	Expresses, informally
+2	SKEW	Bias
+3	NEPLUSULTRA	Very best
+4	BBL	Crude meas.
+5	FYI	Memo-opening letters
+6	AONE	Prime
+7	METOO	"I feel the same"
+8	AXE	Rail-splitter's tool
+9	WTS	Birth data: Abbr.
+10	RST	U preceders
+12	SPOT	Predicament
+14	BSIDE	"Revolution" or "P.S. I Love You"
+15	SHIEST	Least likely to take command
+17	EONS	A lot of time
+21	EIRE	Republic since 1948
+23	EEO	Classified ad abbr.
+25	FIRSTFAMILY	Ones getting Secret Service protection
+26	FINITE	Limited
+27	LUMPS	Mattress problems
+28	ONEOUT	Diamond status
+30	EPI	Center starter
+31	GTOWN	Result of a boom and bust, maybe
+33	NESTS	Settles in
+35	SOA	"___ man walks into a bar ..."
+38	EPT	Capable, jocularly
+41	COO	Dove's cry
+44	STROVE	Made an effort
+45	HOUR	TV drama length, usually
+47	KUM	"___ Ba Yah" (campfire song)
+51	RSVPD	Sent regrets, say
+52	TISE	Formal discourse
+55	UNITY	Fellowship
+57	LATS	Rowers' muscles, for short
+59	OENS	1936 Olympics hero
+61	EMER	Like some profs.
+62	DCA	Bing Crosby's record label
+63	EAT	Snack
+64	RRR	Education, initially
+66	AAA	Directions-giving org.
+67	CST	Setting for St. Paul: Abbr.
+68	ETS	Visitors from beyond

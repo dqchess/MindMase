@@ -1,0 +1,309 @@
+grid_15x15_164
+15
+0	1	1	H	0	0	3	1	HES	0	0	3	1	HOI
+0	1	2	E	0	0	3	0		0	1	10	1	EECUMMINGS
+0	1	3	S	0	0	3	0		0	2	15	1	SOONOVERTAKESIT
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	P	0	4	3	1	PCS	0	4	3	1	PLO
+0	1	5	C	0	4	3	0		0	5	3	1	CBC
+0	1	6	S	0	4	3	0		0	6	9	1	SOLARCELL
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	V	0	8	3	1	VIL	0	8	4	1	VISE
+0	1	8	I	0	8	3	0		0	9	3	1	ITT
+0	1	9	L	0	8	3	0		0	10	6	1	LYSINE
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	10	T	0	12	3	1	TAP	0	12	15	1	THEUNITEDSTATES
+0	1	11	A	0	12	3	0		0	13	4	1	ACUP
+0	1	12	P	0	12	3	0		0	14	3	1	PHR
+0	1	13	O	1	0	3	1	OEO	0	0	3	0	
+0	0	0	E	1	0	3	0		0	1	10	0	
+0	0	0	O	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	3	0		2	3	3	0	
+0	1	14	L	1	4	3	1	LBO	0	4	3	0	
+0	0	0	B	1	4	3	0		0	5	3	0	
+0	0	0	O	1	4	3	0		0	6	9	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	15	I	1	8	3	1	ITY	0	8	4	0	
+0	0	0	T	1	8	3	0		0	9	3	0	
+0	0	0	Y	1	8	3	0		0	10	6	0	
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	16	H	1	12	3	1	HCH	0	12	15	0	
+0	0	0	C	1	12	3	0		0	13	4	0	
+0	0	0	H	1	12	3	0		0	14	3	0	
+0	1	17	I	2	0	11	1	ICONOCLASTS	0	0	3	0	
+0	0	0	C	2	0	11	0		0	1	10	0	
+0	0	0	O	2	0	11	0		0	2	15	0	
+0	1	18	N	2	0	11	0		2	3	3	1	NSC
+0	0	0	O	2	0	11	0		0	4	3	0	
+0	0	0	C	2	0	11	0		0	5	3	0	
+0	0	0	L	2	0	11	0		0	6	9	0	
+0	1	19	A	2	0	11	0		2	7	3	1	ANY
+0	0	0	S	2	0	11	0		0	8	4	0	
+0	0	0	T	2	0	11	0		0	9	3	0	
+0	0	0	S	2	0	11	0		0	10	6	0	
+1	0	0	#	2	12	3	0		3	11	4	0	
+0	1	20	E	2	12	3	1	EUR	0	12	15	0	
+0	0	0	U	2	12	3	0		0	13	4	0	
+0	0	0	R	2	12	3	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	21	U	3	1	3	1	UNS	0	1	10	0	
+0	0	0	N	3	1	3	0		0	2	15	0	
+0	0	0	S	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	3	0		4	5	6	0	
+0	1	22	A	3	6	3	1	ANE	0	6	9	0	
+0	0	0	N	3	6	3	0		2	7	3	0	
+0	0	0	E	3	6	3	0		0	8	4	0	
+1	0	0	#	3	10	4	0		4	9	0	0	
+0	1	23	I	3	10	4	1	ISUP	0	10	6	0	
+0	1	24	S	3	10	4	0		3	11	4	1	SUMS
+0	0	0	U	3	10	4	0		0	12	15	0	
+0	0	0	P	3	10	4	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	25	M	4	1	7	1	MOCKERY	0	1	10	0	
+0	0	0	O	4	1	7	0		0	2	15	0	
+0	0	0	C	4	1	7	0		2	3	3	0	
+0	1	26	K	4	1	7	0		4	4	3	1	KEA
+0	1	27	E	4	1	7	0		4	5	6	1	EXCELS
+0	0	0	R	4	1	7	0		0	6	9	0	
+0	0	0	Y	4	1	7	0		2	7	3	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	4	10	3	0		5	9	6	0	
+0	1	28	N	4	10	3	1	NUN	0	10	6	0	
+0	0	0	U	4	10	3	0		3	11	4	0	
+0	0	0	N	4	10	3	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	10	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	29	D	5	0	3	1	DMV	5	0	3	1	DRJ
+0	0	0	M	5	0	3	0		0	1	10	0	
+0	0	0	V	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	30	E	5	4	3	1	EXC	4	4	3	0	
+0	0	0	X	5	4	3	0		4	5	6	0	
+0	0	0	C	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	9	0	
+0	1	31	S	5	9	5	1	SEMIS	5	9	6	1	SPEARS
+0	0	0	E	5	9	5	0		0	10	6	0	
+0	0	0	M	5	9	5	0		3	11	4	0	
+0	0	0	I	5	9	5	0		0	12	15	0	
+0	1	32	S	5	9	5	0		5	13	10	1	SPORTSSCAR
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	33	R	6	0	3	1	RIE	5	0	3	0	
+0	0	0	I	6	0	3	0		0	1	10	0	
+0	0	0	E	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	6	0		7	3	0	0	
+0	1	34	A	6	4	6	1	ACESUP	4	4	3	0	
+0	0	0	C	6	4	6	0		4	5	6	0	
+0	0	0	E	6	4	6	0		0	6	9	0	
+0	1	35	S	6	4	6	0		6	7	3	1	SIB
+0	1	36	U	6	4	6	0		6	8	9	1	USEMBASSY
+0	0	0	P	6	4	6	0		5	9	6	0	
+1	0	0	#	6	11	3	0		7	10	0	0	
+0	1	37	S	6	11	3	1	STP	3	11	4	0	
+0	0	0	T	6	11	3	0		0	12	15	0	
+0	0	0	P	6	11	3	0		5	13	10	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	38	J	7	0	3	1	JNR	5	0	3	0	
+0	0	0	N	7	0	3	0		0	1	10	0	
+0	0	0	R	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	0	0		8	3	4	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	39	E	7	5	5	1	ELISE	4	5	6	0	
+0	0	0	L	7	5	5	0		0	6	9	0	
+0	0	0	I	7	5	5	0		6	7	3	0	
+0	0	0	S	7	5	5	0		6	8	9	0	
+0	0	0	E	7	5	5	0		5	9	6	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	40	E	7	12	3	1	EOE	0	12	15	0	
+0	0	0	O	7	12	3	0		5	13	10	0	
+0	1	41	E	7	12	3	0		7	14	3	1	ESL
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	42	G	8	1	3	1	GTO	0	1	10	0	
+0	0	0	T	8	1	3	0		0	2	15	0	
+0	1	43	O	8	1	3	0		8	3	4	1	OKED
+1	0	0	#	8	5	6	0		9	4	6	0	
+0	1	44	L	8	5	6	1	LLBEAN	4	5	6	0	
+0	0	0	L	8	5	6	0		0	6	9	0	
+0	0	0	B	8	5	6	0		6	7	3	0	
+0	0	0	E	8	5	6	0		6	8	9	0	
+0	0	0	A	8	5	6	0		5	9	6	0	
+0	1	45	N	8	5	6	0		8	10	3	1	NEE
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	46	D	8	12	3	1	DRS	0	12	15	0	
+0	0	0	R	8	12	3	0		5	13	10	0	
+0	0	0	S	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	47	S	9	1	5	1	SAKES	0	1	10	0	
+0	0	0	A	9	1	5	0		0	2	15	0	
+0	0	0	K	9	1	5	0		8	3	4	0	
+0	1	48	E	9	1	5	0		9	4	6	1	ELICIT
+0	0	0	S	9	1	5	0		4	5	6	0	
+1	0	0	#	9	7	0	0		10	6	0	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	49	M	9	8	3	1	MRE	6	8	9	0	
+0	0	0	R	9	8	3	0		5	9	6	0	
+0	0	0	E	9	8	3	0		8	10	3	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	50	S	9	12	3	1	STL	0	12	15	0	
+0	0	0	T	9	12	3	0		5	13	10	0	
+0	0	0	L	9	12	3	0		7	14	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	4	0	
+0	1	51	K	10	2	3	1	KEL	0	2	15	0	
+0	0	0	E	10	2	3	0		8	3	4	0	
+0	0	0	L	10	2	3	0		9	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	7	0		11	6	4	0	
+0	1	52	A	10	7	7	1	ABSENTS	10	7	3	1	AVS
+0	0	0	B	10	7	7	0		6	8	9	0	
+0	0	0	S	10	7	7	0		5	9	6	0	
+0	0	0	E	10	7	7	0		8	10	3	0	
+0	1	53	N	10	7	7	0		10	11	3	1	NMI
+0	0	0	T	10	7	7	0		0	12	15	0	
+0	0	0	S	10	7	7	0		5	13	10	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	4	0		12	0	3	0	
+0	1	54	P	11	1	4	1	PEDI	11	1	4	1	PATE
+0	0	0	E	11	1	4	0		0	2	15	0	
+0	0	0	D	11	1	4	0		8	3	4	0	
+0	0	0	I	11	1	4	0		9	4	6	0	
+1	0	0	#	11	6	3	0		12	5	3	0	
+0	1	55	U	11	6	3	1	UVA	11	6	4	1	UOMO
+0	0	0	V	11	6	3	0		10	7	3	0	
+0	0	0	A	11	6	3	0		6	8	9	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	56	M	11	11	3	1	MAS	10	11	3	0	
+0	0	0	A	11	11	3	0		0	12	15	0	
+0	0	0	S	11	11	3	0		5	13	10	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	C	12	0	3	1	CAS	12	0	3	1	CUD
+0	0	0	A	12	0	3	0		11	1	4	0	
+0	0	0	S	12	0	3	0		0	2	15	0	
+1	0	0	#	12	4	11	0		13	3	0	0	
+0	1	58	C	12	4	11	1	CROSSSTITCH	9	4	6	0	
+0	1	59	R	12	4	11	0		12	5	3	1	RSA
+0	0	0	O	12	4	11	0		11	6	4	0	
+0	0	0	S	12	4	11	0		10	7	3	0	
+0	0	0	S	12	4	11	0		6	8	9	0	
+0	1	60	S	12	4	11	0		12	9	3	1	SPY
+0	1	61	T	12	4	11	0		12	10	3	1	TAB
+0	0	0	I	12	4	11	0		10	11	3	0	
+0	0	0	T	12	4	11	0		0	12	15	0	
+0	0	0	C	12	4	11	0		5	13	10	0	
+0	1	62	H	12	4	11	0		12	14	3	1	HTS
+0	1	63	U	13	0	3	1	UTI	12	0	3	0	
+0	0	0	T	13	0	3	0		11	1	4	0	
+0	0	0	I	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	3	0		14	3	0	0	
+0	1	64	I	13	4	3	1	ISM	9	4	6	0	
+0	0	0	S	13	4	3	0		12	5	3	0	
+0	0	0	M	13	4	3	0		11	6	4	0	
+1	0	0	#	13	8	3	0		14	7	0	0	
+0	1	65	S	13	8	3	1	SPA	6	8	9	0	
+0	0	0	P	13	8	3	0		12	9	3	0	
+0	0	0	A	13	8	3	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	66	E	13	12	3	1	EAT	0	12	15	0	
+0	0	0	A	13	12	3	0		5	13	10	0	
+0	0	0	T	13	12	3	0		12	14	3	0	
+0	1	67	D	14	0	3	1	DET	12	0	3	0	
+0	0	0	E	14	0	3	0		11	1	4	0	
+0	0	0	T	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	68	T	14	4	3	1	TAO	9	4	6	0	
+0	0	0	A	14	4	3	0		12	5	3	0	
+0	0	0	O	14	4	3	0		11	6	4	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	69	Y	14	8	3	1	YYB	6	8	9	0	
+0	0	0	Y	14	8	3	0		12	9	3	0	
+0	0	0	B	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	S	14	12	3	1	SRS	0	12	15	0	
+0	0	0	R	14	12	3	0		5	13	10	0	
+0	0	0	S	14	12	3	0		12	14	3	0	
+45
+1	HES	"___ Mine" (1957 hit by the Platters)
+4	PCS	Gateway products
+7	VIL	Disney's Cruella De ___
+10	TAP	Cask control
+13	OEO	Great Society agcy.
+14	LBO	Action on Wall St.
+15	ITY	Suffix with dual
+16	HCH	White House monogram
+17	ICONOCLASTS	Nonconformists
+20	EUR	Source of about 20% of U.S. imports: Abbr.
+21	UNS	Young follower?
+22	ANE	Get ___ for effort
+23	ISUP	Bats
+25	MOCKERY	Derision
+28	NUN	Ursuline, e.g.
+29	DMV	Lic. issuer
+30	EXC	A+: Abbr.
+31	SEMIS	They're weighed at weigh stations
+33	RIE	Beginner
+34	ACESUP	Best two-pair poker hand
+37	STP	Crankcase additive
+38	JNR	Dad's namesake: Abbr.
+39	ELISE	Kimberly of "John Q"
+40	EOE	Help-wanted abbr.
+42	GTO	Bygone muscle car
+44	LLBEAN	Lands' End competitor
+46	DRS	Cutting-room staff?: Abbr.
+47	SAKES	Some Asian spirits
+49	MRE	Soldier's food, for short
+50	STL	Lambert Airport locale: Abbr.
+51	KEL	Kenan's old partner on Nickelodeon
+52	ABSENTS	Withdraws (oneself)
+54	PEDI	Cab opener?
+55	UVA	Sch. whose Board of Visitors once included presidents Madison and Monroe
+56	MAS	More, on Mallorca
+57	CAS	___ in cat
+58	CROSSSTITCH	Embroidery style
+63	UTI	___ possidetis (as you possess, at law)
+64	ISM	Suffix with Darwin
+65	SPA	Where to do some bodywork?
+66	EAT	Take the cake?
+67	DET	P.D. figure
+68	TAO	Confucian path
+69	YYB	Eggs
+70	SRS	Alums-to-be: Abbr.
+35
+1	HOI	___ polloi
+2	EECUMMINGS	"anyone lived in a pretty how town" poet
+3	SOONOVERTAKESIT	End of the quote
+4	PLO	Negotiating partner of Isr.
+5	CBC	Toronto-based TV network
+6	SOLARCELL	Optoelectric device
+7	VISE	Woodworking class holder
+8	ITT	Multinational business inits.
+9	LYSINE	Certain amino acid
+10	THEUNITEDSTATES	Fastest ocean liner ever in a transatlantic crossing (3 days, 12 hours, 12 minutes)
+11	ACUP	Bra size
+12	PHR	Idiom: Abbr.
+18	NSC	Secret grp. since 1947
+19	ANY	At least one
+24	SUMS	Additions
+26	KEA	Mauna ___ (volcano)
+27	EXCELS	Doesn't do just O.K.
+29	DRJ	Hoops legend, familiarly
+31	SPEARS	Potential game stoppers
+32	SPORTSSCAR	Memento of an old athletic injury?
+35	SIB	Bro, say
+36	USEMBASSY	Site of some overseas security
+41	ESL	Course often taught by volunteers: Abbr.
+43	OKED	Sanctioned
+45	NEE	Word in alumnae bios
+48	ELICIT	Extract
+52	AVS	School media depts.
+53	NMI	Name placeholder in govt. records
+54	PATE	___ feuillet
+55	UOMO	Italy's L'___ Vogue magazine
+57	CUD	Bovine mouthful
+59	RSA	Cape Town's home: Abbr.
+60	SPY	Telephoto lens user, maybe
+61	TAB	Running account at a bar
+62	HTS	Columbia ___, Minn.

@@ -1,0 +1,231 @@
+grid_13x13_93
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	N	0	1	3	1	NIA	0	1	6	1	NUDITY
+0	1	2	I	0	1	3	0		0	2	6	1	ISONTO
+0	1	3	A	0	1	3	0		0	3	3	1	ATN
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	4	0		1	6	0	0	
+0	1	4	A	0	7	4	1	ARAW	0	7	3	1	AGO
+0	1	5	R	0	7	4	0		0	8	3	1	RAL
+0	1	6	A	0	7	4	0		0	9	3	1	AHI
+0	1	7	W	0	7	4	0		0	10	6	1	WAVETO
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	8	U	1	1	5	1	USTED	0	1	6	0	
+0	0	0	S	1	1	5	0		0	2	6	0	
+0	0	0	T	1	1	5	0		0	3	3	0	
+0	1	9	E	1	1	5	0		1	4	3	1	EOE
+0	1	10	D	1	1	5	0		1	5	3	1	DTS
+1	0	0	#	1	7	5	0		2	6	9	0	
+0	1	11	G	1	7	5	1	GAHAN	0	7	3	0	
+0	0	0	A	1	7	5	0		0	8	3	0	
+0	0	0	H	1	7	5	0		0	9	3	0	
+0	0	0	A	1	7	5	0		0	10	6	0	
+0	1	12	N	1	7	5	0		1	11	5	1	NINER
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	I	2	0	13	1	IDONOTBOLIVIA	2	0	3	1	ILA
+0	0	0	D	2	0	13	0		0	1	6	0	
+0	0	0	O	2	0	13	0		0	2	6	0	
+0	0	0	N	2	0	13	0		0	3	3	0	
+0	0	0	O	2	0	13	0		1	4	3	0	
+0	0	0	T	2	0	13	0		1	5	3	0	
+0	1	14	B	2	0	13	0		2	6	9	1	BOTTOMSUP
+0	0	0	O	2	0	13	0		0	7	3	0	
+0	0	0	L	2	0	13	0		0	8	3	0	
+0	0	0	I	2	0	13	0		0	9	3	0	
+0	0	0	V	2	0	13	0		0	10	6	0	
+0	0	0	I	2	0	13	0		1	11	5	0	
+0	1	15	A	2	0	13	0		2	12	3	1	AOL
+0	1	16	L	3	0	3	1	LIN	2	0	3	0	
+0	0	0	I	3	0	3	0		0	1	6	0	
+0	0	0	N	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	17	E	3	4	3	1	ESO	1	4	3	0	
+0	0	0	S	3	4	3	0		1	5	3	0	
+0	0	0	O	3	4	3	0		2	6	9	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	18	E	3	10	3	1	ENO	0	10	6	0	
+0	0	0	N	3	10	3	0		1	11	5	0	
+0	0	0	O	3	10	3	0		2	12	3	0	
+0	1	19	A	4	0	3	1	ATT	2	0	3	0	
+0	0	0	T	4	0	3	0		0	1	6	0	
+0	0	0	T	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	20	T	4	6	3	1	TUE	2	6	9	0	
+0	1	21	U	4	6	3	0		4	7	3	1	URO
+0	1	22	E	4	6	3	0		4	8	4	1	EELS
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	23	T	4	10	3	1	TEL	0	10	6	0	
+0	0	0	E	4	10	3	0		1	11	5	0	
+0	0	0	L	4	10	3	0		2	12	3	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	24	Y	5	1	4	1	YODS	0	1	6	0	
+0	0	0	O	5	1	4	0		0	2	6	0	
+0	1	25	D	5	1	4	0		5	3	3	1	DSC
+0	1	26	S	5	1	4	0		5	4	4	1	SCTV
+1	0	0	#	5	6	6	0		6	5	3	0	
+0	1	27	T	5	6	6	1	TREVOR	2	6	9	0	
+0	0	0	R	5	6	6	0		4	7	3	0	
+0	0	0	E	5	6	6	0		4	8	4	0	
+0	1	28	V	5	6	6	0		5	9	3	1	VHS
+0	0	0	O	5	6	6	0		0	10	6	0	
+0	0	0	R	5	6	6	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	29	S	6	3	7	1	SCHOOLH	5	3	3	0	
+0	0	0	C	6	3	7	0		5	4	4	0	
+0	1	30	H	6	3	7	0		6	5	3	1	HIP
+0	0	0	O	6	3	7	0		2	6	9	0	
+0	0	0	O	6	3	7	0		4	7	3	0	
+0	0	0	L	6	3	7	0		4	8	4	0	
+0	0	0	H	6	3	7	0		5	9	3	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	31	V	7	1	6	1	VICTIM	7	1	5	1	VICHY
+0	1	32	I	7	1	6	0		7	2	6	1	INCOME
+0	0	0	C	7	1	6	0		5	3	3	0	
+0	0	0	T	7	1	6	0		5	4	4	0	
+0	0	0	I	7	1	6	0		6	5	3	0	
+0	0	0	M	7	1	6	0		2	6	9	0	
+1	0	0	#	7	8	4	0		8	7	0	0	
+0	1	33	S	7	8	4	1	SSSS	4	8	4	0	
+0	0	0	S	7	8	4	0		5	9	3	0	
+0	1	34	S	7	8	4	0		7	10	6	1	SOVIET
+0	1	35	S	7	8	4	0		7	11	6	1	SLAMNG
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	36	D	8	0	3	1	DIN	8	0	3	1	DIS
+0	0	0	I	8	0	3	0		7	1	5	0	
+0	0	0	N	8	0	3	0		7	2	6	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	37	V	8	4	3	1	VPS	5	4	4	0	
+0	0	0	P	8	4	3	0		6	5	3	0	
+0	0	0	S	8	4	3	0		2	6	9	0	
+1	0	0	#	8	8	0	0		9	7	3	0	
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	38	O	8	10	3	1	OLA	7	10	6	0	
+0	0	0	L	8	10	3	0		7	11	6	0	
+0	1	39	A	8	10	3	0		8	12	3	1	ATE
+0	1	40	I	9	0	3	1	ICC	8	0	3	0	
+0	0	0	C	9	0	3	0		7	1	5	0	
+0	0	0	C	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	41	U	9	6	3	1	UDO	2	6	9	0	
+0	1	42	D	9	6	3	0		9	7	3	1	DIM
+0	1	43	O	9	6	3	0		9	8	3	1	ONA
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	44	V	9	10	3	1	VAT	7	10	6	0	
+0	0	0	A	9	10	3	0		7	11	6	0	
+0	0	0	T	9	10	3	0		8	12	3	0	
+0	1	45	S	10	0	13	1	SHOWSUPINTIME	8	0	3	0	
+0	0	0	H	10	0	13	0		7	1	5	0	
+0	0	0	O	10	0	13	0		7	2	6	0	
+0	1	46	W	10	0	13	0		10	3	3	1	WCV
+0	1	47	S	10	0	13	0		10	4	3	1	SAO
+0	1	48	U	10	0	13	0		10	5	3	1	USE
+0	0	0	P	10	0	13	0		2	6	9	0	
+0	0	0	I	10	0	13	0		9	7	3	0	
+0	0	0	N	10	0	13	0		9	8	3	0	
+0	1	49	T	10	0	13	0		10	9	3	1	TVS
+0	0	0	I	10	0	13	0		7	10	6	0	
+0	0	0	M	10	0	13	0		7	11	6	0	
+0	0	0	E	10	0	13	0		8	12	3	0	
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	50	Y	11	1	5	1	YMCAS	7	1	5	0	
+0	0	0	M	11	1	5	0		7	2	6	0	
+0	0	0	C	11	1	5	0		10	3	3	0	
+0	0	0	A	11	1	5	0		10	4	3	0	
+0	0	0	S	11	1	5	0		10	5	3	0	
+1	0	0	#	11	7	5	0		12	6	0	0	
+0	1	51	M	11	7	5	1	MAVEN	9	7	3	0	
+0	0	0	A	11	7	5	0		9	8	3	0	
+0	0	0	V	11	7	5	0		10	9	3	0	
+0	0	0	E	11	7	5	0		7	10	6	0	
+0	0	0	N	11	7	5	0		7	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	4	0		13	1	0	0	
+0	1	52	E	12	2	4	1	EVOE	7	2	6	0	
+0	0	0	V	12	2	4	0		10	3	3	0	
+0	0	0	O	12	2	4	0		10	4	3	0	
+0	0	0	E	12	2	4	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	53	S	12	9	3	1	STG	10	9	3	0	
+0	0	0	T	12	9	3	0		7	10	6	0	
+0	0	0	G	12	9	3	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	NIA	Actress Vardalos
+4	ARAW	Got ___ deal (was rooked)
+8	USTED	You, in the Yucat
+11	GAHAN	Cartoonist Wilson
+13	IDONOTBOLIVIA	"""Baloney!"" abroad?"
+16	LIN	Vietnam Memorial designer
+17	ESO	"___ Beso" (Paul Anka song)
+18	ENO	Brian who produced or co-produced seven U2 albums
+19	ATT	Mem. of the A.B.A.
+20	TUE	Super time?: Abbr.
+23	TEL	___ Aviv, Israel
+24	YODS	Hebrew letters
+27	TREVOR	"Key Largo" Oscar winner
+29	SCHOOLH	Place of learning
+31	VICTIM	Prey
+33	SSSS	Not a good sound for a balloonist
+36	DIN	Racket
+37	VPS	Some corp. execs
+38	OLA	Plug or pay ender
+40	ICC	Govt. org., 1887-1996
+41	UDO	Japanese salad ingredient
+44	VAT	Winery container
+45	SHOWSUPINTIME	Gets mentioned by a magazine?
+50	YMCAS	Urban abodes, for short
+51	MAVEN	Buff
+52	EVOE	Ancient reveler's "whoopee!"
+53	STG	Brit. money
+31
+1	NUDITY	Reason for a TV-MA rating
+2	ISONTO	Knows about
+3	ATN	When some stores open
+4	AGO	It may appear after a long time
+5	RAL	1960s Elvis-style singer ___ Donner
+6	AHI	Hawaiian bigeye
+7	WAVETO	Signal, in a way
+9	EOE	Want-ad abbr.
+10	DTS	Sot's woe
+12	NINER	Forty-___
+13	ILA	Wharf workers' org.
+14	BOTTOMSUP	Exhortation at a pub
+15	AOL	Big name in ISP's
+21	URO	Tail: Prefix
+22	EELS	Wrigglers
+25	DSC	Mil. medal
+26	SCTV	Onetime "S.N.L."-type show
+28	VHS	Beta beater
+30	HIP	When repeated, start of a cheer
+31	VICHY	Noted thermal bath locale
+32	INCOME	1040 data
+34	SOVIET	Bygone political council
+35	SLAMNG	With force and much noise
+36	DIS	Malign, in slang
+39	ATE	Gulped
+42	DIM	Darken
+43	ONA	___ trial basis
+46	WCV	Kimono accessory
+47	SAO	Brazil's ___ Jos
+48	USE	"What's the ___?"
+49	TVS	Some RCA's

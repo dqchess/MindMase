@@ -1,0 +1,173 @@
+grid_11x11_23
+11
+0	1	1	S	0	0	3	1	SQS	0	0	3	1	SEA
+0	1	2	Q	0	0	3	0		0	1	3	1	QLM
+0	1	3	S	0	0	3	0		0	2	11	1	SPEARHEADED
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	V	0	4	3	1	VAT	0	4	4	1	VAIO
+0	1	5	A	0	4	3	0		0	5	3	1	ADC
+0	1	6	T	0	4	3	0		0	6	6	1	TOASTY
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	D	0	8	3	1	DEL	0	8	11	1	DEPECHEMODE
+0	1	8	E	0	8	3	0		0	9	3	1	ELI
+0	1	9	L	0	8	3	0		0	10	3	1	LOE
+0	1	10	E	1	0	7	1	ELPRADO	0	0	3	0	
+0	0	0	L	1	0	7	0		0	1	3	0	
+0	0	0	P	1	0	7	0		0	2	11	0	
+0	1	11	R	1	0	7	0		1	3	3	1	RRS
+0	0	0	A	1	0	7	0		0	4	4	0	
+0	0	0	D	1	0	7	0		0	5	3	0	
+0	0	0	O	1	0	7	0		0	6	6	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	12	E	1	8	3	1	ELO	0	8	11	0	
+0	0	0	L	1	8	3	0		0	9	3	0	
+0	0	0	O	1	8	3	0		0	10	3	0	
+0	1	13	A	2	0	11	1	AMERICANPIE	0	0	3	0	
+0	0	0	M	2	0	11	0		0	1	3	0	
+0	0	0	E	2	0	11	0		0	2	11	0	
+0	0	0	R	2	0	11	0		1	3	3	0	
+0	0	0	I	2	0	11	0		0	4	4	0	
+0	0	0	C	2	0	11	0		0	5	3	0	
+0	0	0	A	2	0	11	0		0	6	6	0	
+0	1	14	N	2	0	11	0		2	7	3	1	NIA
+0	0	0	P	2	0	11	0		0	8	11	0	
+0	0	0	I	2	0	11	0		0	9	3	0	
+0	0	0	E	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	3	0	
+0	1	15	A	3	2	3	1	ASO	0	2	11	0	
+0	0	0	S	3	2	3	0		1	3	3	0	
+0	0	0	O	3	2	3	0		0	4	4	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	16	S	3	6	3	1	SIE	0	6	6	0	
+0	0	0	I	3	6	3	0		2	7	3	0	
+0	0	0	E	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	V	4	0	3	1	VER	4	0	3	1	VMI
+0	1	18	E	4	0	3	0		4	1	3	1	EEC
+0	0	0	R	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	19	S	4	5	6	1	STACEY	4	5	3	1	SUA
+0	0	0	T	4	5	6	0		0	6	6	0	
+0	0	0	A	4	5	6	0		2	7	3	0	
+0	0	0	C	4	5	6	0		0	8	11	0	
+0	1	20	E	4	5	6	0		4	9	3	1	EIS
+0	1	21	Y	4	5	6	0		4	10	3	1	YEE
+0	1	22	M	5	0	3	1	MEH	4	0	3	0	
+0	0	0	E	5	0	3	0		4	1	3	0	
+0	0	0	H	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	23	R	5	4	3	1	RUY	5	4	6	1	REBIDS
+0	0	0	U	5	4	3	0		4	5	3	0	
+0	0	0	Y	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	24	H	5	8	3	1	HIE	0	8	11	0	
+0	0	0	I	5	8	3	0		4	9	3	0	
+0	0	0	E	5	8	3	0		4	10	3	0	
+0	1	25	I	6	0	6	1	ICETEA	4	0	3	0	
+0	0	0	C	6	0	6	0		4	1	3	0	
+0	0	0	E	6	0	6	0		0	2	11	0	
+0	1	26	T	6	0	6	0		6	3	3	1	TPK
+0	0	0	E	6	0	6	0		5	4	6	0	
+0	0	0	A	6	0	6	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	4	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	27	E	6	8	3	1	ESE	0	8	11	0	
+0	0	0	S	6	8	3	0		4	9	3	0	
+0	0	0	E	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	28	A	7	2	3	1	APB	0	2	11	0	
+0	0	0	P	7	2	3	0		6	3	3	0	
+0	0	0	B	7	2	3	0		5	4	6	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	29	I	7	6	3	1	IAM	7	6	4	1	IGOT
+0	1	30	A	7	6	3	0		7	7	3	1	ACR
+0	0	0	M	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	O	8	0	11	1	OLDKINGCOLE	8	0	3	1	OHH
+0	1	32	L	8	0	11	0		8	1	3	1	LAI
+0	0	0	D	8	0	11	0		0	2	11	0	
+0	0	0	K	8	0	11	0		6	3	3	0	
+0	0	0	I	8	0	11	0		5	4	6	0	
+0	1	33	N	8	0	11	0		8	5	3	1	NOA
+0	0	0	G	8	0	11	0		7	6	4	0	
+0	0	0	C	8	0	11	0		7	7	3	0	
+0	0	0	O	8	0	11	0		0	8	11	0	
+0	1	34	L	8	0	11	0		8	9	3	1	LIB
+0	1	35	E	8	0	11	0		8	10	3	1	EEN
+0	1	36	H	9	0	3	1	HAE	8	0	3	0	
+0	0	0	A	9	0	3	0		8	1	3	0	
+0	0	0	E	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	37	D	9	4	7	1	DOORDIE	5	4	6	0	
+0	0	0	O	9	4	7	0		8	5	3	0	
+0	0	0	O	9	4	7	0		7	6	4	0	
+0	0	0	R	9	4	7	0		7	7	3	0	
+0	0	0	D	9	4	7	0		0	8	11	0	
+0	0	0	I	9	4	7	0		8	9	3	0	
+0	0	0	E	9	4	7	0		8	10	3	0	
+0	1	38	H	10	0	3	1	HID	8	0	3	0	
+0	0	0	I	10	0	3	0		8	1	3	0	
+0	0	0	D	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	39	S	10	4	3	1	SAT	5	4	6	0	
+0	0	0	A	10	4	3	0		8	5	3	0	
+0	0	0	T	10	4	3	0		7	6	4	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	40	E	10	8	3	1	EBN	0	8	11	0	
+0	0	0	B	10	8	3	0		8	9	3	0	
+0	0	0	N	10	8	3	0		8	10	3	0	
+23
+1	SQS	Geometric figs.
+4	VAT	Vintner's container
+7	DEL	The First State: Abbr.
+10	ELPRADO	Where many Goyas hang
+12	ELO	"Rock 'n' Roll Is King" band
+13	AMERICANPIE	1999 hit comedy
+15	ASO	Kyushu volcano
+16	SIE	"Sprechen ___ Deutsch?"
+17	VER	Part of a chap.
+19	STACEY	English travel writer Thomas
+22	MEH	"Doesn't thrill me"
+23	RUY	Chess's ___ Lopez opening
+24	HIE	Move quickly
+25	ICETEA	Pop alternative
+27	ESE	Jargon ender
+28	APB	Broadcast in a manhunt, in brief
+29	IAM	Existential declaration
+31	OLDKINGCOLE	MATURE, FUN-LOVING man, smoker, music lover. Come share a palatial home ...
+36	HAE	"O Tibbie, I ___ seen the day": Burns
+37	DOORDIE	All-out
+38	HID	Screened
+39	SAT	Marked time
+40	EBN	Surveyor's dir.
+25
+1	SEA	Ocean
+2	QLM	___ Victor
+3	SPEARHEADED	Initiated, as an undertaking
+4	VAIO	Sony computer brand
+5	ADC	Military asst.
+6	TOASTY	Comfortably warm
+7	DEPECHEMODE	"People Are People" rock group
+8	ELI	Lilly of pharmaceuticals
+9	LOE	Star of "Youngblood," 1986
+11	RRS	Subjects of interstate regulation: Abbr.
+14	NIA	Long of "Boyz N the Hood"
+17	VMI	Southern Conference sch.
+18	EEC	Grp. formed by the Treaty of Rome, 1957
+19	SUA	Italian possessive adjective
+20	EIS	___ for elephant
+21	YEE	"___ haw!" (cry of delight)
+23	REBIDS	Bridge signals
+26	TPK	Plaza locale: Abbr.
+29	IGOT	James Brown's "___ the Feelin'"
+30	ACR	Horizontal: Abbr.
+31	OHH	Cry from one who just got the joke
+32	LAI	"A Man and a Woman" composer
+33	NOA	"... ___ thousand times ..."
+34	LIB	A little freedom?
+35	EEN	Literary contraction

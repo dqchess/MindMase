@@ -1,0 +1,235 @@
+grid_13x13_120
+13
+0	1	1	W	0	0	3	1	WBO	0	0	3	1	WED
+0	1	2	B	0	0	3	0		0	1	3	1	BRA
+0	1	3	O	0	0	3	0		0	2	3	1	OAR
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	D	0	6	3	1	DAL	0	6	4	1	DAUB
+0	1	5	A	0	6	3	0		0	7	7	1	ANTIGUA
+0	1	6	L	0	6	3	0		0	8	3	1	LSH
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	P	0	10	3	1	PRI	0	10	9	1	PIANOSOLO
+0	1	8	R	0	10	3	0		0	11	5	1	RANDR
+0	1	9	I	0	10	3	0		0	12	3	1	ISS
+0	1	10	E	1	0	4	1	ERAT	0	0	3	0	
+0	0	0	R	1	0	4	0		0	1	3	0	
+0	0	0	A	1	0	4	0		0	2	3	0	
+0	1	11	T	1	0	4	0		1	3	5	1	TTOPS
+1	0	0	#	1	5	4	0		2	4	3	0	
+0	1	12	K	1	5	4	1	KANS	1	5	3	1	KOI
+0	0	0	A	1	5	4	0		0	6	4	0	
+0	0	0	N	1	5	4	0		0	7	7	0	
+0	0	0	S	1	5	4	0		0	8	3	0	
+1	0	0	#	1	10	3	0		2	9	4	0	
+0	1	13	I	1	10	3	1	IAS	0	10	9	0	
+0	0	0	A	1	10	3	0		0	11	5	0	
+0	0	0	S	1	10	3	0		0	12	3	0	
+0	1	14	D	2	0	13	1	DARTMOUTHFANS	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	3	0	
+0	0	0	R	2	0	13	0		0	2	3	0	
+0	0	0	T	2	0	13	0		1	3	5	0	
+0	1	15	M	2	0	13	0		2	4	3	1	MRS
+0	0	0	O	2	0	13	0		1	5	3	0	
+0	0	0	U	2	0	13	0		0	6	4	0	
+0	0	0	T	2	0	13	0		0	7	7	0	
+0	0	0	H	2	0	13	0		0	8	3	0	
+0	1	16	F	2	0	13	0		2	9	4	1	FIFE
+0	0	0	A	2	0	13	0		0	10	9	0	
+0	0	0	N	2	0	13	0		0	11	5	0	
+0	0	0	S	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	3	0	
+1	0	0	#	3	3	5	0		4	2	9	0	
+0	1	17	O	3	3	5	1	ORIBI	1	3	5	0	
+0	0	0	R	3	3	5	0		2	4	3	0	
+0	0	0	I	3	3	5	0		1	5	3	0	
+0	0	0	B	3	3	5	0		0	6	4	0	
+0	0	0	I	3	3	5	0		0	7	7	0	
+1	0	0	#	3	9	3	0		4	8	3	0	
+0	1	18	I	3	9	3	1	IND	2	9	4	0	
+0	0	0	N	3	9	3	0		0	10	9	0	
+0	0	0	D	3	9	3	0		0	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	19	Q	4	0	5	1	QUIPS	4	0	3	1	QUO
+0	1	20	U	4	0	5	0		4	1	3	1	UNB
+0	1	21	I	4	0	5	0		4	2	9	1	IIIAMIGOS
+0	0	0	P	4	0	5	0		1	3	5	0	
+0	0	0	S	4	0	5	0		2	4	3	0	
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	5	0		5	6	3	0	
+0	1	22	G	4	7	5	1	GOFOR	0	7	7	0	
+0	1	23	O	4	7	5	0		4	8	3	1	OKD
+0	0	0	F	4	7	5	0		2	9	4	0	
+0	0	0	O	4	7	5	0		0	10	9	0	
+0	0	0	R	4	7	5	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	24	U	5	0	4	1	UNIS	4	0	3	0	
+0	0	0	N	5	0	4	0		4	1	3	0	
+0	0	0	I	5	0	4	0		4	2	9	0	
+0	0	0	S	5	0	4	0		1	3	5	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	5	0		6	5	7	0	
+0	1	25	N	5	6	5	1	NUKES	5	6	3	1	NBA
+0	0	0	U	5	6	5	0		0	7	7	0	
+0	0	0	K	5	6	5	0		4	8	3	0	
+0	0	0	E	5	6	5	0		2	9	4	0	
+0	0	0	S	5	6	5	0		0	10	9	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	26	O	6	0	3	1	OBI	4	0	3	0	
+0	0	0	B	6	0	3	0		4	1	3	0	
+0	0	0	I	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	4	0	
+0	1	27	A	6	4	5	1	ASBAD	6	4	3	1	AEC
+0	1	28	S	6	4	5	0		6	5	7	1	SHAREIN
+0	0	0	B	6	4	5	0		5	6	3	0	
+0	0	0	A	6	4	5	0		0	7	7	0	
+0	0	0	D	6	4	5	0		4	8	3	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	29	O	6	10	3	1	OUI	0	10	9	0	
+0	1	30	U	6	10	3	0		6	11	3	1	UMS
+0	1	31	I	6	10	3	0		6	12	3	1	IAT
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	5	0		8	1	5	0	
+0	1	32	A	7	2	5	1	AREHA	4	2	9	0	
+0	1	33	R	7	2	5	0		7	3	4	1	RIDE
+0	0	0	E	7	2	5	0		6	4	3	0	
+0	0	0	H	7	2	5	0		6	5	7	0	
+0	0	0	A	7	2	5	0		5	6	3	0	
+1	0	0	#	7	8	0	0		8	7	0	0	
+1	0	0	#	7	9	4	0		8	8	3	0	
+0	1	34	A	7	9	4	1	ALMA	7	9	5	1	AMIGO
+0	0	0	L	7	9	4	0		0	10	9	0	
+0	0	0	M	7	9	4	0		6	11	3	0	
+0	0	0	A	7	9	4	0		6	12	3	0	
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	35	A	8	1	5	1	AMICA	8	1	5	1	ALOUS
+0	0	0	M	8	1	5	0		4	2	9	0	
+0	0	0	I	8	1	5	0		7	3	4	0	
+0	0	0	C	8	1	5	0		6	4	3	0	
+0	0	0	A	8	1	5	0		6	5	7	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	5	0		9	7	3	0	
+0	1	36	A	8	8	5	1	AMOST	8	8	3	1	AHI
+0	0	0	M	8	8	5	0		7	9	5	0	
+0	0	0	O	8	8	5	0		0	10	9	0	
+0	0	0	S	8	8	5	0		6	11	3	0	
+0	0	0	T	8	8	5	0		6	12	3	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	37	L	9	1	3	1	LID	8	1	5	0	
+0	0	0	I	9	1	3	0		4	2	9	0	
+0	0	0	D	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	38	R	9	5	5	1	RISHI	6	5	7	0	
+0	1	39	I	9	5	5	0		9	6	4	1	IMNO
+0	1	40	S	9	5	5	0		9	7	3	1	STE
+0	0	0	H	9	5	5	0		8	8	3	0	
+0	0	0	I	9	5	5	0		7	9	5	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	G	10	0	13	1	GOGETEMTIGRIS	10	0	3	1	GDS
+0	0	0	O	10	0	13	0		8	1	5	0	
+0	0	0	G	10	0	13	0		4	2	9	0	
+0	0	0	E	10	0	13	0		7	3	4	0	
+0	1	42	T	10	0	13	0		10	4	3	1	TZE
+0	0	0	E	10	0	13	0		6	5	7	0	
+0	0	0	M	10	0	13	0		9	6	4	0	
+0	0	0	T	10	0	13	0		9	7	3	0	
+0	0	0	I	10	0	13	0		8	8	3	0	
+0	0	0	G	10	0	13	0		7	9	5	0	
+0	1	43	R	10	0	13	0		10	10	3	1	RBS
+0	1	44	I	10	0	13	0		10	11	3	1	IES
+0	1	45	S	10	0	13	0		10	12	3	1	SRI
+0	1	46	D	11	0	3	1	DUO	10	0	3	0	
+0	0	0	U	11	0	3	0		8	1	5	0	
+0	0	0	O	11	0	3	0		4	2	9	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	47	Z	11	4	4	1	ZINE	10	4	3	0	
+0	0	0	I	11	4	4	0		6	5	7	0	
+0	0	0	N	11	4	4	0		9	6	4	0	
+0	0	0	E	11	4	4	0		9	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	O	11	9	4	1	OBER	7	9	5	0	
+0	0	0	B	11	9	4	0		10	10	3	0	
+0	0	0	E	11	9	4	0		10	11	3	0	
+0	0	0	R	11	9	4	0		10	12	3	0	
+0	1	49	S	12	0	3	1	SSS	10	0	3	0	
+0	0	0	S	12	0	3	0		8	1	5	0	
+0	0	0	S	12	0	3	0		4	2	9	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	50	E	12	4	3	1	ENO	10	4	3	0	
+0	0	0	N	12	4	3	0		6	5	7	0	
+0	0	0	O	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	S	12	10	3	1	SSI	10	10	3	0	
+0	0	0	S	12	10	3	0		10	11	3	0	
+0	0	0	I	12	10	3	0		10	12	3	0	
+29
+1	WBO	Sanctioning assn. for pugilists
+4	DAL	Lentil dish at an Indian restaurant
+7	PRI	Part of C.P.I.
+10	ERAT	"In principio ___ Verbum"
+12	KANS	Home of McConnell A.F.B.
+13	IAS	___ in ink
+14	DARTMOUTHFANS	Ivy League rooters in green
+17	ORIBI	Small African antelope
+18	IND	Third line on a ballot: Abbr.
+19	QUIPS	Many Conan O'Brien lines
+22	GOFOR	Attempt
+24	UNIS	French part of the U.S.A.
+25	NUKES	Zaps, in a way
+26	OBI	Part of a "Mikado" costume
+27	ASBAD	Equally awful
+29	OUI	Overseas agreement
+32	AREHA	1986 self-titled album whose cover was Andy Warhol's last work
+34	ALMA	Michigan's ___ College
+35	AMICA	Livorno lady friend
+36	AMOST	"It's ___ Unusual Day"
+37	LID	Pot's top
+38	RISHI	Hindu sage
+41	GOGETEMTIGRIS	Detroit sports fan's cry?
+46	DUO	Tango team
+47	ZINE	Amateur mag.
+48	OBER	Upper, in Saxony
+49	SSS	Sound of bacon frying
+50	ENO	"Another Green World" composer, 1975
+51	SSI	Fed. stipend
+33
+1	WED	Join in holy matrimony
+2	BRA	Kind of strap
+3	OAR	Row your boat
+4	DAUB	Plaster
+5	ANTIGUA	1493 Columbus landing site
+6	LSH	Sorority letters
+7	PIANOSOLO	"Layla" has one
+8	RANDR	Short break?
+9	ISS	Edition: Abbr.
+11	TTOPS	Sporty car features
+12	KOI	Decorative pond fish
+15	MRS	Half a couple
+16	FIFE	County of St. Andrews, Scotland
+19	QUO	___ vadis
+20	UNB	Free
+21	IIIAMIGOS	1986 John Landis film, in Rome?
+23	OKD	Let pass
+25	NBA	Wizards' and Celtics' org.
+27	AEC	Former regulatory org.
+28	SHAREIN	Get part of
+30	UMS	Vocal stumbles
+31	IAT	"Am ___ risk?"
+33	RIDE	Teacups, e.g.
+34	AMIGO	Friend of Carlos
+35	ALOUS	Noted diamond family
+36	AHI	Hawaiian bigeye
+39	IMNO	"___ Angel" (1933 comedy)
+40	STE	Sault ___ Marie
+41	GDS	Dept. store stock
+42	TZE	Chinese philosopher Mo-___
+43	RBS	Gridiron carriers: Abbr.
+44	IES	Suffix with pant
+45	SRI	___ Lankan

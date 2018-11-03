@@ -1,0 +1,231 @@
+grid_13x13_178
+13
+0	1	1	Y	0	0	5	1	YANKS	0	0	3	1	YDS
+0	1	2	A	0	0	5	0		0	1	7	1	AREOLAS
+0	1	3	N	0	0	5	0		0	2	13	1	NANETTEFABRAY
+0	1	4	K	0	0	5	0		0	3	4	1	KWAN
+0	1	5	S	0	0	5	0		0	4	3	1	SST
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	4	0		1	7	3	0	
+0	1	6	A	0	8	4	1	ANOA	0	8	3	1	AIS
+0	1	7	N	0	8	4	0		0	9	6	1	NGTODV
+0	1	8	O	0	8	4	0		0	10	13	1	ONEMOREMINUTE
+0	1	9	A	0	8	4	0		0	11	5	1	ASRED
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	D	1	0	5	1	DRAWS	0	0	3	0	
+0	0	0	R	1	0	5	0		0	1	7	0	
+0	0	0	A	1	0	5	0		0	2	13	0	
+0	0	0	W	1	0	5	0		0	3	4	0	
+0	0	0	S	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	6	0		2	5	5	0	
+0	1	11	F	1	6	6	1	FEIGNS	1	6	11	1	FRITTERAWAY
+0	1	12	E	1	6	6	0		1	7	3	1	EON
+0	0	0	I	1	6	6	0		0	8	3	0	
+0	0	0	G	1	6	6	0		0	9	6	0	
+0	0	0	N	1	6	6	0		0	10	13	0	
+0	0	0	S	1	6	6	0		0	11	5	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	S	2	0	13	1	SENATEROSTERS	0	0	3	0	
+0	0	0	E	2	0	13	0		0	1	7	0	
+0	0	0	N	2	0	13	0		0	2	13	0	
+0	0	0	A	2	0	13	0		0	3	4	0	
+0	0	0	T	2	0	13	0		0	4	3	0	
+0	1	14	E	2	0	13	0		2	5	5	1	EHUDS
+0	0	0	R	2	0	13	0		1	6	11	0	
+0	0	0	O	2	0	13	0		1	7	3	0	
+0	0	0	S	2	0	13	0		0	8	3	0	
+0	0	0	T	2	0	13	0		0	9	6	0	
+0	0	0	E	2	0	13	0		0	10	13	0	
+0	0	0	R	2	0	13	0		0	11	5	0	
+0	1	15	S	2	0	13	0		2	12	3	1	SRI
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	16	O	3	1	3	1	OEN	0	1	7	0	
+0	0	0	E	3	1	3	0		0	2	13	0	
+0	0	0	N	3	1	3	0		0	3	4	0	
+1	0	0	#	3	5	3	0		4	4	4	0	
+0	1	17	H	3	5	3	1	HIN	2	5	5	0	
+0	0	0	I	3	5	3	0		1	6	11	0	
+0	0	0	N	3	5	3	0		1	7	3	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	18	O	3	9	4	1	OMER	0	9	6	0	
+0	0	0	M	3	9	4	0		0	10	13	0	
+0	0	0	E	3	9	4	0		0	11	5	0	
+0	0	0	R	3	9	4	0		2	12	3	0	
+0	1	19	U	4	0	3	1	ULT	4	0	3	1	URL
+0	0	0	L	4	0	3	0		0	1	7	0	
+0	0	0	T	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	20	C	4	4	3	1	CUT	4	4	4	1	CCIX
+0	0	0	U	4	4	3	0		2	5	5	0	
+0	0	0	T	4	4	3	0		1	6	11	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	4	0		5	8	4	0	
+0	1	21	D	4	9	4	1	DODI	0	9	6	0	
+0	0	0	O	4	9	4	0		0	10	13	0	
+0	0	0	D	4	9	4	0		0	11	5	0	
+0	0	0	I	4	9	4	0		2	12	3	0	
+0	1	22	R	5	0	3	1	RAT	4	0	3	0	
+0	0	0	A	5	0	3	0		0	1	7	0	
+0	0	0	T	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	23	C	5	4	3	1	CDT	4	4	4	0	
+0	0	0	D	5	4	3	0		2	5	5	0	
+0	0	0	T	5	4	3	0		1	6	11	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	24	D	5	8	3	1	DVR	5	8	4	1	DTKI
+0	0	0	V	5	8	3	0		0	9	6	0	
+0	0	0	R	5	8	3	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	7	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	25	L	6	0	3	1	LSE	4	0	3	0	
+0	0	0	S	6	0	3	0		0	1	7	0	
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	6	0	
+0	1	26	I	6	4	5	1	ISENT	4	4	4	0	
+0	0	0	S	6	4	5	0		2	5	5	0	
+0	0	0	E	6	4	5	0		1	6	11	0	
+0	1	27	N	6	4	5	0		6	7	5	1	NOPES
+0	0	0	T	6	4	5	0		5	8	4	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	28	E	6	10	3	1	ETC	0	10	13	0	
+0	1	29	T	6	10	3	0		6	11	7	1	TUTELAR
+0	1	30	C	6	10	3	0		6	12	3	1	CDE
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	5	0	
+0	1	31	F	7	2	3	1	FIX	0	2	13	0	
+0	1	32	I	7	2	3	0		7	3	6	1	IODIDE
+0	0	0	X	7	2	3	0		4	4	4	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	33	R	7	6	3	1	ROK	1	6	11	0	
+0	0	0	O	7	6	3	0		6	7	5	0	
+0	0	0	K	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	34	M	7	10	3	1	MUD	0	10	13	0	
+0	0	0	U	7	10	3	0		6	11	7	0	
+0	0	0	D	7	10	3	0		6	12	3	0	
+0	1	35	C	8	0	4	1	CHAO	8	0	3	1	CSA
+0	1	36	H	8	0	4	0		8	1	5	1	HTEST
+0	0	0	A	8	0	4	0		0	2	13	0	
+0	0	0	O	8	0	4	0		7	3	6	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	37	A	8	6	3	1	API	1	6	11	0	
+0	0	0	P	8	6	3	0		6	7	5	0	
+0	0	0	I	8	6	3	0		5	8	4	0	
+1	0	0	#	8	10	3	0		9	9	4	0	
+0	1	38	I	8	10	3	1	ITE	0	10	13	0	
+0	0	0	T	8	10	3	0		6	11	7	0	
+0	0	0	E	8	10	3	0		6	12	3	0	
+0	1	39	S	9	0	4	1	STBD	8	0	3	0	
+0	0	0	T	9	0	4	0		8	1	5	0	
+0	0	0	B	9	0	4	0		0	2	13	0	
+0	0	0	D	9	0	4	0		7	3	6	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	40	E	9	5	3	1	EWE	9	5	3	1	ELA
+0	0	0	W	9	5	3	0		1	6	11	0	
+0	0	0	E	9	5	3	0		6	7	5	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	41	P	9	9	3	1	PNE	9	9	4	1	PASE
+0	0	0	N	9	9	3	0		0	10	13	0	
+0	0	0	E	9	9	3	0		6	11	7	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	A	10	0	13	1	AERIALASSAULT	8	0	3	0	
+0	0	0	E	10	0	13	0		8	1	5	0	
+0	0	0	R	10	0	13	0		0	2	13	0	
+0	0	0	I	10	0	13	0		7	3	6	0	
+0	1	43	A	10	0	13	0		10	4	3	1	ADE
+0	0	0	L	10	0	13	0		9	5	3	0	
+0	0	0	A	10	0	13	0		1	6	11	0	
+0	0	0	S	10	0	13	0		6	7	5	0	
+0	1	44	S	10	0	13	0		10	8	3	1	SAS
+0	0	0	A	10	0	13	0		9	9	4	0	
+0	0	0	U	10	0	13	0		0	10	13	0	
+0	0	0	L	10	0	13	0		6	11	7	0	
+0	1	45	T	10	0	13	0		10	12	3	1	TBS
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	46	S	11	1	6	1	SADDAY	8	1	5	0	
+0	0	0	A	11	1	6	0		0	2	13	0	
+0	0	0	D	11	1	6	0		7	3	6	0	
+0	0	0	D	11	1	6	0		10	4	3	0	
+0	0	0	A	11	1	6	0		9	5	3	0	
+0	0	0	Y	11	1	6	0		1	6	11	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	47	A	11	8	5	1	ASTAB	10	8	3	0	
+0	0	0	S	11	8	5	0		9	9	4	0	
+0	0	0	T	11	8	5	0		0	10	13	0	
+0	0	0	A	11	8	5	0		6	11	7	0	
+0	0	0	B	11	8	5	0		10	12	3	0	
+1	0	0	#	12	1	4	0		13	0	0	0	
+0	1	48	T	12	1	4	1	TYEE	8	1	5	0	
+0	0	0	Y	12	1	4	0		0	2	13	0	
+0	0	0	E	12	1	4	0		7	3	6	0	
+0	0	0	E	12	1	4	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	49	S	12	8	5	1	SEERS	10	8	3	0	
+0	0	0	E	12	8	5	0		9	9	4	0	
+0	0	0	E	12	8	5	0		0	10	13	0	
+0	0	0	R	12	8	5	0		6	11	7	0	
+0	0	0	S	12	8	5	0		10	12	3	0	
+31
+1	YANKS	Americans, to Brits
+6	ANOA	Small forest buffalo
+10	DRAWS	Prepares to fire
+11	FEIGNS	Puts on a show
+13	SENATEROSTERS	Groups of 100
+16	OEN	Vintner's prefix
+17	HIN	Submit
+18	OMER	Hebrew measure
+19	ULT	Nth deg.
+20	CUT	Profit share
+21	DODI	"Hook" producer Fayed
+22	RAT	Back-stabber
+23	CDT	Aug. setting in K.C.
+24	DVR	TiVo, for one, in brief
+25	LSE	End of many an E-mail address
+26	ISENT	"___ a Letter to My Love" (Simone Signoret film)
+28	ETC	"And that sort of thing": Abbr.
+31	FIX	Repair
+33	ROK	"M*A*S*H" soldier
+34	MUD	Coffee, slangily
+35	CHAO	Secretary of Labor Elaine
+37	API	Bee: Prefix
+38	ITE	Resident: Suffix
+39	STBD	Naut. direction
+40	EWE	A shepherd shepherds it
+41	PNE	Log cabin material, maybe
+42	AERIALASSAULT	Shock-and-awe strategy
+46	SADDAY	Time of lament
+47	ASTAB	Take ___ at (try)
+48	TYEE	Chinook salmon
+49	SEERS	Ball-bearing types?
+27
+1	YDS	1,760 make a mi.
+2	AREOLAS	Biological interstices
+3	NANETTEFABRAY	"""Harper Valley P.T.A."" actress"
+4	KWAN	Skating champ Michelle
+5	SST	L-1011 alternative
+6	AIS	Start of some picture books
+7	NGTODV	Come forth
+8	ONEMOREMINUTE	End of the quotation
+9	ASRED	Comparable to a beet
+11	FRITTERAWAY	Waste
+12	EON	1,000,000,000 years
+14	EHUDS	Israel's Barak and Olmert
+15	SRI	Honorific that's Sanskrit for "majesty"
+19	URL	Link letters
+20	CCIX	Roman 209
+24	DTKI	Cave, in poetry
+27	NOPES	Slangy denials
+29	TUTELAR	Like a guardian
+30	CDE	Do, re, mi
+32	IODIDE	Chemical salt
+35	CSA	Jefferson Davis's org.
+36	HTEST	1954 event code-named Castle Bravo
+40	ELA	Musical high note
+41	PASE	Matador's move
+43	ADE	Drink suffix
+44	SAS	Carrier to Tampere
+45	TBS	USA competitor

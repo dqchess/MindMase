@@ -1,0 +1,169 @@
+grid_11x11_109
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	C	0	1	3	1	CGI	0	1	6	1	CONCHS
+0	1	2	G	0	1	3	0		0	2	10	1	GIANTPANDA
+0	1	3	I	0	1	3	0		0	3	4	1	ISEE
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	B	0	5	3	1	BYA	0	5	3	1	BSC
+0	1	5	Y	0	5	3	0		0	6	3	1	YAR
+0	1	6	A	0	5	3	0		0	7	5	1	ASODD
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	3	0		2	0	0	0	
+0	1	7	O	1	1	3	1	OIS	0	1	6	0	
+0	0	0	I	1	1	3	0		0	2	10	0	
+0	0	0	S	1	1	3	0		0	3	4	0	
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	8	S	1	5	6	1	SASHES	0	5	3	0	
+0	0	0	A	1	5	6	0		0	6	3	0	
+0	0	0	S	1	5	6	0		0	7	5	0	
+0	1	9	H	1	5	6	0		1	8	10	1	HOUSEPAINT
+0	1	10	E	1	5	6	0		1	9	3	1	EKE
+0	1	11	S	1	5	6	0		1	10	3	1	SSS
+1	0	0	#	2	1	3	0		3	0	3	0	
+0	1	12	N	2	1	3	1	NAE	0	1	6	0	
+0	0	0	A	2	1	3	0		0	2	10	0	
+0	0	0	E	2	1	3	0		0	3	4	0	
+1	0	0	#	2	5	6	0		3	4	4	0	
+0	1	13	C	2	5	6	1	CROOKS	0	5	3	0	
+0	0	0	R	2	5	6	0		0	6	3	0	
+0	0	0	O	2	5	6	0		0	7	5	0	
+0	0	0	O	2	5	6	0		1	8	10	0	
+0	0	0	K	2	5	6	0		1	9	3	0	
+0	0	0	S	2	5	6	0		1	10	3	0	
+0	1	14	A	3	0	5	1	ACNED	3	0	3	1	ABT
+0	0	0	C	3	0	5	0		0	1	6	0	
+0	0	0	N	3	0	5	0		0	2	10	0	
+0	0	0	E	3	0	5	0		0	3	4	0	
+0	1	15	D	3	0	5	0		3	4	4	1	DEPT
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	4	0	
+0	1	16	D	3	7	4	1	DUES	0	7	5	0	
+0	0	0	U	3	7	4	0		1	8	10	0	
+0	0	0	E	3	7	4	0		1	9	3	0	
+0	0	0	S	3	7	4	0		1	10	3	0	
+0	1	17	B	4	0	3	1	BHT	3	0	3	0	
+0	0	0	H	4	0	3	0		0	1	6	0	
+0	0	0	T	4	0	3	0		0	2	10	0	
+1	0	0	#	4	4	5	0		5	3	0	0	
+0	1	18	E	4	4	5	1	EGADS	3	4	4	0	
+0	1	19	G	4	4	5	0		4	5	3	1	GAT
+0	1	20	A	4	4	5	0		4	6	4	1	AXON
+0	0	0	D	4	4	5	0		0	7	5	0	
+0	0	0	S	4	4	5	0		1	8	10	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	21	T	5	0	3	1	TSP	3	0	3	0	
+0	0	0	S	5	0	3	0		0	1	6	0	
+0	0	0	P	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	22	P	5	4	3	1	PAX	3	4	4	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	0	0	X	5	4	3	0		4	6	4	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	23	E	5	8	3	1	EME	1	8	10	0	
+0	1	24	M	5	8	3	0		5	9	6	1	MELEES
+0	1	25	E	5	8	3	0		5	10	3	1	EEE
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	5	0		7	1	3	0	
+0	1	26	A	6	2	5	1	APTTO	0	2	10	0	
+0	1	27	P	6	2	5	0		6	3	5	1	PAYTO
+0	0	0	T	6	2	5	0		3	4	4	0	
+0	0	0	T	6	2	5	0		4	5	3	0	
+0	0	0	O	6	2	5	0		4	6	4	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	28	P	6	8	3	1	PEE	1	8	10	0	
+0	0	0	E	6	8	3	0		5	9	6	0	
+0	0	0	E	6	8	3	0		5	10	3	0	
+0	1	29	R	7	0	4	1	RENA	7	0	3	1	RUB
+0	1	30	E	7	0	4	0		7	1	3	1	ENO
+0	0	0	N	7	0	4	0		0	2	10	0	
+0	0	0	A	7	0	4	0		6	3	5	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	31	N	7	6	5	1	NEALE	4	6	4	0	
+0	1	32	E	7	6	5	0		7	7	4	1	EWOK
+0	0	0	A	7	6	5	0		1	8	10	0	
+0	0	0	L	7	6	5	0		5	9	6	0	
+0	0	0	E	7	6	5	0		5	10	3	0	
+0	1	33	U	8	0	6	1	UNDYED	7	0	3	0	
+0	0	0	N	8	0	6	0		7	1	3	0	
+0	0	0	D	8	0	6	0		0	2	10	0	
+0	0	0	Y	8	0	6	0		6	3	5	0	
+0	1	34	E	8	0	6	0		8	4	3	1	EEK
+0	1	35	D	8	0	6	0		8	5	3	1	DDS
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	36	W	8	7	3	1	WIE	7	7	4	0	
+0	0	0	I	8	7	3	0		1	8	10	0	
+0	0	0	E	8	7	3	0		5	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	37	B	9	0	6	1	BOATED	7	0	3	0	
+0	0	0	O	9	0	6	0		7	1	3	0	
+0	0	0	A	9	0	6	0		0	2	10	0	
+0	0	0	T	9	0	6	0		6	3	5	0	
+0	0	0	E	9	0	6	0		8	4	3	0	
+0	0	0	D	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	38	O	9	7	3	1	ONE	7	7	4	0	
+0	0	0	N	9	7	3	0		1	8	10	0	
+0	0	0	E	9	7	3	0		5	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	39	O	10	3	3	1	OKS	6	3	5	0	
+0	0	0	K	10	3	3	0		8	4	3	0	
+0	0	0	S	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	40	K	10	7	3	1	KTS	7	7	4	0	
+0	0	0	T	10	7	3	0		1	8	10	0	
+0	0	0	S	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	CGI	Film special effects, for short
+4	BYA	___ landslide
+7	OIS	French suffix with Qu
+8	SASHES	Casements
+12	NAE	"Fat chance, laddie"
+13	CROOKS	Stingers?
+14	ACNED	Blemished
+16	DUES	Annual bill
+17	BHT	All-natural food no-no
+18	EGADS	"Yikes!"
+21	TSP	Medicinal amt.
+22	PAX	Bellum antithesis
+23	EME	Suffix with morph-
+26	APTTO	Probably will, after "is"
+28	PEE	___ Dee River
+29	RENA	Actress Sofer
+31	NEALE	Writer Zora ___ Hurston
+33	UNDYED	Natural
+36	WIE	"___ geht's?" (German "How are you?")
+37	BOATED	Sailed
+38	ONE	Last number in a countdown
+39	OKS	Lets go
+40	KTS	Some chess pieces: Abbr.
+21
+1	CONCHS	Spiral shells
+2	GIANTPANDA	Resident of Chinese highlands
+3	ISEE	Listener's acknowledgment
+4	BSC	Deg. in biology or physics
+5	YAR	Shostakovich's "Babi ___" Symphony
+6	ASODD	"Doesn't this strike you ___?"
+9	HOUSEPAINT	Sherwin-Williams offering
+10	EKE	Scratch
+11	SSS	"Greetings" org.
+14	ABT	Baryshnikov's former co.
+15	DEPT	State, e.g.: Abbr.
+19	GAT	Thug
+20	AXON	Nerve cell projection
+24	MELEES	Donnybrooks
+25	EEE	Large shoe width
+27	PAYTO	Check words
+29	RUB	Chafe
+30	ENO	Producer for David Bowie and U2
+32	EWOK	Furry denizen of Endor
+34	EEK	"A cockroach!"
+35	DDS	Person who's always feeling down in the mouth?: Abbr.

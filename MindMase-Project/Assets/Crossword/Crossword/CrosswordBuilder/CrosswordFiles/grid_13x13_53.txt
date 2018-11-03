@@ -1,0 +1,229 @@
+grid_13x13_53
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	5	0		1	2	12	0	
+0	1	1	R	0	3	5	1	RUINS	0	3	3	1	ROY
+0	1	2	U	0	3	5	0		0	4	3	1	UPS
+0	1	3	I	0	3	5	0		0	5	3	1	ITI
+0	1	4	N	0	3	5	0		0	6	13	1	NINEGALLONHAT
+0	1	5	S	0	3	5	0		0	7	4	1	SOTO
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	6	H	0	10	3	1	HCE	0	10	12	1	HOGANSHEROES
+0	1	7	C	0	10	3	0		0	11	6	1	COINOP
+0	1	8	E	0	10	3	0		0	12	3	1	ESL
+1	0	0	#	1	1	8	0		2	0	0	0	
+0	1	9	A	1	1	8	1	ADOPTION	1	1	5	1	ALWAY
+0	1	10	D	1	1	8	0		1	2	12	1	DASHOFPEPPER
+0	0	0	O	1	1	8	0		0	3	3	0	
+0	0	0	P	1	1	8	0		0	4	3	0	
+0	0	0	T	1	1	8	0		0	5	3	0	
+0	0	0	I	1	1	8	0		0	6	13	0	
+0	0	0	O	1	1	8	0		0	7	4	0	
+0	1	11	N	1	1	8	0		1	8	3	1	NOL
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	12	O	1	10	3	1	OOS	0	10	12	0	
+0	0	0	O	1	10	3	0		0	11	6	0	
+0	0	0	S	1	10	3	0		0	12	3	0	
+1	0	0	#	2	1	8	0		3	0	3	0	
+0	1	13	L	2	1	8	1	LAYSINTO	1	1	5	0	
+0	0	0	A	2	1	8	0		1	2	12	0	
+0	0	0	Y	2	1	8	0		0	3	3	0	
+0	0	0	S	2	1	8	0		0	4	3	0	
+0	0	0	I	2	1	8	0		0	5	3	0	
+0	0	0	N	2	1	8	0		0	6	13	0	
+0	0	0	T	2	1	8	0		0	7	4	0	
+0	0	0	O	2	1	8	0		1	8	3	0	
+1	0	0	#	2	10	3	0		3	9	4	0	
+0	1	14	G	2	10	3	1	GIL	0	10	12	0	
+0	0	0	I	2	10	3	0		0	11	6	0	
+0	0	0	L	2	10	3	0		0	12	3	0	
+0	1	15	O	3	0	3	1	OWS	3	0	3	1	OAM
+0	0	0	W	3	0	3	0		1	1	5	0	
+0	0	0	S	3	0	3	0		1	2	12	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	6	0		4	5	4	0	
+0	1	16	E	3	6	6	1	EOLIAN	0	6	13	0	
+0	0	0	O	3	6	6	0		0	7	4	0	
+0	0	0	L	3	6	6	0		1	8	3	0	
+0	1	17	I	3	6	6	0		3	9	4	1	IMAC
+0	0	0	A	3	6	6	0		0	10	12	0	
+0	0	0	N	3	6	6	0		0	11	6	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	18	A	4	0	3	1	AAH	3	0	3	0	
+0	0	0	A	4	0	3	0		1	1	5	0	
+0	0	0	H	4	0	3	0		1	2	12	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	19	P	4	4	3	1	PPG	4	4	3	1	PIE
+0	1	20	P	4	4	3	0		4	5	4	1	PSEC
+0	0	0	G	4	4	3	0		0	6	13	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	3	0		5	8	0	0	
+0	1	21	M	4	9	3	1	MNO	3	9	4	0	
+0	0	0	N	4	9	3	0		0	10	12	0	
+0	0	0	O	4	9	3	0		0	11	6	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	22	M	5	0	3	1	MYO	3	0	3	0	
+0	0	0	Y	5	0	3	0		1	1	5	0	
+0	0	0	O	5	0	3	0		1	2	12	0	
+1	0	0	#	5	4	4	0		6	3	4	0	
+0	1	23	I	5	4	4	1	ISAY	4	4	3	0	
+0	0	0	S	5	4	4	0		4	5	4	0	
+0	0	0	A	5	4	4	0		0	6	13	0	
+0	1	24	Y	5	4	4	0		5	7	4	1	YUAN
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	25	A	5	9	3	1	ASP	3	9	4	0	
+0	0	0	S	5	9	3	0		0	10	12	0	
+0	0	0	P	5	9	3	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	9	0		7	1	6	0	
+0	1	26	F	6	2	9	1	FREELUNCH	1	2	12	0	
+0	1	27	R	6	2	9	0		6	3	4	1	ROUE
+0	0	0	E	6	2	9	0		4	4	3	0	
+0	0	0	E	6	2	9	0		4	5	4	0	
+0	0	0	L	6	2	9	0		0	6	13	0	
+0	0	0	U	6	2	9	0		5	7	4	0	
+0	1	28	N	6	2	9	0		6	8	3	1	NMI
+0	0	0	C	6	2	9	0		3	9	4	0	
+0	0	0	H	6	2	9	0		0	10	12	0	
+1	0	0	#	6	12	0	0		7	11	5	0	
+1	0	0	#	6	13	0	0		7	12	3	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	29	G	7	1	3	1	GPO	7	1	6	1	GNARLY
+0	0	0	P	7	1	3	0		1	2	12	0	
+0	0	0	O	7	1	3	0		6	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	30	C	7	5	4	1	CLAM	4	5	4	0	
+0	0	0	L	7	5	4	0		0	6	13	0	
+0	0	0	A	7	5	4	0		5	7	4	0	
+0	0	0	M	7	5	4	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	31	E	7	10	3	1	ERS	0	10	12	0	
+0	1	32	R	7	10	3	0		7	11	5	1	REEDS
+0	1	33	S	7	10	3	0		7	12	3	1	SAD
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	34	N	8	1	3	1	NEU	7	1	6	0	
+0	0	0	E	8	1	3	0		1	2	12	0	
+0	0	0	U	8	1	3	0		6	3	4	0	
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	3	0		9	5	4	0	
+0	1	35	O	8	6	3	1	ONI	0	6	13	0	
+0	0	0	N	8	6	3	0		5	7	4	0	
+0	0	0	I	8	6	3	0		6	8	3	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	36	R	8	10	3	1	REA	0	10	12	0	
+0	0	0	E	8	10	3	0		7	11	5	0	
+0	0	0	A	8	10	3	0		7	12	3	0	
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	37	A	9	1	6	1	APEMAN	7	1	6	0	
+0	0	0	P	9	1	6	0		1	2	12	0	
+0	0	0	E	9	1	6	0		6	3	4	0	
+0	1	38	M	9	1	6	0		9	4	3	1	MRI
+0	1	39	A	9	1	6	0		9	5	4	1	AERI
+0	0	0	N	9	1	6	0		0	6	13	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	40	O	9	10	3	1	OED	0	10	12	0	
+0	0	0	E	9	10	3	0		7	11	5	0	
+0	0	0	D	9	10	3	0		7	12	3	0	
+0	1	41	A	10	0	3	1	ARP	10	0	3	1	ASS
+0	0	0	R	10	0	3	0		7	1	6	0	
+0	0	0	P	10	0	3	0		1	2	12	0	
+1	0	0	#	10	4	8	0		11	3	0	0	
+0	1	42	R	10	4	8	1	REHEALED	9	4	3	0	
+0	0	0	E	10	4	8	0		9	5	4	0	
+0	0	0	H	10	4	8	0		0	6	13	0	
+0	1	43	E	10	4	8	0		10	7	3	1	EGH
+0	1	44	A	10	4	8	0		10	8	3	1	ALA
+0	1	45	L	10	4	8	0		10	9	3	1	LAD
+0	0	0	E	10	4	8	0		0	10	12	0	
+0	0	0	D	10	4	8	0		7	11	5	0	
+1	0	0	#	10	13	0	0		11	12	0	0	
+0	1	46	S	11	0	3	1	SLE	10	0	3	0	
+0	0	0	L	11	0	3	0		7	1	6	0	
+0	0	0	E	11	0	3	0		1	2	12	0	
+1	0	0	#	11	4	8	0		12	3	0	0	
+0	1	47	I	11	4	8	1	IRAGLASS	9	4	3	0	
+0	0	0	R	11	4	8	0		9	5	4	0	
+0	0	0	A	11	4	8	0		0	6	13	0	
+0	0	0	G	11	4	8	0		10	7	3	0	
+0	0	0	L	11	4	8	0		10	8	3	0	
+0	0	0	A	11	4	8	0		10	9	3	0	
+0	0	0	S	11	4	8	0		0	10	12	0	
+0	0	0	S	11	4	8	0		7	11	5	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	48	S	12	0	3	1	SYR	10	0	3	0	
+0	0	0	Y	12	0	3	0		7	1	6	0	
+0	0	0	R	12	0	3	0		1	2	12	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	5	0		13	4	0	0	
+0	1	49	I	12	5	5	1	ITHAD	9	5	4	0	
+0	0	0	T	12	5	5	0		0	6	13	0	
+0	0	0	H	12	5	5	0		10	7	3	0	
+0	0	0	A	12	5	5	0		10	8	3	0	
+0	0	0	D	12	5	5	0		10	9	3	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	RUINS	Archaeologist's destination
+6	HCE	Therefore
+9	ADOPTION	Alternative to pregnancy
+12	OOS	Long-running film role
+13	LAYSINTO	Rails at
+14	GIL	2003 Indy winner ___ de Ferran
+15	OWS	Pained cries
+16	EOLIAN	Windblown
+18	AAH	Response to a doctor's request, perhaps
+19	PPG	Hoops stat.
+21	MNO	Sequence associated with 6
+22	MYO	Muscle: Prefix
+23	ISAY	"___, old chap"
+25	ASP	Sacred object in ancient Egypt
+26	FREELUNCH	Mythical thing in the business world
+29	GPO	Mailing ctr.
+30	CLAM	Symbol of happiness
+31	ERS	Often-hectic hosp. areas
+34	NEU	Opposite of alt, in German
+35	ONI	Clandestine maritime org.
+36	REA	Stephen of "V for Vendetta"
+37	APEMAN	Missing link, possibly
+40	OED	Ref. work with online subscriptions
+41	ARP	Dada "daddy"
+42	REHEALED	Like chronic injuries
+46	SLE	Trickiness
+47	IRAGLASS	Host of NPR's "This American Life"
+48	SYR	Neighbor of Turk.
+49	ITHAD	"___ to Be You"
+27
+1	ROY	Half of a Vegas duo
+2	UPS	Sports officials
+3	ITI	"Lord, is ___?"
+4	NINEGALLONHAT	Too-small topper?
+5	SOTO	"And ___ bed": Pepys
+6	HOGANSHEROES	1960s sitcom set in a P.O.W. camp
+7	COINOP	Like some washers
+8	ESL	Night school course: Abbr.
+9	ALWAY	E'er
+10	DASHOFPEPPER	It may be called for in a recipe
+11	NOL	___-pros
+15	OAM	When "S.N.L." wraps in N.Y.C.
+17	IMAC	Non-PC computer
+19	PIE	Kind of filling
+20	PSEC	Tiny fraction of a min.
+24	YUAN	Money in China
+27	ROUE	No celibate, he
+28	NMI	Name placeholder in govt. records
+29	GNARLY	Excellent, in slang
+32	REEDS	Marsh plants
+33	SAD	Singing the blues
+38	MRI	Inside look, for short?
+39	AERI	Ethereal: Prefix
+41	ASS	Clod
+43	EGH	French vineyard
+44	ALA	___ fin (at last): Fr.
+45	LAD	Sonny boy

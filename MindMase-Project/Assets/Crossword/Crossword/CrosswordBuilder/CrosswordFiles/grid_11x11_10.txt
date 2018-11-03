@@ -1,0 +1,169 @@
+grid_11x11_10
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	I	0	2	3	1	ILA	0	2	7	1	IRELESS
+0	1	2	L	0	2	3	0		0	3	3	1	LUI
+0	1	3	A	0	2	3	0		0	4	4	1	ASOB
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	4	F	0	8	3	1	FMS	0	8	3	1	FCC
+0	1	5	M	0	8	3	0		0	9	3	1	MUG
+0	1	6	S	0	8	3	0		0	10	3	1	SAS
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	7	C	1	1	5	1	CRUSE	1	1	6	1	CAPNUT
+0	0	0	R	1	1	5	0		0	2	7	0	
+0	0	0	U	1	1	5	0		0	3	3	0	
+0	0	0	S	1	1	5	0		0	4	4	0	
+0	1	8	E	1	1	5	0		1	5	9	1	EURIPIDES
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	E	1	7	4	1	ECUA	1	7	4	1	EERO
+0	0	0	C	1	7	4	0		0	8	3	0	
+0	0	0	U	1	7	4	0		0	9	3	0	
+0	0	0	A	1	7	4	0		0	10	3	0	
+1	0	0	#	2	1	5	0		3	0	3	0	
+0	1	10	A	2	1	5	1	AEIOU	1	1	6	0	
+0	0	0	E	2	1	5	0		0	2	7	0	
+0	0	0	I	2	1	5	0		0	3	3	0	
+0	0	0	O	2	1	5	0		0	4	4	0	
+0	0	0	U	2	1	5	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	11	E	2	7	4	1	ECGS	1	7	4	0	
+0	0	0	C	2	7	4	0		0	8	3	0	
+0	0	0	G	2	7	4	0		0	9	3	0	
+0	0	0	S	2	7	4	0		0	10	3	0	
+0	1	12	C	3	0	3	1	CPL	3	0	3	1	CIG
+0	0	0	P	3	0	3	0		1	1	6	0	
+0	0	0	L	3	0	3	0		0	2	7	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	13	B	3	4	4	1	BRRR	0	4	4	0	
+0	0	0	R	3	4	4	0		1	5	9	0	
+0	1	14	R	3	4	4	0		3	6	3	1	RNA
+0	0	0	R	3	4	4	0		1	7	4	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	I	4	0	3	1	INE	3	0	3	0	
+0	0	0	N	4	0	3	0		1	1	6	0	
+0	0	0	E	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	16	I	4	5	5	1	INOUT	1	5	9	0	
+0	0	0	N	4	5	5	0		3	6	3	0	
+0	0	0	O	4	5	5	0		1	7	4	0	
+0	1	17	U	4	5	5	0		4	8	7	1	USELESS
+0	1	18	T	4	5	5	0		4	9	6	1	TUNDRA
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	19	G	5	0	3	1	GUS	3	0	3	0	
+0	0	0	U	5	0	3	0		1	1	6	0	
+0	0	0	S	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	20	G	5	4	3	1	GPA	5	4	3	1	GDS
+0	0	0	P	5	4	3	0		1	5	9	0	
+0	0	0	A	5	4	3	0		3	6	3	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	S	5	8	3	1	SUV	4	8	7	0	
+0	0	0	U	5	8	3	0		4	9	6	0	
+0	1	22	V	5	8	3	0		5	10	3	1	VER
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	23	T	6	1	5	1	TSADI	1	1	6	0	
+0	0	0	S	6	1	5	0		0	2	7	0	
+0	1	24	A	6	1	5	0		6	3	4	1	AULD
+0	0	0	D	6	1	5	0		5	4	3	0	
+0	0	0	I	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	0	0		7	6	4	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	25	E	6	8	3	1	ENE	4	8	7	0	
+0	0	0	N	6	8	3	0		4	9	6	0	
+0	0	0	E	6	8	3	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	4	0		8	2	3	0	
+0	1	26	U	7	3	4	1	USDA	6	3	4	0	
+0	0	0	S	7	3	4	0		5	4	3	0	
+0	0	0	D	7	3	4	0		1	5	9	0	
+0	1	27	A	7	3	4	0		7	6	4	1	AGAS
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	28	L	7	8	3	1	LDR	4	8	7	0	
+0	0	0	D	7	8	3	0		4	9	6	0	
+0	0	0	R	7	8	3	0		5	10	3	0	
+0	1	29	T	8	0	4	1	TELL	8	0	3	1	TAR
+0	1	30	E	8	0	4	0		8	1	3	1	EGG
+0	1	31	L	8	0	4	0		8	2	3	1	LET
+0	0	0	L	8	0	4	0		6	3	4	0	
+1	0	0	#	8	5	5	0		9	4	0	0	
+0	1	32	E	8	5	5	1	EGGER	1	5	9	0	
+0	0	0	G	8	5	5	0		7	6	4	0	
+0	1	33	G	8	5	5	0		8	7	3	1	GMS
+0	0	0	E	8	5	5	0		4	8	7	0	
+0	0	0	R	8	5	5	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	34	A	9	0	4	1	AGED	8	0	3	0	
+0	0	0	G	9	0	4	0		8	1	3	0	
+0	0	0	E	9	0	4	0		8	2	3	0	
+0	0	0	D	9	0	4	0		6	3	4	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	35	S	9	5	5	1	SAMSA	1	5	9	0	
+0	0	0	A	9	5	5	0		7	6	4	0	
+0	0	0	M	9	5	5	0		8	7	3	0	
+0	0	0	S	9	5	5	0		4	8	7	0	
+0	0	0	A	9	5	5	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	36	R	10	0	3	1	RGT	8	0	3	0	
+0	0	0	G	10	0	3	0		8	1	3	0	
+0	0	0	T	10	0	3	0		8	2	3	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	37	S	10	6	3	1	SSS	7	6	4	0	
+0	0	0	S	10	6	3	0		8	7	3	0	
+0	0	0	S	10	6	3	0		4	8	7	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	ILA	Dockers' grp.
+4	FMS	Some radios, for short
+7	CRUSE	Pouring pot
+9	ECUA	Quito's country: Abbr.
+10	AEIOU	Facetious group?
+11	ECGS	Some hosp. records
+12	CPL	One NCO
+13	BRRR	Comment from the chattering class?
+15	INE	Like Chopin's Scherzo (Op. 54)
+16	INOUT	Come ___ of the rain
+19	GUS	T. S. Eliot's "Theatre Cat"
+20	GPA	Transcript fig.
+21	SUV	Tahoe, e.g., for short
+23	TSADI	Letter before qoph
+25	ENE	Mali-to-Libya dir.
+26	USDA	Meat-stamp letters
+28	LDR	P.M. or pres.
+29	TELL	Narrate
+32	EGGER	Ham-and-___ (incompetent sort)
+34	AGED	Got on in years
+35	SAMSA	Kafka hero Gregor
+36	RGT	Mil. unit
+37	SSS	Snake's warning
+21
+1	IRELESS	Not at all resentful
+2	LUI	Orl
+3	ASOB	Tell ___ story
+4	FCC	Radio monitoring org.
+5	MUG	Serving of root beer
+6	SAS	An original Star Alliance airline
+7	CAPNUT	Screw backer
+8	EURIPIDES	"The Trojan Women" playwright
+9	EERO	First name in design
+12	CIG	Weed
+14	RNA	Messenger ___
+17	USELESS	Of no value
+18	TUNDRA	Treeless area
+20	GDS	Dept. store stock
+22	VER	Part of a chap.
+24	AULD	"___ Robin Gray" (classic Scottish ballad)
+27	AGAS	Eastern V.I.P.'s
+29	TAR	Unhealthy part of cigarettes
+30	EGG	Poultry product
+31	LET	Tennis do-over
+33	GMS	Baseball C.E.O.'s

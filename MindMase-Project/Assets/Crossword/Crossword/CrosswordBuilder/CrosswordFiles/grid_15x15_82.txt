@@ -1,0 +1,303 @@
+grid_15x15_82
+15
+0	1	1	R	0	0	3	1	RIC	0	0	3	1	RAO
+0	1	2	I	0	0	3	0		0	1	15	1	ITSBETTERTOGIVE
+0	1	3	C	0	0	3	0		0	2	15	1	CAUTIONARYTALES
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	B	0	5	3	1	BOR	0	5	5	1	BEREA
+0	1	5	O	0	5	3	0		0	6	3	1	OMG
+0	1	6	R	0	5	3	0		0	7	3	1	RIA
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	3	0		1	10	6	0	
+0	1	7	S	0	11	3	1	SHO	0	11	3	1	SIS
+0	1	8	H	0	11	3	0		0	12	15	1	HEIRTOTHETHRALL
+0	1	9	O	0	11	3	0		0	13	15	1	ONCEINALIFETIME
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	A	1	0	3	1	ATA	0	0	3	0	
+0	0	0	T	1	0	3	0		0	1	15	0	
+0	0	0	A	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	11	S	1	4	5	1	SEMIS	1	4	3	1	SOP
+0	0	0	E	1	4	5	0		0	5	5	0	
+0	0	0	M	1	4	5	0		0	6	3	0	
+0	0	0	I	1	4	5	0		0	7	3	0	
+0	1	12	S	1	4	5	0		1	8	5	1	SNAIL
+1	0	0	#	1	10	4	0		2	9	3	0	
+0	1	13	B	1	10	4	1	BIEN	1	10	6	1	BURGLE
+0	0	0	I	1	10	4	0		0	11	3	0	
+0	0	0	E	1	10	4	0		0	12	15	0	
+0	0	0	N	1	10	4	0		0	13	15	0	
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	14	O	2	0	3	1	OSU	0	0	3	0	
+0	0	0	S	2	0	3	0		0	1	15	0	
+0	0	0	U	2	0	3	0		0	2	15	0	
+1	0	0	#	2	4	10	0		3	3	7	0	
+0	1	15	O	2	4	10	1	ORGANMUSIC	1	4	3	0	
+0	0	0	R	2	4	10	0		0	5	5	0	
+0	0	0	G	2	4	10	0		0	6	3	0	
+0	0	0	A	2	4	10	0		0	7	3	0	
+0	0	0	N	2	4	10	0		1	8	5	0	
+0	1	16	M	2	4	10	0		2	9	3	1	MIN
+0	0	0	U	2	4	10	0		1	10	6	0	
+0	0	0	S	2	4	10	0		0	11	3	0	
+0	0	0	I	2	4	10	0		0	12	15	0	
+0	0	0	C	2	4	10	0		0	13	15	0	
+1	0	0	#	2	15	0	0		3	14	4	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	17	B	3	1	5	1	BTAPE	0	1	15	0	
+0	0	0	T	3	1	5	0		0	2	15	0	
+0	1	18	A	3	1	5	0		3	3	7	1	ANAGRAM
+0	0	0	P	3	1	5	0		1	4	3	0	
+0	0	0	E	3	1	5	0		0	5	5	0	
+1	0	0	#	3	7	0	0		4	6	4	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	19	A	3	8	3	1	AIR	1	8	5	0	
+0	0	0	I	3	8	3	0		2	9	3	0	
+0	0	0	R	3	8	3	0		1	10	6	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	20	R	3	12	3	1	REG	0	12	15	0	
+0	0	0	E	3	12	3	0		0	13	15	0	
+0	1	21	G	3	12	3	0		3	14	4	1	GUST
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	22	E	4	1	3	1	EIN	0	1	15	0	
+0	0	0	I	4	1	3	0		0	2	15	0	
+0	0	0	N	4	1	3	0		3	3	7	0	
+1	0	0	#	4	5	6	0		5	4	0	0	
+0	1	23	A	4	5	6	1	ASKING	0	5	5	0	
+0	1	24	S	4	5	6	0		4	6	4	1	STLE
+0	1	25	K	4	5	6	0		4	7	7	1	KAYLENZ
+0	0	0	I	4	5	6	0		1	8	5	0	
+0	0	0	N	4	5	6	0		2	9	3	0	
+0	0	0	G	4	5	6	0		1	10	6	0	
+1	0	0	#	4	12	3	0		5	11	7	0	
+0	1	26	T	4	12	3	1	TIU	0	12	15	0	
+0	0	0	I	4	12	3	0		0	13	15	0	
+0	0	0	U	4	12	3	0		3	14	4	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	27	T	5	1	3	1	TOA	0	1	15	0	
+0	0	0	O	5	1	3	0		0	2	15	0	
+0	0	0	A	5	1	3	0		3	3	7	0	
+1	0	0	#	5	5	0	0		6	4	0	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	28	T	5	6	3	1	TAL	4	6	4	0	
+0	0	0	A	5	6	3	0		4	7	7	0	
+0	0	0	L	5	6	3	0		1	8	5	0	
+1	0	0	#	5	10	5	0		6	9	3	0	
+0	1	29	L	5	10	5	1	LOONS	1	10	6	0	
+0	1	30	O	5	10	5	0		5	11	7	1	ONADARE
+0	0	0	O	5	10	5	0		0	12	15	0	
+0	0	0	N	5	10	5	0		0	13	15	0	
+0	0	0	S	5	10	5	0		3	14	4	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	31	T	6	1	3	1	TNG	0	1	15	0	
+0	0	0	N	6	1	3	0		0	2	15	0	
+0	0	0	G	6	1	3	0		3	3	7	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	32	A	6	5	3	1	ALY	6	5	3	1	ASS
+0	0	0	L	6	5	3	0		4	6	4	0	
+0	0	0	Y	6	5	3	0		4	7	7	0	
+1	0	0	#	6	9	6	0		7	8	4	0	
+0	1	33	W	6	9	6	1	WENTAT	6	9	3	1	WHY
+0	0	0	E	6	9	6	0		1	10	6	0	
+0	0	0	N	6	9	6	0		5	11	7	0	
+0	0	0	T	6	9	6	0		0	12	15	0	
+0	0	0	A	6	9	6	0		0	13	15	0	
+0	0	0	T	6	9	6	0		3	14	4	0	
+1	0	0	#	7	1	3	0		8	0	4	0	
+0	1	34	E	7	1	3	1	EAR	0	1	15	0	
+0	0	0	A	7	1	3	0		0	2	15	0	
+0	0	0	R	7	1	3	0		3	3	7	0	
+1	0	0	#	7	5	5	0		8	4	6	0	
+0	1	35	S	7	5	5	1	SELAH	6	5	3	0	
+0	0	0	E	7	5	5	0		4	6	4	0	
+0	0	0	L	7	5	5	0		4	7	7	0	
+0	1	36	A	7	5	5	0		7	8	4	1	ALAE
+0	0	0	H	7	5	5	0		6	9	3	0	
+1	0	0	#	7	11	3	0		8	10	0	0	
+0	1	37	A	7	11	3	1	AHL	5	11	7	0	
+0	0	0	H	7	11	3	0		0	12	15	0	
+0	0	0	L	7	11	3	0		0	13	15	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	38	A	8	0	6	1	ARRAYS	8	0	4	1	AENA
+0	0	0	R	8	0	6	0		0	1	15	0	
+0	0	0	R	8	0	6	0		0	2	15	0	
+0	0	0	A	8	0	6	0		3	3	7	0	
+0	1	39	Y	8	0	6	0		8	4	6	1	YACHTS
+0	0	0	S	8	0	6	0		6	5	3	0	
+1	0	0	#	8	7	3	0		9	6	5	0	
+0	1	40	E	8	7	3	1	ELY	4	7	7	0	
+0	0	0	L	8	7	3	0		7	8	4	0	
+0	0	0	Y	8	7	3	0		6	9	3	0	
+1	0	0	#	8	11	3	0		9	10	0	0	
+0	1	41	D	8	11	3	1	DEI	5	11	7	0	
+0	0	0	E	8	11	3	0		0	12	15	0	
+0	0	0	I	8	11	3	0		0	13	15	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	42	E	9	0	5	1	ETYMA	8	0	4	0	
+0	0	0	T	9	0	5	0		0	1	15	0	
+0	0	0	Y	9	0	5	0		0	2	15	0	
+0	0	0	M	9	0	5	0		3	3	7	0	
+0	0	0	A	9	0	5	0		8	4	6	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	43	R	9	6	3	1	RNA	9	6	5	1	RANKS
+0	0	0	N	9	6	3	0		4	7	7	0	
+0	0	0	A	9	6	3	0		7	8	4	0	
+1	0	0	#	9	10	0	0		10	9	5	0	
+1	0	0	#	9	11	3	0		10	10	0	0	
+0	1	44	A	9	11	3	1	ATF	5	11	7	0	
+0	0	0	T	9	11	3	0		0	12	15	0	
+0	0	0	F	9	11	3	0		0	13	15	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	45	N	10	0	3	1	NOT	8	0	4	0	
+0	0	0	O	10	0	3	0		0	1	15	0	
+0	0	0	T	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	6	0		11	3	0	0	
+0	1	46	C	10	4	6	1	CRAZES	8	4	6	0	
+0	1	47	R	10	4	6	0		10	5	3	1	REA
+0	0	0	A	10	4	6	0		9	6	5	0	
+0	0	0	Z	10	4	6	0		4	7	7	0	
+0	0	0	E	10	4	6	0		7	8	4	0	
+0	1	48	S	10	4	6	0		10	9	5	1	SENOR
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	49	R	10	11	3	1	RHE	5	11	7	0	
+0	0	0	H	10	11	3	0		0	12	15	0	
+0	0	0	E	10	11	3	0		0	13	15	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	50	A	11	0	3	1	AGA	8	0	4	0	
+0	0	0	G	11	0	3	0		0	1	15	0	
+0	0	0	A	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	51	H	11	4	3	1	HEN	8	4	6	0	
+0	0	0	E	11	4	3	0		10	5	3	0	
+0	0	0	N	11	4	3	0		9	6	5	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	5	0		12	8	3	0	
+0	1	52	E	11	9	5	1	EXERT	10	9	5	0	
+0	1	53	X	11	9	5	0		11	10	3	1	XER
+0	0	0	E	11	9	5	0		5	11	7	0	
+0	0	0	R	11	9	5	0		0	12	15	0	
+0	0	0	T	11	9	5	0		0	13	15	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+1	0	0	#	12	1	10	0		13	0	0	0	
+0	1	54	I	12	1	10	1	ILLTAKEONE	0	1	15	0	
+0	0	0	L	12	1	10	0		0	2	15	0	
+0	1	55	L	12	1	10	0		12	3	3	1	LGS
+0	0	0	T	12	1	10	0		8	4	6	0	
+0	0	0	A	12	1	10	0		10	5	3	0	
+0	0	0	K	12	1	10	0		9	6	5	0	
+0	1	56	E	12	1	10	0		12	7	3	1	EPH
+0	1	57	O	12	1	10	0		12	8	3	1	OOO
+0	0	0	N	12	1	10	0		10	9	5	0	
+0	0	0	E	12	1	10	0		11	10	3	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	58	A	12	12	3	1	AIK	0	12	15	0	
+0	0	0	I	12	12	3	0		0	13	15	0	
+0	1	59	K	12	12	3	0		12	14	3	1	KNT
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	60	V	13	1	4	1	VEGS	0	1	15	0	
+0	0	0	E	13	1	4	0		0	2	15	0	
+0	0	0	G	13	1	4	0		12	3	3	0	
+0	0	0	S	13	1	4	0		8	4	6	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	61	S	13	6	5	1	SPOOR	9	6	5	0	
+0	0	0	P	13	6	5	0		12	7	3	0	
+0	0	0	O	13	6	5	0		12	8	3	0	
+0	0	0	O	13	6	5	0		10	9	5	0	
+0	0	0	R	13	6	5	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	62	L	13	12	3	1	LMN	0	12	15	0	
+0	0	0	M	13	12	3	0		0	13	15	0	
+0	0	0	N	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	63	E	14	1	3	1	ESS	0	1	15	0	
+0	0	0	S	14	1	3	0		0	2	15	0	
+0	0	0	S	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	64	H	14	7	3	1	HOR	12	7	3	0	
+0	0	0	O	14	7	3	0		12	8	3	0	
+0	0	0	R	14	7	3	0		10	9	5	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	65	L	14	12	3	1	LET	0	12	15	0	
+0	0	0	E	14	12	3	0		0	13	15	0	
+0	0	0	T	14	12	3	0		12	14	3	0	
+43
+1	RIC	Documentarian Burns
+4	BOR	Part of N.Y.C.
+7	SHO	Word with chop or swap
+10	ATA	One-time connection
+11	SEMIS	Some playoffs
+13	BIEN	"Tr
+14	OSU	The Buckeyes, for short
+15	ORGANMUSIC	Hymn accompaniment
+17	BTAPE	Recording session need
+19	AIR	Dashboard choice
+20	REG	Avg.
+22	EIN	One, for Fritz
+23	ASKING	Kind of price
+26	TIU	Old Teutonic war god
+27	TOA	Start of many an ode's title
+28	TAL	Chess champion Mikhail
+29	LOONS	Fruitcakes
+31	TNG	"Star Trek" series, to fans
+32	ALY	Playboy Khan
+33	WENTAT	Attacked
+34	EAR	Where a phone is held
+35	SELAH	Frequent word in Psalms
+37	AHL	Sports org. with the Calder Cup
+38	ARRAYS	Lines up neatly
+40	ELY	Screen swinger Ron
+41	DEI	Capo ___ capi (Bologna boss)
+42	ETYMA	Linguistic roots
+43	RNA	Chromatin component
+44	ATF	Div. of Justice
+45	NOT	"___ so fast!"
+46	CRAZES	Addles
+49	RHE	Letters on a scoreboard
+50	AGA	Eastern V.I.P.
+51	HEN	Coop resident
+52	EXERT	Exercise
+54	ILLTAKEONE	Call in draw poker
+58	AIK	Rio producer
+60	VEGS	Side dishes: Abbr.
+61	SPOOR	Animal's track
+62	LMN	Letter run
+63	ESS	Slalom part
+64	HOR	Opposite of vert.
+65	LET	Affranchise
+31
+1	RAO	1990's Indian P.M.
+2	ITSBETTERTOGIVE	Start of a quip
+3	CAUTIONARYTALES	Lengthy warnings
+4	BEREA	Where Paul and Silas were sent, in Acts
+5	OMG	Letters of surprise, in text messages
+6	RIA	Narrow estuary
+7	SIS	One at the kids' table, perhaps
+8	HEIRTOTHETHRALL	Next in line for slavery?
+9	ONCEINALIFETIME	Like certain opportunities
+11	SOP	Propitiatory present
+12	SNAIL	Creeper
+13	BURGLE	Rob
+16	MIN	Max. opposite
+18	ANAGRAM	What each of today's four long answers is vis-
+21	GUST	Kite flier's wish
+24	STLE	Surprise
+25	KAYLENZ	"Falling From Grace" actress, 1992
+30	ONADARE	How many stupid things are done
+32	ASS	Pumpkinhead
+33	WHY	Reporter's question
+36	ALAE	Wings, in zoology
+38	AENA	Insurance giant
+39	YACHTS	You can see them at marinas
+43	RANKS	Officers' command
+47	REA	Stephen of "FearDotCom"
+48	SENOR	Title for Wences
+53	XER	Generation ___ (thirtysomething)
+55	LGS	Linemen near centers: Abbr.
+56	EPH	Book after Galatians: Abbr.
+57	OOO	XXX counterpart
+59	KNT	Chess piece: Abbr.

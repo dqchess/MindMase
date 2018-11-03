@@ -1,0 +1,167 @@
+grid_11x11_122
+11
+0	1	1	N	0	0	3	1	NNE	0	0	3	1	NEA
+0	1	2	N	0	0	3	0		0	1	4	1	NFLD
+0	1	3	E	0	0	3	0		0	2	11	1	EGOTRIPPERS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	6	0	
+0	1	4	H	0	5	4	1	HSNI	0	5	3	1	HUS
+0	1	5	S	0	5	4	0		0	6	3	1	SET
+0	1	6	N	0	5	4	0		0	7	3	1	NSA
+0	1	7	I	0	5	4	0		0	8	11	1	ILTROVATORE
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	8	E	1	0	3	1	EFG	0	0	3	0	
+0	0	0	F	1	0	3	0		0	1	4	0	
+0	0	0	G	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	6	0		2	3	3	0	
+0	1	9	M	1	4	6	1	MUESLI	1	4	6	1	MANBAG
+0	0	0	U	1	4	6	0		0	5	3	0	
+0	0	0	E	1	4	6	0		0	6	3	0	
+0	0	0	S	1	4	6	0		0	7	3	0	
+0	0	0	L	1	4	6	0		0	8	11	0	
+0	1	10	I	1	4	6	0		1	9	5	1	IEACH
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	A	2	0	10	1	ALOHASTATE	0	0	3	0	
+0	0	0	L	2	0	10	0		0	1	4	0	
+0	0	0	O	2	0	10	0		0	2	11	0	
+0	1	12	H	2	0	10	0		2	3	3	1	HEE
+0	0	0	A	2	0	10	0		1	4	6	0	
+0	0	0	S	2	0	10	0		0	5	3	0	
+0	0	0	T	2	0	10	0		0	6	3	0	
+0	0	0	A	2	0	10	0		0	7	3	0	
+0	0	0	T	2	0	10	0		0	8	11	0	
+0	0	0	E	2	0	10	0		1	9	5	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	D	3	1	4	1	DTEN	0	1	4	0	
+0	0	0	T	3	1	4	0		0	2	11	0	
+0	0	0	E	3	1	4	0		2	3	3	0	
+0	0	0	N	3	1	4	0		1	4	6	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	0	0		4	6	6	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	14	R	3	8	3	1	RAN	0	8	11	0	
+0	0	0	A	3	8	3	0		1	9	5	0	
+0	1	15	N	3	8	3	0		3	10	3	1	NSF
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	5	0	
+0	1	16	R	4	2	5	1	REBAG	0	2	11	0	
+0	0	0	E	4	2	5	0		2	3	3	0	
+0	0	0	B	4	2	5	0		1	4	6	0	
+0	1	17	A	4	2	5	0		4	5	3	1	APU
+0	1	18	G	4	2	5	0		4	6	6	1	GRAMPS
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	O	4	8	3	1	OCS	0	8	11	0	
+0	0	0	C	4	8	3	0		1	9	5	0	
+0	0	0	S	4	8	3	0		3	10	3	0	
+0	1	20	C	5	0	3	1	CRI	5	0	3	1	CTR
+0	1	21	R	5	0	3	0		5	1	5	1	REUPS
+0	0	0	I	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	22	A	5	4	3	1	APR	1	4	6	0	
+0	0	0	P	5	4	3	0		4	5	3	0	
+0	0	0	R	5	4	3	0		4	6	6	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	23	V	5	8	3	1	VHF	0	8	11	0	
+0	0	0	H	5	8	3	0		1	9	5	0	
+0	0	0	F	5	8	3	0		3	10	3	0	
+0	1	24	T	6	0	3	1	TEP	5	0	3	0	
+0	0	0	E	6	0	3	0		5	1	5	0	
+0	0	0	P	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	25	G	6	4	5	1	GUAVA	1	4	6	0	
+0	0	0	U	6	4	5	0		4	5	3	0	
+0	0	0	A	6	4	5	0		4	6	6	0	
+0	1	26	V	6	4	5	0		6	7	3	1	VOS
+0	0	0	A	6	4	5	0		0	8	11	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	R	7	0	3	1	RUP	5	0	3	0	
+0	0	0	U	7	0	3	0		5	1	5	0	
+0	0	0	P	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	28	M	7	6	4	1	MOTS	4	6	6	0	
+0	0	0	O	7	6	4	0		6	7	3	0	
+0	0	0	T	7	6	4	0		0	8	11	0	
+0	1	29	S	7	6	4	0		7	9	4	1	SDAK
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	30	P	8	1	10	1	PERHAPSODY	5	1	5	0	
+0	0	0	E	8	1	10	0		0	2	11	0	
+0	1	31	R	8	1	10	0		8	3	3	1	RIS
+0	1	32	H	8	1	10	0		8	4	3	1	HST
+0	1	33	A	8	1	10	0		8	5	3	1	AES
+0	0	0	P	8	1	10	0		4	6	6	0	
+0	0	0	S	8	1	10	0		6	7	3	0	
+0	0	0	O	8	1	10	0		0	8	11	0	
+0	0	0	D	8	1	10	0		7	9	4	0	
+0	1	34	Y	8	1	10	0		8	10	3	1	YEE
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	35	S	9	1	6	1	SRISES	5	1	5	0	
+0	0	0	R	9	1	6	0		0	2	11	0	
+0	0	0	I	9	1	6	0		8	3	3	0	
+0	0	0	S	9	1	6	0		8	4	3	0	
+0	0	0	E	9	1	6	0		8	5	3	0	
+0	0	0	S	9	1	6	0		4	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	36	R	9	8	3	1	RAE	0	8	11	0	
+0	0	0	A	9	8	3	0		7	9	4	0	
+0	0	0	E	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	0	0	
+0	1	37	S	10	2	4	1	SSTS	0	2	11	0	
+0	0	0	S	10	2	4	0		8	3	3	0	
+0	0	0	T	10	2	4	0		8	4	3	0	
+0	0	0	S	10	2	4	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	38	E	10	8	3	1	EKE	0	8	11	0	
+0	0	0	K	10	8	3	0		7	9	4	0	
+0	0	0	E	10	8	3	0		8	10	3	0	
+21
+1	NNE	Frankfurt-to-Copenhagen dir.
+4	HSNI	Egypt's Mubarak
+8	EFG	Alphabetic run
+9	MUESLI	Nutritious breakfast cereal
+11	ALOHASTATE	Hawaii's nickname
+13	DTEN	Call in the game Battleship
+14	RAN	Was on the ticket
+16	REBAG	Sack again, as groceries
+19	OCS	Where lts. are trained
+20	CRI	Shout about Paris?
+22	APR	Financial fig.
+23	VHF	Like any channel between 30 and 300 MHz
+24	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+25	GUAVA	Jelly flavor
+27	RUP	Was revolting
+28	MOTS	___ justes
+30	PERHAPSODY	"Maybe" music?
+35	SRISES	Morning glories
+36	RAE	Movie heroine Norma ___ Webster
+37	SSTS	Jet set
+38	EKE	Manage to get, with "out"
+21
+1	NEA	PBS benefactor
+2	NFLD	Can. province
+3	EGOTRIPPERS	Narcissists
+4	HUS	Czech religious reformer Jan
+5	SET	Collector's goal
+6	NSA	Ultrasecret org.
+7	ILTROVATORE	Musical work with a duel
+9	MANBAG	Metrosexual's tote
+10	IEACH	Call into question
+12	HEE	"___ Haw"
+15	NSF	Univ. grant source
+17	APU	Homer Simpson's Indian friend
+18	GRAMPS	Family member, affectionately
+20	CTR	D.C.'s Kennedy ___
+21	REUPS	Opts not to be discharged
+26	VOS	Writer Marilyn ___ Savant
+29	SDAK	Mont. neighbor
+31	RIS	Sue Grafton's "___ for Ricochet"
+32	HST	V-J Day pres.
+33	AES	1950's political initials
+34	YEE	"___-haw!"

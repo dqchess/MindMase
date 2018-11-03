@@ -1,0 +1,169 @@
+grid_11x11_16
+11
+1	0	0	#	0	1	5	0		1	0	0	0	
+0	1	1	N	0	1	5	1	NUZLE	0	1	7	1	NAILSET
+0	1	2	U	0	1	5	0		0	2	11	1	UNEMOTIONAL
+0	1	3	Z	0	1	5	0		0	3	4	1	ZERO
+0	1	4	L	0	1	5	0		0	4	3	1	LER
+0	1	5	E	0	1	5	0		0	5	3	1	ELA
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	6	M	0	8	3	1	MGT	0	8	11	1	MEDSTUDENTS
+0	1	7	G	0	8	3	0		0	9	3	1	GYR
+0	1	8	T	0	8	3	0		0	10	3	1	TEE
+1	0	0	#	1	1	5	0		2	0	5	0	
+0	1	9	A	1	1	5	1	ANEEL	0	1	7	0	
+0	0	0	N	1	1	5	0		0	2	11	0	
+0	0	0	E	1	1	5	0		0	3	4	0	
+0	0	0	E	1	1	5	0		0	4	3	0	
+0	0	0	L	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	5	0	
+0	1	10	B	1	7	4	1	BEYE	1	7	3	1	BAP
+0	0	0	E	1	7	4	0		0	8	11	0	
+0	0	0	Y	1	7	4	0		0	9	3	0	
+0	0	0	E	1	7	4	0		0	10	3	0	
+0	1	11	S	2	0	11	1	SIERRAMADRE	2	0	5	1	SEIJI
+0	0	0	I	2	0	11	0		0	1	7	0	
+0	0	0	E	2	0	11	0		0	2	11	0	
+0	0	0	R	2	0	11	0		0	3	4	0	
+0	0	0	R	2	0	11	0		0	4	3	0	
+0	0	0	A	2	0	11	0		0	5	3	0	
+0	1	12	M	2	0	11	0		2	6	5	1	MALTA
+0	0	0	A	2	0	11	0		1	7	3	0	
+0	0	0	D	2	0	11	0		0	8	11	0	
+0	0	0	R	2	0	11	0		0	9	3	0	
+0	0	0	E	2	0	11	0		0	10	3	0	
+0	1	13	E	3	0	4	1	ELMO	2	0	5	0	
+0	0	0	L	3	0	4	0		0	1	7	0	
+0	0	0	M	3	0	4	0		0	2	11	0	
+0	0	0	O	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	5	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	A	3	6	3	1	APS	2	6	5	0	
+0	0	0	P	3	6	3	0		1	7	3	0	
+0	0	0	S	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	5	0	
+0	1	15	I	4	0	3	1	ISO	2	0	5	0	
+0	0	0	S	4	0	3	0		0	1	7	0	
+0	0	0	O	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	16	R	4	4	3	1	RAL	4	4	5	1	REHAB
+0	1	17	A	4	4	3	0		4	5	3	1	APU
+0	0	0	L	4	4	3	0		2	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	18	T	4	8	3	1	TVA	0	8	11	0	
+0	1	19	V	4	8	3	0		4	9	7	1	VARSITY
+0	1	20	A	4	8	3	0		4	10	5	1	ALOST
+0	1	21	J	5	0	3	1	JET	2	0	5	0	
+0	0	0	E	5	0	3	0		0	1	7	0	
+0	0	0	T	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	22	E	5	4	3	1	EPT	4	4	5	0	
+0	0	0	P	5	4	3	0		4	5	3	0	
+0	0	0	T	5	4	3	0		2	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	23	U	5	8	3	1	UAL	0	8	11	0	
+0	0	0	A	5	8	3	0		4	9	7	0	
+0	0	0	L	5	8	3	0		4	10	5	0	
+0	1	24	I	6	0	3	1	ITI	2	0	5	0	
+0	0	0	T	6	0	3	0		0	1	7	0	
+0	0	0	I	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	3	0	
+0	1	25	H	6	4	3	1	HUA	4	4	5	0	
+0	0	0	U	6	4	3	0		4	5	3	0	
+0	0	0	A	6	4	3	0		2	6	5	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	26	D	6	8	3	1	DRO	0	8	11	0	
+0	0	0	R	6	8	3	0		4	9	7	0	
+0	0	0	O	6	8	3	0		4	10	5	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	27	O	7	2	3	1	OSA	0	2	11	0	
+0	1	28	S	7	2	3	0		7	3	3	1	STY
+0	0	0	A	7	2	3	0		4	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	29	W	7	7	4	1	WESS	7	7	4	1	WOOD
+0	0	0	E	7	7	4	0		0	8	11	0	
+0	0	0	S	7	7	4	0		4	9	7	0	
+0	0	0	S	7	7	4	0		4	10	5	0	
+0	1	30	D	8	0	11	1	DONTBETONIT	8	0	3	1	DBA
+0	1	31	O	8	0	11	0		8	1	3	1	OBI
+0	0	0	N	8	0	11	0		0	2	11	0	
+0	0	0	T	8	0	11	0		7	3	3	0	
+0	0	0	B	8	0	11	0		4	4	5	0	
+0	1	32	E	8	0	11	0		8	5	3	1	ESS
+0	1	33	T	8	0	11	0		8	6	3	1	TCU
+0	0	0	O	8	0	11	0		7	7	4	0	
+0	0	0	N	8	0	11	0		0	8	11	0	
+0	0	0	I	8	0	11	0		4	9	7	0	
+0	0	0	T	8	0	11	0		4	10	5	0	
+0	1	34	B	9	0	4	1	BBAY	8	0	3	0	
+0	0	0	B	9	0	4	0		8	1	3	0	
+0	0	0	A	9	0	4	0		0	2	11	0	
+0	0	0	Y	9	0	4	0		7	3	3	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	35	S	9	5	5	1	SCOTT	8	5	3	0	
+0	0	0	C	9	5	5	0		8	6	3	0	
+0	0	0	O	9	5	5	0		7	7	4	0	
+0	0	0	T	9	5	5	0		0	8	11	0	
+0	0	0	T	9	5	5	0		4	9	7	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	36	A	10	0	3	1	AIL	8	0	3	0	
+0	0	0	I	10	0	3	0		8	1	3	0	
+0	0	0	L	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	37	S	10	5	5	1	SUDSY	8	5	3	0	
+0	0	0	U	10	5	5	0		8	6	3	0	
+0	0	0	D	10	5	5	0		7	7	4	0	
+0	0	0	S	10	5	5	0		0	8	11	0	
+0	0	0	Y	10	5	5	0		4	9	7	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	NUZLE	Loving motion
+6	MGT	Leadership of a co.
+9	ANEEL	Slippery as ___
+10	BEYE	Mark of dishonor
+11	SIERRAMADRE	Western mountain range
+13	ELMO	A Sesame Streeter
+14	APS	Tests for college credit, briefly
+15	ISO	Prefix with tonic
+16	RAL	"Too-ra-loo-ra-loo-___"
+18	TVA	Knoxville-based org.
+21	JET	Spout
+22	EPT	Capable, jocularly
+23	UAL	American rival: Abbr.
+24	ITI	"That's ___ quit!"
+25	HUA	1970's Chinese premier
+26	DRO	Be an utter bore?
+27	OSA	Actress Massen of "Tokyo Rose"
+29	WESS	Jazz saxophonist/flutist Frank
+30	DONTBETONIT	*Sure loser
+34	BBAY	Tony section of Boston
+35	SCOTT	Great one?
+36	AIL	Be sick
+37	SUDSY	Like dishwater
+21
+1	NAILSET	Home builder's tool
+2	UNEMOTIONAL	Not laughing or crying
+3	ZERO	Absolute nobody
+4	LER	Celtic Neptune
+5	ELA	Guido's high note
+6	MEDSTUDENTS	Docs-to-be
+7	GYR	Spiral: Prefix
+8	TEE	Driver's helper
+10	BAP	Clinton's denom.
+11	SEIJI	First name in conducting
+12	MALTA	Country just south of Sicily
+16	REHAB	Place to kick a habit
+17	APU	"The Simpsons" clerk
+19	VARSITY	Opposite of scrubs
+20	ALOST	"It's ___ cause"
+28	STY	Pigpen
+29	WOOD	Fifth-anniversary gift
+30	DBA	Corp. alias abbr.
+31	OBI	Band from Japan
+32	ESS	Start to sob?
+33	TCU	The Horned Frogs' sch.

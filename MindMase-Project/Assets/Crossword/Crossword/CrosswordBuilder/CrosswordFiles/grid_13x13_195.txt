@@ -1,0 +1,231 @@
+grid_13x13_195
+13
+0	1	1	S	0	0	3	1	SKI	0	0	3	1	SAE
+0	1	2	K	0	0	3	0		0	1	3	1	KNT
+0	1	3	I	0	0	3	0		0	2	13	1	IDONOTBOLIVIA
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	T	0	4	3	1	TAJ	0	4	5	1	TITLE
+0	1	5	A	0	4	3	0		0	5	3	1	ALO
+0	1	6	J	0	4	3	0		0	6	3	1	JON
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	4	0	
+0	1	7	S	0	9	3	1	STL	0	9	5	1	STOOL
+0	1	8	T	0	9	3	0		0	10	13	1	THEDAVINCIODE
+0	1	9	L	0	9	3	0		0	11	9	1	LEMONSODA
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	A	1	0	3	1	AND	0	0	3	0	
+0	0	0	N	1	0	3	0		0	1	3	0	
+0	0	0	D	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	3	0		2	3	0	0	
+0	1	11	I	1	4	3	1	ILO	0	4	5	0	
+0	0	0	L	1	4	3	0		0	5	3	0	
+0	0	0	O	1	4	3	0		0	6	3	0	
+1	0	0	#	1	8	4	0		2	7	7	0	
+0	1	12	I	1	8	4	1	ITHE	1	8	4	1	IPOS
+0	0	0	T	1	8	4	0		0	9	5	0	
+0	0	0	H	1	8	4	0		0	10	13	0	
+0	0	0	E	1	8	4	0		0	11	9	0	
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	E	2	0	3	1	ETO	0	0	3	0	
+0	0	0	T	2	0	3	0		0	1	3	0	
+0	0	0	O	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	8	0		3	3	4	0	
+0	1	14	T	2	4	8	1	TONEPOEM	0	4	5	0	
+0	0	0	O	2	4	8	0		0	5	3	0	
+0	0	0	N	2	4	8	0		0	6	3	0	
+0	1	15	E	2	4	8	0		2	7	7	1	EVILEST
+0	0	0	P	2	4	8	0		1	8	4	0	
+0	0	0	O	2	4	8	0		0	9	5	0	
+0	0	0	E	2	4	8	0		0	10	13	0	
+0	0	0	M	2	4	8	0		0	11	9	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	9	0	
+0	1	16	N	3	2	3	1	NAL	0	2	13	0	
+0	1	17	A	3	2	3	0		3	3	4	1	AMYL
+0	0	0	L	3	2	3	0		0	4	5	0	
+1	0	0	#	3	6	0	0		4	5	7	0	
+1	0	0	#	3	7	6	0		4	6	0	0	
+0	1	18	V	3	7	6	1	VOODOO	2	7	7	0	
+0	0	0	O	3	7	6	0		1	8	4	0	
+0	0	0	O	3	7	6	0		0	9	5	0	
+0	0	0	D	3	7	6	0		0	10	13	0	
+0	0	0	O	3	7	6	0		0	11	9	0	
+0	1	19	O	3	7	6	0		3	12	3	1	ODO
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	20	H	4	1	5	1	HOMEO	4	1	9	1	HIDEAWAYS
+0	0	0	O	4	1	5	0		0	2	13	0	
+0	0	0	M	4	1	5	0		3	3	4	0	
+0	0	0	E	4	1	5	0		0	4	5	0	
+0	1	21	O	4	1	5	0		4	5	7	1	OUTCAST
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	22	I	4	7	6	1	ISLAND	2	7	7	0	
+0	0	0	S	4	7	6	0		1	8	4	0	
+0	0	0	L	4	7	6	0		0	9	5	0	
+0	0	0	A	4	7	6	0		0	10	13	0	
+0	0	0	N	4	7	6	0		0	11	9	0	
+0	0	0	D	4	7	6	0		3	12	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	23	I	5	1	3	1	ITY	4	1	9	0	
+0	0	0	T	5	1	3	0		0	2	13	0	
+0	0	0	Y	5	1	3	0		3	3	4	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	24	U	5	5	3	1	UNL	4	5	7	0	
+0	1	25	N	5	5	3	0		5	6	3	1	NIE
+0	0	0	L	5	5	3	0		2	7	7	0	
+1	0	0	#	5	9	0	0		6	8	0	0	
+1	0	0	#	5	10	3	0		6	9	4	0	
+0	1	26	V	5	10	3	1	VSO	0	10	13	0	
+0	0	0	S	5	10	3	0		0	11	9	0	
+0	0	0	O	5	10	3	0		3	12	3	0	
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	27	D	6	1	3	1	DBL	4	1	9	0	
+0	0	0	B	6	1	3	0		0	2	13	0	
+0	0	0	L	6	1	3	0		3	3	4	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	28	T	6	5	3	1	TIE	4	5	7	0	
+0	0	0	I	6	5	3	0		5	6	3	0	
+0	0	0	E	6	5	3	0		2	7	7	0	
+1	0	0	#	6	9	3	0		7	8	0	0	
+0	1	29	D	6	9	3	1	DIO	6	9	4	1	DESI
+0	0	0	I	6	9	3	0		0	10	13	0	
+0	0	0	O	6	9	3	0		0	11	9	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	G	7	0	3	1	GEO	7	0	3	1	GBS
+0	0	0	E	7	0	3	0		4	1	9	0	
+0	0	0	O	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	0	0		8	3	5	0	
+1	0	0	#	7	5	3	0		8	4	4	0	
+0	1	31	C	7	5	3	1	CES	4	5	7	0	
+0	0	0	E	7	5	3	0		5	6	3	0	
+0	0	0	S	7	5	3	0		2	7	7	0	
+1	0	0	#	7	9	3	0		8	8	5	0	
+0	1	32	E	7	9	3	1	END	6	9	4	0	
+0	0	0	N	7	9	3	0		0	10	13	0	
+0	0	0	D	7	9	3	0		0	11	9	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	B	8	0	6	1	BALBOA	7	0	3	0	
+0	0	0	A	8	0	6	0		4	1	9	0	
+0	0	0	L	8	0	6	0		0	2	13	0	
+0	1	34	B	8	0	6	0		8	3	5	1	BLIPS
+0	1	35	O	8	0	6	0		8	4	4	1	OLAS
+0	0	0	A	8	0	6	0		4	5	7	0	
+1	0	0	#	8	7	5	0		9	6	0	0	
+0	1	36	T	8	7	5	1	TOSCA	2	7	7	0	
+0	1	37	O	8	7	5	0		8	8	5	1	OINKS
+0	0	0	S	8	7	5	0		6	9	4	0	
+0	0	0	C	8	7	5	0		0	10	13	0	
+0	0	0	A	8	7	5	0		0	11	9	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	38	S	9	0	6	1	SWILLS	7	0	3	0	
+0	0	0	W	9	0	6	0		4	1	9	0	
+0	0	0	I	9	0	6	0		0	2	13	0	
+0	0	0	L	9	0	6	0		8	3	5	0	
+0	0	0	L	9	0	6	0		8	4	4	0	
+0	0	0	S	9	0	6	0		4	5	7	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	39	I	9	8	3	1	III	8	8	5	0	
+0	0	0	I	9	8	3	0		6	9	4	0	
+0	0	0	I	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	8	0		11	0	0	0	
+0	1	40	A	10	1	8	1	AVIATION	4	1	9	0	
+0	0	0	V	10	1	8	0		0	2	13	0	
+0	0	0	I	10	1	8	0		8	3	5	0	
+0	0	0	A	10	1	8	0		8	4	4	0	
+0	0	0	T	10	1	8	0		4	5	7	0	
+0	1	41	I	10	1	8	0		10	6	3	1	IRS
+0	1	42	O	10	1	8	0		10	7	3	1	OID
+0	0	0	N	10	1	8	0		8	8	5	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	43	O	10	10	3	1	OTB	0	10	13	0	
+0	1	44	T	10	10	3	0		10	11	3	1	TDV
+0	1	45	B	10	10	3	0		10	12	3	1	BES
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	46	Y	11	1	4	1	YIPS	4	1	9	0	
+0	0	0	I	11	1	4	0		0	2	13	0	
+0	0	0	P	11	1	4	0		8	3	5	0	
+0	0	0	S	11	1	4	0		8	4	4	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	47	R	11	6	3	1	RIK	10	6	3	0	
+0	0	0	I	11	6	3	0		10	7	3	0	
+0	0	0	K	11	6	3	0		8	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	48	D	11	10	3	1	DDE	0	10	13	0	
+0	0	0	D	11	10	3	0		10	11	3	0	
+0	0	0	E	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	49	S	12	1	3	1	SAS	4	1	9	0	
+0	0	0	A	12	1	3	0		0	2	13	0	
+0	0	0	S	12	1	3	0		8	3	5	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	50	S	12	6	3	1	SDS	10	6	3	0	
+0	0	0	D	12	6	3	0		10	7	3	0	
+0	0	0	S	12	6	3	0		8	8	5	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	E	12	10	3	1	EVS	0	10	13	0	
+0	0	0	V	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+33
+1	SKI	Boot holder
+4	TAJ	Mausoleum opening?
+7	STL	Cardinal letters
+10	AND	"Then what happened?"
+11	ILO	Worldwide workers' grp.
+12	ITHE	"Am ___ only one...?"
+13	ETO	W.W. II war zone: Abbr.
+14	TONEPOEM	Debussy's "La Mer," e.g.
+16	NAL	Big inits. in paperback publishing
+18	VOODOO	___ economics
+20	HOMEO	Similar: Prefix
+22	ISLAND	The "I" of Canada's P.E.I.
+23	ITY	Suffix with superficial
+24	UNL	Having no bounds: Abbr.
+26	VSO	Letters on a brandy bottle
+27	DBL	Substantial hit: Abbr.
+28	TIE	Gift in a long, thin box
+29	DIO	Italian God
+30	GEO	Prefix with graphic or metric
+31	CES	These, in Oise
+32	END	At wit's ___
+33	BALBOA	Sighter of the Pacific Ocean, 1513
+36	TOSCA	Raven-haired Puccini heroine
+38	SWILLS	Gulps down
+39	III	Caesar's three
+40	AVIATION	Pilot's field
+43	OTB	Wagering venue, briefly
+46	YIPS	Pound sounds
+47	RIK	7'4" former N.B.A. star Smits
+48	DDE	W.W. II hero, for short
+49	SAS	Carrier to Sweden
+50	SDS	Vietnam War-era org.
+51	EVS	Tiny energy units, for short
+25
+1	SAE	Enclosure with a ms.
+2	KNT	Old Eng. title
+3	IDONOTBOLIVIA	"""Baloney!"" abroad?"
+4	TITLE	Line on a spine
+5	ALO	Phone greeting in Central America
+6	JON	"Mad Men" actor Hamm
+7	STOOL	Sot spot
+8	THEDAVINCIODE	Book that's a paean to a painter?
+9	LEMONSODA	Drink with a bite
+12	IPOS	Financial page listings, briefly
+15	EVILEST	Least good
+17	AMYL	___ nitrate
+19	ODO	Pope Urban II, originally
+20	HIDEAWAYS	Treehouses and such
+21	OUTCAST	Harte's John Oakhurst, for one
+25	NIE	Einstein's "never"
+29	DESI	___ Jr. (acting son, familiarly)
+30	GBS	Literary inits.
+34	BLIPS	Short-lived phenomena
+35	OLAS	Spanish waves
+37	OINKS	Sounds from sties
+41	IRS	Treasury Department div.
+42	OID	Human tail?
+44	TDV	Horned viper
+45	BES	Would-___ (aspirants)

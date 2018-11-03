@@ -1,0 +1,167 @@
+grid_11x11_56
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	T	0	2	3	1	TRU	0	2	11	1	TALLSTORIES
+0	1	2	R	0	2	3	0		0	3	3	1	RUM
+0	1	3	U	0	2	3	0		0	4	3	1	UDE
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	4	0		1	6	6	0	
+0	1	4	G	0	7	4	1	GELD	0	7	4	1	GIGO
+0	1	5	E	0	7	4	0		0	8	11	1	ELLERYQUEEN
+0	1	6	L	0	7	4	0		0	9	3	1	LEU
+0	1	7	D	0	7	4	0		0	10	3	1	DDE
+1	0	0	#	1	1	4	0		2	0	0	0	
+0	1	8	S	1	1	4	1	SAUD	1	1	6	1	SEIZES
+0	0	0	A	1	1	4	0		0	2	11	0	
+0	0	0	U	1	1	4	0		0	3	3	0	
+0	0	0	D	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	9	O	1	6	5	1	OILED	1	6	6	1	OSBORN
+0	0	0	I	1	6	5	0		0	7	4	0	
+0	0	0	L	1	6	5	0		0	8	11	0	
+0	0	0	E	1	6	5	0		0	9	3	0	
+0	0	0	D	1	6	5	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	4	0	
+0	1	10	E	2	1	10	1	ELMERSGLUE	1	1	6	0	
+0	0	0	L	2	1	10	0		0	2	11	0	
+0	0	0	M	2	1	10	0		0	3	3	0	
+0	0	0	E	2	1	10	0		0	4	3	0	
+0	1	11	R	2	1	10	0		2	5	7	1	ROSSINI
+0	0	0	S	2	1	10	0		1	6	6	0	
+0	0	0	G	2	1	10	0		0	7	4	0	
+0	0	0	L	2	1	10	0		0	8	11	0	
+0	0	0	U	2	1	10	0		0	9	3	0	
+0	0	0	E	2	1	10	0		0	10	3	0	
+0	1	12	D	3	0	3	1	DIL	3	0	4	1	DONG
+0	0	0	I	3	0	3	0		1	1	6	0	
+0	0	0	L	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	4	0		4	4	6	0	
+0	1	13	O	3	5	4	1	OBOE	2	5	7	0	
+0	0	0	B	3	5	4	0		1	6	6	0	
+0	0	0	O	3	5	4	0		0	7	4	0	
+0	0	0	E	3	5	4	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	4	0	
+0	1	14	O	4	0	3	1	OZS	3	0	4	0	
+0	0	0	Z	4	0	3	0		1	1	6	0	
+0	0	0	S	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	15	U	4	4	3	1	USO	4	4	6	1	USNEWS
+0	0	0	S	4	4	3	0		2	5	7	0	
+0	0	0	O	4	4	3	0		1	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	16	R	4	8	3	1	RIT	0	8	11	0	
+0	1	17	I	4	8	3	0		4	9	6	1	IRAILS
+0	1	18	T	4	8	3	0		4	10	4	1	TSAR
+0	1	19	N	5	0	3	1	NET	3	0	4	0	
+0	0	0	E	5	0	3	0		1	1	6	0	
+0	0	0	T	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	20	S	5	4	3	1	SSR	4	4	6	0	
+0	0	0	S	5	4	3	0		2	5	7	0	
+0	0	0	R	5	4	3	0		1	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	Y	5	8	3	1	YRS	0	8	11	0	
+0	0	0	R	5	8	3	0		4	9	6	0	
+0	0	0	S	5	8	3	0		4	10	4	0	
+0	1	22	G	6	0	3	1	GSO	3	0	4	0	
+0	0	0	S	6	0	3	0		1	1	6	0	
+0	0	0	O	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	4	0	
+0	1	23	N	6	4	3	1	NIN	4	4	6	0	
+0	0	0	I	6	4	3	0		2	5	7	0	
+0	0	0	N	6	4	3	0		1	6	6	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	24	Q	6	8	3	1	QAA	0	8	11	0	
+0	0	0	A	6	8	3	0		4	9	6	0	
+0	0	0	A	6	8	3	0		4	10	4	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	4	0		8	1	3	0	
+0	1	25	R	7	2	4	1	RIEN	0	2	11	0	
+0	1	26	I	7	2	4	0		7	3	4	1	IEST
+0	0	0	E	7	2	4	0		4	4	6	0	
+0	0	0	N	7	2	4	0		2	5	7	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	U	7	8	3	1	UIR	0	8	11	0	
+0	0	0	I	7	8	3	0		4	9	6	0	
+0	0	0	R	7	8	3	0		4	10	4	0	
+0	1	28	E	8	0	10	1	ELIEWIESEL	8	0	3	1	ELK
+0	1	29	L	8	0	10	0		8	1	3	1	LOI
+0	0	0	I	8	0	10	0		0	2	11	0	
+0	0	0	E	8	0	10	0		7	3	4	0	
+0	0	0	W	8	0	10	0		4	4	6	0	
+0	0	0	I	8	0	10	0		2	5	7	0	
+0	1	30	E	8	0	10	0		8	6	3	1	EXP
+0	1	31	S	8	0	10	0		8	7	3	1	SKI
+0	0	0	E	8	0	10	0		0	8	11	0	
+0	0	0	L	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	32	L	9	0	5	1	LOESS	8	0	3	0	
+0	0	0	O	9	0	5	0		8	1	3	0	
+0	0	0	E	9	0	5	0		0	2	11	0	
+0	0	0	S	9	0	5	0		7	3	4	0	
+0	0	0	S	9	0	5	0		4	4	6	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	33	X	9	6	4	1	XKES	8	6	3	0	
+0	0	0	K	9	6	4	0		8	7	3	0	
+0	0	0	E	9	6	4	0		0	8	11	0	
+0	0	0	S	9	6	4	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	K	10	0	4	1	KIST	8	0	3	0	
+0	0	0	I	10	0	4	0		8	1	3	0	
+0	0	0	S	10	0	4	0		0	2	11	0	
+0	0	0	T	10	0	4	0		7	3	4	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	35	P	10	6	3	1	PIN	8	6	3	0	
+0	0	0	I	10	6	3	0		8	7	3	0	
+0	0	0	N	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	TRU	Hit 1989 biographical play
+4	GELD	Neuter
+8	SAUD	King Faisal's brother
+9	OILED	Lubricated
+10	ELMERSGLUE	Big sticker?
+12	DIL	"Rugrats" baby
+13	OBOE	Poulenc's "Sonata for ___ and Piano"
+14	OZS	Small wts.
+15	USO	G.I. entertainers
+16	RIT	Score abbr.
+19	NET	___ sales
+20	SSR	Ukr., e.g., until 1991
+21	YRS	Timeline info: Abbr.
+22	GSO	Mil. aide
+23	NIN	Ana
+24	QAA	Lecture follow-up
+25	RIEN	Tout's opposite
+27	UIR	Onetime TWA rival
+28	ELIEWIESEL	Peace Prize-winning author
+32	LOESS	Wind-borne deposits
+33	XKES	Jaguar models
+34	KIST	Word with Star or Sun in product names
+35	PIN	Word with rolling or bowling
+19
+1	TALLSTORIES	They're hard to believe
+2	RUM	Demon ___
+3	UDE	Ulan-___ (Siberian capital)
+4	GIGO	Computer acronym about faulty data
+5	ELLERYQUEEN	Pseudonym in detective fiction
+6	LEU	Romanian coin
+7	DDE	W.W. II hero, for short
+8	SEIZES	Confiscates
+9	OSBORN	"The Paper Chase" author John Jay ___ Jr.
+11	ROSSINI	"The Barber of Seville" composer
+12	DONG	Tintinnabulation
+15	USNEWS	Longtime Time rival, informally
+17	IRAILS	Some tracks
+18	TSAR	Winter Palace dweller, once
+26	IEST	Superlative suffix
+28	ELK	Beast with a bugling call
+29	LOI	French law
+30	EXP	___ date: Abbr.
+31	SKI	Sea's partner, commercially

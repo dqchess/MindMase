@@ -1,0 +1,117 @@
+grid_9x9_172
+9
+0	1	1	A	0	0	3	1	AUR	0	0	3	1	AFB
+0	1	2	U	0	0	3	0		0	1	4	1	UEYS
+0	1	3	R	0	0	3	0		0	2	4	1	RDAS
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	S	0	5	3	1	SCH	0	5	3	1	SHO
+0	1	5	C	0	5	3	0		0	6	4	1	CODY
+0	1	6	H	0	5	3	0		0	7	4	1	HYDE
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	F	1	0	4	1	FEDS	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	4	0	
+0	0	0	D	1	0	4	0		0	2	4	0	
+0	1	8	S	1	0	4	0		1	3	4	1	SLRS
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	9	H	1	5	4	1	HOYA	0	5	3	0	
+0	0	0	O	1	5	4	0		0	6	4	0	
+0	0	0	Y	1	5	4	0		0	7	4	0	
+0	1	10	A	1	5	4	0		1	8	3	1	ASH
+0	1	11	B	2	0	9	1	BYALLODDS	0	0	3	0	
+0	0	0	Y	2	0	9	0		0	1	4	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	0	0	L	2	0	9	0		1	3	4	0	
+0	1	12	L	2	0	9	0		2	4	5	1	LSATS
+0	0	0	O	2	0	9	0		0	5	3	0	
+0	0	0	D	2	0	9	0		0	6	4	0	
+0	0	0	D	2	0	9	0		0	7	4	0	
+0	0	0	S	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	S	3	1	4	1	SSRS	0	1	4	0	
+0	0	0	S	3	1	4	0		0	2	4	0	
+0	0	0	R	3	1	4	0		1	3	4	0	
+0	0	0	S	3	1	4	0		2	4	5	0	
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	14	Y	3	6	3	1	YEH	0	6	4	0	
+0	0	0	E	3	6	3	0		0	7	4	0	
+0	0	0	H	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	S	4	3	3	1	SAS	1	3	4	0	
+0	0	0	A	4	3	3	0		2	4	5	0	
+0	1	16	S	4	3	3	0		4	5	4	1	SIUS
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	U	5	0	3	1	USO	5	0	3	1	ULE
+0	1	18	S	5	0	3	0		5	1	4	1	SALO
+0	1	19	O	5	0	3	0		5	2	4	1	OZIE
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	T	5	4	4	1	TICO	2	4	5	0	
+0	0	0	I	5	4	4	0		4	5	4	0	
+0	1	21	C	5	4	4	0		5	6	4	1	CSIS
+0	1	22	O	5	4	4	0		5	7	4	1	OAST
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	23	L	6	0	9	1	LAZYSUSAN	5	0	3	0	
+0	0	0	A	6	0	9	0		5	1	4	0	
+0	0	0	Z	6	0	9	0		5	2	4	0	
+0	1	24	Y	6	0	9	0		6	3	3	1	YAD
+0	0	0	S	6	0	9	0		2	4	5	0	
+0	0	0	U	6	0	9	0		4	5	4	0	
+0	0	0	S	6	0	9	0		5	6	4	0	
+0	0	0	A	6	0	9	0		5	7	4	0	
+0	1	25	N	6	0	9	0		6	8	3	1	NIN
+0	1	26	E	7	0	4	1	ELIA	5	0	3	0	
+0	0	0	L	7	0	4	0		5	1	4	0	
+0	0	0	I	7	0	4	0		5	2	4	0	
+0	0	0	A	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	S	7	5	4	1	SISI	4	5	4	0	
+0	0	0	I	7	5	4	0		5	6	4	0	
+0	0	0	S	7	5	4	0		5	7	4	0	
+0	0	0	I	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	O	8	1	3	1	OED	5	1	4	0	
+0	0	0	E	8	1	3	0		5	2	4	0	
+0	0	0	D	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	S	8	6	3	1	STN	5	6	4	0	
+0	0	0	T	8	6	3	0		5	7	4	0	
+0	0	0	N	8	6	3	0		6	8	3	0	
+15
+1	AUR	Gold: Prefix
+4	SCH	Principal's charge: Abbr.
+7	FEDS	20's beer barrel busters
+9	HOYA	Georgetown player
+11	BYALLODDS	Undoubtedly
+13	SSRS	Georgia and others, once: Abbr.
+14	YEH	Quick assent
+15	SAS	It serves Stockholm
+17	USO	Kind of tour, for short
+20	TICO	New Zealand : Kiwi :: Costa Rica : ___
+23	LAZYSUSAN	Food-filled revolver
+26	ELIA	"Essays of ___," 1823
+27	SISI	Mexican accord?
+28	OED	Often-cited ref.
+29	STN	Train stop: Abbr.
+17
+1	AFB	Vance or Vandenberg: Abbr.
+2	UEYS	Some chase scene maneuvers, slangily
+3	RDAS	Stds. important to the health-conscious
+4	SHO	Heading in cable TV listings
+5	CODY	Wild West Show star
+6	HYDE	Henry of the House Judiciary Committee
+8	SLRS	Some shooters, briefly
+10	ASH	Cigarette's end
+12	LSATS	Important boards, for short
+16	SIUS	Part of Canis Major
+17	ULE	Cousin of -let
+18	SALO	Eastern European pork fat dish
+19	OZIE	Harriet's mate
+21	CSIS	Several CBS dramas
+22	OAST	Kiln for hops
+24	YAD	Torah place marker
+25	NIN	"Ladders to Fire" novelist

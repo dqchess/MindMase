@@ -1,0 +1,233 @@
+grid_13x13_19
+13
+0	1	1	G	0	0	5	1	GRABS	0	0	3	1	GFF
+0	1	2	R	0	0	5	0		0	1	3	1	RAT
+0	1	3	A	0	0	5	0		0	2	3	1	AER
+0	1	4	B	0	0	5	0		0	3	6	1	BROOKE
+0	1	5	S	0	0	5	0		0	4	4	1	SOON
+1	0	0	#	0	6	0	0		1	5	4	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	5	0		1	7	6	0	
+0	1	6	P	0	8	5	1	PATIO	0	8	3	1	PEG
+0	1	7	A	0	8	5	0		0	9	5	1	AWING
+0	1	8	T	0	8	5	0		0	10	9	1	TERMINALS
+0	1	9	I	0	8	5	0		0	11	9	1	ILLIBERAL
+0	1	10	O	0	8	5	0		0	12	3	1	OSS
+0	1	11	F	1	0	6	1	FAEROE	0	0	3	0	
+0	0	0	A	1	0	6	0		0	1	3	0	
+0	0	0	E	1	0	6	0		0	2	3	0	
+0	0	0	R	1	0	6	0		0	3	6	0	
+0	0	0	O	1	0	6	0		0	4	4	0	
+0	1	12	E	1	0	6	0		1	5	4	1	EPEE
+1	0	0	#	1	7	6	0		2	6	0	0	
+0	1	13	J	1	7	6	1	JEWELS	1	7	6	1	JBSLUC
+0	0	0	E	1	7	6	0		0	8	3	0	
+0	0	0	W	1	7	6	0		0	9	5	0	
+0	0	0	E	1	7	6	0		0	10	9	0	
+0	0	0	L	1	7	6	0		0	11	9	0	
+0	0	0	S	1	7	6	0		0	12	3	0	
+0	1	14	F	2	0	6	1	FTROOP	0	0	3	0	
+0	0	0	T	2	0	6	0		0	1	3	0	
+0	0	0	R	2	0	6	0		0	2	3	0	
+0	0	0	O	2	0	6	0		0	3	6	0	
+0	0	0	O	2	0	6	0		0	4	4	0	
+0	0	0	P	2	0	6	0		1	5	4	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	15	B	2	7	6	1	BGIRLS	1	7	6	0	
+0	0	0	G	2	7	6	0		0	8	3	0	
+0	0	0	I	2	7	6	0		0	9	5	0	
+0	0	0	R	2	7	6	0		0	10	9	0	
+0	0	0	L	2	7	6	0		0	11	9	0	
+0	0	0	S	2	7	6	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	9	0	
+1	0	0	#	3	3	5	0		4	2	9	0	
+0	1	16	O	3	3	5	1	ONERS	0	3	6	0	
+0	0	0	N	3	3	5	0		0	4	4	0	
+0	0	0	E	3	3	5	0		1	5	4	0	
+0	1	17	R	3	3	5	0		3	6	7	1	RLSTINE
+0	0	0	S	3	3	5	0		1	7	6	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	18	N	3	9	3	1	NMI	0	9	5	0	
+0	0	0	M	3	9	3	0		0	10	9	0	
+0	0	0	I	3	9	3	0		0	11	9	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	19	D	4	1	3	1	DIK	4	1	9	1	DIESELOIL
+0	1	20	I	4	1	3	0		4	2	9	1	IVYLEAGUE
+0	0	0	K	4	1	3	0		0	3	6	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	21	E	4	5	3	1	ELL	1	5	4	0	
+0	0	0	L	4	5	3	0		3	6	7	0	
+0	0	0	L	4	5	3	0		1	7	6	0	
+1	0	0	#	4	9	3	0		5	8	3	0	
+0	1	22	G	4	9	3	1	GIB	0	9	5	0	
+0	0	0	I	4	9	3	0		0	10	9	0	
+0	0	0	B	4	9	3	0		0	11	9	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	C	5	0	5	1	CIVET	5	0	3	1	CRI
+0	0	0	I	5	0	5	0		4	1	9	0	
+0	0	0	V	5	0	5	0		4	2	9	0	
+0	0	0	E	5	0	5	0		0	3	6	0	
+0	1	24	T	5	0	5	0		5	4	3	1	TRA
+1	0	0	#	5	6	3	0		6	5	6	0	
+0	1	25	S	5	6	3	1	SUL	3	6	7	0	
+0	0	0	U	5	6	3	0		1	7	6	0	
+0	1	26	L	5	6	3	0		5	8	3	1	LSI
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	N	5	10	3	1	NEN	0	10	9	0	
+0	0	0	E	5	10	3	0		0	11	9	0	
+0	1	28	N	5	10	3	0		5	12	3	1	NGS
+0	1	29	R	6	0	3	1	REY	5	0	3	0	
+0	0	0	E	6	0	3	0		4	1	9	0	
+0	0	0	Y	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	30	R	6	4	5	1	ROTCS	5	4	3	0	
+0	1	31	O	6	4	5	0		6	5	6	1	OSTEND
+0	0	0	T	6	4	5	0		3	6	7	0	
+0	0	0	C	6	4	5	0		1	7	6	0	
+0	0	0	S	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	6	0	
+0	1	32	A	6	10	3	1	ARG	0	10	9	0	
+0	0	0	R	6	10	3	0		0	11	9	0	
+0	0	0	G	6	10	3	0		5	12	3	0	
+0	1	33	I	7	0	3	1	ISL	5	0	3	0	
+0	0	0	S	7	0	3	0		4	1	9	0	
+0	0	0	L	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	3	0		8	3	5	0	
+0	1	34	A	7	4	3	1	ASI	5	4	3	0	
+0	0	0	S	7	4	3	0		6	5	6	0	
+0	0	0	I	7	4	3	0		3	6	7	0	
+1	0	0	#	7	8	5	0		8	7	4	0	
+0	1	35	I	7	8	5	1	ISLAS	5	8	3	0	
+0	1	36	S	7	8	5	0		7	9	6	1	SYSTEM
+0	0	0	L	7	8	5	0		0	10	9	0	
+0	0	0	A	7	8	5	0		0	11	9	0	
+0	0	0	S	7	8	5	0		5	12	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	37	E	8	1	3	1	EEG	4	1	9	0	
+0	0	0	E	8	1	3	0		4	2	9	0	
+0	1	38	G	8	1	3	0		8	3	5	1	GARDA
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	39	T	8	5	3	1	TNN	6	5	6	0	
+0	0	0	N	8	5	3	0		3	6	7	0	
+0	1	40	N	8	5	3	0		8	7	4	1	NERI
+1	0	0	#	8	9	3	0		9	8	4	0	
+0	1	41	Y	8	9	3	1	YSL	7	9	6	0	
+0	0	0	S	8	9	3	0		0	10	9	0	
+0	0	0	L	8	9	3	0		0	11	9	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	42	L	9	1	3	1	LAA	4	1	9	0	
+0	0	0	A	9	1	3	0		4	2	9	0	
+0	0	0	A	9	1	3	0		8	3	5	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	43	E	9	5	5	1	EEENS	6	5	6	0	
+0	0	0	E	9	5	5	0		3	6	7	0	
+0	0	0	E	9	5	5	0		8	7	4	0	
+0	1	44	N	9	5	5	0		9	8	4	1	NASD
+0	0	0	S	9	5	5	0		7	9	6	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	D	10	0	6	1	DOGRUN	10	0	3	1	DCC
+0	0	0	O	10	0	6	0		4	1	9	0	
+0	0	0	G	10	0	6	0		4	2	9	0	
+0	0	0	R	10	0	6	0		8	3	5	0	
+0	1	46	U	10	0	6	0		10	4	3	1	UAR
+0	0	0	N	10	0	6	0		6	5	6	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	47	R	10	7	6	1	RATTLE	8	7	4	0	
+0	0	0	A	10	7	6	0		9	8	4	0	
+0	0	0	T	10	7	6	0		7	9	6	0	
+0	1	48	T	10	7	6	0		10	10	3	1	TEA
+0	1	49	L	10	7	6	0		10	11	3	1	LIS
+0	1	50	E	10	7	6	0		10	12	3	1	ETS
+0	1	51	C	11	0	6	1	CIUDAD	10	0	3	0	
+0	0	0	I	11	0	6	0		4	1	9	0	
+0	0	0	U	11	0	6	0		4	2	9	0	
+0	0	0	D	11	0	6	0		8	3	5	0	
+0	0	0	A	11	0	6	0		10	4	3	0	
+0	0	0	D	11	0	6	0		6	5	6	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	52	I	11	7	6	1	ISEEIT	8	7	4	0	
+0	0	0	S	11	7	6	0		9	8	4	0	
+0	0	0	E	11	7	6	0		7	9	6	0	
+0	0	0	E	11	7	6	0		10	10	3	0	
+0	0	0	I	11	7	6	0		10	11	3	0	
+0	0	0	T	11	7	6	0		10	12	3	0	
+0	1	53	C	12	0	5	1	CLEAR	10	0	3	0	
+0	0	0	L	12	0	5	0		4	1	9	0	
+0	0	0	E	12	0	5	0		4	2	9	0	
+0	0	0	A	12	0	5	0		8	3	5	0	
+0	0	0	R	12	0	5	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	54	D	12	8	5	1	DMASS	9	8	4	0	
+0	0	0	M	12	8	5	0		7	9	6	0	
+0	0	0	A	12	8	5	0		10	10	3	0	
+0	0	0	S	12	8	5	0		10	11	3	0	
+0	0	0	S	12	8	5	0		10	12	3	0	
+31
+1	GRABS	Snatches
+6	PATIO	Chaise spot
+11	FAEROE	Denmark's ___ Islands
+13	JEWELS	Crown ___
+14	FTROOP	Sgt. O'Rourke's command, on TV
+15	BGIRLS	Saloon habitu
+16	ONERS	Lulus
+18	NMI	Application letters
+19	DIK	Cartoonist Browne
+21	ELL	Old cloth measure
+22	GIB	Entrance to the Medit.
+23	CIVET	Spotted cat
+25	SUL	South of Brazil?
+27	NEN	Pitcher Robb ___
+29	REY	Actor Fernando
+30	ROTCS	University mil. programs
+32	ARG	Neighbor of Braz.
+33	ISL	Long ___: Abbr.
+34	ASI	"___ see it 
+35	ISLAS	Cuba y Puerto Rico
+37	EEG	Hosp. readout
+39	TNN	Longtime cable inits.
+41	YSL	Fashion monogram
+42	LAA	"___ note to follow ..."
+43	EEENS	Women's dress sizes
+45	DOGRUN	Area connected to a kennel
+47	RATTLE	Nursery noisemaker
+51	CIUDAD	___ Real, Spain
+52	ISEEIT	"There!"
+53	CLEAR	Understandable
+54	DMASS	Abbr. after Ted Kennedy's name
+29
+1	GFF	Maven
+2	RAT	Turncoat
+3	AER	Atmosphere: Prefix
+4	BROOKE	"...foreign field that is forever England" penner
+5	SOON	"Not much longer"
+6	PEG	Tuner on a viola
+7	AWING	Causing wonder in
+8	TERMINALS	United places
+9	ILLIBERAL	Bigoted
+10	OSS	Hush-hush W.W. II agcy.
+12	EPEE	Pentathlon weapon
+13	JBSLUC	Western bar
+17	RLSTINE	"Fear Street" series author
+19	DIESELOIL	Fuel for some trucks
+20	IVYLEAGUE	Like some educations
+23	CRI	___ de coeur (pained utterance)
+24	TRA	Part of a chorus line?
+26	LSI	Long-running B'way musical seen by couples?
+28	NGS	Riot-stopping grps.
+31	OSTEND	Belgian city with an 1854 manifesto
+36	SYSTEM	Gambler's holy grail
+38	GARDA	Lake ___, largest lake in Italy
+40	NERI	Saint Philip ___ (Renaissance figure)
+44	NASD	Former Wall St. inits.
+45	DCC	Year in St. Sergius's papacy
+46	UAR	Old Mideast union: Abbr.
+48	TEA	Lipton product
+49	LIS	Flower of Lille
+50	ETS	"The X-Files" subject

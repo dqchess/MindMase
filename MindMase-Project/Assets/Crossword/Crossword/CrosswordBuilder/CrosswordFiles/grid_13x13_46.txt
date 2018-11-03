@@ -1,0 +1,229 @@
+grid_13x13_46
+13
+0	1	1	A	0	0	3	1	ASP	0	0	3	1	ADM
+0	1	2	S	0	0	3	0		0	1	3	1	SOU
+0	1	3	P	0	0	3	0		0	2	3	1	PMS
+1	0	0	#	0	4	0	0		1	3	8	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	4	0		1	5	3	0	
+0	1	4	K	0	6	4	1	KABA	0	6	4	1	KYRA
+0	1	5	A	0	6	4	0		0	7	7	1	AMANITA
+0	1	6	B	0	6	4	0		0	8	3	1	BUN
+0	1	7	A	0	6	4	0		0	9	3	1	ARG
+1	0	0	#	0	11	0	0		1	10	8	0	
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	D	1	0	4	1	DOMO	0	0	3	0	
+0	0	0	O	1	0	4	0		0	1	3	0	
+0	0	0	M	1	0	4	0		0	2	3	0	
+0	1	9	O	1	0	4	0		1	3	8	1	ODETOJOY
+1	0	0	#	1	5	8	0		2	4	0	0	
+0	1	10	T	1	5	8	1	TYMURRAY	1	5	3	1	TOO
+0	0	0	Y	1	5	8	0		0	6	4	0	
+0	0	0	M	1	5	8	0		0	7	7	0	
+0	0	0	U	1	5	8	0		0	8	3	0	
+0	0	0	R	1	5	8	0		0	9	3	0	
+0	1	11	R	1	5	8	0		1	10	8	1	READINTO
+0	1	12	A	1	5	8	0		1	11	3	1	ARR
+0	1	13	Y	1	5	8	0		1	12	3	1	YYB
+0	1	14	M	2	0	4	1	MUSD	0	0	3	0	
+0	0	0	U	2	0	4	0		0	1	3	0	
+0	0	0	S	2	0	4	0		0	2	3	0	
+0	0	0	D	2	0	4	0		1	3	8	0	
+1	0	0	#	2	5	8	0		3	4	6	0	
+0	1	15	O	2	5	8	1	ORANGERY	1	5	3	0	
+0	0	0	R	2	5	8	0		0	6	4	0	
+0	0	0	A	2	5	8	0		0	7	7	0	
+0	0	0	N	2	5	8	0		0	8	3	0	
+0	0	0	G	2	5	8	0		0	9	3	0	
+0	0	0	E	2	5	8	0		1	10	8	0	
+0	0	0	R	2	5	8	0		1	11	3	0	
+0	0	0	Y	2	5	8	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	5	0		4	2	8	0	
+0	1	16	E	3	3	5	1	ELOAN	1	3	8	0	
+0	1	17	L	3	3	5	0		3	4	6	1	LENORE
+0	0	0	O	3	3	5	0		1	5	3	0	
+0	0	0	A	3	3	5	0		0	6	4	0	
+0	0	0	N	3	3	5	0		0	7	7	0	
+1	0	0	#	3	9	0	0		4	8	6	0	
+1	0	0	#	3	10	3	0		4	9	8	0	
+0	1	18	A	3	10	3	1	ARB	1	10	8	0	
+0	0	0	R	3	10	3	0		1	11	3	0	
+0	0	0	B	3	10	3	0		1	12	3	0	
+0	1	19	H	4	0	5	1	HRATE	4	0	3	1	HGT
+0	1	20	R	4	0	5	0		4	1	4	1	RAHS
+0	1	21	A	4	0	5	0		4	2	8	1	AGEMATES
+0	0	0	T	4	0	5	0		1	3	8	0	
+0	0	0	E	4	0	5	0		3	4	6	0	
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	22	I	4	7	4	1	INTD	0	7	7	0	
+0	1	23	N	4	7	4	0		4	8	6	1	NASCAR
+0	1	24	T	4	7	4	0		4	9	8	1	TROOPERS
+0	0	0	D	4	7	4	0		1	10	8	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	G	5	0	5	1	GAGON	4	0	3	0	
+0	0	0	A	5	0	5	0		4	1	4	0	
+0	0	0	G	5	0	5	0		4	2	8	0	
+0	0	0	O	5	0	5	0		1	3	8	0	
+0	0	0	N	5	0	5	0		3	4	6	0	
+1	0	0	#	5	6	6	0		6	5	7	0	
+0	1	26	A	5	6	6	1	ATARIS	5	6	3	1	AWS
+0	0	0	T	5	6	6	0		0	7	7	0	
+0	0	0	A	5	6	6	0		4	8	6	0	
+0	0	0	R	5	6	6	0		4	9	8	0	
+0	0	0	I	5	6	6	0		1	10	8	0	
+0	1	27	S	5	6	6	0		5	11	4	1	SMEE
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	T	6	0	13	1	THEJOEWASONME	4	0	3	0	
+0	0	0	H	6	0	13	0		4	1	4	0	
+0	0	0	E	6	0	13	0		4	2	8	0	
+0	0	0	J	6	0	13	0		1	3	8	0	
+0	0	0	O	6	0	13	0		3	4	6	0	
+0	1	29	E	6	0	13	0		6	5	7	1	EERIEST
+0	0	0	W	6	0	13	0		5	6	3	0	
+0	0	0	A	6	0	13	0		0	7	7	0	
+0	0	0	S	6	0	13	0		4	8	6	0	
+0	0	0	O	6	0	13	0		4	9	8	0	
+0	0	0	N	6	0	13	0		1	10	8	0	
+0	0	0	M	6	0	13	0		5	11	4	0	
+0	1	30	E	6	0	13	0		6	12	3	1	EST
+1	0	0	#	7	1	6	0		8	0	0	0	
+0	1	31	S	7	1	6	1	SMORES	4	1	4	0	
+0	0	0	M	7	1	6	0		4	2	8	0	
+0	0	0	O	7	1	6	0		1	3	8	0	
+0	0	0	R	7	1	6	0		3	4	6	0	
+0	0	0	E	7	1	6	0		6	5	7	0	
+0	0	0	S	7	1	6	0		5	6	3	0	
+1	0	0	#	7	8	5	0		8	7	0	0	
+0	1	32	C	7	8	5	1	COTES	4	8	6	0	
+0	0	0	O	7	8	5	0		4	9	8	0	
+0	0	0	T	7	8	5	0		1	10	8	0	
+0	0	0	E	7	8	5	0		5	11	4	0	
+0	0	0	S	7	8	5	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	4	0		9	1	3	0	
+0	1	33	A	8	2	4	1	AYER	4	2	8	0	
+0	0	0	Y	8	2	4	0		1	3	8	0	
+0	0	0	E	8	2	4	0		3	4	6	0	
+0	0	0	R	8	2	4	0		6	5	7	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	5	0		9	7	3	0	
+0	1	34	A	8	8	5	1	APOET	4	8	6	0	
+0	0	0	P	8	8	5	0		4	9	8	0	
+0	0	0	O	8	8	5	0		1	10	8	0	
+0	0	0	E	8	8	5	0		5	11	4	0	
+0	0	0	T	8	8	5	0		6	12	3	0	
+0	1	35	T	9	0	3	1	TET	9	0	3	1	TBA
+0	1	36	E	9	0	3	0		9	1	3	1	EES
+0	0	0	T	9	0	3	0		4	2	8	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	37	I	9	5	5	1	IWERE	6	5	7	0	
+0	1	38	W	9	5	5	0		9	6	4	1	WEAR
+0	1	39	E	9	5	5	0		9	7	3	1	EPS
+0	0	0	R	9	5	5	0		4	8	6	0	
+0	0	0	E	9	5	5	0		4	9	8	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	40	B	10	0	8	1	BEEPBEEP	9	0	3	0	
+0	0	0	E	10	0	8	0		9	1	3	0	
+0	0	0	E	10	0	8	0		4	2	8	0	
+0	1	41	P	10	0	8	0		10	3	3	1	PEE
+0	1	42	B	10	0	8	0		10	4	3	1	BSS
+0	0	0	E	10	0	8	0		6	5	7	0	
+0	0	0	E	10	0	8	0		9	6	4	0	
+0	0	0	P	10	0	8	0		9	7	3	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	43	R	10	9	4	1	RHEE	4	9	8	0	
+0	1	44	H	10	9	4	0		10	10	3	1	HAI
+0	1	45	E	10	9	4	0		10	11	3	1	EGH
+0	1	46	E	10	9	4	0		10	12	3	1	EEN
+0	1	47	A	11	0	8	1	ASSESSAS	9	0	3	0	
+0	0	0	S	11	0	8	0		9	1	3	0	
+0	0	0	S	11	0	8	0		4	2	8	0	
+0	0	0	E	11	0	8	0		10	3	3	0	
+0	0	0	S	11	0	8	0		10	4	3	0	
+0	0	0	S	11	0	8	0		6	5	7	0	
+0	0	0	A	11	0	8	0		9	6	4	0	
+0	0	0	S	11	0	8	0		9	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	S	11	9	4	1	SAGE	4	9	8	0	
+0	0	0	A	11	9	4	0		10	10	3	0	
+0	0	0	G	11	9	4	0		10	11	3	0	
+0	0	0	E	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	4	0		13	2	0	0	
+0	1	49	E	12	3	4	1	ESTR	10	3	3	0	
+0	0	0	S	12	3	4	0		10	4	3	0	
+0	0	0	T	12	3	4	0		6	5	7	0	
+0	0	0	R	12	3	4	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	I	12	10	3	1	IHN	10	10	3	0	
+0	0	0	H	12	10	3	0		10	11	3	0	
+0	0	0	N	12	10	3	0		10	12	3	0	
+25
+1	ASP	Nile viper
+4	KABA	Muslim's House of God
+8	DOMO	Major-___
+10	TYMURRAY	Nine-time world champion rodeo cowboy
+14	MUSD	Yellow squirt?
+15	ORANGERY	Citrus garden
+16	ELOAN	Online financial services company
+18	ARB	Wall Street whiz
+19	HRATE	Stress test measure
+22	INTD	Having depth
+25	GAGON	Not be able to swallow
+26	ATARIS	Some old computers
+28	THEJOEWASONME	What happened when I spilled coffee?
+31	SMORES	Campout fare
+32	COTES	Small sheds
+33	AYER	Yesterday, in the Yucat
+34	APOET	"You're ___ and don't even know it"
+35	TET	Holiday celebrated with b
+37	IWERE	"If ___ you 
+40	BEEPBEEP	... Road Runner
+43	RHEE	Onetime Korean president
+47	ASSESSAS	Deem
+48	SAGE	Wise
+49	ESTR	Old Testament book
+50	IHN	Him, in Heidelberg
+31
+1	ADM	Navy V.I.P.
+2	SOU	Small amount
+3	PMS	Tony Blair and others, for short
+4	KYRA	"The Closer" star Sedgwick
+5	AMANITA	Genus of poisonous mushrooms
+6	BUN	Hair knot
+7	ARG	S.A. country
+9	ODETOJOY	Schiller poem used by Beethoven
+10	TOO	Besides
+11	READINTO	Infer
+12	ARR	Airport monitor abbr.
+13	YYB	Eggs
+17	LENORE	Poe poem that ends "From grief and groan to a golden throne beside the King of Heaven"
+19	HGT	Info request from a computer dating service: Abbr.
+20	RAHS	Supporting chorus
+21	AGEMATES	Contemporaries
+23	NASCAR	Org. with the Sprint Cup Series
+24	TROOPERS	Smokeys, so to speak
+26	AWS	Expressions of disbelief
+27	SMEE	Hook's right-hand man
+29	EERIEST	Superlatively strange
+30	EST	It's in the neighborhood: Abbr.
+35	TBA	Not yet decided, on a sched.
+36	EES	Some series bonds
+38	WEAR	Sport
+39	EPS	Short albums, for short
+41	PEE	Third of September?
+42	BSS	Some four-year degs.
+44	HAI	Far Eastern affirmative
+45	EGH	French vineyard
+46	EEN	After-dusk time, to a poet

@@ -1,0 +1,303 @@
+grid_15x15_198
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	7	0	
+1	0	0	#	0	3	4	0		1	2	14	0	
+0	1	1	C	0	3	4	1	COLL	0	3	4	1	COWS
+0	1	2	O	0	3	4	0		0	4	5	1	OOOLA
+0	1	3	L	0	3	4	0		0	5	3	1	LDR
+0	1	4	L	0	3	4	0		0	6	3	1	LSD
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	S	0	8	3	1	SAM	0	8	6	1	SHTETL
+0	1	6	A	0	8	3	0		0	9	4	1	ABOU
+0	1	7	M	0	8	3	0		0	10	3	1	MRC
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	8	C	0	12	3	1	CSA	0	12	14	1	CALIFORNIASUIT
+0	1	9	S	0	12	3	0		0	13	6	1	SKITOW
+0	1	10	A	0	12	3	0		0	14	6	1	ASASON
+1	0	0	#	1	1	6	0		2	0	0	0	
+0	1	11	T	1	1	6	1	TWOODS	1	1	7	1	TRICEPS
+0	1	12	W	1	1	6	0		1	2	14	1	WEEKLYPLANNERS
+0	0	0	O	1	1	6	0		0	3	4	0	
+0	0	0	O	1	1	6	0		0	4	5	0	
+0	0	0	D	1	1	6	0		0	5	3	0	
+0	0	0	S	1	1	6	0		0	6	3	0	
+1	0	0	#	1	8	7	0		2	7	0	0	
+0	1	13	H	1	8	7	1	HBREAKS	0	8	6	0	
+0	0	0	B	1	8	7	0		0	9	4	0	
+0	0	0	R	1	8	7	0		0	10	3	0	
+0	1	14	E	1	8	7	0		1	11	3	1	EEW
+0	0	0	A	1	8	7	0		0	12	14	0	
+0	0	0	K	1	8	7	0		0	13	6	0	
+0	0	0	S	1	8	7	0		0	14	6	0	
+1	0	0	#	2	1	6	0		3	0	3	0	
+0	1	15	R	2	1	6	1	REWORD	1	1	7	0	
+0	0	0	E	2	1	6	0		1	2	14	0	
+0	0	0	W	2	1	6	0		0	3	4	0	
+0	0	0	O	2	1	6	0		0	4	5	0	
+0	0	0	R	2	1	6	0		0	5	3	0	
+0	0	0	D	2	1	6	0		0	6	3	0	
+1	0	0	#	2	8	7	0		3	7	9	0	
+0	1	16	T	2	8	7	1	TOCELIA	0	8	6	0	
+0	0	0	O	2	8	7	0		0	9	4	0	
+0	0	0	C	2	8	7	0		0	10	3	0	
+0	0	0	E	2	8	7	0		1	11	3	0	
+0	0	0	L	2	8	7	0		0	12	14	0	
+0	0	0	I	2	8	7	0		0	13	6	0	
+0	0	0	A	2	8	7	0		0	14	6	0	
+0	1	17	L	3	0	5	1	LIESL	3	0	3	1	LIN
+0	0	0	I	3	0	5	0		1	1	7	0	
+0	0	0	E	3	0	5	0		1	2	14	0	
+0	0	0	S	3	0	5	0		0	3	4	0	
+0	0	0	L	3	0	5	0		0	4	5	0	
+1	0	0	#	3	6	0	0		4	5	6	0	
+1	0	0	#	3	7	3	0		4	6	4	0	
+0	1	18	S	3	7	3	1	SEU	3	7	9	1	SAFEHAVEN
+0	0	0	E	3	7	3	0		0	8	6	0	
+0	0	0	U	3	7	3	0		0	9	4	0	
+1	0	0	#	3	11	4	0		4	10	0	0	
+0	1	19	W	3	11	4	1	WITS	1	11	3	0	
+0	0	0	I	3	11	4	0		0	12	14	0	
+0	0	0	T	3	11	4	0		0	13	6	0	
+0	0	0	S	3	11	4	0		0	14	6	0	
+0	1	20	I	4	0	3	1	ICK	3	0	3	0	
+0	0	0	C	4	0	3	0		1	1	7	0	
+0	0	0	K	4	0	3	0		1	2	14	0	
+1	0	0	#	4	4	5	0		5	3	0	0	
+0	1	21	A	4	4	5	1	ACOAT	0	4	5	0	
+0	1	22	C	4	4	5	0		4	5	6	1	CASING
+0	1	23	O	4	4	5	0		4	6	4	1	OSIS
+0	0	0	A	4	4	5	0		3	7	9	0	
+0	0	0	T	4	4	5	0		0	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	24	F	4	12	3	1	FOO	0	12	14	0	
+0	0	0	O	4	12	3	0		0	13	6	0	
+0	0	0	O	4	12	3	0		0	14	6	0	
+0	1	25	N	5	0	3	1	NEL	3	0	3	0	
+0	0	0	E	5	0	3	0		1	1	7	0	
+0	0	0	L	5	0	3	0		1	2	14	0	
+1	0	0	#	5	4	0	0		6	3	3	0	
+1	0	0	#	5	5	6	0		6	4	0	0	
+0	1	26	A	5	5	6	1	ASFLAT	4	5	6	0	
+0	0	0	S	5	5	6	0		4	6	4	0	
+0	0	0	F	5	5	6	0		3	7	9	0	
+0	0	0	L	5	5	6	0		0	8	6	0	
+0	1	27	A	5	5	6	0		5	9	6	1	ATOAST
+0	1	28	T	5	5	6	0		5	10	3	1	TOR
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	29	O	5	12	3	1	OWN	0	12	14	0	
+0	0	0	W	5	12	3	0		0	13	6	0	
+0	0	0	N	5	12	3	0		0	14	6	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	30	P	6	1	3	1	PYM	1	1	7	0	
+0	0	0	Y	6	1	3	0		1	2	14	0	
+0	1	31	M	6	1	3	0		6	3	3	1	MAI
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	32	S	6	5	3	1	SIE	4	5	6	0	
+0	0	0	I	6	5	3	0		4	6	4	0	
+0	0	0	E	6	5	3	0		3	7	9	0	
+1	0	0	#	6	9	4	0		7	8	4	0	
+0	1	33	T	6	9	4	1	TOUR	5	9	6	0	
+0	0	0	O	6	9	4	0		5	10	3	0	
+0	1	34	U	6	9	4	0		6	11	3	1	UAW
+0	0	0	R	6	9	4	0		0	12	14	0	
+1	0	0	#	6	14	0	0		7	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	13	0		8	0	0	0	
+0	1	35	S	7	1	13	1	SPANISHFORAND	1	1	7	0	
+0	0	0	P	7	1	13	0		1	2	14	0	
+0	0	0	A	7	1	13	0		6	3	3	0	
+0	1	36	N	7	1	13	0		7	4	3	1	NOA
+0	0	0	I	7	1	13	0		4	5	6	0	
+0	0	0	S	7	1	13	0		4	6	4	0	
+0	0	0	H	7	1	13	0		3	7	9	0	
+0	1	37	F	7	1	13	0		7	8	4	1	FLEA
+0	0	0	O	7	1	13	0		5	9	6	0	
+0	0	0	R	7	1	13	0		5	10	3	0	
+0	0	0	A	7	1	13	0		6	11	3	0	
+0	0	0	N	7	1	13	0		0	12	14	0	
+0	1	38	D	7	1	13	0		7	13	7	1	DEFERTO
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	0	0		9	0	6	0	
+1	0	0	#	8	2	4	0		9	1	6	0	
+0	1	39	L	8	2	4	1	LION	1	2	14	0	
+0	0	0	I	8	2	4	0		6	3	3	0	
+0	0	0	O	8	2	4	0		7	4	3	0	
+0	0	0	N	8	2	4	0		4	5	6	0	
+1	0	0	#	8	7	3	0		9	6	6	0	
+0	1	40	A	8	7	3	1	ALA	3	7	9	0	
+0	0	0	L	8	7	3	0		7	8	4	0	
+0	0	0	A	8	7	3	0		5	9	6	0	
+1	0	0	#	8	11	3	0		9	10	0	0	
+0	1	41	W	8	11	3	1	WIE	6	11	3	0	
+0	0	0	I	8	11	3	0		0	12	14	0	
+0	0	0	E	8	11	3	0		7	13	7	0	
+1	0	0	#	8	15	0	0		9	14	3	0	
+0	1	42	A	9	0	3	1	ABA	9	0	6	1	ASHPAN
+0	1	43	B	9	0	3	0		9	1	6	1	BEIRUT
+0	0	0	A	9	0	3	0		1	2	14	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	44	A	9	4	6	1	AGAVES	7	4	3	0	
+0	0	0	G	9	4	6	0		4	5	6	0	
+0	1	45	A	9	4	6	0		9	6	6	1	ATONED
+0	0	0	V	9	4	6	0		3	7	9	0	
+0	0	0	E	9	4	6	0		7	8	4	0	
+0	0	0	S	9	4	6	0		5	9	6	0	
+1	0	0	#	9	11	0	0		10	10	5	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	46	A	9	12	3	1	AFL	0	12	14	0	
+0	0	0	F	9	12	3	0		7	13	7	0	
+0	1	47	L	9	12	3	0		9	14	3	1	LEN
+0	1	48	S	10	0	3	1	SEN	9	0	6	0	
+0	0	0	E	10	0	3	0		9	1	6	0	
+0	0	0	N	10	0	3	0		1	2	14	0	
+1	0	0	#	10	4	0	0		11	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	5	0		11	5	4	0	
+0	1	49	T	10	6	5	1	TEATS	9	6	6	0	
+0	0	0	E	10	6	5	0		3	7	9	0	
+0	0	0	A	10	6	5	0		7	8	4	0	
+0	0	0	T	10	6	5	0		5	9	6	0	
+0	1	50	S	10	6	5	0		10	10	5	1	SITKA
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	51	S	10	12	3	1	SEE	0	12	14	0	
+0	0	0	E	10	12	3	0		7	13	7	0	
+0	0	0	E	10	12	3	0		9	14	3	0	
+0	1	52	H	11	0	4	1	HINT	9	0	6	0	
+0	0	0	I	11	0	4	0		9	1	6	0	
+0	0	0	N	11	0	4	0		1	2	14	0	
+0	1	53	T	11	0	4	0		11	3	3	1	TSA
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	54	V	11	5	3	1	VON	11	5	4	1	VEEP
+0	0	0	O	11	5	3	0		9	6	6	0	
+0	0	0	N	11	5	3	0		3	7	9	0	
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	5	0		12	9	3	0	
+0	1	55	I	11	10	5	1	INURN	10	10	5	0	
+0	1	56	N	11	10	5	0		11	11	4	1	NSEC
+0	0	0	U	11	10	5	0		0	12	14	0	
+0	0	0	R	11	10	5	0		7	13	7	0	
+0	0	0	N	11	10	5	0		9	14	3	0	
+0	1	57	P	12	0	7	1	PRESEEN	9	0	6	0	
+0	0	0	R	12	0	7	0		9	1	6	0	
+0	0	0	E	12	0	7	0		1	2	14	0	
+0	0	0	S	12	0	7	0		11	3	3	0	
+0	1	58	E	12	0	7	0		12	4	3	1	ELP
+0	0	0	E	12	0	7	0		11	5	4	0	
+0	0	0	N	12	0	7	0		9	6	6	0	
+1	0	0	#	12	8	6	0		13	7	0	0	
+0	1	59	P	12	8	6	1	PETSIT	12	8	3	1	PTS
+0	1	60	E	12	8	6	0		12	9	3	1	EAT
+0	0	0	T	12	8	6	0		10	10	5	0	
+0	0	0	S	12	8	6	0		11	11	4	0	
+0	0	0	I	12	8	6	0		0	12	14	0	
+0	0	0	T	12	8	6	0		7	13	7	0	
+1	0	0	#	12	15	0	0		13	14	0	0	
+0	1	61	A	13	0	7	1	AURALEE	9	0	6	0	
+0	0	0	U	13	0	7	0		9	1	6	0	
+0	0	0	R	13	0	7	0		1	2	14	0	
+0	0	0	A	13	0	7	0		11	3	3	0	
+0	0	0	L	13	0	7	0		12	4	3	0	
+0	0	0	E	13	0	7	0		11	5	4	0	
+0	0	0	E	13	0	7	0		9	6	6	0	
+1	0	0	#	13	8	6	0		14	7	0	0	
+0	1	62	T	13	8	6	1	TAKETO	12	8	3	0	
+0	0	0	A	13	8	6	0		12	9	3	0	
+0	0	0	K	13	8	6	0		10	10	5	0	
+0	0	0	E	13	8	6	0		11	11	4	0	
+0	0	0	T	13	8	6	0		0	12	14	0	
+0	0	0	O	13	8	6	0		7	13	7	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+0	1	63	N	14	0	3	1	NTS	9	0	6	0	
+0	0	0	T	14	0	3	0		9	1	6	0	
+0	0	0	S	14	0	3	0		1	2	14	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	64	P	14	4	3	1	PPD	12	4	3	0	
+0	0	0	P	14	4	3	0		11	5	4	0	
+0	0	0	D	14	4	3	0		9	6	6	0	
+1	0	0	#	14	8	4	0		15	7	0	0	
+0	1	65	S	14	8	4	1	STAC	12	8	3	0	
+0	0	0	T	14	8	4	0		12	9	3	0	
+0	0	0	A	14	8	4	0		10	10	5	0	
+0	0	0	C	14	8	4	0		11	11	4	0	
+1	0	0	#	14	13	0	0		15	12	0	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	COLL	Univ.
+5	SAM	"American Beauty" director Mendes
+8	CSA	Jefferson Davis org.
+11	TWOODS	Four-time Masters winner
+13	HBREAKS	Emotional traumas
+15	REWORD	Express differently
+16	TOCELIA	Ben Jonson poem
+17	LIESL	Von Trapp girl who's "sixteen going on seventeen"
+18	SEU	Blood bank supply
+19	WITS	Composure
+20	ICK	"E-w-w-w!"
+21	ACOAT	C. P. Snow's "___ of Varnish"
+24	FOO	Egg ___ yung
+25	NEL	"Volare (___ Blu Dipinto di Blu)"
+26	ASFLAT	Comparable to a pancake?
+29	OWN	Part of B.Y.O.B.
+30	PYM	English novelist Barbara
+32	SIE	You, abroad
+33	TOUR	It may be grand
+35	SPANISHFORAND	Y
+39	LION	"The Wizard of Oz" companion
+40	ALA	In the manner of
+41	WIE	Golfer Michelle
+42	ABA	Litigators' grp.
+44	AGAVES	Century plants
+46	AFL	Union inits. starting in 1886
+48	SEN	Impeachment trier: Abbr.
+49	TEATS	Kids drink from them
+51	SEE	"Now do you believe me?"
+52	HINT	Aid to the stumped
+54	VON	Name part meaning "from"
+55	INURN	Bury
+57	PRESEEN	Screened, as a patient
+59	PETSIT	Take care of a neighbor's dog, say
+61	AURALEE	Song on which "Love Me Tender" is based
+62	TAKETO	Become attracted by
+63	NTS	Windows options
+64	PPD	Mail order abbr.
+65	STAC	Musically detached: Abbr.
+35
+1	COWS	Mad ones are bad
+2	OOOLA	Alley Oop's lady
+3	LDR	Pres., e.g.
+4	LSD	It was dropped in the '60s
+5	SHTETL	Jewish village
+6	ABOU	"___ Ben Adhem"
+7	MRC	Richie's dad, to the Fonz
+8	CALIFORNIASUIT	Movie adaptation of "L.A. Law"?
+9	SKITOW	One way to the top?
+10	ASASON	How a particularly close nephew may be treated
+11	TRICEPS	Arm muscle
+12	WEEKLYPLANNERS	Books for jotting down appointments
+14	EEW	"Ick!"
+17	LIN	Chinese author ___ Yutang
+18	SAFEHAVEN	Refuge
+22	CASING	Sausage part
+23	OSIS	Medical suffix
+27	ATOAST	Wedding proposal?
+28	TOR	Desolate spot
+31	MAI	Part of le printemps
+34	UAW	Sit-down strikers of 1937: Abbr.
+36	NOA	"...___ thousand times..."
+37	FLEA	Cause of an itch
+38	DEFERTO	Let have the final word
+42	ASHPAN	Fireplace receptacle
+43	BEIRUT	Mideast hub
+45	ATONED	Made right
+47	LEN	Cariou of Broadway's "Sweeney Todd"
+50	SITKA	First territorial capital of Alaska
+53	TSA	Grp. doing pat-downs
+54	VEEP	Prez's stand-in
+56	NSEC	Tiny fraction of time: Abbr.
+58	ELP	Assist, to Eliza Doolittle
+59	PTS	Jar sizes: Abbr.
+60	EAT	Fill up on

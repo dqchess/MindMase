@@ -1,0 +1,115 @@
+grid_9x9_103
+9
+0	1	1	B	0	0	3	1	BAP	0	0	3	1	BMX
+0	1	2	A	0	0	3	0		0	1	3	1	ATO
+0	1	3	P	0	0	3	0		0	2	3	1	PLU
+1	0	0	#	0	4	0	0		1	3	7	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	7	0	
+0	1	4	T	0	6	3	1	TAV	0	6	5	1	TWOPM
+0	1	5	A	0	6	3	0		0	7	5	1	ANASS
+0	1	6	V	0	6	3	0		0	8	3	1	VSH
+0	1	7	M	1	0	4	1	MTLE	0	0	3	0	
+0	0	0	T	1	0	4	0		0	1	3	0	
+0	0	0	L	1	0	4	0		0	2	3	0	
+0	1	8	E	1	0	4	0		1	3	7	1	ETVOILA
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	O	1	5	4	1	OWNS	1	5	7	1	ONEYEAR
+0	0	0	W	1	5	4	0		0	6	5	0	
+0	0	0	N	1	5	4	0		0	7	5	0	
+0	0	0	S	1	5	4	0		0	8	3	0	
+0	1	10	X	2	0	4	1	XOUT	0	0	3	0	
+0	0	0	O	2	0	4	0		0	1	3	0	
+0	0	0	U	2	0	4	0		0	2	3	0	
+0	0	0	T	2	0	4	0		1	3	7	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	N	2	5	4	1	NOAH	1	5	7	0	
+0	0	0	O	2	5	4	0		0	6	5	0	
+0	0	0	A	2	5	4	0		0	7	5	0	
+0	0	0	H	2	5	4	0		0	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	5	0		4	2	5	0	
+0	1	12	V	3	3	5	1	VEEPS	1	3	7	0	
+0	1	13	E	3	3	5	0		3	4	3	1	ENV
+0	0	0	E	3	3	5	0		1	5	7	0	
+0	0	0	P	3	3	5	0		0	6	5	0	
+0	0	0	S	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	E	4	1	7	1	EPONYMS	4	1	5	1	ENTES
+0	1	15	P	4	1	7	0		4	2	5	1	PARKA
+0	0	0	O	4	1	7	0		1	3	7	0	
+0	0	0	N	4	1	7	0		3	4	3	0	
+0	0	0	Y	4	1	7	0		1	5	7	0	
+0	0	0	M	4	1	7	0		0	6	5	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	16	N	5	1	5	1	NAIVE	4	1	5	0	
+0	0	0	A	5	1	5	0		4	2	5	0	
+0	0	0	I	5	1	5	0		1	3	7	0	
+0	0	0	V	5	1	5	0		3	4	3	0	
+0	0	0	E	5	1	5	0		1	5	7	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	17	C	6	0	4	1	CTRL	6	0	3	1	CER
+0	0	0	T	6	0	4	0		4	1	5	0	
+0	0	0	R	6	0	4	0		4	2	5	0	
+0	0	0	L	6	0	4	0		1	3	7	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	18	A	6	5	4	1	ACHY	1	5	7	0	
+0	1	19	C	6	5	4	0		6	6	3	1	COP
+0	1	20	H	6	5	4	0		6	7	3	1	HCE
+0	1	21	Y	6	5	4	0		6	8	3	1	YAS
+0	1	22	E	7	0	4	1	EEKA	6	0	3	0	
+0	0	0	E	7	0	4	0		4	1	5	0	
+0	0	0	K	7	0	4	0		4	2	5	0	
+0	0	0	A	7	0	4	0		1	3	7	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	23	R	7	5	4	1	ROCA	1	5	7	0	
+0	0	0	O	7	5	4	0		6	6	3	0	
+0	0	0	C	7	5	4	0		6	7	3	0	
+0	0	0	A	7	5	4	0		6	8	3	0	
+0	1	24	R	8	0	3	1	RSA	6	0	3	0	
+0	0	0	S	8	0	3	0		4	1	5	0	
+0	0	0	A	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	P	8	6	3	1	PES	6	6	3	0	
+0	0	0	E	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	BAP	Bill Clinton's relig. affiliation
+4	TAV	Hebrew T
+7	MTLE	Famed "7" wearer
+9	OWNS	Possesses
+10	XOUT	Delete
+11	NOAH	Biblical captain for 40 days and 40 nights
+12	VEEPS	Number 2's
+14	EPONYMS	Those who lend their names
+16	NAIVE	Foolable
+17	CTRL	Abbr. associated with certain shortcuts
+18	ACHY	Fluish, perhaps
+22	EEKA	Reggae's ___-Mouse
+23	ROCA	Jay-Z's ___-Fella Records
+24	RSA	Cape Town's country: Abbr.
+25	PES	Foot: Lat.
+15
+1	BMX	Brand of racing bikes
+2	ATO	Volume 1 heading starter
+3	PLU	Perfect start?
+4	TWOPM	Soap slot, maybe
+5	ANASS	"Away! you are ___": Shak.
+6	VSH	One ___ time: 2 wds.
+8	ETVOILA	Unveiling cry
+9	ONEYEAR	Like many leases
+13	ENV	Stamp's place: Abbr.
+14	ENTES	Spanish beings
+15	PARKA	Arctic fur
+17	CER	Pedestrian, at times
+19	COP	Badge wearer
+20	HCE	Therefore
+21	YAS	Title syllables in a 1961 Lee Dorsey hit

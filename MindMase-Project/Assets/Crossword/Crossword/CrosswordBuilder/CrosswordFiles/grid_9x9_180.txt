@@ -1,0 +1,113 @@
+grid_9x9_180
+9
+0	1	1	I	0	0	3	1	IAT	0	0	3	1	INH
+0	1	2	A	0	0	3	0		0	1	3	1	ASE
+0	1	3	T	0	0	3	0		0	2	3	1	TYS
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	L	0	6	3	1	LTS	0	6	5	1	LOBAR
+0	1	5	T	0	6	3	0		0	7	5	1	THEDS
+0	1	6	S	0	6	3	0		0	8	4	1	SOLE
+0	1	7	N	1	0	5	1	NSYNC	0	0	3	0	
+0	0	0	S	1	0	5	0		0	1	3	0	
+0	0	0	Y	1	0	5	0		0	2	3	0	
+0	1	8	N	1	0	5	0		1	3	6	1	NASSER
+0	1	9	C	1	0	5	0		1	4	7	1	CRABBED
+1	0	0	#	1	6	3	0		2	5	6	0	
+0	1	10	O	1	6	3	1	OHO	0	6	5	0	
+0	0	0	H	1	6	3	0		0	7	5	0	
+0	0	0	O	1	6	3	0		0	8	4	0	
+0	1	11	H	2	0	9	1	HESAREBEL	0	0	3	0	
+0	0	0	E	2	0	9	0		0	1	3	0	
+0	0	0	S	2	0	9	0		0	2	3	0	
+0	0	0	A	2	0	9	0		1	3	6	0	
+0	0	0	R	2	0	9	0		1	4	7	0	
+0	1	12	E	2	0	9	0		2	5	6	1	ELAYNE
+0	0	0	B	2	0	9	0		0	6	5	0	
+0	0	0	E	2	0	9	0		0	7	5	0	
+0	0	0	L	2	0	9	0		0	8	4	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	6	0		4	2	5	0	
+0	1	13	S	3	3	6	1	SALADE	1	3	6	0	
+0	0	0	A	3	3	6	0		1	4	7	0	
+0	0	0	L	3	3	6	0		2	5	6	0	
+0	0	0	A	3	3	6	0		0	6	5	0	
+0	0	0	D	3	3	6	0		0	7	5	0	
+0	0	0	E	3	3	6	0		0	8	4	0	
+1	0	0	#	4	1	7	0		5	0	4	0	
+0	1	14	D	4	1	7	1	DISBARS	4	1	5	1	DANGS
+0	1	15	I	4	1	7	0		4	2	5	1	IMTOO
+0	0	0	S	4	1	7	0		1	3	6	0	
+0	0	0	B	4	1	7	0		1	4	7	0	
+0	0	0	A	4	1	7	0		2	5	6	0	
+0	0	0	R	4	1	7	0		0	6	5	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	16	C	5	0	6	1	CAMEBY	5	0	4	1	CENT
+0	0	0	A	5	0	6	0		4	1	5	0	
+0	0	0	M	5	0	6	0		4	2	5	0	
+0	0	0	E	5	0	6	0		1	3	6	0	
+0	0	0	B	5	0	6	0		1	4	7	0	
+0	0	0	Y	5	0	6	0		2	5	6	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	17	E	6	0	9	1	ENTRENOUS	5	0	4	0	
+0	0	0	N	6	0	9	0		4	1	5	0	
+0	0	0	T	6	0	9	0		4	2	5	0	
+0	0	0	R	6	0	9	0		1	3	6	0	
+0	0	0	E	6	0	9	0		1	4	7	0	
+0	0	0	N	6	0	9	0		2	5	6	0	
+0	1	18	O	6	0	9	0		6	6	3	1	OSU
+0	1	19	U	6	0	9	0		6	7	3	1	UAR
+0	1	20	S	6	0	9	0		6	8	3	1	SCI
+0	1	21	N	7	0	3	1	NGO	5	0	4	0	
+0	0	0	G	7	0	3	0		4	1	5	0	
+0	0	0	O	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	22	D	7	4	5	1	DESAC	1	4	7	0	
+0	0	0	E	7	4	5	0		2	5	6	0	
+0	0	0	S	7	4	5	0		6	6	3	0	
+0	0	0	A	7	4	5	0		6	7	3	0	
+0	0	0	C	7	4	5	0		6	8	3	0	
+0	1	23	T	8	0	3	1	TSO	5	0	4	0	
+0	0	0	S	8	0	3	0		4	1	5	0	
+0	0	0	O	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	24	U	8	6	3	1	URI	6	6	3	0	
+0	0	0	R	8	6	3	0		6	7	3	0	
+0	0	0	I	8	6	3	0		6	8	3	0	
+13
+1	IAT	"Am ___ risk?"
+4	LTS	Capts.' inferiors
+7	NSYNC	Group with the 2002 hit "Girlfriend"
+10	OHO	"What a pleasant surprise!"
+11	HESAREBEL	1962 Crystals hit
+13	SALADE	Serving from a gar
+14	DISBARS	Expels
+16	CAMEBY	Acquired
+17	ENTRENOUS	Privately
+21	NGO	Vietnam's ___ Dinh Diem
+22	DESAC	Cul-___
+23	TSO	General of Chinese menu fame
+24	URI	Altdorf is its capital
+15
+1	INH	Foot part
+2	ASE	"Peer Gynt" mother
+3	TYS	QB Detmer and others
+4	LOBAR	Pertaining to the lungs, e.g.
+5	THEDS	Things can go to them
+6	SOLE	___ proprietor
+8	NASSER	Former Egyptian leader with a lake named after him
+9	CRABBED	Found fault with
+12	ELAYNE	Funnywoman Boosler
+14	DANGS	Relatives of "Gee whiz" and "Shucks!"
+15	IMTOO	"___ old for this!"
+16	CENT	Trifling amount, in a phrase
+18	OSU	The Buckeyes, briefly
+19	UAR	1958-71 political inits.
+20	SCI	Poly-___ (college major)

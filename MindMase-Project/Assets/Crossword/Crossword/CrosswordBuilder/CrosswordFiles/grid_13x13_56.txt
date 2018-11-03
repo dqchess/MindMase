@@ -1,0 +1,233 @@
+grid_13x13_56
+13
+0	1	1	I	0	0	3	1	IFI	0	0	6	1	ITASCA
+0	1	2	F	0	0	3	0		0	1	6	1	FOLIOS
+0	1	3	I	0	0	3	0		0	2	13	1	IRISHCOUNTIES
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	T	0	4	3	1	TAC	0	4	3	1	TAN
+0	1	5	A	0	4	3	0		0	5	3	1	ADL
+0	1	6	C	0	4	3	0		0	6	13	1	COILPAINTINGS
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	7	T	0	9	3	1	TGI	0	9	3	1	TOF
+0	1	8	G	0	9	3	0		0	10	13	1	GROUNDRUNNING
+0	1	9	I	0	9	3	0		0	11	6	1	IRREGS
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	T	1	0	7	1	TORNADO	0	0	6	0	
+0	0	0	O	1	0	7	0		0	1	6	0	
+0	0	0	R	1	0	7	0		0	2	13	0	
+0	1	11	N	1	0	7	0		1	3	3	1	NES
+0	0	0	A	1	0	7	0		0	4	3	0	
+0	0	0	D	1	0	7	0		0	5	3	0	
+0	0	0	O	1	0	7	0		0	6	13	0	
+1	0	0	#	1	8	4	0		2	7	3	0	
+0	1	12	D	1	8	4	1	DORR	1	8	3	1	DEP
+0	0	0	O	1	8	4	0		0	9	3	0	
+0	0	0	R	1	8	4	0		0	10	13	0	
+0	0	0	R	1	8	4	0		0	11	6	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	A	2	0	13	1	ALIENLIFEFORM	0	0	6	0	
+0	0	0	L	2	0	13	0		0	1	6	0	
+0	0	0	I	2	0	13	0		0	2	13	0	
+0	0	0	E	2	0	13	0		1	3	3	0	
+0	0	0	N	2	0	13	0		0	4	3	0	
+0	0	0	L	2	0	13	0		0	5	3	0	
+0	0	0	I	2	0	13	0		0	6	13	0	
+0	1	14	F	2	0	13	0		2	7	3	1	FAB
+0	0	0	E	2	0	13	0		1	8	3	0	
+0	0	0	F	2	0	13	0		0	9	3	0	
+0	0	0	O	2	0	13	0		0	10	13	0	
+0	0	0	R	2	0	13	0		0	11	6	0	
+0	1	15	M	2	0	13	0		2	12	3	1	MAS
+0	1	16	S	3	0	4	1	SISS	0	0	6	0	
+0	0	0	I	3	0	4	0		0	1	6	0	
+0	0	0	S	3	0	4	0		0	2	13	0	
+0	0	0	S	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	17	L	3	6	3	1	LAP	0	6	13	0	
+0	0	0	A	3	6	3	0		2	7	3	0	
+0	0	0	P	3	6	3	0		1	8	3	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	18	U	3	10	3	1	UEA	0	10	13	0	
+0	0	0	E	3	10	3	0		0	11	6	0	
+0	0	0	A	3	10	3	0		2	12	3	0	
+0	1	19	C	4	0	3	1	COH	0	0	6	0	
+0	0	0	O	4	0	3	0		0	1	6	0	
+0	0	0	H	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	20	A	4	5	3	1	APB	4	5	3	1	AHH
+0	0	0	P	4	5	3	0		0	6	13	0	
+0	0	0	B	4	5	3	0		2	7	3	0	
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	21	E	4	9	4	1	ENGS	4	9	3	1	EDE
+0	0	0	N	4	9	4	0		0	10	13	0	
+0	0	0	G	4	9	4	0		0	11	6	0	
+0	0	0	S	4	9	4	0		2	12	3	0	
+0	1	22	A	5	0	3	1	ASC	0	0	6	0	
+0	0	0	S	5	0	3	0		0	1	6	0	
+0	0	0	C	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	23	T	5	4	3	1	THA	5	4	3	1	TEP
+0	0	0	H	5	4	3	0		4	5	3	0	
+0	0	0	A	5	4	3	0		0	6	13	0	
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	24	A	5	8	4	1	ADDS	5	8	3	1	ATO
+0	0	0	D	5	8	4	0		4	9	3	0	
+0	0	0	D	5	8	4	0		0	10	13	0	
+0	0	0	S	5	8	4	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	9	0		7	1	6	0	
+0	1	25	O	6	2	9	1	ONEHITTER	0	2	13	0	
+0	1	26	N	6	2	9	0		6	3	3	1	NYS
+0	0	0	E	6	2	9	0		5	4	3	0	
+0	0	0	H	6	2	9	0		4	5	3	0	
+0	0	0	I	6	2	9	0		0	6	13	0	
+0	1	27	T	6	2	9	0		6	7	3	1	TOE
+0	0	0	T	6	2	9	0		5	8	3	0	
+0	0	0	E	6	2	9	0		4	9	3	0	
+0	0	0	R	6	2	9	0		0	10	13	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	6	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	28	C	7	1	4	1	CUYP	7	1	6	1	CRUSTY
+0	0	0	U	7	1	4	0		0	2	13	0	
+0	0	0	Y	7	1	4	0		6	3	3	0	
+0	0	0	P	7	1	4	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	29	N	7	6	3	1	NOO	0	6	13	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	O	7	6	3	0		5	8	3	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	30	U	7	10	3	1	ULT	0	10	13	0	
+0	1	31	L	7	10	3	0		7	11	6	1	LESTER
+0	1	32	T	7	10	3	0		7	12	6	1	THEYRE
+0	1	33	U	8	0	4	1	URNS	8	0	3	1	UNI
+0	0	0	R	8	0	4	0		7	1	6	0	
+0	0	0	N	8	0	4	0		0	2	13	0	
+0	0	0	S	8	0	4	0		6	3	3	0	
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	34	R	8	5	3	1	RTE	8	5	3	1	RBI
+0	0	0	T	8	5	3	0		0	6	13	0	
+0	0	0	E	8	5	3	0		6	7	3	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	35	N	8	10	3	1	NEH	0	10	13	0	
+0	0	0	E	8	10	3	0		7	11	6	0	
+0	0	0	H	8	10	3	0		7	12	6	0	
+0	1	36	N	9	0	3	1	NUT	8	0	3	0	
+0	0	0	U	9	0	3	0		7	1	6	0	
+0	0	0	T	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	37	U	9	4	3	1	UBI	9	4	3	1	USN
+0	0	0	B	9	4	3	0		8	5	3	0	
+0	0	0	I	9	4	3	0		0	6	13	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	38	O	9	9	4	1	ONSE	9	9	3	1	ORA
+0	0	0	N	9	9	4	0		0	10	13	0	
+0	0	0	S	9	9	4	0		7	11	6	0	
+0	0	0	E	9	9	4	0		7	12	6	0	
+0	1	39	I	10	0	13	1	ISINSINCERITY	8	0	3	0	
+0	0	0	S	10	0	13	0		7	1	6	0	
+0	0	0	I	10	0	13	0		0	2	13	0	
+0	1	40	N	10	0	13	0		10	3	3	1	NEL
+0	0	0	S	10	0	13	0		9	4	3	0	
+0	0	0	I	10	0	13	0		8	5	3	0	
+0	0	0	N	10	0	13	0		0	6	13	0	
+0	1	41	C	10	0	13	0		10	7	3	1	CRI
+0	1	42	E	10	0	13	0		10	8	3	1	EON
+0	0	0	R	10	0	13	0		9	9	3	0	
+0	0	0	I	10	0	13	0		0	10	13	0	
+0	0	0	T	10	0	13	0		7	11	6	0	
+0	0	0	Y	10	0	13	0		7	12	6	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	43	T	11	1	4	1	TEEN	7	1	6	0	
+0	0	0	E	11	1	4	0		0	2	13	0	
+0	0	0	E	11	1	4	0		10	3	3	0	
+0	0	0	N	11	1	4	0		9	4	3	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	44	G	11	6	7	1	GROANER	0	6	13	0	
+0	0	0	R	11	6	7	0		10	7	3	0	
+0	0	0	O	11	6	7	0		10	8	3	0	
+0	0	0	A	11	6	7	0		9	9	3	0	
+0	0	0	N	11	6	7	0		0	10	13	0	
+0	0	0	E	11	6	7	0		7	11	6	0	
+0	0	0	R	11	6	7	0		7	12	6	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	45	Y	12	1	3	1	YSL	7	1	6	0	
+0	0	0	S	12	1	3	0		0	2	13	0	
+0	0	0	L	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	46	S	12	6	3	1	SIN	0	6	13	0	
+0	0	0	I	12	6	3	0		10	7	3	0	
+0	0	0	N	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	47	G	12	10	3	1	GRE	0	10	13	0	
+0	0	0	R	12	10	3	0		7	11	6	0	
+0	0	0	E	12	10	3	0		7	12	6	0	
+31
+1	IFI	"___ were you..."
+4	TAC	Washington State's Sea-___ Airport
+7	TGI	___ Friday's (restaurant)
+10	TORNADO	Alley ___
+12	DORR	U.S. rebellion leader of 1842
+13	ALIENLIFEFORM	NASA concern
+16	SISS	Snake sound
+17	LAP	Dog's drink, or resting spot
+18	UEA	Pupil's place
+19	COH	"Suzanne" songwriter
+20	APB	N.Y.P.D. alert
+21	ENGS	M.I.T. grads: Abbr.
+22	ASC	Camera operator's org.
+23	THA	Jennifer Lopez album "J to ___ LO!"
+24	ADDS	Takes on
+25	ONEHITTER	Pitcher's feat
+28	CUYP	Dutch landscapist Aelbert ___
+29	NOO	Emergency call
+30	ULT	Last in a sequence: Abbr.
+33	URNS	Some cloisonn
+34	RTE	A U.P.S. driver has one: Abbr.
+35	NEH	O.T. book
+36	NUT	It fits under a head
+37	UBI	Ancient query
+38	ONSE	Beginning
+39	ISINSINCERITY	End of the quote
+43	TEEN	Tiger Beat reader
+44	GROANER	Certain witticism
+45	YSL	Monogram on a scarf
+46	SIN	Envy or gluttony
+47	GRE	Educ. Testing Service offering
+29
+1	ITASCA	Lake ___, source of the Mississippi
+2	FOLIOS	Shakespearean volumes
+3	IRISHCOUNTIES	What the answers to the seven starred clues all are or contain
+4	TAN	Buff
+5	ADL	B'nai B'rith watchdog org.
+6	COILPAINTINGS	Pictures of Slinkys?
+7	TOF	___ a kind (pair)
+8	GROUNDRUNNING	*Get off to a quick start
+9	IRREGS	Discount store offerings, for short
+11	NES	Video game letters
+12	DEP	Bank statement abbr.
+14	FAB	Just great
+15	MAS	Family V.I.P.'s
+20	AHH	Sound of satisfaction
+21	EDE	Dutch piano center
+23	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+24	ATO	___ Z (everything)
+26	NYS	Yankee insignias
+27	TOE	Balance beam gripper
+28	CRUSTY	Gruff
+31	LESTER	Richard ___, director of "Help!" and "A Hard Day's Night"
+32	THEYRE	"___ Playing Our Song" (1979 song)
+33	UNI	Aussie's place of higher learning
+34	RBI	A single may get you one, briefly
+37	USN	Milit. branch
+38	ORA	Pray, to Publius
+40	NEL	"Tutte ___ cor vi sento" (Mozart aria)
+41	CRI	Shout across the Seine?
+42	EON	Unit of time

@@ -1,0 +1,233 @@
+grid_13x13_71
+13
+0	1	1	I	0	0	3	1	INQ	0	0	3	1	IVA
+0	1	2	N	0	0	3	0		0	1	3	1	NEU
+0	1	3	Q	0	0	3	0		0	2	13	1	QANDASESSIONS
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	C	0	4	3	1	CUD	0	4	6	1	COSELL
+0	1	5	U	0	4	3	0		0	5	7	1	USEALOT
+0	1	6	D	0	4	3	0		0	6	3	1	DCL
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	B	0	10	3	1	BAT	0	10	13	1	BEWAREKNUCKLE
+0	1	8	A	0	10	3	0		0	11	3	1	ABB
+0	1	9	T	0	10	3	0		0	12	3	1	TBA
+0	1	10	V	1	0	9	1	VEALOSCAR	0	0	3	0	
+0	0	0	E	1	0	9	0		0	1	3	0	
+0	0	0	A	1	0	9	0		0	2	13	0	
+0	1	11	L	1	0	9	0		1	3	3	1	LTR
+0	0	0	O	1	0	9	0		0	4	6	0	
+0	0	0	S	1	0	9	0		0	5	7	0	
+0	0	0	C	1	0	9	0		0	6	3	0	
+0	1	12	A	1	0	9	0		1	7	3	1	AMC
+0	1	13	R	1	0	9	0		1	8	4	1	RAUL
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	E	1	10	3	1	EBB	0	10	13	0	
+0	0	0	B	1	10	3	0		0	11	3	0	
+0	0	0	B	1	10	3	0		0	12	3	0	
+0	1	15	A	2	0	9	1	AUNTSELMA	0	0	3	0	
+0	0	0	U	2	0	9	0		0	1	3	0	
+0	0	0	N	2	0	9	0		0	2	13	0	
+0	0	0	T	2	0	9	0		1	3	3	0	
+0	0	0	S	2	0	9	0		0	4	6	0	
+0	0	0	E	2	0	9	0		0	5	7	0	
+0	0	0	L	2	0	9	0		0	6	3	0	
+0	0	0	M	2	0	9	0		1	7	3	0	
+0	0	0	A	2	0	9	0		1	8	4	0	
+1	0	0	#	2	10	3	0		3	9	5	0	
+0	1	16	W	2	10	3	1	WBA	0	10	13	0	
+0	0	0	B	2	10	3	0		0	11	3	0	
+0	0	0	A	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	5	0	
+0	1	17	D	3	2	4	1	DREA	0	2	13	0	
+0	0	0	R	3	2	4	0		1	3	3	0	
+0	0	0	E	3	2	4	0		0	4	6	0	
+0	0	0	A	3	2	4	0		0	5	7	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	18	C	3	7	4	1	CUTA	1	7	3	0	
+0	0	0	U	3	7	4	0		1	8	4	0	
+0	1	19	T	3	7	4	0		3	9	5	1	TOBEG
+0	0	0	A	3	7	4	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	20	J	4	0	3	1	JTA	4	0	3	1	JAL
+0	1	21	T	4	0	3	0		4	1	5	1	TBOLT
+0	0	0	A	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	5	0	
+0	1	22	L	4	4	3	1	LLB	0	4	6	0	
+0	0	0	L	4	4	3	0		0	5	7	0	
+0	1	23	B	4	4	3	0		4	6	5	1	BMOCS
+1	0	0	#	4	8	4	0		5	7	0	0	
+0	1	24	L	4	8	4	1	LORE	1	8	4	0	
+0	0	0	O	4	8	4	0		3	9	5	0	
+0	0	0	R	4	8	4	0		0	10	13	0	
+0	1	25	E	4	8	4	0		4	11	5	1	EYEON
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	26	A	5	0	7	1	ABSALOM	4	0	3	0	
+0	0	0	B	5	0	7	0		4	1	5	0	
+0	0	0	S	5	0	7	0		0	2	13	0	
+0	1	27	A	5	0	7	0		5	3	5	1	ABEAD
+0	0	0	L	5	0	7	0		0	4	6	0	
+0	0	0	O	5	0	7	0		0	5	7	0	
+0	0	0	M	5	0	7	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	7	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	28	B	5	9	3	1	BEY	3	9	5	0	
+0	0	0	E	5	9	3	0		0	10	13	0	
+0	0	0	Y	5	9	3	0		4	11	5	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	L	6	0	4	1	LOEB	4	0	3	0	
+0	0	0	O	6	0	4	0		4	1	5	0	
+0	0	0	E	6	0	4	0		0	2	13	0	
+0	0	0	B	6	0	4	0		5	3	5	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	30	T	6	5	3	1	TOT	0	5	7	0	
+0	0	0	O	6	5	3	0		4	6	5	0	
+0	1	31	T	6	5	3	0		6	7	7	1	THEATRE
+1	0	0	#	6	9	4	0		7	8	6	0	
+0	1	32	E	6	9	4	1	EKED	3	9	5	0	
+0	0	0	K	6	9	4	0		0	10	13	0	
+0	0	0	E	6	9	4	0		4	11	5	0	
+0	1	33	D	6	9	4	0		6	12	3	1	DNC
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	34	L	7	1	3	1	LSE	4	1	5	0	
+0	0	0	S	7	1	3	0		0	2	13	0	
+0	0	0	E	7	1	3	0		5	3	5	0	
+1	0	0	#	7	5	0	0		8	4	4	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	35	C	7	6	7	1	CHIGNON	4	6	5	0	
+0	0	0	H	7	6	7	0		6	7	7	0	
+0	1	36	I	7	6	7	0		7	8	6	1	INCURS
+0	0	0	G	7	6	7	0		3	9	5	0	
+0	0	0	N	7	6	7	0		0	10	13	0	
+0	0	0	O	7	6	7	0		4	11	5	0	
+0	0	0	N	7	6	7	0		6	12	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	37	T	8	1	4	1	TSAR	4	1	5	0	
+0	0	0	S	8	1	4	0		0	2	13	0	
+0	0	0	A	8	1	4	0		5	3	5	0	
+0	1	38	R	8	1	4	0		8	4	4	1	RANG
+1	0	0	#	8	6	3	0		9	5	3	0	
+0	1	39	S	8	6	3	1	SEN	4	6	5	0	
+0	0	0	E	8	6	3	0		6	7	7	0	
+0	0	0	N	8	6	3	0		7	8	6	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	40	U	8	10	3	1	UNC	0	10	13	0	
+0	0	0	N	8	10	3	0		4	11	5	0	
+0	0	0	C	8	10	3	0		6	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	41	I	9	2	4	1	IDAE	0	2	13	0	
+0	0	0	D	9	2	4	0		5	3	5	0	
+0	0	0	A	9	2	4	0		8	4	4	0	
+0	1	42	E	9	2	4	0		9	5	3	1	EAU
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	43	A	9	7	4	1	ACDC	6	7	7	0	
+0	0	0	C	9	7	4	0		7	8	6	0	
+0	1	44	D	9	7	4	0		9	9	3	1	DCI
+0	0	0	C	9	7	4	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	U	10	0	3	1	UTO	10	0	3	1	URL
+0	1	46	T	10	0	3	0		10	1	3	1	TAI
+0	0	0	O	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	9	0		11	3	0	0	
+0	1	47	N	10	4	9	1	NANTUCKET	8	4	4	0	
+0	0	0	A	10	4	9	0		9	5	3	0	
+0	1	48	N	10	4	9	0		10	6	3	1	NEI
+0	0	0	T	10	4	9	0		6	7	7	0	
+0	0	0	U	10	4	9	0		7	8	6	0	
+0	0	0	C	10	4	9	0		9	9	3	0	
+0	0	0	K	10	4	9	0		0	10	13	0	
+0	1	49	E	10	4	9	0		10	11	3	1	ELG
+0	1	50	T	10	4	9	0		10	12	3	1	TAG
+0	1	51	R	11	0	3	1	RAN	10	0	3	0	
+0	0	0	A	11	0	3	0		10	1	3	0	
+0	0	0	N	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	9	0		12	3	0	0	
+0	1	52	G	11	4	9	1	GUERRILLA	8	4	4	0	
+0	0	0	U	11	4	9	0		9	5	3	0	
+0	0	0	E	11	4	9	0		10	6	3	0	
+0	0	0	R	11	4	9	0		6	7	7	0	
+0	0	0	R	11	4	9	0		7	8	6	0	
+0	0	0	I	11	4	9	0		9	9	3	0	
+0	0	0	L	11	4	9	0		0	10	13	0	
+0	0	0	L	11	4	9	0		10	11	3	0	
+0	0	0	A	11	4	9	0		10	12	3	0	
+0	1	53	L	12	0	3	1	LIS	10	0	3	0	
+0	0	0	I	12	0	3	0		10	1	3	0	
+0	0	0	S	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	54	I	12	6	3	1	IES	10	6	3	0	
+0	0	0	E	12	6	3	0		6	7	7	0	
+0	0	0	S	12	6	3	0		7	8	6	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	E	12	10	3	1	EGG	0	10	13	0	
+0	0	0	G	12	10	3	0		10	11	3	0	
+0	0	0	G	12	10	3	0		10	12	3	0	
+31
+1	INQ	Govt. probe
+4	CUD	Elsie's chew
+7	BAT	Chiropterologist's interest
+10	VEALOSCAR	Wilde's entree?
+14	EBB	Fall off
+15	AUNTSELMA	Marge's sister, to Bart Simpson
+16	WBA	Bout-sanctioning org.
+17	DREA	Emmy-winning actress ___ de Matteo
+18	CUTA	Transect
+20	JTA	Interim rulers
+22	LLB	Barrister's deg.
+24	LORE	It's passed down through the ages
+26	ABSALOM	Brother of Tamar, in the Bible
+28	BEY	Old Egyptian title
+29	LOEB	Pop singer Lisa
+30	TOT	Crib sheet user
+32	EKED	Just managed, with "out"
+34	LSE	End of many an E-mail address
+35	CHIGNON	Hair bun
+37	TSAR	Leader before Lenin
+39	SEN	Hill person: Abbr.
+40	UNC	Jordan left it after his jr. year
+41	IDAE	Family name suffix in taxonomy
+43	ACDC	Like some electric circuits
+45	UTO	___-Aztecan
+47	NANTUCKET	Noted whaling port, once
+51	RAN	Was on the ticket
+52	GUERRILLA	Castro, prior to 1959
+53	LIS	A fleur
+54	IES	What "y" might become
+55	EGG	Item scrambled or poached
+29
+1	IVA	___ Archer, with whom Sam Spade had an affair
+2	NEU	Big word in German ads
+3	QANDASESSIONS	Informative dialogues
+4	COSELL	Howard who announced "Down goes Frazier!"
+5	USEALOT	Wear out, potentially
+6	DCL	Mid seventh-century year
+7	BEWAREKNUCKLE	Terse tip for a street fighter?
+8	ABB	Hit Brit sitcom
+9	TBA	Up in the air, for short
+11	LTR	Epistle: Abbr.
+12	AMC	___ Theaters (national cinema chain)
+13	RAUL	Outfielder Mondesi
+19	TOBEG	"Ain't Too Proud ___"
+20	JAL	Carrier to Kyoto, in brief
+21	TBOLT	It has a crosspiece for a head
+23	BMOCS	Class pres. and others
+25	EYEON	Keep an ___ (watch)
+27	ABEAD	Draw ___ on (aim at)
+31	THEATRE	Locale for an Olivier Award winner
+33	DNC	Leadership org. opposed to the G.O.P.
+36	INCURS	Racks up
+38	RANG	Gave a buzz
+42	EAU	___ de toilette
+44	DCI	Early seventh-century year
+45	URL	Net location
+46	TAI	"___-Pan" (1966 best seller)
+48	NEI	Verdi's "___ giardin del bello"
+49	ELG	"Les Girls" actress Taina
+50	TAG	Child's play?

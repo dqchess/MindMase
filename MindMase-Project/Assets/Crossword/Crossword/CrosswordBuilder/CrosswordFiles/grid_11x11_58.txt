@@ -1,0 +1,171 @@
+grid_11x11_58
+11
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	M	0	2	3	1	MOB	0	2	5	1	MUBLE
+0	1	2	O	0	2	3	0		0	3	3	1	ODA
+0	1	3	B	0	2	3	0		0	4	4	1	BEDS
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	I	0	7	3	1	ITT	0	7	3	1	IGA
+0	1	5	T	0	7	3	0		0	8	5	1	TUNAS
+0	1	6	T	0	7	3	0		0	9	5	1	TETRA
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	P	1	0	5	1	PRUDE	1	0	3	1	PIS
+0	1	8	R	1	0	5	0		1	1	4	1	RNAS
+0	0	0	U	1	0	5	0		0	2	5	0	
+0	0	0	D	1	0	5	0		0	3	3	0	
+0	0	0	E	1	0	5	0		0	4	4	0	
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	9	A	1	6	5	1	AGUES	1	6	5	1	ACOOL
+0	0	0	G	1	6	5	0		0	7	3	0	
+0	0	0	U	1	6	5	0		0	8	5	0	
+0	0	0	E	1	6	5	0		0	9	5	0	
+0	1	10	S	1	6	5	0		1	10	3	1	SSE
+0	1	11	I	2	0	5	1	INBAD	1	0	3	0	
+0	0	0	N	2	0	5	0		1	1	4	0	
+0	0	0	B	2	0	5	0		0	2	5	0	
+0	0	0	A	2	0	5	0		0	3	3	0	
+0	0	0	D	2	0	5	0		0	4	4	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	C	2	6	5	1	CANTS	1	6	5	0	
+0	0	0	A	2	6	5	0		0	7	3	0	
+0	0	0	N	2	6	5	0		0	8	5	0	
+0	0	0	T	2	6	5	0		0	9	5	0	
+0	0	0	S	2	6	5	0		1	10	3	0	
+0	1	13	S	3	0	3	1	SAL	1	0	3	0	
+0	0	0	A	3	0	3	0		1	1	4	0	
+0	0	0	L	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	S	3	4	3	1	STO	0	4	4	0	
+0	1	15	T	3	4	3	0		3	5	5	1	TIBNS
+0	0	0	O	3	4	3	0		1	6	5	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	A	3	8	3	1	ARE	0	8	5	0	
+0	0	0	R	3	8	3	0		0	9	5	0	
+0	0	0	E	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	S	4	1	3	1	SES	1	1	4	0	
+0	0	0	E	4	1	3	0		0	2	5	0	
+0	1	18	S	4	1	3	0		4	3	3	1	SUM
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	19	I	4	5	5	1	IOUSA	3	5	5	0	
+0	0	0	O	4	5	5	0		1	6	5	0	
+0	1	20	U	4	5	5	0		4	7	3	1	UEY
+0	0	0	S	4	5	5	0		0	8	5	0	
+0	0	0	A	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	21	U	5	3	5	1	UMBLE	4	3	3	0	
+0	1	22	M	5	3	5	0		5	4	5	1	MOOGS
+0	0	0	B	5	3	5	0		3	5	5	0	
+0	0	0	L	5	3	5	0		1	6	5	0	
+0	0	0	E	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	23	T	6	1	5	1	TIMON	6	1	5	1	TONOF
+0	1	24	I	6	1	5	0		6	2	5	1	ISBAD
+0	0	0	M	6	1	5	0		4	3	3	0	
+0	0	0	O	6	1	5	0		5	4	5	0	
+0	0	0	N	6	1	5	0		3	5	5	0	
+1	0	0	#	6	7	3	0		7	6	4	0	
+0	1	25	Y	6	7	3	1	YAR	4	7	3	0	
+0	1	26	A	6	7	3	0		6	8	5	1	ADEAF
+0	1	27	R	6	7	3	0		6	9	4	1	RVER
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	28	M	7	0	3	1	MOS	7	0	3	1	MUM
+0	0	0	O	7	0	3	0		6	1	5	0	
+0	0	0	S	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	29	O	7	4	3	1	OSS	5	4	5	0	
+0	0	0	S	7	4	3	0		3	5	5	0	
+0	1	30	S	7	4	3	0		7	6	4	1	STOS
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	31	D	7	8	3	1	DVD	6	8	5	0	
+0	0	0	V	7	8	3	0		6	9	4	0	
+0	1	32	D	7	8	3	0		7	10	3	1	DTS
+0	1	33	U	8	0	5	1	UNBAG	7	0	3	0	
+0	0	0	N	8	0	5	0		6	1	5	0	
+0	0	0	B	8	0	5	0		6	2	5	0	
+0	1	34	A	8	0	5	0		8	3	3	1	ATA
+0	0	0	G	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	35	T	8	6	5	1	TWEET	7	6	4	0	
+0	1	36	W	8	6	5	0		8	7	3	1	WMP
+0	0	0	E	8	6	5	0		6	8	5	0	
+0	0	0	E	8	6	5	0		6	9	4	0	
+0	0	0	T	8	6	5	0		7	10	3	0	
+0	1	37	M	9	0	5	1	MOATS	7	0	3	0	
+0	0	0	O	9	0	5	0		6	1	5	0	
+0	0	0	A	9	0	5	0		6	2	5	0	
+0	0	0	T	9	0	5	0		8	3	3	0	
+0	0	0	S	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	38	O	9	6	5	1	OMARS	7	6	4	0	
+0	0	0	M	9	6	5	0		8	7	3	0	
+0	0	0	A	9	6	5	0		6	8	5	0	
+0	0	0	R	9	6	5	0		6	9	4	0	
+0	0	0	S	9	6	5	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	39	F	10	1	3	1	FDA	6	1	5	0	
+0	0	0	D	10	1	3	0		6	2	5	0	
+0	0	0	A	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	40	S	10	6	3	1	SPF	7	6	4	0	
+0	0	0	P	10	6	3	0		8	7	3	0	
+0	0	0	F	10	6	3	0		6	8	5	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	MOB	Syndicate
+4	ITT	Conglomerate in White Plains, N.Y.
+7	PRUDE	Victorian, maybe
+9	AGUES	Malaria symptoms
+11	INBAD	On the outs (with)
+12	CANTS	Pitches
+13	SAL	___ ammoniac (mineral found around volcanic vents)
+14	STO	Put away
+16	ARE	Is after you?
+17	SES	Parisian possessive
+19	IOUSA	2008 documentary about the national debt
+21	UMBLE	Like Uriah Heep
+23	TIMON	Title character in Shakespeare
+25	YAR	Shostakovich's "Babi ___" Symphony
+28	MOS	Wks. and wks.
+29	OSS	C.I.A. predecessor
+31	DVD	Netflix mailing
+33	UNBAG	Remove from a sack
+35	TWEET	Post a modern status update
+37	MOATS	Deep ditches
+38	OMARS	Taliban mullah and others
+39	FDA	Approval-granting org.
+40	SPF	Sunblock letters
+23
+1	MUBLE	Poor orator, perhaps
+2	ODA	Concubine's room
+3	BEDS	Inn inventory
+4	IGA	Supermarket with a red oval logo
+5	TUNAS	Skipjacks and bluefins
+6	TETRA	Di- doubled
+7	PIS	Mathematical constants
+8	RNAS	They're stranded in the body
+9	ACOOL	Get ___ reception
+10	SSE	NNW's opposite
+15	TIBNS	Roof of the World natives
+18	SUM	Totality
+20	UEY	Driver's one-eighty
+22	MOOGS	Early synthesizers
+23	TONOF	___ bricks
+24	ISBAD	Misbehaves
+26	ADEAF	Turn ___ ear
+27	RVER	Winnebago owner
+28	MUM	England's Queen ___
+30	STOS	Things on rings
+32	DTS	Jimjams
+34	ATA	Tell ___ glance
+36	WMP	Writer Fleming

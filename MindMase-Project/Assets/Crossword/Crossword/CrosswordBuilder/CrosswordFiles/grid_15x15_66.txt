@@ -1,0 +1,307 @@
+grid_15x15_66
+15
+0	1	1	D	0	0	3	1	DBA	0	0	3	1	DNG
+0	1	2	B	0	0	3	0		0	1	3	1	BUR
+0	1	3	A	0	0	3	0		0	2	3	1	ANO
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	8	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	M	0	6	3	1	MTA	0	6	3	1	MCC
+0	1	5	T	0	6	3	0		0	7	3	1	TKL
+0	1	6	A	0	6	3	0		0	8	3	1	AYE
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	7	P	0	12	3	1	PAX	0	12	11	1	PLANTAGENET
+0	1	8	A	0	12	3	0		0	13	6	1	AMNION
+0	1	9	X	0	12	3	0		0	14	5	1	XPDNC
+0	1	10	N	1	0	3	1	NUN	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	3	0	
+0	0	0	N	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	11	D	1	4	5	1	DICKY	1	4	8	1	DECLASSE
+0	1	12	I	1	4	5	0		1	5	3	1	IRK
+0	0	0	C	1	4	5	0		0	6	3	0	
+0	0	0	K	1	4	5	0		0	7	3	0	
+0	0	0	Y	1	4	5	0		0	8	3	0	
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	13	L	1	10	5	1	LALMP	1	10	3	1	LEI
+0	1	14	A	1	10	5	0		1	11	3	1	ALG
+0	0	0	L	1	10	5	0		0	12	11	0	
+0	0	0	M	1	10	5	0		0	13	6	0	
+0	0	0	P	1	10	5	0		0	14	5	0	
+0	1	15	G	2	0	15	1	GROVERCLEVELAND	0	0	3	0	
+0	0	0	R	2	0	15	0		0	1	3	0	
+0	0	0	O	2	0	15	0		0	2	3	0	
+0	1	16	V	2	0	15	0		2	3	3	1	VED
+0	0	0	E	2	0	15	0		1	4	8	0	
+0	0	0	R	2	0	15	0		1	5	3	0	
+0	0	0	C	2	0	15	0		0	6	3	0	
+0	0	0	L	2	0	15	0		0	7	3	0	
+0	0	0	E	2	0	15	0		0	8	3	0	
+0	1	17	V	2	0	15	0		2	9	3	1	VSH
+0	0	0	E	2	0	15	0		1	10	3	0	
+0	0	0	L	2	0	15	0		1	11	3	0	
+0	0	0	A	2	0	15	0		0	12	11	0	
+0	0	0	N	2	0	15	0		0	13	6	0	
+0	0	0	D	2	0	15	0		0	14	5	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	3	0		4	2	11	0	
+0	1	18	E	3	3	3	1	ECK	2	3	3	0	
+0	0	0	C	3	3	3	0		1	4	8	0	
+0	0	0	K	3	3	3	0		1	5	3	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	6	0		4	8	6	0	
+0	1	19	S	3	9	6	1	SIGNIN	2	9	3	0	
+0	0	0	I	3	9	6	0		1	10	3	0	
+0	0	0	G	3	9	6	0		1	11	3	0	
+0	0	0	N	3	9	6	0		0	12	11	0	
+0	0	0	I	3	9	6	0		0	13	6	0	
+0	0	0	N	3	9	6	0		0	14	5	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	20	M	4	1	4	1	MCDL	4	1	4	1	MUNG
+0	1	21	C	4	1	4	0		4	2	11	1	CAUGHTACOLD
+0	0	0	D	4	1	4	0		2	3	3	0	
+0	0	0	L	4	1	4	0		1	4	8	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	3	0		5	6	6	0	
+0	1	22	S	4	7	3	1	SCH	4	7	7	1	STANDUP
+0	1	23	C	4	7	3	0		4	8	6	1	CANYON
+0	0	0	H	4	7	3	0		2	9	3	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	4	12	3	0		5	11	3	0	
+0	1	24	T	4	12	3	1	TOC	0	12	11	0	
+0	0	0	O	4	12	3	0		0	13	6	0	
+0	0	0	C	4	12	3	0		0	14	5	0	
+0	1	25	S	5	0	3	1	SUA	5	0	3	1	SAE
+0	0	0	U	5	0	3	0		4	1	4	0	
+0	0	0	A	5	0	3	0		4	2	11	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	26	A	5	4	5	1	ALETA	1	4	8	0	
+0	1	27	L	5	4	5	0		5	5	3	1	LAU
+0	1	28	E	5	4	5	0		5	6	6	1	EPNOZU
+0	0	0	T	5	4	5	0		4	7	7	0	
+0	0	0	A	5	4	5	0		4	8	6	0	
+1	0	0	#	5	10	0	0		6	9	0	0	
+1	0	0	#	5	11	3	0		6	10	8	0	
+0	1	29	I	5	11	3	1	IAN	5	11	3	1	IED
+0	0	0	A	5	11	3	0		0	12	11	0	
+0	0	0	N	5	11	3	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	30	A	6	0	3	1	ANU	5	0	3	0	
+0	0	0	N	6	0	3	0		4	1	4	0	
+0	0	0	U	6	0	3	0		4	2	11	0	
+1	0	0	#	6	4	5	0		7	3	3	0	
+0	1	31	S	6	4	5	1	SAPAN	1	4	8	0	
+0	0	0	A	6	4	5	0		5	5	3	0	
+0	0	0	P	6	4	5	0		5	6	6	0	
+0	0	0	A	6	4	5	0		4	7	7	0	
+0	0	0	N	6	4	5	0		4	8	6	0	
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	32	D	6	10	3	1	DEG	6	10	8	1	DISSOLVE
+0	0	0	E	6	10	3	0		5	11	3	0	
+0	0	0	G	6	10	3	0		0	12	11	0	
+1	0	0	#	6	14	0	0		7	13	4	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	33	E	7	0	15	1	EGGSSUNNYSIDEUP	5	0	3	0	
+0	0	0	G	7	0	15	0		4	1	4	0	
+0	0	0	G	7	0	15	0		4	2	11	0	
+0	1	34	S	7	0	15	0		7	3	3	1	SIT
+0	0	0	S	7	0	15	0		1	4	8	0	
+0	0	0	U	7	0	15	0		5	5	3	0	
+0	0	0	N	7	0	15	0		5	6	6	0	
+0	0	0	N	7	0	15	0		4	7	7	0	
+0	0	0	Y	7	0	15	0		4	8	6	0	
+0	1	35	S	7	0	15	0		7	9	3	1	SRI
+0	0	0	I	7	0	15	0		6	10	8	0	
+0	0	0	D	7	0	15	0		5	11	3	0	
+0	0	0	E	7	0	15	0		0	12	11	0	
+0	1	36	U	7	0	15	0		7	13	4	1	UOFA
+0	1	37	P	7	0	15	0		7	14	3	1	PMS
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	6	0	
+0	1	38	H	8	2	3	1	HIE	4	2	11	0	
+0	0	0	I	8	2	3	0		7	3	3	0	
+0	0	0	E	8	2	3	0		1	4	8	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	39	O	8	6	5	1	ODORS	5	6	6	0	
+0	0	0	D	8	6	5	0		4	7	7	0	
+0	0	0	O	8	6	5	0		4	8	6	0	
+0	0	0	R	8	6	5	0		7	9	3	0	
+0	0	0	S	8	6	5	0		6	10	8	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	40	N	8	12	3	1	NOM	0	12	11	0	
+0	0	0	O	8	12	3	0		7	13	4	0	
+0	0	0	M	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	5	0	
+0	1	41	T	9	1	3	1	TTT	9	1	6	1	TONEUP
+0	0	0	T	9	1	3	0		4	2	11	0	
+0	0	0	T	9	1	3	0		7	3	3	0	
+1	0	0	#	9	5	0	0		10	4	0	0	
+1	0	0	#	9	6	5	0		10	5	3	0	
+0	1	42	Z	9	6	5	1	ZUNIS	5	6	6	0	
+0	0	0	U	9	6	5	0		4	7	7	0	
+0	0	0	N	9	6	5	0		4	8	6	0	
+0	0	0	I	9	6	5	0		7	9	3	0	
+0	0	0	S	9	6	5	0		6	10	8	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	43	E	9	12	3	1	EFS	0	12	11	0	
+0	0	0	F	9	12	3	0		7	13	4	0	
+0	0	0	S	9	12	3	0		7	14	3	0	
+0	1	44	S	10	0	3	1	SOA	10	0	5	1	SALEP
+0	0	0	O	10	0	3	0		9	1	6	0	
+0	0	0	A	10	0	3	0		4	2	11	0	
+1	0	0	#	10	4	0	0		11	3	3	0	
+1	0	0	#	10	5	3	0		11	4	3	0	
+0	1	45	J	10	5	3	1	JUP	10	5	3	1	JNR
+0	0	0	U	10	5	3	0		5	6	6	0	
+0	0	0	P	10	5	3	0		4	7	7	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	4	0		11	9	3	0	
+0	1	46	O	10	10	4	1	OUTA	6	10	8	0	
+0	1	47	U	10	10	4	0		10	11	3	1	UBI
+0	0	0	T	10	10	4	0		0	12	11	0	
+0	0	0	A	10	10	4	0		7	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	48	A	11	0	6	1	ANCIEN	10	0	5	0	
+0	0	0	N	11	0	6	0		9	1	6	0	
+0	0	0	C	11	0	6	0		4	2	11	0	
+0	1	49	I	11	0	6	0		11	3	3	1	INE
+0	1	50	E	11	0	6	0		11	4	3	1	EAR
+0	0	0	N	11	0	6	0		10	5	3	0	
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	3	0		12	8	3	0	
+0	1	51	I	11	9	3	1	ILB	11	9	3	1	IAT
+0	0	0	L	11	9	3	0		6	10	8	0	
+0	0	0	B	11	9	3	0		10	11	3	0	
+1	0	0	#	11	13	0	0		12	12	3	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	52	L	12	0	15	1	LEONARDODAVINCI	10	0	5	0	
+0	0	0	E	12	0	15	0		9	1	6	0	
+0	0	0	O	12	0	15	0		4	2	11	0	
+0	0	0	N	12	0	15	0		11	3	3	0	
+0	0	0	A	12	0	15	0		11	4	3	0	
+0	0	0	R	12	0	15	0		10	5	3	0	
+0	1	53	D	12	0	15	0		12	6	3	1	DKA
+0	1	54	O	12	0	15	0		12	7	3	1	ONS
+0	1	55	D	12	0	15	0		12	8	3	1	DUI
+0	0	0	A	12	0	15	0		11	9	3	0	
+0	0	0	V	12	0	15	0		6	10	8	0	
+0	0	0	I	12	0	15	0		10	11	3	0	
+0	1	56	N	12	0	15	0		12	12	3	1	NOR
+0	1	57	C	12	0	15	0		12	13	3	1	CNN
+0	1	58	I	12	0	15	0		12	14	3	1	ITD
+0	1	59	E	13	0	5	1	EULER	10	0	5	0	
+0	0	0	U	13	0	5	0		9	1	6	0	
+0	0	0	L	13	0	5	0		4	2	11	0	
+0	0	0	E	13	0	5	0		11	3	3	0	
+0	0	0	R	13	0	5	0		11	4	3	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	60	K	13	6	5	1	KNUTE	12	6	3	0	
+0	0	0	N	13	6	5	0		12	7	3	0	
+0	0	0	U	13	6	5	0		12	8	3	0	
+0	0	0	T	13	6	5	0		11	9	3	0	
+0	0	0	E	13	6	5	0		6	10	8	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	61	O	13	12	3	1	ONT	12	12	3	0	
+0	0	0	N	13	12	3	0		12	13	3	0	
+0	0	0	T	13	12	3	0		12	14	3	0	
+0	1	62	P	14	0	3	1	PPD	10	0	5	0	
+0	0	0	P	14	0	3	0		9	1	6	0	
+0	0	0	D	14	0	3	0		4	2	11	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	63	A	14	6	3	1	ASI	12	6	3	0	
+0	0	0	S	14	6	3	0		12	7	3	0	
+0	0	0	I	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	64	R	14	12	3	1	RND	12	12	3	0	
+0	0	0	N	14	12	3	0		12	13	3	0	
+0	0	0	D	14	12	3	0		12	14	3	0	
+37
+1	DBA	Corp. alias abbr.
+4	MTA	Big Apple mass transit inits.
+7	PAX	Mars's opposite
+10	NUN	Taker of vows
+11	DICKY	Faux shirt
+13	LALMP	Flag features
+15	GROVERCLEVELAND	President who married in office
+18	ECK	Theologian who opposed Martin Luther
+19	SIGNIN	A security guard might ask you to do this
+20	MCDL	The year 1450
+22	SCH	Univ., e.g.
+24	TOC	List in a book's front: Abbr.
+25	SUA	___ sponte (of its own accord, at law)
+26	ALETA	Comic strip queen
+29	IAN	Bond's Fleming
+30	ANU	Akkadian god of heaven
+31	SAPAN	East Indian heartwood
+32	DEG	It often begins with "B."
+33	EGGSSUNNYSIDEUP	Two ...
+38	HIE	Tear
+39	ODORS	Offensive emanations
+40	NOM	What you're called at Notre Dame
+41	TTT	Game-winning cry
+42	ZUNIS	Pueblo builders
+43	EFS	Letters starting many military plane names
+44	SOA	"___ man walks into a bar ..."
+45	JUP	Hike
+46	OUTA	"I'm ___ here!"
+48	ANCIEN	Old, in France
+51	ILB	16 oz.
+52	LEONARDODAVINCI	Proto-helicopter designer
+59	EULER	Formulator of the quadratic reciprocity law
+60	KNUTE	Rockne of Notre Dame
+61	ONT	Where London is: Abbr.
+62	PPD	Mail order abbr.
+63	ASI	"Just ___ thought!"
+64	RND	Not sq.
+41
+1	DNG	Half a ring
+2	BUR	Clingy seedpod
+3	ANO	Mayo to mayo
+4	MCC	Turn-of-the-century year
+5	TKL	Damascus's land: Abbr.
+6	AYE	"Check, mate"
+7	PLANTAGENET	Henry II's house
+8	AMNION	Embryonic sac
+9	XPDNC	Advantageousness
+11	DECLASSE	Hardly chic
+12	IRK	Get to
+13	LEI	Pikake garland
+14	ALG	Junior high subj.
+16	VED	Indian author ___ Mehta, a staff writer for The New Yorker for more than 30 years
+17	VSH	One ___ time: 2 wds.
+20	MUNG	___ bean
+21	CAUGHTACOLD	Started sneezing and sniffling, say
+22	STANDUP	Some club entertainment
+23	CANYON	Echo location
+25	SAE	It facilitates replying to a MS.
+27	LAU	"The Art of Hitting .300" writer Charley
+28	EPNOZU	Wiped clean
+29	IED	Roadside bomb, for short
+32	DISSOLVE	Break up
+34	SIT	Obedience school command
+35	SRI	Respectful title
+36	UOFA	Tucson sch.
+37	PMS	10 Downing St. figures
+41	TONEUP	Get into shape
+44	SALEP	Drug made from orchids
+45	JNR	Dad's namesake: Abbr.
+47	UBI	Ancient query
+49	INE	Follower of Christ?
+50	EAR	Listener
+51	IAT	"Am ___ risk?"
+53	DKA	Longtime Chicago Bears coach
+54	ONS	Clip-___
+55	DUI	Result of too many rusty nails on the road?
+56	NOR	Its natl. anthem is "Ja, vi elsker dette landet"
+57	CNN	"Inside Politics" broadcaster
+58	ITD	"___ help a lot!"

@@ -1,0 +1,235 @@
+grid_13x13_98
+13
+0	1	1	I	0	0	3	1	IVE	0	0	3	1	ISL
+0	1	2	V	0	0	3	0		0	1	3	1	VIE
+0	1	3	E	0	0	3	0		0	2	7	1	ESSENES
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	M	0	4	3	1	MDC	0	4	4	1	MNEM
+0	1	5	D	0	4	3	0		0	5	5	1	DOSER
+0	1	6	C	0	4	3	0		0	6	3	1	CRS
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	7	N	0	9	3	1	NOH	0	9	4	1	NOTV
+0	1	8	O	0	9	3	0		0	10	5	1	OKIES
+0	1	9	H	0	9	3	0		0	11	5	1	HEAER
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	S	1	0	7	1	SISENOR	0	0	3	0	
+0	0	0	I	1	0	7	0		0	1	3	0	
+0	0	0	S	1	0	7	0		0	2	7	0	
+0	1	11	E	1	0	7	0		1	3	3	1	ESS
+0	0	0	N	1	0	7	0		0	4	4	0	
+0	0	0	O	1	0	7	0		0	5	5	0	
+0	0	0	R	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	4	0		2	7	5	0	
+0	1	12	P	1	8	4	1	POKE	1	8	3	1	PNE
+0	0	0	O	1	8	4	0		0	9	4	0	
+0	0	0	K	1	8	4	0		0	10	5	0	
+0	0	0	E	1	8	4	0		0	11	5	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	L	2	0	13	1	LESSESSENTIAL	0	0	3	0	
+0	0	0	E	2	0	13	0		0	1	3	0	
+0	0	0	S	2	0	13	0		0	2	7	0	
+0	0	0	S	2	0	13	0		1	3	3	0	
+0	0	0	E	2	0	13	0		0	4	4	0	
+0	0	0	S	2	0	13	0		0	5	5	0	
+0	0	0	S	2	0	13	0		0	6	3	0	
+0	1	14	E	2	0	13	0		2	7	5	1	ELVIS
+0	0	0	N	2	0	13	0		1	8	3	0	
+0	0	0	T	2	0	13	0		0	9	4	0	
+0	0	0	I	2	0	13	0		0	10	5	0	
+0	0	0	A	2	0	13	0		0	11	5	0	
+0	1	15	L	2	0	13	0		2	12	3	1	LDS
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	16	E	3	2	4	1	ESME	0	2	7	0	
+0	0	0	S	3	2	4	0		1	3	3	0	
+0	0	0	M	3	2	4	0		0	4	4	0	
+0	0	0	E	3	2	4	0		0	5	5	0	
+1	0	0	#	3	7	6	0		4	6	5	0	
+0	1	17	L	3	7	6	1	LEVEED	2	7	5	0	
+0	0	0	E	3	7	6	0		1	8	3	0	
+0	0	0	V	3	7	6	0		0	9	4	0	
+0	0	0	E	3	7	6	0		0	10	5	0	
+0	0	0	E	3	7	6	0		0	11	5	0	
+0	0	0	D	3	7	6	0		2	12	3	0	
+0	1	18	R	4	0	3	1	REN	4	0	3	1	RIB
+0	1	19	E	4	0	3	0		4	1	3	1	ECU
+0	0	0	N	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	20	R	4	5	3	1	RIV	0	5	5	0	
+0	1	21	I	4	5	3	0		4	6	5	1	INSUM
+0	0	0	V	4	5	3	0		2	7	5	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	22	S	4	10	3	1	SRS	0	10	5	0	
+0	0	0	R	4	10	3	0		0	11	5	0	
+0	0	0	S	4	10	3	0		2	12	3	0	
+0	1	23	I	5	0	5	1	ICEES	4	0	3	0	
+0	0	0	C	5	0	5	0		4	1	3	0	
+0	0	0	E	5	0	5	0		0	2	7	0	
+0	1	24	E	5	0	5	0		5	3	3	1	EIK
+0	1	25	S	5	0	5	0		5	4	3	1	SNO
+1	0	0	#	5	6	4	0		6	5	5	0	
+0	1	26	N	5	6	4	1	NILS	4	6	5	0	
+0	0	0	I	5	6	4	0		2	7	5	0	
+0	1	27	L	5	6	4	0		5	8	3	1	LCD
+0	1	28	S	5	6	4	0		5	9	3	1	SLA
+1	0	0	#	5	11	0	0		6	10	7	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	B	6	0	13	1	BUSINESSCLASS	4	0	3	0	
+0	0	0	U	6	0	13	0		4	1	3	0	
+0	0	0	S	6	0	13	0		0	2	7	0	
+0	0	0	I	6	0	13	0		5	3	3	0	
+0	0	0	N	6	0	13	0		5	4	3	0	
+0	1	30	E	6	0	13	0		6	5	5	1	EBBED
+0	0	0	S	6	0	13	0		4	6	5	0	
+0	0	0	S	6	0	13	0		2	7	5	0	
+0	0	0	C	6	0	13	0		5	8	3	0	
+0	0	0	L	6	0	13	0		5	9	3	0	
+0	1	31	A	6	0	13	0		6	10	7	1	ATOMMAN
+0	1	32	S	6	0	13	0		6	11	3	1	SEM
+0	1	33	S	6	0	13	0		6	12	3	1	SDS
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	5	0	
+1	0	0	#	7	3	4	0		8	2	5	0	
+0	1	34	K	7	3	4	1	KOBU	5	3	3	0	
+0	0	0	O	7	3	4	0		5	4	3	0	
+0	0	0	B	7	3	4	0		6	5	5	0	
+0	0	0	U	7	3	4	0		4	6	5	0	
+1	0	0	#	7	8	5	0		8	7	5	0	
+0	1	35	D	7	8	5	1	DATED	5	8	3	0	
+0	0	0	A	7	8	5	0		5	9	3	0	
+0	0	0	T	7	8	5	0		6	10	7	0	
+0	0	0	E	7	8	5	0		6	11	3	0	
+0	0	0	D	7	8	5	0		6	12	3	0	
+0	1	36	D	8	0	3	1	DEA	8	0	3	1	DOA
+0	1	37	E	8	0	3	0		8	1	5	1	ELLES
+0	1	38	A	8	0	3	0		8	2	5	1	ADFEE
+1	0	0	#	8	4	0	0		9	3	4	0	
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	39	B	8	5	3	1	BMX	6	5	5	0	
+0	0	0	M	8	5	3	0		4	6	5	0	
+0	1	40	X	8	5	3	0		8	7	5	1	XENIA
+1	0	0	#	8	9	0	0		9	8	4	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	41	O	8	10	3	1	OMS	6	10	7	0	
+0	0	0	M	8	10	3	0		6	11	3	0	
+0	0	0	S	8	10	3	0		6	12	3	0	
+0	1	42	O	9	0	6	1	OLDAGE	8	0	3	0	
+0	0	0	L	9	0	6	0		8	1	5	0	
+0	0	0	D	9	0	6	0		8	2	5	0	
+0	1	43	A	9	0	6	0		9	3	4	1	AREE
+0	1	44	G	9	0	6	0		9	4	3	1	GEE
+0	0	0	E	9	0	6	0		6	5	5	0	
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	45	E	9	7	4	1	ETYM	8	7	5	0	
+0	1	46	T	9	7	4	0		9	8	4	1	TERI
+0	1	47	Y	9	7	4	0		9	9	3	1	YUM
+0	0	0	M	9	7	4	0		6	10	7	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	48	A	10	0	13	1	ALFREDENEUMAN	8	0	3	0	
+0	0	0	L	10	0	13	0		8	1	5	0	
+0	0	0	F	10	0	13	0		8	2	5	0	
+0	0	0	R	10	0	13	0		9	3	4	0	
+0	0	0	E	10	0	13	0		9	4	3	0	
+0	0	0	D	10	0	13	0		6	5	5	0	
+0	1	49	E	10	0	13	0		10	6	3	1	EAT
+0	0	0	N	10	0	13	0		8	7	5	0	
+0	0	0	E	10	0	13	0		9	8	4	0	
+0	0	0	U	10	0	13	0		9	9	3	0	
+0	0	0	M	10	0	13	0		6	10	7	0	
+0	1	50	A	10	0	13	0		10	11	3	1	ADE
+0	1	51	N	10	0	13	0		10	12	3	1	NAW
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	52	E	11	1	4	1	EEEE	8	1	5	0	
+0	0	0	E	11	1	4	0		8	2	5	0	
+0	0	0	E	11	1	4	0		9	3	4	0	
+0	0	0	E	11	1	4	0		9	4	3	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	53	A	11	6	7	1	AIRMADA	10	6	3	0	
+0	0	0	I	11	6	7	0		8	7	5	0	
+0	0	0	R	11	6	7	0		9	8	4	0	
+0	0	0	M	11	6	7	0		9	9	3	0	
+0	0	0	A	11	6	7	0		6	10	7	0	
+0	0	0	D	11	6	7	0		10	11	3	0	
+0	0	0	A	11	6	7	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	54	S	12	1	3	1	SEE	8	1	5	0	
+0	0	0	E	12	1	3	0		8	2	5	0	
+0	0	0	E	12	1	3	0		9	3	4	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	55	T	12	6	3	1	TAI	10	6	3	0	
+0	0	0	A	12	6	3	0		8	7	5	0	
+0	0	0	I	12	6	3	0		9	8	4	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	56	N	12	10	3	1	NEW	6	10	7	0	
+0	0	0	E	12	10	3	0		10	11	3	0	
+0	0	0	W	12	10	3	0		10	12	3	0	
+27
+1	IVE	Direct ending
+4	MDC	1600, to Cato
+7	NOH	Drama that uses masks
+10	SISENOR	Approval for Juan Valdez
+12	POKE	Stick
+13	LESSESSENTIAL	*Not so important
+16	ESME	"Love and Squalor" girl of literature
+17	LEVEED	Like some big banks
+18	REN	Rapper MC ___
+20	RIV	Kind of "vu" in a classified
+22	SRS	Ones of the highest grade: Abbr.
+23	ICEES	They're served with spoon-straws
+26	NILS	Rock guitarist Lofgren
+29	BUSINESSCLASS	"""Executives, today's lesson is on jet financing"""
+34	KOBU	___-Jutsu (Japanese martial art)
+35	DATED	No longer in
+36	DEA	Traffic reporter?: Abbr.
+39	BMX	Big name in stunt bikes
+41	OMS	Chant syllables
+42	OLDAGE	Gerontologist's study
+45	ETYM	Dict. offering
+48	ALFREDENEUMAN	Author of the quip
+52	EEEE	Shoe width
+53	AIRMADA	Large fleet of planes
+54	SEE	Witness
+55	TAI	James Clavell best seller "___-Pan"
+56	NEW	"What's ___?"
+35
+1	ISL	Montreal, e.g.: Abbr.
+2	VIE	Life overseas
+3	ESSENES	Qumran inhabitants
+4	MNEM	Memory: Prefix
+5	DOSER	Medicine man?
+6	CRS	Some accounting entries: Abbr.
+7	NOTV	Punishment for some kids
+8	OKIES	Dust Bowl migrants
+9	HEAER	Gangster's weapon
+11	ESS	Series opener or finale?
+12	PNE	Log cabin material, maybe
+14	ELVIS	The King
+15	LDS	Church with elders: Abbr.
+18	RIB	Part of many cages
+19	ECU	Continental money
+21	INSUM	To recap
+24	EIK	Apt. feature, in the classifieds
+25	SNO	___-Cross Championship Racing
+27	LCD	Watch readout, briefly
+28	SLA	1974 kidnap org.
+30	EBBED	Went out
+31	ATOMMAN	Lex Luthor alter ego, once
+32	SEM	Sch. term
+33	SDS	60's antiwar grp.
+36	DOA	E.R. status
+37	ELLES	They, in Tours
+38	ADFEE	Cost of time or space
+40	XENIA	Seat of Greene County, Ohio
+43	AREE	Answer to the riddle "Dressed in summer, naked in winter"
+44	GEE	Comment before "I don't know"
+46	TERI	Actress Austin of "Knots Landing"
+47	YUM	"Tasty!"
+49	EAT	Absorb, as a loss
+50	ADE	Hoosier humorist
+51	NAW	No, slangily

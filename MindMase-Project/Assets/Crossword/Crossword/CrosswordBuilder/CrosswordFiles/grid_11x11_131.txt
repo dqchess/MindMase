@@ -1,0 +1,167 @@
+grid_11x11_131
+11
+0	1	1	G	0	0	3	1	GHI	0	0	5	1	GUARD
+0	1	2	H	0	0	3	0		0	1	6	1	HSDOWN
+0	1	3	I	0	0	3	0		0	2	6	1	INITIO
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	S	0	4	3	1	SRI	0	4	3	1	SVE
+0	1	5	R	0	4	3	0		0	5	3	1	RYA
+0	1	6	I	0	4	3	0		0	6	6	1	ISDONE
+1	0	0	#	0	8	3	0		1	7	5	0	
+0	1	7	G	0	8	3	1	GAS	0	8	4	1	GAZE
+0	1	8	A	0	8	3	0		0	9	4	1	ALEE
+0	1	9	S	0	8	3	0		0	10	3	1	SSN
+0	1	10	U	1	0	11	1	USNAVYSEALS	0	0	5	0	
+0	0	0	S	1	0	11	0		0	1	6	0	
+0	0	0	N	1	0	11	0		0	2	6	0	
+0	1	11	A	1	0	11	0		1	3	3	1	AMI
+0	0	0	V	1	0	11	0		0	4	3	0	
+0	0	0	Y	1	0	11	0		0	5	3	0	
+0	0	0	S	1	0	11	0		0	6	6	0	
+0	1	12	E	1	0	11	0		1	7	5	1	EOSIN
+0	0	0	A	1	0	11	0		0	8	4	0	
+0	0	0	L	1	0	11	0		0	9	4	0	
+0	0	0	S	1	0	11	0		0	10	3	0	
+0	1	13	A	2	0	11	1	ADIMEADOZEN	0	0	5	0	
+0	0	0	D	2	0	11	0		0	1	6	0	
+0	0	0	I	2	0	11	0		0	2	6	0	
+0	0	0	M	2	0	11	0		1	3	3	0	
+0	0	0	E	2	0	11	0		0	4	3	0	
+0	0	0	A	2	0	11	0		0	5	3	0	
+0	0	0	D	2	0	11	0		0	6	6	0	
+0	0	0	O	2	0	11	0		1	7	5	0	
+0	0	0	Z	2	0	11	0		0	8	4	0	
+0	0	0	E	2	0	11	0		0	9	4	0	
+0	0	0	N	2	0	11	0		0	10	3	0	
+0	1	14	R	3	0	4	1	ROTI	0	0	5	0	
+0	0	0	O	3	0	4	0		0	1	6	0	
+0	0	0	T	3	0	4	0		0	2	6	0	
+0	0	0	I	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	15	O	3	6	4	1	OSEE	0	6	6	0	
+0	0	0	S	3	6	4	0		1	7	5	0	
+0	0	0	E	3	6	4	0		0	8	4	0	
+0	0	0	E	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	D	4	0	3	1	DWI	0	0	5	0	
+0	0	0	W	4	0	3	0		0	1	6	0	
+0	0	0	I	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	5	0	
+1	0	0	#	4	5	3	0		5	4	6	0	
+0	1	17	A	4	5	3	1	ANI	4	5	3	1	AFL
+0	0	0	N	4	5	3	0		0	6	6	0	
+0	0	0	I	4	5	3	0		1	7	5	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	18	N	5	1	9	1	NOOFFENSE	0	1	6	0	
+0	0	0	O	5	1	9	0		0	2	6	0	
+0	1	19	O	5	1	9	0		5	3	5	1	ONCEA
+0	1	20	F	5	1	9	0		5	4	6	1	FHCLUB
+0	0	0	F	5	1	9	0		4	5	3	0	
+0	0	0	E	5	1	9	0		0	6	6	0	
+0	0	0	N	5	1	9	0		1	7	5	0	
+0	1	21	S	5	1	9	0		5	8	6	1	STATIN
+0	1	22	E	5	1	9	0		5	9	6	1	EASERS
+1	0	0	#	5	11	0	0		6	10	5	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	23	N	6	3	3	1	NHL	5	3	5	0	
+0	0	0	H	6	3	3	0		5	4	6	0	
+0	0	0	L	6	3	3	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	24	T	6	8	3	1	TAC	5	8	6	0	
+0	0	0	A	6	8	3	0		5	9	6	0	
+0	1	25	C	6	8	3	0		6	10	5	1	CARLA
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	26	M	7	1	4	1	MACC	7	1	4	1	MITT
+0	1	27	A	7	1	4	0		7	2	4	1	AMPS
+0	0	0	C	7	1	4	0		5	3	5	0	
+0	0	0	C	7	1	4	0		5	4	6	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	28	C	7	7	4	1	CASA	7	7	3	1	CHG
+0	0	0	A	7	7	4	0		5	8	6	0	
+0	0	0	S	7	7	4	0		5	9	6	0	
+0	0	0	A	7	7	4	0		6	10	5	0	
+0	1	29	L	8	0	11	1	LIMELIGHTER	8	0	3	1	LSH
+0	0	0	I	8	0	11	0		7	1	4	0	
+0	0	0	M	8	0	11	0		7	2	4	0	
+0	0	0	E	8	0	11	0		5	3	5	0	
+0	0	0	L	8	0	11	0		5	4	6	0	
+0	1	30	I	8	0	11	0		8	5	3	1	ILL
+0	1	31	G	8	0	11	0		8	6	3	1	GIT
+0	0	0	H	8	0	11	0		7	7	3	0	
+0	0	0	T	8	0	11	0		5	8	6	0	
+0	0	0	E	8	0	11	0		5	9	6	0	
+0	0	0	R	8	0	11	0		6	10	5	0	
+0	1	32	S	9	0	11	1	STPAULIGIRL	8	0	3	0	
+0	0	0	T	9	0	11	0		7	1	4	0	
+0	0	0	P	9	0	11	0		7	2	4	0	
+0	0	0	A	9	0	11	0		5	3	5	0	
+0	0	0	U	9	0	11	0		5	4	6	0	
+0	0	0	L	9	0	11	0		8	5	3	0	
+0	0	0	I	9	0	11	0		8	6	3	0	
+0	0	0	G	9	0	11	0		7	7	3	0	
+0	0	0	I	9	0	11	0		5	8	6	0	
+0	0	0	R	9	0	11	0		5	9	6	0	
+0	0	0	L	9	0	11	0		6	10	5	0	
+0	1	33	H	10	0	3	1	HTS	8	0	3	0	
+0	0	0	T	10	0	3	0		7	1	4	0	
+0	0	0	S	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	34	B	10	4	3	1	BLT	5	4	6	0	
+0	0	0	L	10	4	3	0		8	5	3	0	
+0	0	0	T	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	35	N	10	8	3	1	NSA	5	8	6	0	
+0	0	0	S	10	8	3	0		5	9	6	0	
+0	0	0	A	10	8	3	0		6	10	5	0	
+19
+1	GHI	Four, on the phone
+4	SRI	Hindu honorific
+7	GAS	Station ration
+10	USNAVYSEALS	Elite military unit
+13	ADIMEADOZEN	Common and cheap
+14	ROTI	Roasted, in Rouen
+15	OSEE	Douay prophet
+16	DWI	Bad record, for short
+17	ANI	Tropical cuckoo
+18	NOOFFENSE	*Follow-up to a potential insult
+23	NHL	The Stars may play the Blues in it, briefly
+24	TAC	X-X-X part
+26	MACC	Book of the Cath. Bible
+28	CASA	Pedro's home
+29	LIMELIGHTER	Stage star
+32	STPAULIGIRL	Beer brewed in Bremen
+33	HTS	Cleveland ___, O.
+34	BLT	Lunch order
+35	NSA	Code crackers: Abbr.
+23
+1	GUARD	Kind of dog
+2	HSDOWN	Overwhelmingly
+3	INITIO	Ab ___ (from the start)
+4	SVE	Give nothing to
+5	RYA	Scandinavian rug
+6	ISDONE	Needs no more work
+7	GAZE	Goggle
+8	ALEE	Sailor's direction
+9	SSN	Form W-9 info: Abbr.
+11	AMI	Friend of Nancy
+12	EOSIN	Dye chemical
+17	AFL	Org. in a 1955 merger
+19	ONCEA	"___ jolly swagman..." ("Waltzing Matilda" start)
+20	FHCLUB	Popular youth group
+21	STATIN	Cholesterol medication
+22	EASERS	Facilitators
+25	CARLA	Memorable 1961 hurricane
+26	MITT	Baker's accessory
+27	AMPS	Rock concert equipment
+28	CHG	Abbr. on a receipt
+29	LSH	Sorority letters
+30	ILL	Needing hospital care
+31	GIT	"Vamoose!"

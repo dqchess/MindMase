@@ -1,0 +1,115 @@
+grid_9x9_169
+9
+0	1	1	S	0	0	3	1	SIN	0	0	3	1	SUP
+0	1	2	I	0	0	3	0		0	1	4	1	INIT
+0	1	3	N	0	0	3	0		0	2	4	1	NFLD
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	R	0	6	3	1	REY	0	6	4	1	RETE
+0	1	5	E	0	6	3	0		0	7	4	1	ENTR
+0	1	6	Y	0	6	3	0		0	8	3	1	YET
+0	1	7	U	1	0	5	1	UNFIT	0	0	3	0	
+0	0	0	N	1	0	5	0		0	1	4	0	
+0	0	0	F	1	0	5	0		0	2	4	0	
+0	1	8	I	1	0	5	0		1	3	5	1	IEREI
+0	1	9	T	1	0	5	0		1	4	7	1	TRAYNOR
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	E	1	6	3	1	ENE	0	6	4	0	
+0	0	0	N	1	6	3	0		0	7	4	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	11	P	2	0	5	1	PILER	0	0	3	0	
+0	0	0	I	2	0	5	0		0	1	4	0	
+0	0	0	L	2	0	5	0		0	2	4	0	
+0	0	0	E	2	0	5	0		1	3	5	0	
+0	0	0	R	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	T	2	6	3	1	TTT	0	6	4	0	
+0	0	0	T	2	6	3	0		0	7	4	0	
+0	0	0	T	2	6	3	0		0	8	3	0	
+1	0	0	#	3	1	7	0		4	0	0	0	
+0	1	13	T	3	1	7	1	TDRAWER	0	1	4	0	
+0	0	0	D	3	1	7	0		0	2	4	0	
+0	0	0	R	3	1	7	0		1	3	5	0	
+0	0	0	A	3	1	7	0		1	4	7	0	
+0	1	14	W	3	1	7	0		3	5	5	1	WETHE
+0	0	0	E	3	1	7	0		0	6	4	0	
+0	0	0	R	3	1	7	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	E	4	3	3	1	EYE	1	3	5	0	
+0	0	0	Y	4	3	3	0		1	4	7	0	
+0	0	0	E	4	3	3	0		3	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	7	0		6	0	3	0	
+0	1	16	B	5	1	7	1	BLINTZE	5	1	4	1	BLIS
+0	1	17	L	5	1	7	0		5	2	4	1	LOSS
+0	0	0	I	5	1	7	0		1	3	5	0	
+0	0	0	N	5	1	7	0		1	4	7	0	
+0	0	0	T	5	1	7	0		3	5	5	0	
+0	1	18	Z	5	1	7	0		5	6	4	1	ZMED
+0	1	19	E	5	1	7	0		5	7	4	1	EAVE
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	P	6	0	3	1	PLO	6	0	3	1	PEE
+0	0	0	L	6	0	3	0		5	1	4	0	
+0	0	0	O	6	0	3	0		5	2	4	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	21	O	6	4	5	1	OHMAN	1	4	7	0	
+0	0	0	H	6	4	5	0		3	5	5	0	
+0	0	0	M	6	4	5	0		5	6	4	0	
+0	0	0	A	6	4	5	0		5	7	4	0	
+0	1	22	N	6	4	5	0		6	8	3	1	NEW
+0	1	23	E	7	0	3	1	EIS	6	0	3	0	
+0	0	0	I	7	0	3	0		5	1	4	0	
+0	0	0	S	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	R	7	4	5	1	REEVE	1	4	7	0	
+0	0	0	E	7	4	5	0		3	5	5	0	
+0	0	0	E	7	4	5	0		5	6	4	0	
+0	0	0	V	7	4	5	0		5	7	4	0	
+0	0	0	E	7	4	5	0		6	8	3	0	
+0	1	25	E	8	0	3	1	ESS	6	0	3	0	
+0	0	0	S	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	D	8	6	3	1	DEW	5	6	4	0	
+0	0	0	E	8	6	3	0		5	7	4	0	
+0	0	0	W	8	6	3	0		6	8	3	0	
+15
+1	SIN	Ungodliness
+4	REY	King, in C
+7	UNFIT	Out of shape
+10	ENE	Sioux Falls-to-St. Paul dir.
+11	PILER	One doing laundry, often
+12	TTT	Game-winning cry
+13	TDRAWER	First-rate
+15	EYE	Check out
+16	BLINTZE	Jewish cr
+20	PLO	Hamas rival, for short
+21	OHMAN	"Jeez!"
+23	EIS	Frozen water: Ger.
+24	REEVE	One of Chaucer's pilgrims
+25	ESS	Winding road part
+26	DEW	___ point
+15
+1	SUP	"Yo!"
+2	INIT	Still contending
+3	NFLD	Can. province
+4	RETE	Nerve network
+5	ENTR	___'acte
+6	YET	In addition
+8	IEREI	Middle of a famous palindrome
+9	TRAYNOR	Pie of the 20's-30's Pirates
+14	WETHE	Constitution's first words
+16	BLIS	Sights at many football games
+17	LOSS	Impairment
+18	ZMED	"T. J. Hooker" actor Adrian
+19	EAVE	Sun shade
+20	PEE	"The Old Wives' Tale" playwright
+22	NEW	Green, in a way

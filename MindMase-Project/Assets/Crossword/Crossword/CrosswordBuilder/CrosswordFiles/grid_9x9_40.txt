@@ -1,0 +1,113 @@
+grid_9x9_40
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	C	0	1	3	1	CNS	0	1	9	1	CEREBELLA
+0	1	2	N	0	1	3	0		0	2	9	1	NARRATIVE
+0	1	3	S	0	1	3	0		0	3	3	1	SUR
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	E	0	5	3	1	ETA	0	5	5	1	ECRUS
+0	1	5	T	0	5	3	0		0	6	9	1	TOOTHSOME
+0	1	6	A	0	5	3	0		0	7	9	1	APPOINTED
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	1	1	3	0		2	0	5	0	
+0	1	7	E	1	1	3	1	EAU	0	1	9	0	
+0	0	0	A	1	1	3	0		0	2	9	0	
+0	0	0	U	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	8	C	1	5	3	1	COP	0	5	5	0	
+0	0	0	O	1	5	3	0		0	6	9	0	
+0	0	0	P	1	5	3	0		0	7	9	0	
+1	0	0	#	1	9	0	0		2	8	5	0	
+0	1	9	B	2	0	4	1	BRRR	2	0	5	1	BOARS
+0	0	0	R	2	0	4	0		0	1	9	0	
+0	0	0	R	2	0	4	0		0	2	9	0	
+0	0	0	R	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	R	2	5	4	1	ROPO	0	5	5	0	
+0	0	0	O	2	5	4	0		0	6	9	0	
+0	0	0	P	2	5	4	0		0	7	9	0	
+0	1	11	O	2	5	4	0		2	8	5	1	ONPOT
+0	1	12	O	3	0	3	1	OER	2	0	5	0	
+0	0	0	E	3	0	3	0		0	1	9	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	F	3	4	5	1	FUTON	3	4	3	1	FDR
+0	0	0	U	3	4	5	0		0	5	5	0	
+0	0	0	T	3	4	5	0		0	6	9	0	
+0	0	0	O	3	4	5	0		0	7	9	0	
+0	0	0	N	3	4	5	0		2	8	5	0	
+0	1	14	A	4	0	9	1	ABANDSHIP	2	0	5	0	
+0	0	0	B	4	0	9	0		0	1	9	0	
+0	0	0	A	4	0	9	0		0	2	9	0	
+0	1	15	N	4	0	9	0		4	3	5	1	NADIR
+0	0	0	D	4	0	9	0		3	4	3	0	
+0	0	0	S	4	0	9	0		0	5	5	0	
+0	0	0	H	4	0	9	0		0	6	9	0	
+0	0	0	I	4	0	9	0		0	7	9	0	
+0	0	0	P	4	0	9	0		2	8	5	0	
+0	1	16	R	5	0	5	1	RETAR	2	0	5	0	
+0	0	0	E	5	0	5	0		0	1	9	0	
+0	0	0	T	5	0	5	0		0	2	9	0	
+0	0	0	A	5	0	5	0		4	3	5	0	
+0	0	0	R	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	S	5	6	3	1	SNO	0	6	9	0	
+0	0	0	N	5	6	3	0		0	7	9	0	
+0	0	0	O	5	6	3	0		2	8	5	0	
+0	1	18	S	6	0	4	1	SLID	2	0	5	0	
+0	0	0	L	6	0	4	0		0	1	9	0	
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	0	0	D	6	0	4	0		4	3	5	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	19	L	6	5	4	1	LOTT	6	5	3	1	LIM
+0	0	0	O	6	5	4	0		0	6	9	0	
+0	0	0	T	6	5	4	0		0	7	9	0	
+0	0	0	T	6	5	4	0		2	8	5	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	20	L	7	1	3	1	LVI	0	1	9	0	
+0	0	0	V	7	1	3	0		0	2	9	0	
+0	0	0	I	7	1	3	0		4	3	5	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	21	I	7	5	3	1	IME	6	5	3	0	
+0	0	0	M	7	5	3	0		0	6	9	0	
+0	0	0	E	7	5	3	0		0	7	9	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	22	A	8	1	3	1	AER	0	1	9	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	R	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	23	M	8	5	3	1	MED	6	5	3	0	
+0	0	0	E	8	5	3	0		0	6	9	0	
+0	0	0	D	8	5	3	0		0	7	9	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	CNS	Brain and spinal cord: Abbr.
+4	ETA	Gate projection, for short
+7	EAU	Fontaine filler
+8	COP	Acquire, slangily
+9	BRRR	"It's c-c-c-cold!"
+10	ROPO	El ___ (cheap cigar, in slang)
+12	OER	"___ the Water to Charlie" (old ballad)
+13	FUTON	Fold-up mattress
+14	ABANDSHIP	Musical group's regatta entry?
+16	RETAR	Pave over
+17	SNO	Hostess ___ Balls
+18	SLID	Did a glissade
+19	LOTT	N.F.L. Hall-of-Famer Ronnie
+20	LVI	Half of CXII
+21	IME	George Harrison's "___ Mine"
+22	AER	Cousin of atmo-
+23	MED	Pre-___ (undergrad study)
+11
+1	CEREBELLA	Coordination centers
+2	NARRATIVE	Account
+3	SUR	...
+4	ECRUS	Some lampshade shades
+5	TOOTHSOME	Delicious
+6	APPOINTED	Tapped
+9	BOARS	"Wild" ones
+11	ONPOT	High, in a way
+13	FDR	"Brain Trust" Prez
+15	NADIR	Low point
+19	LIM	Draw

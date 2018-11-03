@@ -1,0 +1,167 @@
+grid_11x11_24
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	R	0	1	3	1	REM	0	1	4	1	RIGS
+0	1	2	E	0	1	3	0		0	2	4	1	ECON
+0	1	3	M	0	1	3	0		0	3	5	1	MENSA
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	T	0	6	3	1	TUA	0	6	7	1	TENDBAR
+0	1	5	U	0	6	3	0		0	7	4	1	UEND
+0	1	6	A	0	6	3	0		0	8	6	1	APIARY
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	L	1	0	4	1	LICE	1	0	3	1	LES
+0	0	0	I	1	0	4	0		0	1	4	0	
+0	0	0	C	1	0	4	0		0	2	4	0	
+0	0	0	E	1	0	4	0		0	3	5	0	
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	8	P	1	5	5	1	PEEPS	1	5	9	1	PEARTREES
+0	0	0	E	1	5	5	0		0	6	7	0	
+0	0	0	E	1	5	5	0		0	7	4	0	
+0	0	0	P	1	5	5	0		0	8	6	0	
+0	1	9	S	1	5	5	0		1	9	5	1	SUMMA
+1	0	0	#	1	11	0	0		2	10	4	0	
+0	1	10	E	2	0	4	1	EGON	1	0	3	0	
+0	0	0	G	2	0	4	0		0	1	4	0	
+0	0	0	O	2	0	4	0		0	2	4	0	
+0	0	0	N	2	0	4	0		0	3	5	0	
+1	0	0	#	2	5	6	0		3	4	0	0	
+0	1	11	E	2	5	6	1	ENNIUS	1	5	9	0	
+0	0	0	N	2	5	6	0		0	6	7	0	
+0	0	0	N	2	5	6	0		0	7	4	0	
+0	0	0	I	2	5	6	0		0	8	6	0	
+0	0	0	U	2	5	6	0		1	9	5	0	
+0	1	12	S	2	5	6	0		2	10	4	1	SSSS
+0	1	13	S	3	0	4	1	SSNS	1	0	3	0	
+0	0	0	S	3	0	4	0		0	1	4	0	
+0	0	0	N	3	0	4	0		0	2	4	0	
+0	0	0	S	3	0	4	0		0	3	5	0	
+1	0	0	#	3	5	6	0		4	4	7	0	
+0	1	14	A	3	5	6	1	ADDAMS	1	5	9	0	
+0	0	0	D	3	5	6	0		0	6	7	0	
+0	0	0	D	3	5	6	0		0	7	4	0	
+0	0	0	A	3	5	6	0		0	8	6	0	
+0	0	0	M	3	5	6	0		1	9	5	0	
+0	0	0	S	3	5	6	0		2	10	4	0	
+1	0	0	#	4	1	0	0		5	0	4	0	
+1	0	0	#	4	2	0	0		5	1	5	0	
+1	0	0	#	4	3	4	0		5	2	6	0	
+0	1	15	A	4	3	4	1	AORB	0	3	5	0	
+0	1	16	O	4	3	4	0		4	4	7	1	OCANADA
+0	0	0	R	4	3	4	0		1	5	9	0	
+0	0	0	B	4	3	4	0		0	6	7	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	17	R	4	8	3	1	RMS	0	8	6	0	
+0	0	0	M	4	8	3	0		1	9	5	0	
+0	0	0	S	4	8	3	0		2	10	4	0	
+0	1	18	A	5	0	3	1	AVI	5	0	4	1	AZUL
+0	1	19	V	5	0	3	0		5	1	5	1	VENAL
+0	1	20	I	5	0	3	0		5	2	6	1	INDRAG
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	C	5	4	3	1	CTA	4	4	7	0	
+0	0	0	T	5	4	3	0		1	5	9	0	
+0	0	0	A	5	4	3	0		0	6	7	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	Y	5	8	3	1	YAS	0	8	6	0	
+0	0	0	A	5	8	3	0		1	9	5	0	
+0	0	0	S	5	8	3	0		2	10	4	0	
+0	1	23	Z	6	0	3	1	ZEN	5	0	4	0	
+0	0	0	E	6	0	3	0		5	1	5	0	
+0	0	0	N	6	0	3	0		5	2	6	0	
+1	0	0	#	6	4	4	0		7	3	4	0	
+0	1	24	A	6	4	4	1	ARRA	4	4	7	0	
+0	0	0	R	6	4	4	0		1	5	9	0	
+0	0	0	R	6	4	4	0		0	6	7	0	
+0	1	25	A	6	4	4	0		6	7	5	1	ASSNS
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	26	U	7	0	6	1	UNDONE	5	0	4	0	
+0	0	0	N	7	0	6	0		5	1	5	0	
+0	0	0	D	7	0	6	0		5	2	6	0	
+0	1	27	O	7	0	6	0		7	3	4	1	OVUM
+0	0	0	N	7	0	6	0		4	4	7	0	
+0	0	0	E	7	0	6	0		1	5	9	0	
+1	0	0	#	7	7	4	0		8	6	0	0	
+0	1	28	S	7	7	4	1	SOFT	6	7	5	0	
+0	1	29	O	7	7	4	0		7	8	4	1	OLDS
+0	1	30	F	7	7	4	0		7	9	4	1	FIAT
+0	1	31	T	7	7	4	0		7	10	3	1	TPK
+0	1	32	L	8	0	6	1	LARVAE	5	0	4	0	
+0	0	0	A	8	0	6	0		5	1	5	0	
+0	0	0	R	8	0	6	0		5	2	6	0	
+0	0	0	V	8	0	6	0		7	3	4	0	
+0	0	0	A	8	0	6	0		4	4	7	0	
+0	0	0	E	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	33	S	8	7	4	1	SLIP	6	7	5	0	
+0	0	0	L	8	7	4	0		7	8	4	0	
+0	0	0	I	8	7	4	0		7	9	4	0	
+0	0	0	P	8	7	4	0		7	10	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	34	L	9	1	5	1	LAUDS	5	1	5	0	
+0	0	0	A	9	1	5	0		5	2	6	0	
+0	0	0	U	9	1	5	0		7	3	4	0	
+0	0	0	D	9	1	5	0		4	4	7	0	
+0	0	0	S	9	1	5	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	35	N	9	7	4	1	NDAK	6	7	5	0	
+0	0	0	D	9	7	4	0		7	8	4	0	
+0	0	0	A	9	7	4	0		7	9	4	0	
+0	0	0	K	9	7	4	0		7	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	36	G	10	2	3	1	GMA	5	2	6	0	
+0	0	0	M	10	2	3	0		7	3	4	0	
+0	0	0	A	10	2	3	0		4	4	7	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	37	S	10	7	3	1	SST	6	7	5	0	
+0	0	0	S	10	7	3	0		7	8	4	0	
+0	0	0	T	10	7	3	0		7	9	4	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	REM	"The One I Love" group
+4	TUA	Your, in Roma
+7	LICE	Some ectozoa
+8	PEEPS	Henhouse sounds
+10	EGON	"The Hermits" painter Schiele
+11	ENNIUS	"Annales" poet Quintus ___
+13	SSNS	Workers need them: Abbr.
+14	ADDAMS	Title family name on TV
+15	AORB	Simplest of choices
+17	RMS	Apt. compartments
+18	AVI	Opening for birds?
+21	CTA	El-overseeing org.
+22	YAS	Title syllables in a 1961 Lee Dorsey hit
+23	ZEN	Source of enlightenment
+24	ARRA	Pianist Claudio
+26	UNDONE	Fallen apart
+28	SOFT	Downy
+32	LARVAE	Immature insects
+33	SLIP	Lingerie item
+34	LAUDS	Extols
+35	NDAK	State since 1889: Abbr.
+36	GMA	"Today" rival, for short
+37	SST	It began commercial service in '76
+19
+1	RIGS	Teamsters' vehicles
+2	ECON	Supply-and-demand subj.
+3	MENSA	Symbol of brightness
+4	TENDBAR	Conjure up spirits?
+5	UEND	Flip
+6	APIARY	Bee house
+7	LES	Arles article
+8	PEARTREES	Partridge locales?
+9	SUMMA	Highest, in honors
+12	SSSS	Deflation indication
+16	OCANADA	Northern air
+18	AZUL	Blue, south of the border
+19	VENAL	Susceptible to bribery
+20	INDRAG	Cross-dressing
+25	ASSNS	Grps.
+27	OVUM	One in the sac
+29	OLDS	Automaker Ransom Eli
+30	FIAT	Via Veneto car
+31	TPK	Hwy.

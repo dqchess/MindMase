@@ -1,0 +1,169 @@
+grid_11x11_88
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	V	0	1	3	1	VIC	0	1	6	1	VIOLET
+0	1	2	I	0	1	3	0		0	2	11	1	IMPERMEABLE
+0	1	3	C	0	1	3	0		0	3	3	1	CBS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	P	0	6	3	1	PSU	0	6	6	1	PARTII
+0	1	5	S	0	6	3	0		0	7	3	1	SSE
+0	1	6	U	0	6	3	0		0	8	11	1	UPTOTHETASK
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	L	1	0	5	1	LIMBO	1	0	3	1	LTS
+0	0	0	I	1	0	5	0		0	1	6	0	
+0	0	0	M	1	0	5	0		0	2	11	0	
+0	0	0	B	1	0	5	0		0	3	3	0	
+0	1	8	O	1	0	5	0		1	4	3	1	OYL
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	9	A	1	6	5	1	ASPOT	0	6	6	0	
+0	0	0	S	1	6	5	0		0	7	3	0	
+0	0	0	P	1	6	5	0		0	8	11	0	
+0	1	10	O	1	6	5	0		1	9	3	1	OAK
+0	1	11	T	1	6	5	0		1	10	3	1	TPS
+0	1	12	T	2	0	5	1	TOPSY	1	0	3	0	
+0	0	0	O	2	0	5	0		0	1	6	0	
+0	0	0	P	2	0	5	0		0	2	11	0	
+0	0	0	S	2	0	5	0		0	3	3	0	
+0	0	0	Y	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	13	R	2	6	5	1	RETAP	0	6	6	0	
+0	0	0	E	2	6	5	0		0	7	3	0	
+0	0	0	T	2	6	5	0		0	8	11	0	
+0	0	0	A	2	6	5	0		1	9	3	0	
+0	0	0	P	2	6	5	0		1	10	3	0	
+0	1	14	S	3	0	3	1	SLE	1	0	3	0	
+0	0	0	L	3	0	3	0		0	1	6	0	
+0	0	0	E	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	15	L	3	4	3	1	LAT	1	4	3	0	
+0	1	16	A	3	4	3	0		3	5	5	1	ATNOS
+0	0	0	T	3	4	3	0		0	6	6	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	17	O	3	8	3	1	OKS	0	8	11	0	
+0	0	0	K	3	8	3	0		1	9	3	0	
+0	0	0	S	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	18	E	4	1	3	1	ERL	0	1	6	0	
+0	0	0	R	4	1	3	0		0	2	11	0	
+0	1	19	L	4	1	3	0		4	3	3	1	LIB
+1	0	0	#	4	5	4	0		5	4	6	0	
+0	1	20	T	4	5	4	1	TIPT	3	5	5	0	
+0	0	0	I	4	5	4	0		0	6	6	0	
+0	1	21	P	4	5	4	0		4	7	3	1	PGA
+0	0	0	T	4	5	4	0		0	8	11	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	22	T	5	1	9	1	TMIDNIGHT	0	1	6	0	
+0	0	0	M	5	1	9	0		0	2	11	0	
+0	0	0	I	5	1	9	0		4	3	3	0	
+0	1	23	D	5	1	9	0		5	4	6	1	DRYMOP
+0	0	0	N	5	1	9	0		3	5	5	0	
+0	0	0	I	5	1	9	0		0	6	6	0	
+0	0	0	G	5	1	9	0		4	7	3	0	
+0	0	0	H	5	1	9	0		0	8	11	0	
+0	1	24	T	5	1	9	0		5	9	6	1	TROLLS
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	4	0		7	1	3	0	
+0	1	25	E	6	2	4	1	EBRO	0	2	11	0	
+0	0	0	B	6	2	4	0		4	3	3	0	
+0	0	0	R	6	2	4	0		5	4	6	0	
+0	0	0	O	6	2	4	0		3	5	5	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	26	A	6	7	3	1	AER	4	7	3	0	
+0	0	0	E	6	7	3	0		0	8	11	0	
+0	0	0	R	6	7	3	0		5	9	6	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	27	J	7	0	3	1	JIA	7	0	3	1	JAM
+0	1	28	I	7	0	3	0		7	1	3	1	ILE
+0	0	0	A	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	29	Y	7	4	3	1	YSL	5	4	6	0	
+0	0	0	S	7	4	3	0		3	5	5	0	
+0	1	30	L	7	4	3	0		7	6	3	1	LAB
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	31	T	7	8	3	1	TOW	0	8	11	0	
+0	0	0	O	7	8	3	0		5	9	6	0	
+0	1	32	W	7	8	3	0		7	10	3	1	WLE
+0	1	33	A	8	0	5	1	ALBUM	7	0	3	0	
+0	0	0	L	8	0	5	0		7	1	3	0	
+0	0	0	B	8	0	5	0		0	2	11	0	
+0	1	34	U	8	0	5	0		8	3	3	1	ULM
+0	0	0	M	8	0	5	0		5	4	6	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	35	A	8	6	5	1	ATALL	7	6	3	0	
+0	1	36	T	8	6	5	0		8	7	3	1	TAW
+0	0	0	A	8	6	5	0		0	8	11	0	
+0	0	0	L	8	6	5	0		5	9	6	0	
+0	0	0	L	8	6	5	0		7	10	3	0	
+0	1	37	M	9	0	5	1	MELLO	7	0	3	0	
+0	0	0	E	9	0	5	0		7	1	3	0	
+0	0	0	L	9	0	5	0		0	2	11	0	
+0	0	0	L	9	0	5	0		8	3	3	0	
+0	0	0	O	9	0	5	0		5	4	6	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	38	B	9	6	5	1	BASLE	7	6	3	0	
+0	0	0	A	9	6	5	0		8	7	3	0	
+0	0	0	S	9	6	5	0		0	8	11	0	
+0	0	0	L	9	6	5	0		5	9	6	0	
+0	0	0	E	9	6	5	0		7	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	39	E	10	2	3	1	EMP	0	2	11	0	
+0	0	0	M	10	2	3	0		8	3	3	0	
+0	0	0	P	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	40	W	10	7	3	1	WKS	8	7	3	0	
+0	0	0	K	10	7	3	0		0	8	11	0	
+0	0	0	S	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	VIC	Trader ___ (restaurant eponym)
+4	PSU	Big Ten inits.
+7	LIMBO	It's neither here nor there
+9	ASPOT	In ___ (uncomfortably placed)
+12	TOPSY	Title twin sister in a series of children's books by Jean and Gareth Adamson
+13	RETAP	Draw on again
+14	SLE	Trickiness
+15	LAT	Long.'s opposite
+17	OKS	Endorses
+18	ERL	Schubert's "The ___-King"
+20	TIPT	Summit
+22	TMIDNIGHT	When the ball drops at Times Square
+25	EBRO	River of Spain
+26	AER	Ireland's ___ Lingus
+27	JIA	Addams portrayer, in film
+29	YSL	Designer inits.
+31	TOW	Kind of truck
+33	ALBUM	Collector's book
+35	ATALL	In the slightest
+37	MELLO	___ Yello (soft drink)
+38	BASLE	Swiss city on the Rhine, old-style
+39	EMP	Nero, e.g.: Abbr.
+40	WKS	Work units: Abbr.
+21
+1	VIOLET	Symbol of modesty
+2	IMPERMEABLE	Hard
+3	CBS	Letterman's network
+4	PARTII	Series continuation
+5	SSE	Course setting: Abbr.
+6	UPTOTHETASK	Skilled enough
+7	LTS	Capts.' inferiors
+8	OYL	Fleischer's Olive ___
+10	OAK	Flavor associated with Chardonnay
+11	TPS	Pranks, in a way, informally
+16	ATNOS	B and O figures: Abbr.
+19	LIB	Conservative's foe: Abbr.
+21	PGA	Grp. concerned with slicing and chipping
+23	DRYMOP	Dust remover
+24	TROLLS	Chat room annoyances
+27	JAM	Stuff
+28	ILE	Paris's ___ Saint-Louis
+30	LAB	Chem class
+32	WLE	Corduroy ridge
+34	ULM	Where Einstein was born
+36	TAW	Shooter on the playground

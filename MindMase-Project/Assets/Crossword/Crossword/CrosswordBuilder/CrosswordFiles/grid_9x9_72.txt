@@ -1,0 +1,117 @@
+grid_9x9_72
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	E	0	1	3	1	EPT	0	1	5	1	EYEOF
+0	1	2	P	0	1	3	0		0	2	9	1	PENNYLANE
+0	1	3	T	0	1	3	0		0	3	3	1	TSO
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	A	0	6	3	1	ADC	0	6	9	1	ASTIITALY
+0	1	5	D	0	6	3	0		0	7	3	1	DAT
+0	1	6	C	0	6	3	0		0	8	3	1	COT
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	7	Y	1	1	3	1	YES	0	1	5	0	
+0	0	0	E	1	1	3	0		0	2	9	0	
+0	0	0	S	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	I	1	5	4	1	ISAO	1	5	4	1	ITAW
+0	0	0	S	1	5	4	0		0	6	9	0	
+0	0	0	A	1	5	4	0		0	7	3	0	
+0	0	0	O	1	5	4	0		0	8	3	0	
+0	1	9	B	2	0	4	1	BENO	2	0	3	1	BEI
+0	0	0	E	2	0	4	0		0	1	5	0	
+0	0	0	N	2	0	4	0		0	2	9	0	
+0	0	0	O	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	T	2	5	4	1	TTTT	1	5	4	0	
+0	0	0	T	2	5	4	0		0	6	9	0	
+0	0	0	T	2	5	4	0		0	7	3	0	
+0	0	0	T	2	5	4	0		0	8	3	0	
+0	1	11	E	3	0	3	1	EON	2	0	3	0	
+0	0	0	O	3	0	3	0		0	1	5	0	
+0	0	0	N	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	H	3	4	3	1	HAI	3	4	3	1	HUD
+0	0	0	A	3	4	3	0		1	5	4	0	
+0	0	0	I	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	13	I	4	0	9	1	IFYOUWILL	2	0	3	0	
+0	0	0	F	4	0	9	0		0	1	5	0	
+0	0	0	Y	4	0	9	0		0	2	9	0	
+0	1	14	O	4	0	9	0		4	3	4	1	OCHO
+0	0	0	U	4	0	9	0		3	4	3	0	
+0	0	0	W	4	0	9	0		1	5	4	0	
+0	0	0	I	4	0	9	0		0	6	9	0	
+0	1	15	L	4	0	9	0		4	7	5	1	LAFFS
+0	1	16	L	4	0	9	0		4	8	3	1	LSE
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	L	5	2	3	1	LCD	0	2	9	0	
+0	0	0	C	5	2	3	0		4	3	4	0	
+0	0	0	D	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	T	5	6	3	1	TAS	0	6	9	0	
+0	0	0	A	5	6	3	0		4	7	5	0	
+0	0	0	S	5	6	3	0		4	8	3	0	
+0	1	19	Q	6	0	4	1	QUAH	6	0	3	1	QED
+0	1	20	U	6	0	4	0		6	1	3	1	URO
+0	0	0	A	6	0	4	0		0	2	9	0	
+0	0	0	H	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	S	6	5	4	1	SAFE	6	5	3	1	SAN
+0	0	0	A	6	5	4	0		0	6	9	0	
+0	0	0	F	6	5	4	0		4	7	5	0	
+0	0	0	E	6	5	4	0		4	8	3	0	
+0	1	22	E	7	0	4	1	ERNO	6	0	3	0	
+0	0	0	R	7	0	4	0		6	1	3	0	
+0	0	0	N	7	0	4	0		0	2	9	0	
+0	0	0	O	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	23	A	7	5	3	1	ALF	6	5	3	0	
+0	0	0	L	7	5	3	0		0	6	9	0	
+0	0	0	F	7	5	3	0		4	7	5	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	24	D	8	0	3	1	DOE	6	0	3	0	
+0	0	0	O	8	0	3	0		6	1	3	0	
+0	0	0	E	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	N	8	5	3	1	NYS	6	5	3	0	
+0	0	0	Y	8	5	3	0		0	6	9	0	
+0	0	0	S	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	EPT	Capable, jocularly
+4	ADC	Military asst.
+7	YES	Agreeable word
+8	ISAO	Golf's ___ Aoki
+9	BENO	"There Shall ___ Night" (Pulitzer-winning Robert E. Sherwood play)
+10	TTTT	Some socials
+11	EON	Years and years and years
+12	HAI	Japanese yes
+13	IFYOUWILL	So to speak
+17	LCD	TV screen choice: Abbr.
+18	TAS	Coll. aides
+19	QUAH	Thick-shelled seafood selection
+21	SAFE	Out of reach
+22	ERNO	Rubik of Rubik's cube fame
+23	ALF	First name in 1936 politics
+24	DOE	Unidentified John
+25	NYS	Sen. Schumer represents it: Abbr.
+15
+1	EYEOF	___ newt (witch's ingredient)
+2	PENNYLANE	Where "all the people that come and go stop and say hello"
+3	TSO	General in Chinese restaurants
+4	ASTIITALY	European wine center
+5	DAT	"Gimme ___!" (rude order)
+6	COT	Visitor's sleeping spot, maybe
+8	ITAW	"___ a Putty Tat" (Friz Freleng short)
+9	BEI	"___ Mir Bist Du Sch
+12	HUD	1963 Paul Newman film
+14	OCHO	Half of dieciseis
+15	LAFFS	Comedy club responses
+16	LSE	End of many an E-mail address
+19	QED	Equivalent of "the end"
+20	URO	Tail: Prefix
+21	SAN	Start of many Western place names

@@ -1,0 +1,229 @@
+grid_13x13_79
+13
+0	1	1	M	0	0	3	1	MIZ	0	0	3	1	MIL
+0	1	2	I	0	0	3	0		0	1	4	1	IKID
+0	1	3	Z	0	0	3	0		0	2	4	1	ZETA
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	0	0		1	5	6	0	
+1	0	0	#	0	7	4	0		1	6	11	0	
+0	1	4	E	0	7	4	1	ESAS	0	7	3	1	ELA
+0	1	5	S	0	7	4	0		0	8	3	1	SAS
+0	1	6	A	0	7	4	0		0	9	3	1	ACK
+0	1	7	S	0	7	4	0		0	10	8	1	STEALTHY
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	I	1	0	4	1	IKES	0	0	3	0	
+0	0	0	K	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	4	0	
+0	1	9	S	1	0	4	0		1	3	4	1	STRA
+1	0	0	#	1	5	8	0		2	4	7	0	
+0	1	10	G	1	5	8	1	GALACTIC	1	5	6	1	GRETEL
+0	1	11	A	1	5	8	0		1	6	11	1	ABRONCSTALE
+0	0	0	L	1	5	8	0		0	7	3	0	
+0	0	0	A	1	5	8	0		0	8	3	0	
+0	0	0	C	1	5	8	0		0	9	3	0	
+0	0	0	T	1	5	8	0		0	10	8	0	
+0	1	12	I	1	5	8	0		1	11	3	1	ITD
+0	1	13	C	1	5	8	0		1	12	3	1	CHE
+0	1	14	L	2	0	13	1	LITTERBASKETH	0	0	3	0	
+0	0	0	I	2	0	13	0		0	1	4	0	
+0	0	0	T	2	0	13	0		0	2	4	0	
+0	0	0	T	2	0	13	0		1	3	4	0	
+0	1	15	E	2	0	13	0		2	4	7	1	ETCHERS
+0	0	0	R	2	0	13	0		1	5	6	0	
+0	0	0	B	2	0	13	0		1	6	11	0	
+0	0	0	A	2	0	13	0		0	7	3	0	
+0	0	0	S	2	0	13	0		0	8	3	0	
+0	0	0	K	2	0	13	0		0	9	3	0	
+0	0	0	E	2	0	13	0		0	10	8	0	
+0	0	0	T	2	0	13	0		1	11	3	0	
+0	0	0	H	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	16	D	3	1	6	1	DARTER	0	1	4	0	
+0	0	0	A	3	1	6	0		0	2	4	0	
+0	0	0	R	3	1	6	0		1	3	4	0	
+0	0	0	T	3	1	6	0		2	4	7	0	
+0	0	0	E	3	1	6	0		1	5	6	0	
+0	0	0	R	3	1	6	0		1	6	11	0	
+1	0	0	#	3	8	0	0		4	7	0	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	17	A	3	10	3	1	ADE	0	10	8	0	
+0	0	0	D	3	10	3	0		1	11	3	0	
+0	0	0	E	3	10	3	0		1	12	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	4	0		5	2	8	0	
+0	1	18	A	4	3	4	1	ACTO	1	3	4	0	
+0	0	0	C	4	3	4	0		2	4	7	0	
+0	0	0	T	4	3	4	0		1	5	6	0	
+0	0	0	O	4	3	4	0		1	6	11	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	K	4	8	3	1	KIL	4	8	7	1	KLATSCH
+0	1	20	I	4	8	3	0		4	9	3	1	IOC
+0	0	0	L	4	8	3	0		0	10	8	0	
+1	0	0	#	4	12	0	0		5	11	3	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	21	Y	5	0	3	1	YEO	5	0	3	1	YRS
+0	1	22	E	5	0	3	0		5	1	3	1	EAP
+0	1	23	O	5	0	3	0		5	2	8	1	OCONNELL
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	24	H	5	4	3	1	HEN	2	4	7	0	
+0	0	0	E	5	4	3	0		1	5	6	0	
+0	0	0	N	5	4	3	0		1	6	11	0	
+1	0	0	#	5	8	5	0		6	7	6	0	
+0	1	25	L	5	8	5	1	LOTSA	4	8	7	0	
+0	0	0	O	5	8	5	0		4	9	3	0	
+0	0	0	T	5	8	5	0		0	10	8	0	
+0	1	26	S	5	8	5	0		5	11	3	1	SEA
+0	1	27	A	5	8	5	0		5	12	3	1	ALS
+0	1	28	R	6	0	13	1	RACHELCRACHEL	5	0	3	0	
+0	0	0	A	6	0	13	0		5	1	3	0	
+0	0	0	C	6	0	13	0		5	2	8	0	
+0	1	29	H	6	0	13	0		6	3	3	1	HOH
+0	0	0	E	6	0	13	0		2	4	7	0	
+0	0	0	L	6	0	13	0		1	5	6	0	
+0	0	0	C	6	0	13	0		1	6	11	0	
+0	1	30	R	6	0	13	0		6	7	6	1	RIBALD
+0	0	0	A	6	0	13	0		4	8	7	0	
+0	0	0	C	6	0	13	0		4	9	3	0	
+0	0	0	H	6	0	13	0		0	10	8	0	
+0	0	0	E	6	0	13	0		5	11	3	0	
+0	0	0	L	6	0	13	0		5	12	3	0	
+0	1	31	S	7	0	5	1	SPOOR	5	0	3	0	
+0	0	0	P	7	0	5	0		5	1	3	0	
+0	0	0	O	7	0	5	0		5	2	8	0	
+0	0	0	O	7	0	5	0		6	3	3	0	
+0	0	0	R	7	0	5	0		2	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	32	S	7	6	3	1	SIT	1	6	11	0	
+0	0	0	I	7	6	3	0		6	7	6	0	
+0	0	0	T	7	6	3	0		4	8	7	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	33	Y	7	10	3	1	YAS	0	10	8	0	
+0	0	0	A	7	10	3	0		5	11	3	0	
+0	0	0	S	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	3	0	
+0	1	34	N	8	2	3	1	NHS	5	2	8	0	
+0	0	0	H	8	2	3	0		6	3	3	0	
+0	0	0	S	8	2	3	0		2	4	7	0	
+1	0	0	#	8	6	4	0		9	5	0	0	
+0	1	35	T	8	6	4	1	TBSP	1	6	11	0	
+0	0	0	B	8	6	4	0		6	7	6	0	
+0	0	0	S	8	6	4	0		4	8	7	0	
+0	1	36	P	8	6	4	0		8	9	4	1	PEON
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	37	S	9	0	3	1	SYN	9	0	3	1	SWE
+0	1	38	Y	9	0	3	0		9	1	3	1	YEN
+0	0	0	N	9	0	3	0		5	2	8	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	6	0		10	5	3	0	
+0	1	39	A	9	6	6	1	AACELL	1	6	11	0	
+0	0	0	A	9	6	6	0		6	7	6	0	
+0	0	0	C	9	6	6	0		4	8	7	0	
+0	0	0	E	9	6	6	0		8	9	4	0	
+0	1	40	L	9	6	6	0		9	10	4	1	LUCE
+0	1	41	L	9	6	6	0		9	11	4	1	LRON
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	W	10	0	13	1	WEESMALLHOURS	9	0	3	0	
+0	0	0	E	10	0	13	0		9	1	3	0	
+0	0	0	E	10	0	13	0		5	2	8	0	
+0	1	43	S	10	0	13	0		10	3	3	1	SAO
+0	1	44	M	10	0	13	0		10	4	3	1	MRC
+0	1	45	A	10	0	13	0		10	5	3	1	AGA
+0	0	0	L	10	0	13	0		1	6	11	0	
+0	0	0	L	10	0	13	0		6	7	6	0	
+0	0	0	H	10	0	13	0		4	8	7	0	
+0	0	0	O	10	0	13	0		8	9	4	0	
+0	0	0	U	10	0	13	0		9	10	4	0	
+0	0	0	R	10	0	13	0		9	11	4	0	
+0	1	46	S	10	0	13	0		10	12	3	1	SSS
+0	1	47	E	11	0	8	1	ENLARGED	9	0	3	0	
+0	0	0	N	11	0	8	0		9	1	3	0	
+0	0	0	L	11	0	8	0		5	2	8	0	
+0	0	0	A	11	0	8	0		10	3	3	0	
+0	0	0	R	11	0	8	0		10	4	3	0	
+0	0	0	G	11	0	8	0		10	5	3	0	
+0	0	0	E	11	0	8	0		1	6	11	0	
+0	0	0	D	11	0	8	0		6	7	6	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	N	11	9	4	1	NCOS	8	9	4	0	
+0	0	0	C	11	9	4	0		9	10	4	0	
+0	0	0	O	11	9	4	0		9	11	4	0	
+0	0	0	S	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	4	0		13	1	0	0	
+0	1	49	L	12	2	4	1	LOCA	5	2	8	0	
+0	0	0	O	12	2	4	0		10	3	3	0	
+0	0	0	C	12	2	4	0		10	4	3	0	
+0	0	0	A	12	2	4	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	E	12	10	3	1	ENS	9	10	4	0	
+0	0	0	N	12	10	3	0		9	11	4	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+25
+1	MIZ	"Les ___"
+4	ESAS	Those, to Tom
+8	IKES	General store on "The Waltons"
+10	GALACTIC	Interstellar
+14	LITTERBASKETH	Newborn puppies enjoy the sun?
+16	DARTER	Fast freshwater fish
+17	ADE	Suffix with block
+18	ACTO	Part of a Spanish play
+19	KIL	3,280.84 ft.
+21	YEO	U.S.N. clerk: Abbr.
+24	HEN	Layer
+25	LOTSA	Much, slangily
+28	RACHELCRACHEL	Paul Newman's directorial debut
+31	SPOOR	Animal's trail
+32	SIT	Word to a boxer, maybe
+33	YAS	Title syllables in a 1961 Lee Dorsey hit
+34	NHS	Selective high-school org.
+35	TBSP	Recipe abbr.
+37	SYN	Example, for instance: Abbr.
+39	AACELL	Certain battery
+42	WEESMALLHOURS	"Morning time, in a Sinatra song"
+47	ENLARGED	Blew up
+48	NCOS	Cpls., e.g.
+49	LOCA	Like "la vida" in song
+50	ENS	U.S.N. grad
+31
+1	MIL	"Cool" amount
+2	IKID	"___ you not"
+3	ZETA	Sixth-brightest star in a constellation
+4	ELA	Italian note
+5	SAS	Carrier to Sweden
+6	ACK	When doubled, defensive fire
+7	STEALTHY	Cat-footed
+9	STRA	Purchase from a jeweler
+10	GRETEL	Grimm heroine
+11	ABRONCSTALE	Rodeo yarn?
+12	ITD	"___ be an honor"
+13	CHE	What: It.
+15	ETCHERS	Rembrandt and Picasso
+19	KLATSCH	Coffee gathering
+20	IOC	Org. with a five-ring logo
+21	YRS	Abbr. in ages
+22	EAP	"To Helen" writer's inits.
+23	OCONNELL	"Green Eyes" singer Helen, in 40's music
+26	SEA	Mermaid's home
+27	ALS	Golfer Geiberger and others
+29	HOH	Water, chemically
+30	RIBALD	Bringing a blush to the cheek, maybe
+36	PEON	Menial
+37	SWE	Stockholm's land: Abbr.
+38	YEN	Hunger
+40	LUCE	Time-honored name?
+41	LRON	Scientology guru ___ Hubbard
+43	SAO	___ Salvador
+44	MRC	Richie's dad, to the Fonz
+45	AGA	Turkish pooh-bah
+46	SSS	S.D.S. target

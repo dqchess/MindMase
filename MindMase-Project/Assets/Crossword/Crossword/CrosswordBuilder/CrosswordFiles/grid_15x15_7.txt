@@ -1,0 +1,307 @@
+grid_15x15_7
+15
+0	1	1	M	0	0	3	1	MCV	0	0	3	1	MOM
+0	1	2	C	0	0	3	0		0	1	3	1	CRO
+0	1	3	V	0	0	3	0		0	2	3	1	VSO
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	B	0	6	3	1	BHA	0	6	3	1	BEG
+0	1	5	H	0	6	3	0		0	7	3	1	HRH
+0	1	6	A	0	6	3	0		0	8	11	1	ATTHEESCORE
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	6	0	
+0	1	7	S	0	12	3	1	SLA	0	12	4	1	STAE
+0	1	8	L	0	12	3	0		0	13	4	1	LITD
+0	1	9	A	0	12	3	0		0	14	3	1	ASA
+0	1	10	O	1	0	3	1	ORS	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	3	0	
+0	0	0	S	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	5	0		2	3	4	0	
+0	1	11	S	1	4	5	1	SNERT	1	4	3	1	SLS
+0	1	12	N	1	4	5	0		1	5	3	1	NIH
+0	0	0	E	1	4	5	0		0	6	3	0	
+0	0	0	R	1	4	5	0		0	7	3	0	
+0	0	0	T	1	4	5	0		0	8	11	0	
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	13	T	1	10	5	1	TITIS	1	10	4	1	TOMT
+0	1	14	I	1	10	5	0		1	11	6	1	INMONO
+0	0	0	T	1	10	5	0		0	12	4	0	
+0	0	0	I	1	10	5	0		0	13	4	0	
+0	0	0	S	1	10	5	0		0	14	3	0	
+0	1	15	M	2	0	15	1	MOONLIGHTSONATA	0	0	3	0	
+0	0	0	O	2	0	15	0		0	1	3	0	
+0	0	0	O	2	0	15	0		0	2	3	0	
+0	1	16	N	2	0	15	0		2	3	4	1	NOBU
+0	0	0	L	2	0	15	0		1	4	3	0	
+0	0	0	I	2	0	15	0		1	5	3	0	
+0	0	0	G	2	0	15	0		0	6	3	0	
+0	0	0	H	2	0	15	0		0	7	3	0	
+0	0	0	T	2	0	15	0		0	8	11	0	
+0	1	17	S	2	0	15	0		2	9	3	1	SAK
+0	0	0	O	2	0	15	0		1	10	4	0	
+0	0	0	N	2	0	15	0		1	11	6	0	
+0	0	0	A	2	0	15	0		0	12	4	0	
+0	0	0	T	2	0	15	0		0	13	4	0	
+0	0	0	A	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	6	0	
+1	0	0	#	3	3	3	0		4	2	6	0	
+0	1	18	O	3	3	3	1	OSH	2	3	4	0	
+0	0	0	S	3	3	3	0		1	4	3	0	
+0	0	0	H	3	3	3	0		1	5	3	0	
+1	0	0	#	3	7	0	0		4	6	11	0	
+1	0	0	#	3	8	6	0		4	7	7	0	
+0	1	19	H	3	8	6	1	HAMMED	0	8	11	0	
+0	0	0	A	3	8	6	0		2	9	3	0	
+0	0	0	M	3	8	6	0		1	10	4	0	
+0	0	0	M	3	8	6	0		1	11	6	0	
+0	0	0	E	3	8	6	0		0	12	4	0	
+0	0	0	D	3	8	6	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	20	I	4	1	3	1	INB	4	1	6	1	INPART
+0	1	21	N	4	1	3	0		4	2	6	1	NEEDLE
+0	0	0	B	4	1	3	0		2	3	4	0	
+1	0	0	#	4	5	0	0		5	4	3	0	
+1	0	0	#	4	6	6	0		5	5	0	0	
+0	1	22	S	4	6	6	1	SEEKTO	4	6	11	1	SPACENEEDLE
+0	1	23	E	4	6	6	0		4	7	7	1	ENTERED
+0	0	0	E	4	6	6	0		0	8	11	0	
+0	0	0	K	4	6	6	0		2	9	3	0	
+0	0	0	T	4	6	6	0		1	10	4	0	
+0	0	0	O	4	6	6	0		1	11	6	0	
+1	0	0	#	4	13	0	0		5	12	6	0	
+1	0	0	#	4	14	0	0		5	13	6	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	24	N	5	1	4	1	NEUF	4	1	6	0	
+0	0	0	E	5	1	4	0		4	2	6	0	
+0	0	0	U	5	1	4	0		2	3	4	0	
+0	1	25	F	5	1	4	0		5	4	3	1	FTP
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	26	P	5	6	3	1	PNE	4	6	11	0	
+0	0	0	N	5	6	3	0		4	7	7	0	
+0	0	0	E	5	6	3	0		0	8	11	0	
+1	0	0	#	5	10	0	0		6	9	3	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	27	N	5	11	3	1	NNE	1	11	6	0	
+0	1	28	N	5	11	3	0		5	12	6	1	NUNCIO
+0	1	29	E	5	11	3	0		5	13	6	1	ERRATA
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	30	O	6	0	3	1	OPE	6	0	3	1	OFE
+0	0	0	P	6	0	3	0		4	1	6	0	
+0	0	0	E	6	0	3	0		4	2	6	0	
+1	0	0	#	6	4	6	0		7	3	0	0	
+0	1	31	T	6	4	6	1	THATSO	5	4	3	0	
+0	1	32	H	6	4	6	0		6	5	3	1	HAJ
+0	0	0	A	6	4	6	0		4	6	11	0	
+0	0	0	T	6	4	6	0		4	7	7	0	
+0	0	0	S	6	4	6	0		0	8	11	0	
+0	1	33	O	6	4	6	0		6	9	3	1	OAM
+1	0	0	#	6	11	4	0		7	10	3	0	
+0	1	34	O	6	11	4	1	OURN	1	11	6	0	
+0	0	0	U	6	11	4	0		5	12	6	0	
+0	0	0	R	6	11	4	0		5	13	6	0	
+0	1	35	N	6	11	4	0		6	14	3	1	NCR
+0	1	36	F	7	0	3	1	FAD	6	0	3	0	
+0	0	0	A	7	0	3	0		4	1	6	0	
+0	0	0	D	7	0	3	0		4	2	6	0	
+1	0	0	#	7	4	7	0		8	3	6	0	
+0	1	37	P	7	4	7	1	PACECAR	5	4	3	0	
+0	0	0	A	7	4	7	0		6	5	3	0	
+0	0	0	C	7	4	7	0		4	6	11	0	
+0	0	0	E	7	4	7	0		4	7	7	0	
+0	0	0	C	7	4	7	0		0	8	11	0	
+0	0	0	A	7	4	7	0		6	9	3	0	
+0	1	38	R	7	4	7	0		7	10	3	1	REE
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	39	N	7	12	3	1	NRC	5	12	6	0	
+0	0	0	R	7	12	3	0		5	13	6	0	
+0	0	0	C	7	12	3	0		6	14	3	0	
+0	1	40	E	8	0	4	1	ERLE	6	0	3	0	
+0	0	0	R	8	0	4	0		4	1	6	0	
+0	0	0	L	8	0	4	0		4	2	6	0	
+0	1	41	E	8	0	4	0		8	3	6	1	ENSIGN
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	42	J	8	5	6	1	JEROME	6	5	3	0	
+0	0	0	E	8	5	6	0		4	6	11	0	
+0	0	0	R	8	5	6	0		4	7	7	0	
+0	0	0	O	8	5	6	0		0	8	11	0	
+0	0	0	M	8	5	6	0		6	9	3	0	
+0	0	0	E	8	5	6	0		7	10	3	0	
+1	0	0	#	8	12	3	0		9	11	4	0	
+0	1	43	C	8	12	3	1	CAR	5	12	6	0	
+0	0	0	A	8	12	3	0		5	13	6	0	
+0	0	0	R	8	12	3	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	44	T	9	1	3	1	TEN	4	1	6	0	
+0	0	0	E	9	1	3	0		4	2	6	0	
+0	0	0	N	9	1	3	0		8	3	6	0	
+1	0	0	#	9	5	0	0		10	4	4	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	45	N	9	6	3	1	NER	4	6	11	0	
+0	0	0	E	9	6	3	0		4	7	7	0	
+0	0	0	R	9	6	3	0		0	8	11	0	
+1	0	0	#	9	10	4	0		10	9	0	0	
+0	1	46	E	9	10	4	1	EXIT	7	10	3	0	
+0	1	47	X	9	10	4	0		9	11	4	1	XVTG
+0	0	0	I	9	10	4	0		5	12	6	0	
+0	0	0	T	9	10	4	0		5	13	6	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	4	0	
+1	0	0	#	10	3	6	0		11	2	4	0	
+0	1	48	S	10	3	6	1	STBEDE	8	3	6	0	
+0	1	49	T	10	3	6	0		10	4	4	1	TION
+0	1	50	B	10	3	6	0		10	5	3	1	BTU
+0	0	0	E	10	3	6	0		4	6	11	0	
+0	0	0	D	10	3	6	0		4	7	7	0	
+0	0	0	E	10	3	6	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	3	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	51	V	10	11	3	1	VOA	9	11	4	0	
+0	0	0	O	10	11	3	0		5	12	6	0	
+0	0	0	A	10	11	3	0		5	13	6	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	6	0		12	0	3	0	
+0	1	52	S	11	1	6	1	SHIITE	11	1	4	1	SHER
+0	1	53	H	11	1	6	0		11	2	4	1	HEAT
+0	0	0	I	11	1	6	0		8	3	6	0	
+0	0	0	I	11	1	6	0		10	4	4	0	
+0	0	0	T	11	1	6	0		10	5	3	0	
+0	0	0	E	11	1	6	0		4	6	11	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	3	0		12	8	3	0	
+0	1	54	H	11	9	3	1	HST	11	9	3	1	HYP
+0	1	55	S	11	9	3	0		11	10	3	1	SEG
+0	0	0	T	11	9	3	0		9	11	4	0	
+1	0	0	#	11	13	0	0		12	12	3	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	56	T	12	0	15	1	THEGOUDABYEGIRL	12	0	3	1	TLC
+0	0	0	H	12	0	15	0		11	1	4	0	
+0	0	0	E	12	0	15	0		11	2	4	0	
+0	0	0	G	12	0	15	0		8	3	6	0	
+0	0	0	O	12	0	15	0		10	4	4	0	
+0	0	0	U	12	0	15	0		10	5	3	0	
+0	0	0	D	12	0	15	0		4	6	11	0	
+0	1	57	A	12	0	15	0		12	7	3	1	AVI
+0	1	58	B	12	0	15	0		12	8	3	1	BIN
+0	0	0	Y	12	0	15	0		11	9	3	0	
+0	0	0	E	12	0	15	0		11	10	3	0	
+0	0	0	G	12	0	15	0		9	11	4	0	
+0	1	59	I	12	0	15	0		12	12	3	1	ITT
+0	1	60	R	12	0	15	0		12	13	3	1	RGT
+0	1	61	L	12	0	15	0		12	14	3	1	LIT
+0	1	62	L	13	0	5	1	LEANN	12	0	3	0	
+0	0	0	E	13	0	5	0		11	1	4	0	
+0	0	0	A	13	0	5	0		11	2	4	0	
+0	0	0	N	13	0	5	0		8	3	6	0	
+0	0	0	N	13	0	5	0		10	4	4	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	63	L	13	6	5	1	LVIPG	4	6	11	0	
+0	0	0	V	13	6	5	0		12	7	3	0	
+0	0	0	I	13	6	5	0		12	8	3	0	
+0	0	0	P	13	6	5	0		11	9	3	0	
+0	0	0	G	13	6	5	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	64	T	13	12	3	1	TGI	12	12	3	0	
+0	0	0	G	13	12	3	0		12	13	3	0	
+0	0	0	I	13	12	3	0		12	14	3	0	
+0	1	65	C	14	0	3	1	CRT	12	0	3	0	
+0	0	0	R	14	0	3	0		11	1	4	0	
+0	0	0	T	14	0	3	0		11	2	4	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	66	E	14	6	3	1	EIN	4	6	11	0	
+0	0	0	I	14	6	3	0		12	7	3	0	
+0	0	0	N	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	67	T	14	12	3	1	TTT	12	12	3	0	
+0	0	0	T	14	12	3	0		12	13	3	0	
+0	0	0	T	14	12	3	0		12	14	3	0	
+37
+1	MCV	When Emperor Henry IV was dethroned
+4	BHA	Food preservative, briefly
+7	SLA	70's terrorist org.
+10	ORS	Surgery spots, for short
+11	SNERT	Comics dog
+13	TITIS	South American monkeys
+15	MOONLIGHTSONATA	Music to ease the second-job blues?
+18	OSH	___Kosh B'Gosh (kids' clothing line)
+19	HAMMED	Overplayed?
+20	INB	Bach's Mass ___ Minor
+22	SEEKTO	"Never ___ tell thy love": Blake
+24	NEUF	Nine, in Nice
+26	PNE	Log cabin material, maybe
+27	NNE	Miami-to-Boston dir.
+30	OPE	"Set ___ the doors, O soul!": Whitman
+31	THATSO	"Really?"
+34	OURN	Dogpatch possessive
+36	FAD	The macarena, once
+37	PACECAR	Leader at Indy
+39	NRC	A.E.C. successor
+40	ERLE	Perry creator
+42	JEROME	Basso Hines
+43	CAR	Sleeper or smoker
+44	TEN	Tumbler's dream
+45	NER	___ Tamid (synagogue lamp)
+46	EXIT	Place to pay a toll, perhaps
+48	STBEDE	Canonized monk who introduced the custom of dating events from the birth of Christ
+51	VOA	Cold war broadcaster: Abbr.
+52	SHIITE	Majority Muslim in Iran
+54	HST	Presidential inits. from Missouri
+56	THEGOUDABYEGIRL	Cheesy 1977 comedy?
+62	LEANN	Country singer Rimes
+63	LVIPG	Eye-related
+64	TGI	___ Friday's
+65	CRT	PC screen
+66	EIN	German magazine article
+67	TTT	Fort Smith-to-Little Rock dir.
+41
+1	MOM	Classic tattoo
+2	CRO	___-Magnon
+3	VSO	Letters on a brandy bottle
+4	BEG	Seek spare change
+5	HRH	Queen Eliz., e.g.
+6	ATTHEESCORE	1914 Edgar Rice Burroughs novel set in an underground land
+7	STAE	Union member
+8	LITD	English professor's deg.
+9	ASA	Simile part
+11	SLS	Some Mercedes-Benzes
+12	NIH	Medical research org.
+13	TOMT	Barnum midget
+14	INMONO	Like old AM radio
+16	NOBU	International chain of fusion cuisine restaurants
+17	SAK	Cinch ___ (Hefty garbage bag brand)
+20	INPART	Not completely
+21	NEEDLE	Part of a meter
+22	SPACENEEDLE	Landmark in Elvis Presley's "It Happened at the World's Fair"
+23	ENTERED	Put down
+25	FTP	Way to send docs. electronically
+28	NUNCIO	Vatican emissary
+29	ERRATA	Mess-ups
+30	OFE	Just recently
+32	HAJ	Once-in-a-lifetime trip, for some
+33	OAM	When "S.N.L." ends
+35	NCR	Money machine co.
+38	REE	Riddle-me-___ (line in a children's rhyme)
+41	ENSIGN	Coast Guard rank
+47	XVTG	Sharp-billed diver
+49	TION	Relative of -ance
+50	BTU	A.C. unit
+52	SHER	"Fer ___!"
+53	HEAT	Kind of index
+54	HYP	Under: Prefix
+55	SEG	Div.
+56	TLC	What good R.N.'s dispense
+57	AVI	Prefix with culture
+58	BIN	Crib
+59	ITT	Cousin of TV
+60	RGT	Mil. unit
+61	LIT	Boozy

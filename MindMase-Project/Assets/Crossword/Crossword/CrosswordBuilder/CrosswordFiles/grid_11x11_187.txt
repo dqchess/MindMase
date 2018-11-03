@@ -1,0 +1,169 @@
+grid_11x11_187
+11
+0	1	1	P	0	0	4	1	PAIR	0	0	3	1	PVC
+0	1	2	A	0	0	4	0		0	1	3	1	AER
+0	1	3	I	0	0	4	0		0	2	3	1	III
+0	1	4	R	0	0	4	0		0	3	3	1	RLS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	6	0	
+0	1	5	T	0	8	3	1	TAM	0	8	3	1	TAI
+0	1	6	A	0	8	3	0		0	9	3	1	ATN
+0	1	7	M	0	8	3	0		0	10	3	1	MET
+0	1	8	V	1	0	5	1	VEILS	0	0	3	0	
+0	0	0	E	1	0	5	0		0	1	3	0	
+0	0	0	I	1	0	5	0		0	2	3	0	
+0	0	0	L	1	0	5	0		0	3	3	0	
+0	1	9	S	1	0	5	0		1	4	3	1	SIE
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	10	S	1	6	5	1	SDATE	1	6	5	1	SPAIN
+0	1	11	D	1	6	5	0		1	7	6	1	DONEIN
+0	0	0	A	1	6	5	0		0	8	3	0	
+0	0	0	T	1	6	5	0		0	9	3	0	
+0	0	0	E	1	6	5	0		0	10	3	0	
+0	1	12	C	2	0	11	1	CRISISPOINT	0	0	3	0	
+0	0	0	R	2	0	11	0		0	1	3	0	
+0	0	0	I	2	0	11	0		0	2	3	0	
+0	0	0	S	2	0	11	0		0	3	3	0	
+0	0	0	I	2	0	11	0		1	4	3	0	
+0	1	13	S	2	0	11	0		2	5	7	1	SLYNESS
+0	0	0	P	2	0	11	0		1	6	5	0	
+0	0	0	O	2	0	11	0		1	7	6	0	
+0	0	0	I	2	0	11	0		0	8	3	0	
+0	0	0	N	2	0	11	0		0	9	3	0	
+0	0	0	T	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	3	0	
+1	0	0	#	3	3	0	0		4	2	3	0	
+1	0	0	#	3	4	4	0		4	3	6	0	
+0	1	14	E	3	4	4	1	ELAN	1	4	3	0	
+0	0	0	L	3	4	4	0		2	5	7	0	
+0	0	0	A	3	4	4	0		1	6	5	0	
+0	0	0	N	3	4	4	0		1	7	6	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	15	N	4	0	4	1	NODI	4	0	3	1	NBS
+0	1	16	O	4	0	4	0		4	1	3	1	OON
+0	1	17	D	4	0	4	0		4	2	3	1	DUE
+0	1	18	I	4	0	4	0		4	3	6	1	ITEMED
+1	0	0	#	4	5	6	0		5	4	5	0	
+0	1	19	Y	4	5	6	1	YIELDS	2	5	7	0	
+0	0	0	I	4	5	6	0		1	6	5	0	
+0	0	0	E	4	5	6	0		1	7	6	0	
+0	1	20	L	4	5	6	0		4	8	3	1	LEO
+0	1	21	D	4	5	6	0		4	9	3	1	DRI
+0	1	22	S	4	5	6	0		4	10	3	1	SET
+0	1	23	B	5	0	11	1	BOUTONNIERE	4	0	3	0	
+0	0	0	O	5	0	11	0		4	1	3	0	
+0	0	0	U	5	0	11	0		4	2	3	0	
+0	0	0	T	5	0	11	0		4	3	6	0	
+0	1	24	O	5	0	11	0		5	4	5	1	OZONE
+0	0	0	N	5	0	11	0		2	5	7	0	
+0	0	0	N	5	0	11	0		1	6	5	0	
+0	0	0	I	5	0	11	0		1	7	6	0	
+0	0	0	E	5	0	11	0		4	8	3	0	
+0	0	0	R	5	0	11	0		4	9	3	0	
+0	0	0	E	5	0	11	0		4	10	3	0	
+0	1	25	S	6	0	6	1	SNEEZE	4	0	3	0	
+0	0	0	N	6	0	6	0		4	1	3	0	
+0	0	0	E	6	0	6	0		4	2	3	0	
+0	0	0	E	6	0	6	0		4	3	6	0	
+0	0	0	Z	6	0	6	0		5	4	5	0	
+0	0	0	E	6	0	6	0		2	5	7	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	26	N	6	7	4	1	NOIT	1	7	6	0	
+0	0	0	O	6	7	4	0		4	8	3	0	
+0	0	0	I	6	7	4	0		4	9	3	0	
+0	0	0	T	6	7	4	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	4	0		8	2	3	0	
+0	1	27	M	7	3	4	1	MOSC	4	3	6	0	
+0	0	0	O	7	3	4	0		5	4	5	0	
+0	0	0	S	7	3	4	0		2	5	7	0	
+0	1	28	C	7	3	4	0		7	6	3	1	CAL
+1	0	0	#	7	8	0	0		8	7	3	0	
+1	0	0	#	7	9	0	0		8	8	3	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	29	W	8	0	11	1	WOMENSADLIB	8	0	3	1	WBA
+0	1	30	O	8	0	11	0		8	1	3	1	ORC
+0	1	31	M	8	0	11	0		8	2	3	1	MIC
+0	0	0	E	8	0	11	0		4	3	6	0	
+0	0	0	N	8	0	11	0		5	4	5	0	
+0	0	0	S	8	0	11	0		2	5	7	0	
+0	0	0	A	8	0	11	0		7	6	3	0	
+0	1	32	D	8	0	11	0		8	7	3	1	DUM
+0	1	33	L	8	0	11	0		8	8	3	1	LLB
+0	1	34	I	8	0	11	0		8	9	3	1	ILA
+0	1	35	B	8	0	11	0		8	10	3	1	BSS
+0	1	36	B	9	0	5	1	BRIDE	8	0	3	0	
+0	0	0	R	9	0	5	0		8	1	3	0	
+0	0	0	I	9	0	5	0		8	2	3	0	
+0	0	0	D	9	0	5	0		4	3	6	0	
+0	0	0	E	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	37	L	9	6	5	1	LULLS	7	6	3	0	
+0	0	0	U	9	6	5	0		8	7	3	0	
+0	0	0	L	9	6	5	0		8	8	3	0	
+0	0	0	L	9	6	5	0		8	9	3	0	
+0	0	0	S	9	6	5	0		8	10	3	0	
+0	1	38	A	10	0	3	1	ACC	8	0	3	0	
+0	0	0	C	10	0	3	0		8	1	3	0	
+0	0	0	C	10	0	3	0		8	2	3	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	4	0		11	6	0	0	
+0	1	39	M	10	7	4	1	MBAS	8	7	3	0	
+0	0	0	B	10	7	4	0		8	8	3	0	
+0	0	0	A	10	7	4	0		8	9	3	0	
+0	0	0	S	10	7	4	0		8	10	3	0	
+17
+1	PAIR	Duet
+5	TAM	Plus fours go-with
+8	VEILS	Harem accessories
+10	SDATE	Entry in a spaceship log
+12	CRISISPOINT	Do-or-die time
+14	ELAN	Spirited style
+15	NODI	Knots
+19	YIELDS	Gives in
+23	BOUTONNIERE	Lapel adornment
+25	SNEEZE	Cold sound
+26	NOIT	"___ can't be!"
+27	MOSC	Its coat of arms features a horseman spearing a dragon
+29	WOMENSADLIB	Female improv?
+36	BRIDE	One given away
+37	LULLS	Downtimes
+38	ACC	U.S. C. : Pac 10 :: Duke : ___
+39	MBAS	Stern School degs.
+27
+1	PVC	Insulation ingredient, for short
+2	AER	Cousin of atmo-
+3	III	George ___, longest-reigning English king
+4	RLS	Initials in 19th-century lit.
+5	TAI	Mai ___ (tropical drink)
+6	ATN	When some stores open
+7	MET	Came across
+9	SIE	Opposite of me, in Munich
+10	SPAIN	Onetime colonial power in the Philippines
+11	DONEIN	Foiled
+13	SLYNESS	Fox's trait
+15	NBS	Measurements overseer: Abbr.
+16	OON	Suffix with pont-
+17	DUE	Kind of date
+18	ITEMED	Detailed, old-style
+20	LEO	Durocher or DiCaprio
+21	DRI	Soft & ___ (Gillette product)
+22	SET	Put down
+24	OZONE	Upper atmosphere layer
+28	CAL	Ariz. neighbor
+29	WBA	Pugilists' grp.
+30	ORC	"The Silmarillion" creature
+31	MIC	Abbr. on an input jack
+32	DUM	Scat syllable
+33	LLB	Legal deg.
+34	ILA	Dockworkers' grp.
+35	BSS	M.I.T. degs.

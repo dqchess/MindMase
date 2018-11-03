@@ -1,0 +1,237 @@
+grid_13x13_31
+13
+0	1	1	A	0	0	3	1	ACK	0	0	3	1	AAR
+0	1	2	C	0	0	3	0		0	1	3	1	CCU
+0	1	3	K	0	0	3	0		0	2	13	1	KINGOFTHEROAD
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	J	0	5	3	1	JLO	0	5	3	1	JNR
+0	1	5	L	0	5	3	0		0	6	3	1	LAO
+0	1	6	O	0	5	3	0		0	7	3	1	ONS
+1	0	0	#	0	9	0	0		1	8	4	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	S	0	10	3	1	SEP	0	10	13	1	SWARMTHEBENCH
+0	1	8	E	0	10	3	0		0	11	3	1	EDS
+0	1	9	P	0	10	3	0		0	12	3	1	PSU
+0	1	10	A	1	0	4	1	ACID	0	0	3	0	
+0	0	0	C	1	0	4	0		0	1	3	0	
+0	0	0	I	1	0	4	0		0	2	13	0	
+0	1	11	D	1	0	4	0		1	3	3	1	DAI
+1	0	0	#	1	5	4	0		2	4	4	0	
+0	1	12	N	1	5	4	1	NANU	0	5	3	0	
+0	0	0	A	1	5	4	0		0	6	3	0	
+0	0	0	N	1	5	4	0		0	7	3	0	
+0	1	13	U	1	5	4	0		1	8	4	1	USCG
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	W	1	10	3	1	WDS	0	10	13	0	
+0	0	0	D	1	10	3	0		0	11	3	0	
+0	0	0	S	1	10	3	0		0	12	3	0	
+0	1	15	R	2	0	9	1	RUNACROSS	0	0	3	0	
+0	0	0	U	2	0	9	0		0	1	3	0	
+0	0	0	N	2	0	9	0		0	2	13	0	
+0	0	0	A	2	0	9	0		1	3	3	0	
+0	1	16	C	2	0	9	0		2	4	4	1	CSNE
+0	0	0	R	2	0	9	0		0	5	3	0	
+0	0	0	O	2	0	9	0		0	6	3	0	
+0	0	0	S	2	0	9	0		0	7	3	0	
+0	0	0	S	2	0	9	0		1	8	4	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	17	A	2	10	3	1	ASU	0	10	13	0	
+0	0	0	S	2	10	3	0		0	11	3	0	
+0	0	0	U	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	18	G	3	2	3	1	GIS	0	2	13	0	
+0	0	0	I	3	2	3	0		1	3	3	0	
+0	0	0	S	3	2	3	0		2	4	4	0	
+1	0	0	#	3	6	0	0		4	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	3	0		4	7	5	0	
+0	1	19	C	3	8	3	1	CTR	1	8	4	0	
+0	1	20	T	3	8	3	0		3	9	3	1	TAL
+0	0	0	R	3	8	3	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	21	A	4	0	3	1	ABO	4	0	3	1	AAP
+0	1	22	B	4	0	3	0		4	1	5	1	BROAD
+0	0	0	O	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	8	0		5	3	0	0	
+0	1	23	N	4	4	8	1	NCAAGAME	2	4	4	0	
+0	1	24	C	4	4	8	0		4	5	5	1	CHAWS
+0	1	25	A	4	4	8	0		4	6	5	1	AUDEN
+0	1	26	A	4	4	8	0		4	7	5	1	ADELE
+0	0	0	G	4	4	8	0		1	8	4	0	
+0	0	0	A	4	4	8	0		3	9	3	0	
+0	0	0	M	4	4	8	0		0	10	13	0	
+0	1	27	E	4	4	8	0		4	11	5	1	EDSEL
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	28	A	5	0	3	1	ARF	4	0	3	0	
+0	0	0	R	5	0	3	0		4	1	5	0	
+0	0	0	F	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	29	E	5	4	4	1	EHUD	2	4	4	0	
+0	0	0	H	5	4	4	0		4	5	5	0	
+0	0	0	U	5	4	4	0		4	6	5	0	
+0	0	0	D	5	4	4	0		4	7	5	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	30	L	5	9	3	1	LTD	3	9	3	0	
+0	0	0	T	5	9	3	0		0	10	13	0	
+0	0	0	D	5	9	3	0		4	11	5	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	31	P	6	0	3	1	POT	4	0	3	0	
+0	0	0	O	6	0	3	0		4	1	5	0	
+0	0	0	T	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	32	A	6	5	3	1	ADE	4	5	5	0	
+0	0	0	D	6	5	3	0		4	6	5	0	
+0	0	0	E	6	5	3	0		4	7	5	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	33	H	6	10	3	1	HSN	0	10	13	0	
+0	0	0	S	6	10	3	0		4	11	5	0	
+0	1	34	N	6	10	3	0		6	12	3	1	NGO
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	35	A	7	1	3	1	AHS	4	1	5	0	
+0	0	0	H	7	1	3	0		0	2	13	0	
+0	1	36	S	7	1	3	0		7	3	3	1	SMA
+1	0	0	#	7	5	4	0		8	4	4	0	
+0	1	37	W	7	5	4	1	WELD	4	5	5	0	
+0	0	0	E	7	5	4	0		4	6	5	0	
+0	0	0	L	7	5	4	0		4	7	5	0	
+0	1	38	D	7	5	4	0		7	8	4	1	DSCS
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	39	E	7	10	3	1	EEG	0	10	13	0	
+0	0	0	E	7	10	3	0		4	11	5	0	
+0	0	0	G	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	8	0		9	0	0	0	
+0	1	40	D	8	1	8	1	DEMESNES	4	1	5	0	
+0	0	0	E	8	1	8	0		0	2	13	0	
+0	0	0	M	8	1	8	0		7	3	3	0	
+0	1	41	E	8	1	8	0		8	4	4	1	EGAD
+0	0	0	S	8	1	8	0		4	5	5	0	
+0	0	0	N	8	1	8	0		4	6	5	0	
+0	0	0	E	8	1	8	0		4	7	5	0	
+0	0	0	S	8	1	8	0		7	8	4	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	42	B	8	10	3	1	BLO	0	10	13	0	
+0	0	0	L	8	10	3	0		4	11	5	0	
+0	0	0	O	8	10	3	0		6	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	43	R	9	2	3	1	RAG	0	2	13	0	
+0	0	0	A	9	2	3	0		7	3	3	0	
+0	0	0	G	9	2	3	0		8	4	4	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	44	C	9	8	3	1	COE	7	8	4	0	
+0	1	45	O	9	8	3	0		9	9	3	1	OID
+0	0	0	E	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	W	10	0	3	1	WHO	10	0	3	1	WYE
+0	1	47	H	10	0	3	0		10	1	3	1	HEA
+0	0	0	O	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	9	0		11	3	0	0	
+0	1	48	A	10	4	9	1	ABYSSINIA	8	4	4	0	
+0	1	49	B	10	4	9	0		10	5	3	1	BAS
+0	1	50	Y	10	4	9	0		10	6	3	1	YFR
+0	1	51	S	10	4	9	0		10	7	3	1	STS
+0	0	0	S	10	4	9	0		7	8	4	0	
+0	0	0	I	10	4	9	0		9	9	3	0	
+0	0	0	N	10	4	9	0		0	10	13	0	
+0	1	52	I	10	4	9	0		10	11	3	1	ICE
+0	1	53	A	10	4	9	0		10	12	3	1	ACE
+0	1	54	Y	11	0	3	1	YEA	10	0	3	0	
+0	0	0	E	11	0	3	0		10	1	3	0	
+0	0	0	A	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	55	D	11	4	4	1	DAFT	8	4	4	0	
+0	0	0	A	11	4	4	0		10	5	3	0	
+0	0	0	F	11	4	4	0		10	6	3	0	
+0	0	0	T	11	4	4	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	56	D	11	9	4	1	DCCC	9	9	3	0	
+0	0	0	C	11	9	4	0		0	10	13	0	
+0	0	0	C	11	9	4	0		10	11	3	0	
+0	0	0	C	11	9	4	0		10	12	3	0	
+0	1	57	E	12	0	3	1	EAD	10	0	3	0	
+0	0	0	A	12	0	3	0		10	1	3	0	
+0	0	0	D	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	58	S	12	5	3	1	SRS	10	5	3	0	
+0	0	0	R	12	5	3	0		10	6	3	0	
+0	0	0	S	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	59	H	12	10	3	1	HEE	0	10	13	0	
+0	0	0	E	12	10	3	0		10	11	3	0	
+0	0	0	E	12	10	3	0		10	12	3	0	
+33
+1	ACK	Relative of "Oh, no!"
+4	JLO	Four-time platinum album of 2001
+7	SEP	Patriot Day mo.
+10	ACID	Hydrochloric ___
+12	NANU	When repeated, Mork's sign-off
+14	WDS	Sentence fragments?: Abbr.
+15	RUNACROSS	Stumble upon
+17	ASU	Montgomery sch.
+18	GIS	Dogfaces
+19	CTR	Hdqrs.
+21	ABO	Blood-type letters
+23	NCAAGAME	March Madness feature
+28	ARF	Terrier's sound
+29	EHUD	Former Israeli P.M. Olmert
+30	LTD	Inc., in Britain
+31	POT	Stovetop item
+32	ADE	"The Sultan of Sulu" writer
+33	HSN	Cable inits. for sales pitches
+35	AHS	Spa sounds
+37	WELD	Join of arc?
+39	EEG	Stream of consciousness, for short?
+40	DEMESNES	Lands around mansions
+42	BLO	Slo-___ fuse
+43	RAG	Tease mercilessly, with "on"
+44	COE	College in Cedar Rapids
+46	WHO	"___ cares?"
+48	ABYSSINIA	Whence some cats
+54	YEA	Its anagram is a synonym of itself
+55	DAFT	A bit cuckoo
+56	DCCC	800, to Caesar
+57	EAD	Year that Augustus exiled Ovid
+58	SRS	Some fathers: Abbr.
+59	HEE	Laugh part
+31
+1	AAR	Alpine stream
+2	CCU	Heart ward, for short
+3	KINGOFTHEROAD	1965 Roger Miller hit
+4	JNR	Dad's namesake: Abbr.
+5	LAO	Pathet ___
+6	ONS	Carry-___
+7	SWARMTHEBENCH	Mob some second-stringers?
+8	EDS	Mag. staff
+9	PSU	Sch. in the Big Ten
+11	DAI	Bao ___ (former Vietnamese emperor)
+13	USCG	Grp. that patrols shores
+16	CSNE	Fruit holder
+20	TAL	Chess champ Mikhail
+21	AAP	Store chain since 1859
+22	BROAD	Panoramic
+24	CHAWS	Provincial plugs
+25	AUDEN	Poet W. H. ___
+26	ADELE	Dance partner for Fred
+27	EDSEL	1950s Ford flop
+34	NGO	___ Dinh Diem (first president of South Vietnam)
+36	SMA	Diminutive, in Dundee
+38	DSCS	Mil. medals
+41	EGAD	Antiquated outburst
+45	OID	Suffix with fact or planet
+46	WYE	Slingshot's shape
+47	HEA	"Isn't ___ bit like you and me?" (Beatles lyric)
+49	BAS	Many undergrad degs.
+50	YFR	N.B.A.
+51	STS	Bourbon and Beale: Abbr.
+52	ICE	Skating surface
+53	ACE	Big name in hardware

@@ -1,0 +1,167 @@
+grid_11x11_76
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	5	0	
+0	1	1	H	0	2	3	1	HAH	0	2	6	1	HOOTED
+0	1	2	A	0	2	3	0		0	3	3	1	AUR
+0	1	3	H	0	2	3	0		0	4	4	1	HSIA
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	S	0	7	3	1	SOI	0	7	6	1	SUNTAN
+0	1	5	O	0	7	3	0		0	8	4	1	OTOE
+0	1	6	I	0	7	3	0		0	9	4	1	IOTA
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	L	1	1	4	1	LOUS	1	1	5	1	LAFFS
+0	0	0	O	1	1	4	0		0	2	6	0	
+0	0	0	U	1	1	4	0		0	3	3	0	
+0	0	0	S	1	1	4	0		0	4	4	0	
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	8	O	1	6	5	1	OUTOF	1	6	5	1	OTARU
+0	0	0	U	1	6	5	0		0	7	6	0	
+0	0	0	T	1	6	5	0		0	8	4	0	
+0	0	0	O	1	6	5	0		0	9	4	0	
+0	1	9	F	1	6	5	0		1	10	3	1	FEM
+0	1	10	M	2	0	5	1	MAORI	2	0	3	1	MOO
+0	0	0	A	2	0	5	0		1	1	5	0	
+0	0	0	O	2	0	5	0		0	2	6	0	
+0	0	0	R	2	0	5	0		0	3	3	0	
+0	0	0	I	2	0	5	0		0	4	4	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	11	T	2	6	5	1	TNOTE	1	6	5	0	
+0	0	0	N	2	6	5	0		0	7	6	0	
+0	0	0	O	2	6	5	0		0	8	4	0	
+0	0	0	T	2	6	5	0		0	9	4	0	
+0	0	0	E	2	6	5	0		1	10	3	0	
+0	1	12	O	3	0	3	1	OFT	2	0	3	0	
+0	0	0	F	3	0	3	0		1	1	5	0	
+0	0	0	T	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	7	0		4	3	0	0	
+0	1	13	A	3	4	7	1	ASATEAM	0	4	4	0	
+0	1	14	S	3	4	7	0		3	5	5	1	STPAT
+0	0	0	A	3	4	7	0		1	6	5	0	
+0	0	0	T	3	4	7	0		0	7	6	0	
+0	0	0	E	3	4	7	0		0	8	4	0	
+0	0	0	A	3	4	7	0		0	9	4	0	
+0	0	0	M	3	4	7	0		1	10	3	0	
+0	1	15	O	4	0	3	1	OFE	2	0	3	0	
+0	0	0	F	4	0	3	0		1	1	5	0	
+0	0	0	E	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	3	0		5	4	5	0	
+0	1	16	T	4	5	3	1	TRA	3	5	5	0	
+0	0	0	R	4	5	3	0		1	6	5	0	
+0	0	0	A	4	5	3	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	17	S	5	1	9	1	SDAYPUNCH	1	1	5	0	
+0	0	0	D	5	1	9	0		0	2	6	0	
+0	1	18	A	5	1	9	0		5	3	6	1	ALCOVE
+0	1	19	Y	5	1	9	0		5	4	5	1	YIELD
+0	0	0	P	5	1	9	0		3	5	5	0	
+0	0	0	U	5	1	9	0		1	6	5	0	
+0	0	0	N	5	1	9	0		0	7	6	0	
+0	1	20	C	5	1	9	0		5	8	6	1	CONSUL
+0	1	21	H	5	1	9	0		5	9	5	1	HOBOS
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	22	L	6	3	3	1	LIA	5	3	6	0	
+0	0	0	I	6	3	3	0		5	4	5	0	
+0	0	0	A	6	3	3	0		3	5	5	0	
+1	0	0	#	6	7	0	0		7	6	4	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	23	O	6	8	3	1	OOF	5	8	6	0	
+0	0	0	O	6	8	3	0		5	9	5	0	
+0	1	24	F	6	8	3	0		6	10	3	1	FAN
+0	1	25	L	7	0	7	1	LANCETS	7	0	3	1	LAO
+0	1	26	A	7	0	7	0		7	1	4	1	ACNE
+0	1	27	N	7	0	7	0		7	2	4	1	NODE
+0	0	0	C	7	0	7	0		5	3	6	0	
+0	0	0	E	7	0	7	0		5	4	5	0	
+0	0	0	T	7	0	7	0		3	5	5	0	
+0	1	28	S	7	0	7	0		7	6	4	1	SOIL
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	29	N	7	8	3	1	NBA	5	8	6	0	
+0	0	0	B	7	8	3	0		5	9	5	0	
+0	0	0	A	7	8	3	0		6	10	3	0	
+0	1	30	A	8	0	5	1	ACOOL	7	0	3	0	
+0	0	0	C	8	0	5	0		7	1	4	0	
+0	0	0	O	8	0	5	0		7	2	4	0	
+0	0	0	O	8	0	5	0		5	3	6	0	
+0	0	0	L	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	31	O	8	6	5	1	ORSON	7	6	4	0	
+0	1	32	R	8	6	5	0		8	7	3	1	ROD
+0	0	0	S	8	6	5	0		5	8	6	0	
+0	0	0	O	8	6	5	0		5	9	5	0	
+0	0	0	N	8	6	5	0		6	10	3	0	
+0	1	33	O	9	0	5	1	ONDVD	7	0	3	0	
+0	0	0	N	9	0	5	0		7	1	4	0	
+0	0	0	D	9	0	5	0		7	2	4	0	
+0	0	0	V	9	0	5	0		5	3	6	0	
+0	0	0	D	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	34	I	9	6	4	1	IOUS	7	6	4	0	
+0	0	0	O	9	6	4	0		8	7	3	0	
+0	0	0	U	9	6	4	0		5	8	6	0	
+0	0	0	S	9	6	4	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	35	E	10	1	3	1	EEE	7	1	4	0	
+0	0	0	E	10	1	3	0		7	2	4	0	
+0	0	0	E	10	1	3	0		5	3	6	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	36	L	10	6	3	1	LDL	7	6	4	0	
+0	0	0	D	10	6	3	0		8	7	3	0	
+0	0	0	L	10	6	3	0		5	8	6	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	HAH	"Yeah, right!"
+4	SOI	___-disant
+7	LOUS	Rawls and Reed
+8	OUTOF	Words before sight and mind
+10	MAORI	They greet each other by pressing their noses together
+11	TNOTE	Gov't security
+12	OFT	Frequently, in brief
+13	ASATEAM	Unitedly
+15	OFE	Just recently
+16	TRA	Part of a chorus line?
+17	SDAYPUNCH	Crushing blow
+22	LIA	Debussy's "Air de ___"
+23	OOF	Reaction to a slug
+25	LANCETS	High, narrow windows ending in arches
+29	NBA	Rockets grp.
+30	ACOOL	Get ___ reception
+31	ORSON	Welles of "Citizen Kane"
+33	ONDVD	Like many old series, now
+34	IOUS	Poor writer's scribblings?
+35	EEE	Large shoe specification
+36	LDL	"Bad" cholesterol, initially
+21
+1	HOOTED	Jeered
+2	AUR	Gold: Prefix
+3	HSIA	Dynasty before the Shang
+4	SUNTAN	Get dark?
+5	OTOE	Plains tribe
+6	IOTA	Trace
+7	LAFFS	Comedy club responses
+8	OTARU	Hokkaido seaport
+9	FEM	Gender abbr.
+10	MOO	___ juice (milk)
+14	STPAT	Annual parade honoree, informally
+18	ALCOVE	Breakfast place
+19	YIELD	Triangular road sign
+20	CONSUL	Certain diplomat
+21	HOBOS	Rail riders
+24	FAN	Cool, in a way
+25	LAO	"7 Faces of Dr. ___" (1964 movie)
+26	ACNE	Prom night worry
+27	NODE	Botanical joint
+28	SOIL	Stain
+32	ROD	Heater

@@ -1,0 +1,169 @@
+grid_11x11_82
+11
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	W	0	1	3	1	WAX	0	1	6	1	WAFERS
+0	1	2	A	0	1	3	0		0	2	6	1	ASMASH
+0	1	3	X	0	1	3	0		0	3	3	1	XCI
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	E	0	7	3	1	ETD	0	7	3	1	ERN
+0	1	5	T	0	7	3	0		0	8	4	1	TODO
+0	1	6	D	0	7	3	0		0	9	4	1	DUMA
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	J	1	0	6	1	JASCHA	1	0	4	1	JOKE
+0	0	0	A	1	0	6	0		0	1	6	0	
+0	0	0	S	1	0	6	0		0	2	6	0	
+0	0	0	C	1	0	6	0		0	3	3	0	
+0	1	8	H	1	0	6	0		1	4	3	1	HCL
+0	1	9	A	1	0	6	0		1	5	9	1	AEGEANSEA
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	10	R	1	7	4	1	ROUX	0	7	3	0	
+0	0	0	O	1	7	4	0		0	8	4	0	
+0	0	0	U	1	7	4	0		0	9	4	0	
+0	1	11	X	1	7	4	0		1	10	3	1	XES
+0	1	12	O	2	0	11	1	OFMICEANDME	1	0	4	0	
+0	0	0	F	2	0	11	0		0	1	6	0	
+0	0	0	M	2	0	11	0		0	2	6	0	
+0	0	0	I	2	0	11	0		0	3	3	0	
+0	0	0	C	2	0	11	0		1	4	3	0	
+0	0	0	E	2	0	11	0		1	5	9	0	
+0	1	13	A	2	0	11	0		2	6	4	1	ASIT
+0	0	0	N	2	0	11	0		0	7	3	0	
+0	0	0	D	2	0	11	0		0	8	4	0	
+0	0	0	M	2	0	11	0		0	9	4	0	
+0	0	0	E	2	0	11	0		1	10	3	0	
+0	1	14	K	3	0	3	1	KEA	1	0	4	0	
+0	0	0	E	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	15	L	3	4	3	1	LGS	1	4	3	0	
+0	0	0	G	3	4	3	0		1	5	9	0	
+0	0	0	S	3	4	3	0		2	6	4	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	O	3	8	3	1	OAS	0	8	4	0	
+0	0	0	A	3	8	3	0		0	9	4	0	
+0	0	0	S	3	8	3	0		1	10	3	0	
+0	1	17	E	4	0	4	1	ERST	1	0	4	0	
+0	0	0	R	4	0	4	0		0	1	6	0	
+0	0	0	S	4	0	4	0		0	2	6	0	
+0	1	18	T	4	0	4	0		4	3	3	1	TEX
+1	0	0	#	4	5	3	0		5	4	4	0	
+0	1	19	E	4	5	3	1	EIK	1	5	9	0	
+0	0	0	I	4	5	3	0		2	6	4	0	
+0	1	20	K	4	5	3	0		4	7	3	1	KEG
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	21	S	5	1	9	1	SHEDATEAR	0	1	6	0	
+0	0	0	H	5	1	9	0		0	2	6	0	
+0	0	0	E	5	1	9	0		4	3	3	0	
+0	1	22	D	5	1	9	0		5	4	4	1	DIRT
+0	0	0	A	5	1	9	0		1	5	9	0	
+0	0	0	T	5	1	9	0		2	6	4	0	
+0	0	0	E	5	1	9	0		4	7	3	0	
+0	1	23	A	5	1	9	0		5	8	6	1	AACELL
+0	1	24	R	5	1	9	0		5	9	6	1	RUTTED
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	25	X	6	3	3	1	XIN	4	3	3	0	
+0	0	0	I	6	3	3	0		5	4	4	0	
+0	0	0	N	6	3	3	0		1	5	9	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	26	G	6	7	4	1	GAUL	4	7	3	0	
+0	0	0	A	6	7	4	0		5	8	6	0	
+0	0	0	U	6	7	4	0		5	9	6	0	
+0	1	27	L	6	7	4	0		6	10	4	1	LATS
+0	1	28	V	7	0	3	1	VCR	7	0	3	1	VFW
+0	1	29	C	7	0	3	0		7	1	4	1	CITO
+0	1	30	R	7	0	3	0		7	2	4	1	RGWJ
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	31	R	7	4	3	1	RSA	5	4	4	0	
+0	0	0	S	7	4	3	0		1	5	9	0	
+0	1	32	A	7	4	3	0		7	6	3	1	ARM
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	33	C	7	8	3	1	CTA	5	8	6	0	
+0	0	0	T	7	8	3	0		5	9	6	0	
+0	0	0	A	7	8	3	0		6	10	4	0	
+0	1	34	F	8	0	11	1	FIGHTERJETT	7	0	3	0	
+0	0	0	I	8	0	11	0		7	1	4	0	
+0	0	0	G	8	0	11	0		7	2	4	0	
+0	1	35	H	8	0	11	0		8	3	3	1	HOO
+0	0	0	T	8	0	11	0		5	4	4	0	
+0	0	0	E	8	0	11	0		1	5	9	0	
+0	0	0	R	8	0	11	0		7	6	3	0	
+0	1	36	J	8	0	11	0		8	7	3	1	JOE
+0	0	0	E	8	0	11	0		5	8	6	0	
+0	0	0	T	8	0	11	0		5	9	6	0	
+0	0	0	T	8	0	11	0		6	10	4	0	
+0	1	37	W	9	0	4	1	WTWO	7	0	3	0	
+0	0	0	T	9	0	4	0		7	1	4	0	
+0	0	0	W	9	0	4	0		7	2	4	0	
+0	0	0	O	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	38	A	9	5	6	1	AMOLES	1	5	9	0	
+0	0	0	M	9	5	6	0		7	6	3	0	
+0	0	0	O	9	5	6	0		8	7	3	0	
+0	0	0	L	9	5	6	0		5	8	6	0	
+0	0	0	E	9	5	6	0		5	9	6	0	
+0	0	0	S	9	5	6	0		6	10	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	39	O	10	1	3	1	OJO	7	1	4	0	
+0	0	0	J	10	1	3	0		7	2	4	0	
+0	0	0	O	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	40	E	10	7	3	1	ELD	8	7	3	0	
+0	0	0	L	10	7	3	0		5	8	6	0	
+0	0	0	D	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	WAX	You might put your stamp on it
+4	ETD	Announcement at a terminal, in brief
+7	JASCHA	Violinist Heifetz
+10	ROUX	Soup thickener
+12	OFMICEANDME	Memoirs of a psychology lab maze builder?
+14	KEA	Mauna ___
+15	LGS	Some football linemen: Abbr.
+16	OAS	Alliance formed 4/30/48: Abbr.
+17	ERST	"Step the meek fowls where ___ they ranged": Emerson
+19	EIK	Apt. feature, in the classifieds
+21	SHEDATEAR	More than mist up
+25	XIN	Mark, as a ballot square
+26	GAUL	France, under Caesar
+28	VCR	Taper, for short
+31	RSA	Cape Town's country: Abbr.
+33	CTA	Loop group: Abbr.
+34	FIGHTERJETT	Airplane for a rock singer?
+37	WTWO	*I.R.S. form
+38	AMOLES	Soap plants
+39	OJO	Acapulco "eye"
+40	ELD	Later years, poetically
+23
+1	WAFERS	Thin treats
+2	ASMASH	Quite the success
+3	XCI	Year in Domitian's reign
+4	ERN	West end?
+5	TODO	List-starting words
+6	DUMA	Russian council
+7	JOKE	Crack
+8	HCL	Stomach acid, symbolically
+9	AEGEANSEA	Ios is in it
+11	XES	Indicates a choice, in a way
+13	ASIT	"...___ is in heaven": Matthew
+18	TEX	Western moniker
+20	KEG	Tapping site
+22	DIRT	Malicious gossip
+23	AACELL	Certain battery
+24	RUTTED	Like a wagon trail
+27	LATS	Some muscles, informally
+28	VFW	Ex-G.I.'s grp.
+29	CITO	Baseball's ___ Gaston
+30	RGWJ	Actress Gilbert of "Roseanne"
+32	ARM	Sleeve's contents
+35	HOO	___-ha
+36	JOE	Quarterback Namath

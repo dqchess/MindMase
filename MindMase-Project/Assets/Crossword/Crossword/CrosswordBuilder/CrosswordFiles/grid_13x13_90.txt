@@ -1,0 +1,231 @@
+grid_13x13_90
+13
+0	1	1	B	0	0	3	1	BTW	0	0	6	1	BIGSAM
+0	1	2	T	0	0	3	0		0	1	6	1	TBONES
+0	1	3	W	0	0	3	0		0	2	6	1	WELOST
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	D	0	4	3	1	DKA	0	4	3	1	DDE
+0	1	5	K	0	4	3	0		0	5	7	1	KINESIS
+0	1	6	A	0	4	3	0		0	6	4	1	AEAN
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	B	0	8	3	1	BCE	0	8	3	1	BCC
+0	1	8	C	0	8	3	0		0	9	7	1	COHORTS
+0	1	9	E	0	8	3	0		0	10	6	1	EKEOUT
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	I	1	0	3	1	IBE	0	0	6	0	
+0	0	0	B	1	0	3	0		0	1	6	0	
+0	0	0	E	1	0	3	0		0	2	6	0	
+1	0	0	#	1	4	8	0		2	3	3	0	
+0	1	11	D	1	4	8	1	DIETCOKE	0	4	3	0	
+0	0	0	I	1	4	8	0		0	5	7	0	
+0	0	0	E	1	4	8	0		0	6	4	0	
+0	1	12	T	1	4	8	0		1	7	3	1	TRA
+0	0	0	C	1	4	8	0		0	8	3	0	
+0	0	0	O	1	4	8	0		0	9	7	0	
+0	0	0	K	1	4	8	0		0	10	6	0	
+0	1	13	E	1	4	8	0		1	11	5	1	ERLES
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	14	G	2	0	13	1	GOLDENARCHERY	0	0	6	0	
+0	0	0	O	2	0	13	0		0	1	6	0	
+0	0	0	L	2	0	13	0		0	2	6	0	
+0	1	15	D	2	0	13	0		2	3	3	1	DRO
+0	0	0	E	2	0	13	0		0	4	3	0	
+0	0	0	N	2	0	13	0		0	5	7	0	
+0	0	0	A	2	0	13	0		0	6	4	0	
+0	0	0	R	2	0	13	0		1	7	3	0	
+0	0	0	C	2	0	13	0		0	8	3	0	
+0	0	0	H	2	0	13	0		0	9	7	0	
+0	0	0	E	2	0	13	0		0	10	6	0	
+0	0	0	R	2	0	13	0		1	11	5	0	
+0	1	16	Y	2	0	13	0		2	12	3	1	YAS
+0	1	17	S	3	0	4	1	SNOR	0	0	6	0	
+0	0	0	N	3	0	4	0		0	1	6	0	
+0	0	0	O	3	0	4	0		0	2	6	0	
+0	0	0	R	3	0	4	0		2	3	3	0	
+1	0	0	#	3	5	3	0		4	4	4	0	
+0	1	18	E	3	5	3	1	ENA	0	5	7	0	
+0	0	0	N	3	5	3	0		0	6	4	0	
+0	0	0	A	3	5	3	0		1	7	3	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	19	O	3	9	4	1	OOLA	0	9	7	0	
+0	0	0	O	3	9	4	0		0	10	6	0	
+0	0	0	L	3	9	4	0		1	11	5	0	
+0	0	0	A	3	9	4	0		2	12	3	0	
+0	1	20	A	4	0	6	1	AESOPS	0	0	6	0	
+0	0	0	E	4	0	6	0		0	1	6	0	
+0	0	0	S	4	0	6	0		0	2	6	0	
+0	0	0	O	4	0	6	0		2	3	3	0	
+0	1	21	P	4	0	6	0		4	4	4	1	PIXY
+0	0	0	S	4	0	6	0		0	5	7	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	4	0		5	8	4	0	
+0	1	22	R	4	9	4	1	RUES	0	9	7	0	
+0	0	0	U	4	9	4	0		0	10	6	0	
+0	0	0	E	4	9	4	0		1	11	5	0	
+0	0	0	S	4	9	4	0		2	12	3	0	
+0	1	23	M	5	0	3	1	MST	0	0	6	0	
+0	0	0	S	5	0	3	0		0	1	6	0	
+0	0	0	T	5	0	3	0		0	2	6	0	
+1	0	0	#	5	4	3	0		6	3	7	0	
+0	1	24	I	5	4	3	1	IIN	4	4	4	0	
+0	0	0	I	5	4	3	0		0	5	7	0	
+0	1	25	N	5	4	3	0		5	6	3	1	NEZ
+1	0	0	#	5	8	4	0		6	7	7	0	
+0	1	26	A	5	8	4	1	ATTS	5	8	4	1	ASTO
+0	0	0	T	5	8	4	0		0	9	7	0	
+0	0	0	T	5	8	4	0		0	10	6	0	
+0	0	0	S	5	8	4	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	27	N	6	3	7	1	NXSENSS	6	3	7	1	NYTIMES
+0	0	0	X	6	3	7	0		4	4	4	0	
+0	0	0	S	6	3	7	0		0	5	7	0	
+0	0	0	E	6	3	7	0		5	6	3	0	
+0	1	28	N	6	3	7	0		6	7	7	1	NONAMES
+0	0	0	S	6	3	7	0		5	8	4	0	
+0	0	0	S	6	3	7	0		0	9	7	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	6	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	29	S	7	1	4	1	SKYY	7	1	5	1	SWINE
+0	1	30	K	7	1	4	0		7	2	6	1	KITERS
+0	0	0	Y	7	1	4	0		6	3	7	0	
+0	0	0	Y	7	1	4	0		4	4	4	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	31	Z	7	6	3	1	ZOT	5	6	3	0	
+0	0	0	O	7	6	3	0		6	7	7	0	
+0	0	0	T	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	32	R	7	10	3	1	RAU	7	10	6	1	REBUKE
+0	1	33	A	7	10	3	0		7	11	6	1	ALOTOF
+0	1	34	U	7	10	3	0		7	12	6	1	UPNESS
+0	1	35	S	8	0	4	1	SWIT	8	0	3	1	STO
+0	0	0	W	8	0	4	0		7	1	5	0	
+0	0	0	I	8	0	4	0		7	2	6	0	
+0	0	0	T	8	0	4	0		6	3	7	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	36	N	8	7	6	1	NOHELP	6	7	7	0	
+0	0	0	O	8	7	6	0		5	8	4	0	
+0	1	37	H	8	7	6	0		8	9	3	1	HEN
+0	0	0	E	8	7	6	0		7	10	6	0	
+0	0	0	L	8	7	6	0		7	11	6	0	
+0	0	0	P	8	7	6	0		7	12	6	0	
+0	1	38	T	9	0	4	1	TITI	8	0	3	0	
+0	0	0	I	9	0	4	0		7	1	5	0	
+0	0	0	T	9	0	4	0		7	2	6	0	
+0	0	0	I	9	0	4	0		6	3	7	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	39	O	9	5	3	1	OLA	9	5	3	1	ORI
+0	1	40	L	9	5	3	0		9	6	4	1	LETA
+0	0	0	A	9	5	3	0		6	7	7	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	41	E	9	9	4	1	EBON	8	9	3	0	
+0	0	0	B	9	9	4	0		7	10	6	0	
+0	0	0	O	9	9	4	0		7	11	6	0	
+0	0	0	N	9	9	4	0		7	12	6	0	
+0	1	42	O	10	0	13	1	ONEMOREMINUTE	8	0	3	0	
+0	0	0	N	10	0	13	0		7	1	5	0	
+0	0	0	E	10	0	13	0		7	2	6	0	
+0	0	0	M	10	0	13	0		6	3	7	0	
+0	1	43	O	10	0	13	0		10	4	3	1	OMN
+0	0	0	R	10	0	13	0		9	5	3	0	
+0	0	0	E	10	0	13	0		9	6	4	0	
+0	0	0	M	10	0	13	0		6	7	7	0	
+0	1	44	I	10	0	13	0		10	8	3	1	ISU
+0	0	0	N	10	0	13	0		8	9	3	0	
+0	0	0	U	10	0	13	0		7	10	6	0	
+0	0	0	T	10	0	13	0		7	11	6	0	
+0	0	0	E	10	0	13	0		7	12	6	0	
+1	0	0	#	11	1	8	0		12	0	0	0	
+0	1	45	E	11	1	8	1	EREMITES	7	1	5	0	
+0	0	0	R	11	1	8	0		7	2	6	0	
+0	0	0	E	11	1	8	0		6	3	7	0	
+0	0	0	M	11	1	8	0		10	4	3	0	
+0	0	0	I	11	1	8	0		9	5	3	0	
+0	0	0	T	11	1	8	0		9	6	4	0	
+0	0	0	E	11	1	8	0		6	7	7	0	
+0	0	0	S	11	1	8	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	46	K	11	10	3	1	KOS	7	10	6	0	
+0	0	0	O	11	10	3	0		7	11	6	0	
+0	0	0	S	11	10	3	0		7	12	6	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	47	S	12	2	3	1	SSN	7	2	6	0	
+0	0	0	S	12	2	3	0		6	3	7	0	
+0	0	0	N	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	48	A	12	6	3	1	ASU	9	6	4	0	
+0	0	0	S	12	6	3	0		6	7	7	0	
+0	0	0	U	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	49	E	12	10	3	1	EFS	7	10	6	0	
+0	0	0	F	12	10	3	0		7	11	6	0	
+0	0	0	S	12	10	3	0		7	12	6	0	
+29
+1	BTW	Start of an aside, to tweeters
+4	DKA	Longtime Chicago Bears coach
+7	BCE	Letters accompanying some 2,000-year-old+ dates
+10	IBE	"May ___ frank?"
+11	DIETCOKE	"Just for the taste of it" sloganeer
+14	GOLDENARCHERY	Bows and arrows for Midas?
+17	SNOR	Had an unquiet sleep
+18	ENA	Character in "Bambi"
+19	OOLA	"Return of the Jedi" girl
+20	AESOPS	___ Fables
+22	RUES	They crisscross Paris
+23	MST	Colo. hours
+24	IIN	"Am ___ your way?"
+26	ATTS	Lawyers: Abbr.
+27	NXSENSS	Resets
+29	SKYY	Big name in vodka
+31	ZOT	Sound from the anteater in "B.C."
+32	RAU	Former German president Johannes
+35	SWIT	Emmy-winner Loretta
+36	NOHELP	Unavailing
+38	TITI	South American monkey
+39	OLA	Pay stretcher
+41	EBON	Ink's color, to Shakespeare
+42	ONEMOREMINUTE	End of the quotation
+45	EREMITES	Loners
+46	KOS	Ring victories, for short
+47	SSN	An ID
+48	ASU	Home of Sun Devil Stadium, for short
+49	EFS	Bad grades
+29
+1	BIGSAM	Tara's foreman, in "Gone With the Wind"
+2	TBONES	Porterhouse alternatives
+3	WELOST	Game report
+4	DDE	Noted 1915 West Point grad.
+5	KINESIS	Activity of an organism in response to light, e.g.
+6	AEAN	Like llamas
+7	BCC	Abbr. on top of some e-mails
+8	COHORTS	Accomplices
+9	EKEOUT	Barely make
+12	TRA	Caroler's syllable
+13	ERLES	Gardner and others
+15	DRO	Be an utter bore?
+16	YAS	Title syllables in a 1961 Lee Dorsey hit
+21	PIXY	Sprite
+25	NEZ	Detector of les odeurs
+26	ASTO	"Now, about ..."
+27	NYTIMES	Daily since 1851, briefly
+28	NONAMES	They're far from stars
+29	SWINE	Wretches
+30	KITERS	Writers of bad checks
+32	REBUKE	Chastise
+33	ALOTOF	Many
+34	UPNESS	High spirits
+35	STO	I stand: Lat.
+37	HEN	Kind of party
+39	ORI	"... ___ will!"
+40	LETA	"___ joy keep you" (start of a Sandburg poem)
+43	OMN	Every, in prescriptions
+44	ISU	Cyclones' sch.

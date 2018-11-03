@@ -1,0 +1,115 @@
+grid_9x9_173
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	T	0	1	3	1	TZU	0	1	5	1	TIMON
+0	1	2	Z	0	1	3	0		0	2	9	1	ZEALOUSLY
+0	1	3	U	0	1	3	0		0	3	3	1	URN
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	P	0	6	3	1	PIU	0	6	9	1	POLICEDOG
+0	1	5	I	0	6	3	0		0	7	3	1	IDA
+0	1	6	U	0	6	3	0		0	8	3	1	USX
+0	1	7	V	1	0	5	1	VIERS	1	0	3	1	VET
+0	0	0	I	1	0	5	0		0	1	5	0	
+0	0	0	E	1	0	5	0		0	2	9	0	
+0	0	0	R	1	0	5	0		0	3	3	0	
+0	1	8	S	1	0	5	0		1	4	7	1	SURECAN
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	O	1	6	3	1	ODS	0	6	9	0	
+0	0	0	D	1	6	3	0		0	7	3	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	10	E	2	0	9	1	EMANUELAX	1	0	3	0	
+0	0	0	M	2	0	9	0		0	1	5	0	
+0	0	0	A	2	0	9	0		0	2	9	0	
+0	0	0	N	2	0	9	0		0	3	3	0	
+0	0	0	U	2	0	9	0		1	4	7	0	
+0	1	11	E	2	0	9	0		2	5	3	1	EEL
+0	0	0	L	2	0	9	0		0	6	9	0	
+0	0	0	A	2	0	9	0		0	7	3	0	
+0	0	0	X	2	0	9	0		0	8	3	0	
+0	1	12	T	3	0	3	1	TOL	1	0	3	0	
+0	0	0	O	3	0	3	0		0	1	5	0	
+0	0	0	L	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	R	3	4	3	1	REI	1	4	7	0	
+0	0	0	E	3	4	3	0		2	5	3	0	
+0	0	0	I	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	N	4	1	7	1	NORELCO	0	1	5	0	
+0	0	0	O	4	1	7	0		0	2	9	0	
+0	1	15	R	4	1	7	0		4	3	3	1	RNS
+0	0	0	E	4	1	7	0		1	4	7	0	
+0	0	0	L	4	1	7	0		2	5	3	0	
+0	0	0	C	4	1	7	0		0	6	9	0	
+0	1	16	O	4	1	7	0		4	7	5	1	ORRIS
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	U	5	2	3	1	UNC	0	2	9	0	
+0	0	0	N	5	2	3	0		4	3	3	0	
+0	0	0	C	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	E	5	6	3	1	ERB	0	6	9	0	
+0	0	0	R	5	6	3	0		4	7	5	0	
+0	1	19	B	5	6	3	0		5	8	3	1	BAL
+0	1	20	C	6	0	9	1	CASSANDRA	6	0	3	1	CHO
+0	1	21	A	6	0	9	0		6	1	3	1	AOL
+0	0	0	S	6	0	9	0		0	2	9	0	
+0	0	0	S	6	0	9	0		4	3	3	0	
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	1	22	N	6	0	9	0		6	5	3	1	NOP
+0	0	0	D	6	0	9	0		0	6	9	0	
+0	0	0	R	6	0	9	0		4	7	5	0	
+0	0	0	A	6	0	9	0		5	8	3	0	
+0	1	23	H	7	0	3	1	HOL	6	0	3	0	
+0	0	0	O	7	0	3	0		6	1	3	0	
+0	0	0	L	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	N	7	4	5	1	NOOIL	1	4	7	0	
+0	0	0	O	7	4	5	0		6	5	3	0	
+0	0	0	O	7	4	5	0		0	6	9	0	
+0	0	0	I	7	4	5	0		4	7	5	0	
+0	0	0	L	7	4	5	0		5	8	3	0	
+0	1	25	O	8	0	3	1	OLY	6	0	3	0	
+0	0	0	L	8	0	3	0		6	1	3	0	
+0	0	0	Y	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	P	8	5	3	1	PGS	6	5	3	0	
+0	0	0	G	8	5	3	0		0	6	9	0	
+0	0	0	S	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	TZU	Shih ___ (dog)
+4	PIU	More, in music
+7	VIERS	Contenders
+9	ODS	Serious drug cases, for short
+10	EMANUELAX	Grammy-winning pianist born in the U.S.S.R.
+12	TOL	"___'able David" (classic silent film)
+13	REI	King, in Lisbon
+14	NORELCO	Remington rival
+17	UNC	Jordan left it after his jr. year
+18	ERB	Tarzan creator's monogram
+20	CASSANDRA	"Troilus and Cressida" role
+23	HOL	___ Hamoed (Passover period)
+24	NOOIL	Reason for engine trouble, perhaps
+25	OLY	Popular beer, for short
+26	PGS	Movie ratings
+15
+1	TIMON	Title character in Shakespeare
+2	ZEALOUSLY	With fervor
+3	URN	Tea holder
+4	POLICEDOG	Bomb squad member
+5	IDA	Boise's home: Abbr.
+6	USX	Fortune 500 steelmaker
+7	VET	November 11 honoree
+8	SURECAN	"Absolutely!"
+11	EEL	Sushi fish
+15	RNS	Hosp. staffers
+16	ORRIS	Perfumery rootstock
+19	BAL	Account amt.
+20	CHO	Funnywoman Margaret
+21	AOL	Earthlink alternative
+22	NOP	Queue before Q

@@ -1,0 +1,225 @@
+grid_13x13_14
+13
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	K	0	1	3	1	KGS	0	1	5	1	KLINE
+0	1	2	G	0	1	3	0		0	2	13	1	GANGSTERMOVIE
+0	1	3	S	0	1	3	0		0	3	3	1	STG
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	6	0	
+1	0	0	#	0	7	4	0		1	6	0	0	
+0	1	4	L	0	7	4	1	LIMP	0	7	3	1	LAH
+0	1	5	I	0	7	4	0		0	8	5	1	ICEES
+0	1	6	M	0	7	4	0		0	9	8	1	MERMAIDS
+0	1	7	P	0	7	4	0		0	10	13	1	PLACELIKEHOME
+1	0	0	#	0	12	0	0		1	11	6	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	P	1	0	6	1	PLATTE	1	0	4	1	PSIS
+0	0	0	L	1	0	6	0		0	1	5	0	
+0	0	0	A	1	0	6	0		0	2	13	0	
+0	0	0	T	1	0	6	0		0	3	3	0	
+0	1	9	T	1	0	6	0		1	4	5	1	TIANT
+0	1	10	E	1	0	6	0		1	5	6	1	EIGHTS
+1	0	0	#	1	7	6	0		2	6	9	0	
+0	1	11	A	1	7	6	1	ACELLS	0	7	3	0	
+0	0	0	C	1	7	6	0		0	8	5	0	
+0	0	0	E	1	7	6	0		0	9	8	0	
+0	0	0	L	1	7	6	0		0	10	13	0	
+0	1	12	L	1	7	6	0		1	11	6	1	LIESON
+0	1	13	S	1	7	6	0		1	12	3	1	SNE
+0	1	14	S	2	0	13	1	SINGIITHERAIN	1	0	4	0	
+0	0	0	I	2	0	13	0		0	1	5	0	
+0	0	0	N	2	0	13	0		0	2	13	0	
+0	0	0	G	2	0	13	0		0	3	3	0	
+0	0	0	I	2	0	13	0		1	4	5	0	
+0	0	0	I	2	0	13	0		1	5	6	0	
+0	1	15	T	2	0	13	0		2	6	9	1	TOLEONORE
+0	0	0	H	2	0	13	0		0	7	3	0	
+0	0	0	E	2	0	13	0		0	8	5	0	
+0	0	0	R	2	0	13	0		0	9	8	0	
+0	0	0	A	2	0	13	0		0	10	13	0	
+0	0	0	I	2	0	13	0		1	11	6	0	
+0	0	0	N	2	0	13	0		1	12	3	0	
+0	1	16	I	3	0	3	1	ING	1	0	4	0	
+0	0	0	N	3	0	3	0		0	1	5	0	
+0	0	0	G	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	17	A	3	4	3	1	AGO	1	4	5	0	
+0	0	0	G	3	4	3	0		1	5	6	0	
+0	0	0	O	3	4	3	0		2	6	9	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	18	E	3	8	5	1	EMCEE	0	8	5	0	
+0	0	0	M	3	8	5	0		0	9	8	0	
+0	0	0	C	3	8	5	0		0	10	13	0	
+0	0	0	E	3	8	5	0		1	11	6	0	
+0	0	0	E	3	8	5	0		1	12	3	0	
+0	1	19	S	4	0	3	1	SES	1	0	4	0	
+0	0	0	E	4	0	3	0		0	1	5	0	
+0	0	0	S	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	8	0	
+0	1	20	N	4	4	3	1	NHL	1	4	5	0	
+0	0	0	H	4	4	3	0		1	5	6	0	
+0	0	0	L	4	4	3	0		2	6	9	0	
+1	0	0	#	4	8	4	0		5	7	0	0	
+0	1	21	S	4	8	4	1	SAES	0	8	5	0	
+0	0	0	A	4	8	4	0		0	9	8	0	
+0	0	0	E	4	8	4	0		0	10	13	0	
+0	0	0	S	4	8	4	0		1	11	6	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	5	0		6	1	6	0	
+0	1	22	T	5	2	5	1	TUTTE	0	2	13	0	
+0	1	23	U	5	2	5	0		5	3	8	1	UGGBOOTS
+0	0	0	T	5	2	5	0		1	4	5	0	
+0	0	0	T	5	2	5	0		1	5	6	0	
+0	0	0	E	5	2	5	0		2	6	9	0	
+1	0	0	#	5	8	0	0		6	7	6	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	24	I	5	9	3	1	ILO	0	9	8	0	
+0	0	0	L	5	9	3	0		0	10	13	0	
+0	0	0	O	5	9	3	0		1	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	25	L	6	1	3	1	LEG	6	1	6	1	LEARNT
+0	0	0	E	6	1	3	0		0	2	13	0	
+0	0	0	G	6	1	3	0		5	3	8	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	26	S	6	5	3	1	SOB	1	5	6	0	
+0	0	0	O	6	5	3	0		2	6	9	0	
+0	1	27	B	6	5	3	0		6	7	6	1	BOOHOO
+1	0	0	#	6	9	3	0		7	8	5	0	
+0	1	28	D	6	9	3	1	DIN	0	9	8	0	
+0	0	0	I	6	9	3	0		0	10	13	0	
+0	0	0	N	6	9	3	0		1	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	29	E	7	1	3	1	ERG	6	1	6	0	
+0	0	0	R	7	1	3	0		0	2	13	0	
+0	0	0	G	7	1	3	0		5	3	8	0	
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	5	0		8	5	0	0	
+0	1	30	N	7	6	5	1	NORSK	2	6	9	0	
+0	0	0	O	7	6	5	0		6	7	6	0	
+0	1	31	R	7	6	5	0		7	8	5	1	ROOFT
+0	0	0	S	7	6	5	0		0	9	8	0	
+0	0	0	K	7	6	5	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	4	0	
+1	0	0	#	8	1	4	0		9	0	3	0	
+0	1	32	A	8	1	4	1	AMBS	6	1	6	0	
+0	0	0	M	8	1	4	0		0	2	13	0	
+0	0	0	B	8	1	4	0		5	3	8	0	
+0	1	33	S	8	1	4	0		8	4	5	1	SPICA
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	34	O	8	6	3	1	OOO	2	6	9	0	
+0	0	0	O	8	6	3	0		6	7	6	0	
+0	0	0	O	8	6	3	0		7	8	5	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	35	E	8	10	3	1	ECG	0	10	13	0	
+0	1	36	C	8	10	3	0		8	11	5	1	CROIX
+0	1	37	G	8	10	3	0		8	12	4	1	GEMS
+0	1	38	T	9	0	5	1	TROOP	9	0	3	1	TIS
+0	0	0	R	9	0	5	0		6	1	6	0	
+0	0	0	O	9	0	5	0		0	2	13	0	
+0	0	0	O	9	0	5	0		5	3	8	0	
+0	0	0	P	9	0	5	0		8	4	5	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	39	R	9	6	3	1	RHO	2	6	9	0	
+0	0	0	H	9	6	3	0		6	7	6	0	
+0	0	0	O	9	6	3	0		7	8	5	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	40	H	9	10	3	1	HRE	0	10	13	0	
+0	0	0	R	9	10	3	0		8	11	5	0	
+0	0	0	E	9	10	3	0		8	12	4	0	
+0	1	41	I	10	0	13	1	INVOICEOFDOOM	9	0	3	0	
+0	0	0	N	10	0	13	0		6	1	6	0	
+0	0	0	V	10	0	13	0		0	2	13	0	
+0	0	0	O	10	0	13	0		5	3	8	0	
+0	0	0	I	10	0	13	0		8	4	5	0	
+0	1	42	C	10	0	13	0		10	5	3	1	CHI
+0	0	0	E	10	0	13	0		2	6	9	0	
+0	0	0	O	10	0	13	0		6	7	6	0	
+0	0	0	F	10	0	13	0		7	8	5	0	
+0	1	43	D	10	0	13	0		10	9	3	1	DOM
+0	0	0	O	10	0	13	0		0	10	13	0	
+0	0	0	O	10	0	13	0		8	11	5	0	
+0	0	0	M	10	0	13	0		8	12	4	0	
+0	1	44	S	11	0	6	1	STITCH	9	0	3	0	
+0	0	0	T	11	0	6	0		6	1	6	0	
+0	0	0	I	11	0	6	0		0	2	13	0	
+0	0	0	T	11	0	6	0		5	3	8	0	
+0	0	0	C	11	0	6	0		8	4	5	0	
+0	0	0	H	11	0	6	0		10	5	3	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	45	O	11	7	6	1	OTOMIS	6	7	6	0	
+0	0	0	T	11	7	6	0		7	8	5	0	
+0	0	0	O	11	7	6	0		10	9	3	0	
+0	0	0	M	11	7	6	0		0	10	13	0	
+0	0	0	I	11	7	6	0		8	11	5	0	
+0	0	0	S	11	7	6	0		8	12	4	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	4	0		13	1	0	0	
+0	1	46	E	12	2	4	1	ESAI	0	2	13	0	
+0	0	0	S	12	2	4	0		5	3	8	0	
+0	0	0	A	12	2	4	0		8	4	5	0	
+0	0	0	I	12	2	4	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	47	M	12	9	3	1	MEX	10	9	3	0	
+0	0	0	E	12	9	3	0		0	10	13	0	
+0	0	0	X	12	9	3	0		8	11	5	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	KGS	Metric weights: Abbr.
+4	LIMP	Favor one side
+8	PLATTE	Gothenburg's river
+11	ACELLS	Rare battery varieties
+14	SINGIITHERAIN	Kelly classic
+16	ING	Dutch-based financial giant
+17	AGO	Before now
+18	EMCEE	Party leader
+19	SES	French possessive
+20	NHL	Montreal is in it: Abbr.
+21	SAES	Requests from an ed.
+22	TUTTE	"Cos
+24	ILO	U.N. agcy. awarded the 1969 Nobel Peace Prize
+25	LEG	Something to stand on
+26	SOB	Melodramatic cartoon word
+28	DIN	Big sound
+29	ERG	Physics unit
+30	NORSK	Like Ibsen, to his countrymen
+32	AMBS	Many former senators and governors: Abbr.
+34	OOO	Hugs, in a letter
+35	ECG	Hosp. readout
+38	TROOP	Company
+39	RHO	Christogram component
+40	HRE	Dominion ended by Francis II: Abbr.
+41	INVOICEOFDOOM	Dire proof-of-purchase slip?
+44	STITCH	Card
+45	OTOMIS	Mexican Indians
+46	ESAI	Hollywood's Morales
+47	MEX	Code for Latin America's busiest airport
+23
+1	KLINE	"Mahoning" painter
+2	GANGSTERMOVIE	Shoot-'em-up
+3	STG	Brit. money
+4	LAH	"Well,___-di-dah!"
+5	ICEES	They're served with spoon-straws
+6	MERMAIDS	Subjects of some sea tales
+7	PLACELIKEHOME	There's no 
+8	PSIS	Characters in a frat house?
+9	TIANT	1960's-70's All-Star Luis
+10	EIGHTS	Figure-skating figures
+12	LIESON	Uses as a bed
+13	SNE	1983 Indy winner Tom
+15	TOLEONORE	End of the message
+23	UGGBOOTS	Boho-chic footwear
+25	LEARNT	Found out, British-style
+27	BOOHOO	[Woe is me!]
+31	ROOFT	Locale for Santa's team
+33	SPICA	Virgo's alpha star
+36	CROIX	St. ___ (river to the Mississippi)
+37	GEMS	Onyxes and opals
+38	TIS	Frank McCourt memoir
+42	CHI	Acupuncturist's energy
+43	DOM	Suffix with star or tsar

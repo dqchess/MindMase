@@ -1,0 +1,115 @@
+grid_9x9_162
+9
+0	1	1	G	0	0	3	1	GOH	0	0	3	1	GUM
+0	1	2	O	0	0	3	0		0	1	3	1	OLY
+0	1	3	H	0	0	3	0		0	2	3	1	HER
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	R	0	6	3	1	RST	0	6	5	1	RUPEE
+0	1	5	S	0	6	3	0		0	7	5	1	SDLTG
+0	1	6	T	0	6	3	0		0	8	3	1	TEO
+0	1	7	U	1	0	5	1	ULEES	0	0	3	0	
+0	0	0	L	1	0	5	0		0	1	3	0	
+0	0	0	E	1	0	5	0		0	2	3	0	
+0	1	8	E	1	0	5	0		1	3	5	1	ENRON
+0	1	9	S	1	0	5	0		1	4	7	1	SAOTOME
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	U	1	6	3	1	UDE	0	6	5	0	
+0	0	0	D	1	6	3	0		0	7	5	0	
+0	0	0	E	1	6	3	0		0	8	3	0	
+0	1	11	M	2	0	5	1	MYRNA	0	0	3	0	
+0	0	0	Y	2	0	5	0		0	1	3	0	
+0	0	0	R	2	0	5	0		0	2	3	0	
+0	0	0	N	2	0	5	0		1	3	5	0	
+0	0	0	A	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	P	2	6	3	1	PLO	0	6	5	0	
+0	0	0	L	2	6	3	0		0	7	5	0	
+0	0	0	O	2	6	3	0		0	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	5	0		4	2	5	0	
+0	1	13	R	3	3	5	1	ROGET	1	3	5	0	
+0	0	0	O	3	3	5	0		1	4	7	0	
+0	1	14	G	3	3	5	0		3	5	5	1	GLARY
+0	0	0	E	3	3	5	0		0	6	5	0	
+0	0	0	T	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	15	B	4	1	7	1	BOOTLEG	4	1	5	1	BGIRL
+0	1	16	O	4	1	7	0		4	2	5	1	OEILS
+0	0	0	O	4	1	7	0		1	3	5	0	
+0	0	0	T	4	1	7	0		1	4	7	0	
+0	0	0	L	4	1	7	0		3	5	5	0	
+0	0	0	E	4	1	7	0		0	6	5	0	
+0	0	0	G	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	5	0		6	0	3	0	
+0	1	17	G	5	1	5	1	GENOA	4	1	5	0	
+0	0	0	E	5	1	5	0		4	2	5	0	
+0	0	0	N	5	1	5	0		1	3	5	0	
+0	0	0	O	5	1	5	0		1	4	7	0	
+0	0	0	A	5	1	5	0		3	5	5	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	V	6	0	3	1	VII	6	0	3	1	VEX
+0	0	0	I	6	0	3	0		4	1	5	0	
+0	0	0	I	6	0	3	0		4	2	5	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	19	M	6	4	5	1	MRFOX	1	4	7	0	
+0	0	0	R	6	4	5	0		3	5	5	0	
+0	1	20	F	6	4	5	0		6	6	3	1	FRE
+0	1	21	O	6	4	5	0		6	7	3	1	OIR
+0	1	22	X	6	4	5	0		6	8	3	1	XES
+0	1	23	E	7	0	3	1	ERL	6	0	3	0	
+0	0	0	R	7	0	3	0		4	1	5	0	
+0	0	0	L	7	0	3	0		4	2	5	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	E	7	4	5	1	EYRIE	1	4	7	0	
+0	0	0	Y	7	4	5	0		3	5	5	0	
+0	0	0	R	7	4	5	0		6	6	3	0	
+0	0	0	I	7	4	5	0		6	7	3	0	
+0	0	0	E	7	4	5	0		6	8	3	0	
+0	1	25	X	8	0	3	1	XLS	6	0	3	0	
+0	0	0	L	8	0	3	0		4	1	5	0	
+0	0	0	S	8	0	3	0		4	2	5	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	E	8	6	3	1	ERS	6	6	3	0	
+0	0	0	R	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	GOH	"Get out of here!"
+4	RST	Alphabet sequence
+7	ULEES	1997 film "___ Gold"
+10	UDE	Quiet end?
+11	MYRNA	She played Nora in "The Thin Man"
+12	PLO	Grp. once led by Arafat
+13	ROGET	Thesaurus creator
+15	BOOTLEG	Sell bathtub gin, say
+17	GENOA	Niccol
+18	VII	7, to Caesar
+19	MRFOX	"Fantastic" figure of children's lit
+23	ERL	Goethe's "The ___-King"
+24	EYRIE	High nest: Var.
+25	XLS	Big sizes, briefly
+26	ERS	Beginnings of hedges?
+15
+1	GUM	Filling danger
+2	OLY	Popular beer, for short
+3	HER	"Talk to ___," Pedro Almod
+4	RUPEE	Asian currency
+5	SDLTG	Witch of ___
+6	TEO	___ Fabi of auto racing
+8	ENRON	Company that had a 64-page "Code of Ethics"
+9	SAOTOME	Portuguese-speaking island off the African coast
+14	GLARY	Brighter than bright
+15	BGIRL	Old nightclub employee
+16	OEILS	___-de-boeuf (oval windows)
+18	VEX	Bother
+20	FRE	Boatload
+21	OIR	Listen: Sp.
+22	XES	Simple signatures

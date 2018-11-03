@@ -1,0 +1,167 @@
+grid_11x11_178
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	4	0		1	2	4	0	
+0	1	1	R	0	3	4	1	RUSH	0	3	3	1	RAT
+0	1	2	U	0	3	4	0		0	4	3	1	UNH
+0	1	3	S	0	3	4	0		0	5	3	1	STA
+0	1	4	H	0	3	4	0		0	6	3	1	HST
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	R	0	8	3	1	RAX	0	8	5	1	REAIR
+0	1	6	A	0	8	3	0		0	9	5	1	ADZES
+0	1	7	X	0	8	3	0		0	10	3	1	XYZ
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	8	S	1	1	6	1	SLANTS	1	1	4	1	SLYS
+0	1	9	L	1	1	6	0		1	2	4	1	LLDS
+0	0	0	A	1	1	6	0		0	3	3	0	
+0	0	0	N	1	1	6	0		0	4	3	0	
+0	0	0	T	1	1	6	0		0	5	3	0	
+0	0	0	S	1	1	6	0		0	6	3	0	
+1	0	0	#	1	8	3	0		2	7	5	0	
+0	1	10	E	1	8	3	1	EDY	0	8	5	0	
+0	0	0	D	1	8	3	0		0	9	5	0	
+0	0	0	Y	1	8	3	0		0	10	3	0	
+0	1	11	A	2	0	11	1	ALLTHATJAZZ	2	0	3	1	AKU
+0	0	0	L	2	0	11	0		1	1	4	0	
+0	0	0	L	2	0	11	0		1	2	4	0	
+0	0	0	T	2	0	11	0		0	3	3	0	
+0	0	0	H	2	0	11	0		0	4	3	0	
+0	0	0	A	2	0	11	0		0	5	3	0	
+0	0	0	T	2	0	11	0		0	6	3	0	
+0	1	12	J	2	0	11	0		2	7	5	1	JOELS
+0	0	0	A	2	0	11	0		0	8	5	0	
+0	0	0	Z	2	0	11	0		0	9	5	0	
+0	0	0	Z	2	0	11	0		0	10	3	0	
+0	1	13	K	3	0	3	1	KYD	2	0	3	0	
+0	0	0	Y	3	0	3	0		1	1	4	0	
+0	0	0	D	3	0	3	0		1	2	4	0	
+1	0	0	#	3	4	0	0		4	3	5	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	3	0	
+0	1	14	O	3	7	3	1	OIE	2	7	5	0	
+0	0	0	I	3	7	3	0		0	8	5	0	
+0	0	0	E	3	7	3	0		0	9	5	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	U	4	0	10	1	USSOLDIERS	2	0	3	0	
+0	0	0	S	4	0	10	0		1	1	4	0	
+0	0	0	S	4	0	10	0		1	2	4	0	
+0	1	16	O	4	0	10	0		4	3	5	1	OREAD
+0	1	17	L	4	0	10	0		4	4	3	1	LEB
+0	1	18	D	4	0	10	0		4	5	3	1	DYE
+0	1	19	I	4	0	10	0		4	6	3	1	IAT
+0	0	0	E	4	0	10	0		2	7	5	0	
+0	0	0	R	4	0	10	0		0	8	5	0	
+0	0	0	S	4	0	10	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	20	R	5	3	5	1	REYAL	4	3	5	0	
+0	0	0	E	5	3	5	0		4	4	3	0	
+0	0	0	Y	5	3	5	0		4	5	3	0	
+0	0	0	A	5	3	5	0		4	6	3	0	
+0	0	0	L	5	3	5	0		2	7	5	0	
+1	0	0	#	5	9	0	0		6	8	4	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	10	0		7	0	0	0	
+0	1	21	T	6	1	10	1	THEBETSMAN	6	1	5	1	TCELL
+0	1	22	H	6	1	10	0		6	2	5	1	HALED
+0	0	0	E	6	1	10	0		4	3	5	0	
+0	0	0	B	6	1	10	0		4	4	3	0	
+0	0	0	E	6	1	10	0		4	5	3	0	
+0	0	0	T	6	1	10	0		4	6	3	0	
+0	0	0	S	6	1	10	0		2	7	5	0	
+0	1	23	M	6	1	10	0		6	8	4	1	MANN
+0	1	24	A	6	1	10	0		6	9	4	1	ASCI
+0	1	25	N	6	1	10	0		6	10	3	1	NAE
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	26	C	7	1	3	1	CAA	6	1	5	0	
+0	0	0	A	7	1	3	0		6	2	5	0	
+0	0	0	A	7	1	3	0		4	3	5	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	A	7	8	3	1	ASA	6	8	4	0	
+0	0	0	S	7	8	3	0		6	9	4	0	
+0	0	0	A	7	8	3	0		6	10	3	0	
+0	1	28	H	8	0	11	1	HELDASEANCE	8	0	3	1	HCL
+0	0	0	E	8	0	11	0		6	1	5	0	
+0	0	0	L	8	0	11	0		6	2	5	0	
+0	0	0	D	8	0	11	0		4	3	5	0	
+0	1	29	A	8	0	11	0		8	4	3	1	ABM
+0	1	30	S	8	0	11	0		8	5	3	1	SIT
+0	1	31	E	8	0	11	0		8	6	3	1	EKG
+0	1	32	A	8	0	11	0		8	7	3	1	AIS
+0	0	0	N	8	0	11	0		6	8	4	0	
+0	0	0	C	8	0	11	0		6	9	4	0	
+0	0	0	E	8	0	11	0		6	10	3	0	
+0	1	33	C	9	0	3	1	CLE	8	0	3	0	
+0	0	0	L	9	0	3	0		6	1	5	0	
+0	0	0	E	9	0	3	0		6	2	5	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	34	B	9	4	6	1	BIKINI	8	4	3	0	
+0	0	0	I	9	4	6	0		8	5	3	0	
+0	0	0	K	9	4	6	0		8	6	3	0	
+0	0	0	I	9	4	6	0		8	7	3	0	
+0	0	0	N	9	4	6	0		6	8	4	0	
+0	0	0	I	9	4	6	0		6	9	4	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	35	L	10	0	3	1	LLD	8	0	3	0	
+0	0	0	L	10	0	3	0		6	1	5	0	
+0	0	0	D	10	0	3	0		6	2	5	0	
+1	0	0	#	10	4	4	0		11	3	0	0	
+0	1	36	M	10	4	4	1	MTGS	8	4	3	0	
+0	0	0	T	10	4	4	0		8	5	3	0	
+0	0	0	G	10	4	4	0		8	6	3	0	
+0	0	0	S	10	4	4	0		8	7	3	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+17
+1	RUSH	"A.S.A.P.!"
+5	RAX	Stretch out, in Scotland
+8	SLANTS	Italicizes
+10	EDY	Dreyer's partner in ice cream
+11	ALLTHATJAZZ	Semiautobiographical Bob Fosse film
+13	KYD	"The Spanish Tragedy" dramatist
+14	OIE	Gallic goose
+15	USSOLDIERS	Fighters in green
+20	REYAL	Coat of paint
+21	THEBETSMAN	Jimmy the Greek?
+26	CAA	Major org. representing entertainers and athletes
+27	ASA	Simile's middle
+28	HELDASEANCE	Raised one's spirits, perhaps?
+33	CLE	French key
+34	BIKINI	Two-piece wear
+35	LLD	Harvard degree earned by J.F.K. in 1956
+36	MTGS	Chairmen often call them: Abbr.
+25
+1	RAT	Tell
+2	UNH	Durham sch.
+3	STA	___-Prest Levi's
+4	HST	V-J Day pres.
+5	REAIR	Show, but not premiere
+6	ADZES	Cooper's tools
+7	XYZ	Ending sequence
+8	SLYS	Stallone and others
+9	LLDS	Attorneys' degrees: Abbr.
+11	AKU	When doubled, a Thor Heyerdahl title
+12	JOELS	Actor Grey and others
+16	OREAD	Mountain nymph
+17	LEB	Neighbor of Syr.
+18	DYE	Go blond, perhaps
+19	IAT	"Am ___ risk?"
+21	TCELL	Immune response orchestrator
+22	HALED	Compelled to go
+23	MANN	"Death in Venice" author
+24	ASCI	Spore cases
+25	NAE	Highlands refusal
+28	HCL	Corrosive chemical, to a chemist
+29	ABM	S.D.I. weapon
+30	SIT	Pose for pictures
+31	EKG	Med. readout
+32	AIS	"___ for Alibi"

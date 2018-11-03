@@ -1,0 +1,305 @@
+grid_15x15_53
+15
+0	1	1	W	0	0	3	1	WLE	0	0	3	1	WAL
+0	1	2	L	0	0	3	0		0	1	3	1	LOI
+0	1	3	E	0	0	3	0		0	2	15	1	ELLEOWESBEEGEES
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	4	0	
+0	1	4	H	0	5	3	1	HCL	0	5	3	1	HIN
+0	1	5	C	0	5	3	0		0	6	6	1	CHERIE
+0	1	6	L	0	5	3	0		0	7	15	1	LAMEDUCKPRESENT
+1	0	0	#	0	9	0	0		1	8	7	0	
+1	0	0	#	0	10	5	0		1	9	0	0	
+0	1	7	B	0	10	5	1	BISON	0	10	3	1	BIB
+0	1	8	I	0	10	5	0		0	11	7	1	INASTEW
+0	1	9	S	0	10	5	0		0	12	15	1	SUNRISESERENADE
+0	1	10	O	0	10	5	0		0	13	5	1	ORDIE
+0	1	11	N	0	10	5	0		0	14	3	1	NES
+0	1	12	A	1	0	3	1	AOL	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	3	0	
+0	0	0	L	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	13	C	1	4	5	1	CIHAT	1	4	4	1	COSI
+0	0	0	I	1	4	5	0		0	5	3	0	
+0	0	0	H	1	4	5	0		0	6	6	0	
+0	0	0	A	1	4	5	0		0	7	15	0	
+0	1	14	T	1	4	5	0		1	8	7	1	TAVERNA
+1	0	0	#	1	10	5	0		2	9	3	0	
+0	1	15	I	1	10	5	1	INURE	0	10	3	0	
+0	0	0	N	1	10	5	0		0	11	7	0	
+0	0	0	U	1	10	5	0		0	12	15	0	
+0	0	0	R	1	10	5	0		0	13	5	0	
+0	0	0	E	1	10	5	0		0	14	3	0	
+0	1	16	L	2	0	3	1	LIL	0	0	3	0	
+0	0	0	I	2	0	3	0		0	1	3	0	
+0	0	0	L	2	0	3	0		0	2	15	0	
+1	0	0	#	2	4	11	0		3	3	4	0	
+0	1	17	O	2	4	11	1	ONEMANBANDS	1	4	4	0	
+0	0	0	N	2	4	11	0		0	5	3	0	
+0	0	0	E	2	4	11	0		0	6	6	0	
+0	0	0	M	2	4	11	0		0	7	15	0	
+0	0	0	A	2	4	11	0		1	8	7	0	
+0	1	18	N	2	4	11	0		2	9	3	1	NSA
+0	0	0	B	2	4	11	0		0	10	3	0	
+0	0	0	A	2	4	11	0		0	11	7	0	
+0	0	0	N	2	4	11	0		0	12	15	0	
+0	0	0	D	2	4	11	0		0	13	5	0	
+0	0	0	S	2	4	11	0		0	14	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	19	E	3	2	3	1	ERS	0	2	15	0	
+0	1	20	R	3	2	3	0		3	3	4	1	RCPT
+0	0	0	S	3	2	3	0		1	4	4	0	
+1	0	0	#	3	6	4	0		4	5	0	0	
+0	1	21	R	3	6	4	1	REVS	0	6	6	0	
+0	0	0	E	3	6	4	0		0	7	15	0	
+0	0	0	V	3	6	4	0		1	8	7	0	
+0	0	0	S	3	6	4	0		2	9	3	0	
+1	0	0	#	3	11	3	0		4	10	0	0	
+0	1	22	S	3	11	3	1	SRI	0	11	7	0	
+0	0	0	R	3	11	3	0		0	12	15	0	
+0	0	0	I	3	11	3	0		0	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	23	F	4	1	4	1	FOCI	4	1	5	1	FAITH
+0	0	0	O	4	1	4	0		0	2	15	0	
+0	0	0	C	4	1	4	0		3	3	4	0	
+0	0	0	I	4	1	4	0		1	4	4	0	
+1	0	0	#	4	6	4	0		5	5	0	0	
+0	1	24	I	4	6	4	1	IDEA	0	6	6	0	
+0	0	0	D	4	6	4	0		0	7	15	0	
+0	0	0	E	4	6	4	0		1	8	7	0	
+0	0	0	A	4	6	4	0		2	9	3	0	
+1	0	0	#	4	11	3	0		5	10	4	0	
+0	1	25	T	4	11	3	1	TIE	0	11	7	0	
+0	0	0	I	4	11	3	0		0	12	15	0	
+0	0	0	E	4	11	3	0		0	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	26	Y	5	0	4	1	YAWP	5	0	3	1	YDS
+0	0	0	A	5	0	4	0		4	1	5	0	
+0	0	0	W	5	0	4	0		0	2	15	0	
+0	0	0	P	5	0	4	0		3	3	4	0	
+1	0	0	#	5	5	0	0		6	4	4	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	27	E	5	6	3	1	EUR	0	6	6	0	
+0	0	0	U	5	6	3	0		0	7	15	0	
+0	0	0	R	5	6	3	0		1	8	7	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	28	J	5	10	3	1	JES	5	10	4	1	JOEY
+0	0	0	E	5	10	3	0		0	11	7	0	
+0	0	0	S	5	10	3	0		0	12	15	0	
+1	0	0	#	5	14	0	0		6	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	29	D	6	0	6	1	DIETED	5	0	3	0	
+0	0	0	I	6	0	6	0		4	1	5	0	
+0	0	0	E	6	0	6	0		0	2	15	0	
+0	0	0	T	6	0	6	0		3	3	4	0	
+0	1	30	E	6	0	6	0		6	4	4	1	EXCH
+0	1	31	D	6	0	6	0		6	5	3	1	DMA
+1	0	0	#	6	7	7	0		7	6	7	0	
+0	1	32	C	6	7	7	1	CNTOWER	0	7	15	0	
+0	0	0	N	6	7	7	0		1	8	7	0	
+0	1	33	T	6	7	7	0		6	9	3	1	TTT
+0	0	0	O	6	7	7	0		5	10	4	0	
+0	0	0	W	6	7	7	0		0	11	7	0	
+0	0	0	E	6	7	7	0		0	12	15	0	
+0	1	34	R	6	7	7	0		6	13	5	1	ROACH
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	S	7	0	3	1	STS	5	0	3	0	
+0	0	0	T	7	0	3	0		4	1	5	0	
+0	0	0	S	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	7	0	
+0	1	36	X	7	4	7	1	XMEKATE	6	4	4	0	
+0	0	0	M	7	4	7	0		6	5	3	0	
+0	1	37	E	7	4	7	0		7	6	7	1	EMBLEMS
+0	0	0	K	7	4	7	0		0	7	15	0	
+0	0	0	A	7	4	7	0		1	8	7	0	
+0	0	0	T	7	4	7	0		6	9	3	0	
+0	0	0	E	7	4	7	0		5	10	4	0	
+1	0	0	#	7	12	3	0		8	11	4	0	
+0	1	38	S	7	12	3	1	SOC	0	12	15	0	
+0	0	0	O	7	12	3	0		6	13	5	0	
+0	1	39	C	7	12	3	0		7	14	3	1	CSA
+1	0	0	#	8	1	7	0		9	0	0	0	
+0	1	40	H	8	1	7	1	HBOCAMP	4	1	5	0	
+0	0	0	B	8	1	7	0		0	2	15	0	
+0	1	41	O	8	1	7	0		8	3	7	1	OPENEST
+0	0	0	C	8	1	7	0		6	4	4	0	
+0	0	0	A	8	1	7	0		6	5	3	0	
+0	0	0	M	8	1	7	0		7	6	7	0	
+0	0	0	P	8	1	7	0		0	7	15	0	
+1	0	0	#	8	9	6	0		9	8	6	0	
+0	1	42	T	8	9	6	1	TYPEAS	6	9	3	0	
+0	0	0	Y	8	9	6	0		5	10	4	0	
+0	1	43	P	8	9	6	0		8	11	4	1	PONY
+0	0	0	E	8	9	6	0		0	12	15	0	
+0	0	0	A	8	9	6	0		6	13	5	0	
+0	0	0	S	8	9	6	0		7	14	3	0	
+1	0	0	#	9	1	0	0		10	0	0	0	
+1	0	0	#	9	2	3	0		10	1	5	0	
+0	1	44	E	9	2	3	1	EPH	0	2	15	0	
+0	0	0	P	9	2	3	0		8	3	7	0	
+0	0	0	H	9	2	3	0		6	4	4	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	45	B	9	6	3	1	BRR	7	6	7	0	
+0	0	0	R	9	6	3	0		0	7	15	0	
+0	1	46	R	9	6	3	0		9	8	6	1	ROTTEN
+1	0	0	#	9	10	0	0		10	9	0	0	
+1	0	0	#	9	11	4	0		10	10	4	0	
+0	1	47	O	9	11	4	1	ORCA	8	11	4	0	
+0	0	0	R	9	11	4	0		0	12	15	0	
+0	0	0	C	9	11	4	0		6	13	5	0	
+0	0	0	A	9	11	4	0		7	14	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	48	W	10	1	3	1	WEE	10	1	5	1	WIPES
+0	0	0	E	10	1	3	0		0	2	15	0	
+0	0	0	E	10	1	3	0		8	3	7	0	
+1	0	0	#	10	5	4	0		11	4	0	0	
+0	1	49	C	10	5	4	1	CLEO	10	5	3	1	CIO
+0	0	0	L	10	5	4	0		7	6	7	0	
+0	0	0	E	10	5	4	0		0	7	15	0	
+0	0	0	O	10	5	4	0		9	8	6	0	
+1	0	0	#	10	10	4	0		11	9	0	0	
+0	1	50	O	10	10	4	1	ONEH	10	10	4	1	ORRS
+0	0	0	N	10	10	4	0		8	11	4	0	
+0	0	0	E	10	10	4	0		0	12	15	0	
+0	0	0	H	10	10	4	0		6	13	5	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	51	I	11	1	3	1	IGN	10	1	5	0	
+0	0	0	G	11	1	3	0		0	2	15	0	
+0	0	0	N	11	1	3	0		8	3	7	0	
+1	0	0	#	11	5	4	0		12	4	3	0	
+0	1	52	I	11	5	4	1	IEST	10	5	3	0	
+0	0	0	E	11	5	4	0		7	6	7	0	
+0	0	0	S	11	5	4	0		0	7	15	0	
+0	0	0	T	11	5	4	0		9	8	6	0	
+1	0	0	#	11	10	3	0		12	9	3	0	
+0	1	53	R	11	10	3	1	RYN	10	10	4	0	
+0	0	0	Y	11	10	3	0		8	11	4	0	
+0	0	0	N	11	10	3	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	54	S	12	0	11	1	SPEEDOMETER	12	0	3	1	SBA
+0	0	0	P	12	0	11	0		10	1	5	0	
+0	0	0	E	12	0	11	0		0	2	15	0	
+0	0	0	E	12	0	11	0		8	3	7	0	
+0	1	55	D	12	0	11	0		12	4	3	1	DTS
+0	0	0	O	12	0	11	0		10	5	3	0	
+0	0	0	M	12	0	11	0		7	6	7	0	
+0	0	0	E	12	0	11	0		0	7	15	0	
+0	0	0	T	12	0	11	0		9	8	6	0	
+0	1	56	E	12	0	11	0		12	9	3	1	EEN
+0	0	0	R	12	0	11	0		10	10	4	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	57	A	12	12	3	1	ARE	0	12	15	0	
+0	1	58	R	12	12	3	0		12	13	3	1	REC
+0	1	59	E	12	12	3	0		12	14	3	1	EEK
+0	1	60	B	13	0	5	1	BEEST	12	0	3	0	
+0	0	0	E	13	0	5	0		10	1	5	0	
+0	0	0	E	13	0	5	0		0	2	15	0	
+0	0	0	S	13	0	5	0		8	3	7	0	
+0	0	0	T	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	61	S	13	6	5	1	SNEES	7	6	7	0	
+0	0	0	N	13	6	5	0		0	7	15	0	
+0	0	0	E	13	6	5	0		9	8	6	0	
+0	0	0	E	13	6	5	0		12	9	3	0	
+0	0	0	S	13	6	5	0		10	10	4	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	62	D	13	12	3	1	DEE	0	12	15	0	
+0	0	0	E	13	12	3	0		12	13	3	0	
+0	0	0	E	13	12	3	0		12	14	3	0	
+0	1	63	A	14	0	5	1	ASSTS	12	0	3	0	
+0	0	0	S	14	0	5	0		10	1	5	0	
+0	0	0	S	14	0	5	0		0	2	15	0	
+0	0	0	T	14	0	5	0		8	3	7	0	
+0	0	0	S	14	0	5	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	64	T	14	7	3	1	TNN	0	7	15	0	
+0	0	0	N	14	7	3	0		9	8	6	0	
+0	0	0	N	14	7	3	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	65	E	14	12	3	1	ECK	0	12	15	0	
+0	0	0	C	14	12	3	0		12	13	3	0	
+0	0	0	K	14	12	3	0		12	14	3	0	
+41
+1	WLE	Corduroy ridge
+4	HCL	Corrosive chemical, to a chemist
+7	BISON	Prairie sights
+12	AOL	Media inits. since 1989
+13	CIHAT	Sample a flavor
+15	INURE	Accustom
+16	LIL	Dogpatch diminutive
+17	ONEMANBANDS	Versatile performers
+19	ERS	Medics' destinations, for short
+21	REVS	Tach figure, informally
+22	SRI	Jaipur title
+23	FOCI	Centers of circles
+24	IDEA	Plan of action
+25	TIE	Bow
+26	YAWP	Harsh cry
+27	EUR	Where It.'s at
+28	JES	Samuel L. Jackson's character in "Pulp Fiction"
+29	DIETED	Took off excess pounds
+32	CNTOWER	Toronto attraction
+35	STS	GPS data: Abbr.
+36	XMEKATE	Porter classic
+38	SOC	Eugene Debs, e.g.: Abbr.
+40	HBOCAMP	Bum place to stay?
+42	TYPEAS	"Go, go, go" sorts
+44	EPH	Letter from St. Paul: Abbr.
+45	BRR	"It's c-c-c-cold!"
+47	ORCA	Marineland performer
+48	WEE	Like Burns's "tim'rous beastie"
+49	CLEO	Laine of jazz
+50	ONEH	50%
+51	IGN	Car starter: Abbr.
+52	IEST	Y to the max?
+53	RYN	Painter Rembrandt van ___
+54	SPEEDOMETER	Place for a needle
+57	ARE	"There you ___"
+60	BEEST	Ending with wilde- or harte-
+61	SNEES	Bygone stickers
+62	DEE	Balmoral Castle
+63	ASSTS	Helpers: Abbr.
+64	TNN	Country music network, once
+65	ECK	Opponent of Luther during the Protestant Reformation
+35
+1	WAL	Retail store opening?
+2	LOI	Law, in Lyon
+3	ELLEOWESBEEGEES	Fashion magazine is indebted to a pop group
+4	HIN	Ancient Hebrew liquid measure
+5	CHERIE	Mrs. Tony Blair
+6	LAMEDUCKPRESENT	Gift to an outgoing member of Congress?
+7	BIB	Protective wear in a highchair
+8	INASTEW	Agitated
+9	SUNRISESERENADE	Frankie Carle's theme song
+10	ORDIE	"Live Free ___" (New Hampshire motto)
+11	NES	Gaming debut of 1985, briefly
+13	COSI	First word in a Mozart title
+14	TAVERNA	Greek cafe
+18	NSA	Code-cracking org.
+20	RCPT	Sales slip: Abbr.
+23	FAITH	Kwanzaa principle
+26	YDS	They are 3 ft. long
+28	JOEY	"Friends" spinoff
+30	EXCH	Trading place: Abbr.
+31	DMA	Basic teaching
+33	TTT	Fort Smith-to-Little Rock dir.
+34	ROACH	Motel inhabitant?
+37	EMBLEMS	Logos
+39	CSA	Civil War inits.
+41	OPENEST	Most accessible
+43	PONY	Small mount
+46	ROTTEN	Rank
+48	WIPES	Cleaning cloths
+49	CIO	A.F.L.-___
+50	ORRS	Bobby and others
+54	SBA	Guarantor of many bank loans to cos.
+55	DTS	Cause of some shaking
+56	EEN	Hallow ending
+58	REC	___ center
+59	EEK	"Yikes!"

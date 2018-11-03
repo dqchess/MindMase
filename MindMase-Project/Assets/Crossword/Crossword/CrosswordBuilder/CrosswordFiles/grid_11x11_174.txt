@@ -1,0 +1,165 @@
+grid_11x11_174
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	ACT	0	1	5	1	AFLAT
+0	1	2	C	0	1	3	0		0	2	10	1	CLIMAXESAT
+0	1	3	T	0	1	3	0		0	3	3	1	TAV
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	E	0	5	3	1	ESA	0	5	11	1	EMBELLISHER
+0	1	5	S	0	5	3	0		0	6	6	1	SARNIA
+0	1	6	A	0	5	3	0		0	7	3	1	AJA
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	B	1	0	10	1	BFLATMAJOR	1	0	3	1	BON
+0	0	0	F	1	0	10	0		0	1	5	0	
+0	0	0	L	1	0	10	0		0	2	10	0	
+0	0	0	A	1	0	10	0		0	3	3	0	
+0	1	8	T	1	0	10	0		1	4	3	1	TEO
+0	0	0	M	1	0	10	0		0	5	11	0	
+0	0	0	A	1	0	10	0		0	6	6	0	
+0	0	0	J	1	0	10	0		0	7	3	0	
+0	1	9	O	1	0	10	0		1	8	10	1	ONTHEALERT
+0	1	10	R	1	0	10	0		1	9	4	1	RCPT
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	O	2	0	11	1	OLIVEBRANCH	1	0	3	0	
+0	0	0	L	2	0	11	0		0	1	5	0	
+0	0	0	I	2	0	11	0		0	2	10	0	
+0	0	0	V	2	0	11	0		0	3	3	0	
+0	0	0	E	2	0	11	0		1	4	3	0	
+0	0	0	B	2	0	11	0		0	5	11	0	
+0	0	0	R	2	0	11	0		0	6	6	0	
+0	0	0	A	2	0	11	0		0	7	3	0	
+0	0	0	N	2	0	11	0		1	8	10	0	
+0	0	0	C	2	0	11	0		1	9	4	0	
+0	1	12	H	2	0	11	0		2	10	3	1	HIS
+0	1	13	N	3	0	3	1	NAM	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	5	0	
+0	0	0	M	3	0	3	0		0	2	10	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	O	3	4	3	1	OEN	1	4	3	0	
+0	0	0	E	3	4	3	0		0	5	11	0	
+0	0	0	N	3	4	3	0		0	6	6	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	15	T	3	8	3	1	TPI	1	8	10	0	
+0	0	0	P	3	8	3	0		1	9	4	0	
+0	0	0	I	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	16	T	4	1	3	1	TAT	0	1	5	0	
+0	0	0	A	4	1	3	0		0	2	10	0	
+0	1	17	T	4	1	3	0		4	3	3	1	TYS
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	18	L	4	5	6	1	LIGHTS	0	5	11	0	
+0	0	0	I	4	5	6	0		0	6	6	0	
+0	1	19	G	4	5	6	0		4	7	3	1	GNL
+0	0	0	H	4	5	6	0		1	8	10	0	
+0	0	0	T	4	5	6	0		1	9	4	0	
+0	0	0	S	4	5	6	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	7	0		6	1	4	0	
+0	1	20	X	5	2	7	1	XYPLANE	0	2	10	0	
+0	0	0	Y	5	2	7	0		4	3	3	0	
+0	1	21	P	5	2	7	0		5	4	6	1	PLATER
+0	0	0	L	5	2	7	0		0	5	11	0	
+0	0	0	A	5	2	7	0		0	6	6	0	
+0	0	0	N	5	2	7	0		4	7	3	0	
+0	0	0	E	5	2	7	0		1	8	10	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	M	6	0	6	1	MUESLI	6	0	3	1	MEW
+0	1	23	U	6	0	6	0		6	1	4	1	UGHS
+0	0	0	E	6	0	6	0		0	2	10	0	
+0	0	0	S	6	0	6	0		4	3	3	0	
+0	0	0	L	6	0	6	0		5	4	6	0	
+0	0	0	I	6	0	6	0		0	5	11	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	24	L	6	7	3	1	LAP	4	7	3	0	
+0	0	0	A	6	7	3	0		1	8	10	0	
+0	1	25	P	6	7	3	0		6	9	5	1	PACES
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	26	E	7	0	3	1	EGS	6	0	3	0	
+0	0	0	G	7	0	3	0		6	1	4	0	
+0	0	0	S	7	0	3	0		0	2	10	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	27	A	7	4	3	1	ASH	5	4	6	0	
+0	0	0	S	7	4	3	0		0	5	11	0	
+0	1	28	H	7	4	3	0		7	6	3	1	HET
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	29	L	7	8	3	1	LAO	1	8	10	0	
+0	0	0	A	7	8	3	0		6	9	5	0	
+0	1	30	O	7	8	3	0		7	10	3	1	OKD
+0	1	31	W	8	0	11	1	WHATTHEHECK	6	0	3	0	
+0	0	0	H	8	0	11	0		6	1	4	0	
+0	0	0	A	8	0	11	0		0	2	10	0	
+0	1	32	T	8	0	11	0		8	3	3	1	TRE
+0	0	0	T	8	0	11	0		5	4	6	0	
+0	0	0	H	8	0	11	0		0	5	11	0	
+0	0	0	E	8	0	11	0		7	6	3	0	
+0	1	33	H	8	0	11	0		8	7	3	1	HCL
+0	0	0	E	8	0	11	0		1	8	10	0	
+0	0	0	C	8	0	11	0		6	9	5	0	
+0	0	0	K	8	0	11	0		7	10	3	0	
+1	0	0	#	9	1	10	0		10	0	0	0	
+0	1	34	S	9	1	10	1	STREETCRED	6	1	4	0	
+0	0	0	T	9	1	10	0		0	2	10	0	
+0	0	0	R	9	1	10	0		8	3	3	0	
+0	0	0	E	9	1	10	0		5	4	6	0	
+0	0	0	E	9	1	10	0		0	5	11	0	
+0	0	0	T	9	1	10	0		7	6	3	0	
+0	0	0	C	9	1	10	0		8	7	3	0	
+0	0	0	R	9	1	10	0		1	8	10	0	
+0	0	0	E	9	1	10	0		6	9	5	0	
+0	0	0	D	9	1	10	0		7	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	35	E	10	3	3	1	ERR	8	3	3	0	
+0	0	0	R	10	3	3	0		5	4	6	0	
+0	0	0	R	10	3	3	0		0	5	11	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	36	L	10	7	3	1	LTS	8	7	3	0	
+0	0	0	T	10	7	3	0		1	8	10	0	
+0	0	0	S	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	ACT	It's been passed
+4	ESA	Conductor ___-Pekka Salonen
+7	BFLATMAJOR	Key of Schumann's "Spring" Symphony
+11	OLIVEBRANCH	*Peace offering
+13	NAM	Former service site
+14	OEN	Wine: Prefix
+15	TPI	Object
+16	TAT	End of a machine gun sound
+18	LIGHTS	Part of an auto safety inspection
+20	XYPLANE	Setting of many plots
+22	MUESLI	Breakfast cereal
+24	LAP	What you stand to lose?
+26	EGS	Units in physics
+27	ASH	It buried Herculaneum
+29	LAO	Vientiane native
+31	WHATTHEHECK	Comment of abandon
+34	STREETCRED	Acceptance as cool, to some
+35	ERR	Goof up
+36	LTS	Capt.'s inferiors
+21
+1	AFLAT	Chopin's "Polonaise in ___ Major, Op. 53"
+2	CLIMAXESAT	Doesn't get any higher than
+3	TAV	Hebrew T
+4	EMBELLISHER	Decorator, e.g.
+5	SARNIA	Ontario port opposite Port Huron, Mich.
+6	AJA	1977 double-platinum jazz-rock album
+7	BON	"C'est si ___"
+8	TEO	___ Fabi of auto racing
+9	ONTHEALERT	Open-eyed
+10	RCPT	Sales slip: Abbr.
+12	HIS	Mug marking, maybe
+17	TYS	Cobb and others
+19	GNL	Anguilla is part of it: Abbr.
+21	PLATER	Metalworker of a sort
+22	MEW	Kitten call
+23	UGHS	Words with grimaces
+25	PACES	Walks outside the delivery room?
+28	HET	Upset, with "up"
+30	OKD	Let pass
+32	TRE	III, today
+33	HCL	Corrosive chemical, to a chemist

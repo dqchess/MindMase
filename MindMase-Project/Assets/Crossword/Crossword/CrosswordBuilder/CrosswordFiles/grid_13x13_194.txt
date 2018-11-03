@@ -1,0 +1,229 @@
+grid_13x13_194
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	E	0	1	3	1	EXT	0	1	6	1	ENFAIT
+0	1	2	X	0	1	3	0		0	2	6	1	XTERRA
+0	1	3	T	0	1	3	0		0	3	3	1	TUE
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	4	0		1	7	0	0	
+0	1	4	P	0	8	4	1	PHDS	0	8	3	1	PAR
+0	1	5	H	0	8	4	0		0	9	3	1	HEP
+0	1	6	D	0	8	4	0		0	10	6	1	DIABLO
+0	1	7	S	0	8	4	0		0	11	6	1	SOISEE
+1	0	0	#	0	13	0	0		1	12	4	0	
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	8	N	1	1	6	1	NTUPLE	0	1	6	0	
+0	0	0	T	1	1	6	0		0	2	6	0	
+0	0	0	U	1	1	6	0		0	3	3	0	
+0	1	9	P	1	1	6	0		1	4	3	1	PLO
+0	1	10	L	1	1	6	0		1	5	3	1	LYS
+0	1	11	E	1	1	6	0		1	6	3	1	EOE
+1	0	0	#	1	8	5	0		2	7	6	0	
+0	1	12	A	1	8	5	1	AEIOU	0	8	3	0	
+0	0	0	E	1	8	5	0		0	9	3	0	
+0	0	0	I	1	8	5	0		0	10	6	0	
+0	0	0	O	1	8	5	0		0	11	6	0	
+0	1	13	U	1	8	5	0		1	12	4	1	UNAS
+0	1	14	I	2	0	13	1	IFEELYOURPAIN	2	0	3	1	ICS
+0	0	0	F	2	0	13	0		0	1	6	0	
+0	0	0	E	2	0	13	0		0	2	6	0	
+0	0	0	E	2	0	13	0		0	3	3	0	
+0	0	0	L	2	0	13	0		1	4	3	0	
+0	0	0	Y	2	0	13	0		1	5	3	0	
+0	0	0	O	2	0	13	0		1	6	3	0	
+0	1	15	U	2	0	13	0		2	7	6	1	UTTERS
+0	0	0	R	2	0	13	0		0	8	3	0	
+0	0	0	P	2	0	13	0		0	9	3	0	
+0	0	0	A	2	0	13	0		0	10	6	0	
+0	0	0	I	2	0	13	0		0	11	6	0	
+0	0	0	N	2	0	13	0		1	12	4	0	
+0	1	16	C	3	0	3	1	CAR	2	0	3	0	
+0	0	0	A	3	0	3	0		0	1	6	0	
+0	0	0	R	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	4	0		4	3	5	0	
+0	1	17	O	3	4	4	1	OSET	1	4	3	0	
+0	0	0	S	3	4	4	0		1	5	3	0	
+0	0	0	E	3	4	4	0		1	6	3	0	
+0	0	0	T	3	4	4	0		2	7	6	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+1	0	0	#	3	10	3	0		4	9	5	0	
+0	1	18	B	3	10	3	1	BSA	0	10	6	0	
+0	0	0	S	3	10	3	0		0	11	6	0	
+0	0	0	A	3	10	3	0		1	12	4	0	
+0	1	19	S	4	0	4	1	SIRE	2	0	3	0	
+0	0	0	I	4	0	4	0		0	1	6	0	
+0	0	0	R	4	0	4	0		0	2	6	0	
+0	1	20	E	4	0	4	0		4	3	5	1	ESSES
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	0	0		5	5	6	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	21	T	4	7	6	1	TUBLES	2	7	6	0	
+0	1	22	U	4	7	6	0		4	8	3	1	UNE
+0	1	23	B	4	7	6	0		4	9	5	1	BRDDA
+0	0	0	L	4	7	6	0		0	10	6	0	
+0	0	0	E	4	7	6	0		0	11	6	0	
+0	0	0	S	4	7	6	0		1	12	4	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	24	T	5	1	3	1	TAS	0	1	6	0	
+0	0	0	A	5	1	3	0		0	2	6	0	
+0	0	0	S	5	1	3	0		4	3	5	0	
+1	0	0	#	5	5	7	0		6	4	3	0	
+0	1	25	M	5	5	7	1	MCENROE	5	5	6	1	MUSCLE
+0	1	26	C	5	5	7	0		5	6	3	1	CRE
+0	0	0	E	5	5	7	0		2	7	6	0	
+0	0	0	N	5	5	7	0		4	8	3	0	
+0	0	0	R	5	5	7	0		4	9	5	0	
+0	0	0	O	5	5	7	0		0	10	6	0	
+0	0	0	E	5	5	7	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	6	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	27	S	6	3	7	1	SPURRED	4	3	5	0	
+0	1	28	P	6	3	7	0		6	4	3	1	PEI
+0	0	0	U	6	3	7	0		5	5	6	0	
+0	0	0	R	6	3	7	0		5	6	3	0	
+0	0	0	R	6	3	7	0		2	7	6	0	
+0	0	0	E	6	3	7	0		4	8	3	0	
+0	0	0	D	6	3	7	0		4	9	5	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	7	0		8	0	4	0	
+0	1	29	C	7	1	7	1	CHEESES	7	1	6	1	CHALKY
+0	1	30	H	7	1	7	0		7	2	6	1	HAWAII
+0	0	0	E	7	1	7	0		4	3	5	0	
+0	0	0	E	7	1	7	0		6	4	3	0	
+0	0	0	S	7	1	7	0		5	5	6	0	
+0	0	0	E	7	1	7	0		5	6	3	0	
+0	0	0	S	7	1	7	0		2	7	6	0	
+1	0	0	#	7	9	3	0		8	8	0	0	
+0	1	31	D	7	9	3	1	DMZ	4	9	5	0	
+0	1	32	M	7	9	3	0		7	10	6	1	MEDALS
+0	1	33	Z	7	9	3	0		7	11	6	1	ZOUNDS
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	34	P	8	0	6	1	PHASIC	8	0	4	1	PCBS
+0	0	0	H	8	0	6	0		7	1	6	0	
+0	0	0	A	8	0	6	0		7	2	6	0	
+0	0	0	S	8	0	6	0		4	3	5	0	
+0	0	0	I	8	0	6	0		6	4	3	0	
+0	0	0	C	8	0	6	0		5	5	6	0	
+1	0	0	#	8	7	0	0		9	6	3	0	
+1	0	0	#	8	8	0	0		9	7	3	0	
+1	0	0	#	8	9	4	0		9	8	3	0	
+0	1	35	A	8	9	4	1	AEON	4	9	5	0	
+0	0	0	E	8	9	4	0		7	10	6	0	
+0	0	0	O	8	9	4	0		7	11	6	0	
+0	1	36	N	8	9	4	0		8	12	3	1	NEK
+0	1	37	C	9	0	3	1	CAW	8	0	4	0	
+0	0	0	A	9	0	3	0		7	1	6	0	
+0	0	0	W	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	4	0		10	4	3	0	
+0	1	38	L	9	5	4	1	LBAR	5	5	6	0	
+0	1	39	B	9	5	4	0		9	6	3	1	BTU
+0	1	40	A	9	5	4	0		9	7	3	1	AYN
+0	1	41	R	9	5	4	0		9	8	3	1	RBS
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	42	D	9	10	3	1	DUE	7	10	6	0	
+0	0	0	U	9	10	3	0		7	11	6	0	
+0	0	0	E	9	10	3	0		8	12	3	0	
+0	1	43	B	10	0	13	1	BLANKETYBLANK	8	0	4	0	
+0	0	0	L	10	0	13	0		7	1	6	0	
+0	0	0	A	10	0	13	0		7	2	6	0	
+0	1	44	N	10	0	13	0		10	3	3	1	NOP
+0	1	45	K	10	0	13	0		10	4	3	1	KNE
+0	0	0	E	10	0	13	0		5	5	6	0	
+0	0	0	T	10	0	13	0		9	6	3	0	
+0	0	0	Y	10	0	13	0		9	7	3	0	
+0	0	0	B	10	0	13	0		9	8	3	0	
+0	1	46	L	10	0	13	0		10	9	3	1	LOA
+0	0	0	A	10	0	13	0		7	10	6	0	
+0	0	0	N	10	0	13	0		7	11	6	0	
+0	0	0	K	10	0	13	0		8	12	3	0	
+0	1	47	S	11	0	5	1	SKION	8	0	4	0	
+0	0	0	K	11	0	5	0		7	1	6	0	
+0	0	0	I	11	0	5	0		7	2	6	0	
+0	0	0	O	11	0	5	0		10	3	3	0	
+0	0	0	N	11	0	5	0		10	4	3	0	
+1	0	0	#	11	6	6	0		12	5	0	0	
+0	1	48	U	11	6	6	1	UNSOLD	9	6	3	0	
+0	0	0	N	11	6	6	0		9	7	3	0	
+0	0	0	S	11	6	6	0		9	8	3	0	
+0	0	0	O	11	6	6	0		10	9	3	0	
+0	0	0	L	11	6	6	0		7	10	6	0	
+0	0	0	D	11	6	6	0		7	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	4	0		13	0	0	0	
+0	1	49	Y	12	1	4	1	YIPE	7	1	6	0	
+0	0	0	I	12	1	4	0		7	2	6	0	
+0	0	0	P	12	1	4	0		10	3	3	0	
+0	0	0	E	12	1	4	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	50	A	12	9	3	1	ASS	10	9	3	0	
+0	0	0	S	12	9	3	0		7	10	6	0	
+0	0	0	S	12	9	3	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	EXT	Bus. card info
+4	PHDS	Academic types
+8	NTUPLE	Ordered group of numbers in math
+12	AEIOU	Alphabet set
+14	IFEELYOURPAIN	Classic Bill Clinton phrase
+16	CAR	Big prize on "The Price Is Right"
+17	OSET	Kind of romance between actors
+18	BSA	Troop group: Abbr.
+19	SIRE	Part of an equine pedigree
+21	TUBLES	Spills
+24	TAS	Profs' helpers
+25	MCENROE	Tennis star-turned-analyst
+27	SPURRED	Incited
+29	CHEESES	American, Swiss, etc.
+31	DMZ	No man's land, in brief
+34	PHASIC	Occurring in stages
+35	AEON	Geological range
+37	CAW	Musical genre
+38	LBAR	Iron brace
+42	DUE	Devil's take?
+43	BLANKETYBLANK	Darned
+47	SKION	Be stingy with
+48	UNSOLD	Still on the market
+49	YIPE	"Egad!"
+50	ASS	Pompous fool
+31
+1	ENFAIT	As a matter of fact: Fr.
+2	XTERRA	Nissan model
+3	TUE	Night that "Happy Days" was on: Abbr.
+4	PAR	Gold digger's quest
+5	HEP	Like cats, once
+6	DIABLO	Cisco Kid's horse
+7	SOISEE	"That seems to be the case"
+9	PLO	Mahmoud Abbas's org.
+10	LYS	French border river
+11	EOE	Want-ad abbr.
+13	UNAS	Last pharaoh of Egypt's Fifth Dynasty
+14	ICS	Suffix with electron
+15	UTTERS	Pronounces
+20	ESSES	Massachusetts quartet
+22	UNE	Magritte's "Ceci n'est pas ___ pipe"
+23	BRDDA	___ Haute, Ind.
+25	MUSCLE	Biceps, e.g.
+26	CRE	Brunch serving
+28	PEI	Louvre Pyramid designer
+29	CHALKY	Cretaceous
+30	HAWAII	Theme of this puzzle
+32	MEDALS	Olympic statistic
+33	ZOUNDS	"Holy smokes!"
+34	PCBS	Highly toxic pollutants
+36	NEK	Educational cable network
+39	BTU	A.C. letters
+40	AYN	Rand who asked "Who is John Galt?"
+41	RBS	N.F.L. ball carriers
+44	NOP	Letter run
+45	KNE	Show obeisance
+46	LOA	"Mahalo nui ___" ("Thank you very much," in Hilo)

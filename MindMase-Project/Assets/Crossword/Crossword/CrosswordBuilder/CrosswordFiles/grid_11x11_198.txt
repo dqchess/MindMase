@@ -1,0 +1,165 @@
+grid_11x11_198
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	B	0	1	3	1	BES	0	1	11	1	BITTERSWEET
+0	1	2	E	0	1	3	0		0	2	11	1	ECHOSOUNDER
+0	1	3	S	0	1	3	0		0	3	5	1	SCORN
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	5	0		1	5	9	0	
+0	1	4	G	0	6	5	1	GODWE	0	6	3	1	GAP
+0	1	5	O	0	6	5	0		0	7	4	1	ORTH
+0	1	6	D	0	6	5	0		0	8	11	1	DISCUSTHROW
+0	1	7	W	0	6	5	0		0	9	11	1	WATERHEATER
+0	1	8	E	0	6	5	0		0	10	3	1	ESO
+1	0	0	#	1	1	3	0		2	0	0	0	
+0	1	9	I	1	1	3	1	ICC	0	1	11	0	
+0	0	0	C	1	1	3	0		0	2	11	0	
+0	0	0	C	1	1	3	0		0	3	5	0	
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	10	D	1	5	6	1	DARIAS	1	5	9	1	DOCSAVAGE
+0	0	0	A	1	5	6	0		0	6	3	0	
+0	0	0	R	1	5	6	0		0	7	4	0	
+0	0	0	I	1	5	6	0		0	8	11	0	
+0	0	0	A	1	5	6	0		0	9	11	0	
+0	0	0	S	1	5	6	0		0	10	3	0	
+1	0	0	#	2	1	3	0		3	0	0	0	
+0	1	11	T	2	1	3	1	THO	0	1	11	0	
+0	0	0	H	2	1	3	0		0	2	11	0	
+0	0	0	O	2	1	3	0		0	3	5	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	12	O	2	5	6	1	OPTSTO	1	5	9	0	
+0	0	0	P	2	5	6	0		0	6	3	0	
+0	0	0	T	2	5	6	0		0	7	4	0	
+0	0	0	S	2	5	6	0		0	8	11	0	
+0	0	0	T	2	5	6	0		0	9	11	0	
+0	0	0	O	2	5	6	0		0	10	3	0	
+1	0	0	#	3	1	5	0		4	0	3	0	
+0	1	13	T	3	1	5	1	TORIC	0	1	11	0	
+0	0	0	O	3	1	5	0		0	2	11	0	
+0	0	0	R	3	1	5	0		0	3	5	0	
+0	1	14	I	3	1	5	0		3	4	3	1	IEL
+0	0	0	C	3	1	5	0		1	5	9	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	15	H	3	7	3	1	HCE	0	7	4	0	
+0	0	0	C	3	7	3	0		0	8	11	0	
+0	0	0	E	3	7	3	0		0	9	11	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	16	M	4	0	6	1	MESNES	4	0	3	1	MGT
+0	0	0	E	4	0	6	0		0	1	11	0	
+0	0	0	S	4	0	6	0		0	2	11	0	
+0	0	0	N	4	0	6	0		0	3	5	0	
+0	0	0	E	4	0	6	0		3	4	3	0	
+0	0	0	S	4	0	6	0		1	5	9	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	17	U	4	8	3	1	URB	0	8	11	0	
+0	0	0	R	4	8	3	0		0	9	11	0	
+0	1	18	B	4	8	3	0		4	10	3	1	BER
+0	1	19	G	5	0	3	1	GRO	4	0	3	0	
+0	0	0	R	5	0	3	0		0	1	11	0	
+0	0	0	O	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	20	L	5	4	3	1	LAR	3	4	3	0	
+0	0	0	A	5	4	3	0		1	5	9	0	
+0	1	21	R	5	4	3	0		5	6	3	1	RAL
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	S	5	8	3	1	SHE	0	8	11	0	
+0	0	0	H	5	8	3	0		0	9	11	0	
+0	0	0	E	5	8	3	0		4	10	3	0	
+0	1	23	T	6	0	3	1	TSU	4	0	3	0	
+0	0	0	S	6	0	3	0		0	1	11	0	
+0	0	0	U	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	6	0		7	4	0	0	
+0	1	24	V	6	5	6	1	VASTER	1	5	9	0	
+0	0	0	A	6	5	6	0		5	6	3	0	
+0	1	25	S	6	5	6	0		6	7	5	1	SPIRE
+0	0	0	T	6	5	6	0		0	8	11	0	
+0	0	0	E	6	5	6	0		0	9	11	0	
+0	0	0	R	6	5	6	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	26	W	7	1	3	1	WNS	0	1	11	0	
+0	0	0	N	7	1	3	0		0	2	11	0	
+0	1	27	S	7	1	3	0		7	3	4	1	SRTA
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	28	A	7	5	5	1	ALPHA	1	5	9	0	
+0	0	0	L	7	5	5	0		5	6	3	0	
+0	0	0	P	7	5	5	0		6	7	5	0	
+0	0	0	H	7	5	5	0		0	8	11	0	
+0	0	0	A	7	5	5	0		0	9	11	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+0	1	29	R	8	0	6	1	REDRAG	8	0	3	1	RMS
+0	0	0	E	8	0	6	0		0	1	11	0	
+0	0	0	D	8	0	6	0		0	2	11	0	
+0	0	0	R	8	0	6	0		7	3	4	0	
+0	1	30	A	8	0	6	0		8	4	3	1	AMY
+0	0	0	G	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	31	I	8	7	3	1	IRT	6	7	5	0	
+0	0	0	R	8	7	3	0		0	8	11	0	
+0	0	0	T	8	7	3	0		0	9	11	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	32	M	9	0	6	1	MEETME	8	0	3	0	
+0	0	0	E	9	0	6	0		0	1	11	0	
+0	0	0	E	9	0	6	0		0	2	11	0	
+0	0	0	T	9	0	6	0		7	3	4	0	
+0	0	0	M	9	0	6	0		8	4	3	0	
+0	0	0	E	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	33	R	9	7	3	1	ROE	6	7	5	0	
+0	0	0	O	9	7	3	0		0	8	11	0	
+0	0	0	E	9	7	3	0		0	9	11	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	S	10	0	5	1	STRAY	8	0	3	0	
+0	0	0	T	10	0	5	0		0	1	11	0	
+0	0	0	R	10	0	5	0		0	2	11	0	
+0	0	0	A	10	0	5	0		7	3	4	0	
+0	0	0	Y	10	0	5	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	35	E	10	7	3	1	EWR	6	7	5	0	
+0	0	0	W	10	7	3	0		0	8	11	0	
+0	0	0	R	10	7	3	0		0	9	11	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	BES	Would-___ (aspirants)
+4	GODWE	Words on a quarter
+9	ICC	Govt. org., 1887-1996
+10	DARIAS	Onetime MTV animated title character and others
+11	THO	"E'en ___ 
+12	OPTSTO	Decides one will
+13	TORIC	Like most washers
+15	HCE	Therefore
+16	MESNES	Feudal lords
+17	URB	L.A.-based music magazine
+19	GRO	Miracle-___ (plant food brand)
+20	LAR	Roman household god
+22	SHE	The Four Tops' "When ___ Was My Girl"
+23	TSU	Nashville inst.
+24	VASTER	More massive
+26	WNS	Bleaches
+28	ALPHA	Main male
+29	REDRAG	Provocation, metaphorically
+31	IRT	New York subway inits.
+32	MEETME	Start of a tryster's message
+33	ROE	Salmon ___
+34	STRAY	Alley cat, perhaps
+35	EWR	Airport alternative to JFK or LGA
+17
+1	BITTERSWEET	Sugary drink?
+2	ECHOSOUNDER	Aid in deep diving
+3	SCORN	Show disdain for
+4	GAP	Void
+5	ORTH	Bug-B-Gon maker
+6	DISCUSTHROW	Olympic event dating back to ancient Greece
+7	WATERHEATER	Item called a geyser in Britain
+8	ESO	That, in Tabasco
+10	DOCSAVAGE	Fictional hero known as the Man of Bronze
+14	IEL	Drive forward
+16	MGT	Company keepers: Abbr.
+18	BER	Tight end, at times
+21	RAL	1960s Elvis-style singer ___ Donner
+25	SPIRE	Staple of gothic architecture
+27	SRTA	Mex. title
+29	RMS	Classified abbr.
+30	AMY	Etiquette guru Vanderbilt

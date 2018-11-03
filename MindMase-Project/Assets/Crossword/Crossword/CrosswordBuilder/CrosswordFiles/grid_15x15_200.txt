@@ -1,0 +1,311 @@
+grid_15x15_200
+15
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	3	0	
+0	1	1	H	0	2	3	1	HAL	0	2	4	1	HIHO
+0	1	2	A	0	2	3	0		0	3	3	1	ASI
+0	1	3	L	0	2	3	0		0	4	6	1	LHASAN
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	L	0	7	3	1	LAR	0	7	5	1	LYNDA
+0	1	5	A	0	7	3	0		0	8	3	1	ARE
+0	1	6	R	0	7	3	0		0	9	3	1	ROT
+1	0	0	#	0	11	4	0		1	10	0	0	
+0	1	7	M	0	11	4	1	MCMI	0	11	5	1	MOREL
+0	1	8	C	0	11	4	0		0	12	10	1	CHARLATANS
+0	1	9	M	0	11	4	0		0	13	3	1	MBE
+0	1	10	I	0	11	4	0		0	14	3	1	IES
+0	1	11	A	1	0	5	1	ADISH	1	0	3	1	ABC
+0	1	12	D	1	0	5	0		1	1	3	1	DAE
+0	0	0	I	1	0	5	0		0	2	4	0	
+0	0	0	S	1	0	5	0		0	3	3	0	
+0	0	0	H	1	0	5	0		0	4	6	0	
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	13	N	1	6	4	1	NYRO	1	6	3	1	NAA
+0	0	0	Y	1	6	4	0		0	7	5	0	
+0	0	0	R	1	6	4	0		0	8	3	0	
+0	0	0	O	1	6	4	0		0	9	3	0	
+1	0	0	#	1	11	4	0		2	10	0	0	
+0	1	14	O	1	11	4	1	OHBE	0	11	5	0	
+0	0	0	H	1	11	4	0		0	12	10	0	
+0	0	0	B	1	11	4	0		0	13	3	0	
+0	0	0	E	1	11	4	0		0	14	3	0	
+0	1	15	B	2	0	5	1	BAHIA	1	0	3	0	
+0	0	0	A	2	0	5	0		1	1	3	0	
+0	0	0	H	2	0	5	0		0	2	4	0	
+0	0	0	I	2	0	5	0		0	3	3	0	
+0	0	0	A	2	0	5	0		0	4	6	0	
+1	0	0	#	2	6	4	0		3	5	8	0	
+0	1	16	A	2	6	4	1	ANET	1	6	3	0	
+0	0	0	N	2	6	4	0		0	7	5	0	
+0	0	0	E	2	6	4	0		0	8	3	0	
+0	0	0	T	2	6	4	0		0	9	3	0	
+1	0	0	#	2	11	4	0		3	10	4	0	
+0	1	17	R	2	11	4	1	RAES	0	11	5	0	
+0	0	0	A	2	11	4	0		0	12	10	0	
+0	0	0	E	2	11	4	0		0	13	3	0	
+0	0	0	S	2	11	4	0		0	14	3	0	
+0	1	18	C	3	0	3	1	CEO	1	0	3	0	
+0	0	0	E	3	0	3	0		1	1	3	0	
+0	0	0	O	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	19	S	3	4	4	1	SHAD	0	4	6	0	
+0	1	20	H	3	4	4	0		3	5	8	1	HISTORIC
+0	0	0	A	3	4	4	0		1	6	3	0	
+0	0	0	D	3	4	4	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	5	0	
+1	0	0	#	3	10	3	0		4	9	8	0	
+0	1	21	P	3	10	3	1	PER	3	10	4	1	PELE
+0	0	0	E	3	10	3	0		0	11	5	0	
+0	0	0	R	3	10	3	0		0	12	10	0	
+1	0	0	#	3	14	0	0		4	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	10	0	
+0	1	22	B	4	3	3	1	BAI	4	3	3	1	BAT
+0	0	0	A	4	3	3	0		0	4	6	0	
+0	0	0	I	4	3	3	0		3	5	8	0	
+1	0	0	#	4	7	7	0		5	6	0	0	
+0	1	23	A	4	7	7	1	AGBELLS	0	7	5	0	
+0	1	24	G	4	7	7	0		4	8	5	1	GREET
+0	1	25	B	4	7	7	0		4	9	8	1	BACTERIA
+0	0	0	E	4	7	7	0		3	10	4	0	
+0	0	0	L	4	7	7	0		0	11	5	0	
+0	0	0	L	4	7	7	0		0	12	10	0	
+0	1	26	S	4	7	7	0		4	13	6	1	SAYSOK
+1	0	0	#	4	15	0	0		5	14	4	0	
+1	0	0	#	5	1	5	0		6	0	4	0	
+0	1	27	B	5	1	5	1	BEANS	5	1	6	1	BIBLIO
+0	1	28	E	5	1	5	0		5	2	10	1	ESAUSFIELD
+0	0	0	A	5	1	5	0		4	3	3	0	
+0	0	0	N	5	1	5	0		0	4	6	0	
+0	0	0	S	5	1	5	0		3	5	8	0	
+1	0	0	#	5	7	0	0		6	6	5	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	29	R	5	8	3	1	RAL	4	8	5	0	
+0	0	0	A	5	8	3	0		4	9	8	0	
+0	0	0	L	5	8	3	0		3	10	4	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	30	A	5	12	3	1	AAA	0	12	10	0	
+0	0	0	A	5	12	3	0		4	13	6	0	
+0	1	31	A	5	12	3	0		5	14	4	1	AEAN
+0	1	32	F	6	0	4	1	FIST	6	0	4	1	FICA
+0	0	0	I	6	0	4	0		5	1	6	0	
+0	0	0	S	6	0	4	0		5	2	10	0	
+0	0	0	T	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	6	0		7	4	0	0	
+0	1	33	T	6	5	6	1	TPIECE	3	5	8	0	
+0	1	34	P	6	5	6	0		6	6	5	1	PCKLE
+0	1	35	I	6	5	6	0		6	7	3	1	ITI
+0	0	0	E	6	5	6	0		4	8	5	0	
+0	0	0	C	6	5	6	0		4	9	8	0	
+0	0	0	E	6	5	6	0		3	10	4	0	
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	36	T	6	12	3	1	TYE	0	12	10	0	
+0	0	0	Y	6	12	3	0		4	13	6	0	
+0	0	0	E	6	12	3	0		5	14	4	0	
+0	1	37	I	7	0	3	1	IBA	6	0	4	0	
+0	0	0	B	7	0	3	0		5	1	6	0	
+0	0	0	A	7	0	3	0		5	2	10	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	5	0		8	4	4	0	
+0	1	38	O	7	5	5	1	OCTET	3	5	8	0	
+0	0	0	C	7	5	5	0		6	6	5	0	
+0	0	0	T	7	5	5	0		6	7	3	0	
+0	0	0	E	7	5	5	0		4	8	5	0	
+0	0	0	T	7	5	5	0		4	9	8	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	39	A	7	12	3	1	ASA	0	12	10	0	
+0	0	0	S	7	12	3	0		4	13	6	0	
+0	0	0	A	7	12	3	0		5	14	4	0	
+0	1	40	C	8	0	3	1	CLU	6	0	4	0	
+0	0	0	L	8	0	3	0		5	1	6	0	
+0	0	0	U	8	0	3	0		5	2	10	0	
+1	0	0	#	8	4	6	0		9	3	0	0	
+0	1	41	M	8	4	6	1	MRKITE	8	4	4	1	MLII
+0	0	0	R	8	4	6	0		3	5	8	0	
+0	0	0	K	8	4	6	0		6	6	5	0	
+0	0	0	I	8	4	6	0		6	7	3	0	
+0	0	0	T	8	4	6	0		4	8	5	0	
+0	0	0	E	8	4	6	0		4	9	8	0	
+1	0	0	#	8	11	4	0		9	10	6	0	
+0	1	42	A	8	11	4	1	ANON	8	11	3	1	AAM
+0	0	0	N	8	11	4	0		0	12	10	0	
+0	0	0	O	8	11	4	0		4	13	6	0	
+0	0	0	N	8	11	4	0		5	14	4	0	
+0	1	43	A	9	0	3	1	AIS	6	0	4	0	
+0	0	0	I	9	0	3	0		5	1	6	0	
+0	0	0	S	9	0	3	0		5	2	10	0	
+1	0	0	#	9	4	3	0		10	3	5	0	
+0	1	44	L	9	4	3	1	LIL	8	4	4	0	
+0	0	0	I	9	4	3	0		3	5	8	0	
+0	0	0	L	9	4	3	0		6	6	5	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	5	0		10	8	0	0	
+0	1	45	R	9	9	5	1	REASK	4	9	8	0	
+0	1	46	E	9	9	5	0		9	10	6	1	ESSAYS
+0	0	0	A	9	9	5	0		8	11	3	0	
+0	0	0	S	9	9	5	0		0	12	10	0	
+0	0	0	K	9	9	5	0		4	13	6	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	7	0		11	0	0	0	
+0	1	47	O	10	1	7	1	OFFICES	5	1	6	0	
+0	0	0	F	10	1	7	0		5	2	10	0	
+0	1	48	F	10	1	7	0		10	3	5	1	FIRES
+0	0	0	I	10	1	7	0		8	4	4	0	
+0	0	0	C	10	1	7	0		3	5	8	0	
+0	0	0	E	10	1	7	0		6	6	5	0	
+0	1	49	S	10	1	7	0		10	7	5	1	SITIN
+1	0	0	#	10	9	3	0		11	8	3	0	
+0	1	50	I	10	9	3	1	ISM	4	9	8	0	
+0	0	0	S	10	9	3	0		9	10	6	0	
+0	0	0	M	10	9	3	0		8	11	3	0	
+1	0	0	#	10	13	0	0		11	12	4	0	
+1	0	0	#	10	14	0	0		11	13	3	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	51	I	11	2	3	1	III	5	2	10	0	
+0	0	0	I	11	2	3	0		10	3	5	0	
+0	0	0	I	11	2	3	0		8	4	4	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	4	0		12	6	3	0	
+0	1	52	I	11	7	4	1	ITAS	10	7	5	0	
+0	1	53	T	11	7	4	0		11	8	3	1	TIA
+0	0	0	A	11	7	4	0		4	9	8	0	
+0	0	0	S	11	7	4	0		9	10	6	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	54	S	11	12	3	1	SEW	11	12	4	1	SORA
+0	1	55	E	11	12	3	0		11	13	3	1	ELI
+0	1	56	W	11	12	3	0		11	14	3	1	WTS
+0	1	57	N	12	0	4	1	NLER	12	0	3	1	NIK
+0	1	58	L	12	0	4	0		12	1	3	1	LAI
+0	0	0	E	12	0	4	0		5	2	10	0	
+0	0	0	R	12	0	4	0		10	3	5	0	
+1	0	0	#	12	5	4	0		13	4	0	0	
+0	1	59	T	12	5	4	1	TATI	12	5	3	1	TED
+0	1	60	A	12	5	4	0		12	6	3	1	ALA
+0	0	0	T	12	5	4	0		10	7	5	0	
+0	0	0	I	12	5	4	0		11	8	3	0	
+1	0	0	#	12	10	5	0		13	9	0	0	
+0	1	61	A	12	10	5	1	ABOLT	9	10	6	0	
+0	1	62	B	12	10	5	0		12	11	3	1	BUB
+0	0	0	O	12	10	5	0		11	12	4	0	
+0	0	0	L	12	10	5	0		11	13	3	0	
+0	0	0	T	12	10	5	0		11	14	3	0	
+0	1	63	I	13	0	4	1	IALE	12	0	3	0	
+0	0	0	A	13	0	4	0		12	1	3	0	
+0	0	0	L	13	0	4	0		5	2	10	0	
+0	0	0	E	13	0	4	0		10	3	5	0	
+1	0	0	#	13	5	4	0		14	4	0	0	
+0	1	64	E	13	5	4	1	ELIA	12	5	3	0	
+0	0	0	L	13	5	4	0		12	6	3	0	
+0	0	0	I	13	5	4	0		10	7	5	0	
+0	0	0	A	13	5	4	0		11	8	3	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	65	Y	13	10	5	1	YURIS	9	10	6	0	
+0	0	0	U	13	10	5	0		12	11	3	0	
+0	0	0	R	13	10	5	0		11	12	4	0	
+0	0	0	I	13	10	5	0		11	13	3	0	
+0	0	0	S	13	10	5	0		11	14	3	0	
+0	1	66	K	14	0	4	1	KIDS	12	0	3	0	
+0	0	0	I	14	0	4	0		12	1	3	0	
+0	0	0	D	14	0	4	0		5	2	10	0	
+0	0	0	S	14	0	4	0		10	3	5	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	67	D	14	5	3	1	DAN	12	5	3	0	
+0	0	0	A	14	5	3	0		12	6	3	0	
+0	0	0	N	14	5	3	0		10	7	5	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	68	S	14	10	3	1	SBA	9	10	6	0	
+0	0	0	B	14	10	3	0		12	11	3	0	
+0	0	0	A	14	10	3	0		11	12	4	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+43
+1	HAL	Hotspur's slayer
+4	LAR	"Knots Landing" actress ___ Park Lincoln
+7	MCMI	Year Queen Victoria died
+11	ADISH	"___ fit for a king"
+13	NYRO	"Wedding Bell Blues" singer Laura
+14	OHBE	"___ quiet!"
+15	BAHIA	Coastal Brazilian state
+16	ANET	"They have prepared ___ for my steps": Psalms 57:6
+17	RAES	Actress Charlotte et al.
+18	CEO	Corp. bigwig
+19	SHAD	Fish usually caught in the winter
+21	PER	Part of a rate of speed
+22	BAI	Actress ___ Ling of "The Crow"
+23	AGBELLS	Christmas song since the 1950s
+27	BEANS	The slightest amount
+29	RAL	"Too-Ra-Loo-Ra-Loo-___"
+30	AAA	Excellent debt rating
+32	FIST	Black Power symbol
+33	TPIECE	Like a suit with a vest
+36	TYE	Nautical rope
+37	IBA	Hall-of-Fame basketball coach Hank
+38	OCTET	Row of pawns, e.g.
+39	ASA	Comparison connector
+40	CLU	Gulager of "The Virginian"
+41	MRKITE	Title character in a "Sgt. Pepper" song
+42	ANON	Any day now
+43	AIS	Start of some picture books
+44	LIL	"___ Liza Jane" (old glee club favorite)
+45	REASK	Send another invitation
+47	OFFICES	Positions of authority
+50	ISM	System of beliefs
+51	III	"Halloween ___" (1983 flick)
+52	ITAS	Oft-misused contraction
+54	SEW	Make clothes
+57	NLER	Met or Card
+59	TATI	Comical Jacques
+61	ABOLT	Like ___ from the blue
+63	IALE	Spear
+64	ELIA	Lamb by another name
+65	YURIS	Andropov and Gagarin
+66	KIDS	Isn't serious
+67	DAN	Castellaneta, the voice of Homer on "The Simpsons"
+68	SBA	Fed. loan group
+39
+1	HIHO	"Farmer in the Dell" syllables
+2	ASI	Sinatra's "Softly, ___ Leave You"
+3	LHASAN	Like the Dalai Lama, historically
+4	LYNDA	___ Carter, who played Wonder Woman
+5	ARE	Were present?
+6	ROT	Applesauce
+7	MOREL	Fancy mushroom
+8	CHARLATANS	Fakes
+9	MBE	Honourary title: Abbr.
+10	IES	Pant attachment?
+11	ABC	"Marcus Welby, M.D." network
+12	DAE	Daniel ___ Kim of "Lost"
+13	NAA	Sports org.
+20	HISTORIC	Memorable
+21	PELE	Sports star with an accent in his name
+22	BAT	Cricketer's need
+24	GREET	Say hi to
+25	BACTERIA	Study of Louis Pasteur
+26	SAYSOK	Assents
+27	BIBLIO	Book lover's prefix
+28	ESAUSFIELD	Carbon copy of a Cleveland ballpark?
+31	AEAN	Like llamas
+32	FICA	Pay stub abbr.
+34	PCKLE	Jam
+35	ITI	"That's ___ quit!"
+41	MLII	Year of Philip I's birth
+42	AAM	Texas school
+46	ESSAYS	Attempts
+48	FIRES	Pink-slips
+49	SITIN	Protest, of a sort
+53	TIA	Spanish relative
+54	SORA	Short-billed rail
+55	ELI	Samuel's mentor
+56	WTS	Lbs. and kgs.
+57	NIK	Beat ending
+58	LAI	Troubadour's tune
+59	TED	Koppel of "Nightline"
+60	ALA	King preceder
+62	BUB	Pal

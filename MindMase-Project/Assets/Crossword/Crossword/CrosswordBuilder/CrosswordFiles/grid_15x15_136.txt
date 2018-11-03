@@ -1,0 +1,303 @@
+grid_15x15_136
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	U	0	2	3	1	USX	0	2	15	1	UNDERENROLLMENT
+0	1	2	S	0	2	3	0		0	3	3	1	SLC
+0	1	3	X	0	2	3	0		0	4	5	1	XACTO
+1	0	0	#	0	6	0	0		1	5	7	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	A	0	7	3	1	ATS	0	7	3	1	APS
+0	1	5	T	0	7	3	0		0	8	5	1	TUTTE
+0	1	6	S	0	7	3	0		0	9	6	1	SBARRO
+1	0	0	#	0	11	3	0		1	10	3	0	
+0	1	7	U	0	11	3	1	UDE	0	11	3	1	UUU
+0	1	8	D	0	11	3	0		0	12	15	1	DIAMONDJIMBRADY
+0	1	9	E	0	11	3	0		0	13	7	1	EZRIDER
+1	0	0	#	0	15	0	0		1	14	0	0	
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	10	I	1	1	5	1	INLAW	1	1	6	1	IMGAME
+0	0	0	N	1	1	5	0		0	2	15	0	
+0	0	0	L	1	1	5	0		0	3	3	0	
+0	0	0	A	1	1	5	0		0	4	5	0	
+0	1	11	W	1	1	5	0		1	5	7	1	WIREDUP
+1	0	0	#	1	7	7	0		2	6	0	0	
+0	1	12	P	1	7	7	1	PUBQUIZ	0	7	3	0	
+0	0	0	U	1	7	7	0		0	8	5	0	
+0	0	0	B	1	7	7	0		0	9	6	0	
+0	1	13	Q	1	7	7	0		1	10	3	1	QTY
+0	0	0	U	1	7	7	0		0	11	3	0	
+0	0	0	I	1	7	7	0		0	12	15	0	
+0	0	0	Z	1	7	7	0		0	13	7	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+1	0	0	#	2	1	5	0		3	0	3	0	
+0	1	14	M	2	1	5	1	MDCCI	1	1	6	0	
+0	0	0	D	2	1	5	0		0	2	15	0	
+0	0	0	C	2	1	5	0		0	3	3	0	
+0	0	0	C	2	1	5	0		0	4	5	0	
+0	0	0	I	2	1	5	0		1	5	7	0	
+1	0	0	#	2	7	8	0		3	6	5	0	
+0	1	15	S	2	7	8	1	STATUARY	0	7	3	0	
+0	0	0	T	2	7	8	0		0	8	5	0	
+0	0	0	A	2	7	8	0		0	9	6	0	
+0	0	0	T	2	7	8	0		1	10	3	0	
+0	0	0	U	2	7	8	0		0	11	3	0	
+0	0	0	A	2	7	8	0		0	12	15	0	
+0	0	0	R	2	7	8	0		0	13	7	0	
+0	1	16	Y	2	7	8	0		2	14	3	1	YAO
+0	1	17	L	3	0	3	1	LGE	3	0	3	1	LEM
+0	0	0	G	3	0	3	0		1	1	6	0	
+0	0	0	E	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	18	T	3	4	3	1	TRI	0	4	5	0	
+0	0	0	R	3	4	3	0		1	5	7	0	
+0	1	19	I	3	4	3	0		3	6	5	1	IRULE
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	20	T	3	8	3	1	TRY	0	8	5	0	
+0	0	0	R	3	8	3	0		0	9	6	0	
+0	0	0	Y	3	8	3	0		1	10	3	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	21	M	3	12	3	1	MIA	0	12	15	0	
+0	0	0	I	3	12	3	0		0	13	7	0	
+0	0	0	A	3	12	3	0		2	14	3	0	
+0	1	22	E	4	0	3	1	EAR	3	0	3	0	
+0	0	0	A	4	0	3	0		1	1	6	0	
+0	0	0	R	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	6	0		5	3	0	0	
+0	1	23	O	4	4	6	1	OERTER	0	4	5	0	
+0	0	0	E	4	4	6	0		1	5	7	0	
+0	0	0	R	4	4	6	0		3	6	5	0	
+0	1	24	T	4	4	6	0		4	7	7	1	TIERNEY
+0	0	0	E	4	4	6	0		0	8	5	0	
+0	0	0	R	4	4	6	0		0	9	6	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+1	0	0	#	4	12	3	0		5	11	4	0	
+0	1	25	O	4	12	3	1	ODO	0	12	15	0	
+0	0	0	D	4	12	3	0		0	13	7	0	
+0	0	0	O	4	12	3	0		2	14	3	0	
+0	1	26	M	5	0	3	1	MME	3	0	3	0	
+0	0	0	M	5	0	3	0		1	1	6	0	
+0	0	0	E	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	0	0		6	3	4	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	27	D	5	5	3	1	DUI	1	5	7	0	
+0	0	0	U	5	5	3	0		3	6	5	0	
+0	0	0	I	5	5	3	0		4	7	7	0	
+1	0	0	#	5	9	5	0		6	8	0	0	
+0	1	28	O	5	9	5	1	OLINE	0	9	6	0	
+0	1	29	L	5	9	5	0		5	10	3	1	LAO
+0	1	30	I	5	9	5	0		5	11	4	1	IDLS
+0	0	0	N	5	9	5	0		0	12	15	0	
+0	0	0	E	5	9	5	0		0	13	7	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	31	E	6	1	3	1	ENS	1	1	6	0	
+0	0	0	N	6	1	3	0		0	2	15	0	
+0	1	32	S	6	1	3	0		6	3	4	1	SAWS
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	33	U	6	5	3	1	ULE	1	5	7	0	
+0	0	0	L	6	5	3	0		3	6	5	0	
+0	0	0	E	6	5	3	0		4	7	7	0	
+1	0	0	#	6	9	0	0		7	8	5	0	
+1	0	0	#	6	10	4	0		7	9	7	0	
+0	1	34	A	6	10	4	1	ADDR	5	10	3	0	
+0	0	0	D	6	10	4	0		5	11	4	0	
+0	0	0	D	6	10	4	0		0	12	15	0	
+0	0	0	R	6	10	4	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	11	0		8	1	7	0	
+0	1	35	R	7	2	11	1	RAPPERCOOLJ	0	2	15	0	
+0	0	0	A	7	2	11	0		6	3	4	0	
+0	1	36	P	7	2	11	0		7	4	3	1	PLA
+0	0	0	P	7	2	11	0		1	5	7	0	
+0	0	0	E	7	2	11	0		3	6	5	0	
+0	0	0	R	7	2	11	0		4	7	7	0	
+0	1	37	C	7	2	11	0		7	8	5	1	COCOA
+0	1	38	O	7	2	11	0		7	9	7	1	OBTUSER
+0	0	0	O	7	2	11	0		5	10	3	0	
+0	0	0	L	7	2	11	0		5	11	4	0	
+0	0	0	J	7	2	11	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	6	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	39	C	8	1	4	1	COWL	8	1	7	1	CASSOCK
+0	0	0	O	8	1	4	0		0	2	15	0	
+0	0	0	W	8	1	4	0		6	3	4	0	
+0	0	0	L	8	1	4	0		7	4	3	0	
+1	0	0	#	8	6	0	0		9	5	6	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	40	N	8	7	3	1	NOB	4	7	7	0	
+0	0	0	O	8	7	3	0		7	8	5	0	
+0	0	0	B	8	7	3	0		7	9	7	0	
+1	0	0	#	8	11	3	0		9	10	0	0	
+0	1	41	S	8	11	3	1	SIS	5	11	4	0	
+0	0	0	I	8	11	3	0		0	12	15	0	
+0	1	42	S	8	11	3	0		8	13	6	1	SNEERS
+1	0	0	#	8	15	0	0		9	14	3	0	
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	43	A	9	1	5	1	ALSAB	8	1	7	0	
+0	0	0	L	9	1	5	0		0	2	15	0	
+0	0	0	S	9	1	5	0		6	3	4	0	
+0	0	0	A	9	1	5	0		7	4	3	0	
+0	1	44	B	9	1	5	0		9	5	6	1	BLAMES
+1	0	0	#	9	7	3	0		10	6	5	0	
+0	1	45	E	9	7	3	1	ECT	4	7	7	0	
+0	0	0	C	9	7	3	0		7	8	5	0	
+0	0	0	T	9	7	3	0		7	9	7	0	
+1	0	0	#	9	11	0	0		10	10	5	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	46	M	9	12	3	1	MNO	0	12	15	0	
+0	0	0	N	9	12	3	0		8	13	6	0	
+0	1	47	O	9	12	3	0		9	14	3	1	OKD
+0	1	48	A	10	0	3	1	ASL	10	0	3	1	ADJ
+0	0	0	S	10	0	3	0		8	1	7	0	
+0	0	0	L	10	0	3	0		0	2	15	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	6	0		11	4	3	0	
+0	1	49	L	10	5	6	1	LAYOUT	9	5	6	0	
+0	1	50	A	10	5	6	0		10	6	5	1	AREWE
+0	0	0	Y	10	5	6	0		4	7	7	0	
+0	0	0	O	10	5	6	0		7	8	5	0	
+0	0	0	U	10	5	6	0		7	9	7	0	
+0	1	51	T	10	5	6	0		10	10	5	1	TKLES
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	52	B	10	12	3	1	BEK	0	12	15	0	
+0	0	0	E	10	12	3	0		8	13	6	0	
+0	0	0	K	10	12	3	0		9	14	3	0	
+0	1	53	D	11	0	3	1	DSM	10	0	3	0	
+0	0	0	S	11	0	3	0		8	1	7	0	
+0	0	0	M	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	54	L	11	4	3	1	LAR	11	4	3	1	LAN
+0	0	0	A	11	4	3	0		9	5	6	0	
+0	0	0	R	11	4	3	0		10	6	5	0	
+1	0	0	#	11	8	3	0		12	7	3	0	
+0	1	55	A	11	8	3	1	ASK	7	8	5	0	
+0	0	0	S	11	8	3	0		7	9	7	0	
+0	0	0	K	11	8	3	0		10	10	5	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	56	R	11	12	3	1	RED	0	12	15	0	
+0	0	0	E	11	12	3	0		8	13	6	0	
+0	0	0	D	11	12	3	0		9	14	3	0	
+0	1	57	J	12	0	8	1	JOECAMEL	10	0	3	0	
+0	0	0	O	12	0	8	0		8	1	7	0	
+0	0	0	E	12	0	8	0		0	2	15	0	
+0	1	58	C	12	0	8	0		12	3	3	1	CNS
+0	0	0	A	12	0	8	0		11	4	3	0	
+0	0	0	M	12	0	8	0		9	5	6	0	
+0	0	0	E	12	0	8	0		10	6	5	0	
+0	1	59	L	12	0	8	0		12	7	3	1	LSI
+1	0	0	#	12	9	5	0		13	8	0	0	
+0	1	60	E	12	9	5	1	ELGAR	7	9	7	0	
+0	0	0	L	12	9	5	0		10	10	5	0	
+0	1	61	G	12	9	5	0		12	11	3	1	GIT
+0	0	0	A	12	9	5	0		0	12	15	0	
+0	0	0	R	12	9	5	0		8	13	6	0	
+1	0	0	#	12	15	0	0		13	14	0	0	
+1	0	0	#	13	1	7	0		14	0	0	0	
+0	1	62	C	13	1	7	1	CNNNEWS	8	1	7	0	
+0	0	0	N	13	1	7	0		0	2	15	0	
+0	0	0	N	13	1	7	0		12	3	3	0	
+0	0	0	N	13	1	7	0		11	4	3	0	
+0	0	0	E	13	1	7	0		9	5	6	0	
+0	0	0	W	13	1	7	0		10	6	5	0	
+0	0	0	S	13	1	7	0		12	7	3	0	
+1	0	0	#	13	9	5	0		14	8	0	0	
+0	1	63	R	13	9	5	1	REIDS	7	9	7	0	
+0	0	0	E	13	9	5	0		10	10	5	0	
+0	0	0	I	13	9	5	0		12	11	3	0	
+0	0	0	D	13	9	5	0		0	12	15	0	
+0	0	0	S	13	9	5	0		8	13	6	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	64	K	14	1	3	1	KTS	8	1	7	0	
+0	0	0	T	14	1	3	0		0	2	15	0	
+0	0	0	S	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	65	S	14	5	3	1	SEI	9	5	6	0	
+0	0	0	E	14	5	3	0		10	6	5	0	
+0	0	0	I	14	5	3	0		12	7	3	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	66	S	14	10	3	1	STY	10	10	5	0	
+0	0	0	T	14	10	3	0		12	11	3	0	
+0	0	0	Y	14	10	3	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	USX	Fortune 500 steelmaker
+4	ATS	Symbols like @
+7	UDE	Ulan-___, Russia
+10	INLAW	Not a blood relative
+12	PUBQUIZ	Event in which teams may drink rounds during rounds
+14	MDCCI	Start of the 18th century
+15	STATUARY	Busts and such
+17	LGE	"T" size: Abbr.
+18	TRI	City or state lead-in
+20	TRY	Take a shot
+21	MIA	Italian pronoun
+22	EAR	Audiologist's concern
+23	OERTER	Olympic discus great Al
+25	ODO	Prefix with meter
+26	MME	Tussaud's title: Abbr.
+27	DUI	Motorist's no-no, for short
+28	OLINE	New York City tour provider
+31	ENS	One-striper: Abbr.
+33	ULE	Kin of -kin
+34	ADDR	P.O. box, e.g.
+35	RAPPERCOOLJ	L L
+39	COWL	Brother's attire
+40	NOB	Voyage kickoff?
+41	SIS	Cheer start
+43	ALSAB	1942 Preakness winner
+45	ECT	Outer: Prefix
+46	MNO	Phone trigram
+48	ASL	Communication without talking: Abbr.
+49	LAYOUT	Arrangement
+52	BEK	Dub "sir"
+53	DSM	Mil. honor
+54	LAR	Choreographer Lubovitch
+55	ASK	Petition
+56	RED	Like roses
+57	JOECAMEL	Smoking character
+60	ELGAR	"Chanson de Matin" composer
+62	CNNNEWS	It's shown on TV monitors at many airports
+63	REIDS	Actress Tara and others
+64	KTS	24 of them = 100%: Abbr.
+65	SEI	Number after cinque
+66	STY	Slop trough site
+33
+1	UNDERENROLLMENT	University worry
+2	SLC	2002 Winter Olympics host: Abbr.
+3	XACTO	Hobby knife brand
+4	APS	Modern-day tech purchases
+5	TUTTE	"Cos
+6	SBARRO	Alternative to Uno Chicago Grill
+7	UUU	Familiar Olympics chant
+8	DIAMONDJIMBRADY	Gilded Age tycoon with a legendary appetite
+9	EZRIDER	Classic 1969 youth film
+10	IMGAME	"Count me in!"
+11	WIREDUP	Very tense and excited
+13	QTY	Reduced amount?
+16	YAO	Shanghai-born N.B.A. star
+17	LEM	Science fiction author Stanislaw
+19	IRULE	"That was awesome of me!"
+24	TIERNEY	"Laura" star, 1944
+29	LAO	Southeast Asian
+30	IDLS	Types with fat recording contracts
+32	SAWS	They may be big fellers
+36	PLA	Mao's group: Abbr.
+37	COCOA	Winter warmer
+38	OBTUSER	Not so bright
+39	CASSOCK	Clerical robe
+42	SNEERS	Shows contempt
+44	BLAMES	Lays at the door of
+47	OKD	Endorsed
+48	ADJ	Modifier: Abbr.
+50	AREWE	"___ having fun yet?"
+51	TKLES	Bell sounds
+54	LAN	Intraoffice linkup: Abbr.
+58	CNS	Brain and spinal cord: Abbr.
+59	LSI	Long-running B'way musical seen by couples?
+61	GIT	"I said ... out!"

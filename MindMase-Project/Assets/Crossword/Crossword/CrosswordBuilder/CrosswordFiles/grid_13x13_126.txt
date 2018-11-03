@@ -1,0 +1,227 @@
+grid_13x13_126
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	C	0	1	3	1	CAT	0	1	6	1	COTTON
+0	1	2	A	0	1	3	0		0	2	6	1	AROULS
+0	1	3	T	0	1	3	0		0	3	3	1	TAT
+1	0	0	#	0	5	0	0		1	4	8	0	
+1	0	0	#	0	6	0	0		1	5	6	0	
+1	0	0	#	0	7	5	0		1	6	0	0	
+0	1	4	S	0	7	5	1	SOLFA	0	7	3	1	SBA
+0	1	5	O	0	7	5	0		0	8	3	1	OBI
+0	1	6	L	0	7	5	0		0	9	3	1	LAL
+0	1	7	F	0	7	5	0		0	10	6	1	FRUSTA
+0	1	8	A	0	7	5	0		0	11	6	1	ATROIS
+1	0	0	#	0	13	0	0		1	12	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	9	O	1	1	5	1	ORANG	0	1	6	0	
+0	0	0	R	1	1	5	0		0	2	6	0	
+0	0	0	A	1	1	5	0		0	3	3	0	
+0	1	10	N	1	1	5	0		1	4	8	1	NAILGUNS
+0	1	11	G	1	1	5	0		1	5	6	1	GLEANS
+1	0	0	#	1	7	5	0		2	6	9	0	
+0	1	12	B	1	7	5	1	BBART	0	7	3	0	
+0	0	0	B	1	7	5	0		0	8	3	0	
+0	0	0	A	1	7	5	0		0	9	3	0	
+0	0	0	R	1	7	5	0		0	10	6	0	
+0	0	0	T	1	7	5	0		0	11	6	0	
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	A	2	0	13	1	ATOTALFAILURE	2	0	3	1	ASA
+0	0	0	T	2	0	13	0		0	1	6	0	
+0	0	0	O	2	0	13	0		0	2	6	0	
+0	0	0	T	2	0	13	0		0	3	3	0	
+0	0	0	A	2	0	13	0		1	4	8	0	
+0	0	0	L	2	0	13	0		1	5	6	0	
+0	1	14	F	2	0	13	0		2	6	9	1	FRESHENER
+0	0	0	A	2	0	13	0		0	7	3	0	
+0	0	0	I	2	0	13	0		0	8	3	0	
+0	0	0	L	2	0	13	0		0	9	3	0	
+0	0	0	U	2	0	13	0		0	10	6	0	
+0	0	0	R	2	0	13	0		0	11	6	0	
+0	1	15	E	2	0	13	0		2	12	3	1	EPT
+0	1	16	S	3	0	3	1	STU	2	0	3	0	
+0	0	0	T	3	0	3	0		0	1	6	0	
+0	0	0	U	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	3	0		4	3	0	0	
+0	1	17	I	3	4	3	1	IER	1	4	8	0	
+0	0	0	E	3	4	3	0		1	5	6	0	
+0	0	0	R	3	4	3	0		2	6	9	0	
+1	0	0	#	3	8	0	0		4	7	0	0	
+1	0	0	#	3	9	0	0		4	8	8	0	
+1	0	0	#	3	10	3	0		4	9	4	0	
+0	1	18	S	3	10	3	1	SOP	0	10	6	0	
+0	0	0	O	3	10	3	0		0	11	6	0	
+0	0	0	P	3	10	3	0		2	12	3	0	
+0	1	19	A	4	0	3	1	AOL	2	0	3	0	
+0	0	0	O	4	0	3	0		0	1	6	0	
+0	0	0	L	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	3	0		5	3	4	0	
+0	1	20	L	4	4	3	1	LAE	1	4	8	0	
+0	0	0	A	4	4	3	0		1	5	6	0	
+0	0	0	E	4	4	3	0		2	6	9	0	
+1	0	0	#	4	8	5	0		5	7	0	0	
+0	1	21	E	4	8	5	1	EATIT	4	8	8	1	EMINENCE
+0	1	22	A	4	8	5	0		4	9	4	1	ABEE
+0	0	0	T	4	8	5	0		0	10	6	0	
+0	0	0	I	4	8	5	0		0	11	6	0	
+0	0	0	T	4	8	5	0		2	12	3	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	23	N	5	1	6	1	NSIGNS	0	1	6	0	
+0	0	0	S	5	1	6	0		0	2	6	0	
+0	1	24	I	5	1	6	0		5	3	4	1	IROV
+0	0	0	G	5	1	6	0		1	4	8	0	
+0	0	0	N	5	1	6	0		1	5	6	0	
+0	0	0	S	5	1	6	0		2	6	9	0	
+1	0	0	#	5	8	4	0		6	7	6	0	
+0	1	25	M	5	8	4	1	MBAS	4	8	8	0	
+0	0	0	B	5	8	4	0		4	9	4	0	
+0	0	0	A	5	8	4	0		0	10	6	0	
+0	0	0	S	5	8	4	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	6	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	26	R	6	3	7	1	RUSHDIE	5	3	4	0	
+0	0	0	U	6	3	7	0		1	4	8	0	
+0	0	0	S	6	3	7	0		1	5	6	0	
+0	0	0	H	6	3	7	0		2	6	9	0	
+0	1	27	D	6	3	7	0		6	7	6	1	DRYINK
+0	0	0	I	6	3	7	0		4	8	8	0	
+0	0	0	E	6	3	7	0		4	9	4	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	28	I	7	1	4	1	ISON	7	1	6	1	IDIOMS
+0	1	29	S	7	1	4	0		7	2	6	1	STRUMS
+0	0	0	O	7	1	4	0		5	3	4	0	
+0	0	0	N	7	1	4	0		1	4	8	0	
+1	0	0	#	7	6	6	0		8	5	0	0	
+0	1	30	E	7	6	6	1	ERNEST	2	6	9	0	
+0	0	0	R	7	6	6	0		6	7	6	0	
+0	0	0	N	7	6	6	0		4	8	8	0	
+0	0	0	E	7	6	6	0		4	9	4	0	
+0	1	31	S	7	6	6	0		7	10	6	1	SECOND
+0	1	32	T	7	6	6	0		7	11	6	1	TRESSE
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	33	H	8	0	5	1	HDTVS	8	0	3	1	HMS
+0	0	0	D	8	0	5	0		7	1	6	0	
+0	0	0	T	8	0	5	0		7	2	6	0	
+0	0	0	V	8	0	5	0		5	3	4	0	
+0	0	0	S	8	0	5	0		1	4	8	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	34	N	8	6	3	1	NYE	2	6	9	0	
+0	0	0	Y	8	6	3	0		6	7	6	0	
+0	0	0	E	8	6	3	0		4	8	8	0	
+1	0	0	#	8	10	3	0		9	9	0	0	
+0	1	35	E	8	10	3	1	ERS	7	10	6	0	
+0	0	0	R	8	10	3	0		7	11	6	0	
+0	1	36	S	8	10	3	0		8	12	3	1	SES
+0	1	37	M	9	0	3	1	MIR	8	0	3	0	
+0	0	0	I	9	0	3	0		7	1	6	0	
+0	0	0	R	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	38	E	9	6	3	1	EIN	2	6	9	0	
+0	0	0	I	9	6	3	0		6	7	6	0	
+0	0	0	N	9	6	3	0		4	8	8	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	C	9	10	3	1	CEE	7	10	6	0	
+0	0	0	E	9	10	3	0		7	11	6	0	
+0	0	0	E	9	10	3	0		8	12	3	0	
+0	1	40	S	10	0	13	1	SOUTHERNCROSS	8	0	3	0	
+0	0	0	O	10	0	13	0		7	1	6	0	
+0	0	0	U	10	0	13	0		7	2	6	0	
+0	1	41	T	10	0	13	0		10	3	3	1	TIS
+0	1	42	H	10	0	13	0		10	4	3	1	HIS
+0	1	43	E	10	0	13	0		10	5	3	1	EIS
+0	0	0	R	10	0	13	0		2	6	9	0	
+0	0	0	N	10	0	13	0		6	7	6	0	
+0	0	0	C	10	0	13	0		4	8	8	0	
+0	1	44	R	10	0	13	0		10	9	3	1	REC
+0	0	0	O	10	0	13	0		7	10	6	0	
+0	0	0	S	10	0	13	0		7	11	6	0	
+0	0	0	S	10	0	13	0		8	12	3	0	
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	45	M	11	1	5	1	MMIII	7	1	6	0	
+0	0	0	M	11	1	5	0		7	2	6	0	
+0	0	0	I	11	1	5	0		10	3	3	0	
+0	0	0	I	11	1	5	0		10	4	3	0	
+0	0	0	I	11	1	5	0		10	5	3	0	
+1	0	0	#	11	7	5	0		12	6	0	0	
+0	1	46	K	11	7	5	1	KEENS	6	7	6	0	
+0	0	0	E	11	7	5	0		4	8	8	0	
+0	0	0	E	11	7	5	0		10	9	3	0	
+0	0	0	N	11	7	5	0		7	10	6	0	
+0	0	0	S	11	7	5	0		7	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+1	0	0	#	12	1	5	0		13	0	0	0	
+0	1	47	S	12	1	5	1	SSSSS	7	1	6	0	
+0	0	0	S	12	1	5	0		7	2	6	0	
+0	0	0	S	12	1	5	0		10	3	3	0	
+0	0	0	S	12	1	5	0		10	4	3	0	
+0	0	0	S	12	1	5	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	48	C	12	9	3	1	CDE	10	9	3	0	
+0	0	0	D	12	9	3	0		7	10	6	0	
+0	0	0	E	12	9	3	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	CAT	Manx or Siamese
+4	SOLFA	Musical syllable singing system
+9	ORANG	Zoo critter
+12	BBART	Famously polite Old West stagecoach robber
+13	ATOTALFAILURE	What the part-time abacus user didn't feel like?
+16	STU	Actor Erwin
+17	IER	Suffix with hotel
+18	SOP	Bread at a meal
+19	AOL	Popular ISP
+20	LAE	New Guinea port in W.W. II fighting
+21	EATIT	1984 Weird Al Yankovic hit
+23	NSIGNS	You'll need six of them to finish this puzzle
+25	MBAS	Degrees for corp. execs
+26	RUSHDIE	"Satanic Verses" author
+28	ISON	"The pressure ___"
+30	ERNEST	Tubb, "The Texas Troubadour"
+33	HDTVS	Modern viewing options, for short
+34	NYE	"The Eyes of ___" (public TV science show)
+35	ERS	Critical hosp. areas
+37	MIR	Space station name
+38	EIN	Oberhausen one
+39	CEE	Chess opening?
+40	SOUTHERNCROSS	"Constellation seen on the flags of Australia, Samoa and Papua New Guinea"
+45	MMIII	Year Super Bowl XXXVII was played
+46	KEENS	Laments
+47	SSSSS	Exceptional rating
+48	CDE	B train?
+27
+1	COTTON	Like, with "to"
+2	AROULS	Wakeup calls
+3	TAT	Many a gang symbol, for short
+4	SBA	Guarantor of many bank loans to cos.
+5	OBI	Geisha's sash
+6	LAL	Kobe Bryant's team, on scoreboards
+7	FRUSTA	Truncated cones, in math
+8	ATROIS	For three: Fr.
+10	NAILGUNS	Shooters on the boards?
+11	GLEANS	Learns little by little
+13	ASA	Hard-rock connection
+14	FRESHENER	Renuzit product
+15	EPT	Capable, jocularly
+21	EMINENCE	Prestige
+22	ABEE	"Sting like ___"
+24	IROV	Spontaneous skits
+27	DRYINK	Photocopier toner, e.g.
+28	IDIOMS	Some dictionary entries
+29	STRUMS	Moves fingers across strings
+31	SECOND	It goes by quickly
+32	TRESSE	Braid, to Brigitte
+33	HMS	Pinafore letters
+36	SES	French possessive
+41	TIS	Frank McCourt memoir
+42	HIS	Counterpart of hers
+43	EIS	Frozen Wasser
+44	REC	VCR button

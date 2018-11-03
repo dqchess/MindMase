@@ -1,0 +1,237 @@
+grid_13x13_175
+13
+0	1	1	B	0	0	3	1	BIT	0	0	3	1	BUS
+0	1	2	I	0	0	3	0		0	1	8	1	ILOVEYOU
+0	1	3	T	0	0	3	0		0	2	13	1	TUPPERWARARTY
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	V	0	4	3	1	VAC	0	4	3	1	VII
+0	1	5	A	0	4	3	0		0	5	4	1	ALEA
+0	1	6	C	0	4	3	0		0	6	4	1	CESS
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	S	0	9	3	1	SWM	0	9	3	1	SRO
+0	1	8	W	0	9	3	0		0	10	13	1	WAITERBUFFALO
+0	1	9	M	0	9	3	0		0	11	4	1	MMCI
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	U	1	0	3	1	ULU	0	0	3	0	
+0	0	0	L	1	0	3	0		0	1	8	0	
+0	0	0	U	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	11	I	1	4	4	1	ILEA	0	4	3	0	
+0	0	0	L	1	4	4	0		0	5	4	0	
+0	0	0	E	1	4	4	0		0	6	4	0	
+0	1	12	A	1	4	4	0		1	7	3	1	ACT
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	13	R	1	9	4	1	RAMP	0	9	3	0	
+0	0	0	A	1	9	4	0		0	10	13	0	
+0	0	0	M	1	9	4	0		0	11	4	0	
+0	1	14	P	1	9	4	0		1	12	3	1	PEN
+0	1	15	S	2	0	13	1	SOPHIESCHOICE	0	0	3	0	
+0	0	0	O	2	0	13	0		0	1	8	0	
+0	0	0	P	2	0	13	0		0	2	13	0	
+0	1	16	H	2	0	13	0		2	3	3	1	HST
+0	0	0	I	2	0	13	0		0	4	3	0	
+0	0	0	E	2	0	13	0		0	5	4	0	
+0	0	0	S	2	0	13	0		0	6	4	0	
+0	0	0	C	2	0	13	0		1	7	3	0	
+0	1	17	H	2	0	13	0		2	8	3	1	HRH
+0	0	0	O	2	0	13	0		0	9	3	0	
+0	0	0	I	2	0	13	0		0	10	13	0	
+0	0	0	C	2	0	13	0		0	11	4	0	
+0	0	0	E	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	18	V	3	1	3	1	VPS	0	1	8	0	
+0	0	0	P	3	1	3	0		0	2	13	0	
+0	0	0	S	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	4	0		4	4	3	0	
+0	1	19	A	3	5	4	1	ASTR	0	5	4	0	
+0	0	0	S	3	5	4	0		0	6	4	0	
+0	0	0	T	3	5	4	0		1	7	3	0	
+0	0	0	R	3	5	4	0		2	8	3	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	20	T	3	10	3	1	TIN	0	10	13	0	
+0	0	0	I	3	10	3	0		0	11	4	0	
+0	0	0	N	3	10	3	0		1	12	3	0	
+0	1	21	S	4	0	5	1	SEETH	4	0	3	1	SCH
+0	0	0	E	4	0	5	0		0	1	8	0	
+0	0	0	E	4	0	5	0		0	2	13	0	
+0	0	0	T	4	0	5	0		2	3	3	0	
+0	1	22	H	4	0	5	0		4	4	3	1	HEA
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	3	0	
+0	1	23	H	4	8	3	1	HEE	2	8	3	0	
+0	1	24	E	4	8	3	0		4	9	3	1	EUR
+0	0	0	E	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	8	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	C	5	0	3	1	CYR	4	0	3	0	
+0	0	0	Y	5	0	3	0		0	1	8	0	
+0	0	0	R	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	26	E	5	4	4	1	EICS	4	4	3	0	
+0	1	27	I	5	4	4	0		5	5	3	1	IND
+0	1	28	C	5	4	4	0		5	6	3	1	CIC
+0	1	29	S	5	4	4	0		5	7	3	1	SSI
+1	0	0	#	5	9	3	0		6	8	3	0	
+0	1	30	U	5	9	3	1	URL	4	9	3	0	
+0	0	0	R	5	9	3	0		0	10	13	0	
+0	1	31	L	5	9	3	0		5	11	8	1	LIVEALIE
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	32	H	6	0	13	1	HOWCANISERBIA	4	0	3	0	
+0	0	0	O	6	0	13	0		0	1	8	0	
+0	0	0	W	6	0	13	0		0	2	13	0	
+0	1	33	C	6	0	13	0		6	3	3	1	CRA
+0	0	0	A	6	0	13	0		4	4	3	0	
+0	0	0	N	6	0	13	0		5	5	3	0	
+0	0	0	I	6	0	13	0		5	6	3	0	
+0	0	0	S	6	0	13	0		5	7	3	0	
+0	1	34	E	6	0	13	0		6	8	3	1	EVS
+0	0	0	R	6	0	13	0		4	9	3	0	
+0	0	0	B	6	0	13	0		0	10	13	0	
+0	0	0	I	6	0	13	0		5	11	8	0	
+0	1	35	A	6	0	13	0		6	12	3	1	AAR
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	36	U	7	1	3	1	UAR	0	1	8	0	
+0	0	0	A	7	1	3	0		0	2	13	0	
+0	0	0	R	7	1	3	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	3	0	
+0	1	37	D	7	5	4	1	DCIV	5	5	3	0	
+0	0	0	C	7	5	4	0		5	6	3	0	
+0	0	0	I	7	5	4	0		5	7	3	0	
+0	0	0	V	7	5	4	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	38	U	7	10	3	1	UVA	0	10	13	0	
+0	0	0	V	7	10	3	0		5	11	8	0	
+0	0	0	A	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	39	R	8	2	3	1	RAY	0	2	13	0	
+0	0	0	A	8	2	3	0		6	3	3	0	
+0	1	40	Y	8	2	3	0		8	4	3	1	YEO
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	5	0		9	7	4	0	
+0	1	41	S	8	8	5	1	SAFER	6	8	3	0	
+0	1	42	A	8	8	5	0		8	9	3	1	AMF
+0	0	0	F	8	8	5	0		0	10	13	0	
+0	0	0	E	8	8	5	0		5	11	8	0	
+0	0	0	R	8	8	5	0		6	12	3	0	
+0	1	43	A	9	0	3	1	ASA	9	0	3	1	ANY
+0	1	44	S	9	0	3	0		9	1	4	1	SEEP
+0	0	0	A	9	0	3	0		0	2	13	0	
+1	0	0	#	9	4	4	0		10	3	3	0	
+0	1	45	E	9	4	4	1	ERDA	8	4	3	0	
+0	1	46	R	9	4	4	0		9	5	3	1	RFD
+0	1	47	D	9	4	4	0		9	6	4	1	DBOY
+0	1	48	A	9	4	4	0		9	7	4	1	AURA
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	49	M	9	9	3	1	MFA	8	9	3	0	
+0	0	0	F	9	9	3	0		0	10	13	0	
+0	0	0	A	9	9	3	0		5	11	8	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	50	N	10	0	13	1	NERDOFBUFFALO	9	0	3	0	
+0	0	0	E	10	0	13	0		9	1	4	0	
+0	0	0	R	10	0	13	0		0	2	13	0	
+0	1	51	D	10	0	13	0		10	3	3	1	DIM
+0	0	0	O	10	0	13	0		8	4	3	0	
+0	0	0	F	10	0	13	0		9	5	3	0	
+0	0	0	B	10	0	13	0		9	6	4	0	
+0	0	0	U	10	0	13	0		9	7	4	0	
+0	1	52	F	10	0	13	0		10	8	3	1	FMS
+0	0	0	F	10	0	13	0		8	9	3	0	
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	0	0	L	10	0	13	0		5	11	8	0	
+0	1	53	O	10	0	13	0		10	12	3	1	OSO
+0	1	54	Y	11	0	4	1	YETI	9	0	3	0	
+0	0	0	E	11	0	4	0		9	1	4	0	
+0	0	0	T	11	0	4	0		0	2	13	0	
+0	0	0	I	11	0	4	0		10	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	55	D	11	5	4	1	DORM	9	5	3	0	
+0	0	0	O	11	5	4	0		9	6	4	0	
+0	0	0	R	11	5	4	0		9	7	4	0	
+0	0	0	M	11	5	4	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	56	L	11	10	3	1	LIS	0	10	13	0	
+0	0	0	I	11	10	3	0		5	11	8	0	
+0	0	0	S	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	57	P	12	1	3	1	PYM	9	1	4	0	
+0	0	0	Y	12	1	3	0		0	2	13	0	
+0	0	0	M	12	1	3	0		10	3	3	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	58	Y	12	6	3	1	YAS	9	6	4	0	
+0	0	0	A	12	6	3	0		9	7	4	0	
+0	0	0	S	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	59	O	12	10	3	1	OEO	0	10	13	0	
+0	0	0	E	12	10	3	0		5	11	8	0	
+0	0	0	O	12	10	3	0		10	12	3	0	
+31
+1	BIT	Part of a byte
+4	VAC	Sucker, quickly
+7	SWM	Certain guy, in personals shorthand
+10	ULU	Eskimo knife
+11	ILEA	Sections of digestive tracts
+13	RAMP	Interstate exit
+15	SOPHIESCHOICE	1982 Meryl Streep film
+18	VPS	They may report to C.E.O.'s
+19	ASTR	Science class: Abbr.
+20	TIN	Cookie store
+21	SEETH	Has in view, archaically
+23	HEE	"___ Haw"
+25	CYR	Burlesque star Lili St. ___
+26	EICS	Hollywood's Roberts and others
+30	URL	Location to bookmark: Abbr.
+32	HOWCANISERBIA	"""What'll you have?"" abroad?"
+36	UAR	Short-lived Egypt-Syria union: Abbr.
+37	DCIV	Year St. Augustine of Canterbury died
+38	UVA	The Cavaliers of the N.C.A.A.
+39	RAY	2008 World Series athlete
+41	SAFER	Less exposed
+43	ASA	Big-house connector
+45	ERDA	"Das Rheingold" goddess
+49	MFA	Musician's deg.
+50	NERDOFBUFFALO	Most bookish student in western New York?
+54	YETI	Hairy humanoid
+55	DORM	One side of a quad, maybe
+56	LIS	Easter flower, in Is-sur-Tille
+57	PYM	Poe
+58	YAS	Chairman Arafat
+59	OEO	Job equality bureau: Abbr.
+33
+1	BUS	Something to take a pass on
+2	ILOVEYOU	Start of Barney's theme song
+3	TUPPERWARARTY	Event where there might be burping
+4	VII	I's opposite on a clock
+5	ALEA	Epithet of Athena
+6	CESS	British tax
+7	SRO	Theater alert
+8	WAITERBUFFALO	Mammal that takes orders?
+9	MMCI	Start of the 22nd century
+12	ACT	The whole song and dance?
+14	PEN	Confident solver's tool
+16	HST	Presidential monogram
+17	HRH	Letters for a duke
+21	SCH	Brown, e.g.: Abbr.
+22	HEA	"
+24	EUR	Prefix with -asian
+27	IND	Like some candidates: Abbr.
+28	CIC	The Pres., militarily speaking
+29	SSI	Fed. stipend
+31	LIVEALIE	Be what you're not
+33	CRA	Bow
+34	EVS	Tiny energy units, for short
+35	AAR	River past Solothurn
+40	YEO	U.S.N. clerk: Abbr.
+42	AMF	Bowling alley inits.
+43	ANY	"___ Wednesday" (Jane Fonda film)
+44	SEEP	Filter
+46	RFD	Remote mail service: Abbr.
+47	DBOY	Command to an overfriendly canine
+48	AURA	A person may have one of invincibility
+51	DIM	Bubbleheaded
+52	FMS	Most NPR stations
+53	OSO	___ pardo (grizzly, in Granada)

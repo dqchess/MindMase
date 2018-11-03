@@ -1,0 +1,227 @@
+grid_13x13_42
+13
+0	1	1	C	0	0	3	1	CPA	0	0	3	1	CWT
+0	1	2	P	0	0	3	0		0	1	4	1	PEPA
+0	1	3	A	0	0	3	0		0	2	12	1	ANEMICCINEMA
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	S	0	6	3	1	SAW	0	6	3	1	SIS
+0	1	5	A	0	6	3	0		0	7	4	1	ABOO
+0	1	6	W	0	6	3	0		0	8	6	1	WETONE
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	7	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	W	1	0	4	1	WENT	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	4	0	
+0	0	0	N	1	0	4	0		0	2	12	0	
+0	1	8	T	1	0	4	0		1	3	5	1	TRENT
+1	0	0	#	1	5	7	0		2	4	0	0	
+0	1	9	L	1	5	7	1	LIBERAL	1	5	3	1	LID
+0	0	0	I	1	5	7	0		0	6	3	0	
+0	0	0	B	1	5	7	0		0	7	4	0	
+0	0	0	E	1	5	7	0		0	8	6	0	
+0	1	10	R	1	5	7	0		1	9	4	1	ROMA
+0	1	11	A	1	5	7	0		1	10	12	1	APPLAUDNOEND
+0	1	12	L	1	5	7	0		1	11	7	1	LEADSTO
+1	0	0	#	1	13	0	0		2	12	5	0	
+0	1	13	T	2	0	4	1	TPER	0	0	3	0	
+0	0	0	P	2	0	4	0		0	1	4	0	
+0	0	0	E	2	0	4	0		0	2	12	0	
+0	0	0	R	2	0	4	0		1	3	5	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	14	I	2	5	8	1	ISOTOPES	1	5	3	0	
+0	0	0	S	2	5	8	0		0	6	3	0	
+0	0	0	O	2	5	8	0		0	7	4	0	
+0	0	0	T	2	5	8	0		0	8	6	0	
+0	0	0	O	2	5	8	0		1	9	4	0	
+0	0	0	P	2	5	8	0		1	10	12	0	
+0	0	0	E	2	5	8	0		1	11	7	0	
+0	1	15	S	2	5	8	0		2	12	5	1	SHILO
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	16	A	3	1	5	1	AMEND	0	1	4	0	
+0	0	0	M	3	1	5	0		0	2	12	0	
+0	0	0	E	3	1	5	0		1	3	5	0	
+0	1	17	N	3	1	5	0		3	4	3	1	NBS
+0	0	0	D	3	1	5	0		1	5	3	0	
+1	0	0	#	3	7	6	0		4	6	0	0	
+0	1	18	O	3	7	6	1	OOMPAH	0	7	4	0	
+0	0	0	O	3	7	6	0		0	8	6	0	
+0	0	0	M	3	7	6	0		1	9	4	0	
+0	0	0	P	3	7	6	0		1	10	12	0	
+0	0	0	A	3	7	6	0		1	11	7	0	
+0	0	0	H	3	7	6	0		2	12	5	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	3	0		5	1	7	0	
+0	1	19	I	4	2	3	1	INB	0	2	12	0	
+0	0	0	N	4	2	3	0		1	3	5	0	
+0	0	0	B	4	2	3	0		3	4	3	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	5	0		5	7	3	0	
+0	1	20	N	4	8	5	1	NALDI	0	8	6	0	
+0	0	0	A	4	8	5	0		1	9	4	0	
+0	0	0	L	4	8	5	0		1	10	12	0	
+0	0	0	D	4	8	5	0		1	11	7	0	
+0	0	0	I	4	8	5	0		2	12	5	0	
+1	0	0	#	5	1	8	0		6	0	5	0	
+0	1	21	A	5	1	8	1	ACTSSORE	5	1	7	1	AREAMAP
+0	0	0	C	5	1	8	0		0	2	12	0	
+0	0	0	T	5	1	8	0		1	3	5	0	
+0	0	0	S	5	1	8	0		3	4	3	0	
+0	1	22	S	5	1	8	0		5	5	3	1	SPI
+0	1	23	O	5	1	8	0		5	6	3	1	OON
+0	1	24	R	5	1	8	0		5	7	3	1	RGT
+0	0	0	E	5	1	8	0		0	8	6	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	25	A	5	10	3	1	ASL	1	10	12	0	
+0	0	0	S	5	10	3	0		1	11	7	0	
+0	0	0	L	5	10	3	0		2	12	5	0	
+0	1	26	N	6	0	3	1	NRC	6	0	5	1	NSTAR
+0	0	0	R	6	0	3	0		5	1	7	0	
+0	0	0	C	6	0	3	0		0	2	12	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	27	P	6	5	3	1	POG	5	5	3	0	
+0	0	0	O	6	5	3	0		5	6	3	0	
+0	0	0	G	6	5	3	0		5	7	3	0	
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	28	U	6	10	3	1	UTO	1	10	12	0	
+0	0	0	T	6	10	3	0		1	11	7	0	
+0	0	0	O	6	10	3	0		2	12	5	0	
+0	1	29	S	7	0	3	1	SEI	6	0	5	0	
+0	0	0	E	7	0	3	0		5	1	7	0	
+0	0	0	I	7	0	3	0		0	2	12	0	
+1	0	0	#	7	4	8	0		8	3	4	0	
+0	1	30	N	7	4	8	1	NINTENDO	7	4	6	1	NOREST
+0	0	0	I	7	4	8	0		5	5	3	0	
+0	0	0	N	7	4	8	0		5	6	3	0	
+0	0	0	T	7	4	8	0		5	7	3	0	
+0	1	31	E	7	4	8	0		7	8	3	1	EEE
+0	1	32	N	7	4	8	0		7	9	5	1	NOLOS
+0	0	0	D	7	4	8	0		1	10	12	0	
+0	0	0	O	7	4	8	0		1	11	7	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	T	8	0	5	1	TANTO	6	0	5	0	
+0	0	0	A	8	0	5	0		5	1	7	0	
+0	0	0	N	8	0	5	0		0	2	12	0	
+0	1	34	T	8	0	5	0		8	3	4	1	TESS
+0	0	0	O	8	0	5	0		7	4	6	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	0	0		9	6	0	0	
+1	0	0	#	8	8	3	0		9	7	3	0	
+0	1	35	E	8	8	3	1	EON	7	8	3	0	
+0	0	0	O	8	8	3	0		7	9	5	0	
+0	0	0	N	8	8	3	0		1	10	12	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	36	A	9	0	6	1	AMEERS	6	0	5	0	
+0	0	0	M	9	0	6	0		5	1	7	0	
+0	0	0	E	9	0	6	0		0	2	12	0	
+0	0	0	E	9	0	6	0		8	3	4	0	
+0	0	0	R	9	0	6	0		7	4	6	0	
+0	1	37	S	9	0	6	0		9	5	4	1	SSIN
+1	0	0	#	9	7	5	0		10	6	3	0	
+0	1	38	M	9	7	5	1	MELON	9	7	3	1	MIN
+0	0	0	E	9	7	5	0		7	8	3	0	
+0	0	0	L	9	7	5	0		7	9	5	0	
+0	0	0	O	9	7	5	0		1	10	12	0	
+0	1	39	N	9	7	5	0		9	11	4	1	NION
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	40	R	10	0	8	1	RAMSESII	6	0	5	0	
+0	0	0	A	10	0	8	0		5	1	7	0	
+0	0	0	M	10	0	8	0		0	2	12	0	
+0	0	0	S	10	0	8	0		8	3	4	0	
+0	0	0	E	10	0	8	0		7	4	6	0	
+0	0	0	S	10	0	8	0		9	5	4	0	
+0	1	41	I	10	0	8	0		10	6	3	1	ION
+0	0	0	I	10	0	8	0		9	7	3	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	42	O	10	9	4	1	OEIL	7	9	5	0	
+0	0	0	E	10	9	4	0		1	10	12	0	
+0	0	0	I	10	9	4	0		9	11	4	0	
+0	1	43	L	10	9	4	0		10	12	3	1	LGA
+1	0	0	#	11	1	7	0		12	0	0	0	
+0	1	44	P	11	1	7	1	PASSION	5	1	7	0	
+0	0	0	A	11	1	7	0		0	2	12	0	
+0	0	0	S	11	1	7	0		8	3	4	0	
+0	0	0	S	11	1	7	0		7	4	6	0	
+0	0	0	I	11	1	7	0		9	5	4	0	
+0	0	0	O	11	1	7	0		10	6	3	0	
+0	0	0	N	11	1	7	0		9	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	45	S	11	9	4	1	SNOG	7	9	5	0	
+0	0	0	N	11	9	4	0		1	10	12	0	
+0	0	0	O	11	9	4	0		9	11	4	0	
+0	0	0	G	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	0	0		13	2	0	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	46	T	12	4	3	1	TNN	7	4	6	0	
+0	0	0	N	12	4	3	0		9	5	4	0	
+0	0	0	N	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	47	D	12	10	3	1	DNA	1	10	12	0	
+0	0	0	N	12	10	3	0		9	11	4	0	
+0	0	0	A	12	10	3	0		10	12	3	0	
+27
+1	CPA	Many a business school grad
+4	SAW	Grain splitter
+7	WENT	Got out
+9	LIBERAL	Loose
+13	TPER	Formal hat, informally
+14	ISOTOPES	Chemist's relatives?
+16	AMEND	Set right
+18	OOMPAH	Kind of band
+19	INB	Like Shostakovich's Symphony No. 2
+20	NALDI	Nita of silents
+21	ACTSSORE	Shows peevishness
+25	ASL	Digital communication?: Abbr.
+26	NRC	Atomic energy oversight agcy.
+27	POG	Collectible cap
+28	UTO	___-Aztecan
+29	SEI	Number of legs on un insetto
+30	NINTENDO	Video game maker that owns the Seattle Mariners
+33	TANTO	So much, to Solti
+35	EON	One billion years
+36	AMEERS	Mideast leaders: Var.
+38	MELON	Cantaloupe, e.g.
+40	RAMSESII	Son and successor of Seti I
+42	OEIL	Monique's eye
+44	PASSION	Word with fruit or play
+45	SNOG	Hug and kiss, to a Brit
+46	TNN	Basic cable channel
+47	DNA	Form of evidence, these days
+27
+1	CWT	43.359 kg.
+2	PEPA	Salt's partner
+3	ANEMICCINEMA	Grade-C movies?
+4	SIS	Bro
+5	ABOO	"Peek-___"
+6	WETONE	Sloppy kiss
+8	TRENT	Nottingham's river
+9	LID	Cap
+10	ROMA	Home of Citt
+11	APPLAUDNOEND	Withhold praise for certain football linemen?
+12	LEADSTO	Results in
+15	SHILO	1970 Neil Diamond hit
+17	NBS	Measurements overseer: Abbr.
+21	AREAMAP	Tourist's aid
+22	SPI	Slant
+23	OON	Suffix with ball
+24	RGT	Mil. unit
+26	NSTAR	Cool, very red celestial body
+30	NOREST	What the weary get, it's said
+31	EEE	Shoe store stamp
+32	NOLOS	Some court pleas, for short
+34	TESS	Kinski title role
+37	SSIN	Takes root
+38	MIN	Watch unit: Abbr.
+39	NION	Whim
+41	ION	Hydrolysis atom
+43	LGA	J.F.K. alternative

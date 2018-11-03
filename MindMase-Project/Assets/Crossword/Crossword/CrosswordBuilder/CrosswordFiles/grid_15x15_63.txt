@@ -1,0 +1,305 @@
+grid_15x15_63
+15
+0	1	1	Q	0	0	4	1	QUIT	0	0	3	1	QTY
+0	1	2	U	0	0	4	0		0	1	3	1	UIE
+0	1	3	I	0	0	4	0		0	2	15	1	ISLANDERSLANDER
+0	1	4	T	0	0	4	0		0	3	4	1	TALL
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	5	0	
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	I	0	8	3	1	ISI	0	8	3	1	IMB
+0	1	6	S	0	8	3	0		0	9	3	1	SIM
+0	1	7	I	0	8	3	0		0	10	5	1	IVANA
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	8	A	0	12	3	1	AEF	0	12	15	1	ALISTAIRMACLEAN
+0	1	9	E	0	12	3	0		0	13	3	1	EBN
+0	1	10	F	0	12	3	0		0	14	3	1	FOE
+0	1	11	T	1	0	7	1	TISANES	0	0	3	0	
+0	0	0	I	1	0	7	0		0	1	3	0	
+0	0	0	S	1	0	7	0		0	2	15	0	
+0	0	0	A	1	0	7	0		0	3	4	0	
+0	1	12	N	1	0	7	0		1	4	3	1	NOL
+0	1	13	E	1	0	7	0		1	5	5	1	EWOKS
+0	1	14	S	1	0	7	0		1	6	5	1	SSTAR
+1	0	0	#	1	8	3	0		2	7	11	0	
+0	1	15	M	1	8	3	1	MIV	0	8	3	0	
+0	0	0	I	1	8	3	0		0	9	3	0	
+0	0	0	V	1	8	3	0		0	10	5	0	
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	16	L	1	12	3	1	LBO	0	12	15	0	
+0	0	0	B	1	12	3	0		0	13	3	0	
+0	0	0	O	1	12	3	0		0	14	3	0	
+0	1	17	Y	2	0	15	1	YELLOWSUBMARINE	0	0	3	0	
+0	0	0	E	2	0	15	0		0	1	3	0	
+0	0	0	L	2	0	15	0		0	2	15	0	
+0	0	0	L	2	0	15	0		0	3	4	0	
+0	0	0	O	2	0	15	0		1	4	3	0	
+0	0	0	W	2	0	15	0		1	5	5	0	
+0	0	0	S	2	0	15	0		1	6	5	0	
+0	1	18	U	2	0	15	0		2	7	11	1	USNAVYSEALS
+0	0	0	B	2	0	15	0		0	8	3	0	
+0	0	0	M	2	0	15	0		0	9	3	0	
+0	0	0	A	2	0	15	0		0	10	5	0	
+0	1	19	R	2	0	15	0		2	11	3	1	REC
+0	0	0	I	2	0	15	0		0	12	15	0	
+0	0	0	N	2	0	15	0		0	13	3	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+1	0	0	#	3	1	0	0		4	0	6	0	
+1	0	0	#	3	2	6	0		4	1	7	0	
+0	1	20	A	3	2	6	1	ALLOTS	0	2	15	0	
+0	0	0	L	3	2	6	0		0	3	4	0	
+0	0	0	L	3	2	6	0		1	4	3	0	
+0	0	0	O	3	2	6	0		1	5	5	0	
+0	0	0	T	3	2	6	0		1	6	5	0	
+0	0	0	S	3	2	6	0		2	7	11	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	21	N	3	10	3	1	NES	0	10	5	0	
+0	0	0	E	3	10	3	0		2	11	3	0	
+0	0	0	S	3	10	3	0		0	12	15	0	
+1	0	0	#	3	14	0	0		4	13	7	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	22	T	4	0	3	1	TAN	4	0	6	1	TESTEE
+0	1	23	A	4	0	3	0		4	1	7	1	ANNEALS
+0	0	0	N	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	3	0		5	4	4	0	
+0	1	24	K	4	5	3	1	KAN	1	5	5	0	
+0	0	0	A	4	5	3	0		1	6	5	0	
+0	0	0	N	4	5	3	0		2	7	11	0	
+1	0	0	#	4	9	5	0		5	8	3	0	
+0	1	25	X	4	9	5	1	XACTO	4	9	3	1	XLG
+0	0	0	A	4	9	5	0		0	10	5	0	
+0	0	0	C	4	9	5	0		2	11	3	0	
+0	0	0	T	4	9	5	0		0	12	15	0	
+0	1	26	O	4	9	5	0		4	13	7	1	ONSTAGE
+1	0	0	#	4	15	0	0		5	14	6	0	
+0	1	27	E	5	0	3	1	END	4	0	6	0	
+0	0	0	N	5	0	3	0		4	1	7	0	
+0	0	0	D	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	6	0		6	3	3	0	
+0	1	28	I	5	4	6	1	ISRAEL	5	4	4	1	IRAN
+0	0	0	S	5	4	6	0		1	5	5	0	
+0	0	0	R	5	4	6	0		1	6	5	0	
+0	0	0	A	5	4	6	0		2	7	11	0	
+0	1	29	E	5	4	6	0		5	8	3	1	EEE
+0	0	0	L	5	4	6	0		4	9	3	0	
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	30	A	5	12	3	1	AND	0	12	15	0	
+0	0	0	N	5	12	3	0		4	13	7	0	
+0	1	31	D	5	12	3	0		5	14	6	1	DMINOR
+0	1	32	S	6	0	5	1	SNEER	4	0	6	0	
+0	0	0	N	6	0	5	0		4	1	7	0	
+0	0	0	E	6	0	5	0		0	2	15	0	
+0	1	33	E	6	0	5	0		6	3	3	1	ERI
+0	0	0	R	6	0	5	0		5	4	4	0	
+1	0	0	#	6	6	0	0		7	5	0	0	
+1	0	0	#	6	7	8	0		7	6	3	0	
+0	1	34	V	6	7	8	1	VEGANISM	2	7	11	0	
+0	0	0	E	6	7	8	0		5	8	3	0	
+0	0	0	G	6	7	8	0		4	9	3	0	
+0	1	35	A	6	7	8	0		6	10	4	1	AMOY
+0	1	36	N	6	7	8	0		6	11	3	1	NAS
+0	0	0	I	6	7	8	0		0	12	15	0	
+0	0	0	S	6	7	8	0		4	13	7	0	
+0	0	0	M	6	7	8	0		5	14	6	0	
+0	1	37	T	7	0	5	1	TERRA	4	0	6	0	
+0	0	0	E	7	0	5	0		4	1	7	0	
+0	0	0	R	7	0	5	0		0	2	15	0	
+0	0	0	R	7	0	5	0		6	3	3	0	
+0	0	0	A	7	0	5	0		5	4	4	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	38	T	7	6	3	1	TYE	7	6	3	1	TSK
+0	0	0	Y	7	6	3	0		2	7	11	0	
+0	0	0	E	7	6	3	0		5	8	3	0	
+1	0	0	#	7	10	5	0		8	9	0	0	
+0	1	39	M	7	10	5	1	MARTI	6	10	4	0	
+0	0	0	A	7	10	5	0		6	11	3	0	
+0	0	0	R	7	10	5	0		0	12	15	0	
+0	0	0	T	7	10	5	0		4	13	7	0	
+0	0	0	I	7	10	5	0		5	14	6	0	
+0	1	40	E	8	0	8	1	EASINESS	4	0	6	0	
+0	0	0	A	8	0	8	0		4	1	7	0	
+0	0	0	S	8	0	8	0		0	2	15	0	
+0	0	0	I	8	0	8	0		6	3	3	0	
+0	0	0	N	8	0	8	0		5	4	4	0	
+0	1	41	E	8	0	8	0		8	5	3	1	ERA
+0	0	0	S	8	0	8	0		7	6	3	0	
+0	0	0	S	8	0	8	0		2	7	11	0	
+1	0	0	#	8	9	0	0		9	8	5	0	
+1	0	0	#	8	10	5	0		9	9	5	0	
+0	1	42	O	8	10	5	1	OSMAN	6	10	4	0	
+0	0	0	S	8	10	5	0		6	11	3	0	
+0	0	0	M	8	10	5	0		0	12	15	0	
+0	0	0	A	8	10	5	0		4	13	7	0	
+0	0	0	N	8	10	5	0		5	14	6	0	
+0	1	43	E	9	0	3	1	ELL	4	0	6	0	
+0	0	0	L	9	0	3	0		4	1	7	0	
+0	0	0	L	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	6	0		10	4	5	0	
+0	1	44	R	9	5	6	1	RKELLY	8	5	3	0	
+0	0	0	K	9	5	6	0		7	6	3	0	
+0	0	0	E	9	5	6	0		2	7	11	0	
+0	1	45	L	9	5	6	0		9	8	5	1	LAILA
+0	1	46	L	9	5	6	0		9	9	5	1	LENIN
+0	0	0	Y	9	5	6	0		6	10	4	0	
+1	0	0	#	9	12	3	0		10	11	0	0	
+0	1	47	A	9	12	3	1	AGO	0	12	15	0	
+0	0	0	G	9	12	3	0		4	13	7	0	
+0	0	0	O	9	12	3	0		5	14	6	0	
+1	0	0	#	10	1	5	0		11	0	0	0	
+0	1	48	S	10	1	5	1	SASHA	4	1	7	0	
+0	0	0	A	10	1	5	0		0	2	15	0	
+0	1	49	S	10	1	5	0		10	3	3	1	SIR
+0	1	50	H	10	1	5	0		10	4	5	1	HTONE
+0	0	0	A	10	1	5	0		8	5	3	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	51	A	10	7	3	1	AAE	2	7	11	0	
+0	0	0	A	10	7	3	0		9	8	5	0	
+0	0	0	E	10	7	3	0		9	9	5	0	
+1	0	0	#	10	11	0	0		11	10	3	0	
+1	0	0	#	10	12	3	0		11	11	4	0	
+0	1	52	C	10	12	3	1	CER	0	12	15	0	
+0	0	0	E	10	12	3	0		4	13	7	0	
+0	0	0	R	10	12	3	0		5	14	6	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	53	N	11	2	3	1	NIT	0	2	15	0	
+0	0	0	I	11	2	3	0		10	3	3	0	
+0	0	0	T	11	2	3	0		10	4	5	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	6	0		12	6	3	0	
+0	1	54	L	11	7	6	1	LINEAL	2	7	11	0	
+0	0	0	I	11	7	6	0		9	8	5	0	
+0	0	0	N	11	7	6	0		9	9	5	0	
+0	1	55	E	11	7	6	0		11	10	3	1	EPS
+0	1	56	A	11	7	6	0		11	11	4	1	APPT
+0	0	0	L	11	7	6	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	B	12	0	15	1	BEDROOMSLIPPERS	12	0	3	1	BOA
+0	1	58	E	12	0	15	0		12	1	3	1	EPA
+0	0	0	D	12	0	15	0		0	2	15	0	
+0	0	0	R	12	0	15	0		10	3	3	0	
+0	0	0	O	12	0	15	0		10	4	5	0	
+0	1	59	O	12	0	15	0		12	5	3	1	OAS
+0	1	60	M	12	0	15	0		12	6	3	1	MPT
+0	0	0	S	12	0	15	0		2	7	11	0	
+0	0	0	L	12	0	15	0		9	8	5	0	
+0	0	0	I	12	0	15	0		9	9	5	0	
+0	0	0	P	12	0	15	0		11	10	3	0	
+0	0	0	P	12	0	15	0		11	11	4	0	
+0	0	0	E	12	0	15	0		0	12	15	0	
+0	1	61	R	12	0	15	0		12	13	3	1	RCT
+0	1	62	S	12	0	15	0		12	14	3	1	SHS
+0	1	63	O	13	0	3	1	OPE	12	0	3	0	
+0	0	0	P	13	0	3	0		12	1	3	0	
+0	0	0	E	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	3	0		14	3	0	0	
+0	1	64	N	13	4	3	1	NAP	10	4	5	0	
+0	0	0	A	13	4	3	0		12	5	3	0	
+0	0	0	P	13	4	3	0		12	6	3	0	
+1	0	0	#	13	8	7	0		14	7	0	0	
+0	1	65	A	13	8	7	1	ANSPACH	9	8	5	0	
+0	0	0	N	13	8	7	0		9	9	5	0	
+0	0	0	S	13	8	7	0		11	10	3	0	
+0	0	0	P	13	8	7	0		11	11	4	0	
+0	0	0	A	13	8	7	0		0	12	15	0	
+0	0	0	C	13	8	7	0		12	13	3	0	
+0	0	0	H	13	8	7	0		12	14	3	0	
+0	1	66	A	14	0	3	1	AAR	12	0	3	0	
+0	0	0	A	14	0	3	0		12	1	3	0	
+0	0	0	R	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	67	E	14	4	3	1	EST	10	4	5	0	
+0	0	0	S	14	4	3	0		12	5	3	0	
+0	0	0	T	14	4	3	0		12	6	3	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	4	0		15	10	0	0	
+0	1	68	T	14	11	4	1	TNTS	11	11	4	0	
+0	0	0	N	14	11	4	0		0	12	15	0	
+0	0	0	T	14	11	4	0		12	13	3	0	
+0	0	0	S	14	11	4	0		12	14	3	0	
+37
+1	QUIT	Bail out
+5	ISI	"Woe ___" (best-selling grammar guide)
+8	AEF	Gen. Pershing's command: Abbr.
+11	TISANES	Medicinal teas
+15	MIV	11th-century date
+16	LBO	Wall St. deal
+17	YELLOWSUBMARINE	Blue Meanies musical
+20	ALLOTS	Dishes out
+21	NES	Super Mario Bros. player
+22	TAN	Brownish
+24	KAN	It's north of Okla.
+25	XACTO	Kind of knife
+27	END	Last part (appropriately)
+28	ISRAEL	Galilee's land
+30	AND	Furthermore
+32	SNEER	Grinch's expression
+34	VEGANISM	Omission of all animal products from the diet
+37	TERRA	Land in ancient Rome
+38	TYE	Ship rope or chain
+39	MARTI	Happy hour order
+40	EASINESS	Freedom from hardship
+42	OSMAN	Ottoman Turk leader
+43	ELL	Wright wing?
+44	RKELLY	Celine Dion's "I'm Your Angel" duet partner
+47	AGO	Fifth word of the Gettysburg Address
+48	SASHA	One of the Obama girls
+51	AAE	"American Justice" network
+52	CER	Serve, as a banquet
+53	NIT	Have a ___ to pick
+54	LINEAL	Hereditary
+57	BEDROOMSLIPPERS	House wear
+63	OPE	Reveal, in poetry
+64	NAP	Drop off, maybe
+65	ANSPACH	Susan who co-starred in "Five Easy Pieces"
+66	AAR	Rhine feeder
+67	EST	Exaggerator's suffix
+68	TNTS	Explosives
+39
+1	QTY	Reduced amount?
+2	UIE	Turnabout, slangily
+3	ISLANDERSLANDER	"The reporter heard the New York ___ ___ his coach"
+4	TALL	Like most N.B.A. players
+5	IMB	Popular film Web site, briefly
+6	SIM	Computer family member
+7	IVANA	The Donald's first ex
+8	ALISTAIRMACLEAN	"The Guns of Navarone" novelist
+9	EBN	Surveyor's dir.
+10	FOE	Scarecrow, to Batman
+12	NOL	___-pros
+13	EWOKS	They thought C-3PO was a god in "Return of the Jedi"
+14	SSTAR	Relatively cool red giant
+18	USNAVYSEALS	Elite military unit
+19	REC	___ hall
+22	TESTEE	Student, at times
+23	ANNEALS	Toughens
+25	XLG	Actor DeLuise
+26	ONSTAGE	Performing
+28	IRAN	Shah's land, once
+29	EEE	Shoe store spec
+31	DMINOR	Key of Bach's "The Art of Fugue"
+33	ERI	"___ tu"
+35	AMOY	Chinese port also called Xiamen
+36	NAS	1980s TV's "Emerald Point ___"
+38	TSK	Disapproving comment
+41	ERA	Time worth noting
+45	LAILA	Muhammad's pugilistic daughter
+46	LENIN	Comintern creator
+49	SIR	"Yes" follower
+50	HTONE	Epitaph holder ... or Mick Jagger?
+55	EPS	Some records, for short
+56	APPT	Date with a D.D.S., e.g.
+57	BOA	Constriction worker?
+58	EPA	Fed. air quality monitor
+59	OAS	Intl. group with 35 members
+60	MPT	File on an iPod
+61	RCT	Sales slip: Abbr.
+62	SHS	Sounds from a librarian

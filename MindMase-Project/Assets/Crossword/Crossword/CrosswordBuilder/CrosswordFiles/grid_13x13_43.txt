@@ -1,0 +1,227 @@
+grid_13x13_43
+13
+0	1	1	K	0	0	3	1	KIM	0	0	3	1	KOA
+0	1	2	I	0	0	3	0		0	1	4	1	INKY
+0	1	3	M	0	0	3	0		0	2	4	1	MOIL
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	4	0		1	5	6	0	
+0	1	4	R	0	6	4	1	REDA	0	6	4	1	RETD
+0	1	5	E	0	6	4	0		0	7	4	1	ELAH
+0	1	6	D	0	6	4	0		0	8	3	1	DIN
+0	1	7	A	0	6	4	0		0	9	7	1	ASKSOUT
+1	0	0	#	0	11	0	0		1	10	7	0	
+1	0	0	#	0	12	0	0		1	11	7	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	8	O	1	0	4	1	ONOS	0	0	3	0	
+0	0	0	N	1	0	4	0		0	1	4	0	
+0	0	0	O	1	0	4	0		0	2	4	0	
+0	1	9	S	1	0	4	0		1	3	4	1	SNYE
+1	0	0	#	1	5	7	0		2	4	0	0	
+0	1	10	M	1	5	7	1	MELISMA	1	5	6	1	MOJAVE
+0	0	0	E	1	5	7	0		0	6	4	0	
+0	0	0	L	1	5	7	0		0	7	4	0	
+0	0	0	I	1	5	7	0		0	8	3	0	
+0	0	0	S	1	5	7	0		0	9	7	0	
+0	1	11	M	1	5	7	0		1	10	7	1	MEANSIT
+0	1	12	A	1	5	7	0		1	11	7	1	ARISTOS
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	A	2	0	4	1	AKIN	0	0	3	0	
+0	0	0	K	2	0	4	0		0	1	4	0	
+0	0	0	I	2	0	4	0		0	2	4	0	
+0	0	0	N	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	7	0		3	4	5	0	
+0	1	14	O	2	5	7	1	OTANKER	1	5	6	0	
+0	0	0	T	2	5	7	0		0	6	4	0	
+0	0	0	A	2	5	7	0		0	7	4	0	
+0	0	0	N	2	5	7	0		0	8	3	0	
+0	0	0	K	2	5	7	0		0	9	7	0	
+0	0	0	E	2	5	7	0		1	10	7	0	
+0	0	0	R	2	5	7	0		1	11	7	0	
+1	0	0	#	2	13	0	0		3	12	5	0	
+1	0	0	#	3	1	7	0		4	0	0	0	
+0	1	15	Y	3	1	7	1	YLYNJDH	0	1	4	0	
+0	0	0	L	3	1	7	0		0	2	4	0	
+0	0	0	Y	3	1	7	0		1	3	4	0	
+0	1	16	N	3	1	7	0		3	4	5	1	NTEST
+0	0	0	J	3	1	7	0		1	5	6	0	
+0	0	0	D	3	1	7	0		0	6	4	0	
+0	0	0	H	3	1	7	0		0	7	4	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	17	S	3	9	4	1	SAID	0	9	7	0	
+0	0	0	A	3	9	4	0		1	10	7	0	
+0	0	0	I	3	9	4	0		1	11	7	0	
+0	1	18	D	3	9	4	0		3	12	5	1	DESNA
+1	0	0	#	4	1	0	0		5	0	5	0	
+1	0	0	#	4	2	0	0		5	1	7	0	
+1	0	0	#	4	3	3	0		5	2	7	0	
+0	1	19	E	4	3	3	1	ETA	1	3	4	0	
+0	0	0	T	4	3	3	0		3	4	5	0	
+0	0	0	A	4	3	3	0		1	5	6	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	4	0		5	8	5	0	
+0	1	20	O	4	9	4	1	ONSE	0	9	7	0	
+0	0	0	N	4	9	4	0		1	10	7	0	
+0	0	0	S	4	9	4	0		1	11	7	0	
+0	0	0	E	4	9	4	0		3	12	5	0	
+0	1	21	C	5	0	3	1	CHA	5	0	5	1	CCVII
+0	1	22	H	5	0	3	0		5	1	7	1	HAIRDYE
+0	1	23	A	5	0	3	0		5	2	7	1	ARSENAL
+1	0	0	#	5	4	3	0		6	3	7	0	
+0	1	24	E	5	4	3	1	EVO	3	4	5	0	
+0	0	0	V	5	4	3	0		1	5	6	0	
+0	1	25	O	5	4	3	0		5	6	3	1	OLE
+1	0	0	#	5	8	5	0		6	7	6	0	
+0	1	26	O	5	8	5	1	OUSTS	5	8	5	1	OCOME
+0	0	0	U	5	8	5	0		0	9	7	0	
+0	0	0	S	5	8	5	0		1	10	7	0	
+0	0	0	T	5	8	5	0		1	11	7	0	
+0	0	0	S	5	8	5	0		3	12	5	0	
+0	1	27	C	6	0	13	1	CARDSELECTION	5	0	5	0	
+0	0	0	A	6	0	13	0		5	1	7	0	
+0	0	0	R	6	0	13	0		5	2	7	0	
+0	1	28	D	6	0	13	0		6	3	7	1	DISOWNS
+0	0	0	S	6	0	13	0		3	4	5	0	
+0	0	0	E	6	0	13	0		1	5	6	0	
+0	0	0	L	6	0	13	0		5	6	3	0	
+0	1	29	E	6	0	13	0		6	7	6	1	ELAPSE
+0	0	0	C	6	0	13	0		5	8	5	0	
+0	0	0	T	6	0	13	0		0	9	7	0	
+0	0	0	I	6	0	13	0		1	10	7	0	
+0	0	0	O	6	0	13	0		1	11	7	0	
+0	0	0	N	6	0	13	0		3	12	5	0	
+0	1	30	V	7	0	5	1	VISIT	5	0	5	0	
+0	0	0	I	7	0	5	0		5	1	7	0	
+0	0	0	S	7	0	5	0		5	2	7	0	
+0	0	0	I	7	0	5	0		6	3	7	0	
+0	0	0	T	7	0	5	0		3	4	5	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	31	E	7	6	3	1	ELO	5	6	3	0	
+0	0	0	L	7	6	3	0		6	7	6	0	
+0	0	0	O	7	6	3	0		5	8	5	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	32	T	7	10	3	1	TSA	1	10	7	0	
+0	0	0	S	7	10	3	0		1	11	7	0	
+0	0	0	A	7	10	3	0		3	12	5	0	
+0	1	33	I	8	0	4	1	IRES	5	0	5	0	
+0	0	0	R	8	0	4	0		5	1	7	0	
+0	0	0	E	8	0	4	0		5	2	7	0	
+0	0	0	S	8	0	4	0		6	3	7	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	3	0		9	6	4	0	
+0	1	34	A	8	7	3	1	AMC	6	7	6	0	
+0	0	0	M	8	7	3	0		5	8	5	0	
+0	1	35	C	8	7	3	0		8	9	4	1	CSIS
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	36	I	9	0	4	1	IDNO	5	0	5	0	
+0	0	0	D	9	0	4	0		5	1	7	0	
+0	0	0	N	9	0	4	0		5	2	7	0	
+0	0	0	O	9	0	4	0		6	3	7	0	
+1	0	0	#	9	5	7	0		10	4	3	0	
+0	1	37	T	9	5	7	1	TAPESUP	9	5	4	1	TERP
+0	1	38	A	9	5	7	0		9	6	4	1	ARTS
+0	0	0	P	9	5	7	0		6	7	6	0	
+0	0	0	E	9	5	7	0		5	8	5	0	
+0	0	0	S	9	5	7	0		8	9	4	0	
+0	1	39	U	9	5	7	0		9	10	4	1	UDOS
+0	1	40	P	9	5	7	0		9	11	4	1	POLY
+1	0	0	#	9	13	0	0		10	12	3	0	
+1	0	0	#	10	1	7	0		11	0	0	0	
+0	1	41	Y	10	1	7	1	YAWNERS	5	1	7	0	
+0	0	0	A	10	1	7	0		5	2	7	0	
+0	0	0	W	10	1	7	0		6	3	7	0	
+0	1	42	N	10	1	7	0		10	4	3	1	NOI
+0	0	0	E	10	1	7	0		9	5	4	0	
+0	0	0	R	10	1	7	0		9	6	4	0	
+0	0	0	S	10	1	7	0		6	7	6	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	43	I	10	9	4	1	IDOL	8	9	4	0	
+0	0	0	D	10	9	4	0		9	10	4	0	
+0	0	0	O	10	9	4	0		9	11	4	0	
+0	1	44	L	10	9	4	0		10	12	3	1	LEN
+1	0	0	#	11	1	7	0		12	0	0	0	
+0	1	45	E	11	1	7	1	ELNORTE	5	1	7	0	
+0	0	0	L	11	1	7	0		5	2	7	0	
+0	0	0	N	11	1	7	0		6	3	7	0	
+0	0	0	O	11	1	7	0		10	4	3	0	
+0	0	0	R	11	1	7	0		9	5	4	0	
+0	0	0	T	11	1	7	0		9	6	4	0	
+0	0	0	E	11	1	7	0		6	7	6	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	46	S	11	9	4	1	SOLE	8	9	4	0	
+0	0	0	O	11	9	4	0		9	10	4	0	
+0	0	0	L	11	9	4	0		9	11	4	0	
+0	0	0	E	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	4	0		13	2	0	0	
+0	1	47	S	12	3	4	1	SIPS	6	3	7	0	
+0	0	0	I	12	3	4	0		10	4	3	0	
+0	0	0	P	12	3	4	0		9	5	4	0	
+0	0	0	S	12	3	4	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	48	S	12	10	3	1	SYN	9	10	4	0	
+0	0	0	Y	12	10	3	0		9	11	4	0	
+0	0	0	N	12	10	3	0		10	12	3	0	
+27
+1	KIM	Kipling classic
+4	REDA	Hawthorne novel stigma
+8	ONOS	Lennon's in-laws
+10	MELISMA	Group of notes sung on one syllable
+13	AKIN	Related
+14	OTANKER	Persian Gulf sight
+15	YLYNJDH	Most frugal
+17	SAID	"That ___ ..."
+19	ETA	Guesstimate letters
+20	ONSE	Beginning
+21	CHA	Dance bit
+24	EVO	Bolivian president Morales
+26	OUSTS	Sacks, so to speak
+27	CARDSELECTION	Pick from a deck
+30	VISIT	Pop by
+31	ELO	"Evil Woman" band, for short
+32	TSA	Grp. doing pat-downs
+33	IRES	Provokes
+34	AMC	Former Detroit auto inits.
+36	IDNO	Fig. on a driver's license
+37	TAPESUP	Binds, as wounds
+41	YAWNERS	They're boring
+43	IDOL	Pedestal figure
+45	ELNORTE	The United States, to Mexicans
+46	SOLE	Seafood selection
+47	SIPS	Samples
+48	SYN	Dict. listing
+27
+1	KOA	R.V. hookup provider
+2	INKY	Black as night
+3	MOIL	Do drudgery
+4	RETD	Sent back: Abbr.
+5	ELAH	"In the Valley of ___" (2007 film)
+6	DIN	Yelling
+7	ASKSOUT	Invites to a movie, say
+9	SNYE	Side-channel, in Canada
+10	MOJAVE	Setting for Joshua trees
+11	MEANSIT	Isn't kidding
+12	ARISTOS	British V.I.P.'s, to Brits
+16	NTEST	Underground experiment, for short
+18	DESNA	Dnieper tributary
+21	CCVII	Early third-century year
+22	HAIRDYE	*Salon supply in a bottle
+23	ARSENAL	Weapons depot
+25	OLE	Tauromachian chant
+26	OCOME	Noel starter
+28	DISOWNS	Takes out of the will, say
+29	ELAPSE	Slip by
+35	CSIS	Several CBS dramas
+37	TERP	Maryland player, informally
+38	ARTS	Cultural interests
+39	UDOS	Japanese salad plants
+40	POLY	Roly-___
+42	NOI	"There is ___ in team"
+44	LEN	Hall of Fame QB Dawson

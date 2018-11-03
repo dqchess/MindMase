@@ -1,0 +1,309 @@
+grid_15x15_59
+15
+0	1	1	C	0	0	3	1	CUR	0	0	3	1	CPR
+0	1	2	U	0	0	3	0		0	1	3	1	UUU
+0	1	3	R	0	0	3	0		0	2	3	1	RZB
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	6	0	
+0	1	4	U	0	6	3	1	UAE	0	6	3	1	UNO
+0	1	5	A	0	6	3	0		0	7	3	1	AER
+0	1	6	E	0	6	3	0		0	8	5	1	ERITU
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	7	R	0	12	3	1	RIN	0	12	11	1	ROMANOFORUM
+0	1	8	I	0	12	3	0		0	13	6	1	INTROS
+0	1	9	N	0	12	3	0		0	14	5	1	NEEDA
+0	1	10	P	1	0	4	1	PUZO	0	0	3	0	
+0	0	0	U	1	0	4	0		0	1	3	0	
+0	0	0	Z	1	0	4	0		0	2	3	0	
+0	1	11	O	1	0	4	0		1	3	4	1	OEIL
+1	0	0	#	1	5	5	0		2	4	0	0	
+0	1	12	E	1	5	5	1	ENERO	1	5	6	1	ELOISE
+0	0	0	N	1	5	5	0		0	6	3	0	
+0	0	0	E	1	5	5	0		0	7	3	0	
+0	0	0	R	1	5	5	0		0	8	5	0	
+0	1	13	O	1	5	5	0		1	9	5	1	OSAMA
+1	0	0	#	1	11	4	0		2	10	0	0	
+0	1	14	A	1	11	4	1	AONE	1	11	3	1	ASK
+0	0	0	O	1	11	4	0		0	12	11	0	
+0	0	0	N	1	11	4	0		0	13	6	0	
+0	0	0	E	1	11	4	0		0	14	5	0	
+0	1	15	R	2	0	4	1	RUBE	0	0	3	0	
+0	0	0	U	2	0	4	0		0	1	3	0	
+0	0	0	B	2	0	4	0		0	2	3	0	
+0	0	0	E	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	5	0		3	4	4	0	
+0	1	16	L	2	5	5	1	LORIS	1	5	6	0	
+0	0	0	O	2	5	5	0		0	6	3	0	
+0	0	0	R	2	5	5	0		0	7	3	0	
+0	0	0	I	2	5	5	0		0	8	5	0	
+0	0	0	S	2	5	5	0		1	9	5	0	
+1	0	0	#	2	11	4	0		3	10	4	0	
+0	1	17	S	2	11	4	1	SMTE	1	11	3	0	
+0	0	0	M	2	11	4	0		0	12	11	0	
+0	0	0	T	2	11	4	0		0	13	6	0	
+0	0	0	E	2	11	4	0		0	14	5	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	3	0		4	2	11	0	
+0	1	18	I	3	3	3	1	ILO	1	3	4	0	
+0	1	19	L	3	3	3	0		3	4	4	1	LGTH
+0	0	0	O	3	3	3	0		1	5	6	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	7	0		4	7	7	0	
+0	1	20	T	3	8	7	1	TANKARD	0	8	5	0	
+0	0	0	A	3	8	7	0		1	9	5	0	
+0	1	21	N	3	8	7	0		3	10	4	1	NAME
+0	0	0	K	3	8	7	0		1	11	3	0	
+0	0	0	A	3	8	7	0		0	12	11	0	
+0	0	0	R	3	8	7	0		0	13	6	0	
+0	0	0	D	3	8	7	0		0	14	5	0	
+1	0	0	#	4	1	5	0		5	0	3	0	
+0	1	22	G	4	1	5	1	GOLGI	4	1	4	1	GHIJ
+0	1	23	O	4	1	5	0		4	2	11	1	OCTOBERVEST
+0	0	0	L	4	1	5	0		1	3	4	0	
+0	0	0	G	4	1	5	0		3	4	4	0	
+0	0	0	I	4	1	5	0		1	5	6	0	
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	24	D	4	7	4	1	DUMA	4	7	7	1	DRYHEAT
+0	0	0	U	4	7	4	0		0	8	5	0	
+0	0	0	M	4	7	4	0		1	9	5	0	
+0	0	0	A	4	7	4	0		3	10	4	0	
+1	0	0	#	4	12	3	0		5	11	4	0	
+0	1	25	N	4	12	3	1	NOA	0	12	11	0	
+0	0	0	O	4	12	3	0		0	13	6	0	
+0	0	0	A	4	12	3	0		0	14	5	0	
+0	1	26	T	5	0	3	1	THC	5	0	3	1	TWA
+0	0	0	H	5	0	3	0		4	1	4	0	
+0	0	0	C	5	0	3	0		4	2	11	0	
+1	0	0	#	5	4	4	0		6	3	4	0	
+0	1	27	T	5	4	4	1	TSAR	3	4	4	0	
+0	0	0	S	5	4	4	0		1	5	6	0	
+0	1	28	A	5	4	4	0		5	6	3	1	ARP
+0	0	0	R	5	4	4	0		4	7	7	0	
+1	0	0	#	5	9	5	0		6	8	0	0	
+0	1	29	A	5	9	5	1	AMMOS	1	9	5	0	
+0	0	0	M	5	9	5	0		3	10	4	0	
+0	1	30	M	5	9	5	0		5	11	4	1	MMDC
+0	0	0	O	5	9	5	0		0	12	11	0	
+0	0	0	S	5	9	5	0		0	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	31	W	6	0	8	1	WITCHERY	5	0	3	0	
+0	0	0	I	6	0	8	0		4	1	4	0	
+0	0	0	T	6	0	8	0		4	2	11	0	
+0	1	32	C	6	0	8	0		6	3	4	1	CBER
+0	0	0	H	6	0	8	0		3	4	4	0	
+0	0	0	E	6	0	8	0		1	5	6	0	
+0	0	0	R	6	0	8	0		5	6	3	0	
+0	0	0	Y	6	0	8	0		4	7	7	0	
+1	0	0	#	6	9	0	0		7	8	3	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	33	E	6	10	3	1	EMF	3	10	4	0	
+0	0	0	M	6	10	3	0		5	11	4	0	
+0	0	0	F	6	10	3	0		0	12	11	0	
+1	0	0	#	6	14	0	0		7	13	4	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	34	A	7	0	4	1	AJOB	5	0	3	0	
+0	0	0	J	7	0	4	0		4	1	4	0	
+0	0	0	O	7	0	4	0		4	2	11	0	
+0	0	0	B	7	0	4	0		6	3	4	0	
+1	0	0	#	7	5	0	0		8	4	4	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	35	P	7	6	3	1	PHS	5	6	3	0	
+0	0	0	H	7	6	3	0		4	7	7	0	
+0	1	36	S	7	6	3	0		7	8	3	1	SAW
+1	0	0	#	7	10	0	0		8	9	6	0	
+1	0	0	#	7	11	4	0		8	10	4	0	
+0	1	37	D	7	11	4	1	DONE	5	11	4	0	
+0	0	0	O	7	11	4	0		0	12	11	0	
+0	1	38	N	7	11	4	0		7	13	4	1	NOLI
+0	1	39	E	7	11	4	0		7	14	3	1	EWA
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	6	0	
+0	1	40	B	8	2	3	1	BEV	4	2	11	0	
+0	0	0	E	8	2	3	0		6	3	4	0	
+0	1	41	V	8	2	3	0		8	4	4	1	VOLT
+1	0	0	#	8	6	0	0		9	5	5	0	
+1	0	0	#	8	7	8	0		9	6	0	0	
+0	1	42	E	8	7	8	1	EATSCROW	4	7	7	0	
+0	0	0	A	8	7	8	0		7	8	3	0	
+0	1	43	T	8	7	8	0		8	9	6	1	TANGLE
+0	1	44	S	8	7	8	0		8	10	4	1	SCAM
+0	0	0	C	8	7	8	0		5	11	4	0	
+0	0	0	R	8	7	8	0		0	12	11	0	
+0	0	0	O	8	7	8	0		7	13	4	0	
+0	0	0	W	8	7	8	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	5	0	
+0	1	45	L	9	1	5	1	LEROI	9	1	6	1	LOADUP
+0	0	0	E	9	1	5	0		4	2	11	0	
+0	0	0	R	9	1	5	0		6	3	4	0	
+0	0	0	O	9	1	5	0		8	4	4	0	
+0	1	46	I	9	1	5	0		9	5	5	1	ISTLE
+1	0	0	#	9	7	4	0		10	6	5	0	
+0	1	47	A	9	7	4	1	AWAC	4	7	7	0	
+0	0	0	W	9	7	4	0		7	8	3	0	
+0	0	0	A	9	7	4	0		8	9	6	0	
+0	0	0	C	9	7	4	0		8	10	4	0	
+1	0	0	#	9	12	3	0		10	11	4	0	
+0	1	48	U	9	12	3	1	ULA	0	12	11	0	
+0	0	0	L	9	12	3	0		7	13	4	0	
+0	0	0	A	9	12	3	0		7	14	3	0	
+0	1	49	W	10	0	3	1	WOR	10	0	5	1	WGOLD
+0	0	0	O	10	0	3	0		9	1	6	0	
+0	0	0	R	10	0	3	0		4	2	11	0	
+1	0	0	#	10	4	4	0		11	3	3	0	
+0	1	50	L	10	4	4	1	LSAT	8	4	4	0	
+0	0	0	S	10	4	4	0		9	5	5	0	
+0	1	51	A	10	4	4	0		10	6	5	1	AEONS
+0	0	0	T	10	4	4	0		4	7	7	0	
+1	0	0	#	10	9	5	0		11	8	0	0	
+0	1	52	N	10	9	5	1	NAOMI	8	9	6	0	
+0	0	0	A	10	9	5	0		8	10	4	0	
+0	1	53	O	10	9	5	0		10	11	4	1	OCTO
+0	0	0	M	10	9	5	0		0	12	11	0	
+0	0	0	I	10	9	5	0		7	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	54	G	11	0	7	1	GAVOTTE	10	0	5	0	
+0	0	0	A	11	0	7	0		9	1	6	0	
+0	0	0	V	11	0	7	0		4	2	11	0	
+0	1	55	O	11	0	7	0		11	3	3	1	OST
+0	0	0	T	11	0	7	0		8	4	4	0	
+0	0	0	T	11	0	7	0		9	5	5	0	
+0	0	0	E	11	0	7	0		10	6	5	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	3	0		12	8	3	0	
+0	1	56	G	11	9	3	1	GMC	8	9	6	0	
+0	0	0	M	11	9	3	0		8	10	4	0	
+0	0	0	C	11	9	3	0		10	11	4	0	
+1	0	0	#	11	13	0	0		12	12	3	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	57	O	12	0	4	1	ODES	10	0	5	0	
+0	0	0	D	12	0	4	0		9	1	6	0	
+0	0	0	E	12	0	4	0		4	2	11	0	
+0	0	0	S	12	0	4	0		11	3	3	0	
+1	0	0	#	12	5	5	0		13	4	0	0	
+0	1	58	L	12	5	5	1	LOYAL	9	5	5	0	
+0	0	0	O	12	5	5	0		10	6	5	0	
+0	1	59	Y	12	5	5	0		12	7	3	1	YUP
+0	1	60	A	12	5	5	0		12	8	3	1	ARR
+0	0	0	L	12	5	5	0		8	9	6	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	61	T	12	11	4	1	TOES	10	11	4	0	
+0	1	62	O	12	11	4	0		12	12	3	1	OME
+0	1	63	E	12	11	4	0		12	13	3	1	EOS
+0	1	64	S	12	11	4	0		12	14	3	1	SOA
+0	1	65	L	13	0	4	1	LUST	10	0	5	0	
+0	0	0	U	13	0	4	0		9	1	6	0	
+0	0	0	S	13	0	4	0		4	2	11	0	
+0	0	0	T	13	0	4	0		11	3	3	0	
+1	0	0	#	13	5	5	0		14	4	0	0	
+0	1	66	E	13	5	5	1	ENURE	9	5	5	0	
+0	0	0	N	13	5	5	0		10	6	5	0	
+0	0	0	U	13	5	5	0		12	7	3	0	
+0	0	0	R	13	5	5	0		12	8	3	0	
+0	0	0	E	13	5	5	0		8	9	6	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	67	O	13	11	4	1	OMOO	10	11	4	0	
+0	0	0	M	13	11	4	0		12	12	3	0	
+0	0	0	O	13	11	4	0		12	13	3	0	
+0	0	0	O	13	11	4	0		12	14	3	0	
+0	1	68	D	14	0	3	1	DPT	10	0	5	0	
+0	0	0	P	14	0	3	0		9	1	6	0	
+0	0	0	T	14	0	3	0		4	2	11	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	69	S	14	6	3	1	SPR	10	6	5	0	
+0	0	0	P	14	6	3	0		12	7	3	0	
+0	0	0	R	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	E	14	12	3	1	ESA	12	12	3	0	
+0	0	0	S	14	12	3	0		12	13	3	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+41
+1	CUR	Blackguard
+4	UAE	Dubai is part of it: Abbr.
+7	RIN	Oysters ___ season
+10	PUZO	"The Godfather" author
+12	ENERO	First month in M
+14	AONE	Outstanding
+15	RUBE	Hardly a sophisticate
+16	LORIS	Large-eyed lemur
+17	SMTE	Wallop
+18	ILO	U.N. workers' grp.
+20	TANKARD	Stein relative
+22	GOLGI	___ apparatus (cell organelle)
+24	DUMA	Lower chamber of Russia's parliament
+25	NOA	"... ___ thousand times ..."
+26	THC	Active ingredient in marijuana: Abbr.
+27	TSAR	Russia's Nicholas I, e.g.
+29	AMMOS	Explosives and such
+31	WITCHERY	Spelling?
+33	EMF	It's expressed in volts: Abbr.
+34	AJOB	"This is ___ for Superman!"
+35	PHS	Chem. class measures
+37	DONE	On the back burner, perhaps
+40	BEV	O.J. or hot choc., e.g.
+42	EATSCROW	Is humiliated
+45	LEROI	"Vive ___!"
+47	AWAC	"Never Wave at ___" (Rosalind Russell flick)
+48	ULA	Ending with form
+49	WOR	Flagship station of the old Mutual Broadcasting System
+50	LSAT	Exam for an aspiring J.D.
+52	NAOMI	A Judd
+54	GAVOTTE	Old French dance
+56	GMC	Yukon producer, for short
+57	ODES	Heading in a Keats volume
+58	LOYAL	Like a good subject
+61	TOES	They may get stepped on
+65	LUST	The hots
+66	ENURE	Accustom: Var.
+67	OMOO	Sequel to Melville's "Typee"
+68	DPT	Vaccine combo
+69	SPR	Part of some resort names: Abbr.
+70	ESA	That, to Juanita
+39
+1	CPR	Life saver, for short
+2	UUU	Familiar Olympics chant
+3	RZB	Rum ___ Tugger (
+4	UNO	108-card game
+5	AER	Bubbly beginning?
+6	ERITU	"A Masked Ball" aria
+7	ROMANOFORUM	Actor Ray's discussion group?
+8	INTROS	Emcees' deliveries
+9	NEEDA	"I ___ vacation!"
+11	OEIL	Trompe l'___ (art illusion)
+12	ELOISE	1955 children's heroine
+13	OSAMA	Noted cave-dweller, informally
+14	ASK	Put to
+19	LGTH	Width's opposite: Abbr.
+21	NAME	Finger
+22	GHIJ	Run of letters
+23	OCTOBERVEST	Fall wear?
+24	DRYHEAT	Baking need
+26	TWA	Ambassadors Club carrier
+28	ARP	Dada figure
+30	MMDC	About six centuries hence
+32	CBER	Breaker, maybe
+36	SAW	Toothed tool
+38	NOLI	___ me tangere (touch-me-not)
+39	EWA	Actress Aulin of "Candy"
+41	VOLT	Battery unit
+43	TANGLE	Snarl
+44	SCAM	One reported to the Better Business Bureau
+45	LOADUP	Stuff
+46	ISTLE	Basketmaking need
+49	WGOLD	Alloy that resembles platinum
+51	AEONS	Untold centuries
+53	OCTO	GRBS
+55	OST	Right turn from Nord
+59	YUP	Nope's counterpart
+60	ARR	Opposite of "Dep." on a flight board
+62	OME	Lament of Lady Capulet
+63	EOS	Daughter of the Titans
+64	SOA	"___ man walks into a bar ..."

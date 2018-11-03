@@ -1,0 +1,167 @@
+grid_11x11_55
+11
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	T	0	2	3	1	TAI	0	2	5	1	TRAWL
+0	1	2	A	0	2	3	0		0	3	6	1	AORTIC
+0	1	3	I	0	2	3	0		0	4	3	1	INE
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	R	0	7	3	1	RGT	0	7	4	1	RISD
+0	1	5	G	0	7	3	0		0	8	5	1	GENIE
+0	1	6	T	0	7	3	0		0	9	5	1	TRINI
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	T	1	0	6	1	THRONE	1	0	3	1	TRA
+0	1	8	H	1	0	6	0		1	1	4	1	HOTS
+0	0	0	R	1	0	6	0		0	2	5	0	
+0	0	0	O	1	0	6	0		0	3	6	0	
+0	0	0	N	1	0	6	0		0	4	3	0	
+0	1	9	E	1	0	6	0		1	5	9	1	EDSELFORD
+1	0	0	#	1	7	3	0		2	6	0	0	
+0	1	10	I	1	7	3	1	IER	0	7	4	0	
+0	0	0	E	1	7	3	0		0	8	5	0	
+0	0	0	R	1	7	3	0		0	9	5	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	R	2	0	6	1	ROARED	1	0	3	0	
+0	0	0	O	2	0	6	0		1	1	4	0	
+0	0	0	A	2	0	6	0		0	2	5	0	
+0	0	0	R	2	0	6	0		0	3	6	0	
+0	0	0	E	2	0	6	0		0	4	3	0	
+0	0	0	D	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	4	0	
+0	1	12	S	2	7	4	1	SNIP	0	7	4	0	
+0	0	0	N	2	7	4	0		0	8	5	0	
+0	0	0	I	2	7	4	0		0	9	5	0	
+0	1	13	P	2	7	4	0		2	10	3	1	PGS
+0	1	14	A	3	0	4	1	ATWT	1	0	3	0	
+0	0	0	T	3	0	4	0		1	1	4	0	
+0	0	0	W	3	0	4	0		0	2	5	0	
+0	0	0	T	3	0	4	0		0	3	6	0	
+1	0	0	#	3	5	6	0		4	4	4	0	
+0	1	15	S	3	5	6	1	SIDING	1	5	9	0	
+0	1	16	I	3	5	6	0		3	6	4	1	ISOF
+0	0	0	D	3	5	6	0		0	7	4	0	
+0	0	0	I	3	5	6	0		0	8	5	0	
+0	0	0	N	3	5	6	0		0	9	5	0	
+0	0	0	G	3	5	6	0		2	10	3	0	
+1	0	0	#	4	1	6	0		5	0	0	0	
+0	1	17	S	4	1	6	1	SLICES	1	1	4	0	
+0	0	0	L	4	1	6	0		0	2	5	0	
+0	0	0	I	4	1	6	0		0	3	6	0	
+0	1	18	C	4	1	6	0		4	4	4	1	CHIT
+0	0	0	E	4	1	6	0		1	5	9	0	
+0	0	0	S	4	1	6	0		3	6	4	0	
+1	0	0	#	4	8	3	0		5	7	6	0	
+0	1	19	E	4	8	3	1	EIS	0	8	5	0	
+0	0	0	I	4	8	3	0		0	9	5	0	
+0	0	0	S	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	20	C	5	3	5	1	CHLOE	0	3	6	0	
+0	0	0	H	5	3	5	0		4	4	4	0	
+0	0	0	L	5	3	5	0		1	5	9	0	
+0	0	0	O	5	3	5	0		3	6	4	0	
+0	1	21	E	5	3	5	0		5	7	6	1	EITHER
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	M	6	0	3	1	MKT	6	0	3	1	MTN
+0	1	23	K	6	0	3	0		6	1	5	1	KIOSK
+0	1	24	T	6	0	3	0		6	2	5	1	TETRA
+1	0	0	#	6	4	6	0		7	3	4	0	
+0	1	25	I	6	4	6	1	IFFIER	4	4	4	0	
+0	0	0	F	6	4	6	0		1	5	9	0	
+0	0	0	F	6	4	6	0		3	6	4	0	
+0	0	0	I	6	4	6	0		5	7	6	0	
+0	1	26	E	6	4	6	0		6	8	5	1	EWELL
+0	1	27	R	6	4	6	0		6	9	4	1	RIAL
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	28	T	7	0	6	1	TIESTO	6	0	3	0	
+0	0	0	I	7	0	6	0		6	1	5	0	
+0	0	0	E	7	0	6	0		6	2	5	0	
+0	1	29	S	7	0	6	0		7	3	4	1	SSIN
+0	0	0	T	7	0	6	0		4	4	4	0	
+0	0	0	O	7	0	6	0		1	5	9	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	30	T	7	7	4	1	TWIX	5	7	6	0	
+0	0	0	W	7	7	4	0		6	8	5	0	
+0	0	0	I	7	7	4	0		6	9	4	0	
+0	1	31	X	7	7	4	0		7	10	3	1	XLS
+0	1	32	N	8	0	4	1	NOTS	6	0	3	0	
+0	0	0	O	8	0	4	0		6	1	5	0	
+0	0	0	T	8	0	4	0		6	2	5	0	
+0	0	0	S	8	0	4	0		7	3	4	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	33	R	8	5	6	1	REHEAL	1	5	9	0	
+0	1	34	E	8	5	6	0		8	6	3	1	ECU
+0	0	0	H	8	5	6	0		5	7	6	0	
+0	0	0	E	8	5	6	0		6	8	5	0	
+0	0	0	A	8	5	6	0		6	9	4	0	
+0	0	0	L	8	5	6	0		7	10	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	35	S	9	1	3	1	SRI	6	1	5	0	
+0	0	0	R	9	1	3	0		6	2	5	0	
+0	0	0	I	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	36	D	9	5	6	1	DCELLS	1	5	9	0	
+0	0	0	C	9	5	6	0		8	6	3	0	
+0	0	0	E	9	5	6	0		5	7	6	0	
+0	0	0	L	9	5	6	0		6	8	5	0	
+0	0	0	L	9	5	6	0		6	9	4	0	
+0	0	0	S	9	5	6	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	37	K	10	1	3	1	KAN	6	1	5	0	
+0	0	0	A	10	1	3	0		6	2	5	0	
+0	0	0	N	10	1	3	0		7	3	4	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	38	U	10	6	3	1	URL	8	6	3	0	
+0	0	0	R	10	6	3	0		5	7	6	0	
+0	0	0	L	10	6	3	0		6	8	5	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	TAI	___ chi
+4	RGT	Mil. unit
+7	THRONE	It's fit for a queen
+10	IER	Lance
+11	ROARED	Thundered
+12	SNIP	Short cut?
+14	ATWT	No. for Na or Ni
+15	SIDING	Clapboards, e.g.
+17	SLICES	Pizza portions
+19	EIS	Road hazard in Frankfurt
+20	CHLOE	Daphnis's love
+22	MKT	Nasdaq, e.g.: Abbr.
+25	IFFIER	More uncertain
+28	TIESTO	Connects with
+30	TWIX	Popular chocolate bar
+32	NOTS	Have-___ (poor people)
+33	REHEAL	Knit up again
+35	SRI	Hindu honorific
+36	DCELLS	Common flashlight fillers
+37	KAN	Where the Cimarron flows: Abbr.
+38	URL	Address starting http://
+21
+1	TRAWL	Dragnet
+2	AORTIC	Kind of valve
+3	INE	Like Chopin's "Tristesse" 
+4	RISD	*Providence campus for aspiring artists, for short
+5	GENIE	Bottle opener's surprise
+6	TRINI	Actress Alvarado
+7	TRA	Refrain part
+8	HOTS	Have the ___ for
+9	EDSELFORD	Eponym of an old auto
+13	PGS	Family-friendly ratings
+16	ISOF	"Time ___ the essence"
+18	CHIT	Marker
+21	EITHER	Flexible reply to an offer
+22	MTN	Quite a hgt.
+23	KIOSK	Place to post notices
+24	TETRA	Di- doubled
+26	EWELL	Tom of "The Seven Year Itch"
+27	RIAL	Eastern currency
+29	SSIN	Takes root
+31	XLS	Big sizes, briefly
+34	ECU	French crown

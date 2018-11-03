@@ -1,0 +1,171 @@
+grid_11x11_65
+11
+0	1	1	W	0	0	3	1	WVU	0	0	3	1	WYE
+0	1	2	V	0	0	3	0		0	1	5	1	VSIGN
+0	1	3	U	0	0	3	0		0	2	5	1	ULTRA
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	U	0	4	3	1	UAW	0	4	3	1	UGE
+0	1	5	A	0	4	3	0		0	5	3	1	ALA
+0	1	6	W	0	4	3	0		0	6	6	1	WONTDO
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	S	0	8	3	1	SMA	0	8	5	1	SOFTG
+0	1	8	M	0	8	3	0		0	9	5	1	MYLAI
+0	1	9	A	0	8	3	0		0	10	5	1	ASORT
+0	1	10	Y	1	0	3	1	YSL	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	5	0	
+0	0	0	L	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	3	0		2	3	6	0	
+0	1	11	G	1	4	3	1	GLO	0	4	3	0	
+0	0	0	L	1	4	3	0		0	5	3	0	
+0	0	0	O	1	4	3	0		0	6	6	0	
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	12	O	1	8	3	1	OYS	0	8	5	0	
+0	0	0	Y	1	8	3	0		0	9	5	0	
+0	0	0	S	1	8	3	0		0	10	5	0	
+0	1	13	E	2	0	7	1	EITREAN	0	0	3	0	
+0	0	0	I	2	0	7	0		0	1	5	0	
+0	0	0	T	2	0	7	0		0	2	5	0	
+0	1	14	R	2	0	7	0		2	3	6	1	ROYCES
+0	0	0	E	2	0	7	0		0	4	3	0	
+0	0	0	A	2	0	7	0		0	5	3	0	
+0	0	0	N	2	0	7	0		0	6	6	0	
+1	0	0	#	2	8	3	0		3	7	6	0	
+0	1	15	F	2	8	3	1	FLO	0	8	5	0	
+0	0	0	L	2	8	3	0		0	9	5	0	
+0	0	0	O	2	8	3	0		0	10	5	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	16	G	3	1	3	1	GRO	0	1	5	0	
+0	0	0	R	3	1	3	0		0	2	5	0	
+0	0	0	O	3	1	3	0		2	3	6	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	17	T	3	6	5	1	TATAR	0	6	6	0	
+0	1	18	A	3	6	5	0		3	7	6	1	AIELLO
+0	0	0	T	3	6	5	0		0	8	5	0	
+0	0	0	A	3	6	5	0		0	9	5	0	
+0	0	0	R	3	6	5	0		0	10	5	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	19	N	4	1	3	1	NAY	0	1	5	0	
+0	0	0	A	4	1	3	0		0	2	5	0	
+0	0	0	Y	4	1	3	0		2	3	6	0	
+1	0	0	#	4	5	6	0		5	4	6	0	
+0	1	20	I	4	5	6	1	IDIGIT	4	5	3	1	INT
+0	0	0	D	4	5	6	0		0	6	6	0	
+0	0	0	I	4	5	6	0		3	7	6	0	
+0	0	0	G	4	5	6	0		0	8	5	0	
+0	0	0	I	4	5	6	0		0	9	5	0	
+0	0	0	T	4	5	6	0		0	10	5	0	
+1	0	0	#	5	1	0	0		6	0	5	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	21	C	5	3	5	1	CANOE	2	3	6	0	
+0	1	22	A	5	3	5	0		5	4	6	1	ANGINA
+0	0	0	N	5	3	5	0		4	5	3	0	
+0	0	0	O	5	3	5	0		0	6	6	0	
+0	0	0	E	5	3	5	0		3	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	23	A	6	0	6	1	ABSENT	6	0	5	1	ANTIC
+0	1	24	B	6	0	6	0		6	1	5	1	BORGE
+0	1	25	S	6	0	6	0		6	2	5	1	SMEAR
+0	0	0	E	6	0	6	0		2	3	6	0	
+0	0	0	N	6	0	6	0		5	4	6	0	
+0	0	0	T	6	0	6	0		4	5	3	0	
+1	0	0	#	6	7	3	0		7	6	0	0	
+0	1	26	L	6	7	3	1	LUM	3	7	6	0	
+0	1	27	U	6	7	3	0		6	8	5	1	UANDD
+0	1	28	M	6	7	3	0		6	9	5	1	MAMBA
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	29	N	7	0	5	1	NOMSG	6	0	5	0	
+0	0	0	O	7	0	5	0		6	1	5	0	
+0	0	0	M	7	0	5	0		6	2	5	0	
+0	0	0	S	7	0	5	0		2	3	6	0	
+0	0	0	G	7	0	5	0		5	4	6	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	3	0		8	6	3	0	
+0	1	30	L	7	7	3	1	LAA	3	7	6	0	
+0	0	0	A	7	7	3	0		6	8	5	0	
+0	0	0	A	7	7	3	0		6	9	5	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	T	8	0	3	1	TRE	6	0	5	0	
+0	0	0	R	8	0	3	0		6	1	5	0	
+0	0	0	E	8	0	3	0		6	2	5	0	
+1	0	0	#	8	4	7	0		9	3	0	0	
+0	1	32	I	8	4	7	1	ITSONME	5	4	6	0	
+0	1	33	T	8	4	7	0		8	5	3	1	THR
+0	1	34	S	8	4	7	0		8	6	3	1	SLE
+0	0	0	O	8	4	7	0		3	7	6	0	
+0	0	0	N	8	4	7	0		6	8	5	0	
+0	0	0	M	8	4	7	0		6	9	5	0	
+0	1	35	E	8	4	7	0		8	10	3	1	EAD
+0	1	36	I	9	0	3	1	IGA	6	0	5	0	
+0	0	0	G	9	0	3	0		6	1	5	0	
+0	0	0	A	9	0	3	0		6	2	5	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	37	N	9	4	3	1	NHL	5	4	6	0	
+0	0	0	H	9	4	3	0		8	5	3	0	
+0	0	0	L	9	4	3	0		8	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	38	D	9	8	3	1	DBA	6	8	5	0	
+0	0	0	B	9	8	3	0		6	9	5	0	
+0	0	0	A	9	8	3	0		8	10	3	0	
+0	1	39	C	10	0	3	1	CER	6	0	5	0	
+0	0	0	E	10	0	3	0		6	1	5	0	
+0	0	0	R	10	0	3	0		6	2	5	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	40	A	10	4	3	1	ARE	5	4	6	0	
+0	0	0	R	10	4	3	0		8	5	3	0	
+0	0	0	E	10	4	3	0		8	6	3	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	41	D	10	8	3	1	DAD	6	8	5	0	
+0	0	0	A	10	8	3	0		6	9	5	0	
+0	0	0	D	10	8	3	0		8	10	3	0	
+25
+1	WVU	Big East Conf. member
+4	UAW	Org. for many G.M. workers
+7	SMA	"An' singin there, an' dancin here, / Wi' great and ___": Burns
+10	YSL	Initials in fashion
+11	GLO	Day's end?
+12	OYS	Sounds of dismay
+13	EITREAN	Resident of Asmara
+15	FLO	Mel's Diner waitress
+16	GRO	Miracle-___
+17	TATAR	Subject of Genghis Khan
+19	NAY	"___, smile not at my sullen brow": Byron
+20	IDIGIT	"Gotcha," to a beatnik
+21	CANOE	Birchbark
+23	ABSENT	Missing
+26	LUM	___ and Abner, old comedy duo
+29	NOMSG	Chinese menu assurance
+30	LAA	"___ note to follow ..."
+31	TRE	Three for Sophia
+32	ITSONME	Treater's phrase
+36	IGA	Prominent grocery chain
+37	NHL	Org. with spring playoffs
+38	DBA	Corp. alias abbr.
+39	CER	Serve, as a banquet
+40	ARE	Art, nowadays
+41	DAD	Scout leader, maybe
+21
+1	WYE	Fourth of July?
+2	VSIGN	Churchillian symbol
+3	ULTRA	Fanatic
+4	UGE	Treatment
+5	ALA	Menu phrase
+6	WONTDO	Is inadequate
+7	SOFTG	Sound starting "Germany"
+8	MYLAI	Hamlet in 1969 headlines
+9	ASORT	Of ___ (so to speak)
+14	ROYCES	Rolls-___ (fancy cars)
+18	AIELLO	Danny of "Do the Right Thing"
+20	INT	Bank statement abbr.
+22	ANGINA	Chest pain
+23	ANTIC	Like the Marx Brothers
+24	BORGE	Performer dubbed "The Great Dane"
+25	SMEAR	Dirty political tactic
+27	UANDD	Yo-yoing
+28	MAMBA	African tree snake
+33	THR	By way of: Abbr.
+34	SLE	Trickiness
+35	EAD	Year that Augustus exiled Ovid

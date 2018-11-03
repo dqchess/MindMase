@@ -1,0 +1,165 @@
+grid_11x11_185
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	S	0	1	3	1	SRS	0	1	7	1	SKILLET
+0	1	2	R	0	1	3	0		0	2	7	1	READSTO
+0	1	3	S	0	1	3	0		0	3	3	1	SYN
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	8	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	4	V	0	8	3	1	VUE	0	8	3	1	VAT
+0	1	5	U	0	8	3	0		0	9	3	1	UNU
+0	1	6	E	0	8	3	0		0	10	3	1	ESS
+1	0	0	#	1	1	3	0		2	0	4	0	
+0	1	7	K	1	1	3	1	KEY	0	1	7	0	
+0	0	0	E	1	1	3	0		0	2	7	0	
+0	0	0	Y	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	6	0		2	4	8	0	
+0	1	8	A	1	5	6	1	ASIANS	1	5	9	1	ACTUALITY
+0	1	9	S	1	5	6	0		1	6	8	1	SAWTEETH
+0	1	10	I	1	5	6	0		1	7	4	1	ICON
+0	0	0	A	1	5	6	0		0	8	3	0	
+0	0	0	N	1	5	6	0		0	9	3	0	
+0	0	0	S	1	5	6	0		0	10	3	0	
+0	1	11	G	2	0	11	1	GIANTCACTUS	2	0	4	1	GEER
+0	0	0	I	2	0	11	0		0	1	7	0	
+0	0	0	A	2	0	11	0		0	2	7	0	
+0	0	0	N	2	0	11	0		0	3	3	0	
+0	1	12	T	2	0	11	0		2	4	8	1	TWOSTEPS
+0	0	0	C	2	0	11	0		1	5	9	0	
+0	0	0	A	2	0	11	0		1	6	8	0	
+0	0	0	C	2	0	11	0		1	7	4	0	
+0	0	0	T	2	0	11	0		0	8	3	0	
+0	0	0	U	2	0	11	0		0	9	3	0	
+0	0	0	S	2	0	11	0		0	10	3	0	
+0	1	13	E	3	0	3	1	ELD	2	0	4	0	
+0	0	0	L	3	0	3	0		0	1	7	0	
+0	0	0	D	3	0	3	0		0	2	7	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	14	W	3	4	4	1	WTWO	2	4	8	0	
+0	0	0	T	3	4	4	0		1	5	9	0	
+0	0	0	W	3	4	4	0		1	6	8	0	
+0	0	0	O	3	4	4	0		1	7	4	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	E	4	0	3	1	ELS	2	0	4	0	
+0	0	0	L	4	0	3	0		0	1	7	0	
+0	0	0	S	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	6	0		5	3	0	0	
+0	1	16	O	4	4	6	1	OUTNED	2	4	8	0	
+0	0	0	U	4	4	6	0		1	5	9	0	
+0	0	0	T	4	4	6	0		1	6	8	0	
+0	0	0	N	4	4	6	0		1	7	4	0	
+0	1	17	E	4	4	6	0		4	8	7	1	ENDNOTE
+0	1	18	D	4	4	6	0		4	9	7	1	DABHAND
+1	0	0	#	4	11	0	0		5	10	4	0	
+0	1	19	R	5	0	3	1	RET	2	0	4	0	
+0	0	0	E	5	0	3	0		0	1	7	0	
+0	0	0	T	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	20	S	5	4	3	1	SAE	2	4	8	0	
+0	0	0	A	5	4	3	0		1	5	9	0	
+0	0	0	E	5	4	3	0		1	6	8	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	N	5	8	3	1	NAG	4	8	7	0	
+0	0	0	A	5	8	3	0		4	9	7	0	
+0	1	22	G	5	8	3	0		5	10	4	1	GALT
+1	0	0	#	6	1	6	0		7	0	0	0	
+0	1	23	T	6	1	6	1	TOOTLE	0	1	7	0	
+0	0	0	O	6	1	6	0		0	2	7	0	
+0	1	24	O	6	1	6	0		6	3	4	1	OBES
+0	0	0	T	6	1	6	0		2	4	8	0	
+0	0	0	L	6	1	6	0		1	5	9	0	
+0	0	0	E	6	1	6	0		1	6	8	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	25	D	6	8	3	1	DBA	4	8	7	0	
+0	0	0	B	6	8	3	0		4	9	7	0	
+0	0	0	A	6	8	3	0		5	10	4	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	4	0		8	2	3	0	
+0	1	26	B	7	3	4	1	BEIT	6	3	4	0	
+0	0	0	E	7	3	4	0		2	4	8	0	
+0	0	0	I	7	3	4	0		1	5	9	0	
+0	0	0	T	7	3	4	0		1	6	8	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	N	7	8	3	1	NHL	4	8	7	0	
+0	0	0	H	7	8	3	0		4	9	7	0	
+0	0	0	L	7	8	3	0		5	10	4	0	
+0	1	28	S	8	0	11	1	STREPTHROAT	8	0	3	1	STU
+0	1	29	T	8	0	11	0		8	1	3	1	TRA
+0	1	30	R	8	0	11	0		8	2	3	1	REL
+0	0	0	E	8	0	11	0		6	3	4	0	
+0	0	0	P	8	0	11	0		2	4	8	0	
+0	0	0	T	8	0	11	0		1	5	9	0	
+0	0	0	H	8	0	11	0		1	6	8	0	
+0	1	31	R	8	0	11	0		8	7	3	1	RIN
+0	0	0	O	8	0	11	0		4	8	7	0	
+0	0	0	A	8	0	11	0		4	9	7	0	
+0	0	0	T	8	0	11	0		5	10	4	0	
+0	1	32	T	9	0	6	1	TRESSY	8	0	3	0	
+0	0	0	R	9	0	6	0		8	1	3	0	
+0	0	0	E	9	0	6	0		8	2	3	0	
+0	0	0	S	9	0	6	0		6	3	4	0	
+0	0	0	S	9	0	6	0		2	4	8	0	
+0	0	0	Y	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	33	I	9	7	3	1	ITN	8	7	3	0	
+0	0	0	T	9	7	3	0		4	8	7	0	
+0	0	0	N	9	7	3	0		4	9	7	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	34	U	10	0	3	1	UAL	8	0	3	0	
+0	0	0	A	10	0	3	0		8	1	3	0	
+0	0	0	L	10	0	3	0		8	2	3	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	35	N	10	7	3	1	NED	8	7	3	0	
+0	0	0	E	10	7	3	0		4	8	7	0	
+0	0	0	D	10	7	3	0		4	9	7	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	SRS	College interviewees: Abbr.
+4	VUE	Somme sight
+7	KEY	Code breaker
+8	ASIANS	Huns, e.g.
+11	GIANTCACTUS	Saguaro
+13	ELD	Days long gone by
+14	WTWO	*I.R.S. form
+15	ELS	Tennis champ Ernie
+16	OUTNED	In the minority
+19	RET	Like some gen.'s
+20	SAE	R.S.V.P. facilitator: Abbr.
+21	NAG	Pester
+23	TOOTLE	Fife sound
+25	DBA	Corp. alias abbr.
+26	BEIT	"___ ever so humble ..."
+27	NHL	Senators' grp.
+28	STREPTHROAT	Speaker's woe
+32	TRESSY	Like Rapunzel
+33	ITN	BBC rival
+34	UAL	Carrier with a hub at LAX
+35	NED	A Beatty
+19
+1	SKILLET	Place to make an omelet
+2	READSTO	Tells a bedtime story
+3	SYN	Thesaurus feature: Abbr.
+4	VAT	Grape masher's work site
+5	UNU	Big name in Burmese history
+6	ESS	Mountain curve
+8	ACTUALITY	It's not a dream
+9	SAWTEETH	Cutting-edge features
+10	ICON	Clickable symbol
+11	GEER	Will of Hollywood
+12	TWOSTEPS	Some Scott Joplin compositions
+17	ENDNOTE	Postscript
+18	DABHAND	Expert, in England
+22	GALT	"Who is John ___?" (question asked in "Atlas Shrugged")
+24	OBES	U.K. awards
+28	STU	Sutcliffe of the early Beatles
+29	TRA	La preceder
+30	REL	Father, e.g.: Abbr.
+31	RIN	___ Tin Tin

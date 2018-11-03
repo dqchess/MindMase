@@ -1,0 +1,309 @@
+grid_15x15_118
+15
+0	1	1	O	0	0	3	1	OVA	0	0	4	1	ODER
+0	1	2	V	0	0	3	0		0	1	7	1	VOLANTE
+0	1	3	A	0	0	3	0		0	2	15	1	ASAMATTEROFFACT
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	5	0		1	4	3	0	
+0	1	4	S	0	5	5	1	SMACK	0	5	3	1	SNA
+0	1	5	M	0	5	5	0		0	6	5	1	MIMIC
+0	1	6	A	0	5	5	0		0	7	5	1	ADEUX
+0	1	7	C	0	5	5	0		0	8	4	1	CLOD
+0	1	8	K	0	5	5	0		0	9	3	1	KEL
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	5	0	
+0	1	9	E	0	12	3	1	EAR	0	12	15	1	ENOERAUQSOTKCAB
+0	1	10	A	0	12	3	0		0	13	3	1	ARN
+0	1	11	R	0	12	3	0		0	14	3	1	REG
+0	1	12	D	1	0	3	1	DOS	0	0	4	0	
+0	0	0	O	1	0	3	0		0	1	7	0	
+0	0	0	S	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	6	0		2	3	0	0	
+0	1	13	U	1	4	6	1	UNIDLE	1	4	3	1	USN
+0	0	0	N	1	4	6	0		0	5	3	0	
+0	0	0	I	1	4	6	0		0	6	5	0	
+0	0	0	D	1	4	6	0		0	7	5	0	
+0	0	0	L	1	4	6	0		0	8	4	0	
+0	0	0	E	1	4	6	0		0	9	3	0	
+1	0	0	#	1	11	4	0		2	10	4	0	
+0	1	14	I	1	11	4	1	INRE	1	11	5	1	ISBUT
+0	0	0	N	1	11	4	0		0	12	15	0	
+0	0	0	R	1	11	4	0		0	13	3	0	
+0	0	0	E	1	11	4	0		0	14	3	0	
+0	1	15	E	2	0	3	1	ELA	0	0	4	0	
+0	0	0	L	2	0	3	0		0	1	7	0	
+0	0	0	A	2	0	3	0		0	2	15	0	
+1	0	0	#	2	4	11	0		3	3	5	0	
+0	1	16	S	2	4	11	1	SAMEOLDSONG	1	4	3	0	
+0	0	0	A	2	4	11	0		0	5	3	0	
+0	0	0	M	2	4	11	0		0	6	5	0	
+0	0	0	E	2	4	11	0		0	7	5	0	
+0	0	0	O	2	4	11	0		0	8	4	0	
+0	0	0	L	2	4	11	0		0	9	3	0	
+0	1	17	D	2	4	11	0		2	10	4	1	DISC
+0	0	0	S	2	4	11	0		1	11	5	0	
+0	0	0	O	2	4	11	0		0	12	15	0	
+0	0	0	N	2	4	11	0		0	13	3	0	
+0	0	0	G	2	4	11	0		0	14	3	0	
+0	1	18	R	3	0	5	1	RAMON	0	0	4	0	
+0	0	0	A	3	0	5	0		0	1	7	0	
+0	0	0	M	3	0	5	0		0	2	15	0	
+0	1	19	O	3	0	5	0		3	3	5	1	OATES
+0	0	0	N	3	0	5	0		1	4	3	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	20	I	3	6	3	1	IUD	0	6	5	0	
+0	0	0	U	3	6	3	0		0	7	5	0	
+0	0	0	D	3	6	3	0		0	8	4	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	21	I	3	10	3	1	IBE	2	10	4	0	
+0	0	0	B	3	10	3	0		1	11	5	0	
+0	0	0	E	3	10	3	0		0	12	15	0	
+1	0	0	#	3	14	0	0		4	13	3	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	22	N	4	1	3	1	NAA	0	1	7	0	
+0	0	0	A	4	1	3	0		0	2	15	0	
+0	0	0	A	4	1	3	0		3	3	5	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	23	C	4	5	3	1	CCX	4	5	3	1	CTN
+0	0	0	C	4	5	3	0		0	6	5	0	
+0	0	0	X	4	5	3	0		0	7	5	0	
+1	0	0	#	4	9	6	0		5	8	0	0	
+0	1	24	T	4	9	6	1	TSURIS	4	9	3	1	TOY
+0	0	0	S	4	9	6	0		2	10	4	0	
+0	0	0	U	4	9	6	0		1	11	5	0	
+0	0	0	R	4	9	6	0		0	12	15	0	
+0	1	25	I	4	9	6	0		4	13	3	1	IDN
+0	1	26	S	4	9	6	0		4	14	3	1	SSE
+1	0	0	#	5	1	5	0		6	0	0	0	
+0	1	27	T	5	1	5	1	TTTTT	0	1	7	0	
+0	0	0	T	5	1	5	0		0	2	15	0	
+0	0	0	T	5	1	5	0		3	3	5	0	
+0	1	28	T	5	1	5	0		5	4	3	1	TRL
+0	0	0	T	5	1	5	0		4	5	3	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	6	0		6	8	3	0	
+0	1	29	O	5	9	6	1	OCTADS	4	9	3	0	
+0	0	0	C	5	9	6	0		2	10	4	0	
+0	0	0	T	5	9	6	0		1	11	5	0	
+0	0	0	A	5	9	6	0		0	12	15	0	
+0	0	0	D	5	9	6	0		4	13	3	0	
+0	0	0	S	5	9	6	0		4	14	3	0	
+1	0	0	#	6	1	9	0		7	0	0	0	
+0	1	30	E	6	1	9	1	ETERNALLY	0	1	7	0	
+0	0	0	T	6	1	9	0		0	2	15	0	
+0	0	0	E	6	1	9	0		3	3	5	0	
+0	0	0	R	6	1	9	0		5	4	3	0	
+0	0	0	N	6	1	9	0		4	5	3	0	
+0	1	31	A	6	1	9	0		6	6	3	1	AHI
+0	1	32	L	6	1	9	0		6	7	3	1	LOE
+0	1	33	L	6	1	9	0		6	8	3	1	LOL
+0	0	0	Y	6	1	9	0		4	9	3	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+1	0	0	#	6	12	3	0		7	11	5	0	
+0	1	34	U	6	12	3	1	UNE	0	12	15	0	
+0	0	0	N	6	12	3	0		4	13	3	0	
+0	0	0	E	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	35	E	7	2	3	1	ESL	0	2	15	0	
+0	0	0	S	7	2	3	0		3	3	5	0	
+0	0	0	L	7	2	3	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	36	H	7	6	3	1	HOO	6	6	3	0	
+0	0	0	O	7	6	3	0		6	7	3	0	
+0	0	0	O	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	37	P	7	10	3	1	PDQ	7	10	3	1	PTS
+0	1	38	D	7	10	3	0		7	11	5	1	DEFOE
+0	0	0	Q	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+0	1	39	T	8	0	3	1	TOR	8	0	3	1	TSR
+0	1	40	O	8	0	3	0		8	1	3	1	OHI
+0	0	0	R	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	0	0		9	3	5	0	
+1	0	0	#	8	5	9	0		9	4	4	0	
+0	1	41	F	8	5	9	1	FIELDTEST	8	5	3	1	FMS
+0	0	0	I	8	5	9	0		6	6	3	0	
+0	0	0	E	8	5	9	0		6	7	3	0	
+0	0	0	L	8	5	9	0		6	8	3	0	
+0	1	42	D	8	5	9	0		8	9	3	1	DIS
+0	0	0	T	8	5	9	0		7	10	3	0	
+0	0	0	E	8	5	9	0		7	11	5	0	
+0	0	0	S	8	5	9	0		0	12	15	0	
+0	1	43	T	8	5	9	0		8	13	7	1	TREKKIE
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	44	S	9	0	6	1	SHOLOM	8	0	3	0	
+0	0	0	H	9	0	6	0		8	1	3	0	
+0	0	0	O	9	0	6	0		0	2	15	0	
+0	1	45	L	9	0	6	0		9	3	5	1	LLAMA
+0	1	46	O	9	0	6	0		9	4	4	1	OEYE
+0	0	0	M	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	0	0		10	6	0	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	5	0		10	8	5	0	
+0	1	47	I	9	9	5	1	ISFOR	8	9	3	0	
+0	0	0	S	9	9	5	0		7	10	3	0	
+0	0	0	F	9	9	5	0		7	11	5	0	
+0	0	0	O	9	9	5	0		0	12	15	0	
+0	0	0	R	9	9	5	0		8	13	7	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	48	R	10	0	6	1	RIFLES	8	0	3	0	
+0	0	0	I	10	0	6	0		8	1	3	0	
+0	0	0	F	10	0	6	0		0	2	15	0	
+0	0	0	L	10	0	6	0		9	3	5	0	
+0	0	0	E	10	0	6	0		9	4	4	0	
+0	0	0	S	10	0	6	0		8	5	3	0	
+1	0	0	#	10	7	3	0		11	6	4	0	
+0	1	49	O	10	7	3	1	OBS	10	7	5	1	OFTEA
+0	1	50	B	10	7	3	0		10	8	5	1	BGWGL
+0	0	0	S	10	7	3	0		8	9	3	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	51	O	10	11	3	1	OTE	7	11	5	0	
+0	0	0	T	10	11	3	0		0	12	15	0	
+0	0	0	E	10	11	3	0		8	13	7	0	
+1	0	0	#	10	15	0	0		11	14	4	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	52	F	11	2	3	1	FAY	0	2	15	0	
+0	0	0	A	11	2	3	0		9	3	5	0	
+0	0	0	Y	11	2	3	0		9	4	4	0	
+1	0	0	#	11	6	3	0		12	5	3	0	
+0	1	53	M	11	6	3	1	MFG	11	6	4	1	MEGR
+0	0	0	F	11	6	3	0		10	7	5	0	
+0	0	0	G	11	6	3	0		10	8	5	0	
+1	0	0	#	11	10	5	0		12	9	3	0	
+0	1	54	G	11	10	5	1	GEKKO	11	10	3	1	GNP
+0	0	0	E	11	10	5	0		7	11	5	0	
+0	0	0	K	11	10	5	0		0	12	15	0	
+0	0	0	K	11	10	5	0		8	13	7	0	
+0	1	55	O	11	10	5	0		11	14	4	1	OSSA
+0	1	56	S	12	0	11	1	SIAMESETWIN	12	0	3	1	SAG
+0	1	57	I	12	0	11	0		12	1	3	1	IFA
+0	0	0	A	12	0	11	0		0	2	15	0	
+0	0	0	M	12	0	11	0		9	3	5	0	
+0	0	0	E	12	0	11	0		9	4	4	0	
+0	1	58	S	12	0	11	0		12	5	3	1	SAO
+0	0	0	E	12	0	11	0		11	6	4	0	
+0	0	0	T	12	0	11	0		10	7	5	0	
+0	0	0	W	12	0	11	0		10	8	5	0	
+0	1	59	I	12	0	11	0		12	9	3	1	IAS
+0	0	0	N	12	0	11	0		11	10	3	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	60	C	12	12	3	1	CKS	0	12	15	0	
+0	0	0	K	12	12	3	0		8	13	7	0	
+0	0	0	S	12	12	3	0		11	14	4	0	
+0	1	61	A	13	0	4	1	AFCA	12	0	3	0	
+0	0	0	F	13	0	4	0		12	1	3	0	
+0	0	0	C	13	0	4	0		0	2	15	0	
+0	0	0	A	13	0	4	0		9	3	5	0	
+1	0	0	#	13	5	6	0		14	4	0	0	
+0	1	62	A	13	5	6	1	AGEGAP	12	5	3	0	
+0	0	0	G	13	5	6	0		11	6	4	0	
+0	0	0	E	13	5	6	0		10	7	5	0	
+0	0	0	G	13	5	6	0		10	8	5	0	
+0	0	0	A	13	5	6	0		12	9	3	0	
+0	0	0	P	13	5	6	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	63	A	13	12	3	1	AIS	0	12	15	0	
+0	0	0	I	13	12	3	0		8	13	7	0	
+0	0	0	S	13	12	3	0		11	14	4	0	
+0	1	64	G	14	0	3	1	GAT	12	0	3	0	
+0	0	0	A	14	0	3	0		12	1	3	0	
+0	0	0	T	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	5	0		15	4	0	0	
+0	1	65	O	14	5	5	1	ORALS	12	5	3	0	
+0	0	0	R	14	5	5	0		11	6	4	0	
+0	0	0	A	14	5	5	0		10	7	5	0	
+0	0	0	L	14	5	5	0		10	8	5	0	
+0	0	0	S	14	5	5	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	66	B	14	12	3	1	BEA	0	12	15	0	
+0	0	0	E	14	12	3	0		8	13	7	0	
+0	0	0	A	14	12	3	0		11	14	4	0	
+39
+1	OVA	They can be fertilized
+4	SMACK	Impact sound
+9	EAR	A barber might nick it
+12	DOS	Beehives and others
+13	UNIDLE	Working
+14	INRE	Dictator's phrase
+15	ELA	She, in Bras
+16	SAMEOLDSONG	Tired routine, colloquially
+18	RAMON	___ Novarro, 1926 Ben Hur
+20	IUD	Pill alternative, for short
+21	IBE	"How Can ___ Sure?" (1967 hit)
+22	NAA	Sports org.
+23	CCX	Third-century year
+24	TSURIS	Woes, to a Yiddish speaker
+27	TTTTT	Certain crosses
+29	OCTADS	Flag football teams
+30	ETERNALLY	Forever
+34	UNE	Article in Arles
+35	ESL	Immigrant's course: Abbr.
+36	HOO	___-ha
+37	PDQ	[Snap snap]
+39	TOR	Mountain sight
+41	FIELDTEST	Practical experiment
+44	SHOLOM	Tevye creator ___ Aleichem
+47	ISFOR	Supports
+48	RIFLES	Browning automatics
+49	OBS	Delivery people, briefly
+51	OTE	Inhabitant: Suffix
+52	FAY	Elfin
+53	MFG	Abbr. before "Co." in some company names
+54	GEKKO	"Wall Street" character Gordon ___
+56	SIAMESETWIN	Eng, for one
+60	CKS	Bank statement listings: Abbr.
+61	AFCA	Chad's place
+62	AGEGAP	Feature of a May-December romance
+63	AIS	"___ for Alibi"
+64	GAT	Gangbanger's gun
+65	ORALS	Master's hurdle
+66	BEA	Arthur of "The Golden Girls"
+41
+1	ODER	River to the Baltic
+2	VOLANTE	Lightly and quickly, in music
+3	ASAMATTEROFFACT	Actually
+4	SNA	Dundee precip
+5	MIMIC	Ape
+6	ADEUX	For two
+7	CLOD	Oaf
+8	KEL	Kenan's Nickelodeon pal
+9	ENOERAUQSOTKCAB	Like ones starting over
+10	ARN	Son of Prince Valiant
+11	REG	Like some gas: Abbr.
+13	USN	Fleet letters
+14	ISBUT	"Life ___ a dream"
+17	DISC	45 or 78
+19	OATES	Writer Joyce Carol ___
+23	CTN	U.P.S. unit: Abbr.
+24	TOY	Kind of poodle
+25	IDN	Insurance card info
+26	SSE	Boise-to-Phoenix dir.
+28	TRL	Bygone daily MTV series, informally
+31	AHI	Tuna type
+32	LOE	Star of "Youngblood," 1986
+33	LOL	Response to a joke in an I.M.
+37	PTS	Tabulations: Abbr.
+38	DEFOE	Crusoe's creator
+39	TSR	Original Dungeons & Dragons co.
+40	OHI	"Funny running into you here!"
+41	FMS	Some radios, for short
+42	DIS	Trash
+43	TREKKIE	Sci-fi conventioneer, perhaps
+45	LLAMA	Andean wool source
+46	OEYE	Cyclops' feature
+49	OFTEA	Not one's cup ___
+50	BGWGL	Mediterranean resort island
+53	MEGR	"You've Got Mail" actress
+54	GNP	Econ. figure
+55	OSSA	Peak in Thessaly
+56	SAG	Fall down
+57	IFA	"... ___ woodchuck could chuck wood"
+58	SAO	___ Gon
+59	IAS	"___ in Icarus" (1979 French thriller)

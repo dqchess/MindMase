@@ -1,0 +1,167 @@
+grid_11x11_73
+11
+0	1	1	T	0	0	3	1	TBS	0	0	3	1	TAT
+0	1	2	B	0	0	3	0		0	1	4	1	BCAR
+0	1	3	S	0	0	3	0		0	2	4	1	STIT
+1	0	0	#	0	4	3	0		1	3	5	0	
+0	1	4	C	0	4	3	1	CAA	0	4	6	1	COHENS
+0	1	5	A	0	4	3	0		0	5	3	1	ANI
+0	1	6	A	0	4	3	0		0	6	3	1	AMC
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	A	0	8	3	1	ADL	0	8	6	1	AVULSE
+0	1	8	D	0	8	3	0		0	9	6	1	DIALER
+0	1	9	L	0	8	3	0		0	10	5	1	LENYA
+0	1	10	A	1	0	11	1	ACTIONMOVIE	0	0	3	0	
+0	0	0	C	1	0	11	0		0	1	4	0	
+0	0	0	T	1	0	11	0		0	2	4	0	
+0	1	11	I	1	0	11	0		1	3	5	1	ICEES
+0	0	0	O	1	0	11	0		0	4	6	0	
+0	0	0	N	1	0	11	0		0	5	3	0	
+0	0	0	M	1	0	11	0		0	6	3	0	
+0	1	12	O	1	0	11	0		1	7	3	1	OHI
+0	0	0	V	1	0	11	0		0	8	6	0	
+0	0	0	I	1	0	11	0		0	9	6	0	
+0	0	0	E	1	0	11	0		0	10	5	0	
+0	1	13	T	2	0	11	1	TAICHICHUAN	0	0	3	0	
+0	0	0	A	2	0	11	0		0	1	4	0	
+0	0	0	I	2	0	11	0		0	2	4	0	
+0	0	0	C	2	0	11	0		1	3	5	0	
+0	0	0	H	2	0	11	0		0	4	6	0	
+0	0	0	I	2	0	11	0		0	5	3	0	
+0	0	0	C	2	0	11	0		0	6	3	0	
+0	0	0	H	2	0	11	0		1	7	3	0	
+0	0	0	U	2	0	11	0		0	8	6	0	
+0	0	0	A	2	0	11	0		0	9	6	0	
+0	0	0	N	2	0	11	0		0	10	5	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	14	R	3	1	4	1	RTEE	0	1	4	0	
+0	0	0	T	3	1	4	0		0	2	4	0	
+0	0	0	E	3	1	4	0		1	3	5	0	
+0	0	0	E	3	1	4	0		0	4	6	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	15	I	3	7	4	1	ILLY	1	7	3	0	
+0	0	0	L	3	7	4	0		0	8	6	0	
+0	0	0	L	3	7	4	0		0	9	6	0	
+0	0	0	Y	3	7	4	0		0	10	5	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	16	E	4	3	3	1	ENL	1	3	5	0	
+0	0	0	N	4	3	3	0		0	4	6	0	
+0	1	17	L	4	3	3	0		4	5	3	1	LEO
+1	0	0	#	4	7	0	0		5	6	6	0	
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	18	S	4	8	3	1	SEA	0	8	6	0	
+0	0	0	E	4	8	3	0		0	9	6	0	
+0	0	0	A	4	8	3	0		0	10	5	0	
+1	0	0	#	5	1	9	0		6	0	5	0	
+0	1	19	D	5	1	9	1	DISSENTER	5	1	6	1	DRYADS
+0	1	20	I	5	1	9	0		5	2	6	1	IGETIT
+0	0	0	S	5	1	9	0		1	3	5	0	
+0	0	0	S	5	1	9	0		0	4	6	0	
+0	0	0	E	5	1	9	0		4	5	3	0	
+0	1	21	N	5	1	9	0		5	6	6	1	NORUNS
+0	1	22	T	5	1	9	0		5	7	5	1	THATI
+0	0	0	E	5	1	9	0		0	8	6	0	
+0	0	0	R	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	23	E	6	0	3	1	ERG	6	0	5	1	ENLAI
+0	0	0	R	6	0	3	0		5	1	6	0	
+0	0	0	G	6	0	3	0		5	2	6	0	
+1	0	0	#	6	4	0	0		7	3	3	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	24	O	6	5	3	1	OOH	4	5	3	0	
+0	0	0	O	6	5	3	0		5	6	6	0	
+0	0	0	H	6	5	3	0		5	7	5	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	25	N	7	0	4	1	NYES	6	0	5	0	
+0	0	0	Y	7	0	4	0		5	1	6	0	
+0	0	0	E	7	0	4	0		5	2	6	0	
+0	1	26	S	7	0	4	0		7	3	3	1	SEN
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	27	R	7	6	4	1	RAOM	5	6	6	0	
+0	0	0	A	7	6	4	0		5	7	5	0	
+0	1	28	O	7	6	4	0		7	8	4	1	OHTO
+0	1	29	M	7	6	4	0		7	9	4	1	MOUE
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	30	L	8	0	11	1	LATEXLUTHOR	6	0	5	0	
+0	0	0	A	8	0	11	0		5	1	6	0	
+0	0	0	T	8	0	11	0		5	2	6	0	
+0	0	0	E	8	0	11	0		7	3	3	0	
+0	1	31	X	8	0	11	0		8	4	3	1	XFL
+0	1	32	L	8	0	11	0		8	5	3	1	LIE
+0	0	0	U	8	0	11	0		5	6	6	0	
+0	0	0	T	8	0	11	0		5	7	5	0	
+0	0	0	H	8	0	11	0		7	8	4	0	
+0	0	0	O	8	0	11	0		7	9	4	0	
+0	1	33	R	8	0	11	0		8	10	3	1	RMN
+0	1	34	A	9	0	11	1	ADINFINITUM	6	0	5	0	
+0	0	0	D	9	0	11	0		5	1	6	0	
+0	0	0	I	9	0	11	0		5	2	6	0	
+0	0	0	N	9	0	11	0		7	3	3	0	
+0	0	0	F	9	0	11	0		8	4	3	0	
+0	0	0	I	9	0	11	0		8	5	3	0	
+0	0	0	N	9	0	11	0		5	6	6	0	
+0	0	0	I	9	0	11	0		5	7	5	0	
+0	0	0	T	9	0	11	0		7	8	4	0	
+0	0	0	U	9	0	11	0		7	9	4	0	
+0	0	0	M	9	0	11	0		8	10	3	0	
+0	1	35	I	10	0	3	1	IST	6	0	5	0	
+0	0	0	S	10	0	3	0		5	1	6	0	
+0	0	0	T	10	0	3	0		5	2	6	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	36	L	10	4	3	1	LES	8	4	3	0	
+0	0	0	E	10	4	3	0		8	5	3	0	
+0	0	0	S	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	37	O	10	8	3	1	OEN	7	8	4	0	
+0	0	0	E	10	8	3	0		7	9	4	0	
+0	0	0	N	10	8	3	0		8	10	3	0	
+19
+1	TBS	CNN parent co.
+4	CAA	Major org. representing entertainers and athletes
+7	ADL	B'nai B'rith watchdog org.
+10	ACTIONMOVIE	One might have a stunt double
+13	TAICHICHUAN	Martial art
+14	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+15	ILLY	Badly
+16	ENL	Photographer's abbr.
+18	SEA	Subway wish
+19	DISSENTER	One in the minority
+23	ERG	Joule fraction
+24	OOH	"That feels gooood!"
+25	NYES	Humorist Bill and others
+27	RAOM	Haphazard
+30	LATEXLUTHOR	Superman's rubbery enemy?
+34	ADINFINITUM	Ceaselessly
+35	IST	Suffix with real
+36	LES	Article in a French magazine
+37	OEN	Vintner's prefix
+23
+1	TAT	Use a shuttle
+2	BCAR	Part of a freight train
+3	STIT	"Cease and desist!"
+4	COHENS	Songwriter Leonard and others
+5	ANI	Darth Vader's boyhood nickname
+6	AMC	Former auto mfr.
+7	AVULSE	Tear off forcefully
+8	DIALER	One entering a number
+9	LENYA	Actress Lotte
+11	ICEES	They're served with spoon-straws
+12	OHI	"___ don't know"
+17	LEO	Preceder of Virgo
+19	DRYADS	Wood nymphs, in myth
+20	IGETIT	Response to a joke
+21	NORUNS	One result of a perfect game
+22	THATI	"You're the One ___ Want" ("Grease" song)
+23	ENLAI	Top Chinese Zhou
+26	SEN	"D-OH" person, e.g.
+28	OHTO	"___ be in England"
+29	MOUE	Pouting look
+31	XFL	Object
+32	LIE	Rough position?
+33	RMN	Old presidential inits.

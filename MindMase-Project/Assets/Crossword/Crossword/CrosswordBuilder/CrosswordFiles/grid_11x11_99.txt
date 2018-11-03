@@ -1,0 +1,167 @@
+grid_11x11_99
+11
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	10	0	
+0	1	1	S	0	3	3	1	SES	0	3	3	1	SAO
+0	1	2	E	0	3	3	0		0	4	3	1	ESL
+0	1	3	S	0	3	3	0		0	5	3	1	STL
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	T	0	8	3	1	TIT	0	8	10	1	TRENTLOTTO
+0	1	5	I	0	8	3	0		0	9	4	1	ISNT
+0	1	6	T	0	8	3	0		0	10	3	1	TTT
+0	1	7	C	1	0	7	1	CANASTA	1	0	3	1	CUZ
+0	1	8	A	1	0	7	0		1	1	5	1	ANSER
+0	1	9	N	1	0	7	0		1	2	10	1	NRADIATION
+0	0	0	A	1	0	7	0		0	3	3	0	
+0	0	0	S	1	0	7	0		0	4	3	0	
+0	0	0	T	1	0	7	0		0	5	3	0	
+0	1	10	A	1	0	7	0		1	6	5	1	ASTRA
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	11	R	1	8	3	1	RST	0	8	10	0	
+0	0	0	S	1	8	3	0		0	9	4	0	
+0	0	0	T	1	8	3	0		0	10	3	0	
+0	1	12	U	2	0	7	1	UNROLLS	1	0	3	0	
+0	0	0	N	2	0	7	0		1	1	5	0	
+0	0	0	R	2	0	7	0		1	2	10	0	
+0	0	0	O	2	0	7	0		0	3	3	0	
+0	0	0	L	2	0	7	0		0	4	3	0	
+0	0	0	L	2	0	7	0		0	5	3	0	
+0	0	0	S	2	0	7	0		1	6	5	0	
+1	0	0	#	2	8	3	0		3	7	4	0	
+0	1	13	E	2	8	3	1	ENT	0	8	10	0	
+0	0	0	N	2	8	3	0		0	9	4	0	
+0	0	0	T	2	8	3	0		0	10	3	0	
+0	1	14	Z	3	0	3	1	ZSA	1	0	3	0	
+0	0	0	S	3	0	3	0		1	1	5	0	
+0	0	0	A	3	0	3	0		1	2	10	0	
+1	0	0	#	3	4	0	0		4	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	15	T	3	6	4	1	TINT	1	6	5	0	
+0	1	16	I	3	6	4	0		3	7	4	1	ISBN
+0	0	0	N	3	6	4	0		0	8	10	0	
+0	0	0	T	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	E	4	1	3	1	EDY	1	1	5	0	
+0	0	0	D	4	1	3	0		1	2	10	0	
+0	1	18	Y	4	1	3	0		4	3	4	1	YORE
+1	0	0	#	4	5	4	0		5	4	5	0	
+0	1	19	Q	4	5	4	1	QRST	4	5	3	1	QID
+0	0	0	R	4	5	4	0		1	6	5	0	
+0	0	0	S	4	5	4	0		3	7	4	0	
+0	0	0	T	4	5	4	0		0	8	10	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	20	R	5	1	9	1	RIODIABLO	1	1	5	0	
+0	0	0	I	5	1	9	0		1	2	10	0	
+0	0	0	O	5	1	9	0		4	3	4	0	
+0	1	21	D	5	1	9	0		5	4	5	1	DOREN
+0	0	0	I	5	1	9	0		4	5	3	0	
+0	0	0	A	5	1	9	0		1	6	5	0	
+0	0	0	B	5	1	9	0		3	7	4	0	
+0	0	0	L	5	1	9	0		0	8	10	0	
+0	1	22	O	5	1	9	0		5	9	5	1	ORALB
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	23	A	6	2	4	1	AROD	1	2	10	0	
+0	0	0	R	6	2	4	0		4	3	4	0	
+0	0	0	O	6	2	4	0		5	4	5	0	
+0	0	0	D	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	3	0		7	6	0	0	
+0	1	24	N	6	7	3	1	NOR	3	7	4	0	
+0	0	0	O	6	7	3	0		0	8	10	0	
+0	0	0	R	6	7	3	0		5	9	5	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	25	P	7	1	4	1	PTER	7	1	4	1	PSON
+0	0	0	T	7	1	4	0		1	2	10	0	
+0	0	0	E	7	1	4	0		4	3	4	0	
+0	0	0	R	7	1	4	0		5	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	26	T	7	8	3	1	TAP	0	8	10	0	
+0	0	0	A	7	8	3	0		5	9	5	0	
+0	1	27	P	7	8	3	0		7	10	3	1	PYE
+0	1	28	P	8	0	3	1	PSI	8	0	3	1	PBA
+0	0	0	S	8	0	3	0		7	1	4	0	
+0	0	0	I	8	0	3	0		1	2	10	0	
+1	0	0	#	8	4	7	0		9	3	0	0	
+0	1	29	E	8	4	7	1	ERECTLY	5	4	5	0	
+0	1	30	R	8	4	7	0		8	5	3	1	RON
+0	1	31	E	8	4	7	0		8	6	3	1	ETC
+0	1	32	C	8	4	7	0		8	7	3	1	CTR
+0	0	0	T	8	4	7	0		0	8	10	0	
+0	0	0	L	8	4	7	0		5	9	5	0	
+0	0	0	Y	8	4	7	0		7	10	3	0	
+0	1	33	B	9	0	3	1	BOO	8	0	3	0	
+0	0	0	O	9	0	3	0		7	1	4	0	
+0	0	0	O	9	0	3	0		1	2	10	0	
+1	0	0	#	9	4	7	0		10	3	0	0	
+0	1	34	N	9	4	7	1	NOTTOBE	5	4	5	0	
+0	0	0	O	9	4	7	0		8	5	3	0	
+0	0	0	T	9	4	7	0		8	6	3	0	
+0	0	0	T	9	4	7	0		8	7	3	0	
+0	0	0	O	9	4	7	0		0	8	10	0	
+0	0	0	B	9	4	7	0		5	9	5	0	
+0	0	0	E	9	4	7	0		7	10	3	0	
+0	1	35	A	10	0	3	1	ANN	8	0	3	0	
+0	0	0	N	10	0	3	0		7	1	4	0	
+0	0	0	N	10	0	3	0		1	2	10	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	36	N	10	5	3	1	NCR	8	5	3	0	
+0	0	0	C	10	5	3	0		8	6	3	0	
+0	0	0	R	10	5	3	0		8	7	3	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	SES	Fathers
+4	TIT	Black-throated ___
+7	CANASTA	Variation of rummy that was a 1950s fad
+11	RST	Queue after Q
+12	UNROLLS	Puts down, as the red carpet
+13	ENT	Creature in "The Two Towers"
+14	ZSA	Doubled, a Hollywood star
+15	TINT	Windows application?
+17	EDY	Joseph who co-founded an ice cream company
+19	QRST	Alphabet quartet
+20	RIODIABLO	1993 TV western starring Kenny Rogers and Travis Tritt
+23	AROD	Noted A.L. shortstop, for short
+24	NOR	Neighbor of Swe.
+25	PTER	Wing: Prefix
+26	TAP	Choose
+28	PSI	College sweater letter
+29	ERECTLY	Walk this way
+33	BOO	Goose pimples producer
+34	NOTTOBE	Opposite of destined
+35	ANN	Darrow of "King Kong"
+36	NCR	A.T.M. maker
+21
+1	SAO	___ Paulo, Brazil
+2	ESL	Immigrant's study, for short
+3	STL	Letters on Ozzie Smith's cap
+4	TRENTLOTTO	Gambling senator?
+5	ISNT	"This ___ what I expected"
+6	TTT	Fort Smith-to-Little Rock dir.
+7	CUZ	Slangy conjunction
+8	ANSER	Goose genus
+9	NRADIATION	Certain atomic X-ray emission
+10	ASTRA	Latin stars
+16	ISBN	Library cataloging datum, briefly
+18	YORE	Auld lang syne
+19	QID	Four times a day, in prescriptions
+21	DOREN	Pulitzer-winning poet Mark Van ___
+22	ORALB	Big name in brushwork
+25	PSON	Hits repeatedly
+27	PYE	___-dog (Indian stray)
+28	PBA	Keglers' grp.
+30	RON	Guidry of the 70's-80's Yankees
+31	ETC	Truncation abbreviation
+32	CTR	Hdqrs.

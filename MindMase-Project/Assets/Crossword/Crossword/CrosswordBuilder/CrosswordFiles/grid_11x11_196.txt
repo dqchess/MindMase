@@ -1,0 +1,165 @@
+grid_11x11_196
+11
+0	1	1	U	0	0	3	1	UEY	0	0	3	1	UMP
+0	1	2	E	0	0	3	0		0	1	4	1	EAUX
+0	1	3	Y	0	0	3	0		0	2	4	1	YIPE
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	4	0		1	5	0	0	
+0	1	4	C	0	6	4	1	CHOP	0	6	3	1	CRA
+0	1	5	H	0	6	4	0		0	7	3	1	HAT
+0	1	6	O	0	6	4	0		0	8	6	1	OBTUSE
+0	1	7	P	0	6	4	0		0	9	6	1	PAEANS
+1	0	0	#	0	11	0	0		1	10	4	0	
+0	1	8	M	1	0	5	1	MAINE	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	4	0	
+0	0	0	I	1	0	5	0		0	2	4	0	
+0	1	9	N	1	0	5	0		1	3	6	1	NUNCIO
+0	1	10	E	1	0	5	0		1	4	5	1	EPISC
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	11	R	1	6	5	1	RABAT	0	6	3	0	
+0	0	0	A	1	6	5	0		0	7	3	0	
+0	0	0	B	1	6	5	0		0	8	6	0	
+0	0	0	A	1	6	5	0		0	9	6	0	
+0	1	12	T	1	6	5	0		1	10	4	1	TREO
+0	1	13	P	2	0	11	1	PUPUPLATTER	0	0	3	0	
+0	0	0	U	2	0	11	0		0	1	4	0	
+0	0	0	P	2	0	11	0		0	2	4	0	
+0	0	0	U	2	0	11	0		1	3	6	0	
+0	0	0	P	2	0	11	0		1	4	5	0	
+0	1	14	L	2	0	11	0		2	5	7	1	LAITIES
+0	0	0	A	2	0	11	0		0	6	3	0	
+0	0	0	T	2	0	11	0		0	7	3	0	
+0	0	0	T	2	0	11	0		0	8	6	0	
+0	0	0	E	2	0	11	0		0	9	6	0	
+0	0	0	R	2	0	11	0		1	10	4	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	15	X	3	1	5	1	XENIA	0	1	4	0	
+0	0	0	E	3	1	5	0		0	2	4	0	
+0	0	0	N	3	1	5	0		1	3	6	0	
+0	0	0	I	3	1	5	0		1	4	5	0	
+0	0	0	A	3	1	5	0		2	5	7	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	3	0		4	7	6	0	
+0	1	16	U	3	8	3	1	UAE	0	8	6	0	
+0	0	0	A	3	8	3	0		0	9	6	0	
+0	0	0	E	3	8	3	0		1	10	4	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	17	C	4	3	3	1	CSI	1	3	6	0	
+0	0	0	S	4	3	3	0		1	4	5	0	
+0	0	0	I	4	3	3	0		2	5	7	0	
+1	0	0	#	4	7	4	0		5	6	5	0	
+0	1	18	A	4	7	4	1	ASNO	4	7	6	1	ALKYLS
+0	0	0	S	4	7	4	0		0	8	6	0	
+0	0	0	N	4	7	4	0		0	9	6	0	
+0	0	0	O	4	7	4	0		1	10	4	0	
+1	0	0	#	5	1	9	0		6	0	4	0	
+0	1	19	E	5	1	9	1	EPICTALES	5	1	6	1	EGGNOG
+0	1	20	P	5	1	9	0		5	2	6	1	PINDAR
+0	0	0	I	5	1	9	0		1	3	6	0	
+0	0	0	C	5	1	9	0		1	4	5	0	
+0	0	0	T	5	1	9	0		2	5	7	0	
+0	1	21	A	5	1	9	0		5	6	5	1	ANGST
+0	0	0	L	5	1	9	0		4	7	6	0	
+0	0	0	E	5	1	9	0		0	8	6	0	
+0	0	0	S	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	A	6	0	4	1	AGIO	6	0	4	1	AWET
+0	0	0	G	6	0	4	0		5	1	6	0	
+0	0	0	I	6	0	4	0		5	2	6	0	
+0	0	0	O	6	0	4	0		1	3	6	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	23	I	6	5	3	1	INK	2	5	7	0	
+0	0	0	N	6	5	3	0		5	6	5	0	
+0	0	0	K	6	5	3	0		4	7	6	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	W	7	0	3	1	WGN	6	0	4	0	
+0	0	0	G	7	0	3	0		5	1	6	0	
+0	0	0	N	7	0	3	0		5	2	6	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	25	E	7	5	5	1	EGYPT	2	5	7	0	
+0	0	0	G	7	5	5	0		5	6	5	0	
+0	0	0	Y	7	5	5	0		4	7	6	0	
+0	1	26	P	7	5	5	0		7	8	4	1	POIS
+0	1	27	T	7	5	5	0		7	9	4	1	TODI
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	E	8	0	11	1	ENDLESSLOOP	6	0	4	0	
+0	0	0	N	8	0	11	0		5	1	6	0	
+0	0	0	D	8	0	11	0		5	2	6	0	
+0	1	29	L	8	0	11	0		8	3	3	1	LII
+0	1	30	E	8	0	11	0		8	4	3	1	ERS
+0	0	0	S	8	0	11	0		2	5	7	0	
+0	0	0	S	8	0	11	0		5	6	5	0	
+0	0	0	L	8	0	11	0		4	7	6	0	
+0	0	0	O	8	0	11	0		7	8	4	0	
+0	0	0	O	8	0	11	0		7	9	4	0	
+0	1	31	P	8	0	11	0		8	10	3	1	PED
+0	1	32	T	9	0	5	1	TOAIR	6	0	4	0	
+0	0	0	O	9	0	5	0		5	1	6	0	
+0	0	0	A	9	0	5	0		5	2	6	0	
+0	0	0	I	9	0	5	0		8	3	3	0	
+0	0	0	R	9	0	5	0		8	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	33	T	9	6	5	1	TSIDE	5	6	5	0	
+0	0	0	S	9	6	5	0		4	7	6	0	
+0	0	0	I	9	6	5	0		7	8	4	0	
+0	0	0	D	9	6	5	0		7	9	4	0	
+0	0	0	E	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	4	0		11	0	0	0	
+0	1	34	G	10	1	4	1	GRIS	5	1	6	0	
+0	0	0	R	10	1	4	0		5	2	6	0	
+0	0	0	I	10	1	4	0		8	3	3	0	
+0	0	0	S	10	1	4	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	35	S	10	8	3	1	SID	7	8	4	0	
+0	0	0	I	10	8	3	0		7	9	4	0	
+0	0	0	D	10	8	3	0		8	10	3	0	
+19
+1	UEY	Quick turnaround, slangily
+4	CHOP	When doubled, quickly
+8	MAINE	"Remember the ___!"
+11	RABAT	North African capital
+13	PUPUPLATTER	Polynesian treat
+15	XENIA	Ohio town called the Bicycle Capital of the Midwest
+16	UAE	Abu Dhabi's fed.
+17	CSI	Top-rated TV show of 2002-3
+18	ASNO	Come ___ surprise
+19	EPICTALES	Relations of Homer?
+22	AGIO	Exchange premium
+23	INK	Calligrapher's purchase
+24	WGN	Chicago Cubs' station
+25	EGYPT	Setting of Mailer's "Ancient Evenings"
+28	ENDLESSLOOP	LOO
+32	TOAIR	Surface-___
+33	TSIDE	Up on deck
+34	GRIS	Cubism pioneer
+35	SID	Naughty boy, in "Toy Story"
+21
+1	UMP	Person in a mask
+2	EAUX	___ de vie (brandies)
+3	YIPE	"Eek!"
+4	CRA	Bow
+5	HAT	Symbol of a position
+6	OBTUSE	Slow to catch on
+7	PAEANS	Songs of thanksgiving
+9	NUNCIO	Pope's envoy
+10	EPISC	Protestant denom.
+12	TREO	Early smartphone
+14	LAITIES	Worship groups
+18	ALKYLS	Univalent chemical groups
+19	EGGNOG	Seasonal serving
+20	PINDAR	Greek poet of yore
+21	ANGST	Recurring Woody Allen theme
+22	AWET	"S
+26	POIS	Petits ___ (French peas)
+27	TODI	Umbrian tourist town
+29	LII	Number of weeks per annum
+30	ERS	Medics' destinations, for short
+31	PED	___ Xing

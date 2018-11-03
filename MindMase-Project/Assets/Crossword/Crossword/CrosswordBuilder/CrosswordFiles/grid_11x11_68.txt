@@ -1,0 +1,165 @@
+grid_11x11_68
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	E	0	2	3	1	EDU	0	2	11	1	EREISAWELBA
+0	1	2	D	0	2	3	0		0	3	3	1	DVD
+0	1	3	U	0	2	3	0		0	4	3	1	UAT
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	6	0	
+0	1	4	L	0	8	3	1	LOC	0	8	11	1	LOBSTERPOTS
+0	1	5	O	0	8	3	0		0	9	3	1	OSA
+0	1	6	C	0	8	3	0		0	10	3	1	CHA
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	7	O	1	1	5	1	ORVAL	1	1	6	1	OLDIES
+0	0	0	R	1	1	5	0		0	2	11	0	
+0	0	0	V	1	1	5	0		0	3	3	0	
+0	0	0	A	1	1	5	0		0	4	3	0	
+0	1	8	L	1	1	5	0		1	5	9	1	LOTTOGAME
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	9	R	1	7	4	1	ROSH	1	7	6	1	RACEME
+0	0	0	O	1	7	4	0		0	8	11	0	
+0	0	0	S	1	7	4	0		0	9	3	0	
+0	0	0	H	1	7	4	0		0	10	3	0	
+1	0	0	#	2	1	5	0		3	0	3	0	
+0	1	10	L	2	1	5	1	LEDTO	1	1	6	0	
+0	0	0	E	2	1	5	0		0	2	11	0	
+0	0	0	D	2	1	5	0		0	3	3	0	
+0	0	0	T	2	1	5	0		0	4	3	0	
+0	0	0	O	2	1	5	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	3	0	
+0	1	11	A	2	7	4	1	ABAA	1	7	6	0	
+0	0	0	B	2	7	4	0		0	8	11	0	
+0	0	0	A	2	7	4	0		0	9	3	0	
+0	0	0	A	2	7	4	0		0	10	3	0	
+0	1	12	M	3	0	3	1	MDI	3	0	3	1	MVP
+0	0	0	D	3	0	3	0		1	1	6	0	
+0	0	0	I	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	0	0		4	3	6	0	
+1	0	0	#	3	5	4	0		4	4	0	0	
+0	1	13	T	3	5	4	1	TECS	1	5	9	0	
+0	1	14	E	3	5	4	0		3	6	3	1	ELF
+0	0	0	C	3	5	4	0		1	7	6	0	
+0	0	0	S	3	5	4	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	V	4	0	4	1	VISA	3	0	3	0	
+0	0	0	I	4	0	4	0		1	1	6	0	
+0	0	0	S	4	0	4	0		0	2	11	0	
+0	1	16	A	4	0	4	0		4	3	6	1	ACIDLY
+1	0	0	#	4	5	5	0		5	4	3	0	
+0	1	17	T	4	5	5	1	TLETT	1	5	9	0	
+0	0	0	L	4	5	5	0		3	6	3	0	
+0	0	0	E	4	5	5	0		1	7	6	0	
+0	0	0	T	4	5	5	0		0	8	11	0	
+0	1	18	T	4	5	5	0		4	9	6	1	TESORO
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	19	P	5	0	11	1	PEACEOFMEET	3	0	3	0	
+0	0	0	E	5	0	11	0		1	1	6	0	
+0	0	0	A	5	0	11	0		0	2	11	0	
+0	0	0	C	5	0	11	0		4	3	6	0	
+0	1	20	E	5	0	11	0		5	4	3	1	END
+0	0	0	O	5	0	11	0		1	5	9	0	
+0	0	0	F	5	0	11	0		3	6	3	0	
+0	0	0	M	5	0	11	0		1	7	6	0	
+0	0	0	E	5	0	11	0		0	8	11	0	
+0	0	0	E	5	0	11	0		4	9	6	0	
+0	1	21	T	5	0	11	0		5	10	3	1	TET
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	22	S	6	1	5	1	SWING	1	1	6	0	
+0	0	0	W	6	1	5	0		0	2	11	0	
+0	0	0	I	6	1	5	0		4	3	6	0	
+0	0	0	N	6	1	5	0		5	4	3	0	
+0	0	0	G	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	4	0		7	6	0	0	
+0	1	23	E	6	7	4	1	ERSE	1	7	6	0	
+0	0	0	R	6	7	4	0		0	8	11	0	
+0	0	0	S	6	7	4	0		4	9	6	0	
+0	0	0	E	6	7	4	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	4	0		8	1	3	0	
+0	1	24	E	7	2	4	1	EDDA	0	2	11	0	
+0	0	0	D	7	2	4	0		4	3	6	0	
+0	0	0	D	7	2	4	0		5	4	3	0	
+0	0	0	A	7	2	4	0		1	5	9	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	25	P	7	8	3	1	POT	0	8	11	0	
+0	0	0	O	7	8	3	0		4	9	6	0	
+0	0	0	T	7	8	3	0		5	10	3	0	
+0	1	26	D	8	0	4	1	DOLL	8	0	3	1	DAN
+0	1	27	O	8	0	4	0		8	1	3	1	OBI
+0	0	0	L	8	0	4	0		0	2	11	0	
+0	0	0	L	8	0	4	0		4	3	6	0	
+1	0	0	#	8	5	5	0		9	4	0	0	
+0	1	28	M	8	5	5	1	MOTOR	1	5	9	0	
+0	1	29	O	8	5	5	0		8	6	3	1	ONS
+0	1	30	T	8	5	5	0		8	7	3	1	TDS
+0	0	0	O	8	5	5	0		0	8	11	0	
+0	0	0	R	8	5	5	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	31	A	9	0	4	1	ABBY	8	0	3	0	
+0	0	0	B	9	0	4	0		8	1	3	0	
+0	0	0	B	9	0	4	0		0	2	11	0	
+0	0	0	Y	9	0	4	0		4	3	6	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	32	E	9	5	5	1	ENDTO	1	5	9	0	
+0	0	0	N	9	5	5	0		8	6	3	0	
+0	0	0	D	9	5	5	0		8	7	3	0	
+0	0	0	T	9	5	5	0		0	8	11	0	
+0	0	0	O	9	5	5	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	33	N	10	0	3	1	NIA	8	0	3	0	
+0	0	0	I	10	0	3	0		8	1	3	0	
+0	0	0	A	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	3	0		11	5	0	0	
+0	1	34	S	10	6	3	1	SSS	8	6	3	0	
+0	0	0	S	10	6	3	0		8	7	3	0	
+0	0	0	S	10	6	3	0		0	8	11	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	EDU	College Web site suffix
+4	LOC	Footnote abbr.
+7	ORVAL	Gov. Faubus in Arkansas history
+9	ROSH	___ Hashana
+10	LEDTO	Caused
+11	ABAA	Simple quatrain form
+12	MDI	Start of the 16th century
+13	TECS	Shadows
+15	VISA	Something that's stamped
+17	TLETT	Pear variety
+19	PEACEOFMEET	Calm at a wrestling match?
+22	SWING	Big Band music
+23	ERSE	Highlands tongue
+24	EDDA	Classic literary work
+25	POT	Flower holder
+26	DOLL	Raggedy Ann, e.g.
+28	MOTOR	First part
+31	ABBY	Apt name for a nun?
+32	ENDTO	Put an ___ (halt)
+33	NIA	Actress Peeples or Long
+34	SSS	Snake's sound
+19
+1	EREISAWELBA	End of a Napoleonic palindrome
+2	DVD	Something that's burned
+3	UAT	Awake by
+4	LOBSTERPOTS	Traps off the coast of Maine
+5	OSA	Explorer Johnson
+6	CHA	Part of a repeated dance movement
+7	OLDIES	Doo-wop hits, e.g.
+8	LOTTOGAME	Old costume that enters a contest like bingo?
+9	RACEME	Simple inflorescence, as in a lily of the valley
+12	MVP	Shooting star, briefly?
+14	ELF	___-child (changeling)
+16	ACIDLY	With vitriol
+18	TESORO	Cache in the Sierra Madre
+20	END	Denouement
+21	TET	Asian New Year's festival
+26	DAN	Vice president Quayle
+27	OBI	"The Mikado" wardrobe item
+29	ONS	Follower of add, slip or come
+30	TDS	Grid goals, for short

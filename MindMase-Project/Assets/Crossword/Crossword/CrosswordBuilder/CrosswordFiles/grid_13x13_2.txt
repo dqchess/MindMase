@@ -1,0 +1,235 @@
+grid_13x13_2
+13
+0	1	1	R	0	0	3	1	RAO	0	0	3	1	RYE
+0	1	2	A	0	0	3	0		0	1	4	1	AUNT
+0	1	3	O	0	0	3	0		0	2	13	1	OLDFUDDYDUDDY
+1	0	0	#	0	4	5	0		1	3	0	0	
+0	1	4	G	0	4	5	1	GONOW	0	4	3	1	GIF
+0	1	5	O	0	4	5	0		0	5	7	1	OLDPROS
+0	1	6	N	0	4	5	0		0	6	4	1	NEER
+0	1	7	O	0	4	5	0		0	7	4	1	ONCE
+0	1	8	W	0	4	5	0		0	8	3	1	WEE
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	9	M	0	10	3	1	MEA	0	10	13	1	MOBILEALABAMA
+0	1	10	E	0	10	3	0		0	11	8	1	EYESORES
+0	1	11	A	0	10	3	0		0	12	3	1	AER
+0	1	12	Y	1	0	3	1	YUL	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	4	0	
+0	0	0	L	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	13	I	1	4	5	1	ILENE	0	4	3	0	
+0	0	0	L	1	4	5	0		0	5	7	0	
+0	0	0	E	1	4	5	0		0	6	4	0	
+0	0	0	N	1	4	5	0		0	7	4	0	
+0	0	0	E	1	4	5	0		0	8	3	0	
+1	0	0	#	1	10	3	0		2	9	4	0	
+0	1	14	O	1	10	3	1	OYE	0	10	13	0	
+0	0	0	Y	1	10	3	0		0	11	8	0	
+0	0	0	E	1	10	3	0		0	12	3	0	
+0	1	15	E	2	0	13	1	ENDOFDECEMBER	0	0	3	0	
+0	0	0	N	2	0	13	0		0	1	4	0	
+0	0	0	D	2	0	13	0		0	2	13	0	
+0	1	16	O	2	0	13	0		2	3	3	1	OXX
+0	0	0	F	2	0	13	0		0	4	3	0	
+0	0	0	D	2	0	13	0		0	5	7	0	
+0	0	0	E	2	0	13	0		0	6	4	0	
+0	0	0	C	2	0	13	0		0	7	4	0	
+0	0	0	E	2	0	13	0		0	8	3	0	
+0	1	17	M	2	0	13	0		2	9	4	1	MEAS
+0	0	0	B	2	0	13	0		0	10	13	0	
+0	0	0	E	2	0	13	0		0	11	8	0	
+0	0	0	R	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	18	T	3	1	3	1	TFX	0	1	4	0	
+0	0	0	F	3	1	3	0		0	2	13	0	
+0	0	0	X	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	3	0		4	4	4	0	
+0	1	19	P	3	5	3	1	PRE	0	5	7	0	
+0	0	0	R	3	5	3	0		0	6	4	0	
+0	0	0	E	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	3	0		4	8	0	0	
+0	1	20	E	3	9	3	1	EIS	2	9	4	0	
+0	0	0	I	3	9	3	0		0	10	13	0	
+0	0	0	S	3	9	3	0		0	11	8	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	4	0		5	1	8	0	
+0	1	21	U	4	2	4	1	UXOR	0	2	13	0	
+0	0	0	X	4	2	4	0		2	3	3	0	
+0	1	22	O	4	2	4	0		4	4	4	1	ODAY
+0	0	0	R	4	2	4	0		0	5	7	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	3	0		5	8	4	0	
+0	1	23	A	4	9	3	1	ALO	2	9	4	0	
+0	0	0	L	4	9	3	0		0	10	13	0	
+0	0	0	O	4	9	3	0		0	11	8	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	24	D	5	0	3	1	DID	5	0	3	1	DIT
+0	1	25	I	5	0	3	0		5	1	8	1	INHUMANE
+0	0	0	D	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	26	D	5	4	3	1	DOE	4	4	4	0	
+0	0	0	O	5	4	3	0		0	5	7	0	
+0	1	27	E	5	4	3	0		5	6	3	1	EYE
+1	0	0	#	5	8	5	0		6	7	7	0	
+0	1	28	I	5	8	5	1	ISERE	5	8	4	1	ITSA
+0	0	0	S	5	8	5	0		2	9	4	0	
+0	0	0	E	5	8	5	0		0	10	13	0	
+0	0	0	R	5	8	5	0		0	11	8	0	
+0	1	29	E	5	8	5	0		5	12	3	1	EFT
+0	1	30	I	6	0	3	1	IND	5	0	3	0	
+0	0	0	N	6	0	3	0		5	1	8	0	
+0	0	0	D	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	4	0	
+0	1	31	A	6	4	5	1	ASYET	4	4	4	0	
+0	0	0	S	6	4	5	0		0	5	7	0	
+0	0	0	Y	6	4	5	0		5	6	3	0	
+0	1	32	E	6	4	5	0		6	7	7	1	ENSUING
+0	0	0	T	6	4	5	0		5	8	4	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	33	A	6	10	3	1	AEF	0	10	13	0	
+0	0	0	E	6	10	3	0		0	11	8	0	
+0	0	0	F	6	10	3	0		5	12	3	0	
+0	1	34	T	7	0	5	1	THYMY	5	0	3	0	
+0	0	0	H	7	0	5	0		5	1	8	0	
+0	0	0	Y	7	0	5	0		0	2	13	0	
+0	1	35	M	7	0	5	0		7	3	4	1	MOSC
+0	0	0	Y	7	0	5	0		4	4	4	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	36	E	7	6	3	1	ENS	5	6	3	0	
+0	0	0	N	7	6	3	0		6	7	7	0	
+0	0	0	S	7	6	3	0		5	8	4	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	37	L	7	10	3	1	LST	0	10	13	0	
+0	0	0	S	7	10	3	0		0	11	8	0	
+0	0	0	T	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	38	U	8	1	3	1	UDO	5	1	8	0	
+0	0	0	D	8	1	3	0		0	2	13	0	
+0	0	0	O	8	1	3	0		7	3	4	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	4	0		9	6	4	0	
+0	1	39	S	8	7	4	1	SARA	6	7	7	0	
+0	0	0	A	8	7	4	0		5	8	4	0	
+0	1	40	R	8	7	4	0		8	9	3	1	RIE
+0	0	0	A	8	7	4	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	41	M	9	1	3	1	MUS	5	1	8	0	
+0	0	0	U	9	1	3	0		0	2	13	0	
+0	0	0	S	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	42	E	9	5	3	1	ECU	9	5	4	1	EWES
+0	1	43	C	9	5	3	0		9	6	4	1	CDII
+0	0	0	U	9	5	3	0		6	7	7	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	44	I	9	9	3	1	IBA	8	9	3	0	
+0	0	0	B	9	9	3	0		0	10	13	0	
+0	1	45	A	9	9	3	0		9	11	4	1	ASON
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	M	10	0	13	1	MADCOWDISEASE	10	0	3	1	MAT
+0	0	0	A	10	0	13	0		5	1	8	0	
+0	0	0	D	10	0	13	0		0	2	13	0	
+0	0	0	C	10	0	13	0		7	3	4	0	
+0	1	47	O	10	0	13	0		10	4	3	1	ORV
+0	0	0	W	10	0	13	0		9	5	4	0	
+0	0	0	D	10	0	13	0		9	6	4	0	
+0	0	0	I	10	0	13	0		6	7	7	0	
+0	1	48	S	10	0	13	0		10	8	3	1	SSN
+0	0	0	E	10	0	13	0		8	9	3	0	
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	0	0	S	10	0	13	0		9	11	4	0	
+0	1	49	E	10	0	13	0		10	12	3	1	EEN
+0	1	50	A	11	0	3	1	AND	10	0	3	0	
+0	0	0	N	11	0	3	0		5	1	8	0	
+0	0	0	D	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	5	0		12	3	0	0	
+0	1	51	R	11	4	5	1	REINS	10	4	3	0	
+0	0	0	E	11	4	5	0		9	5	4	0	
+0	0	0	I	11	4	5	0		9	6	4	0	
+0	0	0	N	11	4	5	0		6	7	7	0	
+0	0	0	S	11	4	5	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	M	11	10	3	1	MOE	0	10	13	0	
+0	0	0	O	11	10	3	0		9	11	4	0	
+0	0	0	E	11	10	3	0		10	12	3	0	
+0	1	53	T	12	0	3	1	TEY	10	0	3	0	
+0	0	0	E	12	0	3	0		5	1	8	0	
+0	0	0	Y	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	5	0		13	3	0	0	
+0	1	54	V	12	4	5	1	VSIGN	10	4	3	0	
+0	0	0	S	12	4	5	0		9	5	4	0	
+0	0	0	I	12	4	5	0		9	6	4	0	
+0	0	0	G	12	4	5	0		6	7	7	0	
+0	0	0	N	12	4	5	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	A	12	10	3	1	ANN	0	10	13	0	
+0	0	0	N	12	10	3	0		9	11	4	0	
+0	0	0	N	12	10	3	0		10	12	3	0	
+33
+1	RAO	Raja ___, "The Serpent and the Rope" novelist
+4	GONOW	1965 Moody Blues hit
+9	MEA	Pronoun for Pliny
+12	YUL	First name in 1950's Broadway
+13	ILENE	Graff of stage and screen
+14	OYE	"___ of little faith ..."
+15	ENDOFDECEMBER	*Week after Christmas
+18	TFX	Summer, in France
+19	PRE	Lead-in to wash
+20	EIS	Rhein blocker
+21	UXOR	Wife, in legalese
+23	ALO	Santo Domingo greeting
+24	DID	Carried out
+26	DOE	She's a deer
+28	ISERE	River through the Savoy Alps
+30	IND	N.Y.C. subway
+31	ASYET	Up to the present
+33	AEF	W.W. I military grp.
+34	THYMY	Like Manhattan clam chowder
+36	ENS	Half-inch stripe wearer: Abbr.
+37	LST	Omaha Beach craft, for short
+38	UDO	Widmark's role in "Kiss of Death"
+39	SARA	Title sister played by Shirley MacLaine, 1970
+41	MUS	High school dept.
+42	ECU	Euro predecessor
+44	IBA	Hall-of-Fame basketball coach Hank
+46	MADCOWDISEASE	Meat-ban cause
+50	AND	Common conjunction
+51	REINS	They hold their horses
+52	MOE	"Calvin and Hobbes" bully
+53	TEY	"The Daughter of Time" author
+54	VSIGN	Churchill gesture
+55	ANN	Arbor leader
+29
+1	RYE	Manhattan ingredient
+2	AUNT	Family member
+3	OLDFUDDYDUDDY	Stuffy sort
+4	GIF	Computer file suffix
+5	OLDPROS	Veterans
+6	NEER	Literary adverb
+7	ONCE	On a single occasion
+8	WEE	Lilliputian
+9	MOBILEALABAMA	*Hank Aaron's hometown
+10	EYESORES	Dumps
+11	AER	Cousin of atmo-
+16	OXX	Tic-tac-toe loser
+17	MEAS	Tsp. or tbsp.
+22	ODAY	Anita who sang "Is You Is or Is You Ain't My Baby"
+24	DIT	Morse minimum
+25	INHUMANE	Sadistic
+27	EYE	Pupil's spot
+28	ITSA	"___ New World" (Arlen/Gershwin song)
+29	EFT	Newt-born?
+32	ENSUING	Subsequent
+35	MOSC	Its coat of arms features a horseman spearing a dragon
+40	RIE	Beginner
+42	EWES	Farm females
+43	CDII	Year of the Battle of Pollentia
+45	ASON	"...and shall bring forth ___": Matt.
+46	MAT	Place for a hammerlock
+47	ORV	One of the Wright brothers, for short
+48	SSN	Form W-9 info: Abbr.
+49	EEN	"Horatio, thou art ___ as just a man ..."

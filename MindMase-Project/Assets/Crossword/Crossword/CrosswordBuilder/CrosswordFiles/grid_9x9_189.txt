@@ -1,0 +1,115 @@
+grid_9x9_189
+9
+0	1	1	L	0	0	3	1	LAG	0	0	3	1	LGA
+0	1	2	A	0	0	3	0		0	1	4	1	ARCH
+0	1	3	G	0	0	3	0		0	2	4	1	GIRO
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	W	0	6	3	1	WPM	0	6	4	1	WABE
+0	1	5	P	0	6	3	0		0	7	4	1	PLOD
+0	1	6	M	0	6	3	0		0	8	3	1	MSU
+0	1	7	G	1	0	5	1	GRIPE	0	0	3	0	
+0	0	0	R	1	0	5	0		0	1	4	0	
+0	0	0	I	1	0	5	0		0	2	4	0	
+0	1	8	P	1	0	5	0		1	3	5	1	PINTO
+0	1	9	E	1	0	5	0		1	4	7	1	EDOMITE
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	A	1	6	3	1	ALS	0	6	4	0	
+0	0	0	L	1	6	3	0		0	7	4	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	11	A	2	0	5	1	ACRID	0	0	3	0	
+0	0	0	C	2	0	5	0		0	1	4	0	
+0	0	0	R	2	0	5	0		0	2	4	0	
+0	0	0	I	2	0	5	0		1	3	5	0	
+0	0	0	D	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	5	0	
+0	1	12	B	2	6	3	1	BOU	0	6	4	0	
+0	0	0	O	2	6	3	0		0	7	4	0	
+0	0	0	U	2	6	3	0		0	8	3	0	
+1	0	0	#	3	1	7	0		4	0	0	0	
+0	1	13	H	3	1	7	1	HONORED	0	1	4	0	
+0	0	0	O	3	1	7	0		0	2	4	0	
+0	0	0	N	3	1	7	0		1	3	5	0	
+0	0	0	O	3	1	7	0		1	4	7	0	
+0	1	14	R	3	1	7	0		3	5	5	1	RINSE
+0	0	0	E	3	1	7	0		0	6	4	0	
+0	0	0	D	3	1	7	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	T	4	3	3	1	TMI	1	3	5	0	
+0	0	0	M	4	3	3	0		1	4	7	0	
+0	0	0	I	4	3	3	0		3	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	7	0		6	0	3	0	
+0	1	16	A	5	1	7	1	ANOINTS	5	1	4	1	ALIF
+0	1	17	N	5	1	7	0		5	2	4	1	NIPS
+0	0	0	O	5	1	7	0		1	3	5	0	
+0	0	0	I	5	1	7	0		1	4	7	0	
+0	0	0	N	5	1	7	0		3	5	5	0	
+0	1	18	T	5	1	7	0		5	6	4	1	TERN
+0	1	19	S	5	1	7	0		5	7	4	1	STIS
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	D	6	0	3	1	DLI	6	0	3	1	DYE
+0	0	0	L	6	0	3	0		5	1	4	0	
+0	0	0	I	6	0	3	0		5	2	4	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	21	T	6	4	5	1	TSETS	1	4	7	0	
+0	0	0	S	6	4	5	0		3	5	5	0	
+0	0	0	E	6	4	5	0		5	6	4	0	
+0	0	0	T	6	4	5	0		5	7	4	0	
+0	1	22	S	6	4	5	0		6	8	3	1	SEC
+0	1	23	Y	7	0	3	1	YIP	6	0	3	0	
+0	0	0	I	7	0	3	0		5	1	4	0	
+0	0	0	P	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	E	7	4	5	1	EERIE	1	4	7	0	
+0	0	0	E	7	4	5	0		3	5	5	0	
+0	0	0	R	7	4	5	0		5	6	4	0	
+0	0	0	I	7	4	5	0		5	7	4	0	
+0	0	0	E	7	4	5	0		6	8	3	0	
+0	1	25	E	8	0	3	1	EFS	6	0	3	0	
+0	0	0	F	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	N	8	6	3	1	NSC	5	6	4	0	
+0	0	0	S	8	6	3	0		5	7	4	0	
+0	0	0	C	8	6	3	0		6	8	3	0	
+15
+1	LAG	Time off?
+4	WPM	Typing speed stat.
+7	GRIPE	Grouse
+10	ALS	Unser and son
+11	ACRID	Caustic
+12	BOU	"Cat ___," 1965 film
+13	HONORED	Like some guests
+15	TMI	"I don't need to hear that!," informally
+16	ANOINTS	Chooses formally
+20	DLI	Year in Justinian I's reign
+21	TSETS	Need for the winner of a Wimbledon men's match
+23	YIP	Little bark
+24	EERIE	Bone-chilling
+25	EFS	Flunking grades
+26	NSC	Iran-Contra grp.
+15
+1	LGA	N.Y.C. airport
+2	ARCH	Ogee, e.g.
+3	GIRO	Copter's forerunner
+4	WABE	"...gimble in the ___": Carroll
+5	PLOD	Work monotonously
+6	MSU	East Lansing sch.
+8	PINTO	Two-color horse
+9	EDOMITE	Ancient Negev dweller
+14	RINSE	Shampoo instruction
+16	ALIF	Mideast leader?
+17	NIPS	Just beats
+18	TERN	Cousin of a gull
+19	STIS	Boonies
+20	DYE	Roots may need this
+22	SEC	Heartbeat

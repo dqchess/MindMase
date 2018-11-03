@@ -1,0 +1,113 @@
+grid_9x9_16
+9
+0	1	1	T	0	0	3	1	TWO	0	0	3	1	TAU
+0	1	2	W	0	0	3	0		0	1	3	1	WPA
+0	1	3	O	0	0	3	0		0	2	9	1	OILCRISIS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	M	0	5	3	1	MIO	0	5	6	1	MANAEE
+0	1	5	I	0	5	3	0		0	6	9	1	IRONEDOUT
+0	1	6	O	0	5	3	0		0	7	5	1	OAKEN
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	A	1	0	3	1	API	0	0	3	0	
+0	0	0	P	1	0	3	0		0	1	3	0	
+0	0	0	I	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	S	1	4	5	1	SARAT	1	4	7	1	SEESRED
+0	0	0	A	1	4	5	0		0	5	6	0	
+0	0	0	R	1	4	5	0		0	6	9	0	
+0	0	0	A	1	4	5	0		0	7	5	0	
+0	1	9	T	1	4	5	0		1	8	3	1	TID
+0	1	10	U	2	0	3	1	UAL	0	0	3	0	
+0	0	0	A	2	0	3	0		0	1	3	0	
+0	0	0	L	2	0	3	0		0	2	9	0	
+1	0	0	#	2	4	5	0		3	3	6	0	
+0	1	11	E	2	4	5	1	ENOKI	1	4	7	0	
+0	0	0	N	2	4	5	0		0	5	6	0	
+0	0	0	O	2	4	5	0		0	6	9	0	
+0	0	0	K	2	4	5	0		0	7	5	0	
+0	0	0	I	2	4	5	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	7	0		4	1	5	0	
+0	1	12	C	3	2	7	1	CLEANED	0	2	9	0	
+0	1	13	L	3	2	7	0		3	3	6	1	LETSAT
+0	0	0	E	3	2	7	0		1	4	7	0	
+0	0	0	A	3	2	7	0		0	5	6	0	
+0	0	0	N	3	2	7	0		0	6	9	0	
+0	0	0	E	3	2	7	0		0	7	5	0	
+0	0	0	D	3	2	7	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	14	P	4	1	7	1	PRESEEN	4	1	5	1	PAULA
+0	0	0	R	4	1	7	0		0	2	9	0	
+0	0	0	E	4	1	7	0		3	3	6	0	
+0	0	0	S	4	1	7	0		1	4	7	0	
+0	0	0	E	4	1	7	0		0	5	6	0	
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	N	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	15	M	5	0	7	1	MAITRED	5	0	3	1	MRI
+0	0	0	A	5	0	7	0		4	1	5	0	
+0	0	0	I	5	0	7	0		0	2	9	0	
+0	0	0	T	5	0	7	0		3	3	6	0	
+0	0	0	R	5	0	7	0		1	4	7	0	
+0	0	0	E	5	0	7	0		0	5	6	0	
+0	0	0	D	5	0	7	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	16	R	6	0	5	1	RUSSE	5	0	3	0	
+0	0	0	U	6	0	5	0		4	1	5	0	
+0	0	0	S	6	0	5	0		0	2	9	0	
+0	0	0	S	6	0	5	0		3	3	6	0	
+0	0	0	E	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	17	O	6	6	3	1	OSA	0	6	9	0	
+0	1	18	S	6	6	3	0		6	7	3	1	SUB
+0	1	19	A	6	6	3	0		6	8	3	1	AUS
+0	1	20	I	7	0	5	1	ILIAD	5	0	3	0	
+0	0	0	L	7	0	5	0		4	1	5	0	
+0	0	0	I	7	0	5	0		0	2	9	0	
+0	0	0	A	7	0	5	0		3	3	6	0	
+0	0	0	D	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	21	U	7	6	3	1	UUU	0	6	9	0	
+0	0	0	U	7	6	3	0		6	7	3	0	
+0	0	0	U	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	22	A	8	1	3	1	AST	4	1	5	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	T	8	1	3	0		3	3	6	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	23	T	8	6	3	1	TBS	0	6	9	0	
+0	0	0	B	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+15
+1	TWO	What it takes to tango
+4	MIO	Puccini's "O ___ babbino caro"
+7	API	Bee: Prefix
+8	SARAT	Suspect foul play
+10	UAL	Delta competitor: Abbr.
+11	ENOKI	Japanese mushroom
+12	CLEANED	Spick-and-span, now
+14	PRESEEN	Screened, as a patient
+15	MAITRED	Busing overseer
+16	RUSSE	Stravinsky's "Scherzo 
+17	OSA	She-bear: Sp.
+20	ILIAD	It's a long story
+21	UUU	Familiar Olympics chant
+22	AST	Labrador hrs.
+23	TBS	Atlanta Braves' longtime network
+13
+1	TAU	Follower of sigma
+2	WPA	New Deal inits.
+3	OILCRISIS	Emergency of 1973 or 1979
+4	MANAEE	Dugong's cousin
+5	IRONEDOUT	Smoothed
+6	OAKEN	Of durable wood
+8	SEESRED	Fumes
+9	TID	Three times a day, on an Rx
+13	LETSAT	Sics on
+14	PAULA	Singer Abdul
+15	MRI	3-D exam
+18	SUB	Pinch hitter
+19	AUS	Neighbor of Ger.

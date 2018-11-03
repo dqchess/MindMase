@@ -1,0 +1,233 @@
+grid_13x13_155
+13
+0	1	1	I	0	0	3	1	ICE	0	0	3	1	IED
+0	1	2	C	0	0	3	0		0	1	8	1	CRAPGAME
+0	1	3	E	0	0	3	0		0	2	13	1	ERRATICTHERED
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	L	0	4	3	1	LOT	0	4	3	1	LAM
+0	1	5	O	0	4	3	0		0	5	3	1	OTO
+0	1	6	T	0	4	3	0		0	6	4	1	THUS
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	5	0	
+0	1	7	T	0	10	3	1	TCI	0	10	13	1	THANKNOWLEDGE
+0	1	8	C	0	10	3	0		0	11	4	1	CINE
+0	1	9	I	0	10	3	0		0	12	3	1	IOS
+0	1	10	E	1	0	3	1	ERR	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	8	0	
+0	0	0	R	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	11	A	1	4	4	1	ATHS	0	4	3	0	
+0	0	0	T	1	4	4	0		0	5	3	0	
+0	0	0	H	1	4	4	0		0	6	4	0	
+0	1	12	S	1	4	4	0		1	7	3	1	STL
+1	0	0	#	1	9	4	0		2	8	7	0	
+0	1	13	O	1	9	4	1	OHIO	1	9	5	1	OFAIR
+0	0	0	H	1	9	4	0		0	10	13	0	
+0	0	0	I	1	9	4	0		0	11	4	0	
+0	0	0	O	1	9	4	0		0	12	3	0	
+0	1	14	D	2	0	13	1	DARTMOUTHFANS	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	8	0	
+0	0	0	R	2	0	13	0		0	2	13	0	
+0	1	15	T	2	0	13	0		2	3	3	1	TKO
+0	0	0	M	2	0	13	0		0	4	3	0	
+0	0	0	O	2	0	13	0		0	5	3	0	
+0	0	0	U	2	0	13	0		0	6	4	0	
+0	0	0	T	2	0	13	0		1	7	3	0	
+0	1	16	H	2	0	13	0		2	8	7	1	HORIZON
+0	0	0	F	2	0	13	0		1	9	5	0	
+0	0	0	A	2	0	13	0		0	10	13	0	
+0	0	0	N	2	0	13	0		0	11	4	0	
+0	0	0	S	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	3	0		4	0	3	0	
+0	1	17	P	3	1	3	1	PAK	0	1	8	0	
+0	0	0	A	3	1	3	0		0	2	13	0	
+0	0	0	K	3	1	3	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	7	0	
+1	0	0	#	3	6	6	0		4	5	3	0	
+0	1	18	S	3	6	6	1	SLOANE	0	6	4	0	
+0	0	0	L	3	6	6	0		1	7	3	0	
+0	0	0	O	3	6	6	0		2	8	7	0	
+0	0	0	A	3	6	6	0		1	9	5	0	
+0	0	0	N	3	6	6	0		0	10	13	0	
+0	0	0	E	3	6	6	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	19	N	4	0	6	1	NGTODV	4	0	3	1	NRA
+0	0	0	G	4	0	6	0		0	1	8	0	
+0	0	0	T	4	0	6	0		0	2	13	0	
+0	0	0	O	4	0	6	0		2	3	3	0	
+0	1	20	D	4	0	6	0		4	4	7	1	DELTOID
+0	1	21	V	4	0	6	0		4	5	3	1	VAC
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	22	R	4	8	3	1	RIK	2	8	7	0	
+0	0	0	I	4	8	3	0		1	9	5	0	
+0	0	0	K	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	8	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	23	R	5	0	3	1	RAI	4	0	3	0	
+0	0	0	A	5	0	3	0		0	1	8	0	
+0	0	0	I	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	24	E	5	4	3	1	EAU	4	4	7	0	
+0	0	0	A	5	4	3	0		4	5	3	0	
+0	1	25	U	5	4	3	0		5	6	3	1	UEA
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	26	I	5	8	4	1	IRNA	2	8	7	0	
+0	0	0	R	5	8	4	0		1	9	5	0	
+0	0	0	N	5	8	4	0		0	10	13	0	
+0	1	27	A	5	8	4	0		5	11	8	1	ASTAIRES
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	A	6	0	3	1	AMC	4	0	3	0	
+0	0	0	M	6	0	3	0		0	1	8	0	
+0	0	0	C	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	29	L	6	4	5	1	LCESZ	4	4	7	0	
+0	0	0	C	6	4	5	0		4	5	3	0	
+0	0	0	E	6	4	5	0		5	6	3	0	
+0	1	30	S	6	4	5	0		6	7	3	1	STD
+0	0	0	Z	6	4	5	0		2	8	7	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	O	6	10	3	1	OSS	0	10	13	0	
+0	0	0	S	6	10	3	0		5	11	8	0	
+0	1	32	S	6	10	3	0		6	12	3	1	SOB
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	33	E	7	1	4	1	ETAT	0	1	8	0	
+0	0	0	T	7	1	4	0		0	2	13	0	
+0	1	34	A	7	1	4	0		7	3	5	1	ATEIN
+0	0	0	T	7	1	4	0		4	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	35	A	7	6	3	1	ATO	5	6	3	0	
+0	0	0	T	7	6	3	0		6	7	3	0	
+0	0	0	O	7	6	3	0		2	8	7	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	36	W	7	10	3	1	WTO	0	10	13	0	
+0	0	0	T	7	10	3	0		5	11	8	0	
+0	0	0	O	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	37	H	8	2	3	1	HTO	0	2	13	0	
+0	0	0	T	8	2	3	0		7	3	5	0	
+0	0	0	O	8	2	3	0		4	4	7	0	
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	38	D	8	7	6	1	DNALAB	6	7	3	0	
+0	0	0	N	8	7	6	0		2	8	7	0	
+0	1	39	A	8	7	6	0		8	9	3	1	ARA
+0	0	0	L	8	7	6	0		0	10	13	0	
+0	0	0	A	8	7	6	0		5	11	8	0	
+0	0	0	B	8	7	6	0		6	12	3	0	
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	40	T	9	1	6	1	TEEING	9	1	4	1	TRIO
+0	0	0	E	9	1	6	0		0	2	13	0	
+0	0	0	E	9	1	6	0		7	3	5	0	
+0	0	0	I	9	1	6	0		4	4	7	0	
+0	1	41	N	9	1	6	0		9	5	3	1	NEN
+0	1	42	G	9	1	6	0		9	6	4	1	GXMJ
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	43	R	9	9	3	1	REI	8	9	3	0	
+0	0	0	E	9	9	3	0		0	10	13	0	
+0	0	0	I	9	9	3	0		5	11	8	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	A	10	0	13	1	ARRIDEXTRADRY	10	0	3	1	ARM
+0	0	0	R	10	0	13	0		9	1	4	0	
+0	0	0	R	10	0	13	0		0	2	13	0	
+0	0	0	I	10	0	13	0		7	3	5	0	
+0	0	0	D	10	0	13	0		4	4	7	0	
+0	0	0	E	10	0	13	0		9	5	3	0	
+0	0	0	X	10	0	13	0		9	6	4	0	
+0	1	45	T	10	0	13	0		10	7	3	1	TED
+0	1	46	R	10	0	13	0		10	8	3	1	RXS
+0	0	0	A	10	0	13	0		8	9	3	0	
+0	0	0	D	10	0	13	0		0	10	13	0	
+0	0	0	R	10	0	13	0		5	11	8	0	
+0	1	47	Y	10	0	13	0		10	12	3	1	YES
+0	1	48	R	11	0	4	1	RIEN	10	0	3	0	
+0	0	0	I	11	0	4	0		9	1	4	0	
+0	0	0	E	11	0	4	0		0	2	13	0	
+0	0	0	N	11	0	4	0		7	3	5	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	49	N	11	5	4	1	NMEX	9	5	3	0	
+0	0	0	M	11	5	4	0		9	6	4	0	
+0	0	0	E	11	5	4	0		10	7	3	0	
+0	0	0	X	11	5	4	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	G	11	10	3	1	GEE	0	10	13	0	
+0	0	0	E	11	10	3	0		5	11	8	0	
+0	0	0	E	11	10	3	0		10	12	3	0	
+0	1	51	M	12	0	3	1	MOD	10	0	3	0	
+0	0	0	O	12	0	3	0		9	1	4	0	
+0	0	0	D	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	52	J	12	6	3	1	JDS	9	6	4	0	
+0	0	0	D	12	6	3	0		10	7	3	0	
+0	0	0	S	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	E	12	10	3	1	ESS	0	10	13	0	
+0	0	0	S	12	10	3	0		5	11	8	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+31
+1	ICE	Hotel freebie
+4	LOT	It's up for auction
+7	TCI	Cable giant, for short
+10	ERR	Make muffs
+11	ATHS	Jocks: Abbr.
+13	OHIO	Athens's setting
+14	DARTMOUTHFANS	Ivy League rooters in green
+17	PAK	Afg. neighbor
+18	SLOANE	London's ___ Square
+19	NGTODV	Come forth
+22	RIK	N.B.A.'er Smits, a k a the Dunkin' Dutchman
+23	RAI	Historic Heyerdahl craft
+24	EAU	Fontaine filler
+26	IRNA	Soap opera creator Phillips
+28	AMC	Car co. bought by Chrysler
+29	LCESZ	Hate
+31	OSS	Old spy org.
+33	ETAT	Homme d'___
+35	ATO	___-Z
+36	WTO	GATT successor
+37	HTO	Water
+38	DNALAB	Paternity testing locale
+40	TEEING	Getting ready, with "up"
+43	REI	Defendants, legally
+44	ARRIDEXTRADRY	Secret competitor
+48	RIEN	Nothing, in Paris
+49	NMEX	Ariz. neighbor
+50	GEE	Word before "I don't know"
+51	MOD	60's style
+52	JDS	Law firm hirees, for short
+53	ESS	Head of state?
+29
+1	IED	Roadside bomb, for short
+2	CRAPGAME	Shooting match?
+3	ERRATICTHERED	Nickname for an unpredictable Communist?
+4	LAM	Prison break, e.g.
+5	OTO	Plains folk
+6	THUS	As follows
+7	THANKNOWLEDGE	End of the quote
+8	CINE	Art movie theater
+9	IOS	Cyclades island
+12	STL	The Gateway to the West: Abbr.
+13	OFAIR	Have a change ___
+15	TKO	Ring outcome, briefly
+16	HORIZON	O'Neill's "Beyond the ___"
+19	NRA	Colt's fans, for short?
+20	DELTOID	Muscle named for its shape
+21	VAC	Hoover, briefly
+25	UEA	Pupil's place
+27	ASTAIRES	Old dancing duo
+30	STD	The usual: Abbr.
+32	SOB	Word with sister or story
+34	ATEIN	Had a home-cooked meal
+39	ARA	Parseghian of Notre Dame
+40	TRIO	Jazz group, often
+41	NEN	Relief pitcher Robb
+42	GXMJ	Go bad
+44	ARM	Part of a blouse
+45	TED	Newsman Koppel
+46	RXS	Prescriptions, for short
+47	YES	"Of course"

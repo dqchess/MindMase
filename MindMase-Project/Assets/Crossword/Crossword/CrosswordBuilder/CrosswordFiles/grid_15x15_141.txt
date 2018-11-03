@@ -1,0 +1,307 @@
+grid_15x15_141
+15
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	3	0	
+0	1	1	B	0	2	3	1	BHT	0	2	15	1	BATTINGPRACTICE
+0	1	2	H	0	2	3	0		0	3	6	1	HITEST
+0	1	3	T	0	2	3	0		0	4	3	1	TSE
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	L	0	7	3	1	LIB	0	7	4	1	LOON
+0	1	5	I	0	7	3	0		0	8	6	1	INCUBI
+0	1	6	B	0	7	3	0		0	9	3	1	BEK
+1	0	0	#	0	11	0	0		1	10	4	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	Y	0	12	3	1	YUL	0	12	15	1	YANKEEINGENUITY
+0	1	8	U	0	12	3	0		0	13	3	1	UTZ
+0	1	9	L	0	12	3	0		0	14	3	1	LAZ
+0	1	10	B	1	0	11	1	BRAISEMONEY	1	0	3	1	BBH
+0	1	11	R	1	0	11	0		1	1	3	1	REI
+0	0	0	A	1	0	11	0		0	2	15	0	
+0	0	0	I	1	0	11	0		0	3	6	0	
+0	0	0	S	1	0	11	0		0	4	3	0	
+0	1	12	E	1	0	11	0		1	5	3	1	ERR
+0	1	13	M	1	0	11	0		1	6	3	1	MLE
+0	0	0	O	1	0	11	0		0	7	4	0	
+0	0	0	N	1	0	11	0		0	8	6	0	
+0	0	0	E	1	0	11	0		0	9	3	0	
+0	1	14	Y	1	0	11	0		1	10	4	1	YSER
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	15	A	1	12	3	1	ATA	0	12	15	0	
+0	0	0	T	1	12	3	0		0	13	3	0	
+0	0	0	A	1	12	3	0		0	14	3	0	
+0	1	16	B	2	0	11	1	BETTERLOCKS	1	0	3	0	
+0	0	0	E	2	0	11	0		1	1	3	0	
+0	0	0	T	2	0	11	0		0	2	15	0	
+0	0	0	T	2	0	11	0		0	3	6	0	
+0	0	0	E	2	0	11	0		0	4	3	0	
+0	0	0	R	2	0	11	0		1	5	3	0	
+0	0	0	L	2	0	11	0		1	6	3	0	
+0	0	0	O	2	0	11	0		0	7	4	0	
+0	0	0	C	2	0	11	0		0	8	6	0	
+0	0	0	K	2	0	11	0		0	9	3	0	
+0	0	0	S	2	0	11	0		1	10	4	0	
+1	0	0	#	2	12	3	0		3	11	4	0	
+0	1	17	N	2	12	3	1	NZZ	0	12	15	0	
+0	0	0	Z	2	12	3	0		0	13	3	0	
+0	0	0	Z	2	12	3	0		0	14	3	0	
+0	1	18	H	3	0	4	1	HITE	1	0	3	0	
+0	0	0	I	3	0	4	0		1	1	3	0	
+0	0	0	T	3	0	4	0		0	2	15	0	
+0	0	0	E	3	0	4	0		0	3	6	0	
+1	0	0	#	3	5	4	0		4	4	5	0	
+0	1	19	R	3	5	4	1	RENU	1	5	3	0	
+0	0	0	E	3	5	4	0		1	6	3	0	
+0	0	0	N	3	5	4	0		0	7	4	0	
+0	0	0	U	3	5	4	0		0	8	6	0	
+1	0	0	#	3	10	3	0		4	9	5	0	
+0	1	20	E	3	10	3	1	ELK	1	10	4	0	
+0	1	21	L	3	10	3	0		3	11	4	1	LNES
+0	0	0	K	3	10	3	0		0	12	15	0	
+1	0	0	#	3	14	0	0		4	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	3	0		5	1	6	0	
+0	1	22	I	4	2	3	1	ISA	0	2	15	0	
+0	0	0	S	4	2	3	0		0	3	6	0	
+0	1	23	A	4	2	3	0		4	4	5	1	AANDE
+1	0	0	#	4	6	0	0		5	5	0	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	6	0		5	7	5	0	
+0	1	24	B	4	8	6	1	BURNER	0	8	6	0	
+0	1	25	U	4	8	6	0		4	9	5	1	UNAMI
+0	0	0	R	4	8	6	0		1	10	4	0	
+0	0	0	N	4	8	6	0		3	11	4	0	
+0	0	0	E	4	8	6	0		0	12	15	0	
+0	1	26	R	4	8	6	0		4	13	6	1	ROEPER
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	27	A	5	1	4	1	ANTA	5	1	6	1	AGENDA
+0	0	0	N	5	1	4	0		0	2	15	0	
+0	0	0	T	5	1	4	0		0	3	6	0	
+0	0	0	A	5	1	4	0		4	4	5	0	
+1	0	0	#	5	6	4	0		6	5	5	0	
+0	1	28	S	5	6	4	1	SAIN	5	6	3	1	SED
+0	1	29	A	5	6	4	0		5	7	5	1	AXTON
+0	0	0	I	5	6	4	0		0	8	6	0	
+0	0	0	N	5	6	4	0		4	9	5	0	
+1	0	0	#	5	11	3	0		6	10	5	0	
+0	1	30	E	5	11	3	1	EEO	3	11	4	0	
+0	0	0	E	5	11	3	0		0	12	15	0	
+0	0	0	O	5	11	3	0		4	13	6	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	31	E	6	0	3	1	EGG	6	0	3	1	EDU
+0	0	0	G	6	0	3	0		5	1	6	0	
+0	0	0	G	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	4	0		7	3	0	0	
+0	1	32	N	6	4	4	1	NMEX	4	4	5	0	
+0	1	33	M	6	4	4	0		6	5	5	1	MILLI
+0	0	0	E	6	4	4	0		5	6	3	0	
+0	0	0	X	6	4	4	0		5	7	5	0	
+1	0	0	#	6	9	6	0		7	8	3	0	
+0	1	34	A	6	9	6	1	ASSIES	4	9	5	0	
+0	1	35	S	6	9	6	0		6	10	5	1	SEPTI
+0	0	0	S	6	9	6	0		3	11	4	0	
+0	0	0	I	6	9	6	0		0	12	15	0	
+0	0	0	E	6	9	6	0		4	13	6	0	
+0	1	36	S	6	9	6	0		6	14	3	1	SRO
+0	1	37	D	7	0	3	1	DEP	6	0	3	0	
+0	0	0	E	7	0	3	0		5	1	6	0	
+0	0	0	P	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	4	0	
+0	1	38	D	7	4	7	1	DIDTIME	4	4	5	0	
+0	0	0	I	7	4	7	0		6	5	5	0	
+0	0	0	D	7	4	7	0		5	6	3	0	
+0	0	0	T	7	4	7	0		5	7	5	0	
+0	1	39	I	7	4	7	0		7	8	3	1	ISS
+0	0	0	M	7	4	7	0		4	9	5	0	
+0	0	0	E	7	4	7	0		6	10	5	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	40	N	7	12	3	1	NPR	0	12	15	0	
+0	0	0	P	7	12	3	0		4	13	6	0	
+0	0	0	R	7	12	3	0		6	14	3	0	
+0	1	41	U	8	0	6	1	UNREEL	6	0	3	0	
+0	0	0	N	8	0	6	0		5	1	6	0	
+0	0	0	R	8	0	6	0		0	2	15	0	
+0	1	42	E	8	0	6	0		8	3	4	1	ELIO
+0	0	0	E	8	0	6	0		4	4	5	0	
+0	0	0	L	8	0	6	0		6	5	5	0	
+1	0	0	#	8	7	4	0		9	6	6	0	
+0	1	43	O	8	7	4	1	OSIP	5	7	5	0	
+0	0	0	S	8	7	4	0		7	8	3	0	
+0	0	0	I	8	7	4	0		4	9	5	0	
+0	0	0	P	8	7	4	0		6	10	5	0	
+1	0	0	#	8	12	3	0		9	11	6	0	
+0	1	44	G	8	12	3	1	GEO	0	12	15	0	
+0	0	0	E	8	12	3	0		4	13	6	0	
+0	0	0	O	8	12	3	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	45	D	9	1	3	1	DAL	5	1	6	0	
+0	0	0	A	9	1	3	0		0	2	15	0	
+0	0	0	L	9	1	3	0		8	3	4	0	
+1	0	0	#	9	5	4	0		10	4	4	0	
+0	1	46	L	9	5	4	1	LONS	6	5	5	0	
+0	1	47	O	9	5	4	0		9	6	6	1	OCEDAR
+0	0	0	N	9	5	4	0		5	7	5	0	
+0	0	0	S	9	5	4	0		7	8	3	0	
+1	0	0	#	9	10	4	0		10	9	0	0	
+0	1	48	T	9	10	4	1	TIER	6	10	5	0	
+0	1	49	I	9	10	4	0		9	11	6	1	INGRAM
+0	0	0	E	9	10	4	0		0	12	15	0	
+0	0	0	R	9	10	4	0		4	13	6	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	6	0		11	0	0	0	
+0	1	50	A	10	1	6	1	ACIDIC	5	1	6	0	
+0	0	0	C	10	1	6	0		0	2	15	0	
+0	0	0	I	10	1	6	0		8	3	4	0	
+0	1	51	D	10	1	6	0		10	4	4	1	DXJL
+0	0	0	I	10	1	6	0		6	5	5	0	
+0	0	0	C	10	1	6	0		9	6	6	0	
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	0	0		11	8	3	0	
+1	0	0	#	10	10	3	0		11	9	3	0	
+0	1	52	I	10	10	3	1	INN	6	10	5	0	
+0	0	0	N	10	10	3	0		9	11	6	0	
+0	0	0	N	10	10	3	0		0	12	15	0	
+1	0	0	#	10	14	0	0		11	13	3	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	53	T	11	2	3	1	TOX	0	2	15	0	
+0	0	0	O	11	2	3	0		8	3	4	0	
+0	0	0	X	11	2	3	0		10	4	4	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	54	E	11	6	4	1	ERIC	9	6	6	0	
+0	1	55	R	11	6	4	0		11	7	4	1	RICE
+0	1	56	I	11	6	4	0		11	8	3	1	ICE
+0	1	57	C	11	6	4	0		11	9	3	1	CIR
+1	0	0	#	11	11	4	0		12	10	3	0	
+0	1	58	G	11	11	4	1	GUNG	9	11	6	0	
+0	0	0	U	11	11	4	0		0	12	15	0	
+0	1	59	N	11	11	4	0		11	13	3	1	NEO
+0	1	60	G	11	11	4	0		11	14	3	1	GST
+0	1	61	C	12	0	3	1	CHI	12	0	3	1	CLE
+0	1	62	H	12	0	3	0		12	1	3	1	HAY
+0	0	0	I	12	0	3	0		0	2	15	0	
+1	0	0	#	12	4	11	0		13	3	0	0	
+0	1	63	J	12	4	11	1	JUDICIARIES	10	4	4	0	
+0	1	64	U	12	4	11	0		12	5	3	1	ULA
+0	0	0	D	12	4	11	0		9	6	6	0	
+0	0	0	I	12	4	11	0		11	7	4	0	
+0	0	0	C	12	4	11	0		11	8	3	0	
+0	0	0	I	12	4	11	0		11	9	3	0	
+0	1	65	A	12	4	11	0		12	10	3	1	ALO
+0	0	0	R	12	4	11	0		9	11	6	0	
+0	0	0	I	12	4	11	0		0	12	15	0	
+0	0	0	E	12	4	11	0		11	13	3	0	
+0	0	0	S	12	4	11	0		11	14	3	0	
+0	1	66	L	13	0	3	1	LAC	12	0	3	0	
+0	0	0	A	13	0	3	0		12	1	3	0	
+0	0	0	C	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	11	0		14	3	0	0	
+0	1	67	L	13	4	11	1	LLACERLATOT	10	4	4	0	
+0	0	0	L	13	4	11	0		12	5	3	0	
+0	0	0	A	13	4	11	0		9	6	6	0	
+0	0	0	C	13	4	11	0		11	7	4	0	
+0	0	0	E	13	4	11	0		11	8	3	0	
+0	0	0	R	13	4	11	0		11	9	3	0	
+0	0	0	L	13	4	11	0		12	10	3	0	
+0	0	0	A	13	4	11	0		9	11	6	0	
+0	0	0	T	13	4	11	0		0	12	15	0	
+0	0	0	O	13	4	11	0		11	13	3	0	
+0	0	0	T	13	4	11	0		11	14	3	0	
+0	1	68	E	14	0	3	1	EYE	12	0	3	0	
+0	0	0	Y	14	0	3	0		12	1	3	0	
+0	0	0	E	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	69	A	14	5	3	1	ARE	12	5	3	0	
+0	0	0	R	14	5	3	0		9	6	6	0	
+0	0	0	E	14	5	3	0		11	7	4	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	3	0		15	9	0	0	
+0	1	70	O	14	10	3	1	OMY	12	10	3	0	
+0	0	0	M	14	10	3	0		9	11	6	0	
+0	0	0	Y	14	10	3	0		0	12	15	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	BHT	Common preservative
+4	LIB	A little freedom?
+7	YUL	Gertrude's 1951 Broadway co-star
+10	BRAISEMONEY	Cook lettuce?
+15	ATA	___ brisk pace
+16	BETTERLOCKS	"Homeowners get excited when they see me opening their ___ ..."
+17	NZZ	Popular Saab model
+18	HITE	"Women and Love" writer
+19	RENU	Big name in lens care
+20	ELK	___ Grove Village, Ill.
+22	ISA	"What ___ Man?" ("Pal Joey" tune)
+24	BURNER	Gas log, e.g.
+27	ANTA	Theater acronym
+28	SAIN	Bygone pitching star Johnny
+30	EEO	Want ad inits.
+31	EGG	Baby carrier?
+32	NMEX	Home of the White Sands Natl. Mon.
+34	ASSIES	Victorians, e.g.
+37	DEP	Bank statement abbr.
+38	DIDTIME	Was a joint tenant?
+40	NPR	"All Things Considered" network
+41	UNREEL	Remove from a spindle
+43	OSIP	Poet Mandelstam
+44	GEO	___ Metro (bygone car)
+45	DAL	Lentil dish at an Indian restaurant
+46	LONS	Chaney Jr. and Sr.
+48	TIER	Stadium section
+50	ACIDIC	Vinegary
+52	INN	What a keeper may keep
+53	TOX	Medical examiner's subj.
+54	ERIC	Grid great Dickerson
+58	GUNG	Ho lead-in
+61	CHI	Christogram part
+63	JUDICIARIES	Court systems
+66	LAC	Anita Brookner's "Hotel du ___"
+67	LLACERLATOT	1990 sci-fi rerun?
+68	EYE	Kind of bank
+69	ARE	"Who ___ we kidding?"
+70	OMY	Record of 1947 "Peg ___ Heart"
+39
+1	BATTINGPRACTICE	It's done in cages
+2	HITEST	Gasoline type, informally
+3	TSE	Mao ___-tung
+4	LOON	Crazy
+5	INCUBI	Spirits that victimize the sleeping
+6	BEK	Dub "sir"
+7	YANKEEINGENUITY	Crossword by Joe DiMaggio, e.g.?
+8	UTZ	Snack food brand
+9	LAZ	___-Boy (brand of furniture)
+10	BBH	Picnic pest
+11	REI	Defendants, legally
+12	ERR	Drop a pop-up, say
+13	MLE	Uncooperative one
+14	YSER	It flows in Flanders
+21	LNES	Keglers' places
+23	AANDE	"Biography" network, once
+25	UNAMI	Delaware Indian whose name is French for "a friend"
+26	ROEPER	Critic with an opposable thumb?
+27	AGENDA	Slate of affairs?
+28	SED	Latin conjunction
+29	AXTON	"Joy to the World" penner Hoyt ___
+31	EDU	College Web site suffix
+33	MILLI	Rock's ___ Vanilli
+35	SEPTI	Three more than quadri-
+36	SRO	Like a hit B'way show
+39	ISS	Magazine: Abbr.
+42	ELIO	Film director Petri
+47	OCEDAR	Mop brand that "makes your life easier"
+49	INGRAM	R & B singer James
+51	DXJL	"Hurry!" on a memo
+55	RICE	Red beans go-with
+56	ICE	Rink surface
+57	CIR	Street sign abbr.
+59	NEO	Romantic introduction?
+60	GST	Clock std.
+61	CLE	Key: Fr.
+62	HAY	Stable staple
+64	ULA	Ending with form
+65	ALO	Phone greeting in Central America

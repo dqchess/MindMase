@@ -1,0 +1,115 @@
+grid_9x9_85
+9
+0	1	1	A	0	0	3	1	AWK	0	0	3	1	AKU
+0	1	2	W	0	0	3	0		0	1	3	1	WGN
+0	1	3	K	0	0	3	0		0	2	9	1	KSENGLISH
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	7	0	
+0	1	4	O	0	5	3	1	OTO	0	5	3	1	OBI
+0	1	5	T	0	5	3	0		0	6	9	1	TEENIDOLS
+0	1	6	O	0	5	3	0		0	7	5	1	OSSEO
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	K	1	0	3	1	KGS	0	0	3	0	
+0	0	0	G	1	0	3	0		0	1	3	0	
+0	0	0	S	1	0	3	0		0	2	9	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	8	A	1	4	4	1	ABES	1	4	7	1	ASMARAN
+0	0	0	B	1	4	4	0		0	5	3	0	
+0	0	0	E	1	4	4	0		0	6	9	0	
+0	0	0	S	1	4	4	0		0	7	5	0	
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	9	U	2	0	9	1	UNEASIEST	0	0	3	0	
+0	0	0	N	2	0	9	0		0	1	3	0	
+0	0	0	E	2	0	9	0		0	2	9	0	
+0	1	10	A	2	0	9	0		2	3	3	1	AIM
+0	0	0	S	2	0	9	0		1	4	7	0	
+0	0	0	I	2	0	9	0		0	5	3	0	
+0	0	0	E	2	0	9	0		0	6	9	0	
+0	0	0	S	2	0	9	0		0	7	5	0	
+0	1	11	T	2	0	9	0		2	8	3	1	TEN
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	12	N	3	2	3	1	NIM	0	2	9	0	
+0	0	0	I	3	2	3	0		2	3	3	0	
+0	0	0	M	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	13	N	3	6	3	1	NEE	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	5	0	
+0	0	0	E	3	6	3	0		2	8	3	0	
+0	1	14	P	4	0	9	1	PYGMALION	4	0	3	1	PCB
+0	1	15	Y	4	0	9	0		4	1	5	1	YPRES
+0	0	0	G	4	0	9	0		0	2	9	0	
+0	0	0	M	4	0	9	0		2	3	3	0	
+0	0	0	A	4	0	9	0		1	4	7	0	
+0	1	16	L	4	0	9	0		4	5	3	1	LOD
+0	0	0	I	4	0	9	0		0	6	9	0	
+0	0	0	O	4	0	9	0		0	7	5	0	
+0	0	0	N	4	0	9	0		2	8	3	0	
+0	1	17	C	5	0	3	1	CPL	4	0	3	0	
+0	0	0	P	5	0	3	0		4	1	5	0	
+0	0	0	L	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	18	R	5	4	3	1	ROD	1	4	7	0	
+0	0	0	O	5	4	3	0		4	5	3	0	
+0	0	0	D	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	B	6	0	9	1	BRIGADOON	4	0	3	0	
+0	0	0	R	6	0	9	0		4	1	5	0	
+0	0	0	I	6	0	9	0		0	2	9	0	
+0	1	20	G	6	0	9	0		6	3	3	1	GPO
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	0	0	D	6	0	9	0		4	5	3	0	
+0	0	0	O	6	0	9	0		0	6	9	0	
+0	1	21	O	6	0	9	0		6	7	3	1	OSS
+0	1	22	N	6	0	9	0		6	8	3	1	NTH
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	23	E	7	1	4	1	ESPN	4	1	5	0	
+0	0	0	S	7	1	4	0		0	2	9	0	
+0	0	0	P	7	1	4	0		6	3	3	0	
+0	0	0	N	7	1	4	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	L	7	6	3	1	LST	0	6	9	0	
+0	0	0	S	7	6	3	0		6	7	3	0	
+0	0	0	T	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	S	8	1	3	1	SHO	4	1	5	0	
+0	0	0	H	8	1	3	0		0	2	9	0	
+0	0	0	O	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	S	8	6	3	1	SSH	0	6	9	0	
+0	0	0	S	8	6	3	0		6	7	3	0	
+0	0	0	H	8	6	3	0		6	8	3	0	
+15
+1	AWK	Parrot's cry
+4	OTO	Ear-related prefix
+7	KGS	Metric weights: Abbr.
+8	ABES	Beame et al.
+9	UNEASIEST	Least comfortable
+12	NIM	Pilfer, old-style
+13	NEE	Bridal bio word
+14	PYGMALION	Mythological sculptor who really loved his work
+17	CPL	One NCO
+18	ROD	Dowsing need
+19	BRIGADOON	Early Lerner and Loewe hit
+23	ESPN	"Baseball Tonight" airer
+24	LST	Omaha Beach craft, for short
+25	SHO	"The Tudors" airer, in brief
+26	SSH	Library sound: Var.
+15
+1	AKU	When repeated, a Thor Heyerdahl title
+2	WGN	Chicago cable station
+3	KSENGLISH	"Proper" speech
+4	OBI	Kobe sash
+5	TEENIDOLS	Causes of many swoons
+6	OSSEO	Bone: Prefix
+8	ASMARAN	From the capital of Eritrea
+10	AIM	Archer's asset
+11	TEN	Something to take when you're tired?
+14	PCB	Chem. pollutant
+15	YPRES	Belgian city in W.W. I fighting
+16	LOD	Former name for Ben-Gurion Airport
+20	GPO	Bldg. with boxes
+21	OSS	W.W. II intelligence org.
+22	NTH	Advanced degree

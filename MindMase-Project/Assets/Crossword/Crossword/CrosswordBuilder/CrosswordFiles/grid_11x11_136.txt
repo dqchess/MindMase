@@ -1,0 +1,165 @@
+grid_11x11_136
+11
+0	1	1	S	0	0	3	1	SUI	0	0	3	1	SIE
+0	1	2	U	0	0	3	0		0	1	4	1	UBER
+0	1	3	I	0	0	3	0		0	2	4	1	IANA
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	4	D	0	7	3	1	DJS	0	7	3	1	DEE
+0	1	5	J	0	7	3	0		0	8	6	1	JINGLE
+0	1	6	S	0	7	3	0		0	9	6	1	SASSES
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	I	1	0	5	1	IBARS	0	0	3	0	
+0	0	0	B	1	0	5	0		0	1	4	0	
+0	0	0	A	1	0	5	0		0	2	4	0	
+0	1	8	R	1	0	5	0		1	3	5	1	RSIDE
+0	1	9	S	1	0	5	0		1	4	5	1	SYLPH
+1	0	0	#	1	6	4	0		2	5	7	0	
+0	1	10	L	1	6	4	1	LEIA	1	6	3	1	LET
+0	0	0	E	1	6	4	0		0	7	3	0	
+0	0	0	I	1	6	4	0		0	8	6	0	
+0	0	0	A	1	6	4	0		0	9	6	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	E	2	0	11	1	EENSYWEENSY	0	0	3	0	
+0	0	0	E	2	0	11	0		0	1	4	0	
+0	0	0	N	2	0	11	0		0	2	4	0	
+0	0	0	S	2	0	11	0		1	3	5	0	
+0	0	0	Y	2	0	11	0		1	4	5	0	
+0	1	12	W	2	0	11	0		2	5	7	1	WASONTO
+0	0	0	E	2	0	11	0		1	6	3	0	
+0	0	0	E	2	0	11	0		0	7	3	0	
+0	0	0	N	2	0	11	0		0	8	6	0	
+0	0	0	S	2	0	11	0		0	9	6	0	
+0	1	13	Y	2	0	11	0		2	10	3	1	YUK
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	14	R	3	1	6	1	RAILAT	0	1	4	0	
+0	0	0	A	3	1	6	0		0	2	4	0	
+0	0	0	I	3	1	6	0		1	3	5	0	
+0	0	0	L	3	1	6	0		1	4	5	0	
+0	0	0	A	3	1	6	0		2	5	7	0	
+0	0	0	T	3	1	6	0		1	6	3	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	15	G	3	8	3	1	GSU	0	8	6	0	
+0	0	0	S	3	8	3	0		0	9	6	0	
+0	0	0	U	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	6	0	
+0	1	16	D	4	3	3	1	DPS	1	3	5	0	
+0	0	0	P	4	3	3	0		1	4	5	0	
+0	0	0	S	4	3	3	0		2	5	7	0	
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	5	0	
+0	1	17	L	4	8	3	1	LEK	0	8	6	0	
+0	0	0	E	4	8	3	0		0	9	6	0	
+0	0	0	K	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	9	0		6	0	3	0	
+0	1	18	A	5	1	9	1	ALEHOUSES	5	1	6	1	AMEBIC
+0	1	19	L	5	1	9	0		5	2	6	1	LALALA
+0	0	0	E	5	1	9	0		1	3	5	0	
+0	0	0	H	5	1	9	0		1	4	5	0	
+0	0	0	O	5	1	9	0		2	5	7	0	
+0	1	20	U	5	1	9	0		5	6	5	1	USING
+0	1	21	S	5	1	9	0		5	7	5	1	SALSA
+0	0	0	E	5	1	9	0		0	8	6	0	
+0	0	0	S	5	1	9	0		0	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	22	G	6	0	3	1	GMA	6	0	3	1	GIA
+0	0	0	M	6	0	3	0		5	1	6	0	
+0	0	0	A	6	0	3	0		5	2	6	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	23	N	6	5	3	1	NSA	2	5	7	0	
+0	0	0	S	6	5	3	0		5	6	5	0	
+0	0	0	A	6	5	3	0		5	7	5	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	I	7	0	3	1	IEL	6	0	3	0	
+0	0	0	E	7	0	3	0		5	1	6	0	
+0	0	0	L	7	0	3	0		5	2	6	0	
+1	0	0	#	7	4	6	0		8	3	3	0	
+0	1	25	G	7	4	6	1	GTILES	7	4	3	1	GDR
+0	0	0	T	7	4	6	0		2	5	7	0	
+0	0	0	I	7	4	6	0		5	6	5	0	
+0	0	0	L	7	4	6	0		5	7	5	0	
+0	1	26	E	7	4	6	0		7	8	4	1	EHLE
+0	1	27	S	7	4	6	0		7	9	4	1	SION
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	28	A	8	0	11	1	ABANDONSHIP	6	0	3	0	
+0	0	0	B	8	0	11	0		5	1	6	0	
+0	0	0	A	8	0	11	0		5	2	6	0	
+0	1	29	N	8	0	11	0		8	3	3	1	NED
+0	0	0	D	8	0	11	0		7	4	3	0	
+0	0	0	O	8	0	11	0		2	5	7	0	
+0	0	0	N	8	0	11	0		5	6	5	0	
+0	0	0	S	8	0	11	0		5	7	5	0	
+0	0	0	H	8	0	11	0		7	8	4	0	
+0	0	0	I	8	0	11	0		7	9	4	0	
+0	1	30	P	8	0	11	0		8	10	3	1	PPG
+1	0	0	#	9	1	4	0		10	0	0	0	
+0	1	31	I	9	1	4	1	ILER	5	1	6	0	
+0	0	0	L	9	1	4	0		5	2	6	0	
+0	0	0	E	9	1	4	0		8	3	3	0	
+0	0	0	R	9	1	4	0		7	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	32	G	9	6	5	1	GALOP	5	6	5	0	
+0	0	0	A	9	6	5	0		5	7	5	0	
+0	0	0	L	9	6	5	0		7	8	4	0	
+0	0	0	O	9	6	5	0		7	9	4	0	
+0	0	0	P	9	6	5	0		8	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	33	C	10	1	3	1	CAD	5	1	6	0	
+0	0	0	A	10	1	3	0		5	2	6	0	
+0	0	0	D	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	34	E	10	8	3	1	ENG	7	8	4	0	
+0	0	0	N	10	8	3	0		7	9	4	0	
+0	0	0	G	10	8	3	0		8	10	3	0	
+19
+1	SUI	___ juris (legal phrase)
+4	DJS	Dance club V.I.P.'s
+7	IBARS	Building supports
+10	LEIA	Alderaan royal
+11	EENSYWEENSY	Knee-high to a grasshopper
+14	RAILAT	Inveigh against
+15	GSU	Atlanta sch. with 30,000+ students
+16	DPS	Baseball twin-killings: Abbr.
+17	LEK	Coin whose original portrait was Alexander the Great
+18	ALEHOUSES	Tap sites
+22	GMA	A.M. TV offering
+23	NSA	Codebreakers' org.
+24	IEL	Drive forward
+25	GTILES	The only pieces there are exactly three of in Scrabble
+28	ABANDONSHIP	Final command from the bridge
+31	ILER	Soprano player Robert
+32	GALOP	Lively dance in duple time
+33	CAD	Bounder
+34	ENG	High-school subj.
+21
+1	SIE	You overseas
+2	UBER	Opposite of unter
+3	IANA	Suffix for a collection
+4	DEE	Irish Sea feeder
+5	JINGLE	Spot lines?
+6	SASSES	Gives some lip
+8	RSIDE	Where to sign a credit card, e.g.
+9	SYLPH	Supernatural being inhabiting the air
+10	LET	"___ Me Call You Sweetheart"
+12	WASONTO	Had figured out
+13	YUK	Big laugh
+18	AMEBIC	Protozoan
+19	LALALA	"I'm not listening ..."
+20	USING	Bringing into play
+21	SALSA	Zesty dip
+22	GIA	Already, in Italy
+25	GDR	Warsaw Pact member, initially
+26	EHLE	"Pride and Prejudice" actress Jennifer
+27	SION	Capital of Valais canton, Switzerland
+29	NED	Outlaw Kelly of Australian legend
+30	PPG	Scoring stat for N.B.A.'ers

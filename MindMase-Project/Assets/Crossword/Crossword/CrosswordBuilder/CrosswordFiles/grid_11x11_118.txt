@@ -1,0 +1,165 @@
+grid_11x11_118
+11
+0	1	1	C	0	0	3	1	CML	0	0	6	1	COUPLE
+0	1	2	M	0	0	3	0		0	1	7	1	MINUSES
+0	1	3	L	0	0	3	0		0	2	7	1	LLANERO
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	4	0		1	6	5	0	
+0	1	4	G	0	7	4	1	GATT	0	7	5	1	GEARB
+0	1	5	A	0	7	4	0		0	8	3	1	ALB
+0	1	6	T	0	7	4	0		0	9	3	1	TTL
+0	1	7	T	0	7	4	0		0	10	3	1	TSY
+0	1	8	O	1	0	5	1	OILER	0	0	6	0	
+0	0	0	I	1	0	5	0		0	1	7	0	
+0	0	0	L	1	0	5	0		0	2	7	0	
+0	1	9	E	1	0	5	0		1	3	3	1	ELI
+0	1	10	R	1	0	5	0		1	4	3	1	RTS
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	11	K	1	6	5	1	KELTS	1	6	5	1	KREME
+0	0	0	E	1	6	5	0		0	7	5	0	
+0	0	0	L	1	6	5	0		0	8	3	0	
+0	0	0	T	1	6	5	0		0	9	3	0	
+0	0	0	S	1	6	5	0		0	10	3	0	
+0	1	12	U	2	0	11	1	UNALTERABLY	0	0	6	0	
+0	0	0	N	2	0	11	0		0	1	7	0	
+0	0	0	A	2	0	11	0		0	2	7	0	
+0	0	0	L	2	0	11	0		1	3	3	0	
+0	0	0	T	2	0	11	0		1	4	3	0	
+0	1	13	E	2	0	11	0		2	5	7	1	EHEREAL
+0	0	0	R	2	0	11	0		1	6	5	0	
+0	0	0	A	2	0	11	0		0	7	5	0	
+0	0	0	B	2	0	11	0		0	8	3	0	
+0	0	0	L	2	0	11	0		0	9	3	0	
+0	0	0	Y	2	0	11	0		0	10	3	0	
+0	1	14	P	3	0	8	1	PUNISHER	0	0	6	0	
+0	0	0	U	3	0	8	0		0	1	7	0	
+0	0	0	N	3	0	8	0		0	2	7	0	
+0	0	0	I	3	0	8	0		1	3	3	0	
+0	0	0	S	3	0	8	0		1	4	3	0	
+0	0	0	H	3	0	8	0		2	5	7	0	
+0	0	0	E	3	0	8	0		1	6	5	0	
+0	0	0	R	3	0	8	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	L	4	0	3	1	LSE	0	0	6	0	
+0	0	0	S	4	0	3	0		0	1	7	0	
+0	0	0	E	4	0	3	0		0	2	7	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	16	E	4	5	5	1	EMBER	2	5	7	0	
+0	0	0	M	4	5	5	0		1	6	5	0	
+0	0	0	B	4	5	5	0		0	7	5	0	
+0	1	17	E	4	5	5	0		4	8	7	1	EARLOBE
+0	1	18	R	4	5	5	0		4	9	7	1	RENAULT
+1	0	0	#	4	11	0	0		5	10	6	0	
+0	1	19	E	5	0	3	1	EER	0	0	6	0	
+0	0	0	E	5	0	3	0		0	1	7	0	
+0	0	0	R	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	20	H	5	4	3	1	HRE	5	4	5	1	HIRER
+0	0	0	R	5	4	3	0		2	5	7	0	
+0	0	0	E	5	4	3	0		1	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	21	A	5	8	3	1	AEC	4	8	7	0	
+0	0	0	E	5	8	3	0		4	9	7	0	
+0	1	22	C	5	8	3	0		5	10	6	1	CARTES
+1	0	0	#	6	1	5	0		7	0	0	0	
+0	1	23	S	6	1	5	1	SOFIE	0	1	7	0	
+0	0	0	O	6	1	5	0		0	2	7	0	
+0	1	24	F	6	1	5	0		6	3	5	1	FOCUS
+0	0	0	I	6	1	5	0		5	4	5	0	
+0	0	0	E	6	1	5	0		2	5	7	0	
+1	0	0	#	6	7	0	0		7	6	3	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	25	R	6	8	3	1	RNA	4	8	7	0	
+0	0	0	N	6	8	3	0		4	9	7	0	
+0	0	0	A	6	8	3	0		5	10	6	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	8	0		8	2	3	0	
+0	1	26	O	7	3	8	1	ORACULAR	6	3	5	0	
+0	0	0	R	7	3	8	0		5	4	5	0	
+0	0	0	A	7	3	8	0		2	5	7	0	
+0	1	27	C	7	3	8	0		7	6	3	1	CED
+0	1	28	U	7	3	8	0		7	7	3	1	UDO
+0	0	0	L	7	3	8	0		4	8	7	0	
+0	0	0	A	7	3	8	0		4	9	7	0	
+0	0	0	R	7	3	8	0		5	10	6	0	
+0	1	29	C	8	0	11	1	CANCELEDOUT	8	0	3	1	COT
+0	1	30	A	8	0	11	0		8	1	3	1	AFS
+0	1	31	N	8	0	11	0		8	2	3	1	NOP
+0	0	0	C	8	0	11	0		6	3	5	0	
+0	0	0	E	8	0	11	0		5	4	5	0	
+0	0	0	L	8	0	11	0		2	5	7	0	
+0	0	0	E	8	0	11	0		7	6	3	0	
+0	0	0	D	8	0	11	0		7	7	3	0	
+0	0	0	O	8	0	11	0		4	8	7	0	
+0	0	0	U	8	0	11	0		4	9	7	0	
+0	0	0	T	8	0	11	0		5	10	6	0	
+0	1	32	O	9	0	5	1	OFOUR	8	0	3	0	
+0	0	0	F	9	0	5	0		8	1	3	0	
+0	0	0	O	9	0	5	0		8	2	3	0	
+0	0	0	U	9	0	5	0		6	3	5	0	
+0	0	0	R	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	33	D	9	6	5	1	DOBLE	7	6	3	0	
+0	0	0	O	9	6	5	0		7	7	3	0	
+0	0	0	B	9	6	5	0		4	8	7	0	
+0	0	0	L	9	6	5	0		4	9	7	0	
+0	0	0	E	9	6	5	0		5	10	6	0	
+0	1	34	T	10	0	4	1	TSPS	8	0	3	0	
+0	0	0	S	10	0	4	0		8	1	3	0	
+0	0	0	P	10	0	4	0		8	2	3	0	
+0	0	0	S	10	0	4	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	35	E	10	8	3	1	ETS	4	8	7	0	
+0	0	0	T	10	8	3	0		4	9	7	0	
+0	0	0	S	10	8	3	0		5	10	6	0	
+19
+1	CML	Year that Eric the Red was born, traditionally
+4	GATT	Commerce treaty starting 1947
+8	OILER	Persian Gulf ship
+11	KELTS	Ancient Brits: Var.
+12	UNALTERABLY	In a fixed manner
+14	PUNISHER	Spanker, e.g.
+15	LSE	End of many an E-mail address
+16	EMBER	Red ash
+19	EER	Election ending?
+20	HRE	Realm ended by Napoleon: Abbr.
+21	AEC	Agcy. replaced by the N.R.C.
+23	SOFIE	Swedish mezzo Anne ___ von Otter
+25	RNA	Protein-producing substance
+26	ORACULAR	Delphic
+29	CANCELEDOUT	Simplified, in a way
+32	OFOUR	In the year ___ Lord ...
+33	DOBLE	Two times, to Tom
+34	TSPS	Some are level: Abbr.
+35	ETS	Neptunians and others
+21
+1	COUPLE	Dance team
+2	MINUSES	Grade lowerers
+3	LLANERO	Spanish cowboy
+4	GEARB	Transmission
+5	ALB	Priestly garment
+6	TTL	Lumberjack's tool
+7	TSY	Stowe girl
+9	ELI	New Haven collegian
+10	RTS	Some footballers: Abbr.
+11	KREME	Word after Vanilla or Chocolate, at Dunkin' Donuts
+13	EHEREAL	Light
+17	EARLOBE	Pendant place
+18	RENAULT	Automaker Louis
+20	HIRER	Personnel director
+22	CARTES	Menus, in Metz
+24	FOCUS	Problem-solving advice appropriate for this puzzle?
+27	CED	Like associates, on some e-mails
+28	UDO	Japanese salad ingredient
+29	COT	Camp sight
+30	AFS	Military branches: Abbr.
+31	NOP	Letter run

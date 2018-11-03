@@ -1,0 +1,235 @@
+grid_13x13_193
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	E	0	1	3	1	EOS	0	1	4	1	EZRA
+0	1	2	O	0	1	3	0		0	2	4	1	OTAY
+0	1	3	S	0	1	3	0		0	3	3	1	SEW
+1	0	0	#	0	5	0	0		1	4	5	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	4	0		1	6	3	0	
+0	1	4	P	0	7	4	1	PHIS	0	7	4	1	PRON
+0	1	5	H	0	7	4	0		0	8	5	1	HAVEI
+0	1	6	I	0	7	4	0		0	9	3	1	IDA
+0	1	7	S	0	7	4	0		0	10	8	1	SUBPOENA
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	8	A	1	0	5	1	AZTEC	1	0	3	1	ADP
+0	0	0	Z	1	0	5	0		0	1	4	0	
+0	0	0	T	1	0	5	0		0	2	4	0	
+0	0	0	E	1	0	5	0		0	3	3	0	
+0	1	9	C	1	0	5	0		1	4	5	1	CSODA
+1	0	0	#	1	6	7	0		2	5	0	0	
+0	1	10	T	1	6	7	1	TRADUCE	1	6	3	1	TMI
+0	0	0	R	1	6	7	0		0	7	4	0	
+0	0	0	A	1	6	7	0		0	8	5	0	
+0	0	0	D	1	6	7	0		0	9	3	0	
+0	0	0	U	1	6	7	0		0	10	8	0	
+0	1	11	C	1	6	7	0		1	11	3	1	CLE
+0	1	12	E	1	6	7	0		1	12	3	1	EEG
+0	1	13	D	2	0	5	1	DRAWS	1	0	3	0	
+0	0	0	R	2	0	5	0		0	1	4	0	
+0	0	0	A	2	0	5	0		0	2	4	0	
+0	0	0	W	2	0	5	0		0	3	3	0	
+0	0	0	S	2	0	5	0		1	4	5	0	
+1	0	0	#	2	6	7	0		3	5	4	0	
+0	1	14	M	2	6	7	1	MOVABLE	1	6	3	0	
+0	0	0	O	2	6	7	0		0	7	4	0	
+0	0	0	V	2	6	7	0		0	8	5	0	
+0	0	0	A	2	6	7	0		0	9	3	0	
+0	0	0	B	2	6	7	0		0	10	8	0	
+0	0	0	L	2	6	7	0		1	11	3	0	
+0	0	0	E	2	6	7	0		1	12	3	0	
+0	1	15	P	3	0	3	1	PAY	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	4	0	
+0	0	0	Y	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	16	O	3	4	5	1	OVINE	1	4	5	0	
+0	1	17	V	3	4	5	0		3	5	4	1	VOCE
+0	0	0	I	3	4	5	0		1	6	3	0	
+0	0	0	N	3	4	5	0		0	7	4	0	
+0	0	0	E	3	4	5	0		0	8	5	0	
+1	0	0	#	3	10	3	0		4	9	5	0	
+0	1	18	P	3	10	3	1	PEG	0	10	8	0	
+0	0	0	E	3	10	3	0		1	11	3	0	
+0	0	0	G	3	10	3	0		1	12	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	8	0	
+0	1	19	I	4	3	3	1	IDO	4	3	5	1	IRIDS
+0	0	0	D	4	3	3	0		1	4	5	0	
+0	0	0	O	4	3	3	0		3	5	4	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	20	I	4	8	3	1	IGO	0	8	5	0	
+0	1	21	G	4	8	3	0		4	9	5	1	GRIMM
+0	0	0	O	4	8	3	0		0	10	8	0	
+1	0	0	#	4	12	0	0		5	11	3	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	22	E	5	0	7	1	EXTRACT	5	0	3	1	END
+0	1	23	X	5	0	7	0		5	1	3	1	XII
+0	1	24	T	5	0	7	0		5	2	8	1	TSARISTS
+0	0	0	R	5	0	7	0		4	3	5	0	
+0	0	0	A	5	0	7	0		1	4	5	0	
+0	0	0	C	5	0	7	0		3	5	4	0	
+0	1	25	T	5	0	7	0		5	6	3	1	TSO
+1	0	0	#	5	8	0	0		6	7	4	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	26	R	5	9	4	1	REGS	4	9	5	0	
+0	0	0	E	5	9	4	0		0	10	8	0	
+0	1	27	G	5	9	4	0		5	11	3	1	GON
+0	1	28	S	5	9	4	0		5	12	3	1	STS
+0	1	29	N	6	0	4	1	NISI	5	0	3	0	
+0	0	0	I	6	0	4	0		5	1	3	0	
+0	0	0	S	6	0	4	0		5	2	8	0	
+0	0	0	I	6	0	4	0		4	3	5	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	30	E	6	5	3	1	ESD	3	5	4	0	
+0	0	0	S	6	5	3	0		5	6	3	0	
+0	1	31	D	6	5	3	0		6	7	4	1	DURU
+1	0	0	#	6	9	4	0		7	8	5	0	
+0	1	32	I	6	9	4	1	INOT	4	9	5	0	
+0	0	0	N	6	9	4	0		0	10	8	0	
+0	0	0	O	6	9	4	0		5	11	3	0	
+0	0	0	T	6	9	4	0		5	12	3	0	
+0	1	33	D	7	0	4	1	DIAD	5	0	3	0	
+0	0	0	I	7	0	4	0		5	1	3	0	
+0	0	0	A	7	0	4	0		5	2	8	0	
+0	0	0	D	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	34	O	7	6	7	1	OUTMANS	5	6	3	0	
+0	0	0	U	7	6	7	0		6	7	4	0	
+0	1	35	T	7	6	7	0		7	8	5	1	TAPIR
+0	0	0	M	7	6	7	0		4	9	5	0	
+0	0	0	A	7	6	7	0		0	10	8	0	
+0	0	0	N	7	6	7	0		5	11	3	0	
+0	0	0	S	7	6	7	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	3	0	
+0	1	36	R	8	2	3	1	RSA	5	2	8	0	
+0	0	0	S	8	2	3	0		4	3	5	0	
+0	1	37	A	8	2	3	0		8	4	5	1	ATMOS
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	3	0		9	6	3	0	
+0	1	38	R	8	7	3	1	RAM	6	7	4	0	
+0	0	0	A	8	7	3	0		7	8	5	0	
+0	0	0	M	8	7	3	0		4	9	5	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	39	B	9	0	3	1	BOI	9	0	3	1	BEK
+0	1	40	O	9	0	3	0		9	1	3	1	OAS
+0	0	0	I	9	0	3	0		5	2	8	0	
+1	0	0	#	9	4	5	0		10	3	3	0	
+0	1	41	T	9	4	5	1	TOPUP	8	4	5	0	
+0	1	42	O	9	4	5	0		9	5	4	1	OAKS
+0	1	43	P	9	4	5	0		9	6	3	1	PNE
+0	0	0	U	9	4	5	0		6	7	4	0	
+0	0	0	P	9	4	5	0		7	8	5	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	44	I	9	10	3	1	ISA	9	10	4	1	ISIT
+0	1	45	S	9	10	3	0		9	11	4	1	SEDA
+0	1	46	A	9	10	3	0		9	12	3	1	ATE
+0	1	47	E	10	0	7	1	EASTMAN	9	0	3	0	
+0	0	0	A	10	0	7	0		9	1	3	0	
+0	0	0	S	10	0	7	0		5	2	8	0	
+0	1	48	T	10	0	7	0		10	3	3	1	TRA
+0	0	0	M	10	0	7	0		8	4	5	0	
+0	0	0	A	10	0	7	0		9	5	4	0	
+0	0	0	N	10	0	7	0		9	6	3	0	
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	49	I	10	8	5	1	IMSET	7	8	5	0	
+0	1	50	M	10	8	5	0		10	9	3	1	MSU
+0	0	0	S	10	8	5	0		9	10	4	0	
+0	0	0	E	10	8	5	0		9	11	4	0	
+0	0	0	T	10	8	5	0		9	12	3	0	
+0	1	51	K	11	0	7	1	KSTROKE	9	0	3	0	
+0	0	0	S	11	0	7	0		9	1	3	0	
+0	0	0	T	11	0	7	0		5	2	8	0	
+0	0	0	R	11	0	7	0		10	3	3	0	
+0	0	0	O	11	0	7	0		8	4	5	0	
+0	0	0	K	11	0	7	0		9	5	4	0	
+0	0	0	E	11	0	7	0		9	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	52	R	11	8	5	1	RSIDE	7	8	5	0	
+0	0	0	S	11	8	5	0		10	9	3	0	
+0	0	0	I	11	8	5	0		9	10	4	0	
+0	0	0	D	11	8	5	0		9	11	4	0	
+0	0	0	E	11	8	5	0		9	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	4	0		13	1	0	0	
+0	1	53	S	12	2	4	1	SASS	5	2	8	0	
+0	0	0	A	12	2	4	0		10	3	3	0	
+0	0	0	S	12	2	4	0		8	4	5	0	
+0	0	0	S	12	2	4	0		9	5	4	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	54	U	12	9	3	1	UTA	10	9	3	0	
+0	0	0	T	12	9	3	0		9	10	4	0	
+0	0	0	A	12	9	3	0		9	11	4	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	EOS	Daughter of the Titans
+4	PHIS	Letters from Crete
+8	AZTEC	Ancient Mexican pyramid builder
+10	TRADUCE	Slander
+13	DRAWS	Ties
+14	MOVABLE	Not fixed
+15	PAY	Foot the bill
+16	OVINE	Like some flocks
+18	PEG	It may come out of left field
+19	IDO	Words with a familiar ring?
+20	IGO	"Here ___ Again" (1987 Whitesnake hit)
+22	EXTRACT	Get to the root of?
+26	REGS	Rules, for short
+29	NISI	Not yet final, at law
+30	ESD	Either of two books of the Apocrypha: Abbr.
+32	INOT	"How could ___?"
+33	DIAD	King topper
+34	OUTMANS	Has more troops than
+36	RSA	Mandela's land: Abbr.
+38	RAM	Male sheep
+39	BOI	Avril Lavigne's "Sk8er ___"
+41	TOPUP	Convertible driver's option
+44	ISA	"When ___ door...?"
+47	EASTMAN	Camera innovator George
+49	IMSET	"No more, thanks"
+51	KSTROKE	Computer tap
+52	RSIDE	Where to sign a credit card, e.g.
+53	SASS	Impudence
+54	UTA	Hagen of Broadway
+33
+1	EZRA	Rock music's Better Than ___
+2	OTAY	"Our Gang" affirmative
+3	SEW	Tailor-make
+4	PRON	Linguistic stand-in: Abbr.
+5	HAVEI	"___ got a girl for you!"
+6	IDA	Boise's state: Abbr.
+7	SUBPOENA	One way to get a witness
+8	ADP	Big inits. in check processing
+9	CSODA	Drink mixer
+10	TMI	"I don't need to hear that!," informally
+11	CLE	Cavaliers, on scoreboards
+12	EEG	Brain-wave test: Abbr.
+17	VOCE	Mezza ___
+19	IRIDS	Crocus and gladiolus
+21	GRIMM	Fairy tale brother
+22	END	Remnant
+23	XII	Numeral at the top of grandfather clocks
+24	TSARISTS	Supporters of Ivan and Nicholas
+25	TSO	General name on a menu?
+27	GON	Suffix for shapes
+28	STS	Mark and Anthony: Abbr.
+31	DURU	Wheat variety
+35	TAPIR	Snouted animal
+37	ATMOS	___ Energy (big natural gas utility)
+39	BEK	Dub "sir"
+40	OAS	Alliance created in 1948: Abbr.
+42	OAKS	Acorn producers
+43	PNE	Log cabin material, maybe
+44	ISIT	"
+45	SEDA	Jon of TV's "UC: Undercover"
+46	ATE	Took the cake, say
+48	TRA	Choral syllable
+50	MSU	Big Ten inits.

@@ -1,0 +1,301 @@
+grid_15x15_50
+15
+0	1	1	C	0	0	3	1	CIN	0	0	5	1	CAMAY
+0	1	2	I	0	0	3	0		0	1	7	1	IMAMESS
+0	1	3	N	0	0	3	0		0	2	15	1	NATIONALAVERAGE
+1	0	0	#	0	4	3	0		1	3	3	0	
+0	1	4	G	0	4	3	1	GDP	0	4	3	1	GEE
+0	1	5	D	0	4	3	0		0	5	3	1	DUM
+0	1	6	P	0	4	3	0		0	6	5	1	PSATS
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	6	0	
+0	1	7	C	0	10	3	1	CLV	0	10	6	1	CESSNA
+0	1	8	L	0	10	3	0		0	11	3	1	LXI
+0	1	9	V	0	10	3	0		0	12	15	1	VIOLINCONCERTOS
+1	0	0	#	0	14	0	0		1	13	6	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	A	1	0	7	1	AMADEUS	0	0	5	0	
+0	0	0	M	1	0	7	0		0	1	7	0	
+0	0	0	A	1	0	7	0		0	2	15	0	
+0	1	11	D	1	0	7	0		1	3	3	1	DHS
+0	0	0	E	1	0	7	0		0	4	3	0	
+0	0	0	U	1	0	7	0		0	5	3	0	
+0	0	0	S	1	0	7	0		0	6	5	0	
+1	0	0	#	1	8	6	0		2	7	3	0	
+0	1	12	N	1	8	6	1	NOEXIT	1	8	3	1	NIE
+0	1	13	O	1	8	6	0		1	9	6	1	OCTETS
+0	0	0	E	1	8	6	0		0	10	6	0	
+0	0	0	X	1	8	6	0		0	11	3	0	
+0	0	0	I	1	8	6	0		0	12	15	0	
+0	1	14	T	1	8	6	0		1	13	6	1	TIERED
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	15	M	2	0	14	1	MATHEMATICSIOI	0	0	5	0	
+0	0	0	A	2	0	14	0		0	1	7	0	
+0	0	0	T	2	0	14	0		0	2	15	0	
+0	0	0	H	2	0	14	0		1	3	3	0	
+0	0	0	E	2	0	14	0		0	4	3	0	
+0	0	0	M	2	0	14	0		0	5	3	0	
+0	0	0	A	2	0	14	0		0	6	5	0	
+0	1	16	T	2	0	14	0		2	7	3	1	TSP
+0	0	0	I	2	0	14	0		1	8	3	0	
+0	0	0	C	2	0	14	0		1	9	6	0	
+0	0	0	S	2	0	14	0		0	10	6	0	
+0	0	0	I	2	0	14	0		0	11	3	0	
+0	0	0	O	2	0	14	0		0	12	15	0	
+0	0	0	I	2	0	14	0		1	13	6	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	17	A	3	0	4	1	AMIS	0	0	5	0	
+0	0	0	M	3	0	4	0		0	1	7	0	
+0	0	0	I	3	0	4	0		0	2	15	0	
+0	0	0	S	3	0	4	0		1	3	3	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	18	T	3	6	5	1	TSETS	0	6	5	0	
+0	0	0	S	3	6	5	0		2	7	3	0	
+0	0	0	E	3	6	5	0		1	8	3	0	
+0	0	0	T	3	6	5	0		1	9	6	0	
+0	0	0	S	3	6	5	0		0	10	6	0	
+1	0	0	#	3	12	3	0		4	11	6	0	
+0	1	19	L	3	12	3	1	LEE	0	12	15	0	
+0	0	0	E	3	12	3	0		1	13	6	0	
+0	1	20	E	3	12	3	0		3	14	3	1	EER
+0	1	21	Y	4	0	3	1	YEO	0	0	5	0	
+0	0	0	E	4	0	3	0		0	1	7	0	
+0	0	0	O	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	22	E	4	5	3	1	ESP	4	5	3	1	ETS
+0	0	0	S	4	5	3	0		0	6	5	0	
+0	0	0	P	4	5	3	0		2	7	3	0	
+1	0	0	#	4	9	6	0		5	8	0	0	
+0	1	23	E	4	9	6	1	ENTIRE	1	9	6	0	
+0	0	0	N	4	9	6	0		0	10	6	0	
+0	1	24	T	4	9	6	0		4	11	6	1	TNOTES
+0	0	0	I	4	9	6	0		0	12	15	0	
+0	0	0	R	4	9	6	0		1	13	6	0	
+0	0	0	E	4	9	6	0		3	14	3	0	
+1	0	0	#	5	1	5	0		6	0	0	0	
+0	1	25	S	5	1	5	1	SNERT	0	1	7	0	
+0	0	0	N	5	1	5	0		0	2	15	0	
+0	1	26	E	5	1	5	0		5	3	6	1	ELGART
+0	1	27	R	5	1	5	0		5	4	3	1	REA
+0	0	0	T	5	1	5	0		4	5	3	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	6	0		6	8	3	0	
+0	1	28	T	5	9	6	1	TANNER	1	9	6	0	
+0	0	0	A	5	9	6	0		0	10	6	0	
+0	0	0	N	5	9	6	0		4	11	6	0	
+0	0	0	N	5	9	6	0		0	12	15	0	
+0	0	0	E	5	9	6	0		1	13	6	0	
+0	0	0	R	5	9	6	0		3	14	3	0	
+1	0	0	#	6	1	9	0		7	0	0	0	
+0	1	29	S	6	1	9	1	SALESTAGS	0	1	7	0	
+0	0	0	A	6	1	9	0		0	2	15	0	
+0	0	0	L	6	1	9	0		5	3	6	0	
+0	0	0	E	6	1	9	0		5	4	3	0	
+0	0	0	S	6	1	9	0		4	5	3	0	
+0	1	30	T	6	1	9	0		6	6	3	1	TRE
+0	1	31	A	6	1	9	0		6	7	3	1	AWN
+0	1	32	G	6	1	9	0		6	8	3	1	GET
+0	0	0	S	6	1	9	0		1	9	6	0	
+1	0	0	#	6	11	3	0		7	10	3	0	
+0	1	33	O	6	11	3	1	OCD	4	11	6	0	
+0	0	0	C	6	11	3	0		0	12	15	0	
+0	0	0	D	6	11	3	0		1	13	6	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	6	0	
+0	1	34	L	7	2	3	1	LGA	0	2	15	0	
+0	0	0	G	7	2	3	0		5	3	6	0	
+0	0	0	A	7	2	3	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	6	0	
+0	1	35	R	7	6	3	1	RWE	6	6	3	0	
+0	0	0	W	7	6	3	0		6	7	3	0	
+0	0	0	E	7	6	3	0		6	8	3	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	36	O	7	10	3	1	OTO	7	10	3	1	OMY
+0	0	0	T	7	10	3	0		4	11	6	0	
+0	0	0	O	7	10	3	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	7	0	
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	3	0		9	0	3	0	
+0	1	37	B	8	1	3	1	BAA	8	1	6	1	BIGAPE
+0	0	0	A	8	1	3	0		0	2	15	0	
+0	0	0	A	8	1	3	0		5	3	6	0	
+1	0	0	#	8	5	9	0		9	4	6	0	
+0	1	38	S	8	5	9	1	SENTIMENT	8	5	6	1	SSTARS
+0	0	0	E	8	5	9	0		6	6	3	0	
+0	0	0	N	8	5	9	0		6	7	3	0	
+0	0	0	T	8	5	9	0		6	8	3	0	
+0	1	39	I	8	5	9	0		8	9	3	1	ISO
+0	0	0	M	8	5	9	0		7	10	3	0	
+0	0	0	E	8	5	9	0		4	11	6	0	
+0	0	0	N	8	5	9	0		0	12	15	0	
+0	1	40	T	8	5	9	0		8	13	7	1	TONSILS
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	41	L	9	0	6	1	LIVRES	9	0	3	1	LIC
+0	0	0	I	9	0	6	0		8	1	6	0	
+0	0	0	V	9	0	6	0		0	2	15	0	
+0	0	0	R	9	0	6	0		5	3	6	0	
+0	1	42	E	9	0	6	0		9	4	6	1	EILEEN
+0	0	0	S	9	0	6	0		8	5	6	0	
+1	0	0	#	9	7	0	0		10	6	0	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	5	0		10	8	5	0	
+0	1	43	S	9	9	5	1	SYSCO	8	9	3	0	
+0	0	0	Y	9	9	5	0		7	10	3	0	
+0	0	0	S	9	9	5	0		4	11	6	0	
+0	0	0	C	9	9	5	0		0	12	15	0	
+0	0	0	O	9	9	5	0		8	13	7	0	
+1	0	0	#	9	15	0	0		10	14	5	0	
+0	1	44	I	10	0	6	1	IGETIT	9	0	3	0	
+0	0	0	G	10	0	6	0		8	1	6	0	
+0	0	0	E	10	0	6	0		0	2	15	0	
+0	0	0	T	10	0	6	0		5	3	6	0	
+0	0	0	I	10	0	6	0		9	4	6	0	
+0	0	0	T	10	0	6	0		8	5	6	0	
+1	0	0	#	10	7	3	0		11	6	3	0	
+0	1	45	O	10	7	3	1	OZO	10	7	3	1	ORR
+0	1	46	Z	10	7	3	0		10	8	5	1	ZSPFO
+0	0	0	O	10	7	3	0		8	9	3	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+1	0	0	#	10	12	3	0		11	11	3	0	
+0	1	47	E	10	12	3	1	END	0	12	15	0	
+0	0	0	N	10	12	3	0		8	13	7	0	
+0	1	48	D	10	12	3	0		10	14	5	1	DECOS
+0	1	49	C	11	0	3	1	CAR	9	0	3	0	
+0	0	0	A	11	0	3	0		8	1	6	0	
+0	0	0	R	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	5	0		12	3	3	0	
+0	1	50	L	11	4	5	1	LAHRS	9	4	6	0	
+0	0	0	A	11	4	5	0		8	5	6	0	
+0	1	51	H	11	4	5	0		11	6	3	1	HOS
+0	0	0	R	11	4	5	0		10	7	3	0	
+0	0	0	S	11	4	5	0		10	8	5	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	4	0		12	10	3	0	
+0	1	52	E	11	11	4	1	ERSE	11	11	3	1	ESS
+0	0	0	R	11	11	4	0		0	12	15	0	
+0	0	0	S	11	11	4	0		8	13	7	0	
+0	0	0	E	11	11	4	0		10	14	5	0	
+1	0	0	#	12	1	14	0		13	0	0	0	
+0	1	53	P	12	1	14	1	PAPERORPLASTIC	8	1	6	0	
+0	0	0	A	12	1	14	0		0	2	15	0	
+0	1	54	P	12	1	14	0		12	3	3	1	PRI
+0	0	0	E	12	1	14	0		9	4	6	0	
+0	0	0	R	12	1	14	0		8	5	6	0	
+0	0	0	O	12	1	14	0		11	6	3	0	
+0	0	0	R	12	1	14	0		10	7	3	0	
+0	0	0	P	12	1	14	0		10	8	5	0	
+0	1	55	L	12	1	14	0		12	9	3	1	LLC
+0	1	56	A	12	1	14	0		12	10	3	1	AYS
+0	0	0	S	12	1	14	0		11	11	3	0	
+0	0	0	T	12	1	14	0		0	12	15	0	
+0	0	0	I	12	1	14	0		8	13	7	0	
+0	0	0	C	12	1	14	0		10	14	5	0	
+1	0	0	#	13	1	6	0		14	0	0	0	
+0	1	57	E	13	1	6	1	EGRESS	8	1	6	0	
+0	0	0	G	13	1	6	0		0	2	15	0	
+0	0	0	R	13	1	6	0		12	3	3	0	
+0	0	0	E	13	1	6	0		9	4	6	0	
+0	0	0	S	13	1	6	0		8	5	6	0	
+0	0	0	S	13	1	6	0		11	6	3	0	
+1	0	0	#	13	8	7	0		14	7	0	0	
+0	1	58	F	13	8	7	1	FLYSOLO	10	8	5	0	
+0	0	0	L	13	8	7	0		12	9	3	0	
+0	0	0	Y	13	8	7	0		12	10	3	0	
+0	0	0	S	13	8	7	0		11	11	3	0	
+0	0	0	O	13	8	7	0		0	12	15	0	
+0	0	0	L	13	8	7	0		8	13	7	0	
+0	0	0	O	13	8	7	0		10	14	5	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	59	E	14	2	3	1	EIN	0	2	15	0	
+0	0	0	I	14	2	3	0		12	3	3	0	
+0	0	0	N	14	2	3	0		9	4	6	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	60	O	14	8	3	1	OCS	10	8	5	0	
+0	0	0	C	14	8	3	0		12	9	3	0	
+0	0	0	S	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	61	S	14	12	3	1	SSS	0	12	15	0	
+0	0	0	S	14	12	3	0		8	13	7	0	
+0	0	0	S	14	12	3	0		10	14	5	0	
+35
+1	CIN	The Bengals, on scoreboards
+4	GDP	Natl. economic stat
+7	CLV	Year St. Pius I died
+10	AMADEUS	1984 Oscar winner
+12	NOEXIT	1944 Jean-Paul Sartre play
+15	MATHEMATICSIOI	College intro course
+17	AMIS	"The Pregnant Widow" author Martin
+18	TSETS	Need for the winner of a Wimbledon men's match
+19	LEE	Abstract painter ___ Krasner
+21	YEO	U.S.N. clerk: Abbr.
+22	ESP	It transcends sight, hearing, smell, taste and touch
+23	ENTIRE	Full
+25	SNERT	Canine in the comics
+28	TANNER	One processing pelts
+29	SALESTAGS	Clothes hangers?
+33	OCD	Cause of some repetitive behavior, in brief
+34	LGA	It's 11 miles NNW of JFK
+35	RWE	Literary monogram
+36	OTO	___-Manguean (Indian language group)
+37	BAA	Sound made while being fleeced?
+38	SENTIMENT	Logic's counterpart
+41	LIVRES	French books
+43	SYSCO	Food service Fortune 500 company
+44	IGETIT	Comment before "Ha, ha"
+45	OZO	Introductory course, in college
+47	END	Annihilation
+49	CAR	Pullman, e.g.
+50	LAHRS	Cowardly Lion portrayer and family
+52	ERSE	Irish offshoot
+53	PAPERORPLASTIC	Choice at a supermarket checkout
+57	EGRESS	Exit
+58	FLYSOLO	Eschew aid
+59	EIN	"___ Heldenleben" (Strauss opus)
+60	OCS	Where to get a mil. commission
+61	SSS	Stovetop sound
+37
+1	CAMAY	Procter & Gamble bar
+2	IMAMESS	Declaration before washing up
+3	NATIONALAVERAGE	Country standard
+4	GEE	Word before "I don't know"
+5	DUM	"___ spiro, spero" (motto of South Carolina)
+6	PSATS	Hurdles for high-school jrs.
+7	CESSNA	Big name in small planes
+8	LXI	Year in Nero's reign
+9	VIOLINCONCERTOS	Five works of Mozart [Rhode Island]
+11	DHS	The N.L. doesn't allow them
+12	NIE	Never, in Berlin
+13	OCTETS	Largish combos
+14	TIERED	Kind of seating
+16	TSP	Cooking meas.
+20	EER	Chariot attachment?
+22	ETS	Travelers from another galaxy, for short
+24	TNOTES	Gov't securities
+26	ELGART	"Hooked on Swing" jazzman Larry
+27	REA	Stephen of "Stuck"
+30	TRE	Otto - cinque
+31	AWN	Beard of barley
+32	GET	"Did you ___ that?"
+36	OMY	"Peg ___ Heart"
+37	BIGAPE	Galoot
+38	SSTARS	Red giants with zirconium oxide in their spectra
+39	ISO	Prefix with -meric
+40	TONSILS	Possible causes of sleep apnea
+41	LIC	Tavern need: Abbr.
+42	EILEEN	Soprano Farrell
+45	ORR	Hall-of-Famer Bobby
+46	ZSPFO	Take as one's own
+48	DECOS	Boils down
+51	HOS	Sounds from Santa
+52	ESS	Slalom part
+54	PRI	Part of C.P.I.
+55	LLC	Cousin of Inc.
+56	AYS	Shakespearean assents

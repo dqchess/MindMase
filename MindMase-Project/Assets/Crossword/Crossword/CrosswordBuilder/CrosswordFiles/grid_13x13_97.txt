@@ -1,0 +1,233 @@
+grid_13x13_97
+13
+0	1	1	S	0	0	5	1	SPORT	0	0	3	1	SBA
+0	1	2	P	0	0	5	0		0	1	4	1	PEPE
+0	1	3	O	0	0	5	0		0	2	8	1	OSOLEMIO
+0	1	4	R	0	0	5	0		0	3	7	1	ROSEOIL
+0	1	5	T	0	0	5	0		0	4	3	1	TTT
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	5	0		1	7	6	0	
+0	1	6	N	0	8	5	1	NUTSO	0	8	3	1	NYC
+0	1	7	U	0	8	5	0		0	9	5	1	ULRIC
+0	1	8	T	0	8	5	0		0	10	4	1	TOES
+0	1	9	S	0	8	5	0		0	11	4	1	SAES
+0	1	10	O	0	8	5	0		0	12	3	1	ODD
+0	1	11	B	1	0	5	1	BESOT	0	0	3	0	
+0	0	0	E	1	0	5	0		0	1	4	0	
+0	0	0	S	1	0	5	0		0	2	8	0	
+0	0	0	O	1	0	5	0		0	3	7	0	
+0	0	0	T	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	7	0		2	5	3	0	
+0	1	12	P	1	6	7	1	PAYLOAD	1	6	3	1	PEE
+0	1	13	A	1	6	7	0		1	7	6	1	ASHMAN
+0	0	0	Y	1	6	7	0		0	8	3	0	
+0	0	0	L	1	6	7	0		0	9	5	0	
+0	0	0	O	1	6	7	0		0	10	4	0	
+0	0	0	A	1	6	7	0		0	11	4	0	
+0	0	0	D	1	6	7	0		0	12	3	0	
+0	1	14	A	2	0	13	1	APOSTLESCREED	0	0	3	0	
+0	0	0	P	2	0	13	0		0	1	4	0	
+0	0	0	O	2	0	13	0		0	2	8	0	
+0	0	0	S	2	0	13	0		0	3	7	0	
+0	0	0	T	2	0	13	0		0	4	3	0	
+0	1	15	L	2	0	13	0		2	5	3	1	LYS
+0	0	0	E	2	0	13	0		1	6	3	0	
+0	0	0	S	2	0	13	0		1	7	6	0	
+0	0	0	C	2	0	13	0		0	8	3	0	
+0	0	0	R	2	0	13	0		0	9	5	0	
+0	0	0	E	2	0	13	0		0	10	4	0	
+0	0	0	E	2	0	13	0		0	11	4	0	
+0	0	0	D	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	16	E	3	1	3	1	ELE	0	1	4	0	
+0	0	0	L	3	1	3	0		0	2	8	0	
+0	0	0	E	3	1	3	0		0	3	7	0	
+1	0	0	#	3	5	3	0		4	4	5	0	
+0	1	17	Y	3	5	3	1	YEH	2	5	3	0	
+0	0	0	E	3	5	3	0		1	6	3	0	
+0	0	0	H	3	5	3	0		1	7	6	0	
+1	0	0	#	3	9	3	0		4	8	5	0	
+0	1	18	I	3	9	3	1	ISS	0	9	5	0	
+0	0	0	S	3	9	3	0		0	10	4	0	
+0	0	0	S	3	9	3	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	4	0		5	1	3	0	
+0	1	19	E	4	2	4	1	EONS	0	2	8	0	
+0	0	0	O	4	2	4	0		0	3	7	0	
+0	1	20	N	4	2	4	0		4	4	5	1	NIDUS
+0	0	0	S	4	2	4	0		2	5	3	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	21	M	4	7	3	1	MAC	1	7	6	0	
+0	1	22	A	4	7	3	0		4	8	5	1	AESIR
+0	0	0	C	4	7	3	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	8	0	
+1	0	0	#	4	12	0	0		5	11	3	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	M	5	0	5	1	MCMII	5	0	3	1	MCA
+0	1	24	C	5	0	5	0		5	1	3	1	CHG
+0	0	0	M	5	0	5	0		0	2	8	0	
+0	0	0	I	5	0	5	0		0	3	7	0	
+0	0	0	I	5	0	5	0		4	4	5	0	
+1	0	0	#	5	6	3	0		6	5	6	0	
+0	1	25	H	5	6	3	1	HAE	5	6	3	1	HEA
+0	0	0	A	5	6	3	0		1	7	6	0	
+0	0	0	E	5	6	3	0		4	8	5	0	
+1	0	0	#	5	10	3	0		6	9	7	0	
+0	1	26	M	5	10	3	1	MGS	5	10	8	1	MOIETIES
+0	1	27	G	5	10	3	0		5	11	3	1	GUS
+0	1	28	S	5	10	3	0		5	12	3	1	SRA
+0	1	29	C	6	0	13	1	CHILDRENSHOUR	5	0	3	0	
+0	0	0	H	6	0	13	0		5	1	3	0	
+0	0	0	I	6	0	13	0		0	2	8	0	
+0	0	0	L	6	0	13	0		0	3	7	0	
+0	0	0	D	6	0	13	0		4	4	5	0	
+0	1	30	R	6	0	13	0		6	5	6	1	REINED
+0	0	0	E	6	0	13	0		5	6	3	0	
+0	0	0	N	6	0	13	0		1	7	6	0	
+0	0	0	S	6	0	13	0		4	8	5	0	
+0	1	31	H	6	0	13	0		6	9	7	1	HTHROBS
+0	0	0	O	6	0	13	0		5	10	8	0	
+0	0	0	U	6	0	13	0		5	11	3	0	
+0	0	0	R	6	0	13	0		5	12	3	0	
+0	1	32	A	7	0	3	1	AGO	5	0	3	0	
+0	0	0	G	7	0	3	0		5	1	3	0	
+0	0	0	O	7	0	3	0		0	2	8	0	
+1	0	0	#	7	4	3	0		8	3	5	0	
+0	1	33	U	7	4	3	1	UEA	4	4	5	0	
+0	0	0	E	7	4	3	0		6	5	6	0	
+0	0	0	A	7	4	3	0		5	6	3	0	
+1	0	0	#	7	8	5	0		8	7	3	0	
+0	1	34	I	7	8	5	1	ITISA	4	8	5	0	
+0	0	0	T	7	8	5	0		6	9	7	0	
+0	0	0	I	7	8	5	0		5	10	8	0	
+0	0	0	S	7	8	5	0		5	11	3	0	
+0	0	0	A	7	8	5	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	4	0	
+1	0	0	#	8	3	3	0		9	2	4	0	
+0	1	35	A	8	3	3	1	ASI	8	3	5	1	ASHES
+0	0	0	S	8	3	3	0		4	4	5	0	
+0	0	0	I	8	3	3	0		6	5	6	0	
+1	0	0	#	8	7	4	0		9	6	3	0	
+0	1	36	O	8	7	4	1	ORHE	8	7	3	1	OTC
+0	0	0	R	8	7	4	0		4	8	5	0	
+0	0	0	H	8	7	4	0		6	9	7	0	
+0	0	0	E	8	7	4	0		5	10	8	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	37	T	9	1	3	1	TAS	9	1	4	1	TONO
+0	1	38	A	9	1	3	0		9	2	4	1	APBS
+0	0	0	S	9	1	3	0		8	3	5	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	39	N	9	5	3	1	NIT	6	5	6	0	
+0	1	40	I	9	5	3	0		9	6	3	1	ISI
+0	0	0	T	9	5	3	0		8	7	3	0	
+1	0	0	#	9	9	3	0		10	8	3	0	
+0	1	41	R	9	9	3	1	RTS	6	9	7	0	
+0	0	0	T	9	9	3	0		5	10	8	0	
+0	1	42	S	9	9	3	0		9	11	4	1	SCAS
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	S	10	0	13	1	SOPHIESCHOICE	10	0	3	1	SUM
+0	0	0	O	10	0	13	0		9	1	4	0	
+0	0	0	P	10	0	13	0		9	2	4	0	
+0	0	0	H	10	0	13	0		8	3	5	0	
+0	1	44	I	10	0	13	0		10	4	3	1	ILO
+0	0	0	E	10	0	13	0		6	5	6	0	
+0	0	0	S	10	0	13	0		9	6	3	0	
+0	0	0	C	10	0	13	0		8	7	3	0	
+0	1	45	H	10	0	13	0		10	8	3	1	HIS
+0	0	0	O	10	0	13	0		6	9	7	0	
+0	0	0	I	10	0	13	0		5	10	8	0	
+0	0	0	C	10	0	13	0		9	11	4	0	
+0	1	46	E	10	0	13	0		10	12	3	1	EMS
+0	1	47	U	11	0	7	1	UNBELDI	10	0	3	0	
+0	0	0	N	11	0	7	0		9	1	4	0	
+0	0	0	B	11	0	7	0		9	2	4	0	
+0	0	0	E	11	0	7	0		8	3	5	0	
+0	0	0	L	11	0	7	0		10	4	3	0	
+0	0	0	D	11	0	7	0		6	5	6	0	
+0	0	0	I	11	0	7	0		9	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	48	I	11	8	5	1	IBEAM	10	8	3	0	
+0	0	0	B	11	8	5	0		6	9	7	0	
+0	0	0	E	11	8	5	0		5	10	8	0	
+0	0	0	A	11	8	5	0		9	11	4	0	
+0	0	0	M	11	8	5	0		10	12	3	0	
+0	1	49	M	12	0	5	1	MOSSO	10	0	3	0	
+0	0	0	O	12	0	5	0		9	1	4	0	
+0	0	0	S	12	0	5	0		9	2	4	0	
+0	0	0	S	12	0	5	0		8	3	5	0	
+0	0	0	O	12	0	5	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	50	S	12	8	5	1	SSSSS	10	8	3	0	
+0	0	0	S	12	8	5	0		6	9	7	0	
+0	0	0	S	12	8	5	0		5	10	8	0	
+0	0	0	S	12	8	5	0		9	11	4	0	
+0	0	0	S	12	8	5	0		10	12	3	0	
+27
+1	SPORT	Tennis or table tennis
+6	NUTSO	Bonkers
+11	BESOT	Ply with liquor
+12	PAYLOAD	Business end of a missile
+14	APOSTLESCREED	"Long-winded oration of Andrew, e.g.?"
+16	ELE	One in the charge of un instituteur
+17	YEH	Quick assent
+18	ISS	Magazine: Abbr.
+19	EONS	Spans of history
+21	MAC	Raincoat, for short
+23	MCMII	Year the first Rose Bowl was played
+25	HAE	"O Tibbie, I ___ seen the day": Burns
+26	MGS	Some sports cars
+29	CHILDRENSHOUR	"1934 Lillian Hellman play, with ""The"""
+32	AGO	In the past
+33	UEA	Pupil's place
+34	ITISA	"___ far far better thing ...": Dickens
+35	ASI	"Just ___ suspected!"
+36	ORHE	"What's Hecuba to him ___ to Hecuba": Hamlet
+37	TAS	Univ. aides
+39	NIT	Thing to be picked
+41	RTS	Some N.F.L.'ers
+43	SOPHIESCHOICE	1982 Meryl Streep film
+47	UNBELDI	Puccini aria
+48	IBEAM	Construction site sight
+49	MOSSO	Rapid, to Rossini
+50	SSSSS	Exceptional rating
+33
+1	SBA	Fed. loan agency
+2	PEPE	"___ Le Moko" (1937 Duvivier drama)
+3	OSOLEMIO	Song that Elvis's "It's Now or Never" was based on
+4	ROSEOIL	Perfume ingredient
+5	TTT	Fort Smith-to-Little Rock dir.
+6	NYC	Big Apple inits.
+7	ULRIC	"Tiger Rose" actress Lenore, 1923
+8	TOES	Flirts may use theirs
+9	SAES	Requests from an ed.
+10	ODD	"How ___ ..."
+12	PEE	Eta : aitch :: rho : ___
+13	ASHMAN	Garbage collector
+15	LYS	French/Belgian border river
+20	NIDUS	Nest
+22	AESIR	Valhalla V.I.P.'s
+23	MCA	Record co. that bought Motown in 1988
+24	CHG	Abbr. on a receipt
+25	HEA	"Isn't ___ bit like you and me?" (Beatles lyric)
+26	MOIETIES	Halves
+27	GUS	70's-80's N.B.A. star Williams
+28	SRA	Majorca Mrs.
+30	REINED	Checked, with "in"
+31	HTHROBS	Certain idols
+35	ASHES	Winetrees
+36	OTC	Like some stocks: Abbr.
+37	TONO	"___-Bungay" (Wells novel)
+38	APBS	Squad cars get them, in brief
+40	ISI	"Woe ___" (classic book for "grammarphobes")
+42	SCAS	Flies away
+43	SUM	Addition solution
+44	ILO	Workers' rights agcy.
+45	HIS	Hellos
+46	EMS	Modem termini?

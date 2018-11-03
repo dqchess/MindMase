@@ -1,0 +1,305 @@
+grid_15x15_30
+15
+0	1	1	D	0	0	3	1	DUM	0	0	3	1	DIM
+0	1	2	U	0	0	3	0		0	1	3	1	UDO
+0	1	3	M	0	0	3	0		0	2	15	1	MORFSDAERREWSNA
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	R	0	5	3	1	ROC	0	5	3	1	RUR
+0	1	5	O	0	5	3	0		0	6	3	1	ORA
+0	1	6	C	0	5	3	0		0	7	15	1	CONVERTIBLESOFA
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	A	0	10	3	1	ARI	0	10	5	1	ACERB
+0	1	8	R	0	10	3	0		0	11	3	1	ROS
+0	1	9	I	0	10	3	0		0	12	15	1	INTHEBLINKOFANI
+1	0	0	#	0	14	0	0		1	13	10	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	I	1	0	3	1	IDO	0	0	3	0	
+0	0	0	D	1	0	3	0		0	1	3	0	
+0	0	0	O	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	11	J	1	4	5	1	JUROR	1	4	3	1	JAB
+0	0	0	U	1	4	5	0		0	5	3	0	
+0	0	0	R	1	4	5	0		0	6	3	0	
+0	0	0	O	1	4	5	0		0	7	15	0	
+0	1	12	R	1	4	5	0		1	8	3	1	RDA
+1	0	0	#	1	10	4	0		2	9	3	0	
+0	1	13	C	1	10	4	1	CONF	0	10	5	0	
+0	0	0	O	1	10	4	0		0	11	3	0	
+0	0	0	N	1	10	4	0		0	12	15	0	
+0	1	14	F	1	10	4	0		1	13	10	1	FLATTENOUT
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	M	2	0	15	1	MORTARANDPESTLE	0	0	3	0	
+0	0	0	O	2	0	15	0		0	1	3	0	
+0	0	0	R	2	0	15	0		0	2	15	0	
+0	1	16	T	2	0	15	0		2	3	3	1	TIX
+0	0	0	A	2	0	15	0		1	4	3	0	
+0	0	0	R	2	0	15	0		0	5	3	0	
+0	0	0	A	2	0	15	0		0	6	3	0	
+0	0	0	N	2	0	15	0		0	7	15	0	
+0	0	0	D	2	0	15	0		1	8	3	0	
+0	1	17	P	2	0	15	0		2	9	3	1	PIE
+0	0	0	E	2	0	15	0		0	10	5	0	
+0	0	0	S	2	0	15	0		0	11	3	0	
+0	0	0	T	2	0	15	0		0	12	15	0	
+0	0	0	L	2	0	15	0		1	13	10	0	
+0	1	18	E	2	0	15	0		2	14	3	1	ELS
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	10	0	
+0	1	19	F	3	2	3	1	FIB	0	2	15	0	
+0	0	0	I	3	2	3	0		2	3	3	0	
+0	0	0	B	3	2	3	0		1	4	3	0	
+1	0	0	#	3	6	0	0		4	5	5	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	20	V	3	7	4	1	VAIR	0	7	15	0	
+0	0	0	A	3	7	4	0		1	8	3	0	
+0	0	0	I	3	7	4	0		2	9	3	0	
+0	0	0	R	3	7	4	0		0	10	5	0	
+1	0	0	#	3	12	3	0		4	11	4	0	
+0	1	21	H	3	12	3	1	HAL	0	12	15	0	
+0	0	0	A	3	12	3	0		1	13	10	0	
+0	0	0	L	3	12	3	0		2	14	3	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	22	U	4	1	3	1	USX	4	1	10	1	UNPREPARED
+0	0	0	S	4	1	3	0		0	2	15	0	
+0	0	0	X	4	1	3	0		2	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	23	R	4	5	3	1	ROE	4	5	5	1	RANUP
+0	1	24	O	4	5	3	0		4	6	5	1	ODILE
+0	0	0	E	4	5	3	0		0	7	15	0	
+1	0	0	#	4	9	6	0		5	8	0	0	
+0	1	25	E	4	9	6	1	EBBETS	2	9	3	0	
+0	0	0	B	4	9	6	0		0	10	5	0	
+0	1	26	B	4	9	6	0		4	11	4	1	BAAN
+0	0	0	E	4	9	6	0		0	12	15	0	
+0	0	0	T	4	9	6	0		1	13	10	0	
+0	0	0	S	4	9	6	0		2	14	3	0	
+0	1	27	A	5	0	3	1	AND	5	0	3	1	ACA
+0	0	0	N	5	0	3	0		4	1	10	0	
+0	0	0	D	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	28	S	5	4	4	1	SADR	5	4	3	1	SAO
+0	0	0	A	5	4	4	0		4	5	5	0	
+0	0	0	D	5	4	4	0		4	6	5	0	
+0	0	0	R	5	4	4	0		0	7	15	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	29	A	5	11	3	1	ABT	4	11	4	0	
+0	0	0	B	5	11	3	0		0	12	15	0	
+0	0	0	T	5	11	3	0		1	13	10	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	30	C	6	0	3	1	CPA	5	0	3	0	
+0	0	0	P	6	0	3	0		4	1	10	0	
+0	0	0	A	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	6	0		7	3	4	0	
+0	1	31	A	6	4	6	1	ANITAS	5	4	3	0	
+0	0	0	N	6	4	6	0		4	5	5	0	
+0	0	0	I	6	4	6	0		4	6	5	0	
+0	0	0	T	6	4	6	0		0	7	15	0	
+0	1	32	A	6	4	6	0		6	8	5	1	ASBIG
+0	1	33	S	6	4	6	0		6	9	5	1	STLEO
+1	0	0	#	6	11	3	0		7	10	3	0	
+0	1	34	A	6	11	3	1	ALE	4	11	4	0	
+0	0	0	L	6	11	3	0		0	12	15	0	
+0	0	0	E	6	11	3	0		1	13	10	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	A	7	0	15	1	AREYOULISTENING	5	0	3	0	
+0	0	0	R	7	0	15	0		4	1	10	0	
+0	0	0	E	7	0	15	0		0	2	15	0	
+0	1	36	Y	7	0	15	0		7	3	4	1	YAYS
+0	0	0	O	7	0	15	0		5	4	3	0	
+0	0	0	U	7	0	15	0		4	5	5	0	
+0	0	0	L	7	0	15	0		4	6	5	0	
+0	0	0	I	7	0	15	0		0	7	15	0	
+0	0	0	S	7	0	15	0		6	8	5	0	
+0	0	0	T	7	0	15	0		6	9	5	0	
+0	1	37	E	7	0	15	0		7	10	3	1	EEN
+0	0	0	N	7	0	15	0		4	11	4	0	
+0	0	0	I	7	0	15	0		0	12	15	0	
+0	0	0	N	7	0	15	0		1	13	10	0	
+0	1	38	G	7	0	15	0		7	14	3	1	GRE
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	39	E	8	1	3	1	ERA	4	1	10	0	
+0	0	0	R	8	1	3	0		0	2	15	0	
+0	0	0	A	8	1	3	0		7	3	4	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	40	P	8	5	6	1	PEBBLE	4	5	5	0	
+0	0	0	E	8	5	6	0		4	6	5	0	
+0	0	0	B	8	5	6	0		0	7	15	0	
+0	0	0	B	8	5	6	0		6	8	5	0	
+0	0	0	L	8	5	6	0		6	9	5	0	
+0	0	0	E	8	5	6	0		7	10	3	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	41	N	8	12	3	1	NOR	0	12	15	0	
+0	0	0	O	8	12	3	0		1	13	10	0	
+0	0	0	R	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	42	P	9	1	3	1	PRY	4	1	10	0	
+0	0	0	R	9	1	3	0		0	2	15	0	
+0	0	0	Y	9	1	3	0		7	3	4	0	
+1	0	0	#	9	5	0	0		10	4	5	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	43	L	9	7	4	1	LIEN	0	7	15	0	
+0	0	0	I	9	7	4	0		6	8	5	0	
+0	0	0	E	9	7	4	0		6	9	5	0	
+0	0	0	N	9	7	4	0		7	10	3	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	44	K	9	12	3	1	KUE	0	12	15	0	
+0	0	0	U	9	12	3	0		1	13	10	0	
+0	0	0	E	9	12	3	0		7	14	3	0	
+0	1	45	C	10	0	6	1	CAESAR	10	0	3	1	CTR
+0	0	0	A	10	0	6	0		4	1	10	0	
+0	0	0	E	10	0	6	0		0	2	15	0	
+0	0	0	S	10	0	6	0		7	3	4	0	
+0	1	46	A	10	0	6	0		10	4	5	1	AUSSI
+0	1	47	R	10	0	6	0		10	5	3	1	RIO
+1	0	0	#	10	7	3	0		11	6	3	0	
+0	1	48	E	10	7	3	1	EGO	0	7	15	0	
+0	0	0	G	10	7	3	0		6	8	5	0	
+0	0	0	O	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	3	0		11	10	3	0	
+0	1	49	J	10	11	3	1	JOT	10	11	3	1	JLO
+0	0	0	O	10	11	3	0		0	12	15	0	
+0	0	0	T	10	11	3	0		1	13	10	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	50	T	11	0	3	1	TRW	10	0	3	0	
+0	0	0	R	11	0	3	0		4	1	10	0	
+0	0	0	W	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	4	0		12	3	3	0	
+0	1	51	U	11	4	4	1	UIES	10	4	5	0	
+0	0	0	I	11	4	4	0		10	5	3	0	
+0	1	52	E	11	4	4	0		11	6	3	1	ENA
+0	0	0	S	11	4	4	0		0	7	15	0	
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	3	0		12	9	3	0	
+0	1	53	E	11	10	3	1	ELF	11	10	3	1	EST
+0	0	0	L	11	10	3	0		10	11	3	0	
+0	0	0	F	11	10	3	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	54	R	12	0	15	1	RESTSONONESOARS	10	0	3	0	
+0	0	0	E	12	0	15	0		4	1	10	0	
+0	0	0	S	12	0	15	0		0	2	15	0	
+0	1	55	T	12	0	15	0		12	3	3	1	TAH
+0	0	0	S	12	0	15	0		10	4	5	0	
+0	0	0	O	12	0	15	0		10	5	3	0	
+0	0	0	N	12	0	15	0		11	6	3	0	
+0	0	0	O	12	0	15	0		0	7	15	0	
+0	1	56	N	12	0	15	0		12	8	3	1	NOO
+0	1	57	E	12	0	15	0		12	9	3	1	EON
+0	0	0	S	12	0	15	0		11	10	3	0	
+0	0	0	O	12	0	15	0		10	11	3	0	
+0	0	0	A	12	0	15	0		0	12	15	0	
+0	1	58	R	12	0	15	0		12	13	3	1	RBD
+0	1	59	S	12	0	15	0		12	14	3	1	SSA
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	60	D	13	1	4	1	DNAS	4	1	10	0	
+0	0	0	N	13	1	4	0		0	2	15	0	
+0	0	0	A	13	1	4	0		12	3	3	0	
+0	0	0	S	13	1	4	0		10	4	5	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	61	A	13	6	5	1	AFOOT	11	6	3	0	
+0	0	0	F	13	6	5	0		0	7	15	0	
+0	0	0	O	13	6	5	0		12	8	3	0	
+0	0	0	O	13	6	5	0		12	9	3	0	
+0	0	0	T	13	6	5	0		11	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	62	N	13	12	3	1	NBS	0	12	15	0	
+0	0	0	B	13	12	3	0		12	13	3	0	
+0	0	0	S	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	63	A	14	2	3	1	AHI	0	2	15	0	
+0	0	0	H	14	2	3	0		12	3	3	0	
+0	0	0	I	14	2	3	0		10	4	5	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	64	A	14	7	3	1	AON	0	7	15	0	
+0	0	0	O	14	7	3	0		12	8	3	0	
+0	0	0	N	14	7	3	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	65	I	14	12	3	1	IDA	0	12	15	0	
+0	0	0	D	14	12	3	0		12	13	3	0	
+0	0	0	A	14	12	3	0		12	14	3	0	
+39
+1	DUM	Musical sound before and after "da"
+4	ROC	Hip-hop's ___-A-Fella Records
+7	ARI	"Exodus" protagonist
+10	IDO	Words of commitment
+11	JUROR	"12 Angry Men" role
+13	CONF	Part of the N.C.A.A.'s purview: Abbr.
+15	MORTARANDPESTLE	Drug combination?
+19	FIB	Little lie
+20	VAIR	Heraldic fur
+21	HAL	Film producer Roach
+22	USX	Fortune 500 steelmaker
+23	ROE	Hatchery supply
+25	EBBETS	Field for Dem Bums
+27	AND	Not only that
+28	SADR	Baghdad's ___ City
+29	ABT	Co. that dances at the Met
+30	CPA	Tax pro, for short
+31	ANITAS	Writers Shreve and Brookner
+34	ALE	Sierra Nevada, e.g.
+35	AREYOULISTENING	"Is this thing on?"
+39	ERA	Big name in home selling
+40	PEBBLE	Little rock
+41	NOR	Neighbor of Swe.
+42	PRY	Sniff around
+43	LIEN	Bank security
+44	KUE	Letter after pee
+45	CAESAR	Kind of salad
+48	EGO	"I" for Claudius
+49	JOT	Practically nothing
+50	TRW	Cleveland-based high-tech co.
+51	UIES	180-degree turns, in slang
+53	ELF	Shoemaker's helper, in a fairy tale
+54	RESTSONONESOARS	Stops striving
+60	DNAS	Genetic strands
+61	AFOOT	What the game may be
+62	NBS	Measurements overseer: Abbr.
+63	AHI	___ tuna
+64	AON	___ Center (Chicago skyscraper)
+65	IDA	Girl "sweet as apple cider"
+37
+1	DIM	Turn down
+2	UDO	Japanese vegetable
+3	MORFSDAERREWSNA	Instructions, part 2
+4	RUR	Dystopian 1920 play
+5	ORA	"___ pro nobis"
+6	CONVERTIBLESOFA	Guest-room furniture
+7	ACERB	Biting
+8	ROS	Author Asquith of children's books
+9	INTHEBLINKOFANI	Quickly, to an egotist?
+11	JAB	Short punch
+12	RDA	Vitamin bottle info, for short
+14	FLATTENOUT	Become level
+16	TIX	B.O. buys
+17	PIE	Kind of filling
+18	ELS	Noisy trains
+22	UNPREPARED	Off-guard
+23	RANUP	Accumulated, as debts
+24	ODILE	"Swan Lake" siren
+26	BAAN	Wayne film "Back to ___"
+27	ACA	Here, in Ju
+28	SAO	___ Miguel
+32	ASBIG	Comparable in size
+33	STLEO	Florida univ. affiliated with the Catholic Church
+36	YAYS	Triumphant cries
+37	EEN	Dark time for bards
+38	GRE	Score in a univ. application
+45	CTR	Turning point: Abbr.
+46	AUSSI	What's also in Paris?
+47	RIO	Earth Summit site
+49	JLO	Multiplatinum album with the 2002 hit "Ain't It Funny"
+52	ENA	1930's Spanish queen
+53	EST	Certain training
+55	TAH	Panama, e.g.
+56	NOO	Emergency call
+57	EON	Unit in astronomy
+58	RBD	Hosp. areas
+59	SSA	Govt. old-age insurer

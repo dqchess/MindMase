@@ -1,0 +1,117 @@
+grid_9x9_32
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	L	0	1	3	1	LRG	0	1	5	1	LOOFA
+0	1	2	R	0	1	3	0		0	2	9	1	RACIALISM
+0	1	3	G	0	1	3	0		0	3	3	1	GSA
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	A	0	6	3	1	ADA	0	6	9	1	ALABASTER
+0	1	5	D	0	6	3	0		0	7	3	1	DUG
+0	1	6	A	0	6	3	0		0	8	3	1	AMY
+0	1	7	G	1	0	4	1	GOAS	1	0	3	1	GLI
+0	0	0	O	1	0	4	0		0	1	5	0	
+0	0	0	A	1	0	4	0		0	2	9	0	
+0	0	0	S	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	A	1	5	4	1	ALUM	1	5	4	1	ANOD
+0	0	0	L	1	5	4	0		0	6	9	0	
+0	0	0	U	1	5	4	0		0	7	3	0	
+0	0	0	M	1	5	4	0		0	8	3	0	
+0	1	9	L	2	0	4	1	LOCA	1	0	3	0	
+0	0	0	O	2	0	4	0		0	1	5	0	
+0	0	0	C	2	0	4	0		0	2	9	0	
+0	0	0	A	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	N	2	5	4	1	NAGY	1	5	4	0	
+0	0	0	A	2	5	4	0		0	6	9	0	
+0	0	0	G	2	5	4	0		0	7	3	0	
+0	0	0	Y	2	5	4	0		0	8	3	0	
+0	1	11	I	3	0	3	1	IFI	1	0	3	0	
+0	0	0	F	3	0	3	0		0	1	5	0	
+0	0	0	I	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	S	3	4	3	1	SOB	3	4	3	1	SEW
+0	0	0	O	3	4	3	0		1	5	4	0	
+0	0	0	B	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	13	A	4	1	7	1	AAHEDAT	0	1	5	0	
+0	0	0	A	4	1	7	0		0	2	9	0	
+0	1	14	H	4	1	7	0		4	3	4	1	HOOD
+0	0	0	E	4	1	7	0		3	4	3	0	
+0	0	0	D	4	1	7	0		1	5	4	0	
+0	0	0	A	4	1	7	0		0	6	9	0	
+0	1	15	T	4	1	7	0		4	7	5	1	TSOIL
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	16	L	5	2	3	1	LOW	0	2	9	0	
+0	0	0	O	5	2	3	0		4	3	4	0	
+0	0	0	W	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	S	5	6	3	1	SSW	0	6	9	0	
+0	0	0	S	5	6	3	0		4	7	5	0	
+0	1	18	W	5	6	3	0		5	8	3	1	WPA
+0	1	19	T	6	0	4	1	TRIO	6	0	3	1	TAB
+0	1	20	R	6	0	4	0		6	1	3	1	RSA
+0	0	0	I	6	0	4	0		0	2	9	0	
+0	0	0	O	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	F	6	5	4	1	FTOP	6	5	3	1	FLU
+0	0	0	T	6	5	4	0		0	6	9	0	
+0	0	0	O	6	5	4	0		4	7	5	0	
+0	0	0	P	6	5	4	0		5	8	3	0	
+0	1	22	A	7	0	4	1	ASSD	6	0	3	0	
+0	0	0	S	7	0	4	0		6	1	3	0	
+0	0	0	S	7	0	4	0		0	2	9	0	
+0	0	0	D	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	23	L	7	5	4	1	LEIA	6	5	3	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	I	7	5	4	0		4	7	5	0	
+0	0	0	A	7	5	4	0		5	8	3	0	
+0	1	24	B	8	0	3	1	BAM	6	0	3	0	
+0	0	0	A	8	0	3	0		6	1	3	0	
+0	0	0	M	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	U	8	5	3	1	URL	6	5	3	0	
+0	0	0	R	8	5	3	0		0	6	9	0	
+0	0	0	L	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	LRG	Big: Abbr.
+4	ADA	Tooth doctors' org.
+7	GOAS	Impersonate, in a way
+8	ALUM	Class of '98 member, e.g.
+9	LOCA	Like Ricky Martin's "vida"
+10	NAGY	Hungarian patriot Imre ___
+11	IFI	"___ Only Had a Brain"
+12	SOB	Cry loudly
+13	AAHEDAT	Showed delight over
+16	LOW	Meteorological phenomenon
+17	SSW	Opposite NNE
+19	TRIO	Small combo
+21	FTOP	Aircraft carrier
+22	ASSD	Made a tax valuation: Abbr.
+23	LEIA	Sci-fi royal
+24	BAM	"Kapow!"
+25	URL	Hi-tech bookmark
+15
+1	LOOFA	Bath sponge: Var.
+2	RACIALISM	Bunker mentality?
+3	GSA	Govt. property org.
+4	ALABASTER	Smooth and white
+5	DUG	Grooved on
+6	AMY	Grant with Grammys
+7	GLI	Los : Spanish :: ___ : Italian
+8	ANOD	SLEEPY
+12	SEW	Wrap (up)
+14	HOOD	Where homeys hang
+15	TSOIL	Plowed layer
+18	WPA	F.D.R.-era agcy.
+19	TAB	A bartender may run one
+20	RSA	Mandela's land: Abbr.
+21	FLU	Asian ___

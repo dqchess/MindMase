@@ -1,0 +1,113 @@
+grid_9x9_176
+9
+0	1	1	I	0	0	3	1	IQS	0	0	3	1	IRE
+0	1	2	Q	0	0	3	0		0	1	3	1	QED
+0	1	3	S	0	0	3	0		0	2	9	1	SDAYPUNCH
+1	0	0	#	0	4	0	0		1	3	7	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	7	0	
+0	1	4	C	0	6	3	1	CAS	0	6	9	1	CORNERLOT
+0	1	5	A	0	6	3	0		0	7	5	1	AGEES
+0	1	6	S	0	6	3	0		0	8	4	1	SESS
+0	1	7	R	1	0	4	1	REDR	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	3	0	
+0	0	0	D	1	0	4	0		0	2	9	0	
+0	1	8	R	1	0	4	0		1	3	7	1	RSVPING
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	L	1	5	4	1	LOGE	1	5	7	1	LENIENT
+0	0	0	O	1	5	4	0		0	6	9	0	
+0	0	0	G	1	5	4	0		0	7	5	0	
+0	0	0	E	1	5	4	0		0	8	4	0	
+0	1	10	E	2	0	4	1	EDAS	0	0	3	0	
+0	0	0	D	2	0	4	0		0	1	3	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		1	3	7	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	E	2	5	4	1	ERES	1	5	7	0	
+0	0	0	R	2	5	4	0		0	6	9	0	
+0	0	0	E	2	5	4	0		0	7	5	0	
+0	0	0	S	2	5	4	0		0	8	4	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	7	0		4	1	5	0	
+0	1	12	Y	3	2	7	1	YVONNES	0	2	9	0	
+0	0	0	V	3	2	7	0		1	3	7	0	
+0	1	13	O	3	2	7	0		3	4	3	1	OLS
+0	0	0	N	3	2	7	0		1	5	7	0	
+0	0	0	N	3	2	7	0		0	6	9	0	
+0	0	0	E	3	2	7	0		0	7	5	0	
+0	0	0	S	3	2	7	0		0	8	4	0	
+1	0	0	#	4	1	7	0		5	0	4	0	
+0	1	14	A	4	1	7	1	APPLIES	4	1	5	1	ARULE
+0	0	0	P	4	1	7	0		0	2	9	0	
+0	0	0	P	4	1	7	0		1	3	7	0	
+0	0	0	L	4	1	7	0		3	4	3	0	
+0	0	0	I	4	1	7	0		1	5	7	0	
+0	0	0	E	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	15	B	5	0	7	1	BRUISER	5	0	4	1	BDRM
+0	0	0	R	5	0	7	0		4	1	5	0	
+0	0	0	U	5	0	7	0		0	2	9	0	
+0	0	0	I	5	0	7	0		1	3	7	0	
+0	0	0	S	5	0	7	0		3	4	3	0	
+0	0	0	E	5	0	7	0		1	5	7	0	
+0	0	0	R	5	0	7	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	16	D	6	0	4	1	DUNN	5	0	4	0	
+0	0	0	U	6	0	4	0		4	1	5	0	
+0	0	0	N	6	0	4	0		0	2	9	0	
+0	0	0	N	6	0	4	0		1	3	7	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	17	N	6	5	4	1	NLAT	1	5	7	0	
+0	0	0	L	6	5	4	0		0	6	9	0	
+0	1	18	A	6	5	4	0		6	7	3	1	ASC
+0	1	19	T	6	5	4	0		6	8	3	1	THI
+0	1	20	R	7	0	4	1	RLCG	5	0	4	0	
+0	0	0	L	7	0	4	0		4	1	5	0	
+0	0	0	C	7	0	4	0		0	2	9	0	
+0	0	0	G	7	0	4	0		1	3	7	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	21	T	7	5	4	1	TOSH	1	5	7	0	
+0	0	0	O	7	5	4	0		0	6	9	0	
+0	0	0	S	7	5	4	0		6	7	3	0	
+0	0	0	H	7	5	4	0		6	8	3	0	
+0	1	22	M	8	0	3	1	MEH	5	0	4	0	
+0	0	0	E	8	0	3	0		4	1	5	0	
+0	0	0	H	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	23	T	8	6	3	1	TCI	0	6	9	0	
+0	0	0	C	8	6	3	0		6	7	3	0	
+0	0	0	I	8	6	3	0		6	8	3	0	
+15
+1	IQS	Binet data
+4	CAS	___ in cat
+7	REDR	"Little" barnyard bird with an alliterative name in a classic Willie Dixon blues song
+9	LOGE	High-priced ticket option
+10	EDAS	Writer LeShan and others
+11	ERES	"___ Tu" (1974 hit)
+12	YVONNES	Actress De Carlo and others
+14	APPLIES	Pertains
+15	BRUISER	Bouncer type
+16	DUNN	Singing partner of Brooks
+17	NLAT	About 40 degrees, for N.Y.C.
+20	RLCG	Cockney greeting
+21	TOSH	Nonsense, to a Brit
+22	MEH	"Doesn't thrill me"
+23	TCI	Cable giant, for short
+13
+1	IRE	Fury
+2	QED	Letters seen by a proof reader?
+3	SDAYPUNCH	Crushing blow
+4	CORNERLOT	Prominent location to build on (as suggested by this puzzle?)
+5	AGEES	"The Morning Watch" novelist and others
+6	SESS	Cong. period
+8	RSVPING	Answering
+9	LENIENT	Easy
+13	OLS	Barn denizens
+14	ARULE	As ___ (mostly)
+15	BDRM	Real estate ad abbr.
+18	ASC	Camera operator's org.
+19	THI	Summer comfort stat

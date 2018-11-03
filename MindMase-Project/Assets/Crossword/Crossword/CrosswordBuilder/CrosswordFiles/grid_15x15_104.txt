@@ -1,0 +1,307 @@
+grid_15x15_104
+15
+0	1	1	U	0	0	3	1	UNU	0	0	3	1	UMA
+0	1	2	N	0	0	3	0		0	1	5	1	NABOB
+0	1	3	U	0	0	3	0		0	2	5	1	UPAND
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	S	0	5	3	1	SMU	0	5	6	1	SLEAZY
+0	1	5	M	0	5	3	0		0	6	4	1	MOOG
+0	1	6	U	0	5	3	0		0	7	3	1	URL
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	7	D	0	9	3	1	DAO	0	9	8	1	DIATRIBE
+0	1	8	A	0	9	3	0		0	10	6	1	ATNOON
+0	1	9	O	0	9	3	0		0	11	3	1	OOH
+1	0	0	#	0	13	0	0		1	12	3	0	
+1	0	0	#	0	14	0	0		1	13	3	0	
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	10	M	1	0	4	1	MAPS	0	0	3	0	
+0	0	0	A	1	0	4	0		0	1	5	0	
+0	0	0	P	1	0	4	0		0	2	5	0	
+0	1	11	S	1	0	4	0		1	3	6	1	SNAILS
+1	0	0	#	1	5	10	0		2	4	0	0	
+0	1	12	L	1	5	10	1	LORDITOVER	0	5	6	0	
+0	0	0	O	1	5	10	0		0	6	4	0	
+0	0	0	R	1	5	10	0		0	7	3	0	
+0	1	13	D	1	5	10	0		1	8	3	1	DIO
+0	0	0	I	1	5	10	0		0	9	8	0	
+0	0	0	T	1	5	10	0		0	10	6	0	
+0	0	0	O	1	5	10	0		0	11	3	0	
+0	1	14	V	1	5	10	0		1	12	3	1	VAN
+0	1	15	E	1	5	10	0		1	13	3	1	ERO
+0	1	16	R	1	5	10	0		1	14	3	1	RPM
+0	1	17	A	2	0	4	1	ABAN	0	0	3	0	
+0	0	0	B	2	0	4	0		0	1	5	0	
+0	0	0	A	2	0	4	0		0	2	5	0	
+0	0	0	N	2	0	4	0		1	3	6	0	
+1	0	0	#	2	5	10	0		3	4	3	0	
+0	1	18	E	2	5	10	1	EOLIANHARP	0	5	6	0	
+0	0	0	O	2	5	10	0		0	6	4	0	
+0	0	0	L	2	5	10	0		0	7	3	0	
+0	0	0	I	2	5	10	0		1	8	3	0	
+0	0	0	A	2	5	10	0		0	9	8	0	
+0	0	0	N	2	5	10	0		0	10	6	0	
+0	0	0	H	2	5	10	0		0	11	3	0	
+0	0	0	A	2	5	10	0		1	12	3	0	
+0	0	0	R	2	5	10	0		1	13	3	0	
+0	0	0	P	2	5	10	0		1	14	3	0	
+1	0	0	#	3	1	6	0		4	0	0	0	
+0	1	19	O	3	1	6	1	ONAJAG	0	1	5	0	
+0	0	0	N	3	1	6	0		0	2	5	0	
+0	0	0	A	3	1	6	0		1	3	6	0	
+0	1	20	J	3	1	6	0		3	4	3	1	JQA
+0	0	0	A	3	1	6	0		0	5	6	0	
+0	0	0	G	3	1	6	0		0	6	4	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	21	O	3	8	3	1	OTO	1	8	3	0	
+0	0	0	T	3	8	3	0		0	9	8	0	
+0	0	0	O	3	8	3	0		0	10	6	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	22	N	3	12	3	1	NOM	1	12	3	0	
+0	0	0	O	3	12	3	0		1	13	3	0	
+0	0	0	M	3	12	3	0		1	14	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	23	B	4	1	5	1	BDIQZ	0	1	5	0	
+0	0	0	D	4	1	5	0		0	2	5	0	
+0	0	0	I	4	1	5	0		1	3	6	0	
+0	0	0	Q	4	1	5	0		3	4	3	0	
+0	0	0	Z	4	1	5	0		0	5	6	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	3	0		5	8	0	0	
+0	1	24	R	4	9	3	1	ROK	0	9	8	0	
+0	0	0	O	4	9	3	0		0	10	6	0	
+0	1	25	K	4	9	3	0		4	11	3	1	KON
+1	0	0	#	4	13	0	0		5	12	4	0	
+1	0	0	#	4	14	0	0		5	13	4	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	5	0		6	2	4	0	
+0	1	26	L	5	3	5	1	LAYER	1	3	6	0	
+0	0	0	A	5	3	5	0		3	4	3	0	
+0	0	0	Y	5	3	5	0		0	5	6	0	
+0	1	27	E	5	3	5	0		5	6	4	1	EFAX
+0	1	28	R	5	3	5	0		5	7	5	1	RIVET
+1	0	0	#	5	9	5	0		6	8	4	0	
+0	1	29	I	5	9	5	1	INOUR	0	9	8	0	
+0	0	0	N	5	9	5	0		0	10	6	0	
+0	0	0	O	5	9	5	0		4	11	3	0	
+0	1	30	U	5	9	5	0		5	12	4	1	USDO
+0	1	31	R	5	9	5	0		5	13	4	1	REBS
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	32	O	6	0	4	1	OBES	6	0	3	1	ORE
+0	1	33	B	6	0	4	0		6	1	4	1	BORO
+0	1	34	E	6	0	4	0		6	2	4	1	ENTR
+0	0	0	S	6	0	4	0		1	3	6	0	
+1	0	0	#	6	5	0	0		7	4	0	0	
+1	0	0	#	6	6	4	0		7	5	8	0	
+0	1	35	F	6	6	4	1	FIVB	5	6	4	0	
+0	0	0	I	6	6	4	0		5	7	5	0	
+0	1	36	V	6	6	4	0		6	8	4	1	VERE
+0	0	0	B	6	6	4	0		0	9	8	0	
+1	0	0	#	6	11	4	0		7	10	0	0	
+0	1	37	N	6	11	4	1	NSEC	4	11	3	0	
+0	0	0	S	6	11	4	0		5	12	4	0	
+0	0	0	E	6	11	4	0		5	13	4	0	
+0	1	38	C	6	11	4	0		6	14	3	1	CLI
+0	1	39	R	7	0	3	1	RON	6	0	3	0	
+0	0	0	O	7	0	3	0		6	1	4	0	
+0	0	0	N	7	0	3	0		6	2	4	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	40	N	7	5	5	1	NAVEE	7	5	8	1	NAILDOWN
+0	0	0	A	7	5	5	0		5	6	4	0	
+0	0	0	V	7	5	5	0		5	7	5	0	
+0	0	0	E	7	5	5	0		6	8	4	0	
+0	0	0	E	7	5	5	0		0	9	8	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+1	0	0	#	7	12	3	0		8	11	6	0	
+0	1	41	D	7	12	3	1	DBL	5	12	4	0	
+0	0	0	B	7	12	3	0		5	13	4	0	
+0	0	0	L	7	12	3	0		6	14	3	0	
+0	1	42	E	8	0	4	1	ERTE	6	0	3	0	
+0	0	0	R	8	0	4	0		6	1	4	0	
+0	0	0	T	8	0	4	0		6	2	4	0	
+0	1	43	E	8	0	4	0		8	3	3	1	EIN
+1	0	0	#	8	5	4	0		9	4	6	0	
+0	1	44	A	8	5	4	1	AXER	7	5	8	0	
+0	0	0	X	8	5	4	0		5	6	4	0	
+0	0	0	E	8	5	4	0		5	7	5	0	
+0	0	0	R	8	5	4	0		6	8	4	0	
+1	0	0	#	8	10	0	0		9	9	6	0	
+1	0	0	#	8	11	4	0		9	10	3	0	
+0	1	45	C	8	11	4	1	COSI	8	11	6	1	CASTES
+0	0	0	O	8	11	4	0		5	12	4	0	
+0	0	0	S	8	11	4	0		5	13	4	0	
+0	0	0	I	8	11	4	0		6	14	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	46	O	9	1	5	1	ORIBI	6	1	4	0	
+0	0	0	R	9	1	5	0		6	2	4	0	
+0	0	0	I	9	1	5	0		8	3	3	0	
+0	1	47	B	9	1	5	0		9	4	6	1	BUSSED
+0	0	0	I	9	1	5	0		7	5	8	0	
+1	0	0	#	9	7	5	0		10	6	0	0	
+0	1	48	T	9	7	5	1	TEENA	5	7	5	0	
+0	0	0	E	9	7	5	0		6	8	4	0	
+0	1	49	E	9	7	5	0		9	9	6	1	EDESSA
+0	1	50	N	9	7	5	0		9	10	3	1	NIN
+0	0	0	A	9	7	5	0		8	11	6	0	
+1	0	0	#	9	13	0	0		10	12	5	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	0	0		11	1	3	0	
+1	0	0	#	10	3	3	0		11	2	3	0	
+0	1	51	N	10	3	3	1	NUL	8	3	3	0	
+0	0	0	U	10	3	3	0		9	4	6	0	
+0	0	0	L	10	3	3	0		7	5	8	0	
+1	0	0	#	10	7	0	0		11	6	3	0	
+1	0	0	#	10	8	0	0		11	7	0	0	
+1	0	0	#	10	9	5	0		11	8	4	0	
+0	1	52	D	10	9	5	1	DISCI	9	9	6	0	
+0	0	0	I	10	9	5	0		9	10	3	0	
+0	0	0	S	10	9	5	0		8	11	6	0	
+0	1	53	C	10	9	5	0		10	12	5	1	COUCH
+0	1	54	I	10	9	5	0		10	13	5	1	ISLAM
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	55	A	11	0	3	1	AHS	11	0	3	1	ATT
+0	1	56	H	11	0	3	0		11	1	3	1	HRH
+0	1	57	S	11	0	3	0		11	2	3	1	SER
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	58	S	11	4	3	1	SDI	9	4	6	0	
+0	0	0	D	11	4	3	0		7	5	8	0	
+0	1	59	I	11	4	3	0		11	6	3	1	INE
+1	0	0	#	11	8	6	0		12	7	3	0	
+0	1	60	L	11	8	6	1	LENTOS	11	8	4	1	LUKA
+0	0	0	E	11	8	6	0		9	9	6	0	
+0	0	0	N	11	8	6	0		9	10	3	0	
+0	0	0	T	11	8	6	0		8	11	6	0	
+0	0	0	O	11	8	6	0		10	12	5	0	
+0	0	0	S	11	8	6	0		10	13	5	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	61	T	12	0	10	1	TREASONOUS	11	0	3	0	
+0	0	0	R	12	0	10	0		11	1	3	0	
+0	0	0	E	12	0	10	0		11	2	3	0	
+0	1	62	A	12	0	10	0		12	3	3	1	AEC
+0	0	0	S	12	0	10	0		9	4	6	0	
+0	0	0	O	12	0	10	0		7	5	8	0	
+0	0	0	N	12	0	10	0		11	6	3	0	
+0	1	63	O	12	0	10	0		12	7	3	1	OEN
+0	0	0	U	12	0	10	0		11	8	4	0	
+0	0	0	S	12	0	10	0		9	9	6	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	64	E	12	11	4	1	EULA	8	11	6	0	
+0	0	0	U	12	11	4	0		10	12	5	0	
+0	0	0	L	12	11	4	0		10	13	5	0	
+0	1	65	A	12	11	4	0		12	14	3	1	ARM
+0	1	66	T	13	0	10	1	THREEWEEKS	11	0	3	0	
+0	0	0	H	13	0	10	0		11	1	3	0	
+0	0	0	R	13	0	10	0		11	2	3	0	
+0	0	0	E	13	0	10	0		12	3	3	0	
+0	0	0	E	13	0	10	0		9	4	6	0	
+0	0	0	W	13	0	10	0		7	5	8	0	
+0	0	0	E	13	0	10	0		11	6	3	0	
+0	0	0	E	13	0	10	0		12	7	3	0	
+0	0	0	K	13	0	10	0		11	8	4	0	
+0	0	0	S	13	0	10	0		9	9	6	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	67	S	13	11	4	1	SCAR	8	11	6	0	
+0	0	0	C	13	11	4	0		10	12	5	0	
+0	0	0	A	13	11	4	0		10	13	5	0	
+0	0	0	R	13	11	4	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	0	0		15	1	0	0	
+1	0	0	#	14	3	3	0		15	2	0	0	
+0	1	68	C	14	3	3	1	CDN	12	3	3	0	
+0	0	0	D	14	3	3	0		9	4	6	0	
+0	0	0	N	14	3	3	0		7	5	8	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	69	N	14	7	3	1	NAA	12	7	3	0	
+0	0	0	A	14	7	3	0		11	8	4	0	
+0	0	0	A	14	7	3	0		9	9	6	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	H	14	12	3	1	HMM	10	12	5	0	
+0	0	0	M	14	12	3	0		10	13	5	0	
+0	0	0	M	14	12	3	0		12	14	3	0	
+37
+1	UNU	1940's-50's leader with a palindromic name
+4	SMU	Planned site of the Geo. W. Bush Presidential Library
+7	DAO	1957 Physics Nobelist Tsung-___ Lee
+10	MAPS	Google heading
+12	LORDITOVER	Bully
+17	ABAN	Impose ___ on
+18	EOLIANHARP	Music maker "played" by the wind
+19	ONAJAG	Painting the town red
+21	OTO	Great Plains tribe
+22	NOM	Nancy, in Nancy
+23	BDIQZ	Some are grand
+24	ROK	Anti-Communist soldier
+26	LAYER	Cake feature
+29	INOUR	"Give peace ___ time, O Lord": Morning Prayer
+32	OBES	Awards for J. K. Rowling and P. L. Travers: Abbr.
+35	FIVB	Track tipster
+37	NSEC	Instant: Abbr.
+39	RON	"Bull Durham" director Shelton
+40	NAVEE	H.M.S. Pinafore force
+41	DBL	R.B.I. producer, sometimes: Abbr.
+42	ERTE	"Ziegfeld Follies" costume designer
+44	AXER	Downsizer
+45	COSI	Thus, to Luciano
+46	ORIBI	African antelope
+48	TEENA	Brandon ___ ("Boys Don't Cry" role)
+51	NUL	Match ___ (tie game, in France)
+52	DISCI	They're thrown in track and field
+55	AHS	Physical responses?
+58	SDI	Reagan pet project: Abbr.
+60	LENTOS	Slow musical passages
+61	TREASONOUS	Spying against one's own country, say
+64	EULA	Faulkner femme fatale ___ Varner
+66	THREEWEEKS	How long the N.C.A.A. basketball tournament lasts
+67	SCAR	Cliff
+68	CDN	Like some dollars on currency exch. boards
+69	NAA	Sports org.
+70	HMM	"Well, let me think ..."
+41
+1	UMA	She played Maid Marian in "Robin Hood," 1991
+2	NABOB	Muckety-muck
+3	UPAND	Words before "about" and "at 'em"
+4	SLEAZY	Disreputable
+5	MOOG	Keyboard instrument
+6	URL	www.yahoo.com, e.g.
+7	DIATRIBE	Venomous venting
+8	ATNOON	When duelists duel, sometimes
+9	OOH	La la starter
+11	SNAILS	Slow movers
+13	DIO	Per la grazia di ___ (by the grace of God)
+14	VAN	Transportation for many a rock band
+15	ERO	Mancinelli's "___ e Leandro"
+16	RPM	Record speed: Abbr.
+20	JQA	President's inits.
+25	KON	"___-Tiki"
+27	EFAX	High-tech transmission
+28	RIVET	Fuselage fastener
+30	USDO	"As we have therefore opportunity, let ___ good to all men": Galatians
+31	REBS	Some Antietam combatants
+32	ORE	Bucket conveyor's load
+33	BORO	Brooklyn or the Bronx, informally
+34	ENTR	___'acte (intermission)
+36	VERE	"Billy Budd" captain
+38	CLI	Middle of the second century
+40	NAILDOWN	Clinch, as a victory
+43	EIN	Germanic one
+45	CASTES	Social classes
+47	BUSSED	Smacked
+49	EDESSA	12th-century Crusader state
+50	NIN	Famous diarist
+53	COUCH	Cushion site
+54	ISLAM	Faith of five million Americans
+55	ATT	Legal advocate: Abbr.
+56	HRH	Initials for a prince
+57	SER	Sunday offering: Abbr.
+59	INE	Suffix with brilliant
+60	LUKA	1987 Suzanne Vega hit
+62	AEC	Agcy. created after the Manhattan Project
+63	OEN	Wine: Prefix
+65	ARM	Pistol, say

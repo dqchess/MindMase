@@ -1,0 +1,169 @@
+grid_11x11_94
+11
+0	1	1	H	0	0	3	1	HER	0	0	3	1	HOY
+0	1	2	E	0	0	3	0		0	1	3	1	EDE
+0	1	3	R	0	0	3	0		0	2	11	1	ROLLERDERBY
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	6	0		1	4	5	0	
+0	1	4	L	0	5	6	1	LIEFOR	0	5	3	1	LAW
+0	1	5	I	0	5	6	0		0	6	3	1	INB
+0	1	6	E	0	5	6	0		0	7	4	1	ETES
+0	1	7	F	0	5	6	0		0	8	11	1	FALSERETURN
+0	1	8	O	0	5	6	0		0	9	7	1	ORLEANS
+0	1	9	R	0	5	6	0		0	10	3	1	RAY
+0	1	10	O	1	0	3	1	ODO	0	0	3	0	
+0	0	0	D	1	0	3	0		0	1	3	0	
+0	0	0	O	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	11	T	1	4	7	1	TANTARA	1	4	5	1	TONTO
+0	0	0	A	1	4	7	0		0	5	3	0	
+0	0	0	N	1	4	7	0		0	6	3	0	
+0	0	0	T	1	4	7	0		0	7	4	0	
+0	0	0	A	1	4	7	0		0	8	11	0	
+0	0	0	R	1	4	7	0		0	9	7	0	
+0	0	0	A	1	4	7	0		0	10	3	0	
+0	1	12	Y	2	0	11	1	YELLOWBELLY	0	0	3	0	
+0	0	0	E	2	0	11	0		0	1	3	0	
+0	0	0	L	2	0	11	0		0	2	11	0	
+0	1	13	L	2	0	11	0		2	3	3	1	LYS
+0	0	0	O	2	0	11	0		1	4	5	0	
+0	0	0	W	2	0	11	0		0	5	3	0	
+0	0	0	B	2	0	11	0		0	6	3	0	
+0	0	0	E	2	0	11	0		0	7	4	0	
+0	0	0	L	2	0	11	0		0	8	11	0	
+0	0	0	L	2	0	11	0		0	9	7	0	
+0	0	0	Y	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	7	0	
+0	1	14	L	3	2	3	1	LYN	0	2	11	0	
+0	0	0	Y	3	2	3	0		2	3	3	0	
+0	0	0	N	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	15	S	3	7	3	1	SSE	0	7	4	0	
+0	0	0	S	3	7	3	0		0	8	11	0	
+0	0	0	E	3	7	3	0		0	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	16	O	4	0	6	1	OWESTO	4	0	3	1	OCC
+0	1	17	W	4	0	6	0		4	1	7	1	WOMBATS
+0	0	0	E	4	0	6	0		0	2	11	0	
+0	0	0	S	4	0	6	0		2	3	3	0	
+0	0	0	T	4	0	6	0		1	4	5	0	
+0	1	18	O	4	0	6	0		4	5	3	1	OFA
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	E	4	8	3	1	EAN	0	8	11	0	
+0	0	0	A	4	8	3	0		0	9	7	0	
+0	1	20	N	4	8	3	0		4	10	3	1	NAT
+0	1	21	C	5	0	3	1	COR	4	0	3	0	
+0	0	0	O	5	0	3	0		4	1	7	0	
+0	0	0	R	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	22	O	5	4	3	1	OFF	1	4	5	0	
+0	0	0	F	5	4	3	0		4	5	3	0	
+0	1	23	F	5	4	3	0		5	6	5	1	FTORD
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	24	R	5	8	3	1	RNA	0	8	11	0	
+0	0	0	N	5	8	3	0		0	9	7	0	
+0	0	0	A	5	8	3	0		4	10	3	0	
+0	1	25	C	6	0	3	1	CMD	4	0	3	0	
+0	0	0	M	6	0	3	0		4	1	7	0	
+0	0	0	D	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	6	0		7	4	0	0	
+0	1	26	A	6	5	6	1	ATTEST	4	5	3	0	
+0	0	0	T	6	5	6	0		5	6	5	0	
+0	1	27	T	6	5	6	0		6	7	3	1	TAO
+0	0	0	E	6	5	6	0		0	8	11	0	
+0	0	0	S	6	5	6	0		0	9	7	0	
+0	0	0	T	6	5	6	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	28	B	7	1	3	1	BEC	4	1	7	0	
+0	0	0	E	7	1	3	0		0	2	11	0	
+0	1	29	C	7	1	3	0		7	3	4	1	CALC
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	30	O	7	6	3	1	OAT	5	6	5	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	T	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	31	P	8	0	11	1	PARADEROUTE	8	0	3	1	PPP
+0	0	0	A	8	0	11	0		4	1	7	0	
+0	0	0	R	8	0	11	0		0	2	11	0	
+0	0	0	A	8	0	11	0		7	3	4	0	
+0	1	32	D	8	0	11	0		8	4	3	1	DOH
+0	1	33	E	8	0	11	0		8	5	3	1	ENS
+0	0	0	R	8	0	11	0		5	6	5	0	
+0	0	0	O	8	0	11	0		6	7	3	0	
+0	0	0	U	8	0	11	0		0	8	11	0	
+0	1	34	T	8	0	11	0		8	9	3	1	TIU
+0	1	35	E	8	0	11	0		8	10	3	1	EVS
+0	1	36	P	9	0	7	1	PTBLOND	8	0	3	0	
+0	0	0	T	9	0	7	0		4	1	7	0	
+0	0	0	B	9	0	7	0		0	2	11	0	
+0	0	0	L	9	0	7	0		7	3	4	0	
+0	0	0	O	9	0	7	0		8	4	3	0	
+0	0	0	N	9	0	7	0		8	5	3	0	
+0	0	0	D	9	0	7	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	37	R	9	8	3	1	RIV	0	8	11	0	
+0	0	0	I	9	8	3	0		8	9	3	0	
+0	0	0	V	9	8	3	0		8	10	3	0	
+0	1	38	P	10	0	6	1	PSYCHS	8	0	3	0	
+0	0	0	S	10	0	6	0		4	1	7	0	
+0	0	0	Y	10	0	6	0		0	2	11	0	
+0	0	0	C	10	0	6	0		7	3	4	0	
+0	0	0	H	10	0	6	0		8	4	3	0	
+0	0	0	S	10	0	6	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	39	N	10	8	3	1	NUS	0	8	11	0	
+0	0	0	U	10	8	3	0		8	9	3	0	
+0	0	0	S	10	8	3	0		8	10	3	0	
+21
+1	HER	"Away From ___" (Julie Christie film)
+4	LIEFOR	Help by confirming an alibi
+10	ODO	"Star Trek: D.S.9" character
+11	TANTARA	Trumpet blast
+12	YELLOWBELLY	Chicken, so to speak
+14	LYN	Reagan adviser Nofziger
+15	SSE	Memphis-to-Biloxi dir.
+16	OWESTO	Has a loan from
+19	EAN	Suffix with Euclid
+21	COR	New Test. book
+22	OFF	Not at work
+24	RNA	Biology class topic
+25	CMD	Military hqtrs.: Abbr.
+26	ATTEST	Affirm, with "to"
+28	BEC	Bill, in Bordeaux
+30	OAT	Cheerios grain
+31	PARADEROUTE	March locale
+36	PTBLOND	Like Marilyn Monroe, briefly
+37	RIV	Colorado or Delaware, e.g.: Abbr.
+38	PSYCHS	Charges (up)
+39	NUS	Xi preceders
+23
+1	HOY	Today, in Tijuana
+2	EDE	Central Dutch city
+3	ROLLERDERBY	Competition on an indoor ring
+4	LAW	Murphy's is well known
+5	INB	Schubert's Symphony ___ Minor ("Unfinished Symphony")
+6	ETES	When the French fry?
+7	FALSERETURN	Red flag for the I.R.S.
+8	ORLEANS	Maid of ___
+9	RAY	Sunbeam
+11	TONTO	Who said "You are alone now. Last man. You are lone ranger"
+13	LYS	French-Belgian border river
+16	OCC	Infrequent: Abbr.
+17	WOMBATS	Aussie marsupials
+18	OFA	Son ___ gun
+20	NAT	Turner of history
+23	FTORD	Mil. base until 1994
+27	TAO	Divine path, in Asian religions
+29	CALC	Subject with limits and functions, informally
+31	PPP	Very, very soft, in music
+32	DOH	"I am an idiot!"
+33	ENS	Pulver, e.g., in "Mister Roberts": Abbr.
+34	TIU	English war god
+35	EVS	Tiny energy units, for short

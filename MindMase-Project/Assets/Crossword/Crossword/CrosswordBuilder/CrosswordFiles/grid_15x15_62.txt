@@ -1,0 +1,307 @@
+grid_15x15_62
+15
+0	1	1	P	0	0	3	1	PIA	0	0	3	1	POT
+0	1	2	I	0	0	3	0		0	1	3	1	IDY
+0	1	3	A	0	0	3	0		0	2	7	1	ADRENAL
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	4	0	
+0	1	4	L	0	5	3	1	LOT	0	5	3	1	LMN
+0	1	5	O	0	5	3	0		0	6	3	1	OBI
+0	1	6	T	0	5	3	0		0	7	3	1	TIE
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	3	0		1	10	3	0	
+0	1	7	Z	0	11	3	1	ZAK	0	11	3	1	ZAG
+0	1	8	A	0	11	3	0		0	12	7	1	AARCTIC
+0	1	9	K	0	11	3	0		0	13	7	1	KRISHNA
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	O	1	0	3	1	ODD	0	0	3	0	
+0	0	0	D	1	0	3	0		0	1	3	0	
+0	0	0	D	1	0	3	0		0	2	7	0	
+1	0	0	#	1	4	5	0		2	3	8	0	
+0	1	11	A	1	4	5	1	AMBIT	1	4	4	1	ANSA
+0	0	0	M	1	4	5	0		0	5	3	0	
+0	0	0	B	1	4	5	0		0	6	3	0	
+0	0	0	I	1	4	5	0		0	7	3	0	
+0	1	12	T	1	4	5	0		1	8	10	1	TSONESNOSE
+1	0	0	#	1	10	4	0		2	9	0	0	
+0	1	13	M	1	10	4	1	MAAR	1	10	3	1	MAL
+0	0	0	A	1	10	4	0		0	11	3	0	
+0	0	0	A	1	10	4	0		0	12	7	0	
+0	0	0	R	1	10	4	0		0	13	7	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	14	T	2	0	9	1	TYRANNIES	0	0	3	0	
+0	0	0	Y	2	0	9	0		0	1	3	0	
+0	0	0	R	2	0	9	0		0	2	7	0	
+0	1	15	A	2	0	9	0		2	3	8	1	ADJOURNS
+0	0	0	N	2	0	9	0		1	4	4	0	
+0	0	0	N	2	0	9	0		0	5	3	0	
+0	0	0	I	2	0	9	0		0	6	3	0	
+0	0	0	E	2	0	9	0		0	7	3	0	
+0	0	0	S	2	0	9	0		1	8	10	0	
+1	0	0	#	2	10	5	0		3	9	3	0	
+0	1	16	A	2	10	5	1	AGRIC	1	10	3	0	
+0	0	0	G	2	10	5	0		0	11	3	0	
+0	0	0	R	2	10	5	0		0	12	7	0	
+0	0	0	I	2	10	5	0		0	13	7	0	
+0	1	17	C	2	10	5	0		2	14	3	1	CAR
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	3	0	
+0	1	18	E	3	2	3	1	EDS	0	2	7	0	
+0	0	0	D	3	2	3	0		2	3	8	0	
+0	0	0	S	3	2	3	0		1	4	4	0	
+1	0	0	#	3	6	0	0		4	5	0	0	
+1	0	0	#	3	7	0	0		4	6	10	0	
+1	0	0	#	3	8	3	0		4	7	7	0	
+0	1	19	O	3	8	3	1	OIL	1	8	10	0	
+0	1	20	I	3	8	3	0		3	9	3	1	ISM
+0	0	0	L	3	8	3	0		1	10	3	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	21	C	3	12	3	1	CSA	0	12	7	0	
+0	0	0	S	3	12	3	0		0	13	7	0	
+0	0	0	A	3	12	3	0		2	14	3	0	
+0	1	22	N	4	0	5	1	NINJA	4	0	3	1	NRA
+0	1	23	I	4	0	5	0		4	1	3	1	IEL
+0	0	0	N	4	0	5	0		0	2	7	0	
+0	0	0	J	4	0	5	0		2	3	8	0	
+0	0	0	A	4	0	5	0		1	4	4	0	
+1	0	0	#	4	6	4	0		5	5	3	0	
+0	1	24	S	4	6	4	1	SSNS	4	6	10	1	SLOTCARACE
+0	1	25	S	4	6	4	0		4	7	7	1	SENIORS
+0	0	0	N	4	6	4	0		1	8	10	0	
+0	0	0	S	4	6	4	0		3	9	3	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	4	12	3	0		5	11	8	0	
+0	1	26	T	4	12	3	1	THR	0	12	7	0	
+0	0	0	H	4	12	3	0		0	13	7	0	
+0	0	0	R	4	12	3	0		2	14	3	0	
+0	1	27	R	5	0	4	1	REAO	4	0	3	0	
+0	0	0	E	5	0	4	0		4	1	3	0	
+0	0	0	A	5	0	4	0		0	2	7	0	
+0	0	0	O	5	0	4	0		2	3	8	0	
+1	0	0	#	5	5	5	0		6	4	3	0	
+0	1	28	G	5	5	5	1	GLEEM	5	5	3	1	GIS
+0	0	0	L	5	5	5	0		4	6	10	0	
+0	0	0	E	5	5	5	0		4	7	7	0	
+0	0	0	E	5	5	5	0		1	8	10	0	
+0	0	0	M	5	5	5	0		3	9	3	0	
+1	0	0	#	5	11	3	0		6	10	3	0	
+0	1	29	H	5	11	3	1	HIN	5	11	8	1	HATEMAIL
+0	0	0	I	5	11	3	0		0	12	7	0	
+0	0	0	N	5	11	3	0		0	13	7	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	30	A	6	0	9	1	ALLUSIONS	4	0	3	0	
+0	0	0	L	6	0	9	0		4	1	3	0	
+0	0	0	L	6	0	9	0		0	2	7	0	
+0	0	0	U	6	0	9	0		2	3	8	0	
+0	1	31	S	6	0	9	0		6	4	3	1	SUW
+0	0	0	I	6	0	9	0		5	5	3	0	
+0	0	0	O	6	0	9	0		4	6	10	0	
+0	0	0	N	6	0	9	0		4	7	7	0	
+0	0	0	S	6	0	9	0		1	8	10	0	
+1	0	0	#	6	10	4	0		7	9	3	0	
+0	1	32	P	6	10	4	1	PACA	6	10	3	1	PED
+0	0	0	A	6	10	4	0		5	11	8	0	
+0	0	0	C	6	10	4	0		0	12	7	0	
+0	0	0	A	6	10	4	0		0	13	7	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	0	0		8	1	7	0	
+1	0	0	#	7	3	9	0		8	2	7	0	
+0	1	33	R	7	3	9	1	RUSTINMET	2	3	8	0	
+0	0	0	U	7	3	9	0		6	4	3	0	
+0	0	0	S	7	3	9	0		5	5	3	0	
+0	0	0	T	7	3	9	0		4	6	10	0	
+0	0	0	I	7	3	9	0		4	7	7	0	
+0	0	0	N	7	3	9	0		1	8	10	0	
+0	1	34	M	7	3	9	0		7	9	3	1	MLE
+0	0	0	E	7	3	9	0		6	10	3	0	
+0	0	0	T	7	3	9	0		5	11	8	0	
+1	0	0	#	7	13	0	0		8	12	7	0	
+1	0	0	#	7	14	0	0		8	13	3	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	35	N	8	1	4	1	NONW	8	1	7	1	NEITHER
+0	1	36	O	8	1	4	0		8	2	7	1	OFFSIDE
+0	0	0	N	8	1	4	0		2	3	8	0	
+0	0	0	W	8	1	4	0		6	4	3	0	
+1	0	0	#	8	6	9	0		9	5	3	0	
+0	1	37	C	8	6	9	1	COOLDESAC	4	6	10	0	
+0	0	0	O	8	6	9	0		4	7	7	0	
+0	0	0	O	8	6	9	0		1	8	10	0	
+0	0	0	L	8	6	9	0		7	9	3	0	
+0	0	0	D	8	6	9	0		6	10	3	0	
+0	0	0	E	8	6	9	0		5	11	8	0	
+0	1	38	S	8	6	9	0		8	12	7	1	SUCCESS
+0	1	39	A	8	6	9	0		8	13	3	1	ADE
+0	1	40	C	8	6	9	0		8	14	3	1	CDT
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	41	E	9	1	3	1	EFS	8	1	7	0	
+0	0	0	F	9	1	3	0		8	2	7	0	
+0	0	0	S	9	1	3	0		2	3	8	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	42	P	9	5	5	1	PARSE	9	5	3	1	PEI
+0	0	0	A	9	5	5	0		4	6	10	0	
+0	0	0	R	9	5	5	0		4	7	7	0	
+0	0	0	S	9	5	5	0		1	8	10	0	
+0	0	0	E	9	5	5	0		7	9	3	0	
+1	0	0	#	9	11	4	0		10	10	4	0	
+0	1	43	M	9	11	4	1	MUDD	5	11	8	0	
+0	0	0	U	9	11	4	0		8	12	7	0	
+0	0	0	D	9	11	4	0		8	13	3	0	
+0	0	0	D	9	11	4	0		8	14	3	0	
+0	1	44	M	10	0	3	1	MIF	10	0	3	1	MRT
+0	0	0	I	10	0	3	0		8	1	7	0	
+0	0	0	F	10	0	3	0		8	2	7	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	4	0		11	4	3	0	
+0	1	45	E	10	5	4	1	ERSE	9	5	3	0	
+0	0	0	R	10	5	4	0		4	6	10	0	
+0	0	0	S	10	5	4	0		4	7	7	0	
+0	0	0	E	10	5	4	0		1	8	10	0	
+1	0	0	#	10	10	5	0		11	9	0	0	
+0	1	46	T	10	10	5	1	TACET	10	10	4	1	TRET
+0	0	0	A	10	10	5	0		5	11	8	0	
+0	0	0	C	10	10	5	0		8	12	7	0	
+0	0	0	E	10	10	5	0		8	13	3	0	
+0	0	0	T	10	10	5	0		8	14	3	0	
+0	1	47	R	11	0	3	1	RTS	10	0	3	0	
+0	0	0	T	11	0	3	0		8	1	7	0	
+0	0	0	S	11	0	3	0		8	2	7	0	
+1	0	0	#	11	4	3	0		12	3	3	0	
+0	1	48	T	11	4	3	1	TIA	11	4	3	1	THA
+0	0	0	I	11	4	3	0		9	5	3	0	
+0	0	0	A	11	4	3	0		4	6	10	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	3	0		12	9	3	0	
+0	1	49	R	11	10	3	1	RIC	10	10	4	0	
+0	0	0	I	11	10	3	0		5	11	8	0	
+0	0	0	C	11	10	3	0		8	12	7	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	50	T	12	0	5	1	THIGH	10	0	3	0	
+0	0	0	H	12	0	5	0		8	1	7	0	
+0	0	0	I	12	0	5	0		8	2	7	0	
+0	1	51	G	12	0	5	0		12	3	3	1	GDS
+0	0	0	H	12	0	5	0		11	4	3	0	
+1	0	0	#	12	6	9	0		13	5	0	0	
+0	1	52	C	12	6	9	1	CEASELESS	4	6	10	0	
+0	1	53	E	12	6	9	0		12	7	3	1	EVO
+0	1	54	A	12	6	9	0		12	8	3	1	AIK
+0	1	55	S	12	6	9	0		12	9	3	1	SCS
+0	0	0	E	12	6	9	0		10	10	4	0	
+0	0	0	L	12	6	9	0		5	11	8	0	
+0	0	0	E	12	6	9	0		8	12	7	0	
+0	1	56	S	12	6	9	0		12	13	3	1	SEL
+0	1	57	S	12	6	9	0		12	14	3	1	SQS
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	58	E	13	1	4	1	EDDA	8	1	7	0	
+0	0	0	D	13	1	4	0		8	2	7	0	
+0	0	0	D	13	1	4	0		12	3	3	0	
+0	0	0	A	13	1	4	0		11	4	3	0	
+1	0	0	#	13	6	5	0		14	5	0	0	
+0	1	59	E	13	6	5	1	EVICT	4	6	10	0	
+0	0	0	V	13	6	5	0		12	7	3	0	
+0	0	0	I	13	6	5	0		12	8	3	0	
+0	0	0	C	13	6	5	0		12	9	3	0	
+0	0	0	T	13	6	5	0		10	10	4	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	60	S	13	12	3	1	SEQ	8	12	7	0	
+0	0	0	E	13	12	3	0		12	13	3	0	
+0	0	0	Q	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	61	R	14	1	3	1	RES	8	1	7	0	
+0	0	0	E	14	1	3	0		8	2	7	0	
+0	0	0	S	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	62	O	14	7	3	1	OKS	12	7	3	0	
+0	0	0	K	14	7	3	0		12	8	3	0	
+0	0	0	S	14	7	3	0		12	9	3	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	63	S	14	12	3	1	SLS	8	12	7	0	
+0	0	0	L	14	12	3	0		12	13	3	0	
+0	0	0	S	14	12	3	0		12	14	3	0	
+39
+1	PIA	___ mater (cranial membrane)
+4	LOT	Tract
+7	ZAK	Drummer Starkey, Ringo's son
+10	ODD	"How ___ ..."
+11	AMBIT	Bounds
+13	MAAR	Picasso's muse Dora ___
+14	TYRANNIES	Unpleasant rules to be under
+16	AGRIC	U.S.D.A. part: Abbr.
+18	EDS	I.T. firm founded by Ross Perot
+19	OIL	Lube (up)
+21	CSA	Civil War alliance: Abbr.
+22	NINJA	Stealth warrior
+24	SSNS	Credit application figs.
+26	THR	By way of: Abbr.
+27	REAO	Island in French Polynesia
+28	GLEEM	Toothpaste brand once advertised as having the secret ingredient GL-70
+29	HIN	Submit
+30	ALLUSIONS	Indirect references
+32	PACA	Amazon Basin creature
+33	RUSTINMET	Reason to renovate an opera house?
+35	NONW	Asian, e.g.
+37	COOLDESAC	Eskimo street?
+41	EFS	40% of fifty?
+42	PARSE	Mince words?
+43	MUDD	Newsman Roger
+44	MIF	U.K. counterespionage agcy.
+45	ERSE	Manx relative
+46	TACET	"Be silent," musically
+47	RTS	Some football linemen: Abbr.
+48	TIA	___ Maria liqueur
+49	RIC	Wrestler Flair, 10-time N.W.A. world heavyweight champion
+50	THIGH	___-high boots
+52	CEASELESS	Nonstop
+58	EDDA	13th-century literary work
+59	EVICT	Put out
+60	SEQ	Et ___ (footnote abbr.)
+61	RES	Point, in law
+62	OKS	Endorses
+63	SLS	Classic Mercedes roadsters
+39
+1	POT	Cardsharp's goal
+2	IDY	Charlie Weaver's Mt. ___
+3	ADRENAL	Near the kidneys
+4	LMN	K-O bridge
+5	OBI	Eastern band
+6	TIE	Twist-___
+7	ZAG	Zig's partner
+8	AARCTIC	Pole position?
+9	KRISHNA	Eighth avatar of Vishnu
+11	ANSA	Archaeological handle
+12	TSONESNOSE	Expresses scorn
+13	MAL	Bad start?
+15	ADJOURNS	Quits working
+17	CAR	Kaiser, once
+20	ISM	Tour's end?
+22	NRA	PAC for those who pack?
+23	IEL	Drive forward
+24	SLOTCARACE	Miniature speedway event
+25	SENIORS	Golden-agers
+28	GIS	Doughfoots
+29	HATEMAIL	Form of intimidation
+31	SUW	Like some stocks and drugs: Abbr.
+32	PED	Walker, briefly
+34	MLE	Uncooperative one
+35	NEITHER	"___ a borrower..."
+36	OFFSIDE	Illegally ahead of the puck
+38	SUCCESS	"Eureka!"
+39	ADE	Fruit juice
+40	CDT	Spring setting in Chi-Town
+42	PEI	Rock-and-Roll Hall of Fame architect
+44	MRT	80's celeb known for his gold chains
+46	TRET	Waste allowance
+48	THA	Jennifer Lopez album "J to ___ LO!"
+51	GDS	Mdse.
+53	EVO	Bolivian president Morales
+54	AIK	Rio producer
+55	SCS	Barges
+56	SEL	Partner of poivre, in French seasoning
+57	SQS	Geometric figs.

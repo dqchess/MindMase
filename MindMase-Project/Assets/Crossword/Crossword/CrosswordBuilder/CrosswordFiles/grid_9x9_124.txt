@@ -1,0 +1,117 @@
+grid_9x9_124
+9
+0	1	1	C	0	0	3	1	CRA	0	0	3	1	CAT
+0	1	2	R	0	0	3	0		0	1	4	1	RGWJ
+0	1	3	A	0	0	3	0		0	2	9	1	ARISTOTLE
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	U	0	5	3	1	USD	0	5	3	1	USE
+0	1	5	S	0	5	3	0		0	6	9	1	SLIMEEELS
+0	1	6	D	0	5	3	0		0	7	4	1	DORE
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	A	1	0	4	1	AGRO	0	0	3	0	
+0	0	0	G	1	0	4	0		0	1	4	0	
+0	0	0	R	1	0	4	0		0	2	9	0	
+0	1	8	O	1	0	4	0		1	3	4	1	ONUP
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	S	1	5	4	1	SLOB	0	5	3	0	
+0	0	0	L	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	4	0	
+0	1	10	B	1	5	4	0		1	8	3	1	BEA
+0	1	11	T	2	0	4	1	TWIN	0	0	3	0	
+0	0	0	W	2	0	4	0		0	1	4	0	
+0	0	0	I	2	0	4	0		0	2	9	0	
+0	0	0	N	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	E	2	5	4	1	EIRE	0	5	3	0	
+0	0	0	I	2	5	4	0		0	6	9	0	
+0	0	0	R	2	5	4	0		0	7	4	0	
+0	0	0	E	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	J	3	1	4	1	JSUP	0	1	4	0	
+0	0	0	S	3	1	4	0		0	2	9	0	
+0	0	0	U	3	1	4	0		1	3	4	0	
+0	1	14	P	3	1	4	0		3	4	3	1	PIK
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	M	3	6	3	1	MEA	0	6	9	0	
+0	0	0	E	3	6	3	0		0	7	4	0	
+0	0	0	A	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	16	T	4	2	5	1	TPIKE	0	2	9	0	
+0	0	0	P	4	2	5	0		1	3	4	0	
+0	0	0	I	4	2	5	0		3	4	3	0	
+0	1	17	K	4	2	5	0		4	5	4	1	KLMN
+0	0	0	E	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	H	5	0	3	1	HMO	5	0	3	1	HUP
+0	1	19	M	5	0	3	0		5	1	4	1	MSED
+0	0	0	O	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	K	5	4	4	1	KLEE	3	4	3	0	
+0	0	0	L	5	4	4	0		4	5	4	0	
+0	0	0	E	5	4	4	0		0	6	9	0	
+0	1	21	E	5	4	4	0		5	7	4	1	EGAN
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	U	6	0	4	1	USTO	5	0	3	0	
+0	0	0	S	6	0	4	0		5	1	4	0	
+0	0	0	T	6	0	4	0		0	2	9	0	
+0	1	23	O	6	0	4	0		6	3	3	1	OLA
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	M	6	5	4	1	MEGR	4	5	4	0	
+0	0	0	E	6	5	4	0		0	6	9	0	
+0	0	0	G	6	5	4	0		5	7	4	0	
+0	1	25	R	6	5	4	0		6	8	3	1	RTE
+0	1	26	P	7	0	4	1	PELL	5	0	3	0	
+0	0	0	E	7	0	4	0		5	1	4	0	
+0	0	0	L	7	0	4	0		0	2	9	0	
+0	0	0	L	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	N	7	5	4	1	NLAT	4	5	4	0	
+0	0	0	L	7	5	4	0		0	6	9	0	
+0	0	0	A	7	5	4	0		5	7	4	0	
+0	0	0	T	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	D	8	1	3	1	DEA	5	1	4	0	
+0	0	0	E	8	1	3	0		0	2	9	0	
+0	0	0	A	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	S	8	6	3	1	SNE	0	6	9	0	
+0	0	0	N	8	6	3	0		5	7	4	0	
+0	0	0	E	8	6	3	0		6	8	3	0	
+17
+1	CRA	Neckcloth
+4	USD	Alternative to the euro: Abbr.
+7	AGRO	Prefix with biology
+9	SLOB	One likely to leave things out?
+11	TWIN	Castor, to Pollux
+12	EIRE	Yeats subject
+13	JSUP	Increases greatly, as prices
+15	MEA	Start of a confession
+16	TPIKE	Part of a pay-as-you-go plan?
+18	HMO	Patient form info
+20	KLEE	"The Goldfish" painter
+22	USTO	"Lord, it is good for ___ be here" (words of Peter to Jesus)
+24	MEGR	"You've Got Mail" actress
+26	PELL	Former Rhode Island Senator
+27	NLAT	About 40 degrees, for N.Y.C.
+28	DEA	Crack team?: Abbr.
+29	SNE	1983 Indy winner Tom
+15
+1	CAT	Jazz aficionado
+2	RGWJ	Actress Gilbert of "Roseanne"
+3	ARISTOTLE	"On the Soul" writer
+4	USE	Work
+5	SLIMEEELS	Hagfish by another name
+6	DORE	Artist Gustave
+8	ONUP	"Get ___," 1967 hit for the Esquires
+10	BEA	"___ pal"
+14	PIK	Water-___
+17	KLMN	J train?
+18	HUP	Quarterback's call
+19	MSED	Teacher's advanced deg.
+21	EGAN	New York City archbishop
+23	OLA	Motor suffix, commercially
+25	RTE	A U.P.S. driver has one: Abbr.

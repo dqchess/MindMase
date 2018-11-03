@@ -1,0 +1,167 @@
+grid_11x11_151
+11
+0	1	1	F	0	0	3	1	FOE	0	0	6	1	FORMAL
+0	1	2	O	0	0	3	0		0	1	6	1	OHENRY
+0	1	3	E	0	0	3	0		0	2	10	1	EISENSTEIN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	3	0	
+0	1	4	C	0	5	3	1	CMI	0	5	3	1	CMV
+0	1	5	M	0	5	3	0		0	6	6	1	MIATAS
+0	1	6	I	0	5	3	0		0	7	5	1	IDTAG
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	O	1	0	3	1	OHI	0	0	6	0	
+0	0	0	H	1	0	3	0		0	1	6	0	
+0	0	0	I	1	0	3	0		0	2	10	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	8	A	1	4	7	1	AMIDALA	1	4	3	1	ARE
+0	0	0	M	1	4	7	0		0	5	3	0	
+0	0	0	I	1	4	7	0		0	6	6	0	
+0	0	0	D	1	4	7	0		0	7	5	0	
+0	1	9	A	1	4	7	0		1	8	10	1	AIRSERVICE
+0	1	10	L	1	4	7	0		1	9	3	1	LOT
+0	1	11	A	1	4	7	0		1	10	3	1	ANY
+0	1	12	R	2	0	11	1	RESERVATION	0	0	6	0	
+0	0	0	E	2	0	11	0		0	1	6	0	
+0	0	0	S	2	0	11	0		0	2	10	0	
+0	1	13	E	2	0	11	0		2	3	3	1	EMO
+0	0	0	R	2	0	11	0		1	4	3	0	
+0	0	0	V	2	0	11	0		0	5	3	0	
+0	0	0	A	2	0	11	0		0	6	6	0	
+0	0	0	T	2	0	11	0		0	7	5	0	
+0	0	0	I	2	0	11	0		1	8	10	0	
+0	0	0	O	2	0	11	0		1	9	3	0	
+0	0	0	N	2	0	11	0		1	10	3	0	
+0	1	14	M	3	0	5	1	MNEME	0	0	6	0	
+0	0	0	N	3	0	5	0		0	1	6	0	
+0	0	0	E	3	0	5	0		0	2	10	0	
+0	0	0	M	3	0	5	0		2	3	3	0	
+0	0	0	E	3	0	5	0		1	4	3	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	15	T	3	6	5	1	TARTY	0	6	6	0	
+0	0	0	A	3	6	5	0		0	7	5	0	
+0	0	0	R	3	6	5	0		1	8	10	0	
+0	0	0	T	3	6	5	0		1	9	3	0	
+0	0	0	Y	3	6	5	0		1	10	3	0	
+0	1	16	A	4	0	4	1	ARNO	0	0	6	0	
+0	0	0	R	4	0	4	0		0	1	6	0	
+0	0	0	N	4	0	4	0		0	2	10	0	
+0	0	0	O	4	0	4	0		2	3	3	0	
+1	0	0	#	4	5	4	0		5	4	6	0	
+0	1	17	T	4	5	4	1	TAGS	4	5	3	1	TOM
+0	0	0	A	4	5	4	0		0	6	6	0	
+0	0	0	G	4	5	4	0		0	7	5	0	
+0	0	0	S	4	5	4	0		1	8	10	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	6	0	
+0	1	18	L	5	0	3	1	LYS	0	0	6	0	
+0	0	0	Y	5	0	3	0		0	1	6	0	
+0	0	0	S	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	19	E	5	4	3	1	EOS	5	4	6	1	ESPIES
+0	0	0	O	5	4	3	0		4	5	3	0	
+0	0	0	S	5	4	3	0		0	6	6	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	20	E	5	8	3	1	ERA	1	8	10	0	
+0	1	21	R	5	8	3	0		5	9	6	1	RAINED
+0	1	22	A	5	8	3	0		5	10	6	1	ASSTDA
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	4	0		7	1	3	0	
+0	1	23	T	6	2	4	1	TASM	0	2	10	0	
+0	1	24	A	6	2	4	0		6	3	5	1	AESIR
+0	0	0	S	6	2	4	0		5	4	6	0	
+0	0	0	M	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	25	H	6	7	4	1	HRAS	6	7	3	1	HAO
+0	0	0	R	6	7	4	0		1	8	10	0	
+0	0	0	A	6	7	4	0		5	9	6	0	
+0	0	0	S	6	7	4	0		5	10	6	0	
+0	1	26	A	7	0	5	1	ADEEP	7	0	3	1	ACT
+0	1	27	D	7	0	5	0		7	1	3	1	DRE
+0	0	0	E	7	0	5	0		0	2	10	0	
+0	0	0	E	7	0	5	0		6	3	5	0	
+0	0	0	P	7	0	5	0		5	4	6	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	28	M	7	6	5	1	MAVIS	7	6	3	1	MPS
+0	0	0	A	7	6	5	0		6	7	3	0	
+0	0	0	V	7	6	5	0		1	8	10	0	
+0	0	0	I	7	6	5	0		5	9	6	0	
+0	0	0	S	7	6	5	0		5	10	6	0	
+0	1	29	C	8	0	11	1	CRISISPOINT	7	0	3	0	
+0	0	0	R	8	0	11	0		7	1	3	0	
+0	0	0	I	8	0	11	0		0	2	10	0	
+0	0	0	S	8	0	11	0		6	3	5	0	
+0	0	0	I	8	0	11	0		5	4	6	0	
+0	1	30	S	8	0	11	0		8	5	3	1	SRA
+0	0	0	P	8	0	11	0		7	6	3	0	
+0	0	0	O	8	0	11	0		6	7	3	0	
+0	0	0	I	8	0	11	0		1	8	10	0	
+0	0	0	N	8	0	11	0		5	9	6	0	
+0	0	0	T	8	0	11	0		5	10	6	0	
+0	1	31	T	9	0	7	1	TENIERS	7	0	3	0	
+0	0	0	E	9	0	7	0		7	1	3	0	
+0	0	0	N	9	0	7	0		0	2	10	0	
+0	0	0	I	9	0	7	0		6	3	5	0	
+0	0	0	E	9	0	7	0		5	4	6	0	
+0	0	0	R	9	0	7	0		8	5	3	0	
+0	0	0	S	9	0	7	0		7	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	32	C	9	8	3	1	CED	1	8	10	0	
+0	0	0	E	9	8	3	0		5	9	6	0	
+0	0	0	D	9	8	3	0		5	10	6	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	33	R	10	3	3	1	RSA	6	3	5	0	
+0	0	0	S	10	3	3	0		5	4	6	0	
+0	0	0	A	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	34	E	10	8	3	1	EDA	1	8	10	0	
+0	0	0	D	10	8	3	0		5	9	6	0	
+0	0	0	A	10	8	3	0		5	10	6	0	
+21
+1	FOE	"Them"
+4	CMI	Early 10th-century year
+7	OHI	"___ don't know about that"
+8	AMIDALA	Queen who becomes a senator in the "Star Wars" saga
+12	RESERVATION	Confirmation or uncertainty
+14	MNEME	One of the three original Muses
+15	TARTY	Somewhat sour
+16	ARNO	Florentine river
+17	TAGS	Some ID's
+18	LYS	French-Belgian border river
+19	EOS	Lover of Tithonus, in myth
+20	ERA	It may have periods
+23	TASM	Australian island: Abbr.
+25	HRAS	Round dances
+26	ADEEP	"Take ___ breath"
+28	MAVIS	Song thrush
+29	CRISISPOINT	Do-or-die time
+31	TENIERS	"The Alchemist" painter
+32	CED	Like associates, on some e-mails
+33	RSA	Cape Town's home: Abbr.
+34	EDA	"The Conspiracy Against Childhood" writer LeShan
+21
+1	FORMAL	Not casual
+2	OHENRY	Writer with an award named after him
+3	EISENSTEIN	"The Battleship Potemkin" director
+4	CMV	Roman 905
+5	MIATAS	Sporty Mazdas
+6	IDTAG	What a sec. guard might check
+8	ARE	.0247 acre
+9	AIRSERVICE	Planes provide it
+10	LOT	Everything, with "the"
+11	ANY	Flexible choice
+13	EMO	First name in comedy
+17	TOM	Pig stealer, in a nursery rhyme
+19	ESPIES	Detects
+21	RAINED	Was wet
+22	ASSTDA	Courtroom fig.
+24	AESIR	Race of Norse deities
+25	HAO	Vietnamese coin
+26	ACT	The whole song and dance?
+27	DRE	"___ Day" (1993 rap hit)
+28	MPS	Base cops
+30	SRA	Mrs., in Madrid

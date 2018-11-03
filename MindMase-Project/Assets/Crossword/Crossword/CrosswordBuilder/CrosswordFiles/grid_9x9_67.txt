@@ -1,0 +1,115 @@
+grid_9x9_67
+9
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	U	0	2	3	1	UGE	0	2	9	1	UNSTOPPED
+0	1	2	G	0	2	3	0		0	3	3	1	GIT
+0	1	3	E	0	2	3	0		0	4	9	1	ESPRESSOS
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	I	0	6	3	1	IVS	0	6	9	1	INAMORATA
+0	1	5	V	0	6	3	0		0	7	3	1	VIC
+0	1	6	S	0	6	3	0		0	8	3	1	SAE
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	E	1	1	4	1	ENIS	1	1	4	1	EASE
+0	0	0	N	1	1	4	0		0	2	9	0	
+0	0	0	I	1	1	4	0		0	3	3	0	
+0	0	0	S	1	1	4	0		0	4	9	0	
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	8	N	1	6	3	1	NIA	0	6	9	0	
+0	0	0	I	1	6	3	0		0	7	3	0	
+0	0	0	A	1	6	3	0		0	8	3	0	
+0	1	9	L	2	0	9	1	LASTPLACE	2	0	3	1	LEW
+0	0	0	A	2	0	9	0		1	1	4	0	
+0	0	0	S	2	0	9	0		0	2	9	0	
+0	0	0	T	2	0	9	0		0	3	3	0	
+0	0	0	P	2	0	9	0		0	4	9	0	
+0	1	10	L	2	0	9	0		2	5	3	1	LIL
+0	0	0	A	2	0	9	0		0	6	9	0	
+0	0	0	C	2	0	9	0		0	7	3	0	
+0	0	0	E	2	0	9	0		0	8	3	0	
+0	1	11	E	3	0	3	1	EST	2	0	3	0	
+0	0	0	S	3	0	3	0		1	1	4	0	
+0	0	0	T	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	12	R	3	4	3	1	RIM	0	4	9	0	
+0	0	0	I	3	4	3	0		2	5	3	0	
+0	0	0	M	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	13	W	4	0	9	1	WEOWELOWE	2	0	3	0	
+0	0	0	E	4	0	9	0		1	1	4	0	
+0	0	0	O	4	0	9	0		0	2	9	0	
+0	1	14	W	4	0	9	0		4	3	3	1	WHO
+0	0	0	E	4	0	9	0		0	4	9	0	
+0	0	0	L	4	0	9	0		2	5	3	0	
+0	0	0	O	4	0	9	0		0	6	9	0	
+0	1	15	W	4	0	9	0		4	7	4	1	WIGS
+0	1	16	E	4	0	9	0		4	8	3	1	ETE
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	17	P	5	2	3	1	PHS	0	2	9	0	
+0	0	0	H	5	2	3	0		4	3	3	0	
+0	0	0	S	5	2	3	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	R	5	6	3	1	RIT	0	6	9	0	
+0	0	0	I	5	6	3	0		4	7	4	0	
+0	0	0	T	5	6	3	0		4	8	3	0	
+0	1	19	U	6	0	9	1	USPOSTAGE	6	0	3	1	UND
+0	1	20	S	6	0	9	0		6	1	3	1	SIE
+0	0	0	P	6	0	9	0		0	2	9	0	
+0	0	0	O	6	0	9	0		4	3	3	0	
+0	0	0	S	6	0	9	0		0	4	9	0	
+0	1	21	T	6	0	9	0		6	5	3	1	TAH
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	0	0	G	6	0	9	0		4	7	4	0	
+0	0	0	E	6	0	9	0		4	8	3	0	
+0	1	22	N	7	0	3	1	NIE	6	0	3	0	
+0	0	0	I	7	0	3	0		6	1	3	0	
+0	0	0	E	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	4	0		8	3	0	0	
+0	1	23	O	7	4	4	1	OATS	0	4	9	0	
+0	0	0	A	7	4	4	0		6	5	3	0	
+0	0	0	T	7	4	4	0		0	6	9	0	
+0	0	0	S	7	4	4	0		4	7	4	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	24	D	8	0	3	1	DED	6	0	3	0	
+0	0	0	E	8	0	3	0		6	1	3	0	
+0	0	0	D	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	25	S	8	4	3	1	SHA	0	4	9	0	
+0	0	0	H	8	4	3	0		6	5	3	0	
+0	0	0	A	8	4	3	0		0	6	9	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	UGE	Treatment
+4	IVS	Emergency rm. sights
+7	ENIS	1990s N.F.L. running back Curtis ___
+8	NIA	Vardalos of "My Big Fat Greek Wedding"
+9	LASTPLACE	You'll find a trailer in it
+11	EST	Hrs. in Quebec
+12	RIM	Salt's place on a margarita glass
+13	WEOWELOWE	Statement from actor Rob's debtors?
+17	PHS	Chem. class measures
+18	RIT	Gradually slowing, in music: Abbr.
+19	USPOSTAGE	It increased to 4 cents per oz. in 1958
+22	NIE	Einstein's "never"
+23	OATS	Wild ones may be sown
+24	DED	Like some races and hopes
+25	SHA	___ Na Na of rock
+15
+1	UNSTOPPED	Like a drain after a drain cleaner
+2	GIT	"Scram!"
+3	ESPRESSOS	Strong brews
+4	INAMORATA	Juliet, to Romeo
+5	VIC	1953 Wimbledon winner Seixas
+6	SAE	Letter encl. to facilitate a reply
+7	EASE	"At ___, soldier!"
+9	LEW	MacDonald private eye Archer
+10	LIL	Rap star ___ Jon
+14	WHO	A question of identity
+15	WIGS	False locks
+16	ETE	Summer: Fr.
+19	UND	Sturm ___ Drang
+20	SIE	Opposite of me, in Munich
+21	TAH	Panama, e.g.

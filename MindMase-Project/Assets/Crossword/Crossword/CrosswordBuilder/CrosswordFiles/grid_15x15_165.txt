@@ -1,0 +1,307 @@
+grid_15x15_165
+15
+0	1	1	I	0	0	3	1	IOU	0	0	3	1	IRR
+0	1	2	O	0	0	3	0		0	1	10	1	ORANGEZEUS
+0	1	3	U	0	0	3	0		0	2	15	1	USSCONSTITUTION
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	S	0	4	3	1	SOP	0	4	4	1	STOA
+0	1	5	O	0	4	3	0		0	5	6	1	OFFSET
+0	1	6	P	0	4	3	0		0	6	3	1	PLO
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	7	G	0	11	3	1	GEL	0	11	3	1	GON
+0	1	8	E	0	11	3	0		0	12	15	1	EVERYTHINGISAID
+0	1	9	L	0	11	3	0		0	13	4	1	LIRI
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	10	R	1	0	3	1	RRS	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	10	0	
+0	0	0	S	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	6	0		2	3	3	0	
+0	1	11	T	1	4	6	1	TFLBYA	0	4	4	0	
+0	0	0	F	1	4	6	0		0	5	6	0	
+0	0	0	L	1	4	6	0		0	6	3	0	
+0	1	12	B	1	4	6	0		1	7	4	1	BNER
+0	1	13	Y	1	4	6	0		1	8	3	1	YER
+0	1	14	A	1	4	6	0		1	9	6	1	ALBANY
+1	0	0	#	1	11	4	0		2	10	4	0	
+0	1	15	O	1	11	4	1	OVID	0	11	3	0	
+0	0	0	V	1	11	4	0		0	12	15	0	
+0	0	0	I	1	11	4	0		0	13	4	0	
+0	1	16	D	1	11	4	0		1	14	3	1	DSC
+0	1	17	R	2	0	15	1	RASHOFONELINERS	0	0	3	0	
+0	0	0	A	2	0	15	0		0	1	10	0	
+0	0	0	S	2	0	15	0		0	2	15	0	
+0	1	18	H	2	0	15	0		2	3	3	1	HAD
+0	0	0	O	2	0	15	0		0	4	4	0	
+0	0	0	F	2	0	15	0		0	5	6	0	
+0	0	0	O	2	0	15	0		0	6	3	0	
+0	0	0	N	2	0	15	0		1	7	4	0	
+0	0	0	E	2	0	15	0		1	8	3	0	
+0	0	0	L	2	0	15	0		1	9	6	0	
+0	1	19	I	2	0	15	0		2	10	4	1	IERE
+0	0	0	N	2	0	15	0		0	11	3	0	
+0	0	0	E	2	0	15	0		0	12	15	0	
+0	0	0	R	2	0	15	0		0	13	4	0	
+0	0	0	S	2	0	15	0		1	14	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	20	N	3	1	5	1	NCAAS	0	1	10	0	
+0	0	0	C	3	1	5	0		0	2	15	0	
+0	0	0	A	3	1	5	0		2	3	3	0	
+0	0	0	A	3	1	5	0		0	4	4	0	
+0	0	0	S	3	1	5	0		0	5	6	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	21	E	3	7	4	1	ERBE	1	7	4	0	
+0	0	0	R	3	7	4	0		1	8	3	0	
+0	0	0	B	3	7	4	0		1	9	6	0	
+0	0	0	E	3	7	4	0		2	10	4	0	
+1	0	0	#	3	12	3	0		4	11	5	0	
+0	1	22	R	3	12	3	1	RIC	0	12	15	0	
+0	0	0	I	3	12	3	0		0	13	4	0	
+0	0	0	C	3	12	3	0		1	14	3	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	23	G	4	1	3	1	GOD	0	1	10	0	
+0	0	0	O	4	1	3	0		0	2	15	0	
+0	0	0	D	4	1	3	0		2	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	24	E	4	5	3	1	ERR	0	5	6	0	
+0	1	25	R	4	5	3	0		4	6	5	1	REATA
+0	0	0	R	4	5	3	0		1	7	4	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	26	A	4	9	4	1	ARTY	1	9	6	0	
+0	0	0	R	4	9	4	0		2	10	4	0	
+0	1	27	T	4	9	4	0		4	11	5	1	TABOO
+0	0	0	Y	4	9	4	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	10	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	28	C	5	0	3	1	CEN	5	0	3	1	CST
+0	0	0	E	5	0	3	0		0	1	10	0	
+0	0	0	N	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	29	E	5	4	3	1	ETE	5	4	3	1	ELA
+0	0	0	T	5	4	3	0		0	5	6	0	
+0	0	0	E	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	5	0	
+0	1	30	N	5	9	5	1	NEATS	1	9	6	0	
+0	0	0	E	5	9	5	0		2	10	4	0	
+0	0	0	A	5	9	5	0		4	11	5	0	
+0	0	0	T	5	9	5	0		0	12	15	0	
+0	1	31	S	5	9	5	0		5	13	10	1	SANDSTONES
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	32	S	6	0	5	1	SZSEL	5	0	3	0	
+0	0	0	Z	6	0	5	0		0	1	10	0	
+0	0	0	S	6	0	5	0		0	2	15	0	
+0	1	33	E	6	0	5	0		6	3	5	1	ERROL
+0	0	0	L	6	0	5	0		5	4	3	0	
+1	0	0	#	6	6	4	0		7	5	0	0	
+0	1	34	A	6	6	4	1	AACY	4	6	5	0	
+0	1	35	A	6	6	4	0		6	7	3	1	ALB
+0	1	36	C	6	6	4	0		6	8	5	1	CCUPS
+0	0	0	Y	6	6	4	0		1	9	6	0	
+1	0	0	#	6	11	3	0		7	10	3	0	
+0	1	37	B	6	11	3	1	BHA	4	11	5	0	
+0	0	0	H	6	11	3	0		0	12	15	0	
+0	0	0	A	6	11	3	0		5	13	10	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	38	T	7	0	5	1	TETRA	5	0	3	0	
+0	0	0	E	7	0	5	0		0	1	10	0	
+0	0	0	T	7	0	5	0		0	2	15	0	
+0	0	0	R	7	0	5	0		6	3	5	0	
+0	0	0	A	7	0	5	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	6	0	
+0	1	39	T	7	6	3	1	TLC	4	6	5	0	
+0	0	0	L	7	6	3	0		6	7	3	0	
+0	0	0	C	7	6	3	0		6	8	5	0	
+1	0	0	#	7	10	5	0		8	9	0	0	
+0	1	40	B	7	10	5	1	BOING	7	10	3	1	BVD
+0	0	0	O	7	10	5	0		4	11	5	0	
+0	0	0	I	7	10	5	0		0	12	15	0	
+0	0	0	N	7	10	5	0		5	13	10	0	
+0	1	41	G	7	10	5	0		7	14	3	1	GAT
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	42	U	8	1	3	1	UIR	0	1	10	0	
+0	0	0	I	8	1	3	0		0	2	15	0	
+0	0	0	R	8	1	3	0		6	3	5	0	
+1	0	0	#	8	5	4	0		9	4	4	0	
+0	1	43	S	8	5	4	1	SABU	8	5	6	1	STARTS
+0	0	0	A	8	5	4	0		4	6	5	0	
+0	0	0	B	8	5	4	0		6	7	3	0	
+0	0	0	U	8	5	4	0		6	8	5	0	
+1	0	0	#	8	10	5	0		9	9	6	0	
+0	1	44	V	8	10	5	1	VONDA	7	10	3	0	
+0	0	0	O	8	10	5	0		4	11	5	0	
+0	0	0	N	8	10	5	0		0	12	15	0	
+0	0	0	D	8	10	5	0		5	13	10	0	
+0	0	0	A	8	10	5	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	45	S	9	1	5	1	STOAT	0	1	10	0	
+0	0	0	T	9	1	5	0		0	2	15	0	
+0	0	0	O	9	1	5	0		6	3	5	0	
+0	1	46	A	9	1	5	0		9	4	4	1	ALLH
+0	0	0	T	9	1	5	0		8	5	6	0	
+1	0	0	#	9	7	0	0		10	6	0	0	
+1	0	0	#	9	8	3	0		10	7	4	0	
+0	1	47	P	9	8	3	1	PPD	6	8	5	0	
+0	1	48	P	9	8	3	0		9	9	6	1	PLIERS
+0	0	0	D	9	8	3	0		7	10	3	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	49	G	9	12	3	1	GST	0	12	15	0	
+0	0	0	S	9	12	3	0		5	13	10	0	
+0	0	0	T	9	12	3	0		7	14	3	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	4	0		11	1	4	0	
+0	1	50	U	10	2	4	1	ULLA	0	2	15	0	
+0	0	0	L	10	2	4	0		6	3	5	0	
+0	0	0	L	10	2	4	0		9	4	4	0	
+0	0	0	A	10	2	4	0		8	5	6	0	
+1	0	0	#	10	7	3	0		11	6	3	0	
+0	1	51	A	10	7	3	1	ASL	10	7	4	1	ANTI
+0	0	0	S	10	7	3	0		6	8	5	0	
+0	0	0	L	10	7	3	0		9	9	6	0	
+1	0	0	#	10	11	3	0		11	10	4	0	
+0	1	52	L	10	11	3	1	LIT	10	11	3	1	LLD
+0	0	0	I	10	11	3	0		0	12	15	0	
+0	0	0	T	10	11	3	0		5	13	10	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	53	F	11	0	3	1	FAT	11	0	3	1	FFF
+0	1	54	A	11	0	3	0		11	1	4	1	ALTE
+0	0	0	T	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	4	0		12	3	3	0	
+0	1	55	L	11	4	4	1	LRON	9	4	4	0	
+0	0	0	R	11	4	4	0		8	5	6	0	
+0	1	56	O	11	4	4	0		11	6	3	1	OAK
+0	0	0	N	11	4	4	0		10	7	4	0	
+1	0	0	#	11	9	5	0		12	8	3	0	
+0	1	57	I	11	9	5	1	IALSO	9	9	6	0	
+0	1	58	A	11	9	5	0		11	10	4	1	ANSA
+0	0	0	L	11	9	5	0		10	11	3	0	
+0	0	0	S	11	9	5	0		0	12	15	0	
+0	0	0	O	11	9	5	0		5	13	10	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	59	F	12	0	15	1	FLIGHTATTENDANT	11	0	3	0	
+0	0	0	L	12	0	15	0		11	1	4	0	
+0	0	0	I	12	0	15	0		0	2	15	0	
+0	1	60	G	12	0	15	0		12	3	3	1	GPO
+0	0	0	H	12	0	15	0		9	4	4	0	
+0	0	0	T	12	0	15	0		8	5	6	0	
+0	0	0	A	12	0	15	0		11	6	3	0	
+0	0	0	T	12	0	15	0		10	7	4	0	
+0	1	61	T	12	0	15	0		12	8	3	1	TER
+0	0	0	E	12	0	15	0		9	9	6	0	
+0	0	0	N	12	0	15	0		11	10	4	0	
+0	0	0	D	12	0	15	0		10	11	3	0	
+0	0	0	A	12	0	15	0		0	12	15	0	
+0	0	0	N	12	0	15	0		5	13	10	0	
+0	1	62	T	12	0	15	0		12	14	3	1	TRL
+0	1	63	F	13	0	4	1	FTOP	11	0	3	0	
+0	0	0	T	13	0	4	0		11	1	4	0	
+0	0	0	O	13	0	4	0		0	2	15	0	
+0	0	0	P	13	0	4	0		12	3	3	0	
+1	0	0	#	13	5	6	0		14	4	0	0	
+0	1	64	S	13	5	6	1	SKIERS	8	5	6	0	
+0	0	0	K	13	5	6	0		11	6	3	0	
+0	0	0	I	13	5	6	0		10	7	4	0	
+0	0	0	E	13	5	6	0		12	8	3	0	
+0	0	0	R	13	5	6	0		9	9	6	0	
+0	0	0	S	13	5	6	0		11	10	4	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	65	I	13	12	3	1	IER	0	12	15	0	
+0	0	0	E	13	12	3	0		5	13	10	0	
+0	0	0	R	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	66	E	14	1	3	1	ENO	11	1	4	0	
+0	0	0	N	14	1	3	0		0	2	15	0	
+0	0	0	O	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	67	R	14	8	3	1	RSA	12	8	3	0	
+0	0	0	S	14	8	3	0		9	9	6	0	
+0	0	0	A	14	8	3	0		11	10	4	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	68	D	14	12	3	1	DSL	0	12	15	0	
+0	0	0	S	14	12	3	0		5	13	10	0	
+0	0	0	L	14	12	3	0		12	14	3	0	
+41
+1	IOU	Letters from a short person?
+4	SOP	Bread, maybe
+7	GEL	Vaseline, for one
+10	RRS	Where to find trainers?: Abbr.
+11	TFLBYA	Some heads of state
+15	OVID	Asian holidays
+17	RASHOFONELINERS	The dermatologist came out with a ___
+20	NCAAS	Big tournaments for university teams, informally
+21	ERBE	Kathryn of "Law & Order: Criminal Intent"
+22	RIC	Rocker Ocasek
+23	GOD	"Praise be to ___!"
+24	ERR	Mess up
+26	ARTY	Pseudo-aesthetic
+28	CEN	Fivescore yrs.
+29	ETE	Bordeaux summer
+30	NEATS	___-foot oil
+32	SZSEL	Cut
+34	AACY	"Qu
+37	BHA	Food preservative, briefly
+38	TETRA	Prefix with meter or methylene
+39	TLC	Pampering, for short
+40	BOING	Sound of a spring
+42	UIR	Onetime TWA rival
+43	SABU	Star of India, once
+44	VONDA	Sci-fi author McIntyre
+45	STOAT	Weasel in brown
+47	PPD	How most goods must be ordered by mail: Abbr.
+49	GST	Standard setting at 0 degrees long.
+50	ULLA	"The Producers" role
+51	ASL	Hand writing?: Abbr.
+52	LIT	Shining
+53	FAT	Stout
+55	LRON	Scientology's ___ Hubbard
+57	IALSO	"___ say it is good to fall": Whitman, "Song of Myself"
+59	FLIGHTATTENDANT	BAIL BONDSMAN
+63	FTOP	Aircraft carrier
+64	SKIERS	Many winter vacationers
+65	IER	Suffix with front
+66	ENO	Brian who produced U2
+67	RSA	Cape Town's home: Abbr.
+68	DSL	High-speed inits.
+37
+1	IRR	Discount designation: Abbr.
+2	ORANGEZEUS	Greek god of fake tans?
+3	USSCONSTITUTION	She performed admirably in the War of 1812
+4	STOA	Spartan walkway
+5	OFFSET	Counterbalance
+6	PLO	Mideast inits.
+7	GON	Suffix with penta-
+8	EVERYTHINGISAID	End of the quote
+9	LIRI	Italian river valley in W.W. II fighting
+12	BNER	Toothpaste ingredient
+13	YER	"Get ___ Ya-Ya's Out!" (Stones album)
+14	ALBANY	Capital on the Hudson
+16	DSC	Mil. honor
+18	HAD	Cozened
+19	IERE	"Able was ___..."
+25	REATA	Rodeo rope
+27	TABOO	Off-limits
+28	CST	Hrs. on the 90th meridian
+29	ELA	She, in Bras
+31	SANDSTONES	Quartzite and such
+33	ERROL	"The Fog of War" director Morris
+35	ALB	Priest's garb
+36	CCUPS	Midsize bra features
+40	BVD	Hanes alternative
+41	GAT	Weapon carried in a speakeasy
+43	STARTS	Turns on, as a car
+46	ALLH	Full of compassion
+48	PLIERS	Things to come to grips with?
+51	ANTI	Not having gone pro?
+52	LLD	Attorney's deg.
+53	FFF	Opposite of ppp, on scores
+54	ALTE	Old, to Oskar
+56	OAK	One of Iowa's state symbols
+58	ANSA	Looped handle
+60	GPO	Mailing ctr.
+61	TER	Thrice: Lat.
+62	TRL	Bygone daily MTV series, informally

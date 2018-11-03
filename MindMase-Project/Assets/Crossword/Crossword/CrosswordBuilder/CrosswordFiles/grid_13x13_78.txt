@@ -1,0 +1,235 @@
+grid_13x13_78
+13
+0	1	1	C	0	0	3	1	CIR	0	0	3	1	CTN
+0	1	2	I	0	0	3	0		0	1	3	1	ISA
+0	1	3	R	0	0	3	0		0	2	13	1	ROSIETHERIVER
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	W	0	5	3	1	WHO	0	5	7	1	WINSOME
+0	1	5	H	0	5	3	0		0	6	3	1	HRH
+0	1	6	O	0	5	3	0		0	7	3	1	ORA
+1	0	0	#	0	9	3	0		1	8	3	0	
+0	1	7	A	0	9	3	1	ABS	0	9	6	1	AGISTS
+0	1	8	B	0	9	3	0		0	10	13	1	BATSANEYELASH
+0	1	9	S	0	9	3	0		0	11	5	1	STAEL
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	T	1	0	4	1	TSOS	0	0	3	0	
+0	0	0	S	1	0	4	0		0	1	3	0	
+0	0	0	O	1	0	4	0		0	2	13	0	
+0	1	11	S	1	0	4	0		1	3	3	1	SOL
+1	0	0	#	1	5	8	0		2	4	0	0	
+0	1	12	I	1	5	8	1	IRRIGATE	0	5	7	0	
+0	0	0	R	1	5	8	0		0	6	3	0	
+0	0	0	R	1	5	8	0		0	7	3	0	
+0	1	13	I	1	5	8	0		1	8	3	1	IBO
+0	0	0	G	1	5	8	0		0	9	6	0	
+0	0	0	A	1	5	8	0		0	10	13	0	
+0	0	0	T	1	5	8	0		0	11	5	0	
+0	1	14	E	1	5	8	0		1	12	3	1	ETO
+0	1	15	N	2	0	4	1	NASO	0	0	3	0	
+0	0	0	A	2	0	4	0		0	1	3	0	
+0	0	0	S	2	0	4	0		0	2	13	0	
+0	0	0	O	2	0	4	0		1	3	3	0	
+1	0	0	#	2	5	8	0		3	4	5	0	
+0	1	16	N	2	5	8	1	NHABITAT	0	5	7	0	
+0	0	0	H	2	5	8	0		0	6	3	0	
+0	0	0	A	2	5	8	0		0	7	3	0	
+0	0	0	B	2	5	8	0		1	8	3	0	
+0	0	0	I	2	5	8	0		0	9	6	0	
+0	0	0	T	2	5	8	0		0	10	13	0	
+0	0	0	A	2	5	8	0		0	11	5	0	
+0	0	0	T	2	5	8	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	17	I	3	2	4	1	ILKS	0	2	13	0	
+0	0	0	L	3	2	4	0		1	3	3	0	
+0	1	18	K	3	2	4	0		3	4	5	1	KNOBS
+0	0	0	S	3	2	4	0		0	5	7	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	19	O	3	8	5	1	OSSEO	1	8	3	0	
+0	0	0	S	3	8	5	0		0	9	6	0	
+0	0	0	S	3	8	5	0		0	10	13	0	
+0	0	0	E	3	8	5	0		0	11	5	0	
+0	0	0	O	3	8	5	0		1	12	3	0	
+0	1	20	O	4	0	3	1	OIE	4	0	3	1	OTS
+0	1	21	I	4	0	3	0		4	1	3	1	ITS
+0	0	0	E	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	22	N	4	4	3	1	NOH	3	4	5	0	
+0	0	0	O	4	4	3	0		0	5	7	0	
+0	1	23	H	4	4	3	0		4	6	5	1	HARDG
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	3	0		5	8	5	0	
+0	1	24	T	4	9	3	1	TAL	0	9	6	0	
+0	0	0	A	4	9	3	0		0	10	13	0	
+0	0	0	L	4	9	3	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	T	5	0	3	1	TTT	4	0	3	0	
+0	0	0	T	5	0	3	0		4	1	3	0	
+0	0	0	T	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	26	O	5	4	3	1	OMA	3	4	5	0	
+0	0	0	M	5	4	3	0		0	5	7	0	
+0	0	0	A	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	3	0		6	7	7	0	
+0	1	27	H	5	8	3	1	HSN	5	8	5	1	HANSA
+0	0	0	S	5	8	3	0		0	9	6	0	
+0	0	0	N	5	8	3	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	S	6	0	3	1	SSH	4	0	3	0	
+0	0	0	S	6	0	3	0		4	1	3	0	
+0	0	0	H	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	6	0	
+0	1	29	B	6	4	5	1	BEREA	3	4	5	0	
+0	0	0	E	6	4	5	0		0	5	7	0	
+0	0	0	R	6	4	5	0		4	6	5	0	
+0	1	30	E	6	4	5	0		6	7	7	1	EIDETIC
+0	0	0	A	6	4	5	0		5	8	5	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	E	6	10	3	1	EBN	0	10	13	0	
+0	1	32	B	6	10	3	0		6	11	3	1	BOD
+0	1	33	N	6	10	3	0		6	12	3	1	NBS
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	3	0		8	1	5	0	
+0	1	34	E	7	2	3	1	EIS	0	2	13	0	
+0	1	35	I	7	2	3	0		7	3	6	1	INTENS
+0	0	0	S	7	2	3	0		3	4	5	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	36	D	7	6	3	1	DIN	4	6	5	0	
+0	0	0	I	7	6	3	0		6	7	7	0	
+0	0	0	N	7	6	3	0		5	8	5	0	
+1	0	0	#	7	10	3	0		8	9	0	0	
+0	1	37	Y	7	10	3	1	YOB	0	10	13	0	
+0	0	0	O	7	10	3	0		6	11	3	0	
+0	0	0	B	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	3	0		9	0	3	0	
+0	1	38	E	8	1	3	1	ERN	8	1	5	1	ENOCH
+0	0	0	R	8	1	3	0		0	2	13	0	
+0	0	0	N	8	1	3	0		7	3	6	0	
+1	0	0	#	8	5	0	0		9	4	3	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	39	G	8	6	3	1	GDS	4	6	5	0	
+0	0	0	D	8	6	3	0		6	7	7	0	
+0	0	0	S	8	6	3	0		5	8	5	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	40	E	8	10	3	1	EDS	0	10	13	0	
+0	0	0	D	8	10	3	0		6	11	3	0	
+0	0	0	S	8	10	3	0		6	12	3	0	
+0	1	41	U	9	0	5	1	UNITE	9	0	3	1	UMS
+0	0	0	N	9	0	5	0		8	1	5	0	
+0	0	0	I	9	0	5	0		0	2	13	0	
+0	0	0	T	9	0	5	0		7	3	6	0	
+0	1	42	E	9	0	5	0		9	4	3	1	EME
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	43	E	9	7	4	1	EARL	6	7	7	0	
+0	0	0	A	9	7	4	0		5	8	5	0	
+0	1	44	R	9	7	4	0		9	9	3	1	RAU
+0	0	0	L	9	7	4	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	45	M	10	0	8	1	MOVEMENT	9	0	3	0	
+0	0	0	O	10	0	8	0		8	1	5	0	
+0	0	0	V	10	0	8	0		0	2	13	0	
+0	0	0	E	10	0	8	0		7	3	6	0	
+0	0	0	M	10	0	8	0		9	4	3	0	
+0	1	46	E	10	0	8	0		10	5	3	1	EXP
+0	1	47	N	10	0	8	0		10	6	3	1	NIE
+0	0	0	T	10	0	8	0		6	7	7	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	48	A	10	9	4	1	AARE	9	9	3	0	
+0	0	0	A	10	9	4	0		0	10	13	0	
+0	1	49	R	10	9	4	0		10	11	3	1	RFD
+0	1	50	E	10	9	4	0		10	12	3	1	ELL
+0	1	51	S	11	0	8	1	SCENEXII	9	0	3	0	
+0	0	0	C	11	0	8	0		8	1	5	0	
+0	0	0	E	11	0	8	0		0	2	13	0	
+0	0	0	N	11	0	8	0		7	3	6	0	
+0	0	0	E	11	0	8	0		9	4	3	0	
+0	0	0	X	11	0	8	0		10	5	3	0	
+0	0	0	I	11	0	8	0		10	6	3	0	
+0	0	0	I	11	0	8	0		6	7	7	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	52	U	11	9	4	1	USFL	9	9	3	0	
+0	0	0	S	11	9	4	0		0	10	13	0	
+0	0	0	F	11	9	4	0		10	11	3	0	
+0	0	0	L	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	53	H	12	1	3	1	HRS	8	1	5	0	
+0	0	0	R	12	1	3	0		0	2	13	0	
+0	0	0	S	12	1	3	0		7	3	6	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	54	P	12	5	3	1	PEC	10	5	3	0	
+0	0	0	E	12	5	3	0		10	6	3	0	
+0	0	0	C	12	5	3	0		6	7	7	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	H	12	10	3	1	HDL	0	10	13	0	
+0	0	0	D	12	10	3	0		10	11	3	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+33
+1	CIR	Round fig.
+4	WHO	"Sez ___?"
+7	ABS	They may be crunched in a gym
+10	TSOS	Chinese menu possessive
+12	IRRIGATE	Water
+15	NASO	Ovid's family name
+16	NHABITAT	Where a plant or animal thrives
+17	ILKS	Classes
+19	OSSEO	Bone: Prefix
+20	OIE	Gallic goose
+22	NOH	Drama in Kyoto
+24	TAL	1960 chess champion
+25	TTT	Fort Smith-to-Little Rock dir.
+26	OMA	Medical suffix
+27	HSN	Cable inits. for sales pitches
+28	SSH	Library sound: Var.
+29	BEREA	Kentucky college or its town
+31	EBN	Surveyor's dir.
+34	EIS	It might halt traffic on the Rhein
+36	DIN	Big sound
+37	YOB	Age-determining stat.
+38	ERN	Sea bird
+39	GDS	Mdse.
+40	EDS	Marinaro and McMahon
+41	UNITE	Come together
+43	EARL	British peer
+45	MOVEMENT	Progress in negotiations
+48	AARE	Alpine river
+51	SCENEXII	Part of Act IV where Marc Antony resolves to kill Cleopatra
+52	USFL	Org. for the Denver Gold and Chicago Blitz
+53	HRS	Baseball stat.
+54	PEC	Iron pumper's target
+55	HDL	"Good" cholesterol, briefly
+29
+1	CTN	Whse. unit
+2	ISA	"This ___ bust!"
+3	ROSIETHERIVER	Waterway named for a talk show host?
+4	WINSOME	Charming
+5	HRH	Buckingham Palace letters
+6	ORA	3,600 secondi
+7	AGISTS	Certain discriminators
+8	BATSANEYELASH	Reacts slightly
+9	STAEL	"Delphine" author Madame de ___
+11	SOL	The Sun
+13	IBO	Nigerian people
+14	ETO	Verdun was in it once: Abbr.
+18	KNOBS	Controls
+20	OTS	N.B.A. nail-biters
+21	ITS	"___ magic!"
+23	HARDG	Start to go?
+27	HANSA	Medieval guild
+30	EIDETIC	Reproducible in great detail
+32	BOD	Chassis
+33	NBS	Measurements overseer: Abbr.
+35	INTENS	How you might get change for a twenty
+38	ENOCH	Cain's eldest
+41	UMS	Speech pauses
+42	EME	Suffix with morph
+44	RAU	Former German president Johannes
+46	EXP	Button abbr. on a scientific calculator
+47	NIE	Never, in Neuss
+49	RFD	Mail abbr.
+50	ELL	Right-angled extension

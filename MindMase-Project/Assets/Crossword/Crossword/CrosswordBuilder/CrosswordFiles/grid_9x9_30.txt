@@ -1,0 +1,117 @@
+grid_9x9_30
+9
+0	1	1	C	0	0	3	1	CEO	0	0	3	1	CSI
+0	1	2	E	0	0	3	0		0	1	4	1	ENRY
+0	1	3	O	0	0	3	0		0	2	4	1	OOOO
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	A	0	4	3	1	ACH	0	4	9	1	ASHTABULA
+0	1	5	C	0	4	3	0		0	5	3	1	CHO
+0	1	6	H	0	4	3	0		0	6	4	1	HERD
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	S	1	0	3	1	SNO	0	0	3	0	
+0	0	0	N	1	0	3	0		0	1	4	0	
+0	0	0	O	1	0	3	0		0	2	4	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	8	S	1	4	5	1	SHEAF	0	4	9	0	
+0	0	0	H	1	4	5	0		0	5	3	0	
+0	0	0	E	1	4	5	0		0	6	4	0	
+0	1	9	A	1	4	5	0		1	7	3	1	ASE
+0	1	10	F	1	4	5	0		1	8	3	1	FEY
+0	1	11	I	2	0	9	1	IRONHORSE	0	0	3	0	
+0	0	0	R	2	0	9	0		0	1	4	0	
+0	0	0	O	2	0	9	0		0	2	4	0	
+0	1	12	N	2	0	9	0		2	3	3	1	NSC
+0	0	0	H	2	0	9	0		0	4	9	0	
+0	0	0	O	2	0	9	0		0	5	3	0	
+0	0	0	R	2	0	9	0		0	6	4	0	
+0	0	0	S	2	0	9	0		1	7	3	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	Y	3	1	4	1	YOST	0	1	4	0	
+0	0	0	O	3	1	4	0		0	2	4	0	
+0	0	0	S	3	1	4	0		2	3	3	0	
+0	0	0	T	3	1	4	0		0	4	9	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	D	3	6	3	1	DEY	0	6	4	0	
+0	0	0	E	3	6	3	0		1	7	3	0	
+0	0	0	Y	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	15	C	4	3	3	1	CAF	2	3	3	0	
+0	0	0	A	4	3	3	0		0	4	9	0	
+0	1	16	F	4	3	3	0		4	5	3	1	FCC
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	I	5	0	3	1	ISO	5	0	3	1	INB
+0	1	18	S	5	0	3	0		5	1	3	1	SAR
+0	1	19	O	5	0	3	0		5	2	4	1	ONOR
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	B	5	4	4	1	BCDE	0	4	9	0	
+0	0	0	C	5	4	4	0		4	5	3	0	
+0	1	21	D	5	4	4	0		5	6	4	1	DKNY
+0	1	22	E	5	4	4	0		5	7	4	1	EEEE
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	23	N	6	0	9	1	NANTUCKET	5	0	3	0	
+0	0	0	A	6	0	9	0		5	1	3	0	
+0	0	0	N	6	0	9	0		5	2	4	0	
+0	1	24	T	6	0	9	0		6	3	3	1	TIN
+0	0	0	U	6	0	9	0		0	4	9	0	
+0	0	0	C	6	0	9	0		4	5	3	0	
+0	0	0	K	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	4	0	
+0	1	25	T	6	0	9	0		6	8	3	1	TSR
+0	1	26	B	7	0	5	1	BROIL	5	0	3	0	
+0	0	0	R	7	0	5	0		5	1	3	0	
+0	0	0	O	7	0	5	0		5	2	4	0	
+0	0	0	I	7	0	5	0		6	3	3	0	
+0	0	0	L	7	0	5	0		0	4	9	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	27	N	7	6	3	1	NES	5	6	4	0	
+0	0	0	E	7	6	3	0		5	7	4	0	
+0	0	0	S	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	28	R	8	2	3	1	RNA	5	2	4	0	
+0	0	0	N	8	2	3	0		6	3	3	0	
+0	0	0	A	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	Y	8	6	3	1	YER	5	6	4	0	
+0	0	0	E	8	6	3	0		5	7	4	0	
+0	0	0	R	8	6	3	0		6	8	3	0	
+15
+1	CEO	Fortune cover subj.
+4	ACH	Cry in Kiel
+7	SNO	___ Mountain (Pennsylvania ski resort)
+8	SHEAF	Quiverful, e.g.
+11	IRONHORSE	Lou Gehrig nickname, with "the"
+13	YOST	Baseball's Eddie, 1952 All-Star for the Senators
+14	DEY	"Blue River" actress, 1995
+15	CAF	Half-___ (coffee order)
+17	ISO	Prefix with kinetic
+20	BCDE	A train?
+23	NANTUCKET	Noted whaling port, once
+26	BROIL	Barbecue
+27	NES	Super ___ (1990s video game console)
+28	RNA	It's stranded
+29	YER	"___ durn tootin'!"
+17
+1	CSI	Hit Jerry Bruckheimer TV drama
+2	ENRY	Eliza's tutor, to Eliza
+3	OOOO	Is behind
+4	ASHTABULA	St. Lawrence Seaway port of entry
+5	CHO	Comic Margaret
+6	HERD	Thundering group
+9	ASE	Wall St. market, briefly
+10	FEY	Effeminate
+12	NSC	Defense planning grp.
+16	FCC	ABC and NBC overseer
+17	INB	Schubert's "Symphony No. 8 ___ Minor"
+18	SAR	River across the French/German border
+19	ONOR	___ about (approximately)
+21	DKNY	Fashion initials
+22	EEEE	Unusual shoe spec
+24	TIN	Muffin holder
+25	TSR	Dungeons & Dragons game co.

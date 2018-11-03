@@ -1,0 +1,307 @@
+grid_15x15_19
+15
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	P	0	1	3	1	POD	0	1	10	1	PERLEMATES
+0	1	2	O	0	1	3	0		0	2	15	1	ORIGINOFSPECIES
+0	1	3	D	0	1	3	0		0	3	3	1	DVD
+1	0	0	#	0	5	0	0		1	4	4	0	
+1	0	0	#	0	6	0	0		1	5	5	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	O	0	7	3	1	OCS	0	7	15	1	ONFAMILIARTERMS
+0	1	5	C	0	7	3	0		0	8	4	1	CHOO
+0	1	6	S	0	7	3	0		0	9	3	1	SSS
+1	0	0	#	0	11	3	0		1	10	0	0	
+0	1	7	C	0	11	3	1	CMA	0	11	6	1	CREPES
+0	1	8	M	0	11	3	0		0	12	15	1	MARINEBIOLOGIST
+0	1	9	A	0	11	3	0		0	13	4	1	ATEE
+1	0	0	#	0	15	0	0		1	14	3	0	
+0	1	10	N	1	0	6	1	NERVED	1	0	4	1	NAAN
+0	0	0	E	1	0	6	0		0	1	10	0	
+0	0	0	R	1	0	6	0		0	2	15	0	
+0	0	0	V	1	0	6	0		0	3	3	0	
+0	1	11	E	1	0	6	0		1	4	4	1	ELMO
+0	1	12	D	1	0	6	0		1	5	5	1	DYADS
+1	0	0	#	1	7	3	0		2	6	0	0	
+0	1	13	N	1	7	3	1	NHS	0	7	15	0	
+0	0	0	H	1	7	3	0		0	8	4	0	
+0	0	0	S	1	7	3	0		0	9	3	0	
+1	0	0	#	1	11	4	0		2	10	3	0	
+0	1	14	R	1	11	4	1	RATE	0	11	6	0	
+0	0	0	A	1	11	4	0		0	12	15	0	
+0	0	0	T	1	11	4	0		0	13	4	0	
+0	1	15	E	1	11	4	0		1	14	3	1	EDS
+0	1	16	A	2	0	6	1	ARIDLY	1	0	4	0	
+0	0	0	R	2	0	6	0		0	1	10	0	
+0	0	0	I	2	0	6	0		0	2	15	0	
+0	0	0	D	2	0	6	0		0	3	3	0	
+0	0	0	L	2	0	6	0		1	4	4	0	
+0	0	0	Y	2	0	6	0		1	5	5	0	
+1	0	0	#	2	7	8	0		3	6	3	0	
+0	1	17	F	2	7	8	1	FOSTERED	0	7	15	0	
+0	0	0	O	2	7	8	0		0	8	4	0	
+0	0	0	S	2	7	8	0		0	9	3	0	
+0	1	18	T	2	7	8	0		2	10	3	1	TSO
+0	0	0	E	2	7	8	0		0	11	6	0	
+0	0	0	R	2	7	8	0		0	12	15	0	
+0	0	0	E	2	7	8	0		0	13	4	0	
+0	0	0	D	2	7	8	0		1	14	3	0	
+0	1	19	A	3	0	3	1	ALG	1	0	4	0	
+0	0	0	L	3	0	3	0		0	1	10	0	
+0	0	0	G	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	5	0		4	3	0	0	
+0	1	20	M	3	4	5	1	MACAO	1	4	4	0	
+0	0	0	A	3	4	5	0		1	5	5	0	
+0	1	21	C	3	4	5	0		3	6	3	1	CON
+0	0	0	A	3	4	5	0		0	7	15	0	
+0	0	0	O	3	4	5	0		0	8	4	0	
+1	0	0	#	3	10	5	0		4	9	0	0	
+0	1	22	S	3	10	5	1	SPIES	2	10	3	0	
+0	0	0	P	3	10	5	0		0	11	6	0	
+0	0	0	I	3	10	5	0		0	12	15	0	
+0	0	0	E	3	10	5	0		0	13	4	0	
+0	0	0	S	3	10	5	0		1	14	3	0	
+0	1	23	N	4	0	3	1	NEI	1	0	4	0	
+0	0	0	E	4	0	3	0		0	1	10	0	
+0	0	0	I	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	24	O	4	4	4	1	ODOM	1	4	4	0	
+0	0	0	D	4	4	4	0		1	5	5	0	
+0	0	0	O	4	4	4	0		3	6	3	0	
+0	0	0	M	4	4	4	0		0	7	15	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	25	O	4	10	3	1	OEN	2	10	3	0	
+0	0	0	E	4	10	3	0		0	11	6	0	
+0	0	0	N	4	10	3	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	10	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	26	M	5	1	3	1	MNO	0	1	10	0	
+0	0	0	N	5	1	3	0		0	2	15	0	
+0	1	27	O	5	1	3	0		5	3	3	1	OAR
+1	0	0	#	5	5	5	0		6	4	3	0	
+0	1	28	S	5	5	5	1	SNIPS	1	5	5	0	
+0	0	0	N	5	5	5	0		3	6	3	0	
+0	0	0	I	5	5	5	0		0	7	15	0	
+0	1	29	P	5	5	5	0		5	8	3	1	PAS
+0	1	30	S	5	5	5	0		5	9	3	1	SIX
+1	0	0	#	5	11	3	0		6	10	3	0	
+0	1	31	S	5	11	3	1	SEA	0	11	6	0	
+0	0	0	E	5	11	3	0		0	12	15	0	
+0	1	32	A	5	11	3	0		5	13	10	1	ALERTREBEL
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	33	L	6	0	5	1	LAOAT	6	0	3	1	LSD
+0	0	0	A	6	0	5	0		0	1	10	0	
+0	0	0	O	6	0	5	0		0	2	15	0	
+0	0	0	A	6	0	5	0		5	3	3	0	
+0	1	34	T	6	0	5	0		6	4	3	1	TAL
+1	0	0	#	6	6	0	0		7	5	3	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	35	L	6	7	4	1	LAIC	0	7	15	0	
+0	0	0	A	6	7	4	0		5	8	3	0	
+0	0	0	I	6	7	4	0		5	9	3	0	
+0	1	36	C	6	7	4	0		6	10	3	1	CAL
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	37	B	6	12	3	1	BLT	0	12	15	0	
+0	0	0	L	6	12	3	0		5	13	10	0	
+0	1	38	T	6	12	3	0		6	14	3	1	TRA
+0	1	39	S	7	0	15	1	STFRANCISXAVIER	6	0	3	0	
+0	0	0	T	7	0	15	0		0	1	10	0	
+0	0	0	F	7	0	15	0		0	2	15	0	
+0	0	0	R	7	0	15	0		5	3	3	0	
+0	0	0	A	7	0	15	0		6	4	3	0	
+0	1	40	N	7	0	15	0		7	5	3	1	NED
+0	1	41	C	7	0	15	0		7	6	3	1	CTA
+0	0	0	I	7	0	15	0		0	7	15	0	
+0	0	0	S	7	0	15	0		5	8	3	0	
+0	0	0	X	7	0	15	0		5	9	3	0	
+0	0	0	A	7	0	15	0		6	10	3	0	
+0	1	42	V	7	0	15	0		7	11	3	1	VOA
+0	0	0	I	7	0	15	0		0	12	15	0	
+0	0	0	E	7	0	15	0		5	13	10	0	
+0	0	0	R	7	0	15	0		6	14	3	0	
+0	1	43	D	8	0	3	1	DES	6	0	3	0	
+0	0	0	E	8	0	3	0		0	1	10	0	
+0	0	0	S	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	4	0		9	3	6	0	
+0	1	44	L	8	4	4	1	LETA	6	4	3	0	
+0	0	0	E	8	4	4	0		7	5	3	0	
+0	0	0	T	8	4	4	0		7	6	3	0	
+0	0	0	A	8	4	4	0		0	7	15	0	
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	5	0		9	9	5	0	
+0	1	45	L	8	10	5	1	LOORA	6	10	3	0	
+0	0	0	O	8	10	5	0		7	11	3	0	
+0	0	0	O	8	10	5	0		0	12	15	0	
+0	0	0	R	8	10	5	0		5	13	10	0	
+0	0	0	A	8	10	5	0		6	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	46	S	9	1	3	1	SPF	0	1	10	0	
+0	0	0	P	9	1	3	0		0	2	15	0	
+0	1	47	F	9	1	3	0		9	3	6	1	FRONDS
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	48	D	9	5	5	1	DARED	7	5	3	0	
+0	0	0	A	9	5	5	0		7	6	3	0	
+0	0	0	R	9	5	5	0		0	7	15	0	
+0	1	49	E	9	5	5	0		9	8	3	1	EAU
+0	1	50	D	9	5	5	0		9	9	5	1	DCCAB
+1	0	0	#	9	11	3	0		10	10	4	0	
+0	1	51	A	9	11	3	1	ALT	7	11	3	0	
+0	0	0	L	9	11	3	0		0	12	15	0	
+0	0	0	T	9	11	3	0		5	13	10	0	
+1	0	0	#	9	15	0	0		10	14	4	0	
+1	0	0	#	10	1	0	0		11	0	3	0	
+1	0	0	#	10	2	3	0		11	1	4	0	
+0	1	52	E	10	2	3	1	ERE	0	2	15	0	
+0	0	0	R	10	2	3	0		9	3	6	0	
+0	1	53	E	10	2	3	0		10	4	3	1	ENG
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	4	0		11	6	4	0	
+0	1	54	T	10	7	4	1	TACS	0	7	15	0	
+0	0	0	A	10	7	4	0		9	8	3	0	
+0	0	0	C	10	7	4	0		9	9	5	0	
+0	1	55	S	10	7	4	0		10	10	4	1	SERA
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	56	O	10	12	3	1	ORU	0	12	15	0	
+0	0	0	R	10	12	3	0		5	13	10	0	
+0	1	57	U	10	12	3	0		10	14	4	1	UNAS
+0	1	58	M	11	0	5	1	MACON	11	0	3	1	MGS
+0	1	59	A	11	0	5	0		11	1	4	1	AONE
+0	0	0	C	11	0	5	0		0	2	15	0	
+0	0	0	O	11	0	5	0		9	3	6	0	
+0	0	0	N	11	0	5	0		10	4	3	0	
+1	0	0	#	11	6	5	0		12	5	3	0	
+0	1	60	D	11	6	5	1	DEUCE	11	6	4	1	DAIL
+0	0	0	E	11	6	5	0		0	7	15	0	
+0	0	0	U	11	6	5	0		9	8	3	0	
+0	0	0	C	11	6	5	0		9	9	5	0	
+0	0	0	E	11	6	5	0		10	10	4	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	61	G	11	12	3	1	GEN	0	12	15	0	
+0	0	0	E	11	12	3	0		5	13	10	0	
+0	0	0	N	11	12	3	0		10	14	4	0	
+0	1	62	G	12	0	8	1	GOINGFAR	11	0	3	0	
+0	0	0	O	12	0	8	0		11	1	4	0	
+0	0	0	I	12	0	8	0		0	2	15	0	
+0	0	0	N	12	0	8	0		9	3	6	0	
+0	0	0	G	12	0	8	0		10	4	3	0	
+0	1	63	F	12	0	8	0		12	5	3	1	FRI
+0	0	0	A	12	0	8	0		11	6	4	0	
+0	0	0	R	12	0	8	0		0	7	15	0	
+1	0	0	#	12	9	6	0		13	8	0	0	
+0	1	64	A	12	9	6	1	ARRIBA	9	9	5	0	
+0	0	0	R	12	9	6	0		10	10	4	0	
+0	1	65	R	12	9	6	0		12	11	3	1	RST
+0	0	0	I	12	9	6	0		0	12	15	0	
+0	0	0	B	12	9	6	0		5	13	10	0	
+0	0	0	A	12	9	6	0		10	14	4	0	
+0	1	66	S	13	0	4	1	SNED	11	0	3	0	
+0	0	0	N	13	0	4	0		11	1	4	0	
+0	0	0	E	13	0	4	0		0	2	15	0	
+0	0	0	D	13	0	4	0		9	3	6	0	
+1	0	0	#	13	5	3	0		14	4	0	0	
+0	1	67	R	13	5	3	1	RIM	12	5	3	0	
+0	0	0	I	13	5	3	0		11	6	4	0	
+0	0	0	M	13	5	3	0		0	7	15	0	
+1	0	0	#	13	9	6	0		14	8	0	0	
+0	1	68	B	13	9	6	1	BASSES	9	9	5	0	
+0	0	0	A	13	9	6	0		10	10	4	0	
+0	0	0	S	13	9	6	0		12	11	3	0	
+0	0	0	S	13	9	6	0		0	12	15	0	
+0	0	0	E	13	9	6	0		5	13	10	0	
+0	0	0	S	13	9	6	0		10	14	4	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	69	E	14	1	3	1	ESS	11	1	4	0	
+0	0	0	S	14	1	3	0		0	2	15	0	
+0	0	0	S	14	1	3	0		9	3	6	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	70	I	14	5	3	1	ILS	12	5	3	0	
+0	0	0	L	14	5	3	0		11	6	4	0	
+0	0	0	S	14	5	3	0		0	7	15	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	71	T	14	11	3	1	TTL	12	11	3	0	
+0	0	0	T	14	11	3	0		0	12	15	0	
+0	0	0	L	14	11	3	0		5	13	10	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	POD	Minivehicle
+4	OCS	It turns out lts.
+7	CMA	Org. with an annual televised awards ceremony
+10	NERVED	Strengthened
+13	NHS	Selective high-school org.
+14	RATE	Bank quote
+16	ARIDLY	Without imagination
+17	FOSTERED	Promoted
+19	ALG	Math. course
+20	MACAO	Port near Hong Kong
+22	SPIES	Black and white Mad magazine figures
+23	NEI	"In the," in Italy
+24	ODOM	Baseball's Blue Moon
+25	OEN	Vintner's prefix
+26	MNO	Alphabet trio
+28	SNIPS	Brats
+31	SEA	Captain's domain
+33	LAOAT	Smock
+35	LAIC	Of the congregation
+37	BLT	Lunch sandwich, for short
+39	STFRANCISXAVIER	Early Jesuit
+43	DES	"Der Ring ___ Nibelungen"
+44	LETA	"I ___ Song Go Out of My Heart"
+45	LOORA	Irish lullaby syllables
+46	SPF	Letters on a Coppertone bottle
+48	DARED	Wasn't afraid
+51	ALT	Cruising stat.
+52	ERE	Before, to a bard
+54	TACS	Tic-___ (candies)
+56	ORU	Okla. school
+58	MACON	Georgia city, home of Mercer University
+60	DEUCE	It may be wild
+61	GEN	___-Xers (boomers' kids)
+62	GOINGFAR	On the path to great success
+64	ARRIBA	Exuberant Spanish cry
+66	SNED	Caught some rays
+67	RIM	Hoops target
+68	BASSES	The back of the choir?
+69	ESS	River curve
+70	ILS	They: Fr.
+71	TTL	Lumberjack's tool
+37
+1	PERLEMATES	Ambassador takes a husband
+2	ORIGINOFSPECIES	Classic Charles Darwin work
+3	DVD	Netflix offering
+4	ONFAMILIARTERMS	Friendly
+5	CHOO	Sneeze syllable
+6	SSS	Sound of bacon frying
+7	CREPES	Fancy flapjacks
+8	MARINEBIOLOGIST	One concerned with school activities?
+9	ATEE	Fit to finish?
+10	NAAN	Indian bread
+11	ELMO	Rosie O'Donnell's Muppet friend
+12	DYADS	Twosomes
+15	EDS	Seventeen people?: Abbr.
+18	TSO	General of Chinese menu fame
+21	CON	Cell sojourner
+27	OAR	Row your boat
+29	PAS	Stage setups, for short
+30	SIX	More than a handful
+32	ALERTREBEL	Government resister standing ready
+33	LSD	Certain turn-on
+34	TAL	60's chess champ
+36	CAL	Berkeley campus nickname
+38	TRA	Chorus line opener
+40	NED	Celebrated outlaw ___ Kelly
+41	CTA	Windy City transportation inits.
+42	VOA	Broadcaster in many langs.
+47	FRONDS	Palm features
+49	EAU	___ de cologne
+50	DCCAB	1983 Mr. T comedy
+53	ENG	Like Bacon or Lamb: Abbr.
+55	SERA	Toxin fighters
+57	UNAS	Amalfi articles
+58	MGS	Booker T.'s bandmates in '60s R&B
+59	AONE	Excellent
+60	DAIL	___ 
+63	FRI	When "77 Sunset Strip" aired: Abbr.
+65	RST	Alphabet sequence

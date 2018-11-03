@@ -1,0 +1,309 @@
+grid_15x15_90
+15
+1	0	0	#	0	1	4	0		1	0	3	0	
+0	1	1	T	0	1	4	1	TSCA	0	1	4	1	TORK
+0	1	2	S	0	1	4	0		0	2	4	1	SSNS
+0	1	3	C	0	1	4	0		0	3	3	1	CEE
+0	1	4	A	0	1	4	0		0	4	3	1	ADS
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	5	D	0	6	3	1	DAU	0	6	4	1	DOHA
+0	1	6	A	0	6	3	0		0	7	4	1	AWET
+0	1	7	U	0	6	3	0		0	8	5	1	UNMET
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	8	L	0	10	3	1	LOB	0	10	3	1	LAN
+0	1	9	O	0	10	3	0		0	11	3	1	ORG
+0	1	10	B	0	10	3	0		0	12	6	1	BOWSTO
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	4	0	
+0	1	11	H	1	0	9	1	HOSEDDOWN	1	0	3	1	HEC
+0	0	0	O	1	0	9	0		0	1	4	0	
+0	0	0	S	1	0	9	0		0	2	4	0	
+0	0	0	E	1	0	9	0		0	3	3	0	
+0	0	0	D	1	0	9	0		0	4	3	0	
+0	1	12	D	1	0	9	0		1	5	5	1	DTOAZ
+0	0	0	O	1	0	9	0		0	6	4	0	
+0	0	0	W	1	0	9	0		0	7	4	0	
+0	0	0	N	1	0	9	0		0	8	5	0	
+1	0	0	#	1	10	5	0		2	9	5	0	
+0	1	13	A	1	10	5	1	AROAR	0	10	3	0	
+0	0	0	R	1	10	5	0		0	11	3	0	
+0	0	0	O	1	10	5	0		0	12	6	0	
+0	1	14	A	1	10	5	0		1	13	5	1	AARON
+0	1	15	R	1	10	5	0		1	14	4	1	RYAS
+0	1	16	E	2	0	15	1	ERNESTHEMINGWAY	1	0	3	0	
+0	0	0	R	2	0	15	0		0	1	4	0	
+0	0	0	N	2	0	15	0		0	2	4	0	
+0	0	0	E	2	0	15	0		0	3	3	0	
+0	0	0	S	2	0	15	0		0	4	3	0	
+0	0	0	T	2	0	15	0		1	5	5	0	
+0	0	0	H	2	0	15	0		0	6	4	0	
+0	0	0	E	2	0	15	0		0	7	4	0	
+0	0	0	M	2	0	15	0		0	8	5	0	
+0	1	17	I	2	0	15	0		2	9	5	1	ISHAM
+0	0	0	N	2	0	15	0		0	10	3	0	
+0	0	0	G	2	0	15	0		0	11	3	0	
+0	0	0	W	2	0	15	0		0	12	6	0	
+0	0	0	A	2	0	15	0		1	13	5	0	
+0	0	0	Y	2	0	15	0		1	14	4	0	
+0	1	18	C	3	0	3	1	CKS	1	0	3	0	
+0	0	0	K	3	0	3	0		0	1	4	0	
+0	0	0	S	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	0	0		4	3	6	0	
+1	0	0	#	3	5	5	0		4	4	3	0	
+0	1	19	O	3	5	5	1	OATES	1	5	5	0	
+0	0	0	A	3	5	5	0		0	6	4	0	
+0	0	0	T	3	5	5	0		0	7	4	0	
+0	0	0	E	3	5	5	0		0	8	5	0	
+0	0	0	S	3	5	5	0		2	9	5	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+1	0	0	#	3	12	3	0		4	11	0	0	
+0	1	20	S	3	12	3	1	SRA	0	12	6	0	
+0	0	0	R	3	12	3	0		1	13	5	0	
+0	0	0	A	3	12	3	0		1	14	4	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	3	0	
+0	1	21	C	4	3	3	1	CAA	4	3	6	1	CANERS
+0	1	22	A	4	3	3	0		4	4	3	1	ANY
+0	0	0	A	4	3	3	0		1	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	23	T	4	8	3	1	THY	0	8	5	0	
+0	0	0	H	4	8	3	0		2	9	5	0	
+0	1	24	Y	4	8	3	0		4	10	3	1	YRS
+1	0	0	#	4	12	3	0		5	11	6	0	
+0	1	25	T	4	12	3	1	TOS	0	12	6	0	
+0	0	0	O	4	12	3	0		1	13	5	0	
+0	0	0	S	4	12	3	0		1	14	4	0	
+0	1	26	O	5	0	7	1	ORGANZA	5	0	3	1	OSA
+0	1	27	R	5	0	7	0		5	1	3	1	RHO
+0	1	28	G	5	0	7	0		5	2	3	1	GIN
+0	0	0	A	5	0	7	0		4	3	6	0	
+0	0	0	N	5	0	7	0		4	4	3	0	
+0	0	0	Z	5	0	7	0		1	5	5	0	
+0	1	29	A	5	0	7	0		5	6	4	1	AFXE
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	4	0	
+0	1	30	A	5	9	5	1	ARSON	2	9	5	0	
+0	0	0	R	5	9	5	0		4	10	3	0	
+0	1	31	S	5	9	5	0		5	11	6	1	SYMONS
+0	0	0	O	5	9	5	0		0	12	6	0	
+0	0	0	N	5	9	5	0		1	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	32	S	6	0	5	1	SHINY	5	0	3	0	
+0	0	0	H	6	0	5	0		5	1	3	0	
+0	0	0	I	6	0	5	0		5	2	3	0	
+0	0	0	N	6	0	5	0		4	3	6	0	
+0	0	0	Y	6	0	5	0		4	4	3	0	
+1	0	0	#	6	6	6	0		7	5	0	0	
+0	1	33	F	6	6	6	1	FLIMSY	5	6	4	0	
+0	1	34	L	6	6	6	0		6	7	3	1	LIT
+0	1	35	I	6	6	6	0		6	8	4	1	INST
+0	0	0	M	6	6	6	0		2	9	5	0	
+0	0	0	S	6	6	6	0		4	10	3	0	
+0	0	0	Y	6	6	6	0		5	11	6	0	
+1	0	0	#	6	13	0	0		7	12	3	0	
+1	0	0	#	6	14	0	0		7	13	3	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	36	A	7	0	4	1	AONE	5	0	3	0	
+0	0	0	O	7	0	4	0		5	1	3	0	
+0	0	0	N	7	0	4	0		5	2	3	0	
+0	0	0	E	7	0	4	0		4	3	6	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	5	0	
+0	1	37	X	7	6	3	1	XIN	5	6	4	0	
+0	0	0	I	7	6	3	0		6	7	3	0	
+0	0	0	N	7	6	3	0		6	8	4	0	
+1	0	0	#	7	10	0	0		8	9	0	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	38	M	7	11	4	1	MDSE	5	11	6	0	
+0	1	39	D	7	11	4	0		7	12	3	1	DCN
+0	1	40	S	7	11	4	0		7	13	3	1	SUE
+0	1	41	E	7	11	4	0		7	14	3	1	ESD
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	5	0	
+1	0	0	#	8	3	6	0		9	2	6	0	
+0	1	42	R	8	3	6	1	RIVETS	4	3	6	0	
+0	1	43	I	8	3	6	0		8	4	3	1	IIS
+0	1	44	V	8	3	6	0		8	5	5	1	VCHIP
+0	0	0	E	8	3	6	0		5	6	4	0	
+0	0	0	T	8	3	6	0		6	7	3	0	
+0	0	0	S	8	3	6	0		6	8	4	0	
+1	0	0	#	8	10	5	0		9	9	5	0	
+0	1	45	H	8	10	5	1	HOCUS	8	10	3	1	HIE
+0	0	0	O	8	10	5	0		5	11	6	0	
+0	0	0	C	8	10	5	0		7	12	3	0	
+0	0	0	U	8	10	5	0		7	13	3	0	
+0	0	0	S	8	10	5	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	4	0	
+0	1	46	B	9	1	5	1	BASIC	9	1	5	1	BATHS
+0	1	47	A	9	1	5	0		9	2	6	1	ASPREE
+0	0	0	S	9	1	5	0		4	3	6	0	
+0	0	0	I	9	1	5	0		8	4	3	0	
+0	0	0	C	9	1	5	0		8	5	5	0	
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	7	0		10	7	0	0	
+0	1	48	T	9	8	7	1	THINNED	6	8	4	0	
+0	1	49	H	9	8	7	0		9	9	5	1	HAIKU
+0	0	0	I	9	8	7	0		8	10	3	0	
+0	0	0	N	9	8	7	0		5	11	6	0	
+0	0	0	N	9	8	7	0		7	12	3	0	
+0	0	0	E	9	8	7	0		7	13	3	0	
+0	0	0	D	9	8	7	0		7	14	3	0	
+0	1	50	P	10	0	3	1	PAS	10	0	4	1	PASA
+0	0	0	A	10	0	3	0		9	1	5	0	
+0	0	0	S	10	0	3	0		9	2	6	0	
+1	0	0	#	10	4	3	0		11	3	0	0	
+0	1	51	S	10	4	3	1	SHY	8	4	3	0	
+0	0	0	H	10	4	3	0		8	5	5	0	
+0	1	52	Y	10	4	3	0		10	6	5	1	YECCH
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	3	0		11	8	4	0	
+0	1	53	A	10	9	3	1	AES	9	9	5	0	
+0	0	0	E	10	9	3	0		8	10	3	0	
+0	0	0	S	10	9	3	0		5	11	6	0	
+1	0	0	#	10	13	0	0		11	12	4	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+0	1	54	A	11	0	3	1	ATP	10	0	4	0	
+0	0	0	T	11	0	3	0		9	1	5	0	
+0	0	0	P	11	0	3	0		9	2	6	0	
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	5	0		12	4	3	0	
+0	1	55	I	11	5	5	1	IEREI	8	5	5	0	
+0	0	0	E	11	5	5	0		10	6	5	0	
+0	1	56	R	11	5	5	0		11	7	4	1	ROSA
+0	1	57	E	11	5	5	0		11	8	4	1	ECTO
+0	0	0	I	11	5	5	0		9	9	5	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	58	Z	11	12	3	1	ZAG	11	12	4	1	ZINC
+0	1	59	A	11	12	3	0		11	13	4	1	ALTS
+0	1	60	G	11	12	3	0		11	14	3	1	GSS
+0	1	61	S	12	0	15	1	SHRIMPCOCKTAILS	10	0	4	0	
+0	0	0	H	12	0	15	0		9	1	5	0	
+0	0	0	R	12	0	15	0		9	2	6	0	
+0	1	62	I	12	0	15	0		12	3	3	1	IEL
+0	1	63	M	12	0	15	0		12	4	3	1	MDS
+0	0	0	P	12	0	15	0		8	5	5	0	
+0	0	0	C	12	0	15	0		10	6	5	0	
+0	0	0	O	12	0	15	0		11	7	4	0	
+0	0	0	C	12	0	15	0		11	8	4	0	
+0	0	0	K	12	0	15	0		9	9	5	0	
+0	1	64	T	12	0	15	0		12	10	3	1	TDP
+0	1	65	A	12	0	15	0		12	11	3	1	AEF
+0	0	0	I	12	0	15	0		11	12	4	0	
+0	0	0	L	12	0	15	0		11	13	4	0	
+0	0	0	S	12	0	15	0		11	14	3	0	
+0	1	66	A	13	0	5	1	ASEED	10	0	4	0	
+0	0	0	S	13	0	5	0		9	1	5	0	
+0	0	0	E	13	0	5	0		9	2	6	0	
+0	0	0	E	13	0	5	0		12	3	3	0	
+0	0	0	D	13	0	5	0		12	4	3	0	
+1	0	0	#	13	6	9	0		14	5	0	0	
+0	1	67	C	13	6	9	1	CSTUDENTS	10	6	5	0	
+0	0	0	S	13	6	9	0		11	7	4	0	
+0	0	0	T	13	6	9	0		11	8	4	0	
+0	0	0	U	13	6	9	0		9	9	5	0	
+0	0	0	D	13	6	9	0		12	10	3	0	
+0	0	0	E	13	6	9	0		12	11	3	0	
+0	0	0	N	13	6	9	0		11	12	4	0	
+0	0	0	T	13	6	9	0		11	13	4	0	
+0	0	0	S	13	6	9	0		11	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	68	E	14	2	3	1	ELS	9	2	6	0	
+0	0	0	L	14	2	3	0		12	3	3	0	
+0	0	0	S	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	69	H	14	6	3	1	HAO	10	6	5	0	
+0	0	0	A	14	6	3	0		11	7	4	0	
+0	0	0	O	14	6	3	0		11	8	4	0	
+1	0	0	#	14	10	4	0		15	9	0	0	
+0	1	70	P	14	10	4	1	PFCS	12	10	3	0	
+0	0	0	F	14	10	4	0		12	11	3	0	
+0	0	0	C	14	10	4	0		11	12	4	0	
+0	0	0	S	14	10	4	0		11	13	4	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+35
+1	TSCA	Puccini soprano
+5	DAU	Family tree abbr.
+8	LOB	High ball
+11	HOSEDDOWN	Rinsed, as a car
+13	AROAR	Sounding like lions
+16	ERNESTHEMINGWAY	Author, 1899-1961
+18	CKS	Some payments: Abbr.
+19	OATES	Pulitzer nominee for the novels "Black Water" and "Blonde"
+20	SRA	Mme. of La Mancha
+21	CAA	Major org. representing entertainers and athletes
+23	THY	Lord's Prayer adjective
+25	TOS	Set-___
+26	ORGANZA	Lining material
+30	ARSON	Match play?
+32	SHINY	Polished, as shoes
+33	FLIMSY	Lame
+36	AONE	First-class
+37	XIN	Mark, as a ballot
+38	MDSE	Invoice itemization: Abbr.
+42	RIVETS	Construction fasteners
+45	HOCUS	Start of a spelling?
+46	BASIC	Fundamental
+48	THINNED	Diluted
+50	PAS	___ de bourr
+51	SHY	Hardly gregarious
+53	AES	Robert Louis Stevenson's "___ Triplex"
+54	ATP	Org. for Agassi and Roddick
+55	IEREI	Middle of a famous palindrome
+58	ZAG	Go the other way
+61	SHRIMPCOCKTAILS	Appetizers served with sauce
+66	ASEED	Plant ___
+67	CSTUDENTS	They're far from valedictorians
+68	ELS	Urban trains, for short
+69	HAO	Vietnamese coin
+70	PFCS	Sgt.'s charges
+45
+1	TORK	The blond Monkee
+2	SSNS	ID theft targets
+3	CEE	Passing mark
+4	ADS	A lot of junk mail
+5	DOHA	Qatar's capital
+6	AWET	"S
+7	UNMET	Not reached
+8	LAN	Grp. of connected PCs
+9	ORG	E-mail address ender
+10	BOWSTO	Greets respectfully
+11	HEC	TV's "___ Ramsey"
+12	DTOAZ	Bad lighting?
+14	AARON	Super Bowl XLV M.V.P. Rodgers
+15	RYAS	Scandinavian area rugs
+17	ISHAM	"It Had to Be You" composer ___ Jones
+21	CANERS	They're punishing
+22	ANY	___ minute
+24	YRS	Age: Abbr.
+26	OSA	Granada bear
+27	RHO	P, on a fraternity jacket
+28	GIN	Ingredient in a boomerang
+29	AFXE	Fire
+31	SYMONS	Arthur who wrote "The Symbolist Movement in Literature"
+34	LIT	Stiff
+35	INST	Acad.
+39	DCN	Big jet
+40	SUE	Good name for a trial lawyer
+41	ESD	Either of two books of the Apocrypha: Abbr.
+43	IIS	"___ for Innocent" (Grafton novel)
+44	VCHIP	Screening device
+45	HIE	Scoot
+46	BATHS	Bubbling waters
+47	ASPREE	Frolicking, after "on"
+49	HAIKU	Japanese verse form
+50	PASA	"Que ___?"
+52	YECCH	"Ugh!"
+56	ROSA	Parks of civil rights fame
+57	ECTO	Outside: Prefix
+58	ZINC	___ oxide (sunscreen compound)
+59	ALTS	Rocky Mtn. highs?
+60	GSS	Snare
+62	IEL	Drive forward
+63	MDS	Physicians, for short
+64	TDP	Group formed at C.C.N.Y. in 1910
+65	AEF	W.W. I military grp.

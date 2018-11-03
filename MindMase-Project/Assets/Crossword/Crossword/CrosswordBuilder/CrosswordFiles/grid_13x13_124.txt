@@ -1,0 +1,229 @@
+grid_13x13_124
+13
+0	1	1	B	0	0	3	1	BET	0	0	4	1	BOWE
+0	1	2	E	0	0	3	0		0	1	4	1	EDIE
+0	1	3	T	0	0	3	0		0	2	4	1	TENN
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	5	0		1	4	0	0	
+0	1	4	A	0	5	5	1	AREST	0	5	3	1	APE
+0	1	5	R	0	5	5	0		0	6	3	1	ROT
+0	1	6	E	0	5	5	0		0	7	3	1	EPH
+0	1	7	S	0	5	5	0		0	8	5	1	STELA
+0	1	8	T	0	5	5	0		0	9	4	1	TAPA
+1	0	0	#	0	11	0	0		1	10	7	0	
+1	0	0	#	0	12	0	0		1	11	7	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	9	O	1	0	4	1	ODES	0	0	4	0	
+0	0	0	D	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	4	0	
+0	1	10	S	1	0	4	0		1	3	6	1	SNIERS
+1	0	0	#	1	5	7	0		2	4	3	0	
+0	1	11	P	1	5	7	1	POPTART	0	5	3	0	
+0	0	0	O	1	5	7	0		0	6	3	0	
+0	0	0	P	1	5	7	0		0	7	3	0	
+0	0	0	T	1	5	7	0		0	8	5	0	
+0	0	0	A	1	5	7	0		0	9	4	0	
+0	1	12	R	1	5	7	0		1	10	7	1	RECEIPT
+0	1	13	T	1	5	7	0		1	11	7	1	TWERENT
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	14	W	2	0	12	1	WINNIETHEPEW	0	0	4	0	
+0	0	0	I	2	0	12	0		0	1	4	0	
+0	0	0	N	2	0	12	0		0	2	4	0	
+0	0	0	N	2	0	12	0		1	3	6	0	
+0	1	15	I	2	0	12	0		2	4	3	1	IER
+0	0	0	E	2	0	12	0		0	5	3	0	
+0	0	0	T	2	0	12	0		0	6	3	0	
+0	0	0	H	2	0	12	0		0	7	3	0	
+0	0	0	E	2	0	12	0		0	8	5	0	
+0	0	0	P	2	0	12	0		0	9	4	0	
+0	0	0	E	2	0	12	0		1	10	7	0	
+0	0	0	W	2	0	12	0		1	11	7	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+0	1	16	E	3	0	5	1	EENIE	0	0	4	0	
+0	0	0	E	3	0	5	0		0	1	4	0	
+0	0	0	N	3	0	5	0		0	2	4	0	
+0	0	0	I	3	0	5	0		1	3	6	0	
+0	0	0	E	3	0	5	0		2	4	3	0	
+1	0	0	#	3	6	0	0		4	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	5	0	
+0	1	17	L	3	8	5	1	LACEY	0	8	5	0	
+0	0	0	A	3	8	5	0		0	9	4	0	
+0	0	0	C	3	8	5	0		1	10	7	0	
+0	0	0	E	3	8	5	0		1	11	7	0	
+0	1	18	Y	3	8	5	0		3	12	3	1	YES
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	7	0	
+1	0	0	#	4	3	6	0		5	2	7	0	
+0	1	19	E	4	3	6	1	ERIEPA	1	3	6	0	
+0	0	0	R	4	3	6	0		2	4	3	0	
+0	1	20	I	4	3	6	0		4	5	5	1	IRANI
+0	1	21	E	4	3	6	0		4	6	5	1	EMMET
+0	1	22	P	4	3	6	0		4	7	5	1	PNSUP
+0	0	0	A	4	3	6	0		0	8	5	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	23	E	4	10	3	1	ERE	1	10	7	0	
+0	0	0	R	4	10	3	0		1	11	7	0	
+0	0	0	E	4	10	3	0		3	12	3	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	24	M	5	1	3	1	MER	5	1	7	1	MAFIOSO
+0	1	25	E	5	1	3	0		5	2	7	1	ENRAGED
+0	0	0	R	5	1	3	0		1	3	6	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	26	R	5	5	3	1	RMN	4	5	5	0	
+0	0	0	M	5	5	3	0		4	6	5	0	
+0	0	0	N	5	5	3	0		4	7	5	0	
+1	0	0	#	5	9	0	0		6	8	0	0	
+1	0	0	#	5	10	3	0		6	9	6	0	
+0	1	27	I	5	10	3	1	IES	1	10	7	0	
+0	0	0	E	5	10	3	0		1	11	7	0	
+0	0	0	S	5	10	3	0		3	12	3	0	
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	28	A	6	1	3	1	ANS	5	1	7	0	
+0	0	0	N	6	1	3	0		5	2	7	0	
+0	0	0	S	6	1	3	0		1	3	6	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	29	A	6	5	3	1	AMS	4	5	5	0	
+0	0	0	M	6	5	3	0		4	6	5	0	
+0	0	0	S	6	5	3	0		4	7	5	0	
+1	0	0	#	6	9	3	0		7	8	0	0	
+0	1	30	L	6	9	3	1	LPN	6	9	6	1	LATETO
+0	0	0	P	6	9	3	0		1	10	7	0	
+0	0	0	N	6	9	3	0		1	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	31	Y	7	0	3	1	YFR	7	0	3	1	YZB
+0	0	0	F	7	0	3	0		5	1	7	0	
+0	0	0	R	7	0	3	0		5	2	7	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	3	0		8	4	5	0	
+0	1	32	N	7	5	3	1	NEU	4	5	5	0	
+0	0	0	E	7	5	3	0		4	6	5	0	
+0	0	0	U	7	5	3	0		4	7	5	0	
+1	0	0	#	7	9	3	0		8	8	3	0	
+0	1	33	A	7	9	3	1	ATT	6	9	6	0	
+0	0	0	T	7	9	3	0		1	10	7	0	
+0	0	0	T	7	9	3	0		1	11	7	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	Z	8	0	3	1	ZIA	7	0	3	0	
+0	0	0	I	8	0	3	0		5	1	7	0	
+0	0	0	A	8	0	3	0		5	2	7	0	
+1	0	0	#	8	4	6	0		9	3	4	0	
+0	1	35	S	8	4	6	1	SITPAT	8	4	5	1	SEINE
+0	0	0	I	8	4	6	0		4	5	5	0	
+0	0	0	T	8	4	6	0		4	6	5	0	
+0	0	0	P	8	4	6	0		4	7	5	0	
+0	1	36	A	8	4	6	0		8	8	3	1	AHI
+0	0	0	T	8	4	6	0		6	9	6	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	4	0	
+0	1	37	B	9	0	5	1	BOGLE	7	0	3	0	
+0	0	0	O	9	0	5	0		5	1	7	0	
+0	0	0	G	9	0	5	0		5	2	7	0	
+0	1	38	L	9	0	5	0		9	3	4	1	LEDA
+0	0	0	E	9	0	5	0		8	4	5	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	5	0		10	7	3	0	
+0	1	39	H	9	8	5	1	HEATH	8	8	3	0	
+0	0	0	E	9	8	5	0		6	9	6	0	
+0	1	40	A	9	8	5	0		9	10	4	1	AABB
+0	1	41	T	9	8	5	0		9	11	4	1	TRIO
+0	1	42	H	9	8	5	0		9	12	4	1	HSTZ
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	43	S	10	1	12	1	SEEINGSITARS	5	1	7	0	
+0	0	0	E	10	1	12	0		5	2	7	0	
+0	0	0	E	10	1	12	0		9	3	4	0	
+0	0	0	I	10	1	12	0		8	4	5	0	
+0	1	44	N	10	1	12	0		10	5	3	1	NET
+0	1	45	G	10	1	12	0		10	6	3	1	GSA
+0	1	46	S	10	1	12	0		10	7	3	1	SST
+0	0	0	I	10	1	12	0		8	8	3	0	
+0	0	0	T	10	1	12	0		6	9	6	0	
+0	0	0	A	10	1	12	0		9	10	4	0	
+0	0	0	R	10	1	12	0		9	11	4	0	
+0	0	0	S	10	1	12	0		9	12	4	0	
+1	0	0	#	11	1	7	0		12	0	0	0	
+0	1	47	O	11	1	7	1	ODDNESS	5	1	7	0	
+0	0	0	D	11	1	7	0		5	2	7	0	
+0	0	0	D	11	1	7	0		9	3	4	0	
+0	0	0	N	11	1	7	0		8	4	5	0	
+0	0	0	E	11	1	7	0		10	5	3	0	
+0	0	0	S	11	1	7	0		10	6	3	0	
+0	0	0	S	11	1	7	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	48	O	11	9	4	1	OBIT	6	9	6	0	
+0	0	0	B	11	9	4	0		9	10	4	0	
+0	0	0	I	11	9	4	0		9	11	4	0	
+0	0	0	T	11	9	4	0		9	12	4	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	5	0		13	2	0	0	
+0	1	49	A	12	3	5	1	AETAT	9	3	4	0	
+0	0	0	E	12	3	5	0		8	4	5	0	
+0	0	0	T	12	3	5	0		10	5	3	0	
+0	0	0	A	12	3	5	0		10	6	3	0	
+0	0	0	T	12	3	5	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	B	12	10	3	1	BOZ	9	10	4	0	
+0	0	0	O	12	10	3	0		9	11	4	0	
+0	0	0	Z	12	10	3	0		9	12	4	0	
+27
+1	BET	A couple of chips, maybe
+4	AREST	"Give it ___!" ("Quit harping!")
+9	ODES	"___ of Solomon"
+11	POPTART	Breakfast offering
+14	WINNIETHEPEW	Churchgoer's pet name for his seat?
+16	EENIE	___, meenie, miney, mo
+17	LACEY	___ Davenport, long-running "Doonesbury" character
+19	ERIEPA	16501
+23	ERE	Prior to, in verse
+24	MER	Place for une 
+26	RMN	Old presidential inits.
+27	IES	Plural suffix
+28	ANS	T or F: Abbr.
+29	AMS	Early hrs.
+30	LPN	I.C.U. figure
+31	YFR	N.B.A.
+32	NEU	Big word in German ads
+33	ATT	QB's pass, whether completed or not: Abbr.
+34	ZIA	He overthrew Bhutto
+35	SITPAT	Be content with where one is
+37	BOGLE	Overwhelm
+39	HEATH	Moor
+43	SEEINGSITARS	Dreaming 
+47	ODDNESS	Idiosyncrasy
+48	OBIT	Departure info?
+49	AETAT	Old tombstone abbr. meaning "at the age of"
+50	BOZ	Name attached to some 1836 "Sketches"
+29
+1	BOWE	Boxer Riddick
+2	EDIE	"The Sopranos" Emmy winner Falco
+3	TENN	Home of Davy Crockett: Abbr.
+4	APE	Bad way to go?
+5	ROT	Spoilage
+6	EPH	Book before Phil.
+7	STELA	Carved pillar
+8	TAPA	Snack with cerveza
+10	SNIERS	5th Avenue alternative
+12	RECEIPT	Slip on a new piece of clothing?
+13	TWERENT	Old-fashioned contraction
+15	IER	Ending with cash or bombard
+18	YES	"O.K."
+20	IRANI	Azerbaijani neighbor
+21	EMMET	Irish patriot hanged in 1803
+22	PNSUP	Starts to raise, as a hem
+24	MAFIOSO	Family member
+25	ENRAGED	Really steamed
+30	LATETO	Missing, as the start of a party
+31	YZB	Vietnamese holiday
+35	SEINE	Repeated setting for Georges Seurat paintings
+36	AHI	Tuna at a sushi bar
+38	LEDA	Mother of Castor and Pollux
+40	AABB	Common rhyme scheme
+41	TRIO	The Stooges, e.g.
+42	HSTZ	Bangkok native
+44	NET	Safety device eschewed by the Flying Wallendas
+45	GSA	Govt. office supplier
+46	SST	J.F.K. lander

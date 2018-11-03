@@ -1,0 +1,239 @@
+grid_13x13_139
+13
+0	1	1	D	0	0	3	1	DCL	0	0	3	1	DAH
+0	1	2	C	0	0	3	0		0	1	3	1	CDE
+0	1	3	L	0	0	3	0		0	2	13	1	LONEARTSSTATE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	L	0	4	3	1	LOU	0	4	4	1	LTYR
+0	1	5	O	0	4	3	0		0	5	3	1	ORY
+0	1	6	U	0	4	3	0		0	6	3	1	USO
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	5	0	
+0	1	7	S	0	10	3	1	SOI	0	10	13	1	SOMEBODYSBABY
+0	1	8	O	0	10	3	0		0	11	3	1	OTA
+0	1	9	I	0	10	3	0		0	12	3	1	ITN
+0	1	10	A	1	0	3	1	ADO	0	0	3	0	
+0	0	0	D	1	0	3	0		0	1	3	0	
+0	0	0	O	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	3	0		2	3	3	0	
+0	1	11	T	1	4	3	1	TRS	0	4	4	0	
+0	0	0	R	1	4	3	0		0	5	3	0	
+0	0	0	S	1	4	3	0		0	6	3	0	
+1	0	0	#	1	8	5	0		2	7	3	0	
+0	1	12	K	1	8	5	1	KNOTT	1	8	3	1	KNT
+0	1	13	N	1	8	5	0		1	9	5	1	NGAIO
+0	0	0	O	1	8	5	0		0	10	13	0	
+0	0	0	T	1	8	5	0		0	11	3	0	
+0	0	0	T	1	8	5	0		0	12	3	0	
+0	1	14	H	2	0	13	1	HENNYYOUNGMAN	0	0	3	0	
+0	0	0	E	2	0	13	0		0	1	3	0	
+0	0	0	N	2	0	13	0		0	2	13	0	
+0	1	15	N	2	0	13	0		2	3	3	1	NZZ
+0	0	0	Y	2	0	13	0		0	4	4	0	
+0	0	0	Y	2	0	13	0		0	5	3	0	
+0	0	0	O	2	0	13	0		0	6	3	0	
+0	1	16	U	2	0	13	0		2	7	3	1	USS
+0	0	0	N	2	0	13	0		1	8	3	0	
+0	0	0	G	2	0	13	0		1	9	5	0	
+0	0	0	M	2	0	13	0		0	10	13	0	
+0	0	0	A	2	0	13	0		0	11	3	0	
+0	0	0	N	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	17	E	3	2	3	1	EZR	0	2	13	0	
+0	0	0	Z	3	2	3	0		2	3	3	0	
+0	0	0	R	3	2	3	0		0	4	4	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	18	S	3	7	4	1	STAE	2	7	3	0	
+0	0	0	T	3	7	4	0		1	8	3	0	
+0	0	0	A	3	7	4	0		1	9	5	0	
+0	0	0	E	3	7	4	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	19	G	4	0	4	1	GRAZ	4	0	3	1	GIL
+0	1	20	R	4	0	4	0		4	1	5	1	RRSTA
+0	0	0	A	4	0	4	0		0	2	13	0	
+0	0	0	Z	4	0	4	0		2	3	3	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	21	E	4	5	3	1	EPS	4	5	3	1	EWA
+0	1	22	P	4	5	3	0		4	6	5	1	PAOLI
+0	0	0	S	4	5	3	0		2	7	3	0	
+1	0	0	#	4	9	3	0		5	8	3	0	
+0	1	23	I	4	9	3	1	IBA	1	9	5	0	
+0	0	0	B	4	9	3	0		0	10	13	0	
+0	1	24	A	4	9	3	0		4	11	5	1	ASPER
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	I	5	0	3	1	IRR	4	0	3	0	
+0	0	0	R	5	0	3	0		4	1	5	0	
+0	0	0	R	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	26	T	5	4	3	1	TWA	5	4	3	1	THR
+0	0	0	W	5	4	3	0		4	5	3	0	
+0	0	0	A	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	4	0		6	7	3	0	
+0	1	27	M	5	8	4	1	MOOS	5	8	3	1	MEI
+0	0	0	O	5	8	4	0		1	9	5	0	
+0	0	0	O	5	8	4	0		0	10	13	0	
+0	0	0	S	5	8	4	0		4	11	5	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	L	6	0	3	1	LST	4	0	3	0	
+0	0	0	S	6	0	3	0		4	1	5	0	
+0	0	0	T	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	29	H	6	4	5	1	HAOLE	5	4	3	0	
+0	0	0	A	6	4	5	0		4	5	3	0	
+0	0	0	O	6	4	5	0		4	6	5	0	
+0	1	30	L	6	4	5	0		6	7	3	1	LAP
+0	0	0	E	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	D	6	10	3	1	DPI	0	10	13	0	
+0	0	0	P	6	10	3	0		4	11	5	0	
+0	1	32	I	6	10	3	0		6	12	3	1	IPS
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	33	T	7	1	4	1	TSAR	4	1	5	0	
+0	0	0	S	7	1	4	0		0	2	13	0	
+0	1	34	A	7	1	4	0		7	3	5	1	ATRIA
+0	0	0	R	7	1	4	0		5	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	35	L	7	6	3	1	LAI	4	6	5	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	I	7	6	3	0		5	8	3	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	36	Y	7	10	3	1	YEP	0	10	13	0	
+0	0	0	E	7	10	3	0		4	11	5	0	
+0	0	0	P	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	37	A	8	1	3	1	AST	4	1	5	0	
+0	0	0	S	8	1	3	0		0	2	13	0	
+0	0	0	T	8	1	3	0		7	3	5	0	
+1	0	0	#	8	5	3	0		9	4	3	0	
+0	1	38	Z	8	5	3	1	ZIP	8	5	3	1	ZSA
+0	0	0	I	8	5	3	0		4	6	5	0	
+0	0	0	P	8	5	3	0		6	7	3	0	
+1	0	0	#	8	9	4	0		9	8	4	0	
+0	1	39	S	8	9	4	1	SSRS	8	9	3	1	STG
+0	0	0	S	8	9	4	0		0	10	13	0	
+0	0	0	R	8	9	4	0		4	11	5	0	
+0	0	0	S	8	9	4	0		6	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	40	T	9	2	4	1	TRIS	0	2	13	0	
+0	0	0	R	9	2	4	0		7	3	5	0	
+0	1	41	I	9	2	4	0		9	4	3	1	INH
+0	0	0	S	9	2	4	0		8	5	3	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	42	O	9	8	3	1	OTB	9	8	4	1	OAKY
+0	0	0	T	9	8	3	0		8	9	3	0	
+0	0	0	B	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	43	A	10	0	13	1	AGAINANDAGAIN	10	0	3	1	AFR
+0	1	44	G	10	0	13	0		10	1	3	1	GAI
+0	0	0	A	10	0	13	0		0	2	13	0	
+0	0	0	I	10	0	13	0		7	3	5	0	
+0	0	0	N	10	0	13	0		9	4	3	0	
+0	0	0	A	10	0	13	0		8	5	3	0	
+0	1	45	N	10	0	13	0		10	6	3	1	NTS
+0	1	46	D	10	0	13	0		10	7	3	1	DAO
+0	0	0	A	10	0	13	0		9	8	4	0	
+0	0	0	G	10	0	13	0		8	9	3	0	
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	1	47	I	10	0	13	0		10	11	3	1	IUD
+0	1	48	N	10	0	13	0		10	12	3	1	NGS
+0	1	49	F	11	0	5	1	FATAH	10	0	3	0	
+0	0	0	A	11	0	5	0		10	1	3	0	
+0	0	0	T	11	0	5	0		0	2	13	0	
+0	0	0	A	11	0	5	0		7	3	5	0	
+0	0	0	H	11	0	5	0		9	4	3	0	
+1	0	0	#	11	6	3	0		12	5	0	0	
+0	1	50	T	11	6	3	1	TAK	10	6	3	0	
+0	0	0	A	11	6	3	0		10	7	3	0	
+0	0	0	K	11	6	3	0		9	8	4	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	51	B	11	10	3	1	BUG	0	10	13	0	
+0	0	0	U	11	10	3	0		10	11	3	0	
+0	0	0	G	11	10	3	0		10	12	3	0	
+0	1	52	R	12	0	3	1	RIE	10	0	3	0	
+0	0	0	I	12	0	3	0		10	1	3	0	
+0	0	0	E	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	53	S	12	6	3	1	SOY	10	6	3	0	
+0	0	0	O	12	6	3	0		10	7	3	0	
+0	0	0	Y	12	6	3	0		9	8	4	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	Y	12	10	3	1	YDS	0	10	13	0	
+0	0	0	D	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+33
+1	DCL	Mid-seventh-century year
+4	LOU	"Skip to My ___"
+7	SOI	"___ Married an Axe Murderer" (1993 comedy)
+10	ADO	Brouhaha
+11	TRS	School basics
+12	KNOTT	Founder of an eponymous berry farm
+14	HENNYYOUNGMAN	"""Take my wife ... please!"" comedian"
+17	EZR	Book before Neh.
+18	STAE	Union member
+19	GRAZ	Arnold Schwarzenegger's Austrian birthplace
+21	EPS	7-in. platters
+23	IBA	Hall-of-Fame basketball coach Hank
+25	IRR	Abbr. on sale items
+26	TWA	Old "Up, up and away" carrier
+27	MOOS	Cattle calls
+28	LST	Mil. transport
+29	HAOLE	Non-Polynesian
+31	DPI	Print resolution meas.
+33	TSAR	Boris Godunov, for one
+35	LAI	Oscar-winning "Love Story" composer
+36	YEP	4-Oct
+37	AST	Nova Scotia clock setting: Abbr.
+38	ZIP	Address ending, informally
+39	SSRS	Georgia and Ukraine, once: Abbr.
+40	TRIS	Speaker of baseball
+42	OTB	Alternative to a day at the races?: Abbr.
+43	AGAINANDAGAIN	Two good N.F.L. plays?
+49	FATAH	Al ___ (guerrilla group)
+50	TAK	"And we'll ___ a cup o' kindness yet": Burns
+51	BUG	PC glitch
+52	RIE	Beginner
+53	SOY	Faux meat base
+54	YDS	N.F.L. stat: Abbr.
+33
+1	DAH	Doo-___
+2	CDE	The third to the fifth?
+3	LONEARTSSTATE	Where hermit painters retire?
+4	LTYR	A great dist.
+5	ORY	Suffix with access
+6	USO	G.I.'s entertainment provider
+7	SOMEBODYSBABY	"Hit song by Jackson Browne, 1982"
+8	OTA	Hiroshima's river
+9	ITN	BBC competitor
+12	KNT	Old Eng. title
+13	NGAIO	Mystery writer Marsh
+15	NZZ	Popular Saab model
+16	USS	Abbr. before many state names
+19	GIL	Baseball great Hodges
+20	RRSTA	B. & O. stop: Abbr.
+21	EWA	Actress Aulin
+22	PAOLI	Philadelphia suburb
+24	ASPER	In line with
+26	THR	By way of: Abbr.
+27	MEI	"Don't tell ___ can't ...!"
+30	LAP	Once around the track
+32	IPS	Tape recorder speed meas.
+34	ATRIA	Some hotel lobbies
+38	ZSA	Eva's half sister?
+39	STG	Brit. money
+41	INH	Foot part
+42	OAKY	Tasting of wood, as some spirits
+43	AFR	One of the continents: Abbr.
+44	GAI	Toujours ___
+45	NTS	Some Windows systems
+46	DAO	1957 Physics Nobelist Tsung-___ Lee
+47	IUD	Columbus sch.
+48	NGS	Riot-stopping grps.

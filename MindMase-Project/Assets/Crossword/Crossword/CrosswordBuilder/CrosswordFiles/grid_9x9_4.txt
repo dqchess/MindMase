@@ -1,0 +1,113 @@
+grid_9x9_4
+9
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	4	0	
+0	1	1	M	0	2	3	1	MES	0	2	9	1	MARRIAGES
+0	1	2	E	0	2	3	0		0	3	3	1	ENC
+0	1	3	S	0	2	3	0		0	4	9	1	SCORECARD
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	F	0	6	3	1	FRS	0	6	9	1	FILENAMES
+0	1	5	R	0	6	3	0		0	7	3	1	RTE
+0	1	6	S	0	6	3	0		0	8	3	1	SYD
+1	0	0	#	1	1	8	0		2	0	3	0	
+0	1	7	S	1	1	8	1	SANCTITY	1	1	4	1	SIKA
+0	0	0	A	1	1	8	0		0	2	9	0	
+0	0	0	N	1	1	8	0		0	3	3	0	
+0	0	0	C	1	1	8	0		0	4	9	0	
+0	1	8	T	1	1	8	0		1	5	4	1	TOYS
+0	0	0	I	1	1	8	0		0	6	9	0	
+0	0	0	T	1	1	8	0		0	7	3	0	
+0	0	0	Y	1	1	8	0		0	8	3	0	
+0	1	9	A	2	0	9	1	AIRCOOLED	2	0	3	1	AUR
+0	0	0	I	2	0	9	0		1	1	4	0	
+0	0	0	R	2	0	9	0		0	2	9	0	
+0	0	0	C	2	0	9	0		0	3	3	0	
+0	0	0	O	2	0	9	0		0	4	9	0	
+0	0	0	O	2	0	9	0		1	5	4	0	
+0	0	0	L	2	0	9	0		0	6	9	0	
+0	0	0	E	2	0	9	0		0	7	3	0	
+0	0	0	D	2	0	9	0		0	8	3	0	
+0	1	10	U	3	0	3	1	UKR	2	0	3	0	
+0	0	0	K	3	0	3	0		1	1	4	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	11	R	3	4	3	1	RYE	0	4	9	0	
+0	0	0	Y	3	4	3	0		1	5	4	0	
+0	0	0	E	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	12	R	4	0	9	1	RAISESNED	2	0	3	0	
+0	0	0	A	4	0	9	0		1	1	4	0	
+0	0	0	I	4	0	9	0		0	2	9	0	
+0	1	13	S	4	0	9	0		4	3	4	1	SEND
+0	0	0	E	4	0	9	0		0	4	9	0	
+0	0	0	S	4	0	9	0		1	5	4	0	
+0	0	0	N	4	0	9	0		0	6	9	0	
+0	1	14	E	4	0	9	0		4	7	4	1	EGAD
+0	1	15	D	4	0	9	0		4	8	3	1	DAN
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	16	A	5	2	3	1	AEC	0	2	9	0	
+0	0	0	E	5	2	3	0		4	3	4	0	
+0	0	0	C	5	2	3	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	A	5	6	3	1	AGA	0	6	9	0	
+0	0	0	G	5	6	3	0		4	7	4	0	
+0	0	0	A	5	6	3	0		4	8	3	0	
+0	1	18	S	6	0	9	1	SIGNALMAN	6	0	3	1	SRS
+0	1	19	I	6	0	9	0		6	1	3	1	IEL
+0	0	0	G	6	0	9	0		0	2	9	0	
+0	0	0	N	6	0	9	0		4	3	4	0	
+0	0	0	A	6	0	9	0		0	4	9	0	
+0	1	20	L	6	0	9	0		6	5	3	1	LED
+0	0	0	M	6	0	9	0		0	6	9	0	
+0	0	0	A	6	0	9	0		4	7	4	0	
+0	0	0	N	6	0	9	0		4	8	3	0	
+0	1	21	R	7	0	8	1	REEDREED	6	0	3	0	
+0	0	0	E	7	0	8	0		6	1	3	0	
+0	0	0	E	7	0	8	0		0	2	9	0	
+0	0	0	D	7	0	8	0		4	3	4	0	
+0	0	0	R	7	0	8	0		0	4	9	0	
+0	0	0	E	7	0	8	0		6	5	3	0	
+0	0	0	E	7	0	8	0		0	6	9	0	
+0	0	0	D	7	0	8	0		4	7	4	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	22	S	8	0	3	1	SLS	6	0	3	0	
+0	0	0	L	8	0	3	0		6	1	3	0	
+0	0	0	S	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	3	0		9	3	0	0	
+0	1	23	D	8	4	3	1	DDS	0	4	9	0	
+0	0	0	D	8	4	3	0		6	5	3	0	
+0	0	0	S	8	4	3	0		0	6	9	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+13
+1	MES	My, in Bretagne
+4	FRS	Priests: Abbr.
+7	SANCTITY	Holiness
+9	AIRCOOLED	Like many motorcycle engines
+10	UKR	U.S.S.R. member: Abbr.
+11	RYE	Kind of whisky
+12	RAISESNED	Causes trouble, in old-fashioned talk
+16	AEC	Agcy. created after the Manhattan Project
+17	AGA	Old Turkish title
+18	SIGNALMAN	Military communications expert
+21	REEDREED	Oboe, for one
+22	SLS	Classic Mercedes roadsters
+23	DDS	Oral surgeon's deg.
+15
+1	MARRIAGES	Occasions that begin with misses?
+2	ENC	Direct mail abbr.
+3	SCORECARD	A caddie may hold it
+4	FILENAMES	They have extensions
+5	RTE	Navig. plan
+6	SYD	Old cartoonist Hoff
+7	SIKA	Endangered Asian deer
+8	TOYS	Santa's sleighful
+9	AUR	Gold: Prefix
+13	SEND	Transport
+14	EGAD	"By gar!"
+15	DAN	Best-selling author Brown
+18	SRS	Ones needing career counseling, maybe: Abbr.
+19	IEL	Drive forward
+20	LED	Took the vanguard

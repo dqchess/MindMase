@@ -1,0 +1,117 @@
+grid_9x9_57
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	ALF	0	1	5	1	AYSIR
+0	1	2	L	0	1	3	0		0	2	9	1	LETSLOOSE
+0	1	3	F	0	1	3	0		0	3	3	1	FRI
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	F	0	6	3	1	FPA	0	6	9	1	FOOTNOTES
+0	1	5	P	0	6	3	0		0	7	3	1	PRS
+0	1	6	A	0	6	3	0		0	8	3	1	AKA
+0	1	7	E	1	0	4	1	EYER	1	0	3	1	EAR
+0	0	0	Y	1	0	4	0		0	1	5	0	
+0	0	0	E	1	0	4	0		0	2	9	0	
+0	0	0	R	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	M	1	5	4	1	MORK	1	5	4	1	MCCI
+0	0	0	O	1	5	4	0		0	6	9	0	
+0	0	0	R	1	5	4	0		0	7	3	0	
+0	0	0	K	1	5	4	0		0	8	3	0	
+0	1	9	A	2	0	4	1	ASTI	1	0	3	0	
+0	0	0	S	2	0	4	0		0	1	5	0	
+0	0	0	T	2	0	4	0		0	2	9	0	
+0	0	0	I	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	C	2	5	4	1	COSA	1	5	4	0	
+0	0	0	O	2	5	4	0		0	6	9	0	
+0	0	0	S	2	5	4	0		0	7	3	0	
+0	0	0	A	2	5	4	0		0	8	3	0	
+0	1	11	R	3	0	3	1	RIS	1	0	3	0	
+0	0	0	I	3	0	3	0		0	1	5	0	
+0	0	0	S	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	4	0	
+0	1	12	E	3	4	3	1	ECT	3	4	3	1	ETH
+0	0	0	C	3	4	3	0		1	5	4	0	
+0	0	0	T	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	13	R	4	1	7	1	RLSTINE	0	1	5	0	
+0	0	0	L	4	1	7	0		0	2	9	0	
+0	1	14	S	4	1	7	0		4	3	4	1	SHAT
+0	0	0	T	4	1	7	0		3	4	3	0	
+0	0	0	I	4	1	7	0		1	5	4	0	
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	1	15	E	4	1	7	0		4	7	5	1	ECLAT
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	16	O	5	2	3	1	OHH	0	2	9	0	
+0	0	0	H	5	2	3	0		4	3	4	0	
+0	0	0	H	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	O	5	6	3	1	OCH	0	6	9	0	
+0	0	0	C	5	6	3	0		4	7	5	0	
+0	1	18	H	5	6	3	0		5	8	3	1	HAR
+0	1	19	P	6	0	4	1	PROA	6	0	3	1	PEP
+0	1	20	R	6	0	4	0		6	1	3	1	RAO
+0	0	0	O	6	0	4	0		0	2	9	0	
+0	0	0	A	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	21	E	6	5	4	1	ETLA	6	5	3	1	ELS
+0	0	0	T	6	5	4	0		0	6	9	0	
+0	0	0	L	6	5	4	0		4	7	5	0	
+0	0	0	A	6	5	4	0		5	8	3	0	
+0	1	22	E	7	0	4	1	EAST	6	0	3	0	
+0	0	0	A	7	0	4	0		6	1	3	0	
+0	0	0	S	7	0	4	0		0	2	9	0	
+0	0	0	T	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	23	L	7	5	4	1	LEAR	6	5	3	0	
+0	0	0	E	7	5	4	0		0	6	9	0	
+0	0	0	A	7	5	4	0		4	7	5	0	
+0	0	0	R	7	5	4	0		5	8	3	0	
+0	1	24	P	8	0	3	1	POE	6	0	3	0	
+0	0	0	O	8	0	3	0		6	1	3	0	
+0	0	0	E	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	S	8	5	3	1	SST	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	T	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	ALF	Furry extraterrestrial in a 1980s sitcom
+4	FPA	"The Conning Tower" columnist's inits.
+7	EYER	One with good looks?
+8	MORK	70's-80's TV alien
+9	ASTI	Moscato d'___ (Italian wine)
+10	COSA	___ Nostra
+11	RIS	Laugh, in Lyon
+12	ECT	Outside, at the outset
+13	RLSTINE	"Fear Street" series author
+16	OHH	Cry from one who just got the joke
+17	OCH	Gaelic "Gee!"
+19	PROA	Swift Malay boat
+21	ETLA	Ici ___ (here and there, to Th
+22	EAST	New York's ___ River
+23	LEAR	King of tragedy
+24	POE	"The Murders in the Rue Morgue" writer
+25	SST	Historic barrier breaker
+15
+1	AYSIR	Sailor's "yes!"
+2	LETSLOOSE	Uncages
+3	FRI	Something many people look forward to: Abbr.
+4	FOOTNOTES	Followers of some asterisks
+5	PRS	7, on a phone
+6	AKA	"___ Cassius Clay" (1970 documentary)
+7	EAR	Cereal plant portion
+8	MCCI	Start of the 13th century
+12	ETH	Medieval verb ending
+14	SHAT	"Big deal"
+15	ECLAT	Big splash
+18	HAR	Laugh half
+19	PEP	Zip
+20	RAO	Indian Prime Minister, 1991-96
+21	ELS	Chicago carriers

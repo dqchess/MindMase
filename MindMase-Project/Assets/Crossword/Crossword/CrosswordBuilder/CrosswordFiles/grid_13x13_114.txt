@@ -1,0 +1,225 @@
+grid_13x13_114
+13
+1	0	0	#	0	1	4	0		1	0	3	0	
+0	1	1	D	0	1	4	1	DOUR	0	1	6	1	DRAINS
+0	1	2	O	0	1	4	0		0	2	13	1	OAFPOLLSDAIRY
+0	1	3	U	0	1	4	0		0	3	3	1	UTE
+0	1	4	R	0	1	4	0		0	4	3	1	REA
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	5	A	0	8	3	1	ABM	0	8	4	1	ATOE
+0	1	6	B	0	8	3	0		0	9	5	1	BLUTO
+0	1	7	M	0	8	3	0		0	10	13	1	MENTHEYASSUME
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	8	F	1	0	5	1	FRATE	1	0	3	1	FST
+0	0	0	R	1	0	5	0		0	1	6	0	
+0	0	0	A	1	0	5	0		0	2	13	0	
+0	0	0	T	1	0	5	0		0	3	3	0	
+0	0	0	E	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	6	0		2	5	6	0	
+0	1	9	I	1	6	6	1	ISTLES	1	6	3	1	IDN
+0	1	10	S	1	6	6	0		1	7	3	1	SSS
+0	0	0	T	1	6	6	0		0	8	4	0	
+0	0	0	L	1	6	6	0		0	9	5	0	
+0	0	0	E	1	6	6	0		0	10	13	0	
+0	1	11	S	1	6	6	0		1	11	5	1	SDLTG
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	12	S	2	0	12	1	SAFEANDSOUND	1	0	3	0	
+0	0	0	A	2	0	12	0		0	1	6	0	
+0	0	0	F	2	0	12	0		0	2	13	0	
+0	0	0	E	2	0	12	0		0	3	3	0	
+0	0	0	A	2	0	12	0		0	4	3	0	
+0	1	13	N	2	0	12	0		2	5	6	1	NUDGED
+0	0	0	D	2	0	12	0		1	6	3	0	
+0	0	0	S	2	0	12	0		1	7	3	0	
+0	0	0	O	2	0	12	0		0	8	4	0	
+0	0	0	U	2	0	12	0		0	9	5	0	
+0	0	0	N	2	0	12	0		0	10	13	0	
+0	0	0	D	2	0	12	0		1	11	5	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+0	1	14	T	3	0	3	1	TIP	1	0	3	0	
+0	0	0	I	3	0	3	0		0	1	6	0	
+0	0	0	P	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	0	0		4	3	3	0	
+1	0	0	#	3	5	8	0		4	4	3	0	
+0	1	15	U	3	5	8	1	UNSETTLE	2	5	6	0	
+0	0	0	N	3	5	8	0		1	6	3	0	
+0	0	0	S	3	5	8	0		1	7	3	0	
+0	0	0	E	3	5	8	0		0	8	4	0	
+0	0	0	T	3	5	8	0		0	9	5	0	
+0	0	0	T	3	5	8	0		0	10	13	0	
+0	0	0	L	3	5	8	0		1	11	5	0	
+0	1	16	E	3	5	8	0		3	12	3	1	EOS
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	17	N	4	1	5	1	NOEND	0	1	6	0	
+0	0	0	O	4	1	5	0		0	2	13	0	
+0	1	18	E	4	1	5	0		4	3	3	1	EEO
+0	1	19	N	4	1	5	0		4	4	3	1	NIS
+0	0	0	D	4	1	5	0		2	5	6	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	6	0	
+1	0	0	#	4	9	4	0		5	8	0	0	
+0	1	20	O	4	9	4	1	OHTO	0	9	5	0	
+0	0	0	H	4	9	4	0		0	10	13	0	
+0	0	0	T	4	9	4	0		1	11	5	0	
+0	0	0	O	4	9	4	0		3	12	3	0	
+1	0	0	#	5	1	7	0		6	0	0	0	
+0	1	21	S	5	1	7	1	SLEIGHS	0	1	6	0	
+0	0	0	L	5	1	7	0		0	2	13	0	
+0	0	0	E	5	1	7	0		4	3	3	0	
+0	0	0	I	5	1	7	0		4	4	3	0	
+0	0	0	G	5	1	7	0		2	5	6	0	
+0	1	22	H	5	1	7	0		5	6	3	1	HSI
+0	1	23	S	5	1	7	0		5	7	6	1	SAGGED
+1	0	0	#	5	9	0	0		6	8	3	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	24	E	5	10	3	1	EGS	0	10	13	0	
+0	0	0	G	5	10	3	0		1	11	5	0	
+0	0	0	S	5	10	3	0		3	12	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	9	0		7	1	5	0	
+0	1	25	L	6	2	9	1	LOSESADAY	0	2	13	0	
+0	0	0	O	6	2	9	0		4	3	3	0	
+0	0	0	S	6	2	9	0		4	4	3	0	
+0	0	0	E	6	2	9	0		2	5	6	0	
+0	0	0	S	6	2	9	0		5	6	3	0	
+0	0	0	A	6	2	9	0		5	7	6	0	
+0	1	26	D	6	2	9	0		6	8	3	1	DII
+0	1	27	A	6	2	9	0		6	9	3	1	ATN
+0	0	0	Y	6	2	9	0		0	10	13	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	28	O	7	0	3	1	OCS	7	0	3	1	OSH
+0	1	29	C	7	0	3	0		7	1	5	1	CAUSA
+0	0	0	S	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	0	0		8	3	5	0	
+1	0	0	#	7	5	7	0		8	4	0	0	
+0	1	30	D	7	5	7	1	DIGITAL	2	5	6	0	
+0	0	0	I	7	5	7	0		5	6	3	0	
+0	0	0	G	7	5	7	0		5	7	6	0	
+0	0	0	I	7	5	7	0		6	8	3	0	
+0	0	0	T	7	5	7	0		6	9	3	0	
+0	0	0	A	7	5	7	0		0	10	13	0	
+0	1	31	L	7	5	7	0		7	11	6	1	LUSTER
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	32	S	8	0	4	1	SADA	7	0	3	0	
+0	0	0	A	8	0	4	0		7	1	5	0	
+0	0	0	D	8	0	4	0		0	2	13	0	
+0	1	33	A	8	0	4	0		8	3	5	1	ARTSY
+1	0	0	#	8	5	0	0		9	4	4	0	
+1	0	0	#	8	6	0	0		9	5	3	0	
+1	0	0	#	8	7	5	0		9	6	3	0	
+0	1	34	G	8	7	5	1	GINSU	5	7	6	0	
+0	0	0	I	8	7	5	0		6	8	3	0	
+0	0	0	N	8	7	5	0		6	9	3	0	
+0	0	0	S	8	7	5	0		0	10	13	0	
+0	0	0	U	8	7	5	0		7	11	6	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	35	H	9	0	8	1	HUARACHE	7	0	3	0	
+0	0	0	U	9	0	8	0		7	1	5	0	
+0	0	0	A	9	0	8	0		0	2	13	0	
+0	0	0	R	9	0	8	0		8	3	5	0	
+0	1	36	A	9	0	8	0		9	4	4	1	ADOB
+0	1	37	C	9	0	8	0		9	5	3	1	CAN
+0	1	38	H	9	0	8	0		9	6	3	1	HNS
+0	0	0	E	9	0	8	0		5	7	6	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	S	9	10	3	1	SSR	0	10	13	0	
+0	0	0	S	9	10	3	0		7	11	6	0	
+0	1	40	R	9	10	3	0		9	12	3	1	RUY
+1	0	0	#	10	1	12	0		11	0	0	0	
+0	1	41	S	10	1	12	1	SITDANDSHUTU	7	1	5	0	
+0	0	0	I	10	1	12	0		0	2	13	0	
+0	0	0	T	10	1	12	0		8	3	5	0	
+0	0	0	D	10	1	12	0		9	4	4	0	
+0	0	0	A	10	1	12	0		9	5	3	0	
+0	0	0	N	10	1	12	0		9	6	3	0	
+0	0	0	D	10	1	12	0		5	7	6	0	
+0	1	42	S	10	1	12	0		10	8	3	1	SAY
+0	1	43	H	10	1	12	0		10	9	3	1	HRS
+0	0	0	U	10	1	12	0		0	10	13	0	
+0	0	0	T	10	1	12	0		7	11	6	0	
+0	0	0	U	10	1	12	0		9	12	3	0	
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	44	A	11	1	6	1	ARSONS	7	1	5	0	
+0	0	0	R	11	1	6	0		0	2	13	0	
+0	0	0	S	11	1	6	0		8	3	5	0	
+0	0	0	O	11	1	6	0		9	4	4	0	
+0	0	0	N	11	1	6	0		9	5	3	0	
+0	0	0	S	11	1	6	0		9	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	45	A	11	8	5	1	ARMEY	10	8	3	0	
+0	0	0	R	11	8	5	0		10	9	3	0	
+0	0	0	M	11	8	5	0		0	10	13	0	
+0	0	0	E	11	8	5	0		7	11	6	0	
+0	0	0	Y	11	8	5	0		9	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	46	Y	12	2	3	1	YYB	0	2	13	0	
+0	0	0	Y	12	2	3	0		8	3	5	0	
+0	0	0	B	12	2	3	0		9	4	4	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	4	0		13	7	0	0	
+0	1	47	Y	12	8	4	1	YSER	10	8	3	0	
+0	0	0	S	12	8	4	0		10	9	3	0	
+0	0	0	E	12	8	4	0		0	10	13	0	
+0	0	0	R	12	8	4	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+23
+1	DOUR	Gloomy
+5	ABM	Defensive weapon, for short
+8	FRATE	Hardly commendable
+9	ISTLES	Carpet fibers
+12	SAFEANDSOUND	Secure, doubled
+14	TIP	Figure just above the total
+15	UNSETTLE	Shake
+17	NOEND	Incessantly
+20	OHTO	"___ be in England ..."
+21	SLEIGHS	Toy holders, maybe
+24	EGS	Units in physics
+25	LOSESADAY	Crosses the international date line from east to west
+28	OCS	Where lieutenants are trained: Abbr.
+30	DIGITAL	Like some cameras nowadays
+32	SADA	Emmy-winning Thompson
+34	GINSU	Kind of knife
+35	HUARACHE	Mexican sandal
+39	SSR	One of 15, formerly: Abbr.
+41	SITDANDSHUTU	Exasperated teacher's cry
+44	ARSONS	Cases for insurance detectives
+45	ARMEY	Dick who was once House majority leader
+46	YYB	Eggs
+47	YSER	Battle of the ___, 1914
+29
+1	DRAINS	Empties
+2	OAFPOLLSDAIRY	Why is the milk production survey so screwy?
+3	UTE	Sport ___ (car category)
+4	REA	"V for Vendetta" actor, 2006
+5	ATOE	Stick ___ in the water
+6	BLUTO	Villain who says "So you don't like spinach?"
+7	MENTHEYASSUME	Part 2 of the quip
+8	FST	Camera setting
+9	IDN	Insurance card info
+10	SSS	Old draft letters
+11	SDLTG	Witch of ___
+13	NUDGED	Prodded gently
+16	EOS	Goddess of the morning
+18	EEO	Classified inits.
+19	NIS	Old Serbian capital
+22	HSI	Chu ___ (legendary Confucian sage)
+23	SAGGED	Gave under pressure
+26	DII	Sixth-century year
+27	ATN	When some stores open
+28	OSH	Kyrgyz region or its capital
+29	CAUSA	___ finalis (purpose, in law)
+31	LUSTER	Brilliance
+33	ARTSY	Pretentious, as a display
+36	ADOB	Casa material
+37	CAN	Sack
+38	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+40	RUY	Chess's ___ Lopez opening
+42	SAY	"By the way ..."
+43	HRS	Time pieces?: Abbr.

@@ -1,0 +1,309 @@
+grid_15x15_116
+15
+0	1	1	I	0	0	3	1	ITT	0	0	3	1	IBO
+0	1	2	T	0	0	3	0		0	1	3	1	TYR
+0	1	3	T	0	0	3	0		0	2	15	1	TEETERTOTTERING
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	A	0	5	3	1	ABC	0	5	5	1	AVOID
+0	1	5	B	0	5	3	0		0	6	5	1	BELLA
+0	1	6	C	0	5	3	0		0	7	5	1	CEDER
+1	0	0	#	0	9	5	0		1	8	0	0	
+0	1	7	A	0	9	5	1	ARISE	0	9	3	1	ALL
+0	1	8	R	0	9	5	0		0	10	4	1	REAM
+0	1	9	I	0	9	5	0		0	11	5	1	ITMBE
+0	1	10	S	0	9	5	0		0	12	15	1	STEAKMEDIUMWELL
+0	1	11	E	0	9	5	0		0	13	3	1	ESS
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	12	B	1	0	4	1	BYES	0	0	3	0	
+0	0	0	Y	1	0	4	0		0	1	3	0	
+0	0	0	E	1	0	4	0		0	2	15	0	
+0	1	13	S	1	0	4	0		1	3	3	1	SSR
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	14	V	1	5	3	1	VEE	0	5	5	0	
+0	0	0	E	1	5	3	0		0	6	5	0	
+0	0	0	E	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	5	0		2	8	7	0	
+0	1	15	L	1	9	5	1	LETTS	0	9	3	0	
+0	0	0	E	1	9	5	0		0	10	4	0	
+0	0	0	T	1	9	5	0		0	11	5	0	
+0	0	0	T	1	9	5	0		0	12	15	0	
+0	0	0	S	1	9	5	0		0	13	3	0	
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	16	O	2	0	4	1	ORES	0	0	3	0	
+0	0	0	R	2	0	4	0		0	1	3	0	
+0	0	0	E	2	0	4	0		0	2	15	0	
+0	0	0	S	2	0	4	0		1	3	3	0	
+1	0	0	#	2	5	9	0		3	4	3	0	
+0	1	17	O	2	5	9	1	OLDFLAMES	0	5	5	0	
+0	0	0	L	2	5	9	0		0	6	5	0	
+0	0	0	D	2	5	9	0		0	7	5	0	
+0	1	18	F	2	5	9	0		2	8	7	1	FRELENG
+0	0	0	L	2	5	9	0		0	9	3	0	
+0	0	0	A	2	5	9	0		0	10	4	0	
+0	0	0	M	2	5	9	0		0	11	5	0	
+0	0	0	E	2	5	9	0		0	12	15	0	
+0	0	0	S	2	5	9	0		0	13	3	0	
+1	0	0	#	2	15	0	0		3	14	0	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	7	0		4	1	3	0	
+0	1	19	T	3	2	7	1	TRAILER	0	2	15	0	
+0	0	0	R	3	2	7	0		1	3	3	0	
+0	1	20	A	3	2	7	0		3	4	3	1	AIR
+0	0	0	I	3	2	7	0		0	5	5	0	
+0	0	0	L	3	2	7	0		0	6	5	0	
+0	0	0	E	3	2	7	0		0	7	5	0	
+0	0	0	R	3	2	7	0		2	8	7	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	21	M	3	10	3	1	MBA	0	10	4	0	
+0	0	0	B	3	10	3	0		0	11	5	0	
+0	0	0	A	3	10	3	0		0	12	15	0	
+1	0	0	#	3	14	0	0		4	13	3	0	
+1	0	0	#	3	15	0	0		4	14	3	0	
+0	1	22	U	4	0	3	1	USE	4	0	3	1	UBI
+0	1	23	S	4	0	3	0		4	1	3	1	SAN
+0	0	0	E	4	0	3	0		0	2	15	0	
+1	0	0	#	4	4	5	0		5	3	3	0	
+0	1	24	I	4	4	5	1	IDARE	3	4	3	0	
+0	0	0	D	4	4	5	0		0	5	5	0	
+0	0	0	A	4	4	5	0		0	6	5	0	
+0	0	0	R	4	4	5	0		0	7	5	0	
+0	0	0	E	4	4	5	0		2	8	7	0	
+1	0	0	#	4	10	0	0		5	9	3	0	
+1	0	0	#	4	11	4	0		5	10	3	0	
+0	1	25	E	4	11	4	1	EKED	0	11	5	0	
+0	0	0	K	4	11	4	0		0	12	15	0	
+0	1	26	E	4	11	4	0		4	13	3	1	EDE
+0	1	27	D	4	11	4	0		4	14	3	1	DXC
+0	1	28	B	5	0	5	1	BARER	4	0	3	0	
+0	0	0	A	5	0	5	0		4	1	3	0	
+0	0	0	R	5	0	5	0		0	2	15	0	
+0	1	29	E	5	0	5	0		5	3	3	1	ELP
+0	0	0	R	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	0	0		6	5	0	0	
+1	0	0	#	5	7	0	0		6	6	7	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	30	L	5	8	3	1	LXO	2	8	7	0	
+0	1	31	X	5	8	3	0		5	9	3	1	XSA
+0	1	32	O	5	8	3	0		5	10	3	1	OAT
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	33	M	5	12	3	1	MDX	0	12	15	0	
+0	0	0	D	5	12	3	0		4	13	3	0	
+0	0	0	X	5	12	3	0		4	14	3	0	
+0	1	34	I	6	0	4	1	INTL	4	0	3	0	
+0	0	0	N	6	0	4	0		4	1	3	0	
+0	0	0	T	6	0	4	0		0	2	15	0	
+0	0	0	L	6	0	4	0		5	3	3	0	
+1	0	0	#	6	5	0	0		7	4	3	0	
+1	0	0	#	6	6	5	0		7	5	3	0	
+0	1	35	O	6	6	5	1	ODESA	6	6	7	1	OILPALM
+0	1	36	D	6	6	5	0		6	7	3	1	DOE
+0	0	0	E	6	6	5	0		2	8	7	0	
+0	0	0	S	6	6	5	0		5	9	3	0	
+0	0	0	A	6	6	5	0		5	10	3	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	37	E	6	12	3	1	EEC	0	12	15	0	
+0	0	0	E	6	12	3	0		4	13	3	0	
+0	0	0	C	6	12	3	0		4	14	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	11	0		8	1	3	0	
+0	1	38	O	7	2	11	1	OPINIONATED	0	2	15	0	
+0	0	0	P	7	2	11	0		5	3	3	0	
+0	1	39	I	7	2	11	0		7	4	3	1	ITI
+0	1	40	N	7	2	11	0		7	5	3	1	NES
+0	0	0	I	7	2	11	0		6	6	7	0	
+0	0	0	O	7	2	11	0		6	7	3	0	
+0	0	0	N	7	2	11	0		2	8	7	0	
+0	0	0	A	7	2	11	0		5	9	3	0	
+0	0	0	T	7	2	11	0		5	10	3	0	
+0	1	41	E	7	2	11	0		7	11	3	1	EMF
+0	0	0	D	7	2	11	0		0	12	15	0	
+1	0	0	#	7	14	0	0		8	13	3	0	
+1	0	0	#	7	15	0	0		8	14	3	0	
+0	1	42	A	8	0	3	1	AZT	8	0	3	1	ATO
+0	1	43	Z	8	0	3	0		8	1	3	1	ZEN
+0	0	0	T	8	0	3	0		0	2	15	0	
+1	0	0	#	8	4	5	0		9	3	0	0	
+0	1	44	T	8	4	5	1	TELEG	7	4	3	0	
+0	0	0	E	8	4	5	0		7	5	3	0	
+0	0	0	L	8	4	5	0		6	6	7	0	
+0	0	0	E	8	4	5	0		6	7	3	0	
+0	0	0	G	8	4	5	0		2	8	7	0	
+1	0	0	#	8	10	0	0		9	9	0	0	
+1	0	0	#	8	11	4	0		9	10	3	0	
+0	1	45	M	8	11	4	1	MISE	7	11	3	0	
+0	0	0	I	8	11	4	0		0	12	15	0	
+0	1	46	S	8	11	4	0		8	13	3	1	SSS
+0	1	47	E	8	11	4	0		8	14	3	1	EES
+0	1	48	T	9	0	3	1	TET	8	0	3	0	
+0	0	0	E	9	0	3	0		8	1	3	0	
+0	0	0	T	9	0	3	0		0	2	15	0	
+1	0	0	#	9	4	3	0		10	3	5	0	
+0	1	49	I	9	4	3	1	ISP	7	4	3	0	
+0	0	0	S	9	4	3	0		7	5	3	0	
+0	0	0	P	9	4	3	0		6	6	7	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	0	0		10	8	5	0	
+1	0	0	#	9	10	5	0		10	9	5	0	
+0	1	50	O	9	10	5	1	OFUSE	9	10	3	1	OWL
+0	0	0	F	9	10	5	0		7	11	3	0	
+0	0	0	U	9	10	5	0		0	12	15	0	
+0	0	0	S	9	10	5	0		8	13	3	0	
+0	0	0	E	9	10	5	0		8	14	3	0	
+0	1	51	O	10	0	4	1	ONEG	8	0	3	0	
+0	0	0	N	10	0	4	0		8	1	3	0	
+0	0	0	E	10	0	4	0		0	2	15	0	
+0	1	52	G	10	0	4	0		10	3	5	1	GENOA
+1	0	0	#	10	5	0	0		11	4	4	0	
+1	0	0	#	10	6	5	0		11	5	0	0	
+0	1	53	A	10	6	5	1	AVIEW	6	6	7	0	
+0	1	54	V	10	6	5	0		10	7	5	1	VIEJO
+0	1	55	I	10	6	5	0		10	8	5	1	IEACH
+0	1	56	E	10	6	5	0		10	9	5	1	ESTES
+0	0	0	W	10	6	5	0		9	10	3	0	
+1	0	0	#	10	12	3	0		11	11	3	0	
+0	1	57	M	10	12	3	1	MSS	0	12	15	0	
+0	0	0	S	10	12	3	0		8	13	3	0	
+0	0	0	S	10	12	3	0		8	14	3	0	
+1	0	0	#	11	1	0	0		12	0	0	0	
+1	0	0	#	11	2	3	0		12	1	3	0	
+0	1	58	R	11	2	3	1	RES	0	2	15	0	
+0	0	0	E	11	2	3	0		10	3	5	0	
+0	1	59	S	11	2	3	0		11	4	4	1	SCAT
+1	0	0	#	11	6	7	0		12	5	3	0	
+0	1	60	L	11	6	7	1	LIESLOW	6	6	7	0	
+0	0	0	I	11	6	7	0		10	7	5	0	
+0	0	0	E	11	6	7	0		10	8	5	0	
+0	0	0	S	11	6	7	0		10	9	5	0	
+0	0	0	L	11	6	7	0		9	10	3	0	
+0	1	61	O	11	6	7	0		11	11	3	1	OLD
+0	0	0	W	11	6	7	0		0	12	15	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+1	0	0	#	12	1	9	0		13	0	0	0	
+0	1	62	M	12	1	9	1	MINCEMEAT	12	1	3	1	MAS
+0	0	0	I	12	1	9	0		0	2	15	0	
+0	0	0	N	12	1	9	0		10	3	5	0	
+0	0	0	C	12	1	9	0		11	4	4	0	
+0	1	63	E	12	1	9	0		12	5	3	1	EKE
+0	0	0	M	12	1	9	0		6	6	7	0	
+0	0	0	E	12	1	9	0		10	7	5	0	
+0	0	0	A	12	1	9	0		10	8	5	0	
+0	0	0	T	12	1	9	0		10	9	5	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	64	L	12	11	4	1	LENA	11	11	3	0	
+0	0	0	E	12	11	4	0		0	12	15	0	
+0	1	65	N	12	11	4	0		12	13	3	1	NEU
+0	1	66	A	12	11	4	0		12	14	3	1	AGN
+1	0	0	#	13	1	5	0		14	0	0	0	
+0	1	67	A	13	1	5	1	ANOAK	12	1	3	0	
+0	0	0	N	13	1	5	0		0	2	15	0	
+0	0	0	O	13	1	5	0		10	3	5	0	
+0	0	0	A	13	1	5	0		11	4	4	0	
+0	0	0	K	13	1	5	0		12	5	3	0	
+1	0	0	#	13	7	3	0		14	6	0	0	
+0	1	68	J	13	7	3	1	JCE	10	7	5	0	
+0	0	0	C	13	7	3	0		10	8	5	0	
+0	0	0	E	13	7	3	0		10	9	5	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	69	D	13	11	4	1	DLEG	11	11	3	0	
+0	0	0	L	13	11	4	0		0	12	15	0	
+0	0	0	E	13	11	4	0		12	13	3	0	
+0	0	0	G	13	11	4	0		12	14	3	0	
+1	0	0	#	14	1	5	0		15	0	0	0	
+0	1	70	S	14	1	5	1	SGATE	12	1	3	0	
+0	0	0	G	14	1	5	0		0	2	15	0	
+0	0	0	A	14	1	5	0		10	3	5	0	
+0	0	0	T	14	1	5	0		11	4	4	0	
+0	0	0	E	14	1	5	0		12	5	3	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	71	O	14	7	3	1	OHS	10	7	5	0	
+0	0	0	H	14	7	3	0		10	8	5	0	
+0	0	0	S	14	7	3	0		10	9	5	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	72	L	14	12	3	1	LUN	0	12	15	0	
+0	0	0	U	14	12	3	0		12	13	3	0	
+0	0	0	N	14	12	3	0		12	14	3	0	
+39
+1	ITT	Blue chip giant
+4	ABC	The late Peter Jennings's network
+7	ARISE	Develop
+12	BYES	They're exchanged at parting
+14	VEE	Winner's sign
+15	LETTS	Some Balts
+16	ORES	Assayers' samples
+17	OLDFLAMES	Exes, of a sort
+19	TRAILER	Movie preview
+21	MBA	C.E.O.'s degree
+22	USE	Middle of the question
+24	IDARE	"Come on, ___ you!"
+25	EKED	Scraped (out)
+28	BARER	Having less coverage
+30	LXO	Tubby
+33	MDX	A multiple of CLI
+34	INTL	Part of I.L.G.W.U.: Abbr.
+35	ODESA	Black Sea port, new-style
+37	EEC	Continental trading org.
+38	OPINIONATED	Like critics
+42	AZT	Pioneering anti-AIDS drug
+44	TELEG	Wire: Abbr.
+45	MISE	___ en sc
+48	TET	Asian New Year's festival
+49	ISP	AOL or Juno
+50	OFUSE	Valuable
+51	ONEG	Force on earth, briefly
+53	AVIEW	"___ to a Kill" (1985 Bond film)
+57	MSS	Works for an ed.
+58	RES	Thing, in legal briefs
+60	LIESLOW	Hides out
+62	MINCEMEAT	Pie filling
+64	LENA	"Chocolat" actress Olin
+67	ANOAK	Strong as ___
+68	JCE	"Dubliners" author
+69	DLEG	Golfer's challenge
+70	SGATE	1994 sci-fi epic
+71	OHS	Cries of surprise
+72	LUN	___ Tha ("The King and I" role)
+41
+1	IBO	Nigerian language
+2	TYR	One-handed Norse god
+3	TEETERTOTTERING	Playground activity
+4	AVOID	Give a wide berth
+5	BELLA	Wars, in ancient Rome
+6	CEDER	One throwing in the towel
+7	ALL	Part of "snafu"
+8	REAM	Criticize severely, with "out"
+9	ITMBE	"Quite possibly"
+10	STEAKMEDIUMWELL	Griddle order
+11	ESS	Part of a test track
+13	SSR	One of 15, once: Abbr.
+18	FRELENG	Looney Tunes animator Friz
+20	AIR	Bubble contents
+22	UBI	"__ maior, minor cessat"
+23	SAN	___ Diego
+26	EDE	The Beavers of the N.C.A.A.
+27	DXC	590, to Caesar
+29	ELP	Grp. with the 1973 gold album "Brain Salad Surgery"
+31	XSA	Opposite of SSW
+32	OAT	Feed seed
+35	OILPALM	Tree whose product is used in making soap
+36	DOE	John in court
+39	ITI	"Is ___, Lord?"
+40	NES	Super ___ (GameCube predecessor)
+41	EMF	Voltaic cell meas.
+42	ATO	In accord (with)
+43	ZEN	Means of enlightenment
+46	SSS	1960's-70's draft org.
+47	EES	Certain M.I.T. grads
+50	OWL	Bird of prey
+52	GENOA	Piazza de Ferrari setting
+54	VIEJO	Mission ___, Calif.
+55	IEACH	Call into question
+56	ESTES	Basso Simon ___
+59	SCAT	"Get outta here!"
+61	OLD	Hoary
+62	MAS	Some parents
+63	EKE	___ out a profit
+65	NEU	Twin cities Ulm and ___-Ulm
+66	AGN	Once more: Abbr.

@@ -1,0 +1,117 @@
+grid_9x9_2
+9
+0	1	1	I	0	0	3	1	ILK	0	0	3	1	ICE
+0	1	2	L	0	0	3	0		0	1	4	1	LLDS
+0	1	3	K	0	0	3	0		0	2	9	1	KOALABEAR
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	M	0	5	3	1	MDL	0	5	3	1	MMI
+0	1	5	D	0	5	3	0		0	6	9	1	DRAINSOFF
+0	1	6	L	0	5	3	0		0	7	4	1	LEST
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	C	1	0	4	1	CLOP	0	0	3	0	
+0	0	0	L	1	0	4	0		0	1	4	0	
+0	0	0	O	1	0	4	0		0	2	9	0	
+0	1	8	P	1	0	4	0		1	3	4	1	PSAS
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	M	1	5	4	1	MRES	0	5	3	0	
+0	0	0	R	1	5	4	0		0	6	9	0	
+0	0	0	E	1	5	4	0		0	7	4	0	
+0	1	10	S	1	5	4	0		1	8	3	1	SKY
+0	1	11	E	2	0	4	1	EDAS	0	0	3	0	
+0	0	0	D	2	0	4	0		0	1	4	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	S	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	I	2	5	4	1	IASK	0	5	3	0	
+0	0	0	A	2	5	4	0		0	6	9	0	
+0	0	0	S	2	5	4	0		0	7	4	0	
+0	0	0	K	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	S	3	1	4	1	SLAT	0	1	4	0	
+0	0	0	L	3	1	4	0		0	2	9	0	
+0	0	0	A	3	1	4	0		1	3	4	0	
+0	1	14	T	3	1	4	0		3	4	3	1	TTL
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	I	3	6	3	1	ITY	0	6	9	0	
+0	0	0	T	3	6	3	0		0	7	4	0	
+0	0	0	Y	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	16	A	4	2	5	1	ASTIN	0	2	9	0	
+0	0	0	S	4	2	5	0		1	3	4	0	
+0	0	0	T	4	2	5	0		3	4	3	0	
+0	1	17	I	4	2	5	0		4	5	4	1	IASI
+0	0	0	N	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	E	5	0	3	1	ERB	5	0	3	1	EON
+0	1	19	R	5	0	3	0		5	1	4	1	RTES
+0	0	0	B	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	4	0		6	3	3	0	
+0	1	20	L	5	4	4	1	LAST	3	4	3	0	
+0	0	0	A	5	4	4	0		4	5	4	0	
+0	0	0	S	5	4	4	0		0	6	9	0	
+0	1	21	T	5	4	4	0		5	7	4	1	TWOD
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	22	O	6	0	4	1	OTEA	5	0	3	0	
+0	0	0	T	6	0	4	0		5	1	4	0	
+0	0	0	E	6	0	4	0		0	2	9	0	
+0	1	23	A	6	0	4	0		6	3	3	1	ALI
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	24	S	6	5	4	1	SOWN	4	5	4	0	
+0	0	0	O	6	5	4	0		0	6	9	0	
+0	0	0	W	6	5	4	0		5	7	4	0	
+0	1	25	N	6	5	4	0		6	8	3	1	NRA
+0	1	26	N	7	0	4	1	NEAL	5	0	3	0	
+0	0	0	E	7	0	4	0		5	1	4	0	
+0	0	0	A	7	0	4	0		0	2	9	0	
+0	0	0	L	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	27	I	7	5	4	1	IFOR	4	5	4	0	
+0	0	0	F	7	5	4	0		0	6	9	0	
+0	0	0	O	7	5	4	0		5	7	4	0	
+0	0	0	R	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	28	S	8	1	3	1	SRI	5	1	4	0	
+0	0	0	R	8	1	3	0		0	2	9	0	
+0	0	0	I	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	29	F	8	6	3	1	FDA	0	6	9	0	
+0	0	0	D	8	6	3	0		5	7	4	0	
+0	0	0	A	8	6	3	0		6	8	3	0	
+17
+1	ILK	Sort
+4	MDL	Year Helsinki was founded
+7	CLOP	Sound on cobblestone streets
+9	MRES	Field fare, briefly
+11	EDAS	Writer LeShan and others
+12	IASK	"Now ___ you!"
+13	SLAT	Crib part
+15	ITY	Original finish?
+16	ASTIN	John who played Gomez
+18	ERB	Tarzan creator's monogram
+20	LAST	Cellar dweller's place
+22	OTEA	"Cup ___" (1970s Don Williams song)
+24	SOWN	Like wild oats
+26	NEAL	Patricia who co-starred in "The Fountainhead"
+27	IFOR	"___ one 
+28	SRI	Indian name starter
+29	FDA	Many cos. seek its approval
+15
+1	ICE	It's never in a neat order
+2	LLDS	Degs. from Yale and Harvard
+3	KOALABEAR	Certain airline symbol
+4	MMI	Year of Bush's swearing-in
+5	DRAINSOFF	Runs through a petcock, e.g.
+6	LEST	Out of concern that
+8	PSAS	Some health info ads, for short
+10	SKY	Sun spot?
+14	TTL	Lumberjack's tool
+17	IASI	Capital of old Moldavia
+18	EON	Big time?
+19	RTES	Travel plans: Abbr.
+21	TWOD	Lacking depth
+23	ALI	Foreman's superior
+25	NRA	Colt's fans?

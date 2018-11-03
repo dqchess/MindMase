@@ -1,0 +1,235 @@
+grid_13x13_162
+13
+0	1	1	B	0	0	3	1	BEC	0	0	3	1	BCE
+0	1	2	E	0	0	3	0		0	1	3	1	EER
+0	1	3	C	0	0	3	0		0	2	3	1	CPR
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	P	0	6	3	1	PLA	0	6	3	1	PAC
+0	1	5	L	0	6	3	0		0	7	3	1	LST
+0	1	6	A	0	6	3	0		0	8	6	1	ASHCAN
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	S	0	10	3	1	SRA	0	10	9	1	STRIKEONE
+0	1	8	R	0	10	3	0		0	11	3	1	REE
+0	1	9	A	0	10	3	0		0	12	3	1	ARD
+0	1	10	C	1	0	4	1	CEPE	0	0	3	0	
+0	0	0	E	1	0	4	0		0	1	3	0	
+0	0	0	P	1	0	4	0		0	2	3	0	
+0	1	11	E	1	0	4	0		1	3	5	1	EAMES
+1	0	0	#	1	5	8	0		2	4	4	0	
+0	1	12	L	1	5	8	1	LASSITER	1	5	4	1	LIMN
+0	0	0	A	1	5	8	0		0	6	3	0	
+0	0	0	S	1	5	8	0		0	7	3	0	
+0	0	0	S	1	5	8	0		0	8	6	0	
+0	1	13	I	1	5	8	0		1	9	3	1	IED
+0	0	0	T	1	5	8	0		0	10	9	0	
+0	0	0	E	1	5	8	0		0	11	3	0	
+0	0	0	R	1	5	8	0		0	12	3	0	
+0	1	14	E	2	0	13	1	ERRATICTHERED	0	0	3	0	
+0	0	0	R	2	0	13	0		0	1	3	0	
+0	0	0	R	2	0	13	0		0	2	3	0	
+0	0	0	A	2	0	13	0		1	3	5	0	
+0	1	15	T	2	0	13	0		2	4	4	1	TEES
+0	0	0	I	2	0	13	0		1	5	4	0	
+0	0	0	C	2	0	13	0		0	6	3	0	
+0	0	0	T	2	0	13	0		0	7	3	0	
+0	0	0	H	2	0	13	0		0	8	6	0	
+0	0	0	E	2	0	13	0		1	9	3	0	
+0	0	0	R	2	0	13	0		0	10	9	0	
+0	0	0	E	2	0	13	0		0	11	3	0	
+0	0	0	D	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	3	0		4	2	9	0	
+0	1	16	M	3	3	3	1	MEM	1	3	5	0	
+0	0	0	E	3	3	3	0		2	4	4	0	
+0	0	0	M	3	3	3	0		1	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	17	C	3	8	3	1	CDI	0	8	6	0	
+0	0	0	D	3	8	3	0		1	9	3	0	
+0	0	0	I	3	8	3	0		0	10	9	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	8	0		5	0	0	0	
+0	1	18	G	4	1	8	1	GREENPEA	4	1	5	1	GRAMM
+0	1	19	R	4	1	8	0		4	2	9	1	RUSTLEDUP
+0	0	0	E	4	1	8	0		1	3	5	0	
+0	0	0	E	4	1	8	0		2	4	4	0	
+0	0	0	N	4	1	8	0		1	5	4	0	
+0	1	20	P	4	1	8	0		4	6	5	1	PRINT
+0	1	21	E	4	1	8	0		4	7	3	1	EEK
+0	0	0	A	4	1	8	0		0	8	6	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	22	K	4	10	3	1	KES	0	10	9	0	
+0	1	23	E	4	10	3	0		4	11	5	1	EISEN
+0	1	24	S	4	10	3	0		4	12	3	1	SNE
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	25	R	5	1	4	1	RUSS	4	1	5	0	
+0	0	0	U	5	1	4	0		4	2	9	0	
+0	0	0	S	5	1	4	0		1	3	5	0	
+0	0	0	S	5	1	4	0		2	4	4	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	26	R	5	6	3	1	REN	4	6	5	0	
+0	0	0	E	5	6	3	0		4	7	3	0	
+0	0	0	N	5	6	3	0		0	8	6	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	E	5	10	3	1	EIN	0	10	9	0	
+0	0	0	I	5	10	3	0		4	11	5	0	
+0	0	0	N	5	10	3	0		4	12	3	0	
+0	1	28	N	6	0	3	1	NAS	6	0	3	1	NBC
+0	0	0	A	6	0	3	0		4	1	5	0	
+0	0	0	S	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	29	E	6	5	3	1	EIK	6	5	3	1	EPI
+0	0	0	I	6	5	3	0		4	6	5	0	
+0	0	0	K	6	5	3	0		4	7	3	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	30	O	6	10	3	1	OSE	0	10	9	0	
+0	0	0	S	6	10	3	0		4	11	5	0	
+0	0	0	E	6	10	3	0		4	12	3	0	
+0	1	31	B	7	0	3	1	BMT	6	0	3	0	
+0	0	0	M	7	0	3	0		4	1	5	0	
+0	0	0	T	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	32	U	7	4	3	1	UPN	7	4	6	1	UNHATS
+0	0	0	P	7	4	3	0		6	5	3	0	
+0	0	0	N	7	4	3	0		4	6	5	0	
+1	0	0	#	7	8	4	0		8	7	4	0	
+0	1	33	K	7	8	4	1	KANE	7	8	4	1	KOBU
+0	1	34	A	7	8	4	0		7	9	5	1	AGAMA
+0	0	0	N	7	8	4	0		0	10	9	0	
+0	0	0	E	7	8	4	0		4	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	35	C	8	0	3	1	CML	6	0	3	0	
+0	0	0	M	8	0	3	0		4	1	5	0	
+0	0	0	L	8	0	3	0		4	2	9	0	
+1	0	0	#	8	4	8	0		9	3	3	0	
+0	1	36	N	8	4	8	1	NITROGEN	7	4	6	0	
+0	0	0	I	8	4	8	0		6	5	3	0	
+0	0	0	T	8	4	8	0		4	6	5	0	
+0	1	37	R	8	4	8	0		8	7	4	1	RAHS
+0	0	0	O	8	4	8	0		7	8	4	0	
+0	0	0	G	8	4	8	0		7	9	5	0	
+0	0	0	E	8	4	8	0		0	10	9	0	
+0	0	0	N	8	4	8	0		4	11	5	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	38	E	9	2	3	1	ECH	4	2	9	0	
+0	1	39	C	9	2	3	0		9	3	3	1	CIT
+0	0	0	H	9	2	3	0		7	4	6	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	40	A	9	7	3	1	ABA	8	7	4	0	
+0	0	0	B	9	7	3	0		7	8	4	0	
+0	0	0	A	9	7	3	0		7	9	5	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	I	10	0	13	1	INDIANTHUMBER	10	0	3	1	IRE
+0	1	42	N	10	0	13	0		10	1	3	1	NEA
+0	0	0	D	10	0	13	0		4	2	9	0	
+0	0	0	I	10	0	13	0		9	3	3	0	
+0	0	0	A	10	0	13	0		7	4	6	0	
+0	1	43	N	10	0	13	0		10	5	3	1	NEH
+0	1	44	T	10	0	13	0		10	6	3	1	TRA
+0	0	0	H	10	0	13	0		8	7	4	0	
+0	0	0	U	10	0	13	0		7	8	4	0	
+0	0	0	M	10	0	13	0		7	9	5	0	
+0	1	45	B	10	0	13	0		10	10	3	1	BSS
+0	1	46	E	10	0	13	0		10	11	3	1	EWE
+0	1	47	R	10	0	13	0		10	12	3	1	REL
+0	1	48	R	11	0	8	1	REUTTERS	10	0	3	0	
+0	0	0	E	11	0	8	0		10	1	3	0	
+0	0	0	U	11	0	8	0		4	2	9	0	
+0	0	0	T	11	0	8	0		9	3	3	0	
+0	0	0	T	11	0	8	0		7	4	6	0	
+0	0	0	E	11	0	8	0		10	5	3	0	
+0	0	0	R	11	0	8	0		10	6	3	0	
+0	0	0	S	11	0	8	0		8	7	4	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	49	A	11	9	4	1	ASWE	7	9	5	0	
+0	0	0	S	11	9	4	0		10	10	3	0	
+0	0	0	W	11	9	4	0		10	11	3	0	
+0	0	0	E	11	9	4	0		10	12	3	0	
+0	1	50	E	12	0	3	1	EAP	10	0	3	0	
+0	0	0	A	12	0	3	0		10	1	3	0	
+0	0	0	P	12	0	3	0		4	2	9	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	51	S	12	4	3	1	SHA	7	4	6	0	
+0	0	0	H	12	4	3	0		10	5	3	0	
+0	0	0	A	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	52	S	12	10	3	1	SEL	10	10	3	0	
+0	0	0	E	12	10	3	0		10	11	3	0	
+0	0	0	L	12	10	3	0		10	12	3	0	
+29
+1	BEC	Bill: Fr.
+4	PLA	Mao's group: Abbr.
+7	SRA	Overseas title: Abbr.
+10	CEPE	French chef's mushroom
+12	LASSITER	1984 film starring Tom Selleck as a jewel thief
+14	ERRATICTHERED	Nickname for an unpredictable Communist?
+16	MEM	Part of a grp.
+17	CDI	401, in old Rome
+18	GREENPEA	Edible spherule
+22	KES	Evelyn who played Scarlett's sister
+25	RUSS	Old bandleader Columbo
+26	REN	Child pluralizer
+27	EIN	A, on the Aare
+28	NAS	"Illmatic" rapper
+29	EIK	Apt. feature, in the classifieds
+30	OSE	Full of: Suffix
+31	BMT	N.Y.C. subway
+32	UPN	Bygone channel
+33	KANE	Welles's "Citizen"
+35	CML	Mid 10th-century year
+36	NITROGEN	It's in the air
+38	ECH	Level of hierarchy: Abbr.
+40	ABA	The New York Nets were its last champs: Abbr.
+41	INDIANTHUMBER	Hitchhiker from Calcutta?
+48	REUTTERS	Iterates
+49	ASWE	"___ speak"
+50	EAP	"The Raven" writer's inits.
+51	SHA	50's song syllable
+52	SEL	Season on the Seine?
+33
+1	BCE	Letters accompanying some 2,000-year-old+ dates
+2	EER	Occupational suffix
+3	CPR	Red Cross course, briefly
+4	PAC	D.C. donator
+5	LST	"Saving Private Ryan" craft, for short
+6	ASHCAN	Trash receptacle
+7	STRIKEONE	First third of an out
+8	REE	Riddle-me-___
+9	ARD	Suffix with drunk
+11	EAMES	Chair man?
+12	LIMN	Depict
+13	IED	Weapon for Iraqi insurgents: Abbr.
+15	TEES	Elevators, of a sort
+18	GRAMM	Texas politico Phil
+19	RUSTLEDUP	Managed to obtain
+20	PRINT	Word processing command
+21	EEK	Reaction upon seeing something squeak by?
+23	EISEN	ESPN anchor Rich
+24	SNE	1983 Indy winner Tom
+28	NBC	"Wagon Train" network, 1957-62
+29	EPI	Over: Prefix
+32	UNHATS	Doffs one's lid, old-style
+33	KOBU	___-Jutsu (Japanese martial art)
+34	AGAMA	Brightly-colored lizard
+37	RAHS	Cheers
+39	CIT	Op. ___
+41	IRE	It makes one hot
+42	NEA	Sometime theater funder: Abbr.
+43	NEH	Book between Ezra and Esther: Abbr.
+44	TRA	"The flowers that bloom in the spring, ___ la"
+45	BSS	M.I.T. degs.
+46	EWE	Fleecing target
+47	REL	Sects' appeal?: Abbr.

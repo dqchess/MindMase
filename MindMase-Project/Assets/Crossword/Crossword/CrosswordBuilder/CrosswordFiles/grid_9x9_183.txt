@@ -1,0 +1,113 @@
+grid_9x9_183
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	D	0	1	3	1	DYE	0	1	9	1	DINEEARLY
+0	1	2	Y	0	1	3	0		0	2	9	1	YTTERBIUM
+0	1	3	E	0	1	3	0		0	3	3	1	EYE
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	F	0	5	3	1	FAB	0	5	5	1	FORMA
+0	1	5	A	0	5	3	0		0	6	9	1	ANTIUNION
+0	1	6	B	0	5	3	0		0	7	9	1	BEENTHERE
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	1	1	3	0		2	0	4	0	
+0	1	7	I	1	1	3	1	ITY	0	1	9	0	
+0	0	0	T	1	1	3	0		0	2	9	0	
+0	0	0	Y	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	8	O	1	5	3	1	ONE	0	5	5	0	
+0	0	0	N	1	5	3	0		0	6	9	0	
+0	0	0	E	1	5	3	0		0	7	9	0	
+1	0	0	#	1	9	0	0		2	8	0	0	
+0	1	9	A	2	0	4	1	ANTE	2	0	4	1	AFAT
+0	0	0	N	2	0	4	0		0	1	9	0	
+0	0	0	T	2	0	4	0		0	2	9	0	
+0	0	0	E	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	3	0		3	4	3	0	
+0	1	10	R	2	5	3	1	RTE	0	5	5	0	
+0	0	0	T	2	5	3	0		0	6	9	0	
+0	0	0	E	2	5	3	0		0	7	9	0	
+1	0	0	#	2	9	0	0		3	8	4	0	
+0	1	11	F	3	0	3	1	FEE	2	0	4	0	
+0	0	0	E	3	0	3	0		0	1	9	0	
+0	0	0	E	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	12	A	3	4	5	1	AMINE	3	4	3	1	ANY
+0	0	0	M	3	4	5	0		0	5	5	0	
+0	0	0	I	3	4	5	0		0	6	9	0	
+0	0	0	N	3	4	5	0		0	7	9	0	
+0	1	13	E	3	4	5	0		3	8	4	1	ESAS
+0	1	14	A	4	0	9	1	AERONAUTS	2	0	4	0	
+0	0	0	E	4	0	9	0		0	1	9	0	
+0	0	0	R	4	0	9	0		0	2	9	0	
+0	1	15	O	4	0	9	0		4	3	5	1	OBAMA
+0	0	0	N	4	0	9	0		3	4	3	0	
+0	0	0	A	4	0	9	0		0	5	5	0	
+0	0	0	U	4	0	9	0		0	6	9	0	
+0	0	0	T	4	0	9	0		0	7	9	0	
+0	0	0	S	4	0	9	0		3	8	4	0	
+0	1	16	T	5	0	5	1	TABBY	2	0	4	0	
+0	0	0	A	5	0	5	0		0	1	9	0	
+0	0	0	B	5	0	5	0		0	2	9	0	
+0	0	0	B	5	0	5	0		4	3	5	0	
+0	0	0	Y	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	N	5	6	3	1	NHA	0	6	9	0	
+0	0	0	H	5	6	3	0		0	7	9	0	
+0	0	0	A	5	6	3	0		3	8	4	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	18	R	6	1	3	1	RIA	0	1	9	0	
+0	0	0	I	6	1	3	0		0	2	9	0	
+0	0	0	A	6	1	3	0		4	3	5	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	19	T	6	5	4	1	TIES	6	5	3	1	THI
+0	0	0	I	6	5	4	0		0	6	9	0	
+0	0	0	E	6	5	4	0		0	7	9	0	
+0	0	0	S	6	5	4	0		3	8	4	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	20	L	7	1	3	1	LUM	0	1	9	0	
+0	0	0	U	7	1	3	0		0	2	9	0	
+0	0	0	M	7	1	3	0		4	3	5	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	21	H	7	5	3	1	HOR	6	5	3	0	
+0	0	0	O	7	5	3	0		0	6	9	0	
+0	0	0	R	7	5	3	0		0	7	9	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	22	Y	8	1	3	1	YMA	0	1	9	0	
+0	0	0	M	8	1	3	0		0	2	9	0	
+0	0	0	A	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	23	I	8	5	3	1	INE	6	5	3	0	
+0	0	0	N	8	5	3	0		0	6	9	0	
+0	0	0	E	8	5	3	0		0	7	9	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	DYE	Turn green?
+4	FAB	Dynamite
+7	ITY	Plural suffix?
+8	ONE	Sharer of an exclamation point on a keyboard
+9	ANTE	It goes to pot
+10	RTE	Way to go: Abbr.
+11	FEE	Agent's amount
+12	AMINE	Toluidine, e.g.
+14	AERONAUTS	They go up and down
+16	TABBY	Housecat
+17	NHA	Shelter grp.
+18	RIA	Relative of a fjord
+19	TIES	Knots
+20	LUM	Abner's radio partner
+21	HOR	Not vert.
+22	YMA	Sumac with a wide range
+23	INE	Ending like -like
+11
+1	DINEEARLY	Avoid having to wait for a table, maybe
+2	YTTERBIUM	One of the rare earths
+3	EYE	Part of a storm or a potato
+4	FORMA	Pro ___ (perfunctorily)
+5	ANTIUNION	Unwilling to get organized
+6	BEENTHERE	"I sympathize"
+9	AFAT	"... to buy ___ pig"
+12	ANY	Some
+13	ESAS	Those in La Mancha
+15	OBAMA	Only president born in Hawaii
+19	THI	Summer comfort stat

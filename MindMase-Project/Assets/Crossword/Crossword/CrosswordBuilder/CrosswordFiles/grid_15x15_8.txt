@@ -1,0 +1,307 @@
+grid_15x15_8
+15
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	3	0	
+1	0	0	#	0	3	0	0		1	2	3	0	
+1	0	0	#	0	4	5	0		1	3	0	0	
+0	1	1	W	0	4	5	1	WOODY	0	4	3	1	WDS
+0	1	2	O	0	4	5	0		0	5	3	1	OAT
+0	1	3	O	0	4	5	0		0	6	3	1	ODO
+0	1	4	D	0	4	5	0		0	7	3	1	DDE
+0	1	5	Y	0	4	5	0		0	8	10	1	YINANDYANG
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	6	H	0	12	3	1	HAT	0	12	10	1	HAVINGACOW
+0	1	7	A	0	12	3	0		0	13	3	1	AIM
+0	1	8	T	0	12	3	0		0	14	3	1	TRI
+0	1	9	S	1	0	3	1	SAC	1	0	3	1	STS
+0	1	10	A	1	0	3	0		1	1	3	1	AES
+0	1	11	C	1	0	3	0		1	2	3	1	CNS
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	12	D	1	4	7	1	DADDIES	0	4	3	0	
+0	0	0	A	1	4	7	0		0	5	3	0	
+0	0	0	D	1	4	7	0		0	6	3	0	
+0	0	0	D	1	4	7	0		0	7	3	0	
+0	0	0	I	1	4	7	0		0	8	10	0	
+0	1	13	E	1	4	7	0		1	9	5	1	EDITS
+0	1	14	S	1	4	7	0		1	10	3	1	SSN
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	15	A	1	12	3	1	AIR	0	12	10	0	
+0	0	0	I	1	12	3	0		0	13	3	0	
+0	0	0	R	1	12	3	0		0	14	3	0	
+0	1	16	T	2	0	11	1	TENDSTOENDS	1	0	3	0	
+0	0	0	E	2	0	11	0		1	1	3	0	
+0	0	0	N	2	0	11	0		1	2	3	0	
+0	1	17	D	2	0	11	0		2	3	3	1	DSO
+0	0	0	S	2	0	11	0		0	4	3	0	
+0	0	0	T	2	0	11	0		0	5	3	0	
+0	0	0	O	2	0	11	0		0	6	3	0	
+0	0	0	E	2	0	11	0		0	7	3	0	
+0	0	0	N	2	0	11	0		0	8	10	0	
+0	0	0	D	2	0	11	0		1	9	5	0	
+0	0	0	S	2	0	11	0		1	10	3	0	
+1	0	0	#	2	12	3	0		3	11	5	0	
+0	1	18	V	2	12	3	1	VMI	0	12	10	0	
+0	0	0	M	2	12	3	0		0	13	3	0	
+0	0	0	I	2	12	3	0		0	14	3	0	
+0	1	19	S	3	0	4	1	SSSS	1	0	3	0	
+0	0	0	S	3	0	4	0		1	1	3	0	
+0	0	0	S	3	0	4	0		1	2	3	0	
+0	0	0	S	3	0	4	0		2	3	3	0	
+1	0	0	#	3	5	0	0		4	4	4	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	5	0		4	7	7	0	
+0	1	20	A	3	8	5	1	AINTI	0	8	10	0	
+0	0	0	I	3	8	5	0		1	9	5	0	
+0	0	0	N	3	8	5	0		1	10	3	0	
+0	1	21	T	3	8	5	0		3	11	5	1	TUNAS
+0	0	0	I	3	8	5	0		0	12	10	0	
+1	0	0	#	3	14	0	0		4	13	6	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	6	0	
+1	0	0	#	4	3	3	0		5	2	10	0	
+0	1	22	O	4	3	3	1	OJO	2	3	3	0	
+0	1	23	J	4	3	3	0		4	4	4	1	JELL
+0	1	24	O	4	3	3	0		4	5	3	1	OMI
+1	0	0	#	4	7	3	0		5	6	10	0	
+0	1	25	E	4	7	3	1	ENT	4	7	7	1	ENDEMIC
+0	0	0	N	4	7	3	0		0	8	10	0	
+0	0	0	T	4	7	3	0		1	9	5	0	
+1	0	0	#	4	11	3	0		5	10	0	0	
+0	1	26	U	4	11	3	1	UNU	3	11	5	0	
+0	0	0	N	4	11	3	0		0	12	10	0	
+0	1	27	U	4	11	3	0		4	13	6	1	USMINT
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	28	A	5	0	3	1	AXH	5	0	3	1	AUF
+0	1	29	X	5	0	3	0		5	1	6	1	XTERRA
+0	1	30	H	5	0	3	0		5	2	10	1	HORACEMANN
+1	0	0	#	5	4	6	0		6	3	0	0	
+0	1	31	E	5	4	6	1	EMENDS	4	4	4	0	
+0	0	0	M	5	4	6	0		4	5	3	0	
+0	1	32	E	5	4	6	0		5	6	10	1	EDNAFERBER
+0	0	0	N	5	4	6	0		4	7	7	0	
+0	0	0	D	5	4	6	0		0	8	10	0	
+0	0	0	S	5	4	6	0		1	9	5	0	
+1	0	0	#	5	11	3	0		6	10	0	0	
+0	1	33	N	5	11	3	1	NGS	3	11	5	0	
+0	0	0	G	5	11	3	0		0	12	10	0	
+0	0	0	S	5	11	3	0		4	13	6	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	34	U	6	0	3	1	UTO	5	0	3	0	
+0	0	0	T	6	0	3	0		5	1	6	0	
+0	0	0	O	6	0	3	0		5	2	10	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	35	L	6	4	5	1	LIDDY	4	4	4	0	
+0	0	0	I	6	4	5	0		4	5	3	0	
+0	0	0	D	6	4	5	0		5	6	10	0	
+0	0	0	D	6	4	5	0		4	7	7	0	
+0	0	0	Y	6	4	5	0		0	8	10	0	
+1	0	0	#	6	10	0	0		7	9	0	0	
+1	0	0	#	6	11	3	0		7	10	4	0	
+0	1	36	A	6	11	3	1	AAM	3	11	5	0	
+0	0	0	A	6	11	3	0		0	12	10	0	
+0	0	0	M	6	11	3	0		4	13	6	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	37	F	7	0	5	1	FERAL	5	0	3	0	
+0	0	0	E	7	0	5	0		5	1	6	0	
+0	0	0	R	7	0	5	0		5	2	10	0	
+0	1	38	A	7	0	5	0		7	3	5	1	ABACA
+0	0	0	L	7	0	5	0		4	4	4	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	39	N	7	6	3	1	NEA	5	6	10	0	
+0	0	0	E	7	6	3	0		4	7	7	0	
+0	0	0	A	7	6	3	0		0	8	10	0	
+1	0	0	#	7	10	5	0		8	9	3	0	
+0	1	40	A	7	10	5	1	ASCII	7	10	4	1	ATTN
+0	0	0	S	7	10	5	0		3	11	5	0	
+0	0	0	C	7	10	5	0		0	12	10	0	
+0	0	0	I	7	10	5	0		4	13	6	0	
+0	1	41	I	7	10	5	0		7	14	3	1	ITA
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	42	R	8	1	3	1	RAB	5	1	6	0	
+0	0	0	A	8	1	3	0		5	2	10	0	
+0	0	0	B	8	1	3	0		7	3	5	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	5	0		9	5	5	0	
+0	1	43	A	8	6	5	1	AMNOT	5	6	10	0	
+0	0	0	M	8	6	5	0		4	7	7	0	
+0	0	0	N	8	6	5	0		0	8	10	0	
+0	1	44	O	8	6	5	0		8	9	3	1	OHI
+0	0	0	T	8	6	5	0		7	10	4	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	45	O	8	12	3	1	ONT	0	12	10	0	
+0	0	0	N	8	12	3	0		4	13	6	0	
+0	0	0	T	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	46	R	9	1	3	1	RCA	5	1	6	0	
+0	0	0	C	9	1	3	0		5	2	10	0	
+0	0	0	A	9	1	3	0		7	3	5	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	47	D	9	5	6	1	DFIGHT	9	5	5	1	DEEMS
+0	0	0	F	9	5	6	0		5	6	10	0	
+0	0	0	I	9	5	6	0		4	7	7	0	
+0	0	0	G	9	5	6	0		0	8	10	0	
+0	0	0	H	9	5	6	0		8	9	3	0	
+0	0	0	T	9	5	6	0		7	10	4	0	
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	48	W	9	12	3	1	WTA	0	12	10	0	
+0	0	0	T	9	12	3	0		4	13	6	0	
+0	0	0	A	9	12	3	0		7	14	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	49	A	10	1	3	1	AEC	5	1	6	0	
+0	0	0	E	10	1	3	0		5	2	10	0	
+0	0	0	C	10	1	3	0		7	3	5	0	
+1	0	0	#	10	5	3	0		11	4	3	0	
+0	1	50	E	10	5	3	1	EEC	9	5	5	0	
+0	0	0	E	10	5	3	0		5	6	10	0	
+0	0	0	C	10	5	3	0		4	7	7	0	
+1	0	0	#	10	9	3	0		11	8	0	0	
+0	1	51	I	10	9	3	1	ING	8	9	3	0	
+0	0	0	N	10	9	3	0		7	10	4	0	
+0	1	52	G	10	9	3	0		10	11	3	1	GMS
+1	0	0	#	10	13	0	0		11	12	3	0	
+1	0	0	#	10	14	0	0		11	13	3	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	5	0		12	1	3	0	
+0	1	53	M	11	2	5	1	MASER	5	2	10	0	
+0	0	0	A	11	2	5	0		7	3	5	0	
+0	1	54	S	11	2	5	0		11	4	3	1	SET
+0	0	0	E	11	2	5	0		9	5	5	0	
+0	0	0	R	11	2	5	0		5	6	10	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	0	0		12	8	3	0	
+1	0	0	#	11	10	0	0		12	9	3	0	
+1	0	0	#	11	11	4	0		12	10	3	0	
+0	1	55	M	11	11	4	1	MARA	10	11	3	0	
+0	1	56	A	11	11	4	0		11	12	3	1	AHH
+0	1	57	R	11	11	4	0		11	13	3	1	REN
+0	1	58	A	11	11	4	0		11	14	3	1	ARS
+0	1	59	G	12	0	3	1	GOA	12	0	3	1	GNL
+0	1	60	O	12	0	3	0		12	1	3	1	OEO
+0	0	0	A	12	0	3	0		5	2	10	0	
+1	0	0	#	12	4	11	0		13	3	0	0	
+0	1	61	E	12	4	11	1	EMBELLISHER	11	4	3	0	
+0	0	0	M	12	4	11	0		9	5	5	0	
+0	0	0	B	12	4	11	0		5	6	10	0	
+0	1	62	E	12	4	11	0		12	7	3	1	ELI
+0	1	63	L	12	4	11	0		12	8	3	1	LIS
+0	1	64	L	12	4	11	0		12	9	3	1	LOK
+0	1	65	I	12	4	11	0		12	10	3	1	ITY
+0	0	0	S	12	4	11	0		10	11	3	0	
+0	0	0	H	12	4	11	0		11	12	3	0	
+0	0	0	E	12	4	11	0		11	13	3	0	
+0	0	0	R	12	4	11	0		11	14	3	0	
+0	1	66	N	13	0	3	1	NEN	12	0	3	0	
+0	0	0	E	13	0	3	0		12	1	3	0	
+0	0	0	N	13	0	3	0		5	2	10	0	
+1	0	0	#	13	4	7	0		14	3	0	0	
+0	1	67	T	13	4	7	1	TSELIOT	11	4	3	0	
+0	0	0	S	13	4	7	0		9	5	5	0	
+0	0	0	E	13	4	7	0		5	6	10	0	
+0	0	0	L	13	4	7	0		12	7	3	0	
+0	0	0	I	13	4	7	0		12	8	3	0	
+0	0	0	O	13	4	7	0		12	9	3	0	
+0	0	0	T	13	4	7	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	68	H	13	12	3	1	HNS	11	12	3	0	
+0	0	0	N	13	12	3	0		11	13	3	0	
+0	0	0	S	13	12	3	0		11	14	3	0	
+0	1	69	L	14	0	3	1	LON	12	0	3	0	
+0	0	0	O	14	0	3	0		12	1	3	0	
+0	0	0	N	14	0	3	0		5	2	10	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	5	0		15	5	0	0	
+0	1	70	R	14	6	5	1	RISKY	5	6	10	0	
+0	0	0	I	14	6	5	0		12	7	3	0	
+0	0	0	S	14	6	5	0		12	8	3	0	
+0	0	0	K	14	6	5	0		12	9	3	0	
+0	0	0	Y	14	6	5	0		12	10	3	0	
+1	0	0	#	14	12	0	0		15	11	0	0	
+1	0	0	#	14	13	0	0		15	12	0	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	WOODY	He married Soon-Yi
+6	HAT	Santa has a red and white one
+9	SAC	Corporeal case
+12	DADDIES	Pops
+15	AIR	Word with strike or ball
+16	TENDSTOENDS	Treats linemen's injuries?
+18	VMI	George Marshall's alma mater, briefly
+19	SSSS	Radiator sound
+20	AINTI	Reply to "You're a stinker!"
+22	OJO	Eye of the tigre?
+25	ENT	Three-in-one M.D.
+26	UNU	40's-60's leader overthrown by Ne Win
+28	AXH	Chopping part of a chopper
+31	EMENDS	Improves
+33	NGS	Riot-stopping grps.
+34	UTO	___-Aztecan
+35	LIDDY	Talk radio's G. Gordon ___
+36	AAM	Texas ___
+37	FERAL	Undomesticated
+39	NEA	Grant-giving grp.
+40	ASCII	Computer data acronym
+42	RAB	African capital
+43	AMNOT	Answer to "Are too!"
+45	ONT	It's on the St. Lawrence River: Abbr.
+46	RCA	Cable modem producer
+47	DFIGHT	Big scrap
+48	WTA	Org. for Venus and Serena Williams
+49	AEC	Old nuclear regulatory org.
+50	EEC	Common Market inits.
+51	ING	Like Haydn's "Surprise" Symphony
+53	MASER	Electromagnetic wave amplifier
+55	MARA	"Matilda" star ___ Wilson
+59	GOA	___ long way (last)
+61	EMBELLISHER	Decorator, e.g.
+66	NEN	Former Giant Robb ___
+67	TSELIOT	J. Alfred Prufrock poet
+68	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+69	LON	Horror film star Chaney
+70	RISKY	Hazardous
+39
+1	WDS	Sentence fragments?: Abbr.
+2	OAT	Basis for a Quaker cereal
+3	ODO	Pope Urban II, originally
+4	DDE	Prez before J.F.K.
+5	YINANDYANG	Destiny determiners
+6	HAVINGACOW	Reacting hysterically
+7	AIM	Ability to hit a target
+8	TRI	Prefix with lingual
+9	STS	Patrick and Paul: Abbr.
+10	AES	1950s campaign inits.
+11	CNS	Brain and spinal cord: Abbr.
+13	EDITS	Cleans up, in a way
+14	SSN	1040 datum: Abbr.
+17	DSO	U.K. decoration: Abbr.
+21	TUNAS	Skipjack and yellowfin
+23	JELL	Set, as mousse
+24	OMI	Japan's largest lake
+25	ENDEMIC	Peculiar to a locale
+27	USMINT	Noted Phila. facility
+28	AUF	On, in Osnabr
+29	XTERRA	Nissan model
+30	HORACEMANN	*The Father of American Public Education
+32	EDNAFERBER	She replied to No
+38	ABACA	Ropemaking fiber
+40	ATTN	Ltr. routing aid
+41	ITA	Spanish name suffix
+44	OHI	"___ get it!" ("Aha!")
+47	DEEMS	Holds
+52	GMS	A.L. and N.L. traders
+54	SET	Film locale
+56	AHH	"Feels great!"
+57	REN	O-___ ("Kill Bill" role)
+58	ARS	"___ sine scientia nihil est" (Latin motto)
+59	GNL	Anguilla is part of it: Abbr.
+60	OEO	Fair-hiring agcy.
+62	ELI	"Down the Field" singer, at a football game
+63	LIS	Lille lily
+64	LOK	___ Sabha (Indian legislature)
+65	ITY	Plural suffix?

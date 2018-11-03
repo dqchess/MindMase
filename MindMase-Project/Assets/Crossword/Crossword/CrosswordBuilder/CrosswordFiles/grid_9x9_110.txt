@@ -1,0 +1,117 @@
+grid_9x9_110
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	D	0	1	3	1	DUI	0	1	4	1	DEVA
+0	1	2	U	0	1	3	0		0	2	4	1	URLS
+0	1	3	I	0	1	3	0		0	3	3	1	IVO
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	E	0	5	3	1	EER	0	5	5	1	EXFBI
+0	1	5	E	0	5	3	0		0	6	4	1	EMIL
+0	1	6	R	0	5	3	0		0	7	4	1	RECU
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	M	1	0	4	1	MERV	1	0	3	1	MOO
+0	0	0	E	1	0	4	0		0	1	4	0	
+0	0	0	R	1	0	4	0		0	2	4	0	
+0	0	0	V	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	5	0	
+0	1	8	X	1	5	4	1	XMEN	0	5	5	0	
+0	0	0	M	1	5	4	0		0	6	4	0	
+0	0	0	E	1	5	4	0		0	7	4	0	
+0	1	9	N	1	5	4	0		1	8	3	1	NER
+0	1	10	O	2	0	9	1	OVLOFFICE	1	0	3	0	
+0	0	0	V	2	0	9	0		0	1	4	0	
+0	0	0	L	2	0	9	0		0	2	4	0	
+0	0	0	O	2	0	9	0		0	3	3	0	
+0	1	11	F	2	0	9	0		2	4	5	1	FAQIR
+0	0	0	F	2	0	9	0		0	5	5	0	
+0	0	0	I	2	0	9	0		0	6	4	0	
+0	0	0	C	2	0	9	0		0	7	4	0	
+0	0	0	E	2	0	9	0		1	8	3	0	
+0	1	12	O	3	0	3	1	OAS	1	0	3	0	
+0	0	0	A	3	0	3	0		0	1	4	0	
+0	0	0	S	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	A	3	4	5	1	ABLUR	2	4	5	0	
+0	0	0	B	3	4	5	0		0	5	5	0	
+0	0	0	L	3	4	5	0		0	6	4	0	
+0	0	0	U	3	4	5	0		0	7	4	0	
+0	0	0	R	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	A	4	3	3	1	AQI	4	3	5	1	ANGLO
+0	0	0	Q	4	3	3	0		2	4	5	0	
+0	0	0	I	4	3	3	0		0	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	15	O	5	0	5	1	OMANI	5	0	3	1	OLE
+0	1	16	M	5	0	5	0		5	1	4	1	MOVE
+0	1	17	A	5	0	5	0		5	2	4	1	ANIM
+0	0	0	N	5	0	5	0		4	3	5	0	
+0	0	0	I	5	0	5	0		2	4	5	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	I	5	6	3	1	IAT	5	6	4	1	IASI
+0	1	19	A	5	6	3	0		5	7	4	1	ACES
+0	1	20	T	5	6	3	0		5	8	3	1	THC
+0	1	21	L	6	0	9	1	LONGREACH	5	0	3	0	
+0	0	0	O	6	0	9	0		5	1	4	0	
+0	0	0	N	6	0	9	0		5	2	4	0	
+0	0	0	G	6	0	9	0		4	3	5	0	
+0	0	0	R	6	0	9	0		2	4	5	0	
+0	1	22	E	6	0	9	0		6	5	3	1	EPS
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	C	6	0	9	0		5	7	4	0	
+0	0	0	H	6	0	9	0		5	8	3	0	
+0	1	23	E	7	0	4	1	EVIL	5	0	3	0	
+0	0	0	V	7	0	4	0		5	1	4	0	
+0	0	0	I	7	0	4	0		5	2	4	0	
+0	0	0	L	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	P	7	5	4	1	PSEC	6	5	3	0	
+0	0	0	S	7	5	4	0		5	6	4	0	
+0	0	0	E	7	5	4	0		5	7	4	0	
+0	0	0	C	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	E	8	1	3	1	EMO	5	1	4	0	
+0	0	0	M	8	1	3	0		5	2	4	0	
+0	0	0	O	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	S	8	5	3	1	SIS	6	5	3	0	
+0	0	0	I	8	5	3	0		5	6	4	0	
+0	0	0	S	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	DUI	Hwy. offense
+4	EER	It's always in verse
+7	MERV	"___ Griffin's Crosswords"
+8	XMEN	Comic book heroes originally called the Merry Mutants
+10	OVLOFFICE	White House tour highlight
+12	OAS	Grp. of which Cuba is a member
+13	ABLUR	"It's all ___" ("I can't remember")
+14	AQI	Atmospheric pollution meas.
+15	OMANI	Muscateer?
+18	IAT	"Am ___ risk?"
+21	LONGREACH	Boxer's asset
+23	EVIL	Rank and vile
+24	PSEC	Time it takes for light to travel .3 mm
+25	EMO	Funnyman Philips
+26	SIS	Familial title
+17
+1	DEVA	Zoroastrian spirit
+2	URLS	Web addresses, for short
+3	IVO	1961 Literature Nobelist ___ Andric
+4	EXFBI	Like some private dets.
+5	EMIL	___ Jannings, Best Actor of 1928
+6	RECU	Obtained: Fr.
+7	MOO	Cattle call
+9	NER	___ Tamid (synagogue lamp)
+11	FAQIR	Hindu wonder-worker: Var.
+14	ANGLO	White, in a way
+15	OLE	___ Anderson, Hemingway character
+16	MOVE	"Your ___"
+17	ANIM	Lively, in mus.
+18	IASI	Capital of old Moldavia
+19	ACES	They're worth 1 or 11 points
+20	THC	Marijuana's chief intoxicant: Abbr.
+22	EPS	Some records, for short

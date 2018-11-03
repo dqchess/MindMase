@@ -1,0 +1,115 @@
+grid_9x9_80
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	D	0	1	3	1	DIO	0	1	9	1	DECONTROL
+0	1	2	I	0	1	3	0		0	2	9	1	ILELONGUE
+0	1	3	O	0	1	3	0		0	3	3	1	OIR
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	G	0	6	3	1	GBS	0	6	9	1	GIANTSTAR
+0	1	5	B	0	6	3	0		0	7	9	1	BARGRAPHS
+0	1	6	S	0	6	3	0		0	8	3	1	STS
+1	0	0	#	1	1	3	0		2	0	3	0	
+0	1	7	E	1	1	3	1	ELI	0	1	9	0	
+0	0	0	L	1	1	3	0		0	2	9	0	
+0	0	0	I	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	F	1	5	4	1	FIAT	1	5	4	1	FLUE
+0	0	0	I	1	5	4	0		0	6	9	0	
+0	0	0	A	1	5	4	0		0	7	9	0	
+0	0	0	T	1	5	4	0		0	8	3	0	
+0	1	9	I	2	0	4	1	ICER	2	0	3	1	ICU
+0	0	0	C	2	0	4	0		0	1	9	0	
+0	0	0	E	2	0	4	0		0	2	9	0	
+0	0	0	R	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	10	L	2	5	4	1	LARS	1	5	4	0	
+0	0	0	A	2	5	4	0		0	6	9	0	
+0	0	0	R	2	5	4	0		0	7	9	0	
+0	0	0	S	2	5	4	0		0	8	3	0	
+0	1	11	C	3	0	3	1	COL	2	0	3	0	
+0	0	0	O	3	0	3	0		0	1	9	0	
+0	0	0	L	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	4	0		4	3	4	0	
+0	1	12	H	3	4	4	1	HUNG	3	4	3	1	HUS
+0	0	0	U	3	4	4	0		1	5	4	0	
+0	0	0	N	3	4	4	0		0	6	9	0	
+0	0	0	G	3	4	4	0		0	7	9	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	13	U	4	0	9	1	UNODUETRE	2	0	3	0	
+0	0	0	N	4	0	9	0		0	1	9	0	
+0	0	0	O	4	0	9	0		0	2	9	0	
+0	1	14	D	4	0	9	0		4	3	4	1	DTEN
+0	0	0	U	4	0	9	0		3	4	3	0	
+0	0	0	E	4	0	9	0		1	5	4	0	
+0	0	0	T	4	0	9	0		0	6	9	0	
+0	0	0	R	4	0	9	0		0	7	9	0	
+0	1	15	E	4	0	9	0		4	8	3	1	EPS
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	16	T	5	1	4	1	TNTS	0	1	9	0	
+0	0	0	N	5	1	4	0		0	2	9	0	
+0	0	0	T	5	1	4	0		4	3	4	0	
+0	0	0	S	5	1	4	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	S	5	6	3	1	SAP	0	6	9	0	
+0	0	0	A	5	6	3	0		0	7	9	0	
+0	0	0	P	5	6	3	0		4	8	3	0	
+0	1	18	U	6	0	4	1	URGE	6	0	3	1	UNU
+0	0	0	R	6	0	4	0		0	1	9	0	
+0	0	0	G	6	0	4	0		0	2	9	0	
+0	0	0	E	6	0	4	0		4	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	19	B	6	5	4	1	BTPS	6	5	3	1	BLY
+0	0	0	T	6	5	4	0		0	6	9	0	
+0	0	0	P	6	5	4	0		0	7	9	0	
+0	0	0	S	6	5	4	0		4	8	3	0	
+0	1	20	N	7	0	4	1	NOUN	6	0	3	0	
+0	0	0	O	7	0	4	0		0	1	9	0	
+0	0	0	U	7	0	4	0		0	2	9	0	
+0	0	0	N	7	0	4	0		4	3	4	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	21	L	7	5	3	1	LAH	6	5	3	0	
+0	0	0	A	7	5	3	0		0	6	9	0	
+0	0	0	H	7	5	3	0		0	7	9	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	22	U	8	0	3	1	ULE	6	0	3	0	
+0	0	0	L	8	0	3	0		0	1	9	0	
+0	0	0	E	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	23	Y	8	5	3	1	YRS	6	5	3	0	
+0	0	0	R	8	5	3	0		0	6	9	0	
+0	0	0	S	8	5	3	0		0	7	9	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	DIO	Divine one, to Dante
+4	GBS	"Pygmalion" monogram
+7	ELI	"My God," in the Scriptures
+8	FIAT	Autostrada auto
+9	ICER	Pastry chef's aide
+10	LARS	Filmmaker von Trier
+11	COL	___ Mustard
+12	HUNG	Placed on a wall, as a picture
+13	UNODUETRE	Italian count?
+16	TNTS	Demolition supplies
+17	SAP	Patsy
+18	URGE	Prod
+19	BTPS	Without ___ (unprotected)
+20	NOUN	Proper ___
+21	LAH	"Well, ___-di-dah!"
+22	ULE	Relative of -let
+23	YRS	'97 and '98, e.g.
+13
+1	DECONTROL	Liberalize
+2	ILELONGUE	Base off the coast of Brest for France's nuclear submarines
+3	OIR	Listen: Sp.
+4	GIANTSTAR	AT&T Park standout?
+5	BARGRAPHS	Frequent USA Today features
+6	STS	G.P.S. data: Abbr.
+8	FLUE	Drawing device
+9	ICU	Neediest cases site?: Abbr.
+12	HUS	Czech religious reformer Jan
+14	DTEN	Call in the game Battleship
+15	EPS	Some dance records, for short
+18	UNU	Three-time Burmese prime minister
+19	BLY	Global traveler Nellie

@@ -1,0 +1,233 @@
+grid_13x13_23
+13
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	E	0	1	3	1	EUR	0	1	4	1	EMIL
+0	1	2	U	0	1	3	0		0	2	13	1	UUUITORLOSEIT
+0	1	3	R	0	1	3	0		0	3	3	1	RLS
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	C	0	5	3	1	CSI	0	5	8	1	COPAPLEA
+0	1	5	S	0	5	3	0		0	6	13	1	SOPHOMOREJINX
+0	1	6	I	0	5	3	0		0	7	3	1	ISE
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	C	0	9	3	1	CPL	0	9	5	1	CELEB
+0	1	8	P	0	9	3	0		0	10	13	1	PRIMARYCOLORS
+0	1	9	L	0	9	3	0		0	11	8	1	LOMILOMI
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	10	A	1	0	4	1	AMUL	1	0	3	1	AGE
+0	0	0	M	1	0	4	0		0	1	4	0	
+0	0	0	U	1	0	4	0		0	2	13	0	
+0	0	0	L	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	3	0	
+0	1	11	O	1	5	3	1	OOS	0	5	8	0	
+0	0	0	O	1	5	3	0		0	6	13	0	
+0	0	0	S	1	5	3	0		0	7	3	0	
+1	0	0	#	1	9	3	0		2	8	0	0	
+0	1	12	E	1	9	3	1	ERO	0	9	5	0	
+0	0	0	R	1	9	3	0		0	10	13	0	
+0	0	0	O	1	9	3	0		0	11	8	0	
+1	0	0	#	1	13	0	0		2	12	4	0	
+0	1	13	G	2	0	8	1	GIUSEPPE	1	0	3	0	
+0	0	0	I	2	0	8	0		0	1	4	0	
+0	0	0	U	2	0	8	0		0	2	13	0	
+0	0	0	S	2	0	8	0		0	3	3	0	
+0	1	14	E	2	0	8	0		2	4	3	1	ELM
+0	0	0	P	2	0	8	0		0	5	8	0	
+0	0	0	P	2	0	8	0		0	6	13	0	
+0	0	0	E	2	0	8	0		0	7	3	0	
+1	0	0	#	2	9	4	0		3	8	3	0	
+0	1	15	L	2	9	4	1	LIMO	0	9	5	0	
+0	0	0	I	2	9	4	0		0	10	13	0	
+0	0	0	M	2	9	4	0		0	11	8	0	
+0	1	16	O	2	9	4	0		2	12	4	1	OSLO
+0	1	17	E	3	0	3	1	ELI	1	0	3	0	
+0	0	0	L	3	0	3	0		0	1	4	0	
+0	0	0	I	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	18	L	3	4	3	1	LAH	2	4	3	0	
+0	0	0	A	3	4	3	0		0	5	8	0	
+0	0	0	H	3	4	3	0		0	6	13	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	19	S	3	8	5	1	SEMIS	3	8	3	1	SAO
+0	0	0	E	3	8	5	0		0	9	5	0	
+0	0	0	M	3	8	5	0		0	10	13	0	
+0	0	0	I	3	8	5	0		0	11	8	0	
+0	0	0	S	3	8	5	0		2	12	4	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	5	0		5	1	8	0	
+0	1	20	T	4	2	5	1	TEMPO	0	2	13	0	
+0	1	21	E	4	2	5	0		4	3	3	1	EPS
+0	0	0	M	4	2	5	0		2	4	3	0	
+0	0	0	P	4	2	5	0		0	5	8	0	
+0	0	0	O	4	2	5	0		0	6	13	0	
+1	0	0	#	4	8	5	0		5	7	8	0	
+0	1	22	A	4	8	5	1	ABALL	3	8	3	0	
+0	0	0	B	4	8	5	0		0	9	5	0	
+0	0	0	A	4	8	5	0		0	10	13	0	
+0	0	0	L	4	8	5	0		0	11	8	0	
+0	0	0	L	4	8	5	0		2	12	4	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	23	N	5	1	3	1	NOP	5	1	8	1	NOCTURNE
+0	0	0	O	5	1	3	0		0	2	13	0	
+0	0	0	P	5	1	3	0		4	3	3	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	24	L	5	5	4	1	LMNO	0	5	8	0	
+0	0	0	M	5	5	4	0		0	6	13	0	
+0	1	25	N	5	5	4	0		5	7	8	1	NESCIENT
+0	0	0	O	5	5	4	0		3	8	3	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	26	R	5	10	3	1	ROO	0	10	13	0	
+0	0	0	O	5	10	3	0		0	11	8	0	
+0	0	0	O	5	10	3	0		2	12	4	0	
+1	0	0	#	6	1	3	0		7	0	4	0	
+0	1	27	O	6	1	3	1	ORS	5	1	8	0	
+0	0	0	R	6	1	3	0		0	2	13	0	
+0	0	0	S	6	1	3	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	28	E	6	5	3	1	EOE	0	5	8	0	
+0	0	0	O	6	5	3	0		0	6	13	0	
+0	0	0	E	6	5	3	0		5	7	8	0	
+1	0	0	#	6	9	3	0		7	8	0	0	
+0	1	29	S	6	9	3	1	SYM	6	9	3	1	SSN
+0	0	0	Y	6	9	3	0		0	10	13	0	
+0	0	0	M	6	9	3	0		0	11	8	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	C	7	0	3	1	CCL	7	0	4	1	COLE
+0	0	0	C	7	0	3	0		5	1	8	0	
+0	0	0	L	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	4	0		8	3	5	0	
+0	1	31	J	7	4	4	1	JARS	7	4	3	1	JES
+0	0	0	A	7	4	4	0		0	5	8	0	
+0	0	0	R	7	4	4	0		0	6	13	0	
+0	0	0	S	7	4	4	0		5	7	8	0	
+1	0	0	#	7	9	3	0		8	8	3	0	
+0	1	32	S	7	9	3	1	SCI	6	9	3	0	
+0	0	0	C	7	9	3	0		0	10	13	0	
+0	0	0	I	7	9	3	0		0	11	8	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	33	O	8	0	5	1	OTOSE	7	0	4	0	
+0	0	0	T	8	0	5	0		5	1	8	0	
+0	0	0	O	8	0	5	0		0	2	13	0	
+0	1	34	S	8	0	5	0		8	3	5	1	STILE
+0	0	0	E	8	0	5	0		7	4	3	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	35	E	8	6	5	1	ECONO	0	6	13	0	
+0	0	0	C	8	6	5	0		5	7	8	0	
+0	1	36	O	8	6	5	0		8	8	3	1	OAF
+0	0	0	N	8	6	5	0		6	9	3	0	
+0	0	0	O	8	6	5	0		0	10	13	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	37	L	9	0	5	1	LUSTS	7	0	4	0	
+0	0	0	U	9	0	5	0		5	1	8	0	
+0	0	0	S	9	0	5	0		0	2	13	0	
+0	0	0	T	9	0	5	0		8	3	5	0	
+0	0	0	S	9	0	5	0		7	4	3	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	38	J	9	6	3	1	JIA	0	6	13	0	
+0	0	0	I	9	6	3	0		5	7	8	0	
+0	0	0	A	9	6	3	0		8	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	L	9	10	3	1	LAL	0	10	13	0	
+0	1	40	A	9	10	3	0		9	11	4	1	AMTO
+0	1	41	L	9	10	3	0		9	12	3	1	LSE
+0	1	42	E	10	0	4	1	EREI	7	0	4	0	
+0	0	0	R	10	0	4	0		5	1	8	0	
+0	0	0	E	10	0	4	0		0	2	13	0	
+0	0	0	I	10	0	4	0		8	3	5	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	43	F	10	5	8	1	FIEFDOMS	10	5	3	1	FIE
+0	0	0	I	10	5	8	0		0	6	13	0	
+0	0	0	E	10	5	8	0		5	7	8	0	
+0	0	0	F	10	5	8	0		8	8	3	0	
+0	1	44	D	10	5	8	0		10	9	3	1	DAI
+0	0	0	O	10	5	8	0		0	10	13	0	
+0	0	0	M	10	5	8	0		9	11	4	0	
+0	0	0	S	10	5	8	0		9	12	3	0	
+1	0	0	#	11	1	3	0		12	0	0	0	
+0	1	45	N	11	1	3	1	NIL	5	1	8	0	
+0	0	0	I	11	1	3	0		0	2	13	0	
+0	0	0	L	11	1	3	0		8	3	5	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	46	I	11	5	3	1	INN	10	5	3	0	
+0	0	0	N	11	5	3	0		0	6	13	0	
+0	0	0	N	11	5	3	0		5	7	8	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	47	A	11	9	4	1	ARTE	10	9	3	0	
+0	0	0	R	11	9	4	0		0	10	13	0	
+0	0	0	T	11	9	4	0		9	11	4	0	
+0	0	0	E	11	9	4	0		9	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	48	E	12	1	3	1	ETE	5	1	8	0	
+0	0	0	T	12	1	3	0		0	2	13	0	
+0	0	0	E	12	1	3	0		8	3	5	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	49	E	12	5	3	1	EXT	10	5	3	0	
+0	0	0	X	12	5	3	0		0	6	13	0	
+0	0	0	T	12	5	3	0		5	7	8	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	50	I	12	9	3	1	ISO	10	9	3	0	
+0	0	0	S	12	9	3	0		0	10	13	0	
+0	0	0	O	12	9	3	0		9	11	4	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+35
+1	EUR	Where Switz. is
+4	CSI	TV show whose opening music is the Who's "Who Are You"
+7	CPL	Pvt.'s goal?
+10	AMUL	City near the Caspian Sea
+11	OOS	Long-running film role
+12	ERO	Leandro's partner in a Mancinelli opera
+13	GIUSEPPE	Gen. Garibaldi
+15	LIMO	C.E.O.'s convenience
+17	ELI	Harvard hater?
+18	LAH	"Well, ___-di- dah!"
+19	SEMIS	Next-to-last round
+20	TEMPO	Pace
+22	ABALL	What the Staten Island Yankees play, informally
+23	NOP	Queue before Q
+24	LMNO	Alphabet quartet
+26	ROO	Kanga's kid in "Winnie-the-Pooh"
+27	ORS	Surgeons' workplaces, for short
+28	EOE	Fair-hiring inits.
+29	SYM	Kind of orch.
+30	CCL	Third-century year
+31	JARS	Places for pickles
+32	SCI	Poly-___ (college major)
+33	OTOSE	Milk: Prefix
+35	ECONO	___-class (airplane section)
+37	LUSTS	Cravings
+38	JIA	Addams portrayer, in film
+39	LAL	Kobe Bryant's team, on scoreboards
+42	EREI	"___ Sleep, for Every Favor" (old hymn)
+43	FIEFDOMS	Lordships
+45	NIL	Zip
+46	INN	Setting for TV's "Newhart"
+47	ARTE	Prado displays
+48	ETE	When Nancy is hot
+49	EXT	Abbr. after a telephone number
+50	ISO	Prefix with bar
+25
+1	EMIL	German Expressionist Nolde
+2	UUUITORLOSEIT	Caution against neglect
+3	RLS	"Treasure Island" monogram
+4	COPAPLEA	Compromise in court
+5	SOPHOMOREJINX	Rookie's superstition
+6	ISE	Expert ending
+7	CELEB	Us Weekly subject
+8	PRIMARYCOLORS	"Red, white and blue, for Americans?"
+9	LOMILOMI	Hawaiian massage
+10	AGE	"___ cannot wither her": Shak.
+14	ELM	Slippery one?
+16	OSLO	Munch Museum's locale
+19	SAO	___ Miguel, largest island of the Azores
+21	EPS	7-in. platters
+23	NOCTURNE	Feature of Mendelssohn's "A Midsummer Night's Dream"
+25	NESCIENT	Agnostic
+29	SSN	1040 ID
+30	COLE	Nat or Natalie
+31	JES	Samuel L. Jackson's character in "Pulp Fiction"
+34	STILE	Steps that cross a fence
+36	OAF	Clodhopper
+40	AMTO	"Here I ___ Worship" (contemporary hymn)
+41	LSE	End of many an E-mail address
+43	FIE	Cry of disgust
+44	DAI	Bao ___ (former Vietnamese emperor)

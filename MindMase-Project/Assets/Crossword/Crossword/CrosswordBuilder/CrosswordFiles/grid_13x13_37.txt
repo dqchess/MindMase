@@ -1,0 +1,231 @@
+grid_13x13_37
+13
+0	1	1	G	0	0	3	1	GON	0	0	3	1	GAI
+0	1	2	O	0	0	3	0		0	1	3	1	OMN
+0	1	3	N	0	0	3	0		0	2	3	1	NTH
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	11	0	
+0	1	4	B	0	7	3	1	BUR	0	7	5	1	BONNE
+0	1	5	U	0	7	3	0		0	8	3	1	UEA
+0	1	6	R	0	7	3	0		0	9	3	1	RST
+1	0	0	#	0	11	0	0		1	10	8	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	A	1	0	5	1	AMTOO	0	0	3	0	
+0	0	0	M	1	0	5	0		0	1	3	0	
+0	0	0	T	1	0	5	0		0	2	3	0	
+0	1	8	O	1	0	5	0		1	3	3	1	OIR
+0	1	9	O	1	0	5	0		1	4	3	1	OBE
+1	0	0	#	1	6	6	0		2	5	5	0	
+0	1	10	D	1	6	6	1	DOESNT	1	6	11	1	DRILLMASTER
+0	0	0	O	1	6	6	0		0	7	5	0	
+0	0	0	E	1	6	6	0		0	8	3	0	
+0	0	0	S	1	6	6	0		0	9	3	0	
+0	1	11	N	1	6	6	0		1	10	8	1	NICOTINE
+0	1	12	T	1	6	6	0		1	11	4	1	TOIL
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	13	I	2	0	13	1	INHIBERNATION	0	0	3	0	
+0	0	0	N	2	0	13	0		0	1	3	0	
+0	0	0	H	2	0	13	0		0	2	3	0	
+0	0	0	I	2	0	13	0		1	3	3	0	
+0	0	0	B	2	0	13	0		1	4	3	0	
+0	1	14	E	2	0	13	0		2	5	5	1	EPCOT
+0	0	0	R	2	0	13	0		1	6	11	0	
+0	0	0	N	2	0	13	0		0	7	5	0	
+0	0	0	A	2	0	13	0		0	8	3	0	
+0	0	0	T	2	0	13	0		0	9	3	0	
+0	0	0	I	2	0	13	0		1	10	8	0	
+0	0	0	O	2	0	13	0		1	11	4	0	
+0	1	15	N	2	0	13	0		2	12	3	1	NED
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	3	0	
+1	0	0	#	3	3	5	0		4	2	8	0	
+0	1	16	R	3	3	5	1	REPIN	1	3	3	0	
+0	0	0	E	3	3	5	0		1	4	3	0	
+0	0	0	P	3	3	5	0		2	5	5	0	
+0	0	0	I	3	3	5	0		1	6	11	0	
+0	0	0	N	3	3	5	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	3	0		4	9	0	0	
+0	1	17	C	3	10	3	1	CIE	1	10	8	0	
+0	0	0	I	3	10	3	0		1	11	4	0	
+0	0	0	E	3	10	3	0		2	12	3	0	
+0	1	18	O	4	0	3	1	OLS	4	0	3	1	ORC
+0	1	19	L	4	0	3	0		4	1	3	1	LEO
+0	1	20	S	4	0	3	0		4	2	8	1	STMARTIN
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	4	0		5	4	4	0	
+0	1	21	C	4	5	4	1	CLEA	2	5	5	0	
+0	0	0	L	4	5	4	0		1	6	11	0	
+0	0	0	E	4	5	4	0		0	7	5	0	
+0	1	22	A	4	5	4	0		4	8	4	1	ASST
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	23	O	4	10	3	1	OLD	1	10	8	0	
+0	0	0	L	4	10	3	0		1	11	4	0	
+0	0	0	D	4	10	3	0		2	12	3	0	
+0	1	24	R	5	0	7	1	RETINOL	4	0	3	0	
+0	0	0	E	5	0	7	0		4	1	3	0	
+0	0	0	T	5	0	7	0		4	2	8	0	
+0	1	25	I	5	0	7	0		5	3	3	1	IBI
+0	1	26	N	5	0	7	0		5	4	4	1	NATE
+0	0	0	O	5	0	7	0		2	5	5	0	
+0	0	0	L	5	0	7	0		1	6	11	0	
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	27	S	5	8	3	1	SAT	4	8	4	0	
+0	1	28	A	5	8	3	0		5	9	3	1	ASO
+0	0	0	T	5	8	3	0		1	10	8	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	C	6	0	13	1	COMBATMISSION	4	0	3	0	
+0	0	0	O	6	0	13	0		4	1	3	0	
+0	0	0	M	6	0	13	0		4	2	8	0	
+0	0	0	B	6	0	13	0		5	3	3	0	
+0	0	0	A	6	0	13	0		5	4	4	0	
+0	0	0	T	6	0	13	0		2	5	5	0	
+0	0	0	M	6	0	13	0		1	6	11	0	
+0	1	30	I	6	0	13	0		6	7	5	1	INEED
+0	0	0	S	6	0	13	0		4	8	4	0	
+0	0	0	S	6	0	13	0		5	9	3	0	
+0	0	0	I	6	0	13	0		1	10	8	0	
+0	1	31	O	6	0	13	0		6	11	3	1	OIL
+0	1	32	N	6	0	13	0		6	12	3	1	NAL
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	4	0	
+0	1	33	A	7	2	3	1	AIT	4	2	8	0	
+0	0	0	I	7	2	3	0		5	3	3	0	
+0	0	0	T	7	2	3	0		5	4	4	0	
+1	0	0	#	7	6	7	0		8	5	5	0	
+0	1	34	A	7	6	7	1	ANTONIA	1	6	11	0	
+0	0	0	N	7	6	7	0		6	7	5	0	
+0	0	0	T	7	6	7	0		4	8	4	0	
+0	0	0	O	7	6	7	0		5	9	3	0	
+0	0	0	N	7	6	7	0		1	10	8	0	
+0	0	0	I	7	6	7	0		6	11	3	0	
+0	0	0	A	7	6	7	0		6	12	3	0	
+0	1	35	B	8	0	3	1	BAR	8	0	3	1	BAP
+0	1	36	A	8	0	3	0		8	1	4	1	ALOU
+0	0	0	R	8	0	3	0		4	2	8	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	37	E	8	4	4	1	ENSE	5	4	4	0	
+0	1	38	N	8	4	4	0		8	5	5	1	NINER
+0	0	0	S	8	4	4	0		1	6	11	0	
+0	0	0	E	8	4	4	0		6	7	5	0	
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	39	E	8	10	3	1	ELL	1	10	8	0	
+0	0	0	L	8	10	3	0		6	11	3	0	
+0	0	0	L	8	10	3	0		6	12	3	0	
+0	1	40	A	9	0	3	1	ALT	8	0	3	0	
+0	0	0	L	9	0	3	0		8	1	4	0	
+0	0	0	T	9	0	3	0		4	2	8	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	41	I	9	5	5	1	ITEMS	8	5	5	0	
+0	0	0	T	9	5	5	0		1	6	11	0	
+0	0	0	E	9	5	5	0		6	7	5	0	
+0	1	42	M	9	5	5	0		9	8	3	1	MAT
+0	1	43	S	9	5	5	0		9	9	3	1	SPH
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	P	10	0	13	1	POISONEDAPPLE	8	0	3	0	
+0	0	0	O	10	0	13	0		8	1	4	0	
+0	0	0	I	10	0	13	0		4	2	8	0	
+0	1	45	S	10	0	13	0		10	3	3	1	SDI
+0	1	46	O	10	0	13	0		10	4	3	1	OOS
+0	0	0	N	10	0	13	0		8	5	5	0	
+0	0	0	E	10	0	13	0		1	6	11	0	
+0	0	0	D	10	0	13	0		6	7	5	0	
+0	0	0	A	10	0	13	0		9	8	3	0	
+0	0	0	P	10	0	13	0		9	9	3	0	
+0	1	47	P	10	0	13	0		10	10	3	1	PET
+0	1	48	L	10	0	13	0		10	11	3	1	LSH
+0	1	49	E	10	0	13	0		10	12	3	1	EEO
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	50	U	11	1	6	1	UNDOER	8	1	4	0	
+0	0	0	N	11	1	6	0		4	2	8	0	
+0	0	0	D	11	1	6	0		10	3	3	0	
+0	0	0	O	11	1	6	0		10	4	3	0	
+0	0	0	E	11	1	6	0		8	5	5	0	
+0	0	0	R	11	1	6	0		1	6	11	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	51	T	11	8	5	1	THESE	9	8	3	0	
+0	0	0	H	11	8	5	0		9	9	3	0	
+0	0	0	E	11	8	5	0		10	10	3	0	
+0	0	0	S	11	8	5	0		10	11	3	0	
+0	0	0	E	11	8	5	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	52	I	12	3	3	1	ISR	10	3	3	0	
+0	0	0	S	12	3	3	0		10	4	3	0	
+0	0	0	R	12	3	3	0		8	5	5	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	T	12	10	3	1	THO	10	10	3	0	
+0	0	0	H	12	10	3	0		10	11	3	0	
+0	0	0	O	12	10	3	0		10	12	3	0	
+25
+1	GON	Geometry ending
+4	BUR	Clingy seedpod
+7	AMTOO	Playground retort
+10	DOESNT	"It ___ add up!"
+13	INHIBERNATION	Sleeping
+16	REPIN	Defeat again, in a way
+17	CIE	Renault, e.g.: Abbr.
+18	OLS	Barn denizens
+21	CLEA	"The Alexandria Quartet" finale
+23	OLD	Hackneyed
+24	RETINOL	Vitamin A
+27	SAT	Did nothing
+29	COMBATMISSION	G.I.'s undertaking
+33	AIT	Land in a stream
+34	ANTONIA	Title girl of a Willa Cather novel
+35	BAR	Place for many belts
+37	ENSE	Massachusetts motto starter
+39	ELL	Wren's wing
+40	ALT	Flight stat.
+41	ITEMS	Subjects of gossip
+44	POISONEDAPPLE	Gift that almost killed Snow White
+50	UNDOER	Disassembler
+51	THESE	"___ Foolish Things"
+52	ISR	Where Mt. Carmel is: Abbr.
+53	THO	Granting that, in brief
+33
+1	GAI	Moo goo ___ pan
+2	OMN	Every, on an Rx
+3	NTH	Ultimate in degree
+4	BONNE	Adjective with chance or fortune
+5	UEA	Pupil's place
+6	RST	Run after Q
+8	OIR	Listen: Sp.
+9	OBE	Overseas honour: Abbr.
+10	DRILLMASTER	One who can have you going around in circles?
+11	NICOTINE	What some patches provide
+12	TOIL	Break one's back
+14	EPCOT	Florida tourist destination
+15	NED	Nascar Hall-of-Famer Jarrett
+18	ORC	Dungeons & Dragons beast
+19	LEO	Virgo's predecessor
+20	STMARTIN	Island in the West Indies
+22	ASST	Second hand: Abbr.
+25	IBI	There: Lat.
+26	NATE	Basketball's Thurmond
+28	ASO	Japan's largest active volcano
+30	INEED	"All ___" (1967 Temptations hit)
+31	OIL	Nigerian export
+32	NAL	Big inits. in paperback publishing
+35	BAP	Bill Clinton's relig. affiliation
+36	ALOU	Fielding brother
+38	NINER	San Francisco footballer, briefly
+42	MAT	Framing piece
+43	SPH	Geom. figure
+45	SDI	Reagan-era mil. program
+46	OOS	Long-running film role
+47	PET	Fair-haired boy
+48	LSH	Sorority letters
+49	EEO	Classified inits.

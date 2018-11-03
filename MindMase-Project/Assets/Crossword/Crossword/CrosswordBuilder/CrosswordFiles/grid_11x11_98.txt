@@ -1,0 +1,165 @@
+grid_11x11_98
+11
+0	1	1	F	0	0	3	1	FCC	0	0	3	1	FAG
+0	1	2	C	0	0	3	0		0	1	3	1	CMS
+0	1	3	C	0	0	3	0		0	2	11	1	CUTSTHELINE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	A	0	6	3	1	ASP	0	6	6	1	ATBEST
+0	1	5	S	0	6	3	0		0	7	3	1	SSA
+0	1	6	P	0	6	3	0		0	8	11	1	PICTURESHOW
+1	0	0	#	0	10	0	0		1	9	6	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	A	1	0	3	1	AMU	0	0	3	0	
+0	0	0	M	1	0	3	0		0	1	3	0	
+0	0	0	U	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	0	0	
+0	1	8	A	1	4	7	1	ARTSIER	1	4	3	1	ADA
+0	1	9	R	1	4	7	0		1	5	9	1	REVISITED
+0	0	0	T	1	4	7	0		0	6	6	0	
+0	0	0	S	1	4	7	0		0	7	3	0	
+0	0	0	I	1	4	7	0		0	8	11	0	
+0	1	10	E	1	4	7	0		1	9	6	1	ELDEST
+0	1	11	R	1	4	7	0		1	10	3	1	REP
+0	1	12	G	2	0	3	1	GST	0	0	3	0	
+0	0	0	S	2	0	3	0		0	1	3	0	
+0	0	0	T	2	0	3	0		0	2	11	0	
+1	0	0	#	2	4	7	0		3	3	4	0	
+0	1	13	D	2	4	7	1	DEBACLE	1	4	3	0	
+0	0	0	E	2	4	7	0		1	5	9	0	
+0	0	0	B	2	4	7	0		0	6	6	0	
+0	0	0	A	2	4	7	0		0	7	3	0	
+0	0	0	C	2	4	7	0		0	8	11	0	
+0	0	0	L	2	4	7	0		1	9	6	0	
+0	0	0	E	2	4	7	0		1	10	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	5	0		4	1	6	0	
+0	1	14	S	3	2	5	1	SHAVE	0	2	11	0	
+0	1	15	H	3	2	5	0		3	3	4	1	HEMA
+0	0	0	A	3	2	5	0		1	4	3	0	
+0	0	0	V	3	2	5	0		1	5	9	0	
+0	0	0	E	3	2	5	0		0	6	6	0	
+1	0	0	#	3	8	3	0		4	7	4	0	
+0	1	16	T	3	8	3	1	TDP	0	8	11	0	
+0	0	0	D	3	8	3	0		1	9	6	0	
+0	0	0	P	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	R	4	1	3	1	RTE	4	1	6	1	ROBOTO
+0	0	0	T	4	1	3	0		0	2	11	0	
+0	0	0	E	4	1	3	0		3	3	4	0	
+1	0	0	#	4	5	5	0		5	4	6	0	
+0	1	18	I	4	5	5	1	ISSUE	1	5	9	0	
+0	0	0	S	4	5	5	0		0	6	6	0	
+0	1	19	S	4	5	5	0		4	7	4	1	SAPP
+0	0	0	U	4	5	5	0		0	8	11	0	
+0	0	0	E	4	5	5	0		1	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	20	O	5	1	9	1	OHMYSTARS	4	1	6	0	
+0	0	0	H	5	1	9	0		0	2	11	0	
+0	0	0	M	5	1	9	0		3	3	4	0	
+0	1	21	Y	5	1	9	0		5	4	6	1	YTTRIA
+0	0	0	S	5	1	9	0		1	5	9	0	
+0	0	0	T	5	1	9	0		0	6	6	0	
+0	0	0	A	5	1	9	0		4	7	4	0	
+0	0	0	R	5	1	9	0		0	8	11	0	
+0	0	0	S	5	1	9	0		1	9	6	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	22	B	6	1	5	1	BEATI	4	1	6	0	
+0	0	0	E	6	1	5	0		0	2	11	0	
+0	0	0	A	6	1	5	0		3	3	4	0	
+0	0	0	T	6	1	5	0		5	4	6	0	
+0	0	0	I	6	1	5	0		1	5	9	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	23	P	6	7	3	1	PET	4	7	4	0	
+0	0	0	E	6	7	3	0		0	8	11	0	
+0	0	0	T	6	7	3	0		1	9	6	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	24	D	7	0	3	1	DOL	7	0	3	1	DSC
+0	0	0	O	7	0	3	0		4	1	6	0	
+0	0	0	L	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	5	0		8	3	3	0	
+0	1	25	T	7	4	5	1	TTOPS	5	4	6	0	
+0	0	0	T	7	4	5	0		1	5	9	0	
+0	1	26	O	7	4	5	0		7	6	3	1	ODE
+0	0	0	P	7	4	5	0		4	7	4	0	
+0	0	0	S	7	4	5	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	27	S	8	0	7	1	STIRRED	7	0	3	0	
+0	0	0	T	8	0	7	0		4	1	6	0	
+0	0	0	I	8	0	7	0		0	2	11	0	
+0	1	28	R	8	0	7	0		8	3	3	1	RFD
+0	0	0	R	8	0	7	0		5	4	6	0	
+0	0	0	E	8	0	7	0		1	5	9	0	
+0	0	0	D	8	0	7	0		7	6	3	0	
+1	0	0	#	8	8	3	0		9	7	0	0	
+0	1	29	H	8	8	3	1	HED	0	8	11	0	
+0	1	30	E	8	8	3	0		8	9	3	1	EMB
+0	1	31	D	8	8	3	0		8	10	3	1	DNC
+0	1	32	C	9	0	7	1	CONFIDE	7	0	3	0	
+0	0	0	O	9	0	7	0		4	1	6	0	
+0	0	0	N	9	0	7	0		0	2	11	0	
+0	0	0	F	9	0	7	0		8	3	3	0	
+0	0	0	I	9	0	7	0		5	4	6	0	
+0	0	0	D	9	0	7	0		1	5	9	0	
+0	0	0	E	9	0	7	0		7	6	3	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	33	O	9	8	3	1	OMN	0	8	11	0	
+0	0	0	M	9	8	3	0		8	9	3	0	
+0	0	0	N	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	34	E	10	2	3	1	EDA	0	2	11	0	
+0	0	0	D	10	2	3	0		8	3	3	0	
+0	0	0	A	10	2	3	0		5	4	6	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	35	W	10	8	3	1	WBC	0	8	11	0	
+0	0	0	B	10	8	3	0		8	9	3	0	
+0	0	0	C	10	8	3	0		8	10	3	0	
+21
+1	FCC	Grp. caring about airing
+4	ASP	Nile slitherer
+7	AMU	___ Darya (Asian river)
+8	ARTSIER	Relatively affected
+12	GST	Setting at 0 degrees long.
+13	DEBACLE	Spectacular failure
+14	SHAVE	Skin smoother
+16	TDP	Group formed at C.C.N.Y. in 1910
+17	RTE	1 or 95: Abbr.
+18	ISSUE	Debate topic
+20	OHMYSTARS	What Galileo said ...?
+22	BEATI	Hit so as to make collapse / Win over
+23	PET	Dino, to Fred and Wilma
+24	DOL	Capital of New Zealand: Abbr.
+25	TTOPS	Features of some 'Vettes
+27	STIRRED	How 007 does not like martinis
+29	HED	"If only ___ listened!"
+32	CONFIDE	Disclose
+33	OMN	All: Prefix
+34	EDA	LeShan who wrote child-care books
+35	WBC	Fighters' org.
+19
+1	FAG	___ end (very last part)
+2	CMS	Ruler units: Abbr.
+3	CUTSTHELINE	Releases, as a fish
+4	ATBEST	If everything goes right
+5	SSA	Grp. issuing IDs
+6	PICTURESHOW	Cinema offering
+8	ADA	English mathematician Lovelace
+9	REVISITED	Saw more of
+10	ELDEST	Tribal leaders, maybe
+11	REP	Part of a workout
+15	HEMA	Blood: Prefix
+17	ROBOTO	"Mr. ___" (1983 Styx hit)
+19	SAPP	Defensive tackle Warren ___
+21	YTTRIA	Powder used in lasers
+24	DSC	Hero's award: Abbr.
+26	ODE	Keats's "Bards of Passion and of Mirth," e.g.
+28	RFD	Remote mail service: Abbr.
+30	EMB	Diplomats' place: Abbr.
+31	DNC	Leadership org. opposed to the G.O.P.

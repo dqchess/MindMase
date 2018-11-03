@@ -1,0 +1,229 @@
+grid_13x13_185
+13
+1	0	0	#	0	1	4	0		1	0	4	0	
+0	1	1	F	0	1	4	1	FIES	0	1	6	1	FLUTER
+0	1	2	I	0	1	4	0		0	2	6	1	IONESO
+0	1	3	E	0	1	4	0		0	3	3	1	ERN
+0	1	4	S	0	1	4	0		0	4	3	1	SDI
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	6	0	
+0	1	5	G	0	8	3	1	GAB	0	8	3	1	GPO
+0	1	6	A	0	8	3	0		0	9	3	1	AHA
+0	1	7	B	0	8	3	0		0	10	6	1	BIRDIE
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	8	O	1	0	5	1	OLORD	1	0	4	1	ORAN
+0	0	0	L	1	0	5	0		0	1	6	0	
+0	0	0	O	1	0	5	0		0	2	6	0	
+0	0	0	R	1	0	5	0		0	3	3	0	
+0	0	0	D	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	6	0		2	5	3	0	
+0	1	9	S	1	6	6	1	SOPHIA	1	6	3	1	SGT
+0	1	10	O	1	6	6	0		1	7	6	1	OBLAST
+0	0	0	P	1	6	6	0		0	8	3	0	
+0	0	0	H	1	6	6	0		0	9	3	0	
+0	0	0	I	1	6	6	0		0	10	6	0	
+0	1	11	A	1	6	6	0		1	11	5	1	ADREP
+1	0	0	#	1	13	0	0		2	12	3	0	
+0	1	12	R	2	0	13	1	RUNNINGBOARDS	1	0	4	0	
+0	0	0	U	2	0	13	0		0	1	6	0	
+0	0	0	N	2	0	13	0		0	2	6	0	
+0	0	0	N	2	0	13	0		0	3	3	0	
+0	0	0	I	2	0	13	0		0	4	3	0	
+0	1	13	N	2	0	13	0		2	5	3	1	NAN
+0	0	0	G	2	0	13	0		1	6	3	0	
+0	0	0	B	2	0	13	0		1	7	6	0	
+0	0	0	O	2	0	13	0		0	8	3	0	
+0	0	0	A	2	0	13	0		0	9	3	0	
+0	0	0	R	2	0	13	0		0	10	6	0	
+0	0	0	D	2	0	13	0		1	11	5	0	
+0	1	14	S	2	0	13	0		2	12	3	1	SYR
+0	1	15	A	3	0	3	1	ATE	1	0	4	0	
+0	0	0	T	3	0	3	0		0	1	6	0	
+0	0	0	E	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	0	0		4	3	5	0	
+1	0	0	#	3	5	3	0		4	4	5	0	
+0	1	16	A	3	5	3	1	ATL	2	5	3	0	
+0	0	0	T	3	5	3	0		1	6	3	0	
+0	0	0	L	3	5	3	0		1	7	6	0	
+1	0	0	#	3	9	0	0		4	8	5	0	
+1	0	0	#	3	10	3	0		4	9	5	0	
+0	1	17	D	3	10	3	1	DRY	0	10	6	0	
+0	0	0	R	3	10	3	0		1	11	5	0	
+0	0	0	Y	3	10	3	0		2	12	3	0	
+0	1	18	N	4	0	6	1	NESSEN	1	0	4	0	
+0	0	0	E	4	0	6	0		0	1	6	0	
+0	0	0	S	4	0	6	0		0	2	6	0	
+0	1	19	S	4	0	6	0		4	3	5	1	SEPTS
+0	1	20	E	4	0	6	0		4	4	5	1	EGYPT
+0	0	0	N	4	0	6	0		2	5	3	0	
+1	0	0	#	4	7	6	0		5	6	3	0	
+0	1	21	A	4	7	6	1	AIRIER	1	7	6	0	
+0	1	22	I	4	7	6	0		4	8	5	1	IHEAR
+0	1	23	R	4	7	6	0		4	9	5	1	RESEA
+0	0	0	I	4	7	6	0		0	10	6	0	
+0	0	0	E	4	7	6	0		1	11	5	0	
+0	0	0	R	4	7	6	0		2	12	3	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	24	R	5	1	4	1	ROEG	0	1	6	0	
+0	0	0	O	5	1	4	0		0	2	6	0	
+0	0	0	E	5	1	4	0		4	3	5	0	
+0	0	0	G	5	1	4	0		4	4	5	0	
+1	0	0	#	5	6	6	0		6	5	6	0	
+0	1	25	A	5	6	6	1	ASHEEP	5	6	3	1	AIT
+0	0	0	S	5	6	6	0		1	7	6	0	
+0	0	0	H	5	6	6	0		4	8	5	0	
+0	0	0	E	5	6	6	0		4	9	5	0	
+0	0	0	E	5	6	6	0		0	10	6	0	
+0	0	0	P	5	6	6	0		1	11	5	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	26	P	6	3	7	1	PYRITES	4	3	5	0	
+0	0	0	Y	6	3	7	0		4	4	5	0	
+0	1	27	R	6	3	7	0		6	5	6	1	ROARED
+0	0	0	I	6	3	7	0		5	6	3	0	
+0	0	0	T	6	3	7	0		1	7	6	0	
+0	0	0	E	6	3	7	0		4	8	5	0	
+0	0	0	S	6	3	7	0		4	9	5	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	28	H	7	1	6	1	HOTPOT	7	1	5	1	HIKED
+0	1	29	O	7	1	6	0		7	2	6	1	OEUVRE
+0	0	0	T	7	1	6	0		4	3	5	0	
+0	0	0	P	7	1	6	0		4	4	5	0	
+0	0	0	O	7	1	6	0		6	5	6	0	
+0	0	0	T	7	1	6	0		5	6	3	0	
+1	0	0	#	7	8	4	0		8	7	3	0	
+0	1	30	A	7	8	4	1	AEON	4	8	5	0	
+0	0	0	E	7	8	4	0		4	9	5	0	
+0	1	31	O	7	8	4	0		7	10	6	1	ONTOUR
+0	1	32	N	7	8	4	0		7	11	6	1	NUTOIL
+1	0	0	#	7	13	0	0		8	12	4	0	
+0	1	33	S	8	0	6	1	SIESTA	8	0	3	1	SAR
+0	0	0	I	8	0	6	0		7	1	5	0	
+0	0	0	E	8	0	6	0		7	2	6	0	
+0	0	0	S	8	0	6	0		4	3	5	0	
+0	0	0	T	8	0	6	0		4	4	5	0	
+0	0	0	A	8	0	6	0		6	5	6	0	
+1	0	0	#	8	7	6	0		9	6	3	0	
+0	1	34	U	8	7	6	1	URANUS	8	7	3	1	UPC
+0	0	0	R	8	7	6	0		4	8	5	0	
+0	0	0	A	8	7	6	0		4	9	5	0	
+0	0	0	N	8	7	6	0		7	10	6	0	
+0	0	0	U	8	7	6	0		7	11	6	0	
+0	1	35	S	8	7	6	0		8	12	4	1	STKS
+0	1	36	A	9	0	3	1	AKU	8	0	3	0	
+0	0	0	K	9	0	3	0		7	1	5	0	
+0	0	0	U	9	0	3	0		7	2	6	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	3	0		10	4	3	0	
+0	1	37	R	9	5	3	1	RUP	6	5	6	0	
+0	1	38	U	9	5	3	0		9	6	3	1	UNS
+0	0	0	P	9	5	3	0		8	7	3	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	T	9	10	3	1	TTT	7	10	6	0	
+0	0	0	T	9	10	3	0		7	11	6	0	
+0	0	0	T	9	10	3	0		8	12	4	0	
+0	1	40	R	10	0	13	1	REVERENCEBOOK	8	0	3	0	
+0	0	0	E	10	0	13	0		7	1	5	0	
+0	0	0	V	10	0	13	0		7	2	6	0	
+0	1	41	E	10	0	13	0		10	3	3	1	EOS
+0	1	42	R	10	0	13	0		10	4	3	1	RIP
+0	0	0	E	10	0	13	0		6	5	6	0	
+0	0	0	N	10	0	13	0		9	6	3	0	
+0	0	0	C	10	0	13	0		8	7	3	0	
+0	1	43	E	10	0	13	0		10	8	3	1	EEC
+0	1	44	B	10	0	13	0		10	9	3	1	BTU
+0	0	0	O	10	0	13	0		7	10	6	0	
+0	0	0	O	10	0	13	0		7	11	6	0	
+0	0	0	K	10	0	13	0		8	12	4	0	
+1	0	0	#	11	1	6	0		12	0	0	0	
+0	1	45	D	11	1	6	1	DROIDS	7	1	5	0	
+0	0	0	R	11	1	6	0		7	2	6	0	
+0	0	0	O	11	1	6	0		10	3	3	0	
+0	0	0	I	11	1	6	0		10	4	3	0	
+0	0	0	D	11	1	6	0		6	5	6	0	
+0	0	0	S	11	1	6	0		9	6	3	0	
+1	0	0	#	11	8	5	0		12	7	0	0	
+0	1	46	E	11	8	5	1	ETUIS	10	8	3	0	
+0	0	0	T	11	8	5	0		10	9	3	0	
+0	0	0	U	11	8	5	0		7	10	6	0	
+0	0	0	I	11	8	5	0		7	11	6	0	
+0	0	0	S	11	8	5	0		8	12	4	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	3	0		13	1	0	0	
+0	1	47	E	12	2	3	1	ESP	7	2	6	0	
+0	0	0	S	12	2	3	0		10	3	3	0	
+0	0	0	P	12	2	3	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	4	0		13	7	0	0	
+0	1	48	C	12	8	4	1	CURL	10	8	3	0	
+0	0	0	U	12	8	4	0		10	9	3	0	
+0	0	0	R	12	8	4	0		7	10	6	0	
+0	0	0	L	12	8	4	0		7	11	6	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+25
+1	FIES	Declarations of disgust
+5	GAB	Talk and talk and talk
+8	OLORD	Prayer start
+9	SOPHIA	Actress Loren
+12	RUNNINGBOARDS	Features of some antique autos
+15	ATE	Polished off
+16	ATL	QE2's domain: Abbr.
+17	DRY	Teetotaling
+18	NESSEN	White House press secretary who once hosted "Saturday Night Live"
+21	AIRIER	More delicate
+24	ROEG	Filmmaker Nicolas
+25	ASHEEP	Answer to the folk riddle "Over the hills, over the hills / Goes a fur coat"
+26	PYRITES	Brass-yellow minerals
+28	HOTPOT	Meat-and-vegetable stew
+30	AEON	Ages and ages
+33	SIESTA	Reason for a temporary shop closure
+34	URANUS	Planet beyond Saturn
+36	AKU	When doubled, a Thor Heyerdahl title
+37	RUP	Was revolting
+39	TTT	Game-winning cry
+40	REVERENCEBOOK	The Bible?
+45	DROIDS	Many "Star Wars" fighters
+46	ETUIS	Needle and thread holders
+47	ESP	Seer's gift, briefly
+48	CURL	Weightlifter's action
+31
+1	FLUTER	One who makes ornamental grooves
+2	IONESO	"Rhinoceros" playwright
+3	ERN	Compass point suffix
+4	SDI	High-tech program, for short
+5	GPO	Main mail ctr.
+6	AHA	"I get it!"
+7	BIRDIE	Teller of secrets, in a saying
+8	ORAN	City WNW of Mascara
+9	SGT	Driller: Abbr.
+10	OBLAST	Russia's Rostov, e.g.
+11	ADREP	Madison Ave. figure
+13	NAN	Britton who wrote "The President's Daughter," 1927
+14	SYR	Part of the former U.A.R.: Abbr.
+19	SEPTS	Times when Mexico and Brazil celebrate their independence: Abbr.
+20	EGYPT	Land from which Moses came
+22	IHEAR	Rumor starter
+23	RESEA	Roadside pull-off
+25	AIT	Land in a river
+27	ROARED	Guffawed
+28	HIKED	Followed a trail, maybe
+29	OEUVRE	Works
+31	ONTOUR	Going from concert to concert
+32	NUTOIL	Cooking agent
+33	SAR	River across the French/German border
+34	UPC	Bars in a checkout line, briefly
+35	STKS	Library section
+38	UNS	Young or wee follower
+41	EOS	Aurora's Greek counterpart
+42	RIP	Saw along the grain
+43	EEC	Treaty of Rome org.
+44	BTU	Air conditioner capacity, for short

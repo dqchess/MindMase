@@ -1,0 +1,235 @@
+grid_13x13_128
+13
+0	1	1	F	0	0	3	1	FUN	0	0	3	1	FOL
+0	1	2	U	0	0	3	0		0	1	3	1	UPA
+0	1	3	N	0	0	3	0		0	2	3	1	NSC
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	D	0	6	3	1	DMA	0	6	3	1	DRO
+0	1	5	M	0	6	3	0		0	7	3	1	MEM
+0	1	6	A	0	6	3	0		0	8	3	1	APE
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	8	0	
+1	0	0	#	0	12	0	0		1	11	4	0	
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	7	O	1	0	3	1	OPS	0	0	3	0	
+0	0	0	P	1	0	3	0		0	1	3	0	
+0	0	0	S	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	9	0		2	3	4	0	
+0	1	8	F	1	4	9	1	FIREPOWER	1	4	3	1	FYI
+0	1	9	I	1	4	9	0		1	5	4	1	ICKY
+0	0	0	R	1	4	9	0		0	6	3	0	
+0	0	0	E	1	4	9	0		0	7	3	0	
+0	0	0	P	1	4	9	0		0	8	3	0	
+0	1	10	O	1	4	9	0		1	9	5	1	OHARA
+0	1	11	W	1	4	9	0		1	10	8	1	WOMANISH
+0	1	12	E	1	4	9	0		1	11	4	1	EMIT
+0	1	13	R	1	4	9	0		1	12	3	1	REE
+0	1	14	L	2	0	13	1	LACEYCOMEHOME	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	3	0	
+0	0	0	C	2	0	13	0		0	2	3	0	
+0	1	15	E	2	0	13	0		2	3	4	1	EPIC
+0	0	0	Y	2	0	13	0		1	4	3	0	
+0	0	0	C	2	0	13	0		1	5	4	0	
+0	0	0	O	2	0	13	0		0	6	3	0	
+0	0	0	M	2	0	13	0		0	7	3	0	
+0	0	0	E	2	0	13	0		0	8	3	0	
+0	0	0	H	2	0	13	0		1	9	5	0	
+0	0	0	O	2	0	13	0		1	10	8	0	
+0	0	0	M	2	0	13	0		1	11	4	0	
+0	0	0	E	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	3	0	
+1	0	0	#	3	3	3	0		4	2	8	0	
+0	1	16	P	3	3	3	1	PIK	2	3	4	0	
+0	0	0	I	3	3	3	0		1	4	3	0	
+0	0	0	K	3	3	3	0		1	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	4	0		4	8	0	0	
+0	1	17	A	3	9	4	1	AMIE	1	9	5	0	
+0	0	0	M	3	9	4	0		1	10	8	0	
+0	0	0	I	3	9	4	0		1	11	4	0	
+0	0	0	E	3	9	4	0		1	12	3	0	
+0	1	18	I	4	0	4	1	INRI	4	0	3	1	IED
+0	1	19	N	4	0	4	0		4	1	3	1	NRC
+0	1	20	R	4	0	4	0		4	2	8	1	RICARDOS
+0	0	0	I	4	0	4	0		2	3	4	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	21	Y	4	5	3	1	YYB	1	5	4	0	
+0	1	22	Y	4	5	3	0		4	6	5	1	YOUVE
+0	1	23	B	4	5	3	0		4	7	3	1	BSC
+1	0	0	#	4	9	3	0		5	8	3	0	
+0	1	24	R	4	9	3	1	RAT	1	9	5	0	
+0	0	0	A	4	9	3	0		1	10	8	0	
+0	0	0	T	4	9	3	0		1	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	E	5	0	5	1	ERICA	4	0	3	0	
+0	0	0	R	5	0	5	0		4	1	3	0	
+0	0	0	I	5	0	5	0		4	2	8	0	
+0	0	0	C	5	0	5	0		2	3	4	0	
+0	1	26	A	5	0	5	0		5	4	3	1	ATN
+1	0	0	#	5	6	5	0		6	5	3	0	
+0	1	27	O	5	6	5	1	OSMAN	4	6	5	0	
+0	0	0	S	5	6	5	0		4	7	3	0	
+0	1	28	M	5	6	5	0		5	8	3	1	MEE
+0	0	0	A	5	6	5	0		1	9	5	0	
+0	0	0	N	5	6	5	0		1	10	8	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	D	6	0	3	1	DCC	4	0	3	0	
+0	0	0	C	6	0	3	0		4	1	3	0	
+0	0	0	C	6	0	3	0		4	2	8	0	
+1	0	0	#	6	4	5	0		7	3	5	0	
+0	1	30	T	6	4	5	1	TRUCE	5	4	3	0	
+0	1	31	R	6	4	5	0		6	5	3	1	RIN
+0	0	0	U	6	4	5	0		4	6	5	0	
+0	0	0	C	6	4	5	0		4	7	3	0	
+0	0	0	E	6	4	5	0		5	8	3	0	
+1	0	0	#	6	10	3	0		7	9	4	0	
+0	1	32	I	6	10	3	1	ICK	1	10	8	0	
+0	1	33	C	6	10	3	0		6	11	3	1	COR
+0	1	34	K	6	10	3	0		6	12	3	1	KNE
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	5	0		8	1	4	0	
+0	1	35	A	7	2	5	1	ANNIV	4	2	8	0	
+0	1	36	N	7	2	5	0		7	3	5	1	NICER
+0	0	0	N	7	2	5	0		5	4	3	0	
+0	0	0	I	7	2	5	0		6	5	3	0	
+0	0	0	V	7	2	5	0		4	6	5	0	
+1	0	0	#	7	8	5	0		8	7	4	0	
+0	1	37	E	7	8	5	1	EDSON	5	8	3	0	
+0	1	38	D	7	8	5	0		7	9	4	1	DIAZ
+0	0	0	S	7	8	5	0		1	10	8	0	
+0	0	0	O	7	8	5	0		6	11	3	0	
+0	0	0	N	7	8	5	0		6	12	3	0	
+1	0	0	#	8	1	3	0		9	0	3	0	
+0	1	39	M	8	1	3	1	MRI	8	1	4	1	MCLI
+0	0	0	R	8	1	3	0		4	2	8	0	
+0	0	0	I	8	1	3	0		7	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	40	N	8	5	3	1	NEK	6	5	3	0	
+0	0	0	E	8	5	3	0		4	6	5	0	
+0	1	41	K	8	5	3	0		8	7	4	1	KRFN
+1	0	0	#	8	9	4	0		9	8	3	0	
+0	1	42	I	8	9	4	1	IHRE	7	9	4	0	
+0	0	0	H	8	9	4	0		1	10	8	0	
+0	0	0	R	8	9	4	0		6	11	3	0	
+0	0	0	E	8	9	4	0		6	12	3	0	
+0	1	43	A	9	0	4	1	ACDC	9	0	3	1	ASD
+0	0	0	C	9	0	4	0		8	1	4	0	
+0	0	0	D	9	0	4	0		4	2	8	0	
+0	0	0	C	9	0	4	0		7	3	5	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	44	R	9	7	3	1	RDA	8	7	4	0	
+0	1	45	D	9	7	3	0		9	8	3	1	DIG
+0	0	0	A	9	7	3	0		7	9	4	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	S	10	0	13	1	SLOEGINFIZZLE	9	0	3	0	
+0	0	0	L	10	0	13	0		8	1	4	0	
+0	0	0	O	10	0	13	0		4	2	8	0	
+0	0	0	E	10	0	13	0		7	3	5	0	
+0	1	47	G	10	0	13	0		10	4	3	1	GOL
+0	1	48	I	10	0	13	0		10	5	3	1	IBI
+0	1	49	N	10	0	13	0		10	6	3	1	NIP
+0	0	0	F	10	0	13	0		8	7	4	0	
+0	0	0	I	10	0	13	0		9	8	3	0	
+0	0	0	Z	10	0	13	0		7	9	4	0	
+0	1	50	Z	10	0	13	0		10	10	3	1	ZAP
+0	1	51	L	10	0	13	0		10	11	3	1	LSI
+0	1	52	E	10	0	13	0		10	12	3	1	ETC
+0	1	53	D	11	0	9	1	DISROBING	9	0	3	0	
+0	0	0	I	11	0	9	0		8	1	4	0	
+0	0	0	S	11	0	9	0		4	2	8	0	
+0	0	0	R	11	0	9	0		7	3	5	0	
+0	0	0	O	11	0	9	0		10	4	3	0	
+0	0	0	B	11	0	9	0		10	5	3	0	
+0	0	0	I	11	0	9	0		10	6	3	0	
+0	0	0	N	11	0	9	0		8	7	4	0	
+0	0	0	G	11	0	9	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	54	A	11	10	3	1	AST	10	10	3	0	
+0	0	0	S	11	10	3	0		10	11	3	0	
+0	0	0	T	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	0	0		13	2	0	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	55	L	12	4	3	1	LIP	10	4	3	0	
+0	0	0	I	12	4	3	0		10	5	3	0	
+0	0	0	P	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	56	P	12	10	3	1	PIC	10	10	3	0	
+0	0	0	I	12	10	3	0		10	11	3	0	
+0	0	0	C	12	10	3	0		10	12	3	0	
+27
+1	FUN	Carnival's promise
+4	DMA	Basic teaching
+7	OPS	Special ___
+8	FIREPOWER	Military strength
+14	LACEYCOMEHOME	Plea for a TV cop?
+16	PIK	Water ____ (dental product company)
+17	AMIE	Jeanne to Jean, peut-
+18	INRI	Letters on a crucifix
+21	YYB	Eggs
+24	RAT	Double-crosser
+25	ERICA	Jong who wrote "Fear of Flying"
+27	OSMAN	Ottoman Empire founder
+29	DCC	Multiple of LXX
+30	TRUCE	Cease-fire
+32	ICK	Response to goo
+35	ANNIV	Cause for celebration: Abbr.
+37	EDSON	Pel
+39	MRI	Hosp. test in a tube
+40	NEK	Educational cable network
+42	IHRE	Their, in Munich
+43	ACDC	Electrician's favorite rock band?
+44	RDA	Vitamin label fig.
+46	SLOEGINFIZZLE	Fiasco at the bar?
+53	DISROBING	Stripping
+54	AST	Bermuda hrs.
+55	LIP	Modern piercing site
+56	PIC	Paparazzo's prize
+35
+1	FOL	Coming after: Abbr.
+2	UPA	"___ lazy river ..." (Bobby Darin lyric)
+3	NSC	Grp. advising the president
+4	DRO	Be an utter bore?
+5	MEM	Common calculator button
+6	APE	Gorilla
+8	FYI	Memo letters
+9	ICKY	Highly distasteful
+10	OHARA	Scarlett ___ of "Gone With the Wind"
+11	WOMANISH	Effeminate
+12	EMIT	Send out
+13	REE	Riddle-me-___ (line in a children's rhyme)
+15	EPIC	"Paradise Lost," e.g.
+18	IED	Weapon for Iraqi insurgents: Abbr.
+19	NRC	Atomic energy org.
+20	RICARDOS	TV family of the 1950's
+22	YOUVE	"___ Got a Friend"
+23	BSC	Deg. in biology or physics
+26	ATN	When some stores open
+28	MEE	English author and editor Arthur ___
+31	RIN	___ Tin Tin
+33	COR	___ anglais (English horn)
+34	KNE	Show obeisance
+36	NICER	Warmer and sunnier
+38	DIAZ	Rodrigo ___ de Vivar (El Cid)
+39	MCLI	Mid 12th-century year
+41	KRFN	Hungry mouths
+43	ASD	Comparable in years
+45	DIG	Get to the bottom of things?
+47	GOL	"Well, ___ darn!"
+48	IBI	There: Lat.
+49	NIP	Light bite
+50	ZAP	Microwave
+51	LSI	Long-running B'way musical seen by couples?
+52	ETC	And so forth, for short

@@ -1,0 +1,115 @@
+grid_9x9_137
+9
+0	1	1	J	0	0	3	1	JOG	0	0	3	1	JOT
+0	1	2	O	0	0	3	0		0	1	5	1	OSMAN
+0	1	3	G	0	0	3	0		0	2	5	1	GOSEE
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	5	0	
+0	1	4	T	0	6	3	1	THA	0	6	3	1	TOG
+0	1	5	H	0	6	3	0		0	7	3	1	HSI
+0	1	6	A	0	6	3	0		0	8	3	1	AEC
+0	1	7	O	1	0	3	1	OSO	0	0	3	0	
+0	0	0	S	1	0	3	0		0	1	5	0	
+0	0	0	O	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	5	0		2	3	0	0	
+0	1	8	B	1	4	5	1	BROSE	1	4	7	1	BLENDER
+0	1	9	R	1	4	5	0		1	5	5	1	ROSAS
+0	0	0	O	1	4	5	0		0	6	3	0	
+0	0	0	S	1	4	5	0		0	7	3	0	
+0	0	0	E	1	4	5	0		0	8	3	0	
+0	1	10	T	2	0	3	1	TMS	0	0	3	0	
+0	0	0	M	2	0	3	0		0	1	5	0	
+0	0	0	S	2	0	3	0		0	2	5	0	
+1	0	0	#	2	4	5	0		3	3	5	0	
+0	1	11	L	2	4	5	1	LOGIC	1	4	7	0	
+0	0	0	O	2	4	5	0		1	5	5	0	
+0	0	0	G	2	4	5	0		0	6	3	0	
+0	0	0	I	2	4	5	0		0	7	3	0	
+0	0	0	C	2	4	5	0		0	8	3	0	
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	12	A	3	1	5	1	AEDES	0	1	5	0	
+0	0	0	E	3	1	5	0		0	2	5	0	
+0	1	13	D	3	1	5	0		3	3	5	1	DOONE
+0	0	0	E	3	1	5	0		1	4	7	0	
+0	0	0	S	3	1	5	0		1	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	14	N	4	1	7	1	NEONATE	0	1	5	0	
+0	0	0	E	4	1	7	0		0	2	5	0	
+0	0	0	O	4	1	7	0		3	3	5	0	
+0	0	0	N	4	1	7	0		1	4	7	0	
+0	0	0	A	4	1	7	0		1	5	5	0	
+0	1	15	T	4	1	7	0		4	6	5	1	TONKA
+0	1	16	E	4	1	7	0		4	7	5	1	ENERO
+1	0	0	#	4	9	0	0		5	8	0	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	5	0		6	2	3	0	
+0	1	17	O	5	3	5	1	ODSON	3	3	5	0	
+0	0	0	D	5	3	5	0		1	4	7	0	
+0	0	0	S	5	3	5	0		1	5	5	0	
+0	0	0	O	5	3	5	0		4	6	5	0	
+0	0	0	N	5	3	5	0		4	7	5	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	W	6	0	5	1	WYNNE	6	0	3	1	WOP
+0	1	19	Y	6	0	5	0		6	1	3	1	YMA
+0	1	20	N	6	0	5	0		6	2	3	1	NBC
+0	0	0	N	6	0	5	0		3	3	5	0	
+0	0	0	E	6	0	5	0		1	4	7	0	
+1	0	0	#	6	6	3	0		7	5	0	0	
+0	1	21	N	6	6	3	1	NET	4	6	5	0	
+0	0	0	E	6	6	3	0		4	7	5	0	
+0	1	22	T	6	6	3	0		6	8	3	1	TAW
+0	1	23	O	7	0	5	1	OMBER	6	0	3	0	
+0	0	0	M	7	0	5	0		6	1	3	0	
+0	0	0	B	7	0	5	0		6	2	3	0	
+0	0	0	E	7	0	5	0		3	3	5	0	
+0	0	0	R	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	K	7	6	3	1	KRA	4	6	5	0	
+0	0	0	R	7	6	3	0		4	7	5	0	
+0	0	0	A	7	6	3	0		6	8	3	0	
+0	1	25	P	8	0	3	1	PAC	6	0	3	0	
+0	0	0	A	8	0	3	0		6	1	3	0	
+0	0	0	C	8	0	3	0		6	2	3	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	A	8	6	3	1	AOW	4	6	5	0	
+0	0	0	O	8	6	3	0		4	7	5	0	
+0	0	0	W	8	6	3	0		6	8	3	0	
+15
+1	JOG	Road bend
+4	THA	Article for Lil Wayne
+7	OSO	Bear, in Barcelona
+8	BROSE	Linger at a bookstore
+10	TMS	Logos and such: Abbr.
+11	LOGIC	Detective's skill
+12	AEDES	Yellow-fever mosquito
+14	NEONATE	Newborn
+17	ODSON	Has way too much of, slangily
+18	WYNNE	Arthur ___, inventor of the crossword puzzle
+21	NET	Tennis court divider
+23	OMBER	Old card game
+24	KRA	Malay Peninsula's Isthmus of ___
+25	PAC	Campaign funding grp.
+26	AOW	Scoot
+15
+1	JOT	Tittle
+2	OSMAN	Turkish Empire founder
+3	GOSEE	Visit
+4	TOG	Dress
+5	HSI	Fu-___ (legendary Chinese sage)
+6	AEC	N.R.C. predecessor
+8	BLENDER	Bartender's appliance
+9	ROSAS	Artist Bonheur and others
+13	DOONE	Blackmore heroine
+15	TONKA	Big name in little trucks
+16	ENERO	When Pl
+18	WOP	Doo-___ music
+19	YMA	Singer who appeared with Charlton in "Secret of the Incas"
+20	NBC	David Sarnoff's creation of 1926
+22	TAW	Showy shooter

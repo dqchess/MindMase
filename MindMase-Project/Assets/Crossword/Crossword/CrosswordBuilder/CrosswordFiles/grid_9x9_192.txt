@@ -1,0 +1,117 @@
+grid_9x9_192
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	E	0	1	3	1	EMI	0	1	4	1	EXPO
+0	1	2	M	0	1	3	0		0	2	4	1	MIRE
+0	1	3	I	0	1	3	0		0	3	3	1	III
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	P	0	6	3	1	PXS	0	6	4	1	POLI
+0	1	5	X	0	6	3	0		0	7	4	1	XKES
+0	1	6	S	0	6	3	0		0	8	3	1	SST
+0	1	7	L	1	0	5	1	LXIII	1	0	3	1	LST
+0	0	0	X	1	0	5	0		0	1	4	0	
+0	0	0	I	1	0	5	0		0	2	4	0	
+0	0	0	I	1	0	5	0		0	3	3	0	
+0	1	8	I	1	0	5	0		1	4	7	1	INRUINS
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	O	1	6	3	1	OKS	0	6	4	0	
+0	0	0	K	1	6	3	0		0	7	4	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	10	S	2	0	9	1	SPRINGLET	1	0	3	0	
+0	0	0	P	2	0	9	0		0	1	4	0	
+0	0	0	R	2	0	9	0		0	2	4	0	
+0	0	0	I	2	0	9	0		0	3	3	0	
+0	0	0	N	2	0	9	0		1	4	7	0	
+0	1	11	G	2	0	9	0		2	5	3	1	GBS
+0	0	0	L	2	0	9	0		0	6	4	0	
+0	0	0	E	2	0	9	0		0	7	4	0	
+0	0	0	T	2	0	9	0		0	8	3	0	
+0	1	12	T	3	0	3	1	TOE	1	0	3	0	
+0	0	0	O	3	0	3	0		0	1	4	0	
+0	0	0	E	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	R	3	4	4	1	RBIS	1	4	7	0	
+0	0	0	B	3	4	4	0		2	5	3	0	
+0	0	0	I	3	4	4	0		0	6	4	0	
+0	0	0	S	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	H	4	3	3	1	HUS	4	3	3	1	HOO
+0	0	0	U	4	3	3	0		1	4	7	0	
+0	0	0	S	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	T	5	1	4	1	TROI	5	1	4	1	TOPI
+0	1	16	R	5	1	4	0		5	2	4	1	RTES
+0	0	0	O	5	1	4	0		4	3	3	0	
+0	0	0	I	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	P	5	6	3	1	PEG	5	6	4	1	PAVE
+0	1	18	E	5	6	3	0		5	7	4	1	ENES
+0	1	19	G	5	6	3	0		5	8	3	1	GDR
+0	1	20	N	6	0	9	1	NOTONHAND	6	0	3	1	NAB
+0	0	0	O	6	0	9	0		5	1	4	0	
+0	0	0	T	6	0	9	0		5	2	4	0	
+0	0	0	O	6	0	9	0		4	3	3	0	
+0	0	0	N	6	0	9	0		1	4	7	0	
+0	1	21	H	6	0	9	0		6	5	3	1	HAB
+0	0	0	A	6	0	9	0		5	6	4	0	
+0	0	0	N	6	0	9	0		5	7	4	0	
+0	0	0	D	6	0	9	0		5	8	3	0	
+0	1	22	A	7	0	3	1	APE	6	0	3	0	
+0	0	0	P	7	0	3	0		5	1	4	0	
+0	0	0	E	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	S	7	4	5	1	SAVER	1	4	7	0	
+0	0	0	A	7	4	5	0		6	5	3	0	
+0	0	0	V	7	4	5	0		5	6	4	0	
+0	0	0	E	7	4	5	0		5	7	4	0	
+0	0	0	R	7	4	5	0		5	8	3	0	
+0	1	24	B	8	0	3	1	BIS	6	0	3	0	
+0	0	0	I	8	0	3	0		5	1	4	0	
+0	0	0	S	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	B	8	5	3	1	BES	6	5	3	0	
+0	0	0	E	8	5	3	0		5	6	4	0	
+0	0	0	S	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	EMI	Record inits.
+4	PXS	Mil. stores
+7	LXIII	Super Bowl of 2029
+9	OKS	Signs off on
+10	SPRINGLET	Pool opening
+12	TOE	Dactyl
+13	RBIS	D.H.'s pride
+14	HUS	Czech martyr Jan
+15	TROI	"Star Trek: T.N.G." counselor Deanna
+17	PEG	Hard throw, in baseball
+20	NOTONHAND	Absent
+22	APE	Bad way to go?
+23	SAVER	Lifeguard, sometimes
+24	BIS	Recital hall shout
+25	BES	Ball girls?
+17
+1	EXPO	Really big show
+2	MIRE	Bad thing to get stuck in
+3	III	1969 Super Bowl
+4	POLI	___ sci
+5	XKES	Jaguar models
+6	SST	BA or AF plane
+7	LST	U.S.N. craft
+8	INRUINS	Devastated
+11	GBS	"Pygmalion" monogram
+14	HOO	"Yoo-__!"
+15	TOPI	Sun hat
+16	RTES	Sts. and rds.
+17	PAVE	Surface
+18	ENES	Endings for hydrocarbons
+19	GDR	Warsaw Pact member, initially
+20	NAB	Get the drop on
+21	HAB	Book before Zephaniah: Abbr.

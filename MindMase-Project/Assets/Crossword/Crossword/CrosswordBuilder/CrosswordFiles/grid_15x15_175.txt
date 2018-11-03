@@ -1,0 +1,307 @@
+grid_15x15_175
+15
+0	1	1	E	0	0	3	1	EWE	0	0	3	1	ECG
+0	1	2	W	0	0	3	0		0	1	4	1	WORF
+0	1	3	E	0	0	3	0		0	2	15	1	EWESCOMMONSENSE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	G	0	4	3	1	GTD	0	4	6	1	GROANS
+0	1	5	T	0	4	3	0		0	5	8	1	TORRENTS
+0	1	6	D	0	4	3	0		0	6	3	1	DOI
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	4	0		1	9	5	0	
+0	1	7	O	0	10	4	1	OOFS	0	10	3	1	OCH
+0	1	8	O	0	10	4	0		0	11	3	1	OVA
+0	1	9	F	0	10	4	0		0	12	15	1	FINALRESOLUTION
+0	1	10	S	0	10	4	0		0	13	5	1	SETAE
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	11	C	1	0	3	1	COW	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	4	0	
+0	0	0	W	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	12	R	1	4	4	1	ROOD	0	4	6	0	
+0	0	0	O	1	4	4	0		0	5	8	0	
+0	0	0	O	1	4	4	0		0	6	3	0	
+0	1	13	D	1	4	4	0		1	7	3	1	DAH
+1	0	0	#	1	9	5	0		2	8	3	0	
+0	1	14	M	1	9	5	1	MCVIE	1	9	5	1	MCGEE
+0	0	0	C	1	9	5	0		0	10	3	0	
+0	0	0	V	1	9	5	0		0	11	3	0	
+0	0	0	I	1	9	5	0		0	12	15	0	
+0	0	0	E	1	9	5	0		0	13	5	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	G	2	0	15	1	GREGORIANCHANTS	0	0	3	0	
+0	0	0	R	2	0	15	0		0	1	4	0	
+0	0	0	E	2	0	15	0		0	2	15	0	
+0	1	16	G	2	0	15	0		2	3	3	1	GTS
+0	0	0	O	2	0	15	0		0	4	6	0	
+0	0	0	R	2	0	15	0		0	5	8	0	
+0	0	0	I	2	0	15	0		0	6	3	0	
+0	0	0	A	2	0	15	0		1	7	3	0	
+0	1	17	N	2	0	15	0		2	8	3	1	NOG
+0	0	0	C	2	0	15	0		1	9	5	0	
+0	0	0	H	2	0	15	0		0	10	3	0	
+0	0	0	A	2	0	15	0		0	11	3	0	
+0	0	0	N	2	0	15	0		0	12	15	0	
+0	0	0	T	2	0	15	0		0	13	5	0	
+0	1	18	S	2	0	15	0		2	14	3	1	SSS
+1	0	0	#	3	1	5	0		4	0	0	0	
+0	1	19	F	3	1	5	1	FSTAR	0	1	4	0	
+0	0	0	S	3	1	5	0		0	2	15	0	
+0	0	0	T	3	1	5	0		2	3	3	0	
+0	0	0	A	3	1	5	0		0	4	6	0	
+0	0	0	R	3	1	5	0		0	5	8	0	
+1	0	0	#	3	7	3	0		4	6	0	0	
+0	1	20	H	3	7	3	1	HOG	1	7	3	0	
+0	0	0	O	3	7	3	0		2	8	3	0	
+0	0	0	G	3	7	3	0		1	9	5	0	
+1	0	0	#	3	11	0	0		4	10	4	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	21	A	3	12	3	1	AAS	0	12	15	0	
+0	0	0	A	3	12	3	0		0	13	5	0	
+0	0	0	S	3	12	3	0		2	14	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	4	0		5	1	4	0	
+0	1	22	C	4	2	4	1	CSNE	0	2	15	0	
+0	0	0	S	4	2	4	0		2	3	3	0	
+0	0	0	N	4	2	4	0		0	4	6	0	
+0	0	0	E	4	2	4	0		0	5	8	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	7	0		5	7	5	0	
+0	1	23	G	4	8	7	1	GENTLES	2	8	3	0	
+0	0	0	E	4	8	7	0		1	9	5	0	
+0	1	24	N	4	8	7	0		4	10	4	1	NGOR
+0	1	25	T	4	8	7	0		4	11	3	1	TED
+0	0	0	L	4	8	7	0		0	12	15	0	
+0	0	0	E	4	8	7	0		0	13	5	0	
+0	0	0	S	4	8	7	0		2	14	3	0	
+0	1	26	I	5	0	3	1	IWO	5	0	3	1	ISH
+0	1	27	W	5	0	3	0		5	1	4	1	WEED
+0	0	0	O	5	0	3	0		0	2	15	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	28	S	5	4	4	1	SNOT	0	4	6	0	
+0	0	0	N	5	4	4	0		0	5	8	0	
+0	1	29	O	5	4	4	0		5	6	4	1	OARS
+0	1	30	T	5	4	4	0		5	7	5	1	TRITT
+1	0	0	#	5	9	4	0		6	8	4	0	
+0	1	31	E	5	9	4	1	EGER	1	9	5	0	
+0	0	0	G	5	9	4	0		4	10	4	0	
+0	0	0	E	5	9	4	0		4	11	3	0	
+0	0	0	R	5	9	4	0		0	12	15	0	
+1	0	0	#	5	14	0	0		6	13	4	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	32	S	6	0	3	1	SEM	5	0	3	0	
+0	0	0	E	6	0	3	0		5	1	4	0	
+0	0	0	M	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	4	0		7	4	4	0	
+0	1	33	T	6	5	4	1	TARE	0	5	8	0	
+0	0	0	A	6	5	4	0		5	6	4	0	
+0	0	0	R	6	5	4	0		5	7	5	0	
+0	1	34	E	6	5	4	0		6	8	4	1	EVAS
+1	0	0	#	6	10	4	0		7	9	8	0	
+0	1	35	O	6	10	4	1	ODER	4	10	4	0	
+0	0	0	D	6	10	4	0		4	11	3	0	
+0	0	0	E	6	10	4	0		0	12	15	0	
+0	1	36	R	6	10	4	0		6	13	4	1	RISK
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	37	H	7	0	3	1	HEM	5	0	3	0	
+0	0	0	E	7	0	3	0		5	1	4	0	
+0	0	0	M	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	3	0	
+0	1	38	U	7	4	7	1	USRIVER	7	4	4	1	USDA
+0	0	0	S	7	4	7	0		0	5	8	0	
+0	0	0	R	7	4	7	0		5	6	4	0	
+0	0	0	I	7	4	7	0		5	7	5	0	
+0	0	0	V	7	4	7	0		6	8	4	0	
+0	1	39	E	7	4	7	0		7	9	8	1	EXCESSES
+0	0	0	R	7	4	7	0		4	10	4	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	40	S	7	12	3	1	SIE	0	12	15	0	
+0	0	0	I	7	12	3	0		6	13	4	0	
+0	1	41	E	7	12	3	0		7	14	3	1	EAP
+1	0	0	#	8	1	4	0		9	0	0	0	
+0	1	42	D	8	1	4	1	DOWS	5	1	4	0	
+0	0	0	O	8	1	4	0		0	2	15	0	
+0	1	43	W	8	1	4	0		8	3	3	1	WOE
+0	0	0	S	8	1	4	0		7	4	4	0	
+1	0	0	#	8	6	4	0		9	5	5	0	
+0	1	44	S	8	6	4	1	STAX	5	6	4	0	
+0	0	0	T	8	6	4	0		5	7	5	0	
+0	0	0	A	8	6	4	0		6	8	4	0	
+0	0	0	X	8	6	4	0		7	9	8	0	
+1	0	0	#	8	11	0	0		9	10	6	0	
+1	0	0	#	8	12	3	0		9	11	0	0	
+0	1	45	O	8	12	3	1	OSA	0	12	15	0	
+0	0	0	S	8	12	3	0		6	13	4	0	
+0	0	0	A	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	5	0	
+0	1	46	N	9	2	4	1	NODE	0	2	15	0	
+0	0	0	O	9	2	4	0		8	3	3	0	
+0	0	0	D	9	2	4	0		7	4	4	0	
+0	1	47	E	9	2	4	0		9	5	5	1	ESTOP
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	48	T	9	7	4	1	TSCA	5	7	5	0	
+0	0	0	S	9	7	4	0		6	8	4	0	
+0	0	0	C	9	7	4	0		7	9	8	0	
+0	1	49	A	9	7	4	0		9	10	6	1	ACCENT
+1	0	0	#	9	12	3	0		10	11	3	0	
+0	1	50	L	9	12	3	1	LKP	0	12	15	0	
+0	0	0	K	9	12	3	0		6	13	4	0	
+0	0	0	P	9	12	3	0		7	14	3	0	
+0	1	51	D	10	0	7	1	DISEASE	10	0	3	1	DEO
+0	1	52	I	10	0	7	0		10	1	5	1	IMNOT
+0	0	0	S	10	0	7	0		0	2	15	0	
+0	0	0	E	10	0	7	0		8	3	3	0	
+0	0	0	A	10	0	7	0		7	4	4	0	
+0	0	0	S	10	0	7	0		9	5	5	0	
+0	1	53	E	10	0	7	0		10	6	3	1	ERR
+1	0	0	#	10	8	0	0		11	7	3	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	54	E	10	9	4	1	ECRU	7	9	8	0	
+0	0	0	C	10	9	4	0		9	10	6	0	
+0	1	55	R	10	9	4	0		10	11	3	1	RAR
+0	0	0	U	10	9	4	0		0	12	15	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	56	E	11	0	3	1	EME	10	0	3	0	
+0	0	0	M	11	0	3	0		10	1	5	0	
+0	0	0	E	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	3	0		12	4	3	0	
+0	1	57	T	11	5	3	1	TRW	9	5	5	0	
+0	0	0	R	11	5	3	0		10	6	3	0	
+0	1	58	W	11	5	3	0		11	7	3	1	WLE
+1	0	0	#	11	9	5	0		12	8	3	0	
+0	1	59	S	11	9	5	1	SCATS	7	9	8	0	
+0	0	0	C	11	9	5	0		9	10	6	0	
+0	0	0	A	11	9	5	0		10	11	3	0	
+0	0	0	T	11	9	5	0		0	12	15	0	
+0	1	60	S	11	9	5	0		11	13	4	1	SERT
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	61	O	12	0	15	1	ONNFWORLDSERIES	10	0	3	0	
+0	0	0	N	12	0	15	0		10	1	5	0	
+0	0	0	N	12	0	15	0		0	2	15	0	
+0	1	62	F	12	0	15	0		12	3	3	1	FTC
+0	1	63	W	12	0	15	0		12	4	3	1	WES
+0	0	0	O	12	0	15	0		9	5	5	0	
+0	0	0	R	12	0	15	0		10	6	3	0	
+0	0	0	L	12	0	15	0		11	7	3	0	
+0	1	64	D	12	0	15	0		12	8	3	1	DWI
+0	0	0	S	12	0	15	0		7	9	8	0	
+0	0	0	E	12	0	15	0		9	10	6	0	
+0	0	0	R	12	0	15	0		10	11	3	0	
+0	0	0	I	12	0	15	0		0	12	15	0	
+0	0	0	E	12	0	15	0		11	13	4	0	
+0	1	65	S	12	0	15	0		12	14	3	1	STS
+1	0	0	#	13	1	5	0		14	0	0	0	
+0	1	66	O	13	1	5	1	OSTEP	10	1	5	0	
+0	0	0	S	13	1	5	0		0	2	15	0	
+0	0	0	T	13	1	5	0		12	3	3	0	
+0	0	0	E	13	1	5	0		12	4	3	0	
+0	0	0	P	13	1	5	0		9	5	5	0	
+1	0	0	#	13	7	4	0		14	6	0	0	
+0	1	67	E	13	7	4	1	EWEN	11	7	3	0	
+0	0	0	W	13	7	4	0		12	8	3	0	
+0	0	0	E	13	7	4	0		7	9	8	0	
+0	0	0	N	13	7	4	0		9	10	6	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	68	O	13	12	3	1	ORT	0	12	15	0	
+0	0	0	R	13	12	3	0		11	13	4	0	
+0	0	0	T	13	12	3	0		12	14	3	0	
+1	0	0	#	14	1	4	0		15	0	0	0	
+0	1	69	T	14	1	4	1	TECS	10	1	5	0	
+0	0	0	E	14	1	4	0		0	2	15	0	
+0	0	0	C	14	1	4	0		12	3	3	0	
+0	0	0	S	14	1	4	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	70	I	14	8	3	1	IST	12	8	3	0	
+0	0	0	S	14	8	3	0		7	9	8	0	
+0	0	0	T	14	8	3	0		9	10	6	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	71	N	14	12	3	1	NTS	0	12	15	0	
+0	0	0	T	14	12	3	0		11	13	4	0	
+0	0	0	S	14	12	3	0		12	14	3	0	
+39
+1	EWE	Kind of lamb
+4	GTD	Ensured: Abbr.
+7	OOFS	Punch lines?
+11	COW	It may be put out to pasture
+12	ROOD	Crucifix
+14	MCVIE	John or Christine of Fleetwood Mac
+15	GREGORIANCHANTS	They're always unaccompanied
+19	FSTAR	Highest-rated, as a hotel
+20	HOG	Not a sharer
+21	AAS	Smallish batteries
+22	CSNE	Fruit holder
+23	GENTLES	Domesticates
+26	IWO	W.W. II battle site, familiarly
+28	SNOT	One who's standoffish
+31	EGER	Bavarian river
+32	SEM	Relig. school
+33	TARE	Weight allowance
+35	ODER	___-Spree Canal
+37	HEM	Clothes line
+38	USRIVER	The N. Platte, e.g.
+40	SIE	Trademarked marker
+42	DOWS	Gives, old-style
+44	STAX	Record label whose house band was Booker T. & the M.G.'s
+45	OSA	Mama grizzly, south of the border
+46	NODE	Junction point
+48	TSCA	Puccini soprano
+50	LKP	British verb ending
+51	DISEASE	Affliction
+54	ECRU	Neutral hue
+56	EME	Suffix in linguistics
+57	TRW	Cleveland-based high-tech co.
+59	SCATS	Sings like Torm
+61	ONNFWORLDSERIES	Event that didn't happen
+66	OSTEP	Ragtime dance
+67	EWEN	Gershwin biographer David
+68	ORT	Meal bit
+69	TECS	Private eyes, slangily
+70	IST	Left end?
+71	NTS	Some Windows systems
+39
+1	ECG	Thing that keeps track of the beat?: Abbr.
+2	WORF	Klingon on "Star Trek: T.N.G."
+3	EWESCOMMONSENSE	Sheepish judgment?
+4	GROANS	Sounds like an old floorboard
+5	TORRENTS	Heavy downpours
+6	DOI	Question before "And how!"
+7	OCH	Gaelic "Oh my!"
+8	OVA	Eggs in a lab
+9	FINALRESOLUTION	Very end of a conflict
+10	SETAE	Caterpillar hairs
+13	DAH	Dit's counterpart in Morse code
+14	MCGEE	1985 N.L. M.V.P.
+16	GTS	Fast sports cars
+17	NOG	Eggy quaff
+18	SSS	Lottery runner: Abbr.
+24	NGOR	"The Killing Fields" actor Haing S. ___
+25	TED	Hall-of-Famer Williams
+26	ISH	Suffix with sheep or goat
+27	WEED	Lawn eyesore
+29	OARS	Equipment for strokes
+30	TRITT	Country star Travis
+34	EVAS	Spacewalks and moonwalks, briefly
+36	RISK	Game played on a world map
+38	USDA	Meat approver, for short
+39	EXCESSES	Superfluities
+41	EAP	Literary inits.
+43	WOE	Fate of Wednesday's child
+47	ESTOP	Thwart in court
+49	ACCENT	One of two in "r
+51	DEO	___ volente (God willing)
+52	IMNOT	"___ impressed"
+53	ERR	Slip up
+55	RAR	Soldier
+58	WLE	Corduroy ridge
+60	SERT	Spanish muralist
+62	FTC	Consumer protection org.
+63	WES	Director Craven
+64	DWI	Drinker's road offense, for short
+65	STS	Ways around: Abbr.

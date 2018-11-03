@@ -1,0 +1,165 @@
+grid_11x11_18
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	Q	0	1	3	1	QIX	0	1	5	1	QUIRE
+0	1	2	I	0	1	3	0		0	2	5	1	INCAN
+0	1	3	X	0	1	3	0		0	3	3	1	XLI
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	I	0	7	3	1	ISO	0	7	6	1	ISIDRO
+0	1	5	S	0	7	3	0		0	8	5	1	SANAA
+0	1	6	O	0	7	3	0		0	9	5	1	OTOWN
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	7	U	1	1	5	1	UNLAX	0	1	5	0	
+0	0	0	N	1	1	5	0		0	2	5	0	
+0	0	0	L	1	1	5	0		0	3	3	0	
+0	1	8	A	1	1	5	0		1	4	7	1	AERATED
+0	1	9	X	1	1	5	0		1	5	9	1	XRAYSPECS
+1	0	0	#	1	7	3	0		2	6	0	0	
+0	1	10	S	1	7	3	1	SAT	0	7	6	0	
+0	0	0	A	1	7	3	0		0	8	5	0	
+0	0	0	T	1	7	3	0		0	9	5	0	
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	D	2	0	6	1	DICIER	2	0	3	1	DOS
+0	0	0	I	2	0	6	0		0	1	5	0	
+0	0	0	C	2	0	6	0		0	2	5	0	
+0	0	0	I	2	0	6	0		0	3	3	0	
+0	0	0	E	2	0	6	0		1	4	7	0	
+0	0	0	R	2	0	6	0		1	5	9	0	
+1	0	0	#	2	7	4	0		3	6	7	0	
+0	1	12	I	2	7	4	1	INOT	0	7	6	0	
+0	0	0	N	2	7	4	0		0	8	5	0	
+0	0	0	O	2	7	4	0		0	9	5	0	
+0	1	13	T	2	7	4	0		2	10	3	1	TND
+0	1	14	O	3	0	3	1	ORA	2	0	3	0	
+0	0	0	R	3	0	3	0		0	1	5	0	
+0	0	0	A	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	7	0		4	3	0	0	
+0	1	15	R	3	4	7	1	RAEDAWN	1	4	7	0	
+0	0	0	A	3	4	7	0		1	5	9	0	
+0	1	16	E	3	4	7	0		3	6	7	1	ENSTEEL
+0	0	0	D	3	4	7	0		0	7	6	0	
+0	0	0	A	3	4	7	0		0	8	5	0	
+0	0	0	W	3	4	7	0		0	9	5	0	
+0	0	0	N	3	4	7	0		2	10	3	0	
+0	1	17	S	4	0	3	1	SEN	2	0	3	0	
+0	0	0	E	4	0	3	0		0	1	5	0	
+0	0	0	N	4	0	3	0		0	2	5	0	
+1	0	0	#	4	4	7	0		5	3	6	0	
+0	1	18	A	4	4	7	1	AYNRAND	1	4	7	0	
+0	0	0	Y	4	4	7	0		1	5	9	0	
+0	0	0	N	4	4	7	0		3	6	7	0	
+0	0	0	R	4	4	7	0		0	7	6	0	
+0	0	0	A	4	4	7	0		0	8	5	0	
+0	0	0	N	4	4	7	0		0	9	5	0	
+0	0	0	D	4	4	7	0		2	10	3	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	19	I	5	3	5	1	ITSSO	5	3	6	1	ICIEST
+0	0	0	T	5	3	5	0		1	4	7	0	
+0	0	0	S	5	3	5	0		1	5	9	0	
+0	0	0	S	5	3	5	0		3	6	7	0	
+0	0	0	O	5	3	5	0		0	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+0	1	20	P	6	0	7	1	PRECEPT	6	0	3	1	PKG
+0	1	21	R	6	0	7	0		6	1	5	1	RIATA
+0	1	22	E	6	0	7	0		6	2	5	1	EKYHN
+0	0	0	C	6	0	7	0		5	3	6	0	
+0	0	0	E	6	0	7	0		1	4	7	0	
+0	0	0	P	6	0	7	0		1	5	9	0	
+0	0	0	T	6	0	7	0		3	6	7	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	23	Y	6	8	3	1	YAO	6	8	5	1	YESNO
+0	1	24	A	6	8	3	0		6	9	5	1	AGEES
+0	1	25	O	6	8	3	0		6	10	3	1	OHS
+0	1	26	K	7	0	7	1	KIKIDEE	6	0	3	0	
+0	0	0	I	7	0	7	0		6	1	5	0	
+0	0	0	K	7	0	7	0		6	2	5	0	
+0	0	0	I	7	0	7	0		5	3	6	0	
+0	0	0	D	7	0	7	0		1	4	7	0	
+0	0	0	E	7	0	7	0		1	5	9	0	
+0	0	0	E	7	0	7	0		3	6	7	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	27	E	7	8	3	1	EGH	6	8	5	0	
+0	0	0	G	7	8	3	0		6	9	5	0	
+0	0	0	H	7	8	3	0		6	10	3	0	
+0	1	28	G	8	0	4	1	GAYE	6	0	3	0	
+0	0	0	A	8	0	4	0		6	1	5	0	
+0	0	0	Y	8	0	4	0		6	2	5	0	
+0	0	0	E	8	0	4	0		5	3	6	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	29	C	8	5	6	1	CEASES	1	5	9	0	
+0	0	0	E	8	5	6	0		3	6	7	0	
+0	1	30	A	8	5	6	0		8	7	3	1	AIR
+0	0	0	S	8	5	6	0		6	8	5	0	
+0	0	0	E	8	5	6	0		6	9	5	0	
+0	0	0	S	8	5	6	0		6	10	3	0	
+1	0	0	#	9	1	3	0		10	0	0	0	
+0	1	31	T	9	1	3	1	THS	6	1	5	0	
+0	0	0	H	9	1	3	0		6	2	5	0	
+0	0	0	S	9	1	3	0		5	3	6	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	32	S	9	5	5	1	SLINE	1	5	9	0	
+0	0	0	L	9	5	5	0		3	6	7	0	
+0	0	0	I	9	5	5	0		8	7	3	0	
+0	0	0	N	9	5	5	0		6	8	5	0	
+0	0	0	E	9	5	5	0		6	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	33	A	10	1	3	1	ANT	6	1	5	0	
+0	0	0	N	10	1	3	0		6	2	5	0	
+0	0	0	T	10	1	3	0		5	3	6	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	34	R	10	7	3	1	ROS	8	7	3	0	
+0	0	0	O	10	7	3	0		6	8	5	0	
+0	0	0	S	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	QIX	Popular 1980s arcade game based on simple geometry
+4	ISO	Prefix with magnetic
+7	UNLAX	Take it easy, slangily
+10	SAT	Used a tuffet
+11	DICIER	Less certain
+12	INOT	"How could ___?"
+14	ORA	60 minutes, in Siena
+15	RAEDAWN	Actress ___ Chong
+17	SEN	Bill passer: Abbr.
+18	AYNRAND	Who wrote "Wealth is the product of man's capacity to think"
+19	ITSSO	Linda Ronstadt's "___ Easy"
+20	PRECEPT	Commandment
+23	YAO	7' 5" Ming
+26	KIKIDEE	"I've Got the Music in Me" singer, 1974
+27	EGH	French vineyard
+28	GAYE	Soul's Marvin
+29	CEASES	Ends
+31	THS	Music, dance, painting, etc.
+32	SLINE	Ticket buyer
+33	ANT	Tidbit for an aardvark
+34	ROS	Author Asquith of children's books
+19
+1	QUIRE	24 sheets of paper
+2	INCAN	Like an old Andean empire
+3	XLI	Year Caligula was assassinated
+4	ISIDRO	San ___, Argentina
+5	SANAA	Yemen's capital
+6	OTOWN	Boy band with the hit "Liquid Dreams"
+8	AERATED	Poked holes in, say
+9	XRAYSPECS	Novelty item in comic book ads
+11	DOS	Opposite of no-nos
+13	TND	February ___ (Groundhog Day)
+16	ENSTEEL	Strengthen
+19	ICIEST	Least amiable
+20	PKG	Env. alternative
+21	RIATA	Rope with a loop
+22	EKYHN	Brainteaser
+23	YESNO	Having no gray area
+24	AGEES	Writer James and others
+25	OHS	Quaker product
+30	AIR	Part of A/C

@@ -1,0 +1,169 @@
+grid_11x11_89
+11
+0	1	1	N	0	0	4	1	NOTA	0	0	3	1	NUB
+0	1	2	O	0	0	4	0		0	1	3	1	OSO
+0	1	3	T	0	0	4	0		0	2	11	1	TETRAHEDRON
+0	1	4	A	0	0	4	0		0	3	4	1	AITS
+1	0	0	#	0	5	0	0		1	4	6	0	
+1	0	0	#	0	6	5	0		1	5	0	0	
+0	1	5	S	0	6	5	1	SCALE	0	6	3	1	SOR
+0	1	6	C	0	6	5	0		0	7	4	1	CION
+0	1	7	A	0	6	5	0		0	8	11	1	ALUMINUMORE
+0	1	8	L	0	6	5	0		0	9	7	1	LENIENT
+0	1	9	E	0	6	5	0		0	10	3	1	EDD
+0	1	10	U	1	0	5	1	USEIN	0	0	3	0	
+0	0	0	S	1	0	5	0		0	1	3	0	
+0	0	0	E	1	0	5	0		0	2	11	0	
+0	0	0	I	1	0	5	0		0	3	4	0	
+0	1	11	N	1	0	5	0		1	4	6	1	NOTYET
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	12	O	1	6	5	1	OILED	0	6	3	0	
+0	0	0	I	1	6	5	0		0	7	4	0	
+0	0	0	L	1	6	5	0		0	8	11	0	
+0	0	0	E	1	6	5	0		0	9	7	0	
+0	0	0	D	1	6	5	0		0	10	3	0	
+0	1	13	B	2	0	11	1	BOTTOMROUND	0	0	3	0	
+0	0	0	O	2	0	11	0		0	1	3	0	
+0	0	0	T	2	0	11	0		0	2	11	0	
+0	0	0	T	2	0	11	0		0	3	4	0	
+0	0	0	O	2	0	11	0		1	4	6	0	
+0	1	14	M	2	0	11	0		2	5	7	1	MUESLIS
+0	0	0	R	2	0	11	0		0	6	3	0	
+0	0	0	O	2	0	11	0		0	7	4	0	
+0	0	0	U	2	0	11	0		0	8	11	0	
+0	0	0	N	2	0	11	0		0	9	7	0	
+0	0	0	D	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	7	0	
+0	1	15	R	3	2	4	1	RSTU	0	2	11	0	
+0	0	0	S	3	2	4	0		0	3	4	0	
+0	0	0	T	3	2	4	0		1	4	6	0	
+0	0	0	U	3	2	4	0		2	5	7	0	
+1	0	0	#	3	7	3	0		4	6	6	0	
+0	1	16	N	3	7	3	1	NMI	0	7	4	0	
+0	0	0	M	3	7	3	0		0	8	11	0	
+0	0	0	I	3	7	3	0		0	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	A	4	0	3	1	AGA	4	0	3	1	AHA
+0	1	18	G	4	0	3	0		4	1	7	1	GESTAPO
+0	0	0	A	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	19	Y	4	4	3	1	YEO	1	4	6	0	
+0	0	0	E	4	4	3	0		2	5	7	0	
+0	1	20	O	4	4	3	0		4	6	6	1	OOCYTE
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	21	I	4	8	3	1	IES	0	8	11	0	
+0	0	0	E	4	8	3	0		0	9	7	0	
+0	1	22	S	4	8	3	0		4	10	3	1	SWA
+0	1	23	H	5	0	3	1	HEH	4	0	3	0	
+0	0	0	E	5	0	3	0		4	1	7	0	
+0	0	0	H	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	24	E	5	4	3	1	ESO	1	4	6	0	
+0	0	0	S	5	4	3	0		2	5	7	0	
+0	0	0	O	5	4	3	0		4	6	6	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	25	N	5	8	3	1	NNW	0	8	11	0	
+0	0	0	N	5	8	3	0		0	9	7	0	
+0	0	0	W	5	8	3	0		4	10	3	0	
+0	1	26	A	6	0	3	1	ASE	4	0	3	0	
+0	0	0	S	6	0	3	0		4	1	7	0	
+0	0	0	E	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	4	0	
+0	1	27	T	6	4	3	1	TLC	1	4	6	0	
+0	0	0	L	6	4	3	0		2	5	7	0	
+0	0	0	C	6	4	3	0		4	6	6	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	28	U	6	8	3	1	UTA	0	8	11	0	
+0	0	0	T	6	8	3	0		0	9	7	0	
+0	0	0	A	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	29	T	7	1	3	1	TDS	4	1	7	0	
+0	0	0	D	7	1	3	0		0	2	11	0	
+0	1	30	S	7	1	3	0		7	3	4	1	SVEN
+1	0	0	#	7	5	4	0		8	4	3	0	
+0	1	31	I	7	5	4	1	IYWM	2	5	7	0	
+0	0	0	Y	7	5	4	0		4	6	6	0	
+0	1	32	W	7	5	4	0		7	7	4	1	WHAM
+0	0	0	M	7	5	4	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	33	H	8	0	11	1	HARVESTHOME	8	0	3	1	HAY
+0	0	0	A	8	0	11	0		4	1	7	0	
+0	0	0	R	8	0	11	0		0	2	11	0	
+0	0	0	V	8	0	11	0		7	3	4	0	
+0	1	34	E	8	0	11	0		8	4	3	1	ETE
+0	0	0	S	8	0	11	0		2	5	7	0	
+0	0	0	T	8	0	11	0		4	6	6	0	
+0	0	0	H	8	0	11	0		7	7	4	0	
+0	0	0	O	8	0	11	0		0	8	11	0	
+0	1	35	M	8	0	11	0		8	9	3	1	MOA
+0	1	36	E	8	0	11	0		8	10	3	1	EFG
+0	1	37	A	9	0	5	1	APOET	8	0	3	0	
+0	0	0	P	9	0	5	0		4	1	7	0	
+0	0	0	O	9	0	5	0		0	2	11	0	
+0	0	0	E	9	0	5	0		7	3	4	0	
+0	0	0	T	9	0	5	0		8	4	3	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	38	E	9	6	5	1	EAROF	4	6	6	0	
+0	0	0	A	9	6	5	0		7	7	4	0	
+0	0	0	R	9	6	5	0		0	8	11	0	
+0	0	0	O	9	6	5	0		8	9	3	0	
+0	0	0	F	9	6	5	0		8	10	3	0	
+0	1	39	Y	10	0	5	1	YONNE	8	0	3	0	
+0	0	0	O	10	0	5	0		4	1	7	0	
+0	0	0	N	10	0	5	0		0	2	11	0	
+0	0	0	N	10	0	5	0		7	3	4	0	
+0	0	0	E	10	0	5	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	4	0		11	6	0	0	
+0	1	40	M	10	7	4	1	MEAG	7	7	4	0	
+0	0	0	E	10	7	4	0		0	8	11	0	
+0	0	0	A	10	7	4	0		8	9	3	0	
+0	0	0	G	10	7	4	0		8	10	3	0	
+23
+1	NOTA	___ chance
+5	SCALE	Nothing special paywise
+10	USEIN	For ___ an emergency
+12	OILED	Tight
+13	BOTTOMROUND	Butcher's roast cut
+15	RSTU	Alphabetical sequence
+16	NMI	It indicates a void in some govt. records
+17	AGA	Muslim title
+19	YEO	U.S.N. clerk: Abbr.
+21	IES	Plural suffix
+23	HEH	When doubled, a villain's chuckle
+24	ESO	Spaniard's "that"
+25	NNW	Houston-to-Dallas dir.
+26	ASE	"Peer Gynt" mother
+27	TLC	R.N.'s "touch"
+28	UTA	"Respect for Acting" author Hagen
+29	TDS	Football stat.
+31	IYWM	Discuss, with 
+33	HARVESTHOME	Traditional English festival
+37	APOET	"I'm ___ and didn't know it"
+38	EAROF	___ corn
+39	YONNE	Department north of Ni
+40	MEAG	Largest employer in Newton, Iowa, until 2006
+21
+1	NUB	Gist
+2	OSO	___ pardo (grizzly, in Granada)
+3	TETRAHEDRON	Solid with four triangular faces
+4	AITS	Isles
+5	SOR	Frat. counterpart
+6	CION	Plant shoot: Var.
+7	ALUMINUMORE	Bauxite or cryolite
+8	LENIENT	Easy
+9	EDD	Byrnes who wrote "'Kookie' No More"
+11	NOTYET	Reply to the impatient
+14	MUESLIS	Cereal mixes
+17	AHA	Cry interrupting a prank
+18	GESTAPO	Brutal force
+20	OOCYTE	Future ovum
+22	SWA	United competitor: Abbr.
+30	SVEN	1932 skiing gold medalist Utterstr
+32	WHAM	Big blow
+33	HAY	Silver treat
+34	ETE	Season for les vacances
+35	MOA	Bird once hunted by the Maori
+36	EFG	Trio after D

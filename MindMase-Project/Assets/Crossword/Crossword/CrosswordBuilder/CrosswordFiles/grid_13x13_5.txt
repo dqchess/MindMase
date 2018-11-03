@@ -1,0 +1,229 @@
+grid_13x13_5
+13
+0	1	1	B	0	0	3	1	BOX	0	0	3	1	BER
+0	1	2	O	0	0	3	0		0	1	3	1	OMI
+0	1	3	X	0	0	3	0		0	2	13	1	XMARKSTHESPOT
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	5	0	
+0	1	4	S	0	5	3	1	STS	0	5	7	1	SELLOUT
+0	1	5	T	0	5	3	0		0	6	13	1	TOASTMISTRESS
+0	1	6	S	0	5	3	0		0	7	3	1	SCS
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	D	0	9	3	1	DWI	0	9	10	1	DOWNYLOADS
+0	1	8	W	0	9	3	0		0	10	13	1	WEATHERBEATEN
+0	1	9	I	0	9	3	0		0	11	4	1	INRI
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	E	1	0	3	1	EMM	0	0	3	0	
+0	0	0	M	1	0	3	0		0	1	3	0	
+0	0	0	M	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	0	0	
+0	1	11	E	1	4	4	1	EEOC	1	4	5	1	EGALE
+0	0	0	E	1	4	4	0		0	5	7	0	
+0	0	0	O	1	4	4	0		0	6	13	0	
+0	0	0	C	1	4	4	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	12	O	1	9	4	1	OENS	0	9	10	0	
+0	0	0	E	1	9	4	0		0	10	13	0	
+0	0	0	N	1	9	4	0		0	11	4	0	
+0	1	13	S	1	9	4	0		1	12	3	1	SES
+0	1	14	R	2	0	3	1	RIA	0	0	3	0	
+0	0	0	I	2	0	3	0		0	1	3	0	
+0	0	0	A	2	0	3	0		0	2	13	0	
+1	0	0	#	2	4	9	0		3	3	10	0	
+0	1	15	G	2	4	9	1	GLASSWARE	1	4	5	0	
+0	0	0	L	2	4	9	0		0	5	7	0	
+0	0	0	A	2	4	9	0		0	6	13	0	
+0	0	0	S	2	4	9	0		0	7	3	0	
+0	1	16	S	2	4	9	0		2	8	3	1	SAB
+0	0	0	W	2	4	9	0		0	9	10	0	
+0	0	0	A	2	4	9	0		0	10	13	0	
+0	0	0	R	2	4	9	0		0	11	4	0	
+0	0	0	E	2	4	9	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	5	0		4	1	4	0	
+0	1	17	R	3	2	5	1	RIALS	0	2	13	0	
+0	1	18	I	3	2	5	0		3	3	10	1	IBELIEVESO
+0	0	0	A	3	2	5	0		1	4	5	0	
+0	0	0	L	3	2	5	0		0	5	7	0	
+0	0	0	S	3	2	5	0		0	6	13	0	
+1	0	0	#	3	8	5	0		4	7	0	0	
+0	1	19	A	3	8	5	1	ANTIS	2	8	3	0	
+0	0	0	N	3	8	5	0		0	9	10	0	
+0	0	0	T	3	8	5	0		0	10	13	0	
+0	0	0	I	3	8	5	0		0	11	4	0	
+0	0	0	S	3	8	5	0		1	12	3	0	
+0	1	20	I	4	0	7	1	INKBLOT	4	0	3	1	INH
+0	1	21	N	4	0	7	0		4	1	4	1	NOOP
+0	0	0	K	4	0	7	0		0	2	13	0	
+0	0	0	B	4	0	7	0		3	3	10	0	
+0	0	0	L	4	0	7	0		1	4	5	0	
+0	0	0	O	4	0	7	0		0	5	7	0	
+0	0	0	T	4	0	7	0		0	6	13	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	22	B	4	8	3	1	BYH	2	8	3	0	
+0	0	0	Y	4	8	3	0		0	9	10	0	
+0	0	0	H	4	8	3	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	23	N	5	0	7	1	NOSEEUM	4	0	3	0	
+0	0	0	O	5	0	7	0		4	1	4	0	
+0	0	0	S	5	0	7	0		0	2	13	0	
+0	0	0	E	5	0	7	0		3	3	10	0	
+0	0	0	E	5	0	7	0		1	4	5	0	
+0	0	0	U	5	0	7	0		0	5	7	0	
+0	0	0	M	5	0	7	0		0	6	13	0	
+1	0	0	#	5	8	0	0		6	7	7	0	
+1	0	0	#	5	9	3	0		6	8	0	0	
+0	1	24	L	5	9	3	1	LEN	0	9	10	0	
+0	0	0	E	5	9	3	0		0	10	13	0	
+0	1	25	N	5	9	3	0		5	11	4	1	NLER
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	26	H	6	0	4	1	HOTL	4	0	3	0	
+0	0	0	O	6	0	4	0		4	1	4	0	
+0	0	0	T	6	0	4	0		0	2	13	0	
+0	0	0	L	6	0	4	0		3	3	10	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	27	T	6	5	3	1	TIM	0	5	7	0	
+0	0	0	I	6	5	3	0		0	6	13	0	
+0	1	28	M	6	5	3	0		6	7	7	1	MORANIS
+1	0	0	#	6	9	4	0		7	8	5	0	
+0	1	29	O	6	9	4	1	ORLY	0	9	10	0	
+0	0	0	R	6	9	4	0		0	10	13	0	
+0	0	0	L	6	9	4	0		5	11	4	0	
+0	1	30	Y	6	9	4	0		6	12	3	1	YDS
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	31	P	7	1	3	1	PHI	4	1	4	0	
+0	0	0	H	7	1	3	0		0	2	13	0	
+0	0	0	I	7	1	3	0		3	3	10	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	7	0		8	5	0	0	
+0	1	32	S	7	6	7	1	SOFABED	0	6	13	0	
+0	0	0	O	7	6	7	0		6	7	7	0	
+0	1	33	F	7	6	7	0		7	8	5	1	FAITS
+0	0	0	A	7	6	7	0		0	9	10	0	
+0	0	0	B	7	6	7	0		0	10	13	0	
+0	0	0	E	7	6	7	0		5	11	4	0	
+0	0	0	D	7	6	7	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	3	0		9	1	4	0	
+0	1	34	E	8	2	3	1	EES	0	2	13	0	
+0	0	0	E	8	2	3	0		3	3	10	0	
+0	1	35	S	8	2	3	0		8	4	3	1	SML
+1	0	0	#	8	6	7	0		9	5	0	0	
+0	1	36	T	8	6	7	1	TRADERS	0	6	13	0	
+0	0	0	R	8	6	7	0		6	7	7	0	
+0	0	0	A	8	6	7	0		7	8	5	0	
+0	0	0	D	8	6	7	0		0	9	10	0	
+0	0	0	E	8	6	7	0		0	10	13	0	
+0	0	0	R	8	6	7	0		5	11	4	0	
+0	0	0	S	8	6	7	0		6	12	3	0	
+0	1	37	U	9	0	5	1	UASVM	9	0	3	1	URO
+0	1	38	A	9	0	5	0		9	1	4	1	AERO
+0	0	0	S	9	0	5	0		0	2	13	0	
+0	0	0	V	9	0	5	0		3	3	10	0	
+0	0	0	M	9	0	5	0		8	4	3	0	
+1	0	0	#	9	6	5	0		10	5	3	0	
+0	1	39	R	9	6	5	1	RAISA	0	6	13	0	
+0	0	0	A	9	6	5	0		6	7	7	0	
+0	0	0	I	9	6	5	0		7	8	5	0	
+0	0	0	S	9	6	5	0		0	9	10	0	
+0	0	0	A	9	6	5	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	40	R	10	0	9	1	REPELLENT	9	0	3	0	
+0	0	0	E	10	0	9	0		9	1	4	0	
+0	0	0	P	10	0	9	0		0	2	13	0	
+0	0	0	E	10	0	9	0		3	3	10	0	
+0	0	0	L	10	0	9	0		8	4	3	0	
+0	1	41	L	10	0	9	0		10	5	3	1	LAO
+0	0	0	E	10	0	9	0		0	6	13	0	
+0	0	0	N	10	0	9	0		6	7	7	0	
+0	0	0	T	10	0	9	0		7	8	5	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	42	T	10	10	3	1	TCU	0	10	13	0	
+0	1	43	C	10	10	3	0		10	11	3	1	CIG
+0	1	44	U	10	10	3	0		10	12	3	1	USS
+0	1	45	O	11	0	4	1	OROS	9	0	3	0	
+0	0	0	R	11	0	4	0		9	1	4	0	
+0	0	0	O	11	0	4	0		0	2	13	0	
+0	0	0	S	11	0	4	0		3	3	10	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	46	A	11	5	4	1	ASIS	10	5	3	0	
+0	0	0	S	11	5	4	0		0	6	13	0	
+0	0	0	I	11	5	4	0		6	7	7	0	
+0	0	0	S	11	5	4	0		7	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	47	E	11	10	3	1	EIS	0	10	13	0	
+0	0	0	I	11	10	3	0		10	11	3	0	
+0	0	0	S	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	48	O	12	1	3	1	OTO	9	1	4	0	
+0	0	0	T	12	1	3	0		0	2	13	0	
+0	0	0	O	12	1	3	0		3	3	10	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	49	O	12	5	3	1	OSS	10	5	3	0	
+0	0	0	S	12	5	3	0		0	6	13	0	
+0	0	0	S	12	5	3	0		6	7	7	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	50	N	12	10	3	1	NGS	0	10	13	0	
+0	0	0	G	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+31
+1	BOX	Practice pugilism
+4	STS	Thoroughfares: Abbr.
+7	DWI	Drinker's road offense, for short
+10	EMM	Kind of film, in brief
+11	EEOC	Job rights agcy.
+12	OENS	1936 Olympics hero
+14	RIA	Its mouth is its biggest part
+15	GLASSWARE	Antique store section
+17	RIALS	Iranian money
+19	ANTIS	They're not pros
+20	INKBLOT	Matter of interpretation
+22	BYH	From memory
+23	NOSEEUM	Biting midge
+24	LEN	Golfer Mattiace
+26	HOTL	Off-Broadway's "___ Baltimore"
+27	TIM	Tiny one of fiction
+29	ORLY	Alternative to Le Bourget
+31	PHI	Key letter?
+32	SOFABED	Convertible
+34	EES	Some Texas A & M degs.
+36	TRADERS	Wall Street workers
+37	UASVM	Canada's ___ Bay
+39	RAISA	Early 1990s first lady's first name
+40	REPELLENT	Bug spray
+42	TCU	The Horned Frogs, initially
+45	OROS	Spanish card suit
+46	ASIS	Undisturbed
+47	EIS	Autobahn hazard
+48	OTO	Indian tribe encountered by Lewis and Clark
+49	OSS	Pre-C.I.A. grp.
+50	NGS	Riot-stopping grps.
+25
+1	BER	Tight end, at times
+2	OMI	Old Dodge
+3	XMARKSTHESPOT	Treasure hunter's declaration
+4	SELLOUT	Compromise one's talents
+5	TOASTMISTRESS	Woman presiding at a banquet
+6	SCS	Barges
+7	DOWNYLOADS	Wagonfuls of feathers?
+8	WEATHERBEATEN	"Like oceanfront houses, often"
+9	INRI	Letters on a cross
+11	EGALE	French equivalent
+13	SES	Paris possessive
+16	SAB	Car with the numeral 9 in all its model names
+18	IBELIEVESO	"That's my understanding"
+20	INH	Foot part
+21	NOOP	Colloquial denial
+25	NLER	D-back, for one
+28	MORANIS	Rick in flicks
+30	YDS	Football stat: Abbr.
+33	FAITS	Sartre's "Les Jeux Sont ___"
+35	SML	Tee choices: Abbr.
+37	URO	Tail: Prefix
+38	AERO	Prefix with plane
+41	LAO	Southeast Asian language
+43	CIG	Pack item, for short
+44	USS	Vessel name starter

@@ -1,0 +1,115 @@
+grid_9x9_122
+9
+0	1	1	A	0	0	3	1	AUS	0	0	4	1	ALAS
+0	1	2	U	0	0	3	0		0	1	5	1	UINTA
+0	1	3	S	0	0	3	0		0	2	5	1	SLAGS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	4	0		1	4	7	0	
+0	1	4	H	0	5	4	1	HAID	0	5	3	1	HUS
+0	1	5	A	0	5	4	0		0	6	3	1	AFT
+0	1	6	I	0	5	4	0		0	7	3	1	IFI
+0	1	7	D	0	5	4	0		0	8	3	1	DSC
+0	1	8	L	1	0	3	1	LIL	0	0	4	0	
+0	0	0	I	1	0	3	0		0	1	5	0	
+0	0	0	L	1	0	3	0		0	2	5	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	9	D	1	4	5	1	DUFFS	1	4	7	1	DERANGE
+0	0	0	U	1	4	5	0		0	5	3	0	
+0	0	0	F	1	4	5	0		0	6	3	0	
+0	0	0	F	1	4	5	0		0	7	3	0	
+0	0	0	S	1	4	5	0		0	8	3	0	
+0	1	10	A	2	0	9	1	ANAPESTIC	0	0	4	0	
+0	0	0	N	2	0	9	0		0	1	5	0	
+0	0	0	A	2	0	9	0		0	2	5	0	
+0	1	11	P	2	0	9	0		2	3	3	1	PET
+0	0	0	E	2	0	9	0		1	4	7	0	
+0	0	0	S	2	0	9	0		0	5	3	0	
+0	0	0	T	2	0	9	0		0	6	3	0	
+0	0	0	I	2	0	9	0		0	7	3	0	
+0	0	0	C	2	0	9	0		0	8	3	0	
+0	1	12	S	3	0	5	1	STGER	0	0	4	0	
+0	0	0	T	3	0	5	0		0	1	5	0	
+0	0	0	G	3	0	5	0		0	2	5	0	
+0	0	0	E	3	0	5	0		2	3	3	0	
+0	0	0	R	3	0	5	0		1	4	7	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	7	0		5	0	0	0	
+0	1	13	A	4	1	7	1	ASTAIRE	0	1	5	0	
+0	0	0	S	4	1	7	0		0	2	5	0	
+0	0	0	T	4	1	7	0		2	3	3	0	
+0	0	0	A	4	1	7	0		1	4	7	0	
+0	1	14	I	4	1	7	0		4	5	3	1	IAL
+0	1	15	R	4	1	7	0		4	6	5	1	RIENS
+0	1	16	E	4	1	7	0		4	7	5	1	ENURE
+1	0	0	#	4	9	0	0		5	8	4	0	
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	0	0		6	1	3	0	
+1	0	0	#	5	3	0	0		6	2	3	0	
+1	0	0	#	5	4	5	0		6	3	3	0	
+0	1	17	N	5	4	5	1	NAINA	1	4	7	0	
+0	0	0	A	5	4	5	0		4	5	3	0	
+0	0	0	I	5	4	5	0		4	6	5	0	
+0	0	0	N	5	4	5	0		4	7	5	0	
+0	1	18	A	5	4	5	0		5	8	4	1	APAR
+0	1	19	S	6	0	9	1	SNUGGLEUP	6	0	3	1	SNA
+0	1	20	N	6	0	9	0		6	1	3	1	NOG
+0	1	21	U	6	0	9	0		6	2	3	1	UTE
+0	1	22	G	6	0	9	0		6	3	3	1	GRE
+0	0	0	G	6	0	9	0		1	4	7	0	
+0	0	0	L	6	0	9	0		4	5	3	0	
+0	0	0	E	6	0	9	0		4	6	5	0	
+0	0	0	U	6	0	9	0		4	7	5	0	
+0	0	0	P	6	0	9	0		5	8	4	0	
+0	1	23	N	7	0	5	1	NOTRE	6	0	3	0	
+0	0	0	O	7	0	5	0		6	1	3	0	
+0	0	0	T	7	0	5	0		6	2	3	0	
+0	0	0	R	7	0	5	0		6	3	3	0	
+0	0	0	E	7	0	5	0		1	4	7	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	24	N	7	6	3	1	NRA	4	6	5	0	
+0	0	0	R	7	6	3	0		4	7	5	0	
+0	0	0	A	7	6	3	0		5	8	4	0	
+0	1	25	A	8	0	4	1	AGEE	6	0	3	0	
+0	0	0	G	8	0	4	0		6	1	3	0	
+0	0	0	E	8	0	4	0		6	2	3	0	
+0	0	0	E	8	0	4	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	26	S	8	6	3	1	SER	4	6	5	0	
+0	0	0	E	8	6	3	0		4	7	5	0	
+0	0	0	R	8	6	3	0		5	8	4	0	
+13
+1	AUS	Mozart's home: Abbr.
+4	HAID	Charles of "Hill Street Blues"
+8	LIL	Diamond ___
+9	DUFFS	Rears
+10	ANAPESTIC	Like some poetic feet
+12	STGER	Antiaircraft missile
+13	ASTAIRE	"Steps in Time" autobiographer
+17	NAINA	Mrs. Boris Yeltsin
+19	SNUGGLEUP	Sit romantically
+23	NOTRE	Our counterpart in France?
+24	NRA	Gun rights org.
+25	AGEE	1966 A.L. Rookie of the Year
+26	SER	Sunday offering: Abbr.
+17
+1	ALAS	Sorry to say
+2	UINTA	___ Mountains, home of King's Peak
+3	SLAGS	Smelting byproducts
+4	HUS	Czech martyr Jan
+5	AFT	Tailward
+6	IFI	Dr. Seuss' "___ Ran the Zoo"
+7	DSC	Mil. medal
+9	DERANGE	Send over the edge
+11	PET	Housebroken animal
+14	IAL	Suffix with adverb
+15	RIENS	Trifles: Fr.
+16	ENURE	Accustom
+18	APAR	On ___ (commensurate)
+19	SNA	Winter fall, in Falkirk
+20	NOG	Drink that
+21	UTE	Western tribesman
+22	GRE	Educ. test

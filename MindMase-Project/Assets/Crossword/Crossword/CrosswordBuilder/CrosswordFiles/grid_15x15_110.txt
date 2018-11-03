@@ -1,0 +1,305 @@
+grid_15x15_110
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	V	0	1	3	1	VIA	0	1	8	1	VARIABLE
+0	1	2	I	0	1	3	0		0	2	15	1	INALLLIKELIHOOD
+0	1	3	A	0	1	3	0		0	3	6	1	ASTAGE
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	4	0	
+0	1	4	B	0	6	3	1	BAI	0	6	3	1	BIG
+0	1	5	A	0	6	3	0		0	7	4	1	ABCD
+0	1	6	I	0	6	3	0		0	8	4	1	ISOF
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	3	0		1	10	4	0	
+0	1	7	A	0	11	3	1	AMP	0	11	3	1	ASA
+0	1	8	M	0	11	3	0		0	12	15	1	MENTALTELEPATHY
+0	1	9	P	0	11	3	0		0	13	6	1	PEYOTE
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	K	1	0	4	1	KANS	1	0	3	1	KPS
+0	0	0	A	1	0	4	0		0	1	8	0	
+0	0	0	N	1	0	4	0		0	2	15	0	
+0	0	0	S	1	0	4	0		0	3	6	0	
+1	0	0	#	1	5	4	0		2	4	3	0	
+0	1	11	J	1	5	4	1	JIBS	1	5	4	1	JNER
+0	0	0	I	1	5	4	0		0	6	3	0	
+0	0	0	B	1	5	4	0		0	7	4	0	
+0	0	0	S	1	5	4	0		0	8	4	0	
+1	0	0	#	1	10	4	0		2	9	3	0	
+0	1	12	I	1	10	4	1	ISEE	1	10	4	1	IPSA
+0	0	0	S	1	10	4	0		0	11	3	0	
+0	0	0	E	1	10	4	0		0	12	15	0	
+0	0	0	E	1	10	4	0		0	13	6	0	
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	13	P	2	0	14	1	PRATINGCOMPANY	1	0	3	0	
+0	0	0	R	2	0	14	0		0	1	8	0	
+0	0	0	A	2	0	14	0		0	2	15	0	
+0	0	0	T	2	0	14	0		0	3	6	0	
+0	1	14	I	2	0	14	0		2	4	3	1	IGO
+0	0	0	N	2	0	14	0		1	5	4	0	
+0	0	0	G	2	0	14	0		0	6	3	0	
+0	0	0	C	2	0	14	0		0	7	4	0	
+0	0	0	O	2	0	14	0		0	8	4	0	
+0	1	15	M	2	0	14	0		2	9	3	1	MCK
+0	0	0	P	2	0	14	0		1	10	4	0	
+0	0	0	A	2	0	14	0		0	11	3	0	
+0	0	0	N	2	0	14	0		0	12	15	0	
+0	0	0	Y	2	0	14	0		0	13	6	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	16	S	3	0	6	1	SILAGE	1	0	3	0	
+0	0	0	I	3	0	6	0		0	1	8	0	
+0	0	0	L	3	0	6	0		0	2	15	0	
+0	0	0	A	3	0	6	0		0	3	6	0	
+0	0	0	G	3	0	6	0		2	4	3	0	
+0	0	0	E	3	0	6	0		1	5	4	0	
+1	0	0	#	3	7	4	0		4	6	6	0	
+0	1	17	D	3	7	4	1	DFCS	0	7	4	0	
+0	0	0	F	3	7	4	0		0	8	4	0	
+0	0	0	C	3	7	4	0		2	9	3	0	
+0	0	0	S	3	7	4	0		1	10	4	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	18	T	3	12	3	1	TOZ	0	12	15	0	
+0	0	0	O	3	12	3	0		0	13	6	0	
+0	1	19	Z	3	12	3	0		3	14	3	1	ZSA
+1	0	0	#	4	1	6	0		5	0	3	0	
+0	1	20	A	4	1	6	1	ALGORE	0	1	8	0	
+0	0	0	L	4	1	6	0		0	2	15	0	
+0	0	0	G	4	1	6	0		0	3	6	0	
+0	0	0	O	4	1	6	0		2	4	3	0	
+0	0	0	R	4	1	6	0		1	5	4	0	
+0	1	21	E	4	1	6	0		4	6	6	1	EXISTS
+1	0	0	#	4	8	0	0		5	7	5	0	
+1	0	0	#	4	9	6	0		5	8	6	0	
+0	1	22	K	4	9	6	1	KARATS	2	9	3	0	
+0	0	0	A	4	9	6	0		1	10	4	0	
+0	1	23	R	4	9	6	0		4	11	3	1	RPI
+0	0	0	A	4	9	6	0		0	12	15	0	
+0	0	0	T	4	9	6	0		0	13	6	0	
+0	0	0	S	4	9	6	0		3	14	3	0	
+0	1	24	I	5	0	4	1	IBLE	5	0	3	1	IME
+0	0	0	B	5	0	4	0		0	1	8	0	
+0	0	0	L	5	0	4	0		0	2	15	0	
+0	0	0	E	5	0	4	0		0	3	6	0	
+1	0	0	#	5	5	0	0		6	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	25	X	5	6	3	1	XSA	4	6	6	0	
+0	1	26	S	5	6	3	0		5	7	5	1	SNARL
+0	1	27	A	5	6	3	0		5	8	6	1	AFTERD
+1	0	0	#	5	10	0	0		6	9	3	0	
+1	0	0	#	5	11	4	0		6	10	3	0	
+0	1	28	P	5	11	4	1	PLEA	4	11	3	0	
+0	0	0	L	5	11	4	0		0	12	15	0	
+0	0	0	E	5	11	4	0		0	13	6	0	
+0	0	0	A	5	11	4	0		3	14	3	0	
+0	1	29	M	6	0	3	1	MLI	5	0	3	0	
+0	0	0	L	6	0	3	0		0	1	8	0	
+0	0	0	I	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	9	0		7	3	0	0	
+0	1	30	I	6	4	9	1	ISINFORIT	6	4	3	1	IAM
+0	1	31	S	6	4	9	0		6	5	3	1	SLS
+0	0	0	I	6	4	9	0		4	6	6	0	
+0	0	0	N	6	4	9	0		5	7	5	0	
+0	0	0	F	6	4	9	0		5	8	6	0	
+0	1	32	O	6	4	9	0		6	9	3	1	OIE
+0	1	33	R	6	4	9	0		6	10	3	1	RAT
+0	0	0	I	6	4	9	0		4	11	3	0	
+0	0	0	T	6	4	9	0		0	12	15	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	34	E	7	0	3	1	EEK	5	0	3	0	
+0	0	0	E	7	0	3	0		0	1	8	0	
+0	0	0	K	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	7	0		8	3	3	0	
+0	1	35	A	7	4	7	1	ALSATIA	6	4	3	0	
+0	0	0	L	7	4	7	0		6	5	3	0	
+0	0	0	S	7	4	7	0		4	6	6	0	
+0	0	0	A	7	4	7	0		5	7	5	0	
+0	0	0	T	7	4	7	0		5	8	6	0	
+0	0	0	I	7	4	7	0		6	9	3	0	
+0	0	0	A	7	4	7	0		6	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	36	E	7	12	3	1	EDY	0	12	15	0	
+0	1	37	D	7	12	3	0		7	13	8	1	DAMOCLES
+0	1	38	Y	7	12	3	0		7	14	3	1	YEE
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	9	0		9	1	6	0	
+0	1	39	E	8	2	9	1	ELMSTREET	0	2	15	0	
+0	1	40	L	8	2	9	0		8	3	3	1	LAD
+0	0	0	M	8	2	9	0		6	4	3	0	
+0	0	0	S	8	2	9	0		6	5	3	0	
+0	0	0	T	8	2	9	0		4	6	6	0	
+0	0	0	R	8	2	9	0		5	7	5	0	
+0	0	0	E	8	2	9	0		5	8	6	0	
+0	0	0	E	8	2	9	0		6	9	3	0	
+0	0	0	T	8	2	9	0		6	10	3	0	
+1	0	0	#	8	12	3	0		9	11	6	0	
+0	1	41	L	8	12	3	1	LAE	0	12	15	0	
+0	0	0	A	8	12	3	0		7	13	8	0	
+0	0	0	E	8	12	3	0		7	14	3	0	
+0	1	42	A	9	0	4	1	ALLA	9	0	3	1	ASD
+0	1	43	L	9	0	4	0		9	1	6	1	LANDIS
+0	0	0	L	9	0	4	0		0	2	15	0	
+0	0	0	A	9	0	4	0		8	3	3	0	
+1	0	0	#	9	5	0	0		10	4	4	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	44	S	9	6	3	1	SLR	4	6	6	0	
+0	0	0	L	9	6	3	0		5	7	5	0	
+0	0	0	R	9	6	3	0		5	8	6	0	
+1	0	0	#	9	10	0	0		10	9	4	0	
+1	0	0	#	9	11	4	0		10	10	3	0	
+0	1	45	S	9	11	4	1	SEME	9	11	6	1	SALTED
+0	0	0	E	9	11	4	0		0	12	15	0	
+0	0	0	M	9	11	4	0		7	13	8	0	
+0	0	0	E	9	11	4	0		7	14	3	0	
+0	1	46	S	10	0	6	1	SAIDTO	9	0	3	0	
+0	0	0	A	10	0	6	0		9	1	6	0	
+0	0	0	I	10	0	6	0		0	2	15	0	
+0	0	0	D	10	0	6	0		8	3	3	0	
+0	1	47	T	10	0	6	0		10	4	4	1	TATA
+0	1	48	O	10	0	6	0		10	5	3	1	ORO
+1	0	0	#	10	7	0	0		11	6	4	0	
+1	0	0	#	10	8	6	0		11	7	4	0	
+0	1	49	D	10	8	6	1	DACAPO	5	8	6	0	
+0	1	50	A	10	8	6	0		10	9	4	1	ALLR
+0	1	51	C	10	8	6	0		10	10	3	1	CII
+0	0	0	A	10	8	6	0		9	11	6	0	
+0	0	0	P	10	8	6	0		0	12	15	0	
+0	0	0	O	10	8	6	0		7	13	8	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+0	1	52	D	11	0	3	1	DNH	9	0	3	0	
+0	0	0	N	11	0	3	0		9	1	6	0	
+0	0	0	H	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	4	0		12	3	3	0	
+0	1	53	A	11	4	4	1	AREO	10	4	4	0	
+0	0	0	R	11	4	4	0		10	5	3	0	
+0	1	54	E	11	4	4	0		11	6	4	1	ERIQ
+0	1	55	O	11	4	4	0		11	7	4	1	ODBO
+1	0	0	#	11	9	6	0		12	8	3	0	
+0	1	56	L	11	9	6	1	LILACS	10	9	4	0	
+0	0	0	I	11	9	6	0		10	10	3	0	
+0	0	0	L	11	9	6	0		9	11	6	0	
+0	0	0	A	11	9	6	0		0	12	15	0	
+0	0	0	C	11	9	6	0		7	13	8	0	
+0	1	57	S	11	9	6	0		11	14	3	1	SEL
+1	0	0	#	12	1	14	0		13	0	0	0	
+0	1	58	D	12	1	14	1	DOCTORDOLITTLE	9	1	6	0	
+0	0	0	O	12	1	14	0		0	2	15	0	
+0	1	59	C	12	1	14	0		12	3	3	1	CTS
+0	0	0	T	12	1	14	0		10	4	4	0	
+0	0	0	O	12	1	14	0		10	5	3	0	
+0	0	0	R	12	1	14	0		11	6	4	0	
+0	0	0	D	12	1	14	0		11	7	4	0	
+0	1	60	O	12	1	14	0		12	8	3	1	OAM
+0	0	0	L	12	1	14	0		10	9	4	0	
+0	0	0	I	12	1	14	0		10	10	3	0	
+0	0	0	T	12	1	14	0		9	11	6	0	
+0	0	0	T	12	1	14	0		0	12	15	0	
+0	0	0	L	12	1	14	0		7	13	8	0	
+0	0	0	E	12	1	14	0		11	14	3	0	
+1	0	0	#	13	1	4	0		14	0	0	0	
+0	1	61	I	13	1	4	1	IOTA	9	1	6	0	
+0	0	0	O	13	1	4	0		0	2	15	0	
+0	0	0	T	13	1	4	0		12	3	3	0	
+0	0	0	A	13	1	4	0		10	4	4	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	62	I	13	6	4	1	IBAR	11	6	4	0	
+0	0	0	B	13	6	4	0		11	7	4	0	
+0	0	0	A	13	6	4	0		12	8	3	0	
+0	0	0	R	13	6	4	0		10	9	4	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	63	E	13	11	4	1	EHEL	9	11	6	0	
+0	0	0	H	13	11	4	0		0	12	15	0	
+0	0	0	E	13	11	4	0		7	13	8	0	
+0	0	0	L	13	11	4	0		11	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	64	S	14	1	3	1	SDS	9	1	6	0	
+0	0	0	D	14	1	3	0		0	2	15	0	
+0	0	0	S	14	1	3	0		12	3	3	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	65	Q	14	6	3	1	QOM	11	6	4	0	
+0	0	0	O	14	6	3	0		11	7	4	0	
+0	0	0	M	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	66	D	14	11	3	1	DYS	9	11	6	0	
+0	0	0	Y	14	11	3	0		0	12	15	0	
+0	0	0	S	14	11	3	0		7	13	8	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+37
+1	VIA	___ Appia
+4	BAI	Actress ___ Ling of "The Crow"
+7	AMP	What a guitar may be hooked up to
+10	KANS	Home of McConnell A.F.B.
+11	JIBS	Sloops' headsails
+12	ISEE	Fortuneteller's opening
+13	PRATINGCOMPANY	Guests who jabber incessantly?
+16	SILAGE	Feed for livestock
+17	DFCS	R.A.F. awards
+18	TOZ	From A ___
+20	ALGORE	"Junior" politician
+22	KARATS	Gold count
+24	IBLE	Suffix with flex
+25	XSA	Opposite of SSW
+28	PLEA	"Save me!," e.g.
+29	MLI	1051, on a monument
+30	ISINFORIT	Awaits a chiding
+34	EEK	Comics cry
+35	ALSATIA	Ancient land in eastern France
+36	EDY	Actress Williams of the 1960s-'70s
+39	ELMSTREET	Horror film locale
+41	LAE	Papuan port in W.W. II fighting
+42	ALLA	Part of many ristorante dish names
+44	SLR	Big inits. in photography
+45	SEME	Covered with many small figures, in heraldry
+46	SAIDTO	Told
+49	DACAPO	From the top, musically
+52	DNH	Pol. designation for Gov. Jeanne Shaheen
+53	AREO	Mars, in combinations
+56	LILACS	"Thou art not lovelier than ___, 
+58	DOCTORDOLITTLE	One with animal magnetism?
+61	IOTA	Tiny amount
+62	IBAR	Supporting member
+63	EHEL	Jazzy Waters
+64	SDS	Old activist org. revived in 2006
+65	QOM	City southwest of Teheran
+66	DYS	Bad start?
+39
+1	VARIABLE	Like some manufacturing costs
+2	INALLLIKELIHOOD	"Chances are good"
+3	ASTAGE	"A kingdom for ___": "Henry V"
+4	BIG	Magnanimous
+5	ABCD	Alphabetical start
+6	ISOF	"If this ___ any help ..."
+7	ASA	Simile words
+8	MENTALTELEPATHY	Special communication
+9	PEYOTE	Mescaline-yielding cactus
+10	KPS	Some G.I. duties
+11	JNER	Al ___, 1984 Olympic gold medalist in the triple jump
+12	IPSA	Res ___ loquitur (legal phrase)
+14	IGO	Nobel physicist Tamm
+15	MCK	R & B singer Brian
+19	ZSA	When doubled, first name in old Hollywood
+21	EXISTS	Isn't just theoretical
+23	RPI	The Engineers of N.Y.'s Liberty League
+24	IME	"___ Mine" (track on "Let It Be")
+26	SNARL	React like a threatened dog
+27	AFTERD	At night
+30	IAM	Dr. Seuss's Sam ___
+31	SLS	Some Mercedes-Benzes
+32	OIE	Goose, to Gr
+33	RAT	It's smelled when something's fishy
+37	DAMOCLES	Flattering courtier who changed places with the tyrant Dionysius, in Greek legend
+38	YEE	"___-haw!" (cry of delight)
+40	LAD	Bucko
+42	ASD	Comparable in years
+43	LANDIS	"The Blues Brothers" director John
+45	SALTED	Put (away)
+47	TATA	Pre-takeoff cry?
+48	ORO	"___ y plata"
+50	ALLR	"Now you're talking!"
+51	CII	X into MXX
+54	ERIQ	"ER" actor LaSalle
+55	ODBO	Bothers
+57	SEL	Overseas seasoning
+59	CTS	Abbr. for change
+60	OAM	When "S.N.L." wraps in N.Y.C.

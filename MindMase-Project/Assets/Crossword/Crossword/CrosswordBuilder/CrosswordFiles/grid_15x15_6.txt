@@ -1,0 +1,311 @@
+grid_15x15_6
+15
+0	1	1	N	0	0	3	1	NAA	0	0	3	1	NAY
+0	1	2	A	0	0	3	0		0	1	4	1	AREE
+0	1	3	A	0	0	3	0		0	2	15	1	ABSOLUTECEILING
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	A	0	4	3	1	ADV	0	4	3	1	AMO
+0	1	5	D	0	4	3	0		0	5	5	1	DRANO
+0	1	6	V	0	4	3	0		0	6	5	1	VINYL
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	L	0	8	3	1	LOM	0	8	4	1	LEWD
+0	1	8	O	0	8	3	0		0	9	3	1	OME
+0	1	9	M	0	8	3	0		0	10	6	1	MURMUR
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	10	A	0	12	3	1	ABC	0	12	15	1	ALASKANMALAMUTE
+0	1	11	B	0	12	3	0		0	13	4	1	BODS
+0	1	12	C	0	12	3	0		0	14	3	1	CTS
+0	1	13	A	1	0	3	1	ARB	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	4	0	
+0	0	0	B	1	0	3	0		0	2	15	0	
+1	0	0	#	1	4	3	0		2	3	4	0	
+0	1	14	M	1	4	3	1	MRI	0	4	3	0	
+0	0	0	R	1	4	3	0		0	5	5	0	
+0	0	0	I	1	4	3	0		0	6	5	0	
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	15	E	1	8	3	1	EMU	0	8	4	0	
+0	0	0	M	1	8	3	0		0	9	3	0	
+0	0	0	U	1	8	3	0		0	10	6	0	
+1	0	0	#	1	12	3	0		2	11	0	0	
+0	1	16	L	1	12	3	1	LOT	0	12	15	0	
+0	0	0	O	1	12	3	0		0	13	4	0	
+0	0	0	T	1	12	3	0		0	14	3	0	
+0	1	17	Y	2	0	11	1	YESNOANSWER	0	0	3	0	
+0	0	0	E	2	0	11	0		0	1	4	0	
+0	0	0	S	2	0	11	0		0	2	15	0	
+0	1	18	N	2	0	11	0		2	3	4	1	NETS
+0	0	0	O	2	0	11	0		0	4	3	0	
+0	0	0	A	2	0	11	0		0	5	5	0	
+0	0	0	N	2	0	11	0		0	6	5	0	
+0	1	19	S	2	0	11	0		2	7	3	1	SAS
+0	0	0	W	2	0	11	0		0	8	4	0	
+0	0	0	E	2	0	11	0		0	9	3	0	
+0	0	0	R	2	0	11	0		0	10	6	0	
+1	0	0	#	2	12	3	0		3	11	4	0	
+0	1	20	A	2	12	3	1	ADS	0	12	15	0	
+0	0	0	D	2	12	3	0		0	13	4	0	
+0	0	0	S	2	12	3	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	21	E	3	1	3	1	EOE	0	1	4	0	
+0	0	0	O	3	1	3	0		0	2	15	0	
+0	0	0	E	3	1	3	0		2	3	4	0	
+1	0	0	#	3	5	4	0		4	4	3	0	
+0	1	22	N	3	5	4	1	NYAD	0	5	5	0	
+0	0	0	Y	3	5	4	0		0	6	5	0	
+0	0	0	A	3	5	4	0		2	7	3	0	
+0	0	0	D	3	5	4	0		0	8	4	0	
+1	0	0	#	3	10	4	0		4	9	5	0	
+0	1	23	M	3	10	4	1	MOSS	0	10	6	0	
+0	1	24	O	3	10	4	0		3	11	4	1	ONME
+0	0	0	S	3	10	4	0		0	12	15	0	
+0	0	0	S	3	10	4	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	6	0		5	1	5	0	
+0	1	25	L	4	2	6	1	LTCOLS	0	2	15	0	
+0	0	0	T	4	2	6	0		2	3	4	0	
+0	1	26	C	4	2	6	0		4	4	3	1	CIE
+0	0	0	O	4	2	6	0		0	5	5	0	
+0	0	0	L	4	2	6	0		0	6	5	0	
+0	0	0	S	4	2	6	0		2	7	3	0	
+1	0	0	#	4	9	4	0		5	8	4	0	
+0	1	27	G	4	9	4	1	GUNK	4	9	5	1	GORSE
+0	0	0	U	4	9	4	0		0	10	6	0	
+0	0	0	N	4	9	4	0		3	11	4	0	
+0	0	0	K	4	9	4	0		0	12	15	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+0	1	28	S	5	0	5	1	SCUSI	5	0	3	1	SWF
+0	1	29	C	5	0	5	0		5	1	5	1	CIRRO
+0	0	0	U	5	0	5	0		0	2	15	0	
+0	0	0	S	5	0	5	0		2	3	4	0	
+0	0	0	I	5	0	5	0		4	4	3	0	
+1	0	0	#	5	6	0	0		6	5	5	0	
+1	0	0	#	5	7	0	0		6	6	4	0	
+1	0	0	#	5	8	6	0		6	7	3	0	
+0	1	30	F	5	8	6	1	FORMAL	5	8	4	1	FEAT
+0	0	0	O	5	8	6	0		4	9	5	0	
+0	0	0	R	5	8	6	0		0	10	6	0	
+0	0	0	M	5	8	6	0		3	11	4	0	
+0	0	0	A	5	8	6	0		0	12	15	0	
+0	1	31	L	5	8	6	0		5	13	5	1	LEONA
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	32	W	6	0	3	1	WIT	5	0	3	0	
+0	0	0	I	6	0	3	0		5	1	5	0	
+0	0	0	T	6	0	3	0		0	2	15	0	
+1	0	0	#	6	4	6	0		7	3	0	0	
+0	1	33	E	6	4	6	1	EASIER	4	4	3	0	
+0	1	34	A	6	4	6	0		6	5	5	1	ASTRO
+0	1	35	S	6	4	6	0		6	6	4	1	SONE
+0	1	36	I	6	4	6	0		6	7	3	1	ISO
+0	0	0	E	6	4	6	0		5	8	4	0	
+0	0	0	R	6	4	6	0		4	9	5	0	
+1	0	0	#	6	11	3	0		7	10	0	0	
+0	1	37	E	6	11	3	1	ENE	3	11	4	0	
+0	0	0	N	6	11	3	0		0	12	15	0	
+0	0	0	E	6	11	3	0		5	13	5	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	38	F	7	0	3	1	FRE	5	0	3	0	
+0	0	0	R	7	0	3	0		5	1	5	0	
+0	0	0	E	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	0	0		8	3	4	0	
+1	0	0	#	7	5	5	0		8	4	0	0	
+0	1	39	S	7	5	5	1	SOSAS	6	5	5	0	
+0	0	0	O	7	5	5	0		6	6	4	0	
+0	0	0	S	7	5	5	0		6	7	3	0	
+0	0	0	A	7	5	5	0		5	8	4	0	
+0	0	0	S	7	5	5	0		4	9	5	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	40	M	7	12	3	1	MOO	0	12	15	0	
+0	0	0	O	7	12	3	0		5	13	5	0	
+0	1	41	O	7	12	3	0		7	14	3	1	OST
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	42	R	8	1	3	1	RCT	5	1	5	0	
+0	0	0	C	8	1	3	0		0	2	15	0	
+0	1	43	T	8	1	3	0		8	3	4	1	TUTU
+1	0	0	#	8	5	6	0		9	4	6	0	
+0	1	44	T	8	5	6	1	TNOTES	6	5	5	0	
+0	0	0	N	8	5	6	0		6	6	4	0	
+0	0	0	O	8	5	6	0		6	7	3	0	
+0	0	0	T	8	5	6	0		5	8	4	0	
+0	0	0	E	8	5	6	0		4	9	5	0	
+0	1	45	S	8	5	6	0		8	10	3	1	SEZ
+1	0	0	#	8	12	3	0		9	11	4	0	
+0	1	46	A	8	12	3	1	ANS	0	12	15	0	
+0	0	0	N	8	12	3	0		5	13	5	0	
+0	0	0	S	8	12	3	0		7	14	3	0	
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	47	O	9	1	6	1	OEUVRE	5	1	5	0	
+0	0	0	E	9	1	6	0		0	2	15	0	
+0	0	0	U	9	1	6	0		8	3	4	0	
+0	1	48	V	9	1	6	0		9	4	6	1	VOIDED
+0	0	0	R	9	1	6	0		6	5	5	0	
+0	0	0	E	9	1	6	0		6	6	4	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	0	0		10	8	5	0	
+1	0	0	#	9	10	5	0		10	9	5	0	
+0	1	49	E	9	10	5	1	EILAT	8	10	3	0	
+0	1	50	I	9	10	5	0		9	11	4	1	ISNO
+0	0	0	L	9	10	5	0		0	12	15	0	
+0	0	0	A	9	10	5	0		5	13	5	0	
+0	0	0	T	9	10	5	0		7	14	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	4	0	
+0	1	51	I	10	2	4	1	ITOO	0	2	15	0	
+0	0	0	T	10	2	4	0		8	3	4	0	
+0	0	0	O	10	2	4	0		9	4	6	0	
+0	0	0	O	10	2	4	0		6	5	5	0	
+1	0	0	#	10	7	6	0		11	6	4	0	
+0	1	52	Z	10	7	6	1	ZSAZSA	10	7	3	1	ZEB
+0	1	53	S	10	7	6	0		10	8	5	1	SELAS
+0	1	54	A	10	7	6	0		10	9	5	1	AMERE
+0	0	0	Z	10	7	6	0		8	10	3	0	
+0	0	0	S	10	7	6	0		9	11	4	0	
+0	0	0	A	10	7	6	0		0	12	15	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	4	0		12	0	3	0	
+0	1	55	A	11	1	4	1	ALUI	11	1	4	1	ASIE
+0	0	0	L	11	1	4	0		0	2	15	0	
+0	0	0	U	11	1	4	0		8	3	4	0	
+0	0	0	I	11	1	4	0		9	4	6	0	
+1	0	0	#	11	6	4	0		12	5	3	0	
+0	1	56	T	11	6	4	1	TEEM	11	6	4	1	TUNS
+0	0	0	E	11	6	4	0		10	7	3	0	
+0	0	0	E	11	6	4	0		10	8	5	0	
+0	0	0	M	11	6	4	0		10	9	5	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	57	N	11	11	3	1	NMI	9	11	4	0	
+0	0	0	M	11	11	3	0		0	12	15	0	
+0	1	58	I	11	11	3	0		11	13	4	1	ITSA
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	59	A	12	0	3	1	ASI	12	0	3	1	AIR
+0	0	0	S	12	0	3	0		11	1	4	0	
+0	0	0	I	12	0	3	0		0	2	15	0	
+1	0	0	#	12	4	11	0		13	3	0	0	
+0	1	60	D	12	4	11	1	DOUBLEYOUTH	9	4	6	0	
+0	1	61	O	12	4	11	0		12	5	3	1	OIE
+0	0	0	U	12	4	11	0		11	6	4	0	
+0	0	0	B	12	4	11	0		10	7	3	0	
+0	0	0	L	12	4	11	0		10	8	5	0	
+0	0	0	E	12	4	11	0		10	9	5	0	
+0	1	62	Y	12	4	11	0		12	10	3	1	YEP
+0	0	0	O	12	4	11	0		9	11	4	0	
+0	0	0	U	12	4	11	0		0	12	15	0	
+0	0	0	T	12	4	11	0		11	13	4	0	
+0	1	63	H	12	4	11	0		12	14	3	1	HAP
+0	1	64	I	13	0	3	1	IIN	12	0	3	0	
+0	0	0	I	13	0	3	0		11	1	4	0	
+0	0	0	N	13	0	3	0		0	2	15	0	
+1	0	0	#	13	4	3	0		14	3	0	0	
+0	1	65	E	13	4	3	1	EIN	9	4	6	0	
+0	0	0	I	13	4	3	0		12	5	3	0	
+0	0	0	N	13	4	3	0		11	6	4	0	
+1	0	0	#	13	8	3	0		14	7	0	0	
+0	1	66	A	13	8	3	1	ARE	10	8	5	0	
+0	0	0	R	13	8	3	0		10	9	5	0	
+0	0	0	E	13	8	3	0		12	10	3	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	67	T	13	12	3	1	TSA	0	12	15	0	
+0	0	0	S	13	12	3	0		11	13	4	0	
+0	0	0	A	13	12	3	0		12	14	3	0	
+0	1	68	R	14	0	3	1	REG	12	0	3	0	
+0	0	0	E	14	0	3	0		11	1	4	0	
+0	0	0	G	14	0	3	0		0	2	15	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	69	D	14	4	3	1	DES	9	4	6	0	
+0	0	0	E	14	4	3	0		12	5	3	0	
+0	0	0	S	14	4	3	0		11	6	4	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	70	S	14	8	3	1	SEP	10	8	5	0	
+0	0	0	E	14	8	3	0		10	9	5	0	
+0	0	0	P	14	8	3	0		12	10	3	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	71	E	14	12	3	1	EAP	0	12	15	0	
+0	0	0	A	14	12	3	0		11	13	4	0	
+0	0	0	P	14	12	3	0		12	14	3	0	
+43
+1	NAA	Sports org.
+4	ADV	Daily or weekly, e.g.: Abbr.
+7	LOM	Czech-born actor Herbert
+10	ABC	Opening string
+13	ARB	Wall St. maven
+14	MRI	Hosp. procedure
+15	EMU	It'll never get off the ground
+16	LOT	Great deal
+17	YESNOANSWER	Response option
+20	ADS	TiVo users may skip them
+21	EOE	Abbr. in a help wanted ad
+22	NYAD	Long-distance swimmer Diana
+23	MOSS	Rolling stones lack it
+25	LTCOLS	Maj. superiors
+27	GUNK	Icky stuff
+28	SCUSI	Italian apology
+30	FORMAL	Starchy
+32	WIT	Funnyman
+33	EASIER	Not as strenuous
+37	ENE	Sioux Falls-to-St. Paul dir.
+38	FRE	Boatload
+39	SOSAS	Family of Slammin' Sammy
+40	MOO	___ goo gai pan
+42	RCT	Sales slip: Abbr.
+44	TNOTES	Gov't securities
+46	ANS	The difference between what he said and what she said
+47	OEUVRE	Works
+49	EILAT	Gulf of Aqaba city
+51	ITOO	Hughes poem with the line "They send me to eat in the kitchen"
+52	ZSAZSA	Sister of Eva
+55	ALUI	Dedication to an unnamed homme
+56	TEEM	Overbrim
+57	NMI	Name placeholder in govt. records
+59	ASI	Faulkner title starter
+60	DOUBLEYOUTH	Baby twins?
+64	IIN	"Am ___ your way?"
+65	EIN	Oberhausen one
+66	ARE	"We ___ Not Alone" (1939 film)
+67	TSA	Airport org.
+68	REG	Like some gas: Abbr.
+69	DES	Venice's ___ Palace
+70	SEP	Equinox mo.
+71	EAP	Literary monogram
+39
+1	NAY	Not only that but also
+2	AREE	Answer to the riddle "Dressed in summer, naked in winter"
+3	ABSOLUTECEILING	Aircraft's altitude limit
+4	AMO	One of a Latin trio
+5	DRANO	Pipe cleaner
+6	VINYL	Part of some audiophiles' collections
+7	LEWD	Off-color
+8	OME	Queen Gertrude's "alas" in "Hamlet"
+9	MURMUR	Brook sound
+10	ALASKANMALAMUTE	Sled puller
+11	BODS	Physiques, informally
+12	CTS	Some change: Abbr.
+18	NETS	Meshes
+19	SAS	Stockholm-bound carrier
+24	ONME	Words that are a treat to hear?
+26	CIE	French corp.
+27	GORSE	Spiny shrub
+28	SWF	Abbr. in personals
+29	CIRRO	Meteorologist's prefix
+30	FEAT	Achievement
+31	LEONA	First name in hotels
+34	ASTRO	Nolan Ryan, notably
+35	SONE	Unit of loudness
+36	ISO	Film speed no.
+41	OST	Lufthansa direction
+43	TUTU	You might go for a spin in it
+45	SEZ	Informal states?
+48	VOIDED	Made invalid
+50	ISNO	"This ___ laughing matter!"
+52	ZEB	"The Waltons" grandpa
+53	SELAS	Ward and namesakes
+54	AMERE	"'Tis ___ bagatelle!"
+55	ASIE	Japon's place
+56	TUNS	252-gallon measures
+58	ITSA	"___ small world!"
+59	AIR	It's in circulation
+61	OIE	Confit d'___ (potted goose)
+62	YEP	4-Oct
+63	HAP	W.W. II general ___ Arnold

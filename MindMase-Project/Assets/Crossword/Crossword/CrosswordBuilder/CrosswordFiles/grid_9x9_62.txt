@@ -1,0 +1,113 @@
+grid_9x9_62
+9
+0	1	1	M	0	0	3	1	MIZ	0	0	3	1	MAO
+0	1	2	I	0	0	3	0		0	1	3	1	IUM
+0	1	3	Z	0	0	3	0		0	2	3	1	ZSA
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	R	0	4	3	1	REC	0	4	9	1	REARLINES
+0	1	5	E	0	4	3	0		0	5	7	1	ECHOING
+0	1	6	C	0	4	3	0		0	6	5	1	CHAIN
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+0	1	7	A	1	0	3	1	AUS	0	0	3	0	
+0	0	0	U	1	0	3	0		0	1	3	0	
+0	0	0	S	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	4	0		2	3	7	0	
+0	1	8	E	1	4	4	1	ECHT	0	4	9	0	
+0	0	0	C	1	4	4	0		0	5	7	0	
+0	0	0	H	1	4	4	0		0	6	5	0	
+0	1	9	T	1	4	4	0		1	7	4	1	THSE
+1	0	0	#	1	9	0	0		2	8	3	0	
+0	1	10	O	2	0	9	1	OMAHAHAHA	0	0	3	0	
+0	0	0	M	2	0	9	0		0	1	3	0	
+0	0	0	A	2	0	9	0		0	2	3	0	
+0	1	11	H	2	0	9	0		2	3	7	1	HIPPIES
+0	0	0	A	2	0	9	0		0	4	9	0	
+0	0	0	H	2	0	9	0		0	5	7	0	
+0	0	0	A	2	0	9	0		0	6	5	0	
+0	0	0	H	2	0	9	0		1	7	4	0	
+0	1	12	A	2	0	9	0		2	8	3	1	ATS
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	6	0		4	2	5	0	
+0	1	13	I	3	3	6	1	IROIST	2	3	7	0	
+0	0	0	R	3	3	6	0		0	4	9	0	
+0	0	0	O	3	3	6	0		0	5	7	0	
+0	0	0	I	3	3	6	0		0	6	5	0	
+0	0	0	S	3	3	6	0		1	7	4	0	
+0	0	0	T	3	3	6	0		2	8	3	0	
+0	1	14	S	4	0	9	1	STOPLINES	4	0	3	1	STD
+0	1	15	T	4	0	9	0		4	1	4	1	TEAC
+0	1	16	O	4	0	9	0		4	2	5	1	ONTHE
+0	0	0	P	4	0	9	0		2	3	7	0	
+0	0	0	L	4	0	9	0		0	4	9	0	
+0	0	0	I	4	0	9	0		0	5	7	0	
+0	0	0	N	4	0	9	0		0	6	5	0	
+0	0	0	E	4	0	9	0		1	7	4	0	
+0	0	0	S	4	0	9	0		2	8	3	0	
+0	1	17	T	5	0	6	1	TENPIN	4	0	3	0	
+0	0	0	E	5	0	6	0		4	1	4	0	
+0	0	0	N	5	0	6	0		4	2	5	0	
+0	0	0	P	5	0	6	0		2	3	7	0	
+0	0	0	I	5	0	6	0		0	4	9	0	
+0	0	0	N	5	0	6	0		0	5	7	0	
+1	0	0	#	5	7	0	0		6	6	3	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	18	D	6	0	9	1	DATINGBAR	4	0	3	0	
+0	0	0	A	6	0	9	0		4	1	4	0	
+0	0	0	T	6	0	9	0		4	2	5	0	
+0	0	0	I	6	0	9	0		2	3	7	0	
+0	0	0	N	6	0	9	0		0	4	9	0	
+0	0	0	G	6	0	9	0		0	5	7	0	
+0	1	19	B	6	0	9	0		6	6	3	1	BAG
+0	1	20	A	6	0	9	0		6	7	3	1	APE
+0	1	21	R	6	0	9	0		6	8	3	1	RUS
+1	0	0	#	7	1	4	0		8	0	0	0	
+0	1	22	C	7	1	4	1	CHEE	4	1	4	0	
+0	0	0	H	7	1	4	0		4	2	5	0	
+0	0	0	E	7	1	4	0		2	3	7	0	
+0	0	0	E	7	1	4	0		0	4	9	0	
+1	0	0	#	7	6	3	0		8	5	0	0	
+0	1	23	A	7	6	3	1	APU	6	6	3	0	
+0	0	0	P	7	6	3	0		6	7	3	0	
+0	0	0	U	7	6	3	0		6	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	0	0	
+0	1	24	E	8	2	3	1	ESS	4	2	5	0	
+0	0	0	S	8	2	3	0		2	3	7	0	
+0	0	0	S	8	2	3	0		0	4	9	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	25	G	8	6	3	1	GES	6	6	3	0	
+0	0	0	E	8	6	3	0		6	7	3	0	
+0	0	0	S	8	6	3	0		6	8	3	0	
+13
+1	MIZ	B'way's "Les ___"
+4	REC	Ping-Pong or dancing, for short
+7	AUS	Innsbruck locale: Abbr.
+8	ECHT	German "genuine"
+10	OMAHAHAHA	Response to a Nebraskan's gag?
+13	IROIST	One using twisted humor
+14	STOPLINES	They're painted at many intersections
+17	TENPIN	Tough pickup for some bowlers
+18	DATINGBAR	Singles spot
+22	CHEE	Tony Hillerman detective Jim
+23	APU	Clerk on "The Simpsons"
+24	ESS	Squiggly letter
+25	GES	Kenmore alternatives
+15
+1	MAO	"From ___ to Mozart" (1980 film)
+2	IUM	Common suffix on chemical elements
+3	ZSA	Doubled, a Hollywood star
+4	REARLINES	Army's back section
+5	ECHOING	Parrotlike behavior
+6	CHAIN	Item of neckwear
+9	THSE	"Just hear ___ sleigh bells jingling 
+11	HIPPIES	Longhairs
+12	ATS	Symbols like @
+14	STD	Part of P.S.T.: Abbr.
+15	TEAC	Sound system brand
+16	ONTHE	Words before rocks, ropes or run
+19	BAG	Word with punching or sleeping
+20	APE	Donkey Kong, e.g.
+21	RUS	Big chunk of Eur.

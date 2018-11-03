@@ -1,0 +1,115 @@
+grid_9x9_26
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	M	0	1	3	1	MLS	0	1	5	1	MESHY
+0	1	2	L	0	1	3	0		0	2	9	1	LACESINTO
+0	1	3	S	0	1	3	0		0	3	3	1	SVE
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	C	0	6	3	1	CWM	0	6	9	1	CRIMINALS
+0	1	5	W	0	6	3	0		0	7	3	1	WHO
+0	1	6	M	0	6	3	0		0	8	3	1	MON
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	E	1	1	4	1	EAVE	0	1	5	0	
+0	0	0	A	1	1	4	0		0	2	9	0	
+0	0	0	V	1	1	4	0		0	3	3	0	
+0	1	8	E	1	1	4	0		1	4	7	1	ENNEADS
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	R	1	6	3	1	RHO	0	6	9	0	
+0	0	0	H	1	6	3	0		0	7	3	0	
+0	0	0	O	1	6	3	0		0	8	3	0	
+0	1	10	A	2	0	9	1	ASCENSION	2	0	3	1	ATM
+0	0	0	S	2	0	9	0		0	1	5	0	
+0	0	0	C	2	0	9	0		0	2	9	0	
+0	0	0	E	2	0	9	0		0	3	3	0	
+0	0	0	N	2	0	9	0		1	4	7	0	
+0	1	11	S	2	0	9	0		2	5	3	1	SOR
+0	0	0	I	2	0	9	0		0	6	9	0	
+0	0	0	O	2	0	9	0		0	7	3	0	
+0	0	0	N	2	0	9	0		0	8	3	0	
+0	1	12	T	3	0	3	1	THE	2	0	3	0	
+0	0	0	H	3	0	3	0		0	1	5	0	
+0	0	0	E	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	13	N	3	4	3	1	NOM	1	4	7	0	
+0	0	0	O	3	4	3	0		2	5	3	0	
+0	0	0	M	3	4	3	0		0	6	9	0	
+1	0	0	#	3	8	0	0		4	7	5	0	
+1	0	0	#	3	9	0	0		4	8	3	0	
+0	1	14	M	4	0	9	1	MYSTERIES	2	0	3	0	
+0	0	0	Y	4	0	9	0		0	1	5	0	
+0	0	0	S	4	0	9	0		0	2	9	0	
+0	1	15	T	4	0	9	0		4	3	3	1	TSO
+0	0	0	E	4	0	9	0		1	4	7	0	
+0	0	0	R	4	0	9	0		2	5	3	0	
+0	0	0	I	4	0	9	0		0	6	9	0	
+0	1	16	E	4	0	9	0		4	7	5	1	EAMES
+0	1	17	S	4	0	9	0		4	8	3	1	SMA
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	3	0		6	1	3	0	
+0	1	18	I	5	2	3	1	ISA	0	2	9	0	
+0	0	0	S	5	2	3	0		4	3	3	0	
+0	0	0	A	5	2	3	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	19	N	5	6	3	1	NAM	0	6	9	0	
+0	0	0	A	5	6	3	0		4	7	5	0	
+0	0	0	M	5	6	3	0		4	8	3	0	
+0	1	20	M	6	0	9	1	MONODRAMA	6	0	3	1	MME
+0	1	21	O	6	0	9	0		6	1	3	1	OIL
+0	0	0	N	6	0	9	0		0	2	9	0	
+0	0	0	O	6	0	9	0		4	3	3	0	
+0	0	0	D	6	0	9	0		1	4	7	0	
+0	1	22	R	6	0	9	0		6	5	3	1	RAM
+0	0	0	A	6	0	9	0		0	6	9	0	
+0	0	0	M	6	0	9	0		4	7	5	0	
+0	0	0	A	6	0	9	0		4	8	3	0	
+0	1	23	M	7	0	3	1	MIT	6	0	3	0	
+0	0	0	I	7	0	3	0		6	1	3	0	
+0	0	0	T	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	4	0		8	3	0	0	
+0	1	24	S	7	4	4	1	SALE	1	4	7	0	
+0	0	0	A	7	4	4	0		6	5	3	0	
+0	0	0	L	7	4	4	0		0	6	9	0	
+0	0	0	E	7	4	4	0		4	7	5	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+0	1	25	E	8	0	3	1	ELO	6	0	3	0	
+0	0	0	L	8	0	3	0		6	1	3	0	
+0	0	0	O	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	M	8	5	3	1	MSS	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	S	8	5	3	0		4	7	5	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	MLS	D.C. United org.
+4	CWM	Welsh valley
+7	EAVE	Projecting edge
+9	RHO	Letter before sigma
+10	ASCENSION	___ Day (Holy Thursday)
+12	THE	"___ end"
+13	NOM	Robespierre, e.g.
+14	MYSTERIES	Detective stories
+18	ISA	"That ___ lie!"
+19	NAM	Vet's memory, maybe
+20	MONODRAMA	Beckett's "Krapp's Last Tape," e.g.
+23	MIT	Sch. on the Charles River
+24	SALE	Emporium event
+25	ELO	"Don't Bring Me Down" band, informally
+26	MSS	Ed.'s pile
+15
+1	MESHY	Netlike
+2	LACESINTO	Excoriates
+3	SVE	Give nothing to
+4	CRIMINALS	Ones in joint custody?
+5	WHO	"... that's ___!"
+6	MON	"___ dieu!"
+8	ENNEADS	Nonets
+10	ATM	Something near many a checkout line
+11	SOR	Frat. counterpart
+15	TSO	Name on a Chinese menu
+16	EAMES	Chair designer Charles
+17	SMA	Little, in Leith
+20	MME	Title of Dickens's Defarge: Abbr.
+21	OIL	Old lamp fill
+22	RAM	Zodiac figure

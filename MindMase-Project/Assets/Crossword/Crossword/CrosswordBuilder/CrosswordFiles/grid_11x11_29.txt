@@ -1,0 +1,171 @@
+grid_11x11_29
+11
+0	1	1	F	0	0	6	1	FINISH	0	0	3	1	FDR
+0	1	2	I	0	0	6	0		0	1	7	1	IRIDIUM
+0	1	3	N	0	0	6	0		0	2	11	1	NEVERSAYDYE
+0	1	4	I	0	0	6	0		0	3	4	1	INES
+0	1	5	S	0	0	6	0		0	4	8	1	SCREAMER
+0	1	6	H	0	0	6	0		0	5	3	1	HHS
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	3	0	
+0	1	7	H	0	8	3	1	HUR	0	8	11	1	HUMANCOMEDY
+0	1	8	U	0	8	3	0		0	9	3	1	URE
+0	1	9	R	0	8	3	0		0	10	3	1	RAN
+0	1	10	D	1	0	6	1	DRENCH	0	0	3	0	
+0	0	0	R	1	0	6	0		0	1	7	0	
+0	0	0	E	1	0	6	0		0	2	11	0	
+0	0	0	N	1	0	6	0		0	3	4	0	
+0	0	0	C	1	0	6	0		0	4	8	0	
+0	0	0	H	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	0	0	
+0	1	11	A	1	7	4	1	AURA	1	7	3	1	AXH
+0	0	0	U	1	7	4	0		0	8	11	0	
+0	0	0	R	1	7	4	0		0	9	3	0	
+0	0	0	A	1	7	4	0		0	10	3	0	
+0	1	12	R	2	0	6	1	RIVERS	0	0	3	0	
+0	0	0	I	2	0	6	0		0	1	7	0	
+0	0	0	V	2	0	6	0		0	2	11	0	
+0	0	0	E	2	0	6	0		0	3	4	0	
+0	0	0	R	2	0	6	0		0	4	8	0	
+0	0	0	S	2	0	6	0		0	5	3	0	
+1	0	0	#	2	7	4	0		3	6	8	0	
+0	1	13	X	2	7	4	1	XMEN	1	7	3	0	
+0	0	0	M	2	7	4	0		0	8	11	0	
+0	0	0	E	2	7	4	0		0	9	3	0	
+0	0	0	N	2	7	4	0		0	10	3	0	
+1	0	0	#	3	1	4	0		4	0	3	0	
+0	1	14	D	3	1	4	1	DESE	0	1	7	0	
+0	0	0	E	3	1	4	0		0	2	11	0	
+0	0	0	S	3	1	4	0		0	3	4	0	
+0	0	0	E	3	1	4	0		0	4	8	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	15	T	3	6	3	1	THA	3	6	8	1	TALKBACK
+0	0	0	H	3	6	3	0		1	7	3	0	
+0	0	0	A	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	16	A	4	0	3	1	AIR	4	0	3	1	ARS
+0	0	0	I	4	0	3	0		0	1	7	0	
+0	0	0	R	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	17	A	4	4	3	1	ACA	0	4	8	0	
+0	1	18	C	4	4	3	0		4	5	3	1	CMI
+0	0	0	A	4	4	3	0		3	6	8	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	N	4	8	3	1	NSF	0	8	11	0	
+0	1	20	S	4	8	3	0		4	9	7	1	SWEETIE
+0	1	21	F	4	8	3	0		4	10	3	1	FTD
+0	1	22	R	5	0	3	1	RUS	4	0	3	0	
+0	0	0	U	5	0	3	0		0	1	7	0	
+0	0	0	S	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	23	M	5	4	3	1	MML	0	4	8	0	
+0	0	0	M	5	4	3	0		4	5	3	0	
+0	0	0	L	5	4	3	0		3	6	8	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	24	C	5	8	3	1	CWT	0	8	11	0	
+0	0	0	W	5	8	3	0		4	9	7	0	
+0	0	0	T	5	8	3	0		4	10	3	0	
+0	1	25	S	6	0	3	1	SMA	4	0	3	0	
+0	0	0	M	6	0	3	0		0	1	7	0	
+0	0	0	A	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	3	0	
+0	1	26	E	6	4	3	1	EIK	0	4	8	0	
+0	0	0	I	6	4	3	0		4	5	3	0	
+0	0	0	K	6	4	3	0		3	6	8	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	27	O	6	8	3	1	OED	0	8	11	0	
+0	0	0	E	6	8	3	0		4	9	7	0	
+0	0	0	D	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	28	Y	7	2	3	1	YER	0	2	11	0	
+0	1	29	E	7	2	3	0		7	3	3	1	ELO
+0	0	0	R	7	2	3	0		0	4	8	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	30	B	7	6	4	1	BEME	3	6	8	0	
+0	1	31	E	7	6	4	0		7	7	4	1	ERIA
+0	0	0	M	7	6	4	0		0	8	11	0	
+0	0	0	E	7	6	4	0		4	9	7	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	32	B	8	0	4	1	BEDL	8	0	3	1	BED
+0	1	33	E	8	0	4	0		8	1	3	1	ENE
+0	0	0	D	8	0	4	0		0	2	11	0	
+0	0	0	L	8	0	4	0		7	3	3	0	
+1	0	0	#	8	5	6	0		9	4	0	0	
+0	1	34	D	8	5	6	1	DARETO	8	5	3	1	DAO
+0	0	0	A	8	5	6	0		3	6	8	0	
+0	0	0	R	8	5	6	0		7	7	4	0	
+0	0	0	E	8	5	6	0		0	8	11	0	
+0	0	0	T	8	5	6	0		4	9	7	0	
+0	1	35	O	8	5	6	0		8	10	3	1	OCD
+0	1	36	E	9	0	4	1	ENYO	8	0	3	0	
+0	0	0	N	9	0	4	0		8	1	3	0	
+0	0	0	Y	9	0	4	0		0	2	11	0	
+0	0	0	O	9	0	4	0		7	3	3	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	37	A	9	5	6	1	ACIDIC	8	5	3	0	
+0	0	0	C	9	5	6	0		3	6	8	0	
+0	0	0	I	9	5	6	0		7	7	4	0	
+0	0	0	D	9	5	6	0		0	8	11	0	
+0	0	0	I	9	5	6	0		4	9	7	0	
+0	0	0	C	9	5	6	0		8	10	3	0	
+0	1	38	D	10	0	3	1	DEE	8	0	3	0	
+0	0	0	E	10	0	3	0		8	1	3	0	
+0	0	0	E	10	0	3	0		0	2	11	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	6	0		11	4	0	0	
+0	1	39	O	10	5	6	1	OKAYED	8	5	3	0	
+0	0	0	K	10	5	6	0		3	6	8	0	
+0	0	0	A	10	5	6	0		7	7	4	0	
+0	0	0	Y	10	5	6	0		0	8	11	0	
+0	0	0	E	10	5	6	0		4	9	7	0	
+0	0	0	D	10	5	6	0		8	10	3	0	
+25
+1	FINISH	Maze goal
+7	HUR	Lew Wallace's "Ben-___"
+10	DRENCH	Dump water on
+11	AURA	A person may have one of invincibility
+12	RIVERS	Things with outlets
+13	XMEN	2000 sci-fi film
+14	DESE	Not those, in Brooklyn
+15	THA	Article in hip-hop
+16	AIR	Show on TV
+17	ACA	Here, in Toledo
+19	NSF	Univ. grant source
+22	RUS	1904-'05 foe of Japan: Abbr.
+23	MML	Mid-century year
+24	CWT	43.359 kg.
+25	SMA	Diminutive, in Dundee
+26	EIK	Apt. feature, in the classifieds
+27	OED	Philologist's ref.
+28	YER	"___ out!" (ump's cry)
+30	BEME	Sammy Davis Jr.'s "I've Gotta ___"
+32	BEDL	Total chaos
+34	DARETO	___ be different
+36	ENYO	Greek war goddess
+37	ACIDIC	Like sour grapes
+38	DEE	Subpar grade
+39	OKAYED	Sanctioned
+21
+1	FDR	N.Y.C. drive, with "the"
+2	IRIDIUM	Metal in the points of gold pens
+3	NEVERSAYDYE	Always use the term "coloring agent"?
+4	INES	___ de Castro (storied noblewoman)
+5	SCREAMER	Sensational headline
+6	HHS	Cabinet inits. since 1979
+7	HUMANCOMEDY	Saroyan novel, with "The"
+8	URE	Script add-on?
+9	RAN	Headed
+11	AXH	Chopping part of a chopper
+15	TALKBACK	Be fresh
+16	ARS	___ magica (alchemist's work)
+18	CMI	901, in old Rome
+20	SWEETIE	Ladylove
+21	FTD	Teleflora competitor
+29	ELO	"Strange Magic" rock band
+31	ERIA	Emporium suffix
+32	BED	Subsoil
+33	ENE	Ending with butyl
+34	DAO	1957 Physics Nobelist Tsung-___ Lee
+35	OCD	Cause of some repetitive behavior, in brief

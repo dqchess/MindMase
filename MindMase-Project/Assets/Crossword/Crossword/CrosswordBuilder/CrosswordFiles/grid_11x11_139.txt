@@ -1,0 +1,167 @@
+grid_11x11_139
+11
+0	1	1	F	0	0	3	1	FGS	0	0	4	1	FUBU
+0	1	2	G	0	0	3	0		0	1	5	1	GIRLY
+0	1	3	S	0	0	3	0		0	2	5	1	SEATO
+1	0	0	#	0	4	0	0		1	3	6	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	9	0	
+0	1	4	D	0	6	3	1	DSL	0	6	3	1	DOD
+0	1	5	S	0	6	3	0		0	7	3	1	SDI
+0	1	6	L	0	6	3	0		0	8	5	1	LOONY
+1	0	0	#	0	10	0	0		1	9	4	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	U	1	0	4	1	UIES	0	0	4	0	
+0	0	0	I	1	0	4	0		0	1	5	0	
+0	0	0	E	1	0	4	0		0	2	5	0	
+0	1	8	S	1	0	4	0		1	3	6	1	SYRUPY
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	9	D	1	5	6	1	DODOES	1	5	9	1	DISLIKING
+0	0	0	O	1	5	6	0		0	6	3	0	
+0	0	0	D	1	5	6	0		0	7	3	0	
+0	0	0	O	1	5	6	0		0	8	5	0	
+0	1	10	E	1	5	6	0		1	9	4	1	ECOL
+0	1	11	S	1	5	6	0		1	10	3	1	SYN
+0	1	12	B	2	0	4	1	BRAY	0	0	4	0	
+0	0	0	R	2	0	4	0		0	1	5	0	
+0	0	0	A	2	0	4	0		0	2	5	0	
+0	0	0	Y	2	0	4	0		1	3	6	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	13	I	2	5	6	1	IDIOCY	1	5	9	0	
+0	0	0	D	2	5	6	0		0	6	3	0	
+0	0	0	I	2	5	6	0		0	7	3	0	
+0	0	0	O	2	5	6	0		0	8	5	0	
+0	0	0	C	2	5	6	0		1	9	4	0	
+0	0	0	Y	2	5	6	0		1	10	3	0	
+0	1	14	U	3	0	6	1	ULTRAS	0	0	4	0	
+0	0	0	L	3	0	6	0		0	1	5	0	
+0	0	0	T	3	0	6	0		0	2	5	0	
+0	0	0	R	3	0	6	0		1	3	6	0	
+0	1	15	A	3	0	6	0		3	4	3	1	ALA
+0	0	0	S	3	0	6	0		1	5	9	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	3	0		4	7	6	0	
+0	1	16	N	3	8	3	1	NON	0	8	5	0	
+0	0	0	O	3	8	3	0		1	9	4	0	
+0	0	0	N	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	5	0		5	0	0	0	
+0	1	17	Y	4	1	5	1	YOULL	0	1	5	0	
+0	0	0	O	4	1	5	0		0	2	5	0	
+0	0	0	U	4	1	5	0		1	3	6	0	
+0	0	0	L	4	1	5	0		3	4	3	0	
+0	0	0	L	4	1	5	0		1	5	9	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	18	C	4	7	3	1	CYL	4	7	6	1	CEMENT
+0	0	0	Y	4	7	3	0		0	8	5	0	
+0	0	0	L	4	7	3	0		1	9	4	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	4	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	19	P	5	3	5	1	PAINE	1	3	6	0	
+0	0	0	A	5	3	5	0		3	4	3	0	
+0	0	0	I	5	3	5	0		1	5	9	0	
+0	1	20	N	5	3	5	0		5	6	3	1	NIL
+0	0	0	E	5	3	5	0		4	7	6	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	3	0		7	0	3	0	
+0	1	21	C	6	1	3	1	CAY	6	1	4	1	CAOR
+0	1	22	A	6	1	3	0		6	2	5	1	ARBYS
+0	0	0	Y	6	1	3	0		1	3	6	0	
+1	0	0	#	6	5	5	0		7	4	0	0	
+0	1	23	K	6	5	5	1	KIMBA	1	5	9	0	
+0	0	0	I	6	5	5	0		5	6	3	0	
+0	0	0	M	6	5	5	0		4	7	6	0	
+0	1	24	B	6	5	5	0		6	8	5	1	BAYOU
+0	1	25	A	6	5	5	0		6	9	5	1	AVERT
+1	0	0	#	6	11	0	0		7	10	4	0	
+0	1	26	H	7	0	3	1	HAR	7	0	3	1	HGT
+0	0	0	A	7	0	3	0		6	1	4	0	
+0	0	0	R	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	6	0		8	4	3	0	
+0	1	27	I	7	5	6	1	ILEAVE	1	5	9	0	
+0	0	0	L	7	5	6	0		5	6	3	0	
+0	0	0	E	7	5	6	0		4	7	6	0	
+0	0	0	A	7	5	6	0		6	8	5	0	
+0	0	0	V	7	5	6	0		6	9	5	0	
+0	1	28	E	7	5	6	0		7	10	4	1	ETRE
+0	1	29	G	8	0	6	1	GOBLIN	7	0	3	0	
+0	0	0	O	8	0	6	0		6	1	4	0	
+0	0	0	B	8	0	6	0		6	2	5	0	
+0	1	30	L	8	0	6	0		8	3	3	1	LIV
+0	1	31	I	8	0	6	0		8	4	3	1	INE
+0	0	0	N	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	4	0		9	6	0	0	
+0	1	32	N	8	7	4	1	NYET	4	7	6	0	
+0	0	0	Y	8	7	4	0		6	8	5	0	
+0	0	0	E	8	7	4	0		6	9	5	0	
+0	0	0	T	8	7	4	0		7	10	4	0	
+0	1	33	T	9	0	6	1	TRYING	7	0	3	0	
+0	0	0	R	9	0	6	0		6	1	4	0	
+0	0	0	Y	9	0	6	0		6	2	5	0	
+0	0	0	I	9	0	6	0		8	3	3	0	
+0	0	0	N	9	0	6	0		8	4	3	0	
+0	0	0	G	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	34	T	9	7	4	1	TORR	4	7	6	0	
+0	0	0	O	9	7	4	0		6	8	5	0	
+0	0	0	R	9	7	4	0		6	9	5	0	
+0	0	0	R	9	7	4	0		7	10	4	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	3	0		11	1	0	0	
+0	1	35	S	10	2	3	1	SVE	6	2	5	0	
+0	0	0	V	10	2	3	0		8	3	3	0	
+0	0	0	E	10	2	3	0		8	4	3	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	36	U	10	8	3	1	UTE	6	8	5	0	
+0	0	0	T	10	8	3	0		6	9	5	0	
+0	0	0	E	10	8	3	0		7	10	4	0	
+21
+1	FGS	Gridiron scores: Abbr.
+4	DSL	Cable alternative
+7	UIES	Turnarounds, informally
+9	DODOES	They were last seen alive in 1681
+12	BRAY	Donkey's cry
+13	IDIOCY	Dumbness
+14	ULTRAS	Extremists
+16	NON	Vote in Quebec
+17	YOULL	"___ never believe this!"
+18	CYL	Engine part: Abbr.
+19	PAINE	"The Liberty Tree" writer
+21	CAY	Small part of an archipelago
+23	KIMBA	White lion of old cartoons
+26	HAR	Laugh syllable
+27	ILEAVE	Will words
+29	GOBLIN	Little mischief-maker
+32	NYET	Reply from Boris
+33	TRYING	Testing
+34	TORR	Unit of pressure
+35	SVE	Give nothing to
+36	UTE	Multipurpose truck
+21
+1	FUBU	Clothing company since 1992
+2	GIRLY	Kind of show
+3	SEATO	Former Bangkok-based grp.
+4	DOD	U.S.N. and U.S.A.F. div.
+5	SDI	Cold war proj.
+6	LOONY	Bats
+8	SYRUPY	Mawkish
+9	DISLIKING	Not taking kindly to
+10	ECOL	Forester's concern: Abbr.
+11	SYN	Thesis intro?
+15	ALA	Cookbook phrase
+18	CEMENT	Fix firmly
+20	NIL	No score
+21	CAOR	Openness
+22	ARBYS	Popular fast-food chain
+24	BAYOU	Louisiana marsh
+25	AVERT	Thwart
+26	HGT	Info request from a computer dating service: Abbr.
+28	ETRE	To be, in Tours
+30	LIV	Tyler of "Armageddon"
+31	INE	Serpent's tail?

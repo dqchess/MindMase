@@ -1,0 +1,229 @@
+grid_13x13_74
+13
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	3	0		1	1	6	0	
+0	1	1	D	0	2	3	1	DAB	0	2	13	1	DRACULATHEMAN
+0	1	2	A	0	2	3	0		0	3	3	1	AGN
+0	1	3	B	0	2	3	0		0	4	3	1	BYA
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SLR	0	6	4	1	SPAN
+0	1	5	L	0	6	3	0		0	7	4	1	LARC
+0	1	6	R	0	6	3	0		0	8	4	1	RIAL
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	M	0	10	3	1	MOG	0	10	13	1	MAANDPAKETTLE
+0	1	8	O	0	10	3	0		0	11	5	1	ONHER
+0	1	9	G	0	10	3	0		0	12	5	1	GOODY
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	10	O	1	1	4	1	ORGY	1	1	6	1	OVIEDO
+0	0	0	R	1	1	4	0		0	2	13	0	
+0	0	0	G	1	1	4	0		0	3	3	0	
+0	0	0	Y	1	1	4	0		0	4	3	0	
+1	0	0	#	1	6	7	0		2	5	0	0	
+0	1	11	P	1	6	7	1	PAISANO	0	6	4	0	
+0	0	0	A	1	6	7	0		0	7	4	0	
+0	0	0	I	1	6	7	0		0	8	4	0	
+0	1	12	S	1	6	7	0		1	9	3	1	SPI
+0	0	0	A	1	6	7	0		0	10	13	0	
+0	0	0	N	1	6	7	0		0	11	5	0	
+0	0	0	O	1	6	7	0		0	12	5	0	
+0	1	13	I	2	0	5	1	IVANA	2	0	3	1	ITS
+0	0	0	V	2	0	5	0		1	1	6	0	
+0	0	0	A	2	0	5	0		0	2	13	0	
+0	0	0	N	2	0	5	0		0	3	3	0	
+0	0	0	A	2	0	5	0		0	4	3	0	
+1	0	0	#	2	6	7	0		3	5	4	0	
+0	1	14	A	2	6	7	1	ARAPAHO	0	6	4	0	
+0	0	0	R	2	6	7	0		0	7	4	0	
+0	0	0	A	2	6	7	0		0	8	4	0	
+0	0	0	P	2	6	7	0		1	9	3	0	
+0	0	0	A	2	6	7	0		0	10	13	0	
+0	0	0	H	2	6	7	0		0	11	5	0	
+0	0	0	O	2	6	7	0		0	12	5	0	
+0	1	15	T	3	0	3	1	TIC	2	0	3	0	
+0	0	0	I	3	0	3	0		1	1	6	0	
+0	0	0	C	3	0	3	0		0	2	13	0	
+1	0	0	#	3	4	0	0		4	3	4	0	
+1	0	0	#	3	5	8	0		4	4	4	0	
+0	1	16	I	3	5	8	1	INCLINED	3	5	4	1	ITHE
+0	0	0	N	3	5	8	0		0	6	4	0	
+0	0	0	C	3	5	8	0		0	7	4	0	
+0	0	0	L	3	5	8	0		0	8	4	0	
+0	0	0	I	3	5	8	0		1	9	3	0	
+0	0	0	N	3	5	8	0		0	10	13	0	
+0	0	0	E	3	5	8	0		0	11	5	0	
+0	0	0	D	3	5	8	0		0	12	5	0	
+0	1	17	S	4	0	6	1	SEURAT	2	0	3	0	
+0	0	0	E	4	0	6	0		1	1	6	0	
+0	0	0	U	4	0	6	0		0	2	13	0	
+0	1	18	R	4	0	6	0		4	3	4	1	RIDE
+0	1	19	A	4	0	6	0		4	4	4	1	AGES
+0	0	0	T	4	0	6	0		3	5	4	0	
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	0	0		5	7	0	0	
+1	0	0	#	4	9	0	0		5	8	4	0	
+1	0	0	#	4	10	3	0		5	9	4	0	
+0	1	20	D	4	10	3	1	DRY	0	10	13	0	
+0	0	0	R	4	10	3	0		0	11	5	0	
+0	0	0	Y	4	10	3	0		0	12	5	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	21	D	5	1	6	1	DLIGHT	1	1	6	0	
+0	0	0	L	5	1	6	0		0	2	13	0	
+0	0	0	I	5	1	6	0		4	3	4	0	
+0	0	0	G	5	1	6	0		4	4	4	0	
+0	0	0	H	5	1	6	0		3	5	4	0	
+0	1	22	T	5	1	6	0		5	6	3	1	TDS
+1	0	0	#	5	8	3	0		6	7	4	0	
+0	1	23	T	5	8	3	1	TOP	5	8	4	1	TORA
+0	1	24	O	5	8	3	0		5	9	4	1	ODOR
+0	0	0	P	5	8	3	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	11	0		7	0	0	0	
+0	1	25	O	6	1	11	1	OADEEDOODAH	1	1	6	0	
+0	0	0	A	6	1	11	0		0	2	13	0	
+0	0	0	D	6	1	11	0		4	3	4	0	
+0	0	0	E	6	1	11	0		4	4	4	0	
+0	0	0	E	6	1	11	0		3	5	4	0	
+0	0	0	D	6	1	11	0		5	6	3	0	
+0	1	26	O	6	1	11	0		6	7	4	1	OTHE
+0	0	0	O	6	1	11	0		5	8	4	0	
+0	0	0	D	6	1	11	0		5	9	4	0	
+0	0	0	A	6	1	11	0		0	10	13	0	
+0	1	27	H	6	1	11	0		6	11	6	1	HEMINS
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	0	0		8	0	5	0	
+1	0	0	#	7	2	3	0		8	1	5	0	
+0	1	28	T	7	2	3	1	TES	0	2	13	0	
+0	0	0	E	7	2	3	0		4	3	4	0	
+0	0	0	S	7	2	3	0		4	4	4	0	
+1	0	0	#	7	6	6	0		8	5	0	0	
+0	1	29	S	7	6	6	1	STROKE	5	6	3	0	
+0	0	0	T	7	6	6	0		6	7	4	0	
+0	0	0	R	7	6	6	0		5	8	4	0	
+0	0	0	O	7	6	6	0		5	9	4	0	
+0	0	0	K	7	6	6	0		0	10	13	0	
+0	0	0	E	7	6	6	0		6	11	6	0	
+1	0	0	#	7	13	0	0		8	12	3	0	
+0	1	30	A	8	0	3	1	AAH	8	0	5	1	APTTO
+0	1	31	A	8	0	3	0		8	1	5	1	ALERO
+0	0	0	H	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	0	0		9	3	3	0	
+1	0	0	#	8	5	0	0		9	4	4	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	6	0		9	6	4	0	
+0	1	32	H	8	7	6	1	HAREMS	6	7	4	0	
+0	0	0	A	8	7	6	0		5	8	4	0	
+0	0	0	R	8	7	6	0		5	9	4	0	
+0	0	0	E	8	7	6	0		0	10	13	0	
+0	0	0	M	8	7	6	0		6	11	6	0	
+0	1	33	S	8	7	6	0		8	12	3	1	SAO
+0	1	34	P	9	0	8	1	PLEASURE	8	0	5	0	
+0	0	0	L	9	0	8	0		8	1	5	0	
+0	0	0	E	9	0	8	0		0	2	13	0	
+0	1	35	A	9	0	8	0		9	3	3	1	APP
+0	1	36	S	9	0	8	0		9	4	4	1	SUPE
+0	1	37	U	9	0	8	0		9	5	4	1	URES
+0	1	38	R	9	0	8	0		9	6	4	1	RARA
+0	0	0	E	9	0	8	0		6	7	4	0	
+1	0	0	#	9	9	0	0		10	8	3	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	39	T	9	10	3	1	TIA	0	10	13	0	
+0	0	0	I	9	10	3	0		6	11	6	0	
+0	0	0	A	9	10	3	0		8	12	3	0	
+0	1	40	T	10	0	7	1	TEMPURA	8	0	5	0	
+0	0	0	E	10	0	7	0		8	1	5	0	
+0	0	0	M	10	0	7	0		0	2	13	0	
+0	0	0	P	10	0	7	0		9	3	3	0	
+0	0	0	U	10	0	7	0		9	4	4	0	
+0	0	0	R	10	0	7	0		9	5	4	0	
+0	0	0	A	10	0	7	0		9	6	4	0	
+1	0	0	#	10	8	5	0		11	7	0	0	
+0	1	41	G	10	8	5	1	GETNO	10	8	3	1	GOI
+0	1	42	E	10	8	5	0		10	9	3	1	EIN
+0	0	0	T	10	8	5	0		0	10	13	0	
+0	0	0	N	10	8	5	0		6	11	6	0	
+0	0	0	O	10	8	5	0		8	12	3	0	
+0	1	43	T	11	0	7	1	TRAPPER	8	0	5	0	
+0	0	0	R	11	0	7	0		8	1	5	0	
+0	0	0	A	11	0	7	0		0	2	13	0	
+0	0	0	P	11	0	7	0		9	3	3	0	
+0	0	0	P	11	0	7	0		9	4	4	0	
+0	0	0	E	11	0	7	0		9	5	4	0	
+0	0	0	R	11	0	7	0		9	6	4	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	44	O	11	8	4	1	OILS	10	8	3	0	
+0	0	0	I	11	8	4	0		10	9	3	0	
+0	0	0	L	11	8	4	0		0	10	13	0	
+0	0	0	S	11	8	4	0		6	11	6	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	45	O	12	0	3	1	OON	8	0	5	0	
+0	0	0	O	12	0	3	0		8	1	5	0	
+0	0	0	N	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	46	E	12	4	3	1	ESA	9	4	4	0	
+0	0	0	S	12	4	3	0		9	5	4	0	
+0	0	0	A	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	47	I	12	8	3	1	INE	10	8	3	0	
+0	0	0	N	12	8	3	0		10	9	3	0	
+0	0	0	E	12	8	3	0		0	10	13	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+27
+1	DAB	Bit of Vaseline
+4	SLR	Certain camera, initially
+7	MOG	Pet cat, in British lingo
+10	ORGY	Wild time
+11	PAISANO	Buddy
+13	IVANA	One of Donald's exes
+14	ARAPAHO	Foe of the Pawnee
+15	TIC	An X could represent it
+16	INCLINED	Prone
+17	SEURAT	Painter who had a point to make?
+20	DRY	Prohibitionist
+21	DLIGHT	Auto gauge shower
+23	TOP	Vertex
+25	OADEEDOODAH	Academy Award song of 1947
+28	TES	Your, in Tours
+29	STROKE	Cox's call
+30	AAH	Spa reaction
+32	HAREMS	Male seals have them
+34	PLEASURE	Business alternative
+39	TIA	One in la familia
+40	TEMPURA	Japanese dish
+41	GETNO	"I can't ___ satisfaction" (1965 song lyric)
+43	TRAPPER	Fur trader
+44	OILS	Met display
+45	OON	Suffix with pont-
+46	ESA	Spanish "that"
+47	INE	Ending with nectar or saturn
+29
+1	DRACULATHEMAN	Stoker/Wallace book about an unappreciated vampire?
+2	AGN	Once more: Abbr.
+3	BYA	___ whisker
+4	SPAN	Farm team
+5	LARC	___ de Triomphe
+6	RIAL	Omani money
+7	MAANDPAKETTLE	Rustic film couple
+8	ONHER	Part of O.H.M.S.
+9	GOODY	Treat
+10	OVIEDO	Provincial capital in NW Spain
+12	SPI	Slant
+13	ITS	Ricky Nelson's "___ Late"
+16	ITHE	"Am ___ only one...?"
+18	RIDE	Hitchhiker's quest
+19	AGES	Forever and a day
+22	TDS	N.F.L. successes
+23	TORA	When said three times, a W.W. II film
+24	ODOR	Scent
+26	OTHE	Will-wisp connection
+27	HEMINS	Forensic indicators of the presence of blood
+30	APTTO	Probably will, after "is"
+31	ALERO	Stylish Oldsmobile
+33	SAO	___ Jorge (Azores island)
+35	APP	Computer program, for short
+36	SUPE	Caretaker, for short
+37	URES	Actress Mary and musician Midge
+38	RARA	Like a certain avis
+41	GOI	"There but for the grace of God ___"
+42	EIN	A, in Aachen

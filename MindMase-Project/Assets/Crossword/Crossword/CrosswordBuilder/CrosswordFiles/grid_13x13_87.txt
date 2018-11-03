@@ -1,0 +1,235 @@
+grid_13x13_87
+13
+0	1	1	T	0	0	3	1	TER	0	0	3	1	TKO
+0	1	2	E	0	0	3	0		0	1	3	1	EON
+0	1	3	R	0	0	3	0		0	2	3	1	RBD
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	6	0		1	5	3	0	
+0	1	4	F	0	6	6	1	FUISSE	0	6	3	1	FDR
+0	1	5	U	0	6	6	0		0	7	3	1	URO
+0	1	6	I	0	6	6	0		0	8	3	1	IIS
+0	1	7	S	0	6	6	0		0	9	3	1	SET
+0	1	8	S	0	6	6	0		0	10	5	1	SNAFU
+0	1	9	E	0	6	6	0		0	11	5	1	ENTOM
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	K	1	0	4	1	KOBU	0	0	3	0	
+0	0	0	O	1	0	4	0		0	1	3	0	
+0	0	0	B	1	0	4	0		0	2	3	0	
+0	1	11	U	1	0	4	0		1	3	4	1	UEND
+1	0	0	#	1	5	8	0		2	4	0	0	
+0	1	12	A	1	5	8	1	ADRIENNE	1	5	3	1	APA
+0	0	0	D	1	5	8	0		0	6	3	0	
+0	0	0	R	1	5	8	0		0	7	3	0	
+0	0	0	I	1	5	8	0		0	8	3	0	
+0	0	0	E	1	5	8	0		0	9	3	0	
+0	0	0	N	1	5	8	0		0	10	5	0	
+0	0	0	N	1	5	8	0		0	11	5	0	
+0	1	13	E	1	5	8	0		1	12	3	1	EER
+0	1	14	O	2	0	4	1	ONDE	0	0	3	0	
+0	0	0	N	2	0	4	0		0	1	3	0	
+0	0	0	D	2	0	4	0		0	2	3	0	
+0	0	0	E	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	8	0		3	4	6	0	
+0	1	15	P	2	5	8	1	PROSTATE	1	5	3	0	
+0	0	0	R	2	5	8	0		0	6	3	0	
+0	0	0	O	2	5	8	0		0	7	3	0	
+0	0	0	S	2	5	8	0		0	8	3	0	
+0	0	0	T	2	5	8	0		0	9	3	0	
+0	0	0	A	2	5	8	0		0	10	5	0	
+0	0	0	T	2	5	8	0		0	11	5	0	
+0	0	0	E	2	5	8	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	3	0	
+1	0	0	#	3	3	3	0		4	2	3	0	
+0	1	16	N	3	3	3	1	NHA	1	3	4	0	
+0	1	17	H	3	3	3	0		3	4	6	1	HEXING
+0	0	0	A	3	3	3	0		1	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	4	0	
+1	0	0	#	3	9	0	0		4	8	6	0	
+1	0	0	#	3	10	3	0		4	9	3	0	
+0	1	18	F	3	10	3	1	FOR	0	10	5	0	
+0	0	0	O	3	10	3	0		0	11	5	0	
+0	0	0	R	3	10	3	0		1	12	3	0	
+0	1	19	A	4	0	5	1	ATIDE	4	0	3	1	AOK
+0	1	20	T	4	0	5	0		4	1	3	1	TYE
+0	1	21	I	4	0	5	0		4	2	3	1	ISR
+0	0	0	D	4	0	5	0		1	3	4	0	
+0	0	0	E	4	0	5	0		3	4	6	0	
+1	0	0	#	4	6	6	0		5	5	4	0	
+0	1	22	B	4	6	6	1	BARNUM	4	6	5	1	BATSI
+0	1	23	A	4	6	6	0		4	7	4	1	ASHE
+0	1	24	R	4	6	6	0		4	8	6	1	REECHO
+0	1	25	N	4	6	6	0		4	9	3	1	NSF
+0	0	0	U	4	6	6	0		0	10	5	0	
+0	0	0	M	4	6	6	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	26	O	5	0	3	1	OYS	4	0	3	0	
+0	0	0	Y	5	0	3	0		4	1	3	0	
+0	0	0	S	5	0	3	0		4	2	3	0	
+1	0	0	#	5	4	6	0		6	3	3	0	
+0	1	27	X	5	4	6	1	XMASES	3	4	6	0	
+0	1	28	M	5	4	6	0		5	5	4	1	MTEL
+0	0	0	A	5	4	6	0		4	6	5	0	
+0	0	0	S	5	4	6	0		4	7	4	0	
+0	0	0	E	5	4	6	0		4	8	6	0	
+0	0	0	S	5	4	6	0		4	9	3	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	29	K	6	0	13	1	KERMITTHEFROG	4	0	3	0	
+0	0	0	E	6	0	13	0		4	1	3	0	
+0	0	0	R	6	0	13	0		4	2	3	0	
+0	1	30	M	6	0	13	0		6	3	3	1	MOW
+0	0	0	I	6	0	13	0		3	4	6	0	
+0	0	0	T	6	0	13	0		5	5	4	0	
+0	0	0	T	6	0	13	0		4	6	5	0	
+0	0	0	H	6	0	13	0		4	7	4	0	
+0	0	0	E	6	0	13	0		4	8	6	0	
+0	0	0	F	6	0	13	0		4	9	3	0	
+0	1	31	R	6	0	13	0		6	10	3	1	REB
+0	1	32	O	6	0	13	0		6	11	3	1	ORL
+0	1	33	G	6	0	13	0		6	12	3	1	GSA
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	0	0		8	1	5	0	
+1	0	0	#	7	3	6	0		8	2	5	0	
+0	1	34	O	7	3	6	1	ONESEC	6	3	3	0	
+0	0	0	N	7	3	6	0		3	4	6	0	
+0	0	0	E	7	3	6	0		5	5	4	0	
+0	0	0	S	7	3	6	0		4	6	5	0	
+0	0	0	E	7	3	6	0		4	7	4	0	
+0	0	0	C	7	3	6	0		4	8	6	0	
+1	0	0	#	7	10	3	0		8	9	4	0	
+0	1	35	E	7	10	3	1	ERS	6	10	3	0	
+0	0	0	R	7	10	3	0		6	11	3	0	
+0	0	0	S	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	6	0		9	0	3	0	
+0	1	36	M	8	1	6	1	MOWGLI	8	1	5	1	MURAL
+0	1	37	O	8	1	6	0		8	2	5	1	OFUSE
+0	0	0	W	8	1	6	0		6	3	3	0	
+0	0	0	G	8	1	6	0		3	4	6	0	
+0	0	0	L	8	1	6	0		5	5	4	0	
+0	0	0	I	8	1	6	0		4	6	5	0	
+1	0	0	#	8	8	5	0		9	7	3	0	
+0	1	38	H	8	8	5	1	HABLA	4	8	6	0	
+0	1	39	A	8	8	5	0		8	9	4	1	ATMO
+0	0	0	B	8	8	5	0		6	10	3	0	
+0	0	0	L	8	8	5	0		6	11	3	0	
+0	0	0	A	8	8	5	0		6	12	3	0	
+0	1	40	P	9	0	3	1	PUF	9	0	3	1	PCP
+0	0	0	U	9	0	3	0		8	1	5	0	
+0	0	0	F	9	0	3	0		8	2	5	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	41	T	9	7	3	1	TOT	9	7	3	1	TIM
+0	0	0	O	9	7	3	0		4	8	6	0	
+0	0	0	T	9	7	3	0		8	9	4	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	C	10	0	8	1	CRUSHEDI	9	0	3	0	
+0	0	0	R	10	0	8	0		8	1	5	0	
+0	0	0	U	10	0	8	0		8	2	5	0	
+0	1	43	S	10	0	8	0		10	3	3	1	SYR
+0	1	44	H	10	0	8	0		10	4	3	1	HSN
+0	1	45	E	10	0	8	0		10	5	3	1	ETE
+0	1	46	D	10	0	8	0		10	6	3	1	DER
+0	0	0	I	10	0	8	0		9	7	3	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	47	M	10	9	4	1	MIME	8	9	4	0	
+0	1	48	I	10	9	4	0		10	10	3	1	ILK
+0	1	49	M	10	9	4	0		10	11	3	1	MEN
+0	1	50	E	10	9	4	0		10	12	3	1	EAT
+0	1	51	P	11	0	8	1	PASYSTEM	9	0	3	0	
+0	0	0	A	11	0	8	0		8	1	5	0	
+0	0	0	S	11	0	8	0		8	2	5	0	
+0	0	0	Y	11	0	8	0		10	3	3	0	
+0	0	0	S	11	0	8	0		10	4	3	0	
+0	0	0	T	11	0	8	0		10	5	3	0	
+0	0	0	E	11	0	8	0		10	6	3	0	
+0	0	0	M	11	0	8	0		9	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	52	O	11	9	4	1	OLEA	8	9	4	0	
+0	0	0	L	11	9	4	0		10	10	3	0	
+0	0	0	E	11	9	4	0		10	11	3	0	
+0	0	0	A	11	9	4	0		10	12	3	0	
+1	0	0	#	12	1	6	0		13	0	0	0	
+0	1	53	L	12	1	6	1	LERNER	8	1	5	0	
+0	0	0	E	12	1	6	0		8	2	5	0	
+0	0	0	R	12	1	6	0		10	3	3	0	
+0	0	0	N	12	1	6	0		10	4	3	0	
+0	0	0	E	12	1	6	0		10	5	3	0	
+0	0	0	R	12	1	6	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	K	12	10	3	1	KNT	10	10	3	0	
+0	0	0	N	12	10	3	0		10	11	3	0	
+0	0	0	T	12	10	3	0		10	12	3	0	
+25
+1	TER	Three times: Prefix
+4	FUISSE	Pouilly-___ (wine)
+10	KOBU	___-Jutsu (Japanese martial art)
+12	ADRIENNE	Poet Rich who wrote "Diving Into the Wreck"
+14	ONDE	French wave
+15	PROSTATE	Kind of gland
+16	NHA	Shelter grp.
+18	FOR	Benefitting
+19	ATIDE	Agatha Christie's "There Is ___"
+22	BARNUM	Famed huckster
+26	OYS	Sounds of shock
+27	XMASES	Short holidays?
+29	KERMITTHEFROG	Introduction of 1977
+34	ONESEC	"Hold on!"
+35	ERS	TV drama settings
+36	MOWGLI	"The Jungle Book" hero
+38	HABLA	Speak in Spanish
+40	PUF	Sta-___ fabric softener
+41	TOT	One in a romper room
+42	CRUSHEDI	Drink cooler ... or a hint to six squares in this puzzle's answer
+47	MIME	One who gives the silent treatment?
+51	PASYSTEM	Medium for announcements
+52	OLEA	Roman "olive"
+53	LERNER	"My Fair Lady" lyricist
+54	KNT	Chess piece: Abbr.
+37
+1	TKO	Decision letters
+2	EON	Many eras
+3	RBD	Hosp. areas
+4	FDR	New Deal fig.
+5	URO	Tail: Prefix
+6	IIS	___ for iron
+7	SET	Workout segment
+8	SNAFU	Bollix
+9	ENTOM	Sci. of insects
+11	UEND	Flip
+12	APA	Shrinks' grp.
+13	EER	Suffix with mountain
+17	HEXING	Spelling
+19	AOK	Swell
+20	TYE	Rope used in sailing
+21	ISR	Where Mt. Tabor is: Abbr.
+22	BATSI	Enables a runner to score, maybe
+23	ASHE	New York City stadium name
+24	REECHO	Come back again
+25	NSF	Fed. grant giver
+28	MTEL	Place for a Christmas card
+30	MOW	Fell with a blade
+31	REB	Gray-clad soldier
+32	ORL	Magic on a scoreboard?
+33	GSA	Fed. management org.
+36	MURAL	Giotto work
+37	OFUSE	Helpful
+39	ATMO	Prefix with meter or sphere
+40	PCP	Illicit drug inits.
+41	TIM	The youngest Cratchit
+43	SYR	Neighbor of Iraq: Abbr.
+44	HSN	Cable inits. for sales pitches
+45	ETE	Soissons saison
+46	DER	Dancer's partner?
+48	ILK	Family
+49	MEN	Checkers, e.g.
+50	EAT	Lunch on

@@ -1,0 +1,113 @@
+grid_9x9_188
+9
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	C	0	1	3	1	CCX	0	1	9	1	CAMECLOSE
+0	1	2	C	0	1	3	0		0	2	9	1	CLEAREYES
+0	1	3	X	0	1	3	0		0	3	3	1	XFL
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	S	0	5	3	1	SSN	0	5	5	1	SCAPA
+0	1	5	S	0	5	3	0		0	6	9	1	SPLITPEAS
+0	1	6	N	0	5	3	0		0	7	9	1	NITPICKED
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	1	1	3	0		2	0	0	0	
+0	1	7	A	1	1	3	1	ALF	0	1	9	0	
+0	0	0	L	1	1	3	0		0	2	9	0	
+0	0	0	F	1	1	3	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	8	C	1	5	3	1	CPI	0	5	5	0	
+0	0	0	P	1	5	3	0		0	6	9	0	
+0	0	0	I	1	5	3	0		0	7	9	0	
+1	0	0	#	1	9	0	0		2	8	0	0	
+1	0	0	#	2	1	3	0		3	0	3	0	
+0	1	9	M	2	1	3	1	MEL	0	1	9	0	
+0	0	0	E	2	1	3	0		0	2	9	0	
+0	0	0	L	2	1	3	0		0	3	3	0	
+1	0	0	#	2	5	3	0		3	4	3	0	
+0	1	10	A	2	5	3	1	ALT	0	5	5	0	
+0	0	0	L	2	5	3	0		0	6	9	0	
+0	0	0	T	2	5	3	0		0	7	9	0	
+1	0	0	#	2	9	0	0		3	8	3	0	
+0	1	11	D	3	0	3	1	DEA	3	0	3	1	DAS
+0	0	0	E	3	0	3	0		0	1	9	0	
+0	0	0	A	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	12	A	3	4	5	1	APIPE	3	4	3	1	ABT
+0	0	0	P	3	4	5	0		0	5	5	0	
+0	0	0	I	3	4	5	0		0	6	9	0	
+0	0	0	P	3	4	5	0		0	7	9	0	
+0	1	13	E	3	4	5	0		3	8	3	1	ECT
+0	1	14	A	4	0	9	1	ACROBATIC	3	0	3	0	
+0	0	0	C	4	0	9	0		0	1	9	0	
+0	0	0	R	4	0	9	0		0	2	9	0	
+0	1	15	O	4	0	9	0		4	3	5	1	OPEDS
+0	0	0	B	4	0	9	0		3	4	3	0	
+0	0	0	A	4	0	9	0		0	5	5	0	
+0	0	0	T	4	0	9	0		0	6	9	0	
+0	0	0	I	4	0	9	0		0	7	9	0	
+0	0	0	C	4	0	9	0		3	8	3	0	
+0	1	16	S	5	0	5	1	SLEPT	3	0	3	0	
+0	0	0	L	5	0	5	0		0	1	9	0	
+0	0	0	E	5	0	5	0		0	2	9	0	
+0	0	0	P	5	0	5	0		4	3	5	0	
+0	0	0	T	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	P	5	6	3	1	PCT	0	6	9	0	
+0	0	0	C	5	6	3	0		0	7	9	0	
+0	0	0	T	5	6	3	0		3	8	3	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	18	O	6	1	3	1	OYE	0	1	9	0	
+0	0	0	Y	6	1	3	0		0	2	9	0	
+0	0	0	E	6	1	3	0		4	3	5	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	19	B	6	5	3	1	BEK	6	5	3	1	BTU
+0	0	0	E	6	5	3	0		0	6	9	0	
+0	0	0	K	6	5	3	0		0	7	9	0	
+1	0	0	#	6	9	0	0		7	8	0	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	20	S	7	1	3	1	SED	0	1	9	0	
+0	0	0	E	7	1	3	0		0	2	9	0	
+0	0	0	D	7	1	3	0		4	3	5	0	
+1	0	0	#	7	5	3	0		8	4	0	0	
+0	1	21	T	7	5	3	1	TAE	6	5	3	0	
+0	0	0	A	7	5	3	0		0	6	9	0	
+0	0	0	E	7	5	3	0		0	7	9	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	22	E	8	1	3	1	ESS	0	1	9	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	S	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	23	U	8	5	3	1	USD	6	5	3	0	
+0	0	0	S	8	5	3	0		0	6	9	0	
+0	0	0	D	8	5	3	0		0	7	9	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	CCX	Third-century year
+4	SSN	ID entered on every I.R.S. form
+7	ALF	Landon of politics
+8	CPI	Cost-of-living stat.
+9	MEL	Gibson who was People magazine's first Sexiest Man Alive
+10	ALT	Keyboard key
+11	DEA	Narc's employer
+12	APIPE	Foucault's "This Is Not ___"
+14	ACROBATIC	Like tumblers
+16	SLEPT	Was a bad night watchman
+17	PCT	Polling amt.
+18	OYE	"___ of little faith ..."
+19	BEK	Dub "sir"
+20	SED	Latin conjunction
+21	TAE	Initials of a noted "Wizard"
+22	ESS	Winding curve
+23	USD	Amer. capital
+11
+1	CAMECLOSE	Almost made it
+2	CLEAREYES	Indication of sobriety
+3	XFL	Former sports org. with the teams Hitmen and Rage
+4	SCAPA	___ Flow (British naval base site)
+5	SPLITPEAS	Some soup ingredients
+6	NITPICKED	Split hairs
+11	DAS	Prosecutors, for short
+12	ABT	Baryshnikov's former co.
+13	ECT	Outside, at the outset
+15	OPEDS	Some columns
+19	BTU	A.C. capacity

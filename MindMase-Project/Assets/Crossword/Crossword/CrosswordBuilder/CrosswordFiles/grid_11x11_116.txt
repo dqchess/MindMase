@@ -1,0 +1,167 @@
+grid_11x11_116
+11
+0	1	1	M	0	0	3	1	MMI	0	0	3	1	MIC
+0	1	2	M	0	0	3	0		0	1	4	1	MILA
+0	1	3	I	0	0	3	0		0	2	10	1	ISAACSTERN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	5	0	
+0	1	4	A	0	5	3	1	ANI	0	5	3	1	ATA
+0	1	5	N	0	5	3	0		0	6	3	1	NWT
+0	1	6	I	0	5	3	0		0	7	4	1	IAIM
+1	0	0	#	0	9	0	0		1	8	10	0	
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	I	1	0	3	1	IIS	0	0	3	0	
+0	0	0	I	1	0	3	0		0	1	4	0	
+0	0	0	S	1	0	3	0		0	2	10	0	
+1	0	0	#	1	4	6	0		2	3	3	0	
+0	1	8	I	1	4	6	1	ITWASI	1	4	5	1	IMSET
+0	0	0	T	1	4	6	0		0	5	3	0	
+0	0	0	W	1	4	6	0		0	6	3	0	
+0	0	0	A	1	4	6	0		0	7	4	0	
+0	1	9	S	1	4	6	0		1	8	10	1	SOAPOPERAS
+0	1	10	I	1	4	6	0		1	9	5	1	INRUN
+1	0	0	#	1	11	0	0		2	10	0	0	
+0	1	11	C	2	0	10	1	CLAYMATION	0	0	3	0	
+0	0	0	L	2	0	10	0		0	1	4	0	
+0	0	0	A	2	0	10	0		0	2	10	0	
+0	1	12	Y	2	0	10	0		2	3	3	1	YAH
+0	0	0	M	2	0	10	0		1	4	5	0	
+0	0	0	A	2	0	10	0		0	5	3	0	
+0	0	0	T	2	0	10	0		0	6	3	0	
+0	0	0	I	2	0	10	0		0	7	4	0	
+0	0	0	O	2	0	10	0		1	8	10	0	
+0	0	0	N	2	0	10	0		1	9	5	0	
+1	0	0	#	2	11	0	0		3	10	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	13	A	3	1	4	1	AAAS	0	1	4	0	
+0	0	0	A	3	1	4	0		0	2	10	0	
+0	0	0	A	3	1	4	0		2	3	3	0	
+0	0	0	S	3	1	4	0		1	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	14	M	3	7	4	1	MARI	0	7	4	0	
+0	0	0	A	3	7	4	0		1	8	10	0	
+0	0	0	R	3	7	4	0		1	9	5	0	
+0	1	15	I	3	7	4	0		3	10	3	1	IBI
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	4	0		5	1	5	0	
+0	1	16	C	4	2	4	1	CHEE	0	2	10	0	
+0	0	0	H	4	2	4	0		2	3	3	0	
+0	0	0	E	4	2	4	0		1	4	5	0	
+0	1	17	E	4	2	4	0		4	5	3	1	ETH
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	18	P	4	8	3	1	PUB	1	8	10	0	
+0	0	0	U	4	8	3	0		1	9	5	0	
+0	0	0	B	4	8	3	0		3	10	3	0	
+0	1	19	T	5	0	3	1	THS	5	0	3	1	TOI
+0	1	20	H	5	0	3	0		5	1	5	1	HALFA
+0	0	0	S	5	0	3	0		0	2	10	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	21	T	5	4	3	1	TTT	1	4	5	0	
+0	0	0	T	5	4	3	0		4	5	3	0	
+0	1	22	T	5	4	3	0		5	6	5	1	TUBER
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	23	O	5	8	3	1	ONI	1	8	10	0	
+0	0	0	N	5	8	3	0		1	9	5	0	
+0	0	0	I	5	8	3	0		3	10	3	0	
+0	1	24	O	6	0	3	1	OAT	5	0	3	0	
+0	0	0	A	6	0	3	0		5	1	5	0	
+0	0	0	T	6	0	3	0		0	2	10	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	25	H	6	5	4	1	HUMP	4	5	3	0	
+0	0	0	U	6	5	4	0		5	6	5	0	
+0	1	26	M	6	5	4	0		6	7	3	1	MAA
+0	0	0	P	6	5	4	0		1	8	10	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	0	0	
+0	1	27	I	7	0	4	1	ILED	5	0	3	0	
+0	0	0	L	7	0	4	0		5	1	5	0	
+0	0	0	E	7	0	4	0		0	2	10	0	
+0	1	28	D	7	0	4	0		7	3	4	1	DIGS
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	4	0		8	5	3	0	
+0	1	29	B	7	6	4	1	BAED	5	6	5	0	
+0	0	0	A	7	6	4	0		6	7	3	0	
+0	0	0	E	7	6	4	0		1	8	10	0	
+0	1	30	D	7	6	4	0		7	9	4	1	DEEM
+1	0	0	#	7	11	0	0		8	10	3	0	
+1	0	0	#	8	1	10	0		9	0	0	0	
+0	1	31	F	8	1	10	1	FRINGEAREA	5	1	5	0	
+0	0	0	R	8	1	10	0		0	2	10	0	
+0	0	0	I	8	1	10	0		7	3	4	0	
+0	1	32	N	8	1	10	0		8	4	3	1	NLQ
+0	1	33	G	8	1	10	0		8	5	3	1	GER
+0	0	0	E	8	1	10	0		5	6	5	0	
+0	0	0	A	8	1	10	0		6	7	3	0	
+0	0	0	R	8	1	10	0		1	8	10	0	
+0	0	0	E	8	1	10	0		7	9	4	0	
+0	1	34	A	8	1	10	0		8	10	3	1	ACA
+1	0	0	#	9	1	6	0		10	0	0	0	
+0	1	35	A	9	1	6	1	ANGLER	5	1	5	0	
+0	0	0	N	9	1	6	0		0	2	10	0	
+0	0	0	G	9	1	6	0		7	3	4	0	
+0	0	0	L	9	1	6	0		8	4	3	0	
+0	0	0	E	9	1	6	0		8	5	3	0	
+0	0	0	R	9	1	6	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	36	A	9	8	3	1	AEC	1	8	10	0	
+0	0	0	E	9	8	3	0		7	9	4	0	
+0	0	0	C	9	8	3	0		8	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	37	S	10	3	3	1	SQR	7	3	4	0	
+0	0	0	Q	10	3	3	0		8	4	3	0	
+0	0	0	R	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	38	S	10	8	3	1	SMA	1	8	10	0	
+0	0	0	M	10	8	3	0		7	9	4	0	
+0	0	0	A	10	8	3	0		8	10	3	0	
+21
+1	MMI	Millennium start
+4	ANI	Cuckoo bird
+7	IIS	"___ for igloo"
+8	ITWASI	Dramatic confession
+11	CLAYMATION	Frames that take shape?
+13	AAAS	Motorists' clubs, in brief
+14	MARI	French husband
+16	CHEE	Tony Hillerman detective Jim
+18	PUB	Bath suds spot?
+19	THS	Music, dance, painting, etc.
+21	TTT	Game-winning cry
+23	ONI	Clandestine maritime org.
+24	OAT	Nosebag tidbit
+25	HUMP	___ Day (Wednesday)
+27	ILED	"___ Three Lives"
+29	BAED	Bleated
+31	FRINGEAREA	Exurb
+35	ANGLER	One opening up a can of worms?
+36	AEC	Old nuclear regulatory org.
+37	SQR	Plaza abbr.
+38	SMA	Smugness
+21
+1	MIC	Small hearing aid?
+2	MILA	"___ 18" (Leon Uris novel)
+3	ISAACSTERN	This puzzle's subject, born 7/21/20
+4	ATA	One-time connector
+5	NWT	Yellowknife is its cap.
+6	IAIM	"___ to please"
+8	IMSET	"No more for me"
+9	SOAPOPERAS	Daily productions
+10	INRUN	First part of a ski jump
+12	YAH	Exclamation of impatience
+15	IBI	There: Lat.
+17	ETH	End in the Bible?
+19	TOI	Parisian pronoun
+20	HALFA	___ loaf
+22	TUBER	Potato, for one
+26	MAA	Ewe in "Babe"
+28	DIGS	Quarters, informally
+30	DEEM	Judge to be
+32	NLQ	Place to hang a ring
+33	GER	What Austrians speak: Abbr.
+34	ACA	Here, in Honduras

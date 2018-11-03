@@ -1,0 +1,113 @@
+grid_9x9_111
+9
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	5	0		1	1	3	0	
+0	1	1	B	0	2	5	1	BASED	0	2	4	1	BRAY
+0	1	2	A	0	2	5	0		0	3	3	1	ARR
+0	1	3	S	0	2	5	0		0	4	9	1	SAMARITAN
+0	1	4	E	0	2	5	0		0	5	5	1	EZINE
+0	1	5	D	0	2	5	0		0	6	4	1	DANK
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	6	V	1	0	9	1	VERRAZANO	1	0	3	1	VSO
+0	1	7	E	1	0	9	0		1	1	3	1	EWR
+0	0	0	R	1	0	9	0		0	2	4	0	
+0	0	0	R	1	0	9	0		0	3	3	0	
+0	0	0	A	1	0	9	0		0	4	9	0	
+0	0	0	Z	1	0	9	0		0	5	5	0	
+0	0	0	A	1	0	9	0		0	6	4	0	
+0	1	8	N	1	0	9	0		1	7	3	1	NTH
+0	1	9	O	1	0	9	0		1	8	3	1	OOS
+0	1	10	S	2	0	9	1	SWARMINTO	1	0	3	0	
+0	0	0	W	2	0	9	0		1	1	3	0	
+0	0	0	A	2	0	9	0		0	2	4	0	
+0	0	0	R	2	0	9	0		0	3	3	0	
+0	0	0	M	2	0	9	0		0	4	9	0	
+0	0	0	I	2	0	9	0		0	5	5	0	
+0	0	0	N	2	0	9	0		0	6	4	0	
+0	0	0	T	2	0	9	0		1	7	3	0	
+0	0	0	O	2	0	9	0		1	8	3	0	
+0	1	11	O	3	0	3	1	ORY	1	0	3	0	
+0	0	0	R	3	0	3	0		1	1	3	0	
+0	0	0	Y	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	12	A	3	4	5	1	ANKHS	0	4	9	0	
+0	0	0	N	3	4	5	0		0	5	5	0	
+0	0	0	K	3	4	5	0		0	6	4	0	
+0	0	0	H	3	4	5	0		1	7	3	0	
+0	0	0	S	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	3	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	13	E	4	3	3	1	ERE	4	3	5	1	ECLAT
+0	0	0	R	4	3	3	0		0	4	9	0	
+0	0	0	E	4	3	3	0		0	5	5	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	3	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	14	L	5	0	5	1	LUCCI	5	0	3	1	LDC
+0	1	15	U	5	0	5	0		5	1	3	1	UEA
+0	1	16	C	5	0	5	0		5	2	4	1	CANA
+0	0	0	C	5	0	5	0		4	3	5	0	
+0	0	0	I	5	0	5	0		0	4	9	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	O	5	6	3	1	ODO	5	6	4	1	OVIS
+0	1	18	D	5	6	3	0		5	7	3	1	DET
+0	1	19	O	5	6	3	0		5	8	3	1	ORE
+0	1	20	D	6	0	9	1	DEALTOVER	5	0	3	0	
+0	0	0	E	6	0	9	0		5	1	3	0	
+0	0	0	A	6	0	9	0		5	2	4	0	
+0	0	0	L	6	0	9	0		4	3	5	0	
+0	0	0	T	6	0	9	0		0	4	9	0	
+0	1	21	O	6	0	9	0		6	5	3	1	ONO
+0	0	0	V	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	3	0	
+0	0	0	R	6	0	9	0		5	8	3	0	
+0	1	22	C	7	0	9	1	CANAANITE	5	0	3	0	
+0	0	0	A	7	0	9	0		5	1	3	0	
+0	0	0	N	7	0	9	0		5	2	4	0	
+0	0	0	A	7	0	9	0		4	3	5	0	
+0	0	0	A	7	0	9	0		0	4	9	0	
+0	0	0	N	7	0	9	0		6	5	3	0	
+0	0	0	I	7	0	9	0		5	6	4	0	
+0	0	0	T	7	0	9	0		5	7	3	0	
+0	0	0	E	7	0	9	0		5	8	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	5	0		9	1	0	0	
+0	1	23	A	8	2	5	1	ATNOS	5	2	4	0	
+0	0	0	T	8	2	5	0		4	3	5	0	
+0	0	0	N	8	2	5	0		0	4	9	0	
+0	0	0	O	8	2	5	0		6	5	3	0	
+0	0	0	S	8	2	5	0		5	6	4	0	
+1	0	0	#	8	8	0	0		9	7	0	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+11
+1	BASED	Grounded
+6	VERRAZANO	First European to enter New York Bay
+10	SWARMINTO	Overrun
+11	ORY	Suffix with deposit or reposit
+12	ANKHS	Crosses with loops
+13	ERE	'Fore
+14	LUCCI	Noted 1999 Daytime Emmy winner
+17	ODO	Pope Urban II, originally
+20	DEALTOVER	Redistributed
+22	CANAANITE	Inhabitant of ancient Palestine
+23	ATNOS	B and O figures: Abbr.
+17
+1	BRAY	Farm call
+2	ARR	Airport monitor abbr.
+3	SAMARITAN	Helper of parable
+4	EZINE	Slate or Salon
+5	DANK	Clammy
+6	VSO	Letters on a brandy bottle
+7	EWR	Airport alternative to JFK or LGA
+8	NTH	Extreme
+9	OOS	Long-running film role
+13	ECLAT	Acclaim
+14	LDC	Parts of a house, in classifieds: Abbr.
+15	UEA	Pupil's place
+16	CANA	Water-to-wine town
+17	OVIS	Sheep genus
+18	DET	P.D. figure
+19	ORE	Suffix with ranch
+21	ONO	Lennon's second wife

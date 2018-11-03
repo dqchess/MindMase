@@ -1,0 +1,309 @@
+grid_15x15_130
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	K	0	1	3	1	KYD	0	1	4	1	KAYE
+0	1	2	Y	0	1	3	0		0	2	15	1	YELLOWBRICKROAD
+0	1	3	D	0	1	3	0		0	3	3	1	DOE
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	Y	0	5	3	1	YZB	0	5	4	1	YUMA
+0	1	5	Z	0	5	3	0		0	6	4	1	ZMED
+0	1	6	B	0	5	3	0		0	7	5	1	BAWDS
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	5	0	
+0	1	7	N	0	10	3	1	NER	0	10	3	1	NIM
+0	1	8	E	0	10	3	0		0	11	3	1	EDU
+0	1	9	R	0	10	3	0		0	12	15	1	RESIDENTIALAREA
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	M	1	0	4	1	MAEO	1	0	3	1	MPH
+0	0	0	A	1	0	4	0		0	1	4	0	
+0	0	0	E	1	0	4	0		0	2	15	0	
+0	0	0	O	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	11	U	1	5	3	1	UMA	0	5	4	0	
+0	0	0	M	1	5	3	0		0	6	4	0	
+0	0	0	A	1	5	3	0		0	7	5	0	
+1	0	0	#	1	9	5	0		2	8	7	0	
+0	1	12	A	1	9	5	1	AIDES	1	9	5	1	ADELE
+0	0	0	I	1	9	5	0		0	10	3	0	
+0	0	0	D	1	9	5	0		0	11	3	0	
+0	0	0	E	1	9	5	0		0	12	15	0	
+0	1	13	S	1	9	5	0		1	13	5	1	SIGIL
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	14	P	2	0	4	1	PYLE	1	0	3	0	
+0	0	0	Y	2	0	4	0		0	1	4	0	
+0	0	0	L	2	0	4	0		0	2	15	0	
+0	0	0	E	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	10	0		3	4	3	0	
+0	1	15	M	2	5	10	1	MEWEDMUSIC	0	5	4	0	
+0	0	0	E	2	5	10	0		0	6	4	0	
+0	0	0	W	2	5	10	0		0	7	5	0	
+0	1	16	E	2	5	10	0		2	8	7	1	ELATION
+0	0	0	D	2	5	10	0		1	9	5	0	
+0	0	0	M	2	5	10	0		0	10	3	0	
+0	0	0	U	2	5	10	0		0	11	3	0	
+0	0	0	S	2	5	10	0		0	12	15	0	
+0	0	0	I	2	5	10	0		1	13	5	0	
+0	1	17	C	2	5	10	0		2	14	3	1	COP
+0	1	18	H	3	0	3	1	HEL	1	0	3	0	
+0	0	0	E	3	0	3	0		0	1	4	0	
+0	0	0	L	3	0	3	0		0	2	15	0	
+1	0	0	#	3	4	6	0		4	3	3	0	
+0	1	19	P	3	4	6	1	PADDLE	3	4	3	1	PIN
+0	0	0	A	3	4	6	0		0	5	4	0	
+0	0	0	D	3	4	6	0		0	6	4	0	
+0	0	0	D	3	4	6	0		0	7	5	0	
+0	0	0	L	3	4	6	0		2	8	7	0	
+0	0	0	E	3	4	6	0		1	9	5	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+1	0	0	#	3	12	3	0		4	11	3	0	
+0	1	20	I	3	12	3	1	IGO	0	12	15	0	
+0	0	0	G	3	12	3	0		1	13	5	0	
+0	0	0	O	3	12	3	0		2	14	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	3	0		5	1	3	0	
+0	1	21	O	4	2	3	1	ORI	0	2	15	0	
+0	1	22	R	4	2	3	0		4	3	3	1	RAR
+0	0	0	I	4	2	3	0		3	4	3	0	
+1	0	0	#	4	6	0	0		5	5	3	0	
+1	0	0	#	4	7	8	0		5	6	0	0	
+0	1	23	S	4	7	8	1	SALSADIP	0	7	5	0	
+0	0	0	A	4	7	8	0		2	8	7	0	
+0	0	0	L	4	7	8	0		1	9	5	0	
+0	1	24	S	4	7	8	0		4	10	3	1	SRS
+0	1	25	A	4	7	8	0		4	11	3	1	AKU
+0	0	0	D	4	7	8	0		0	12	15	0	
+0	0	0	I	4	7	8	0		1	13	5	0	
+0	0	0	P	4	7	8	0		2	14	3	0	
+0	1	26	T	5	0	6	1	TSWANA	5	0	3	1	THS
+0	1	27	S	5	0	6	0		5	1	3	1	SEP
+0	0	0	W	5	0	6	0		0	2	15	0	
+0	0	0	A	5	0	6	0		4	3	3	0	
+0	0	0	N	5	0	6	0		3	4	3	0	
+0	1	28	A	5	0	6	0		5	5	3	1	ALB
+1	0	0	#	5	7	0	0		6	6	7	0	
+1	0	0	#	5	8	6	0		6	7	3	0	
+0	1	29	T	5	8	6	1	TERKEL	2	8	7	0	
+0	0	0	E	5	8	6	0		1	9	5	0	
+0	0	0	R	5	8	6	0		4	10	3	0	
+0	0	0	K	5	8	6	0		4	11	3	0	
+0	0	0	E	5	8	6	0		0	12	15	0	
+0	0	0	L	5	8	6	0		1	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	30	H	6	0	4	1	HEBR	5	0	3	0	
+0	0	0	E	6	0	4	0		5	1	3	0	
+0	0	0	B	6	0	4	0		0	2	15	0	
+0	0	0	R	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	31	L	6	5	4	1	LACI	5	5	3	0	
+0	1	32	A	6	5	4	0		6	6	7	1	ARCTICC
+0	1	33	C	6	5	4	0		6	7	3	1	COO
+0	0	0	I	6	5	4	0		2	8	7	0	
+1	0	0	#	6	10	3	0		7	9	3	0	
+0	1	34	S	6	10	3	1	SUN	4	10	3	0	
+0	0	0	U	6	10	3	0		4	11	3	0	
+0	0	0	N	6	10	3	0		0	12	15	0	
+1	0	0	#	6	14	0	0		7	13	3	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	35	S	7	0	3	1	SPR	5	0	3	0	
+0	0	0	P	7	0	3	0		5	1	3	0	
+0	0	0	R	7	0	3	0		0	2	15	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	36	B	7	5	5	1	BROOM	5	5	3	0	
+0	0	0	R	7	5	5	0		6	6	7	0	
+0	0	0	O	7	5	5	0		6	7	3	0	
+0	0	0	O	7	5	5	0		2	8	7	0	
+0	1	37	M	7	5	5	0		7	9	3	1	MVI
+1	0	0	#	7	11	0	0		8	10	0	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	38	T	7	12	3	1	TAT	0	12	15	0	
+0	1	39	A	7	12	3	0		7	13	3	1	AVI
+0	1	40	T	7	12	3	0		7	14	3	1	TON
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	3	0		9	1	5	0	
+0	1	41	I	8	2	3	1	IAN	0	2	15	0	
+0	1	42	A	8	2	3	0		8	3	3	1	ARE
+0	1	43	N	8	2	3	0		8	4	3	1	NIA
+1	0	0	#	8	6	4	0		9	5	5	0	
+0	1	44	C	8	6	4	1	CONV	6	6	7	0	
+0	0	0	O	8	6	4	0		6	7	3	0	
+0	0	0	N	8	6	4	0		2	8	7	0	
+0	0	0	V	8	6	4	0		7	9	3	0	
+1	0	0	#	8	11	4	0		9	10	3	0	
+0	1	45	V	8	11	4	1	VIVO	8	11	3	1	VPS
+0	0	0	I	8	11	4	0		0	12	15	0	
+0	0	0	V	8	11	4	0		7	13	3	0	
+0	0	0	O	8	11	4	0		7	14	3	0	
+1	0	0	#	9	1	6	0		10	0	3	0	
+0	1	46	S	9	1	6	1	SCRIPT	9	1	5	1	SAITH
+0	0	0	C	9	1	6	0		0	2	15	0	
+0	0	0	R	9	1	6	0		8	3	3	0	
+0	0	0	I	9	1	6	0		8	4	3	0	
+0	1	47	P	9	1	6	0		9	5	5	1	PHONO
+0	0	0	T	9	1	6	0		6	6	7	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	6	0		10	8	0	0	
+0	1	48	I	9	9	6	1	INPAIN	7	9	3	0	
+0	1	49	N	9	9	6	0		9	10	3	1	NYS
+0	0	0	P	9	9	6	0		8	11	3	0	
+0	0	0	A	9	9	6	0		0	12	15	0	
+0	0	0	I	9	9	6	0		7	13	3	0	
+0	0	0	N	9	9	6	0		7	14	3	0	
+0	1	50	T	10	0	8	1	TAKEAHIT	10	0	3	1	TAS
+0	0	0	A	10	0	8	0		9	1	5	0	
+0	0	0	K	10	0	8	0		0	2	15	0	
+0	0	0	E	10	0	8	0		8	3	3	0	
+0	0	0	A	10	0	8	0		8	4	3	0	
+0	0	0	H	10	0	8	0		9	5	5	0	
+0	0	0	I	10	0	8	0		6	6	7	0	
+0	1	51	T	10	0	8	0		10	7	5	1	THAWS
+1	0	0	#	10	9	0	0		11	8	4	0	
+1	0	0	#	10	10	3	0		11	9	4	0	
+0	1	52	Y	10	10	3	1	YSL	9	10	3	0	
+0	0	0	S	10	10	3	0		8	11	3	0	
+0	0	0	L	10	10	3	0		0	12	15	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	3	0	
+0	1	53	A	11	0	3	1	AIR	10	0	3	0	
+0	0	0	I	11	0	3	0		9	1	5	0	
+0	0	0	R	11	0	3	0		0	2	15	0	
+1	0	0	#	11	4	0	0		12	3	3	0	
+1	0	0	#	11	5	6	0		12	4	3	0	
+0	1	54	O	11	5	6	1	OCHRES	9	5	5	0	
+0	0	0	C	11	5	6	0		6	6	7	0	
+0	0	0	H	11	5	6	0		10	7	5	0	
+0	1	55	R	11	5	6	0		11	8	4	1	RRED
+0	1	56	E	11	5	6	0		11	9	4	1	ESTS
+0	0	0	S	11	5	6	0		9	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	57	A	11	12	3	1	ALF	0	12	15	0	
+0	1	58	L	11	12	3	0		11	13	4	1	LEEK
+0	1	59	F	11	12	3	0		11	14	3	1	FAR
+0	1	60	S	12	0	10	1	STOLENCARS	10	0	3	0	
+0	0	0	T	12	0	10	0		9	1	5	0	
+0	0	0	O	12	0	10	0		0	2	15	0	
+0	1	61	L	12	0	10	0		12	3	3	1	LDR
+0	1	62	E	12	0	10	0		12	4	3	1	ETE
+0	0	0	N	12	0	10	0		9	5	5	0	
+0	0	0	C	12	0	10	0		6	6	7	0	
+0	0	0	A	12	0	10	0		10	7	5	0	
+0	0	0	R	12	0	10	0		11	8	4	0	
+0	0	0	S	12	0	10	0		11	9	4	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	63	D	12	11	4	1	DREA	12	11	3	1	DJS
+0	0	0	R	12	11	4	0		0	12	15	0	
+0	0	0	E	12	11	4	0		11	13	4	0	
+0	0	0	A	12	11	4	0		11	14	3	0	
+1	0	0	#	13	1	5	0		14	0	0	0	
+0	1	64	H	13	1	5	1	HADTO	9	1	5	0	
+0	0	0	A	13	1	5	0		0	2	15	0	
+0	0	0	D	13	1	5	0		12	3	3	0	
+0	0	0	T	13	1	5	0		12	4	3	0	
+0	0	0	O	13	1	5	0		9	5	5	0	
+1	0	0	#	13	7	3	0		14	6	0	0	
+0	1	65	W	13	7	3	1	WET	10	7	5	0	
+0	0	0	E	13	7	3	0		11	8	4	0	
+0	0	0	T	13	7	3	0		11	9	4	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	66	J	13	11	4	1	JEER	12	11	3	0	
+0	0	0	E	13	11	4	0		0	12	15	0	
+0	0	0	E	13	11	4	0		11	13	4	0	
+0	0	0	R	13	11	4	0		11	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	3	0		15	1	0	0	
+0	1	67	D	14	2	3	1	DRE	0	2	15	0	
+0	0	0	R	14	2	3	0		12	3	3	0	
+0	0	0	E	14	2	3	0		12	4	3	0	
+1	0	0	#	14	6	0	0		15	5	0	0	
+1	0	0	#	14	7	3	0		15	6	0	0	
+0	1	68	S	14	7	3	1	SDS	10	7	5	0	
+0	0	0	D	14	7	3	0		11	8	4	0	
+0	0	0	S	14	7	3	0		11	9	4	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	69	S	14	11	3	1	SAK	12	11	3	0	
+0	0	0	A	14	11	3	0		0	12	15	0	
+0	0	0	K	14	11	3	0		11	13	4	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	KYD	Elizabethan dramatist Thomas
+4	YZB	Vietnamese holiday
+7	NER	___ Tamid (synagogue lamp)
+10	MAEO	San ___, Calif.
+11	UMA	Meryl's "Prime" co-star
+12	AIDES	Auxiliaries
+14	PYLE	G.I. journalist
+15	MEWEDMUSIC	Score of "Cats"?
+18	HEL	Daughter of Loki
+19	PADDLE	Row
+20	IGO	Neil Sedaka's "___ Ape"
+21	ORI	"Either you ___ ..."
+23	SALSADIP	Spicy blend
+26	TSWANA	A language of South Africa
+29	TERKEL	Pulitzer winner Studs
+30	HEBR	Semitic lang.
+31	LACI	Peterson of 2003 news
+34	SUN	Morning riser
+35	SPR	White Sulphur ___, W. Va.: Abbr.
+36	BROOM	Sweeper
+38	TAT	Make a doily
+41	IAN	Publisher Ballantine
+44	CONV	Party mtg.
+45	VIVO	In ___ (type of fertilization)
+46	SCRIPT	Cruise lines?
+48	INPAIN	Hurting
+50	TAKEAHIT	Get clobbered
+52	YSL	Fashion initials
+53	AIR	Melody
+54	OCHRES	Orangish tones
+57	ALF	Furry TV extraterrestrial
+60	STOLENCARS	Insurance Institute for Highway Safety concern
+63	DREA	Emmy-winning actress ___ de Matteo
+64	HADTO	"If I ___ guess ..."
+65	WET	Like some snow
+66	JEER	Hoot
+67	DRE	Dr. ___ formerly of Death Row Records
+68	SDS	1960s campus grp.
+69	SAK	Bag, in brand names
+41
+1	KAYE	"Chickery Chick" bandleader
+2	YELLOWBRICKROAD	Dorothy followed it
+3	DOE	It goes for a buck
+4	YUMA	Arizona county or its seat
+5	ZMED	"T. J. Hooker" actor Adrian
+6	BAWDS	Madams
+7	NIM	Game with sticks
+8	EDU	Follower of harvard. or yale.
+9	RESIDENTIALAREA	Where no one has any business going?
+10	MPH	Radar reading: Abbr.
+12	ADELE	Designer Simpson
+13	SIGIL	Magical symbol
+16	ELATION	"I won the lottery!" feeling
+17	COP	One who handles bookings
+19	PIN	Fraternity jewelry
+22	RAR	Soldier
+24	SRS	Promgoers: Abbr.
+25	AKU	When repeated, a Thor Heyerdahl title
+26	THS	Cultural topics
+27	SEP	___ 21, Intl. Day of Peace
+28	ALB	Adriatic repub.
+32	ARCTICC	Eskimo's environs
+33	COO	Gentle sound
+37	MVI	Year in Ethelred the Unready's reign
+39	AVI	Bird: Prefix
+40	TON	Style, Elle-style
+42	ARE	Go for, in price
+43	NIA	Peeples of "North Shore," 1987
+45	VPS	Some corp. execs
+46	SAITH	Doth speak
+47	PHONO	Place for a 45
+49	NYS	Albany is its capital: Abbr.
+50	TAS	Prof.'s helpers
+51	THAWS	Defrosts
+55	RRED	Snow White's sister
+56	ESTS	Guesses: Abbr.
+58	LEEK	Onion's kin
+59	FAR	Substantially
+61	LDR	C.E.O., e.g.: Abbr.
+62	ETE	Three months abroad
+63	DJS	Wedding reception hirees

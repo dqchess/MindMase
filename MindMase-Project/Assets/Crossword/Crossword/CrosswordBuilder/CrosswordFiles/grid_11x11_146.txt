@@ -1,0 +1,167 @@
+grid_11x11_146
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	P	0	1	3	1	PVT	0	1	4	1	POGS
+0	1	2	V	0	1	3	0		0	2	4	1	VSOP
+0	1	3	T	0	1	3	0		0	3	6	1	TSTORM
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	X	0	5	3	1	XIS	0	5	3	1	XCI
+0	1	5	I	0	5	3	0		0	6	3	1	IHP
+0	1	6	S	0	5	3	0		0	7	3	1	SEP
+1	0	0	#	0	9	0	0		1	8	5	0	
+1	0	0	#	0	10	0	0		1	9	5	0	
+1	0	0	#	0	11	0	0		1	10	0	0	
+0	1	7	F	1	0	4	1	FOSS	1	0	3	1	FEE
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	S	1	0	4	0		0	2	4	0	
+0	0	0	S	1	0	4	0		0	3	6	0	
+1	0	0	#	1	5	5	0		2	4	5	0	
+0	1	8	C	1	5	5	1	CHERE	0	5	3	0	
+0	0	0	H	1	5	5	0		0	6	3	0	
+0	0	0	E	1	5	5	0		0	7	3	0	
+0	1	9	R	1	5	5	0		1	8	5	1	REACT
+0	1	10	E	1	5	5	0		1	9	5	1	ERATO
+1	0	0	#	1	11	0	0		2	10	3	0	
+0	1	11	E	2	0	11	1	EGOTRIPPERS	1	0	3	0	
+0	0	0	G	2	0	11	0		0	1	4	0	
+0	0	0	O	2	0	11	0		0	2	4	0	
+0	0	0	T	2	0	11	0		0	3	6	0	
+0	1	12	R	2	0	11	0		2	4	5	1	ROPES
+0	0	0	I	2	0	11	0		0	5	3	0	
+0	0	0	P	2	0	11	0		0	6	3	0	
+0	0	0	P	2	0	11	0		0	7	3	0	
+0	0	0	E	2	0	11	0		1	8	5	0	
+0	0	0	R	2	0	11	0		1	9	5	0	
+0	1	13	S	2	0	11	0		2	10	3	1	SSS
+0	1	14	E	3	0	5	1	ESPOO	1	0	3	0	
+0	0	0	S	3	0	5	0		0	1	4	0	
+0	0	0	P	3	0	5	0		0	2	4	0	
+0	0	0	O	3	0	5	0		0	3	6	0	
+0	0	0	O	3	0	5	0		2	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	3	0		4	7	0	0	
+0	1	15	A	3	8	3	1	AAS	1	8	5	0	
+0	0	0	A	3	8	3	0		1	9	5	0	
+0	0	0	S	3	8	3	0		2	10	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	5	0	
+1	0	0	#	4	3	4	0		5	2	5	0	
+0	1	16	R	4	3	4	1	RPMS	0	3	6	0	
+0	0	0	P	4	3	4	0		2	4	5	0	
+0	1	17	M	4	3	4	0		4	5	3	1	MST
+0	1	18	S	4	3	4	0		4	6	5	1	SOPST
+1	0	0	#	4	8	3	0		5	7	6	0	
+0	1	19	C	4	8	3	1	CTS	1	8	5	0	
+0	0	0	T	4	8	3	0		1	9	5	0	
+0	0	0	S	4	8	3	0		2	10	3	0	
+1	0	0	#	5	1	9	0		6	0	3	0	
+0	1	20	C	5	1	9	1	COMESONTO	5	1	5	1	COZEN
+0	1	21	O	5	1	9	0		5	2	5	1	OVOLO
+0	0	0	M	5	1	9	0		0	3	6	0	
+0	0	0	E	5	1	9	0		2	4	5	0	
+0	0	0	S	5	1	9	0		4	5	3	0	
+0	0	0	O	5	1	9	0		4	6	5	0	
+0	1	22	N	5	1	9	0		5	7	6	1	NSPOOL
+0	0	0	T	5	1	9	0		1	8	5	0	
+0	0	0	O	5	1	9	0		1	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+0	1	23	T	6	0	3	1	TOV	6	0	3	1	TAV
+0	0	0	O	6	0	3	0		5	1	5	0	
+0	0	0	V	6	0	3	0		5	2	5	0	
+1	0	0	#	6	4	4	0		7	3	0	0	
+0	1	24	S	6	4	4	1	STPS	2	4	5	0	
+0	0	0	T	6	4	4	0		4	5	3	0	
+0	0	0	P	6	4	4	0		4	6	5	0	
+0	0	0	S	6	4	4	0		5	7	6	0	
+1	0	0	#	6	9	0	0		7	8	4	0	
+1	0	0	#	6	10	0	0		7	9	4	0	
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	25	A	7	0	3	1	AZO	6	0	3	0	
+0	0	0	Z	7	0	3	0		5	1	5	0	
+0	0	0	O	7	0	3	0		5	2	5	0	
+1	0	0	#	7	4	0	0		8	3	3	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	26	S	7	6	5	1	SPERM	4	6	5	0	
+0	0	0	P	7	6	5	0		5	7	6	0	
+0	1	27	E	7	6	5	0		7	8	4	1	EURE
+0	1	28	R	7	6	5	0		7	9	4	1	RCTS
+0	1	29	M	7	6	5	0		7	10	3	1	MHO
+0	1	30	V	8	0	11	1	VELVETTOUCH	6	0	3	0	
+0	0	0	E	8	0	11	0		5	1	5	0	
+0	0	0	L	8	0	11	0		5	2	5	0	
+0	1	31	V	8	0	11	0		8	3	3	1	VOL
+0	1	32	E	8	0	11	0		8	4	3	1	ENE
+0	1	33	T	8	0	11	0		8	5	3	1	TSA
+0	0	0	T	8	0	11	0		4	6	5	0	
+0	0	0	O	8	0	11	0		5	7	6	0	
+0	0	0	U	8	0	11	0		7	8	4	0	
+0	0	0	C	8	0	11	0		7	9	4	0	
+0	0	0	H	8	0	11	0		7	10	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	34	N	9	1	5	1	NOONS	5	1	5	0	
+0	0	0	O	9	1	5	0		5	2	5	0	
+0	0	0	O	9	1	5	0		8	3	3	0	
+0	0	0	N	9	1	5	0		8	4	3	0	
+0	0	0	S	9	1	5	0		8	5	3	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	35	O	9	7	4	1	ORTO	5	7	6	0	
+0	0	0	R	9	7	4	0		7	8	4	0	
+0	0	0	T	9	7	4	0		7	9	4	0	
+0	0	0	O	9	7	4	0		7	10	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	0	0	
+1	0	0	#	10	3	3	0		11	2	0	0	
+0	1	36	L	10	3	3	1	LEA	8	3	3	0	
+0	0	0	E	10	3	3	0		8	4	3	0	
+0	0	0	A	10	3	3	0		8	5	3	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	37	L	10	7	3	1	LES	5	7	6	0	
+0	0	0	E	10	7	3	0		7	8	4	0	
+0	0	0	S	10	7	3	0		7	9	4	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	PVT	Lowest-ranking G.I.
+4	XIS	Greek letters
+7	FOSS	"Time Cycle" composer Lukas ___
+8	CHERE	Dear, in Dijon
+11	EGOTRIPPERS	Narcissists
+14	ESPOO	Finland's second-largest city
+15	AAS	Walkman batteries
+16	RPMS	High ones may produce a roar
+19	CTS	Abbr. in a price
+20	COMESONTO	Propositions
+23	TOV	Tevye's "good"
+24	STPS	Motor oil additives
+25	AZO	___ dye
+26	SPERM	Kind of whale
+30	VELVETTOUCH	1948 Rosalind Russell film, with "The"
+34	NOONS	Times to put the hands together?
+35	ORTO	"___ put it another way ..."
+36	LEA	Place to pasture
+37	LES	Aix-___-Bains, France
+23
+1	POGS	Faddish 90's collectibles
+2	VSOP	Initials on a brandy bottle
+3	TSTORM	Brief weather phenomenon?
+4	XCI	Year in Domitian's reign
+5	IHP	Restaurant chain since '58
+6	SEP	Third qtr. ender
+7	FEE	Attorney's charge
+9	REACT	Jump at a noise, e.g.
+10	ERATO	Poetry Muse
+12	ROPES	Boxing ring boundaries
+13	SSS	Radiator sound
+17	MST	Colo. is on it
+18	SOPST	Fallacious reasoner
+20	COZEN	Gull
+21	OVOLO	Convex molding
+22	NSPOOL	Illegal lottery game
+23	TAV	23rd Hebrew letter
+27	EURE	French river or department
+28	RCTS	Business records: Abbr.
+29	MHO	Conductance unit
+31	VOL	P-Q, maybe: Abbr.
+32	ENE	From S.F. to Tahoe
+33	TSA	Carry-on checkers: Abbr.

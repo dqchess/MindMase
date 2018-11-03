@@ -1,0 +1,167 @@
+grid_11x11_200
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	4	0		1	1	5	0	
+0	1	1	I	0	2	4	1	ISTH	0	2	6	1	IMNONE
+0	1	2	S	0	2	4	0		0	3	4	1	SAYS
+0	1	3	T	0	2	4	0		0	4	3	1	TTL
+0	1	4	H	0	2	4	0		0	5	3	1	HIS
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	A	0	8	3	1	ADR	0	8	4	1	ARIA
+0	1	6	D	0	8	3	0		0	9	4	1	DUNN
+0	1	7	R	0	8	3	0		0	10	3	1	REG
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	8	A	1	1	6	1	AMATIS	1	1	5	1	AILEY
+0	0	0	M	1	1	6	0		0	2	6	0	
+0	0	0	A	1	1	6	0		0	3	4	0	
+0	0	0	T	1	1	6	0		0	4	3	0	
+0	0	0	I	1	1	6	0		0	5	3	0	
+0	1	9	S	1	1	6	0		1	6	5	1	SIXER
+1	0	0	#	1	8	3	0		2	7	4	0	
+0	1	10	R	1	8	3	1	RUE	0	8	4	0	
+0	0	0	U	1	8	3	0		0	9	4	0	
+0	0	0	E	1	8	3	0		0	10	3	0	
+0	1	11	V	2	0	11	1	VINYLSIDING	2	0	3	1	VAL
+0	0	0	I	2	0	11	0		1	1	5	0	
+0	0	0	N	2	0	11	0		0	2	6	0	
+0	0	0	Y	2	0	11	0		0	3	4	0	
+0	0	0	L	2	0	11	0		0	4	3	0	
+0	0	0	S	2	0	11	0		0	5	3	0	
+0	0	0	I	2	0	11	0		1	6	5	0	
+0	1	12	D	2	0	11	0		2	7	4	1	DIII
+0	0	0	I	2	0	11	0		0	8	4	0	
+0	0	0	N	2	0	11	0		0	9	4	0	
+0	0	0	G	2	0	11	0		0	10	3	0	
+0	1	13	A	3	0	4	1	ALOS	2	0	3	0	
+0	0	0	L	3	0	4	0		1	1	5	0	
+0	0	0	O	3	0	4	0		0	2	6	0	
+0	0	0	S	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	14	X	3	6	4	1	XIAN	1	6	5	0	
+0	0	0	I	3	6	4	0		2	7	4	0	
+0	0	0	A	3	6	4	0		0	8	4	0	
+0	0	0	N	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	L	4	0	3	1	LEN	2	0	3	0	
+0	0	0	E	4	0	3	0		1	1	5	0	
+0	0	0	N	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	4	0	
+1	0	0	#	4	5	3	0		5	4	5	0	
+0	1	16	N	4	5	3	1	NEI	4	5	3	1	NEH
+0	0	0	E	4	5	3	0		1	6	5	0	
+0	0	0	I	4	5	3	0		2	7	4	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	17	Y	5	1	9	1	YEAVERILY	1	1	5	0	
+0	0	0	E	5	1	9	0		0	2	6	0	
+0	1	18	A	5	1	9	0		5	3	4	1	AABA
+0	1	19	V	5	1	9	0		5	4	5	1	VALSE
+0	0	0	E	5	1	9	0		4	5	3	0	
+0	0	0	R	5	1	9	0		1	6	5	0	
+0	0	0	I	5	1	9	0		2	7	4	0	
+0	1	20	L	5	1	9	0		5	8	6	1	LIMITS
+0	1	21	Y	5	1	9	0		5	9	5	1	YESES
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	22	A	6	3	3	1	AAH	5	3	4	0	
+0	0	0	A	6	3	3	0		5	4	5	0	
+0	0	0	H	6	3	3	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	23	I	6	8	3	1	IES	5	8	6	0	
+0	0	0	E	6	8	3	0		5	9	5	0	
+0	1	24	S	6	8	3	0		6	10	3	1	SOS
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	25	P	7	1	4	1	PUBL	7	1	4	1	POWS
+0	1	26	U	7	1	4	0		7	2	4	1	UNES
+0	0	0	B	7	1	4	0		5	3	4	0	
+0	0	0	L	7	1	4	0		5	4	5	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	27	A	7	7	4	1	AMSO	7	7	4	1	ARON
+0	0	0	M	7	7	4	0		5	8	6	0	
+0	0	0	S	7	7	4	0		5	9	5	0	
+0	0	0	O	7	7	4	0		6	10	3	0	
+0	1	28	M	8	0	11	1	MONASTERIES	8	0	3	1	MOB
+0	0	0	O	8	0	11	0		7	1	4	0	
+0	0	0	N	8	0	11	0		7	2	4	0	
+0	0	0	A	8	0	11	0		5	3	4	0	
+0	0	0	S	8	0	11	0		5	4	5	0	
+0	1	29	T	8	0	11	0		8	5	3	1	TRI
+0	1	30	E	8	0	11	0		8	6	3	1	EGO
+0	0	0	R	8	0	11	0		7	7	4	0	
+0	0	0	I	8	0	11	0		5	8	6	0	
+0	0	0	E	8	0	11	0		5	9	5	0	
+0	0	0	S	8	0	11	0		6	10	3	0	
+0	1	31	O	9	0	3	1	OWE	8	0	3	0	
+0	0	0	W	9	0	3	0		7	1	4	0	
+0	0	0	E	9	0	3	0		7	2	4	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	32	E	9	4	6	1	ERGOTS	5	4	5	0	
+0	0	0	R	9	4	6	0		8	5	3	0	
+0	0	0	G	9	4	6	0		8	6	3	0	
+0	0	0	O	9	4	6	0		7	7	4	0	
+0	0	0	T	9	4	6	0		5	8	6	0	
+0	0	0	S	9	4	6	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	33	B	10	0	3	1	BSS	8	0	3	0	
+0	0	0	S	10	0	3	0		7	1	4	0	
+0	0	0	S	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	4	0		11	4	0	0	
+0	1	34	I	10	5	4	1	IONS	8	5	3	0	
+0	0	0	O	10	5	4	0		8	6	3	0	
+0	0	0	N	10	5	4	0		7	7	4	0	
+0	0	0	S	10	5	4	0		5	8	6	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	ISTH	Narrow strip of land: Abbr.
+5	ADR	Worker in the TV biz
+8	AMATIS	Cremona craftwork
+10	RUE	Part of Madame's address
+11	VINYLSIDING	House exterior choice
+13	ALOS	Southwestern trees
+14	XIAN	Capital of Shaanxi province
+15	LEN	Cariou of "Sweeney Todd"
+16	NEI	"In the," in Italy
+17	YEAVERILY	Forsooth
+22	AAH	Response to a doctor's request, perhaps
+23	IES	Suffix with pant or aunt
+25	PUBL	Not pvt.
+27	AMSO	"I know not why I ___ sad": Shak.
+28	MONASTERIES	Retreats
+31	OWE	Have a mortgage
+32	ERGOTS	Grain fungi
+33	BSS	M.I.T. degs.
+34	IONS	Products of gamma rays
+23
+1	IMNONE	Gold medalist's claim
+2	SAYS	Simon ___
+3	TTL	Lumberjack's tool
+4	HIS	Hellos
+5	ARIA	Dramatic solo
+6	DUNN	Singing partner of Brooks
+7	REG	It's less than premium: Abbr.
+8	AILEY	"Revelations" choreographer
+9	SIXER	Dr. J was one
+11	VAL	Kilmer of "The Doors"
+12	DIII	Early 6th-century date
+16	NEH	Book before Esther: Abbr.
+18	AABA	Rhyme scheme for Frost's "Stopping by Woods on a Snowy Evening"
+19	VALSE	French dance
+20	LIMITS	Figures for poker players
+21	YESES	Assents
+24	SOS	Brillo alternative
+25	POWS	Part of a treaty exchange, for short
+26	UNES	French singles
+27	ARON	Schoenberg's "Moses und ___"
+28	MOB	F.B.I. target, with 
+29	TRI	Prefix with annual
+30	EGO	First person in ancient Rome

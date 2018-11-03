@@ -1,0 +1,233 @@
+grid_13x13_39
+13
+0	1	1	X	0	0	3	1	XLI	0	0	3	1	XLV
+0	1	2	L	0	0	3	0		0	1	3	1	LOI
+0	1	3	I	0	0	3	0		0	2	13	1	ILLMOWTHELAWN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	5	0	
+0	1	4	P	0	5	3	1	PAM	0	5	3	1	PEG
+0	1	5	A	0	5	3	0		0	6	4	1	AREA
+0	1	6	M	0	5	3	0		0	7	8	1	MACGYVER
+1	0	0	#	0	9	3	0		1	8	0	0	
+0	1	7	L	0	9	3	1	LSI	0	9	6	1	LIMEYS
+0	1	8	S	0	9	3	0		0	10	13	1	SOMEOFMYPLAYS
+0	1	9	I	0	9	3	0		0	11	4	1	ITOO
+1	0	0	#	0	13	0	0		1	12	3	0	
+0	1	10	L	1	0	3	1	LOL	0	0	3	0	
+0	0	0	O	1	0	3	0		0	1	3	0	
+0	0	0	L	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	11	S	1	4	4	1	SERA	1	4	5	1	SAMEO
+0	0	0	E	1	4	4	0		0	5	3	0	
+0	0	0	R	1	4	4	0		0	6	4	0	
+0	0	0	A	1	4	4	0		0	7	8	0	
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	12	I	1	9	4	1	IOTA	0	9	6	0	
+0	0	0	O	1	9	4	0		0	10	13	0	
+0	0	0	T	1	9	4	0		0	11	4	0	
+0	1	13	A	1	9	4	0		1	12	3	1	ANN
+0	1	14	V	2	0	13	1	VILLAGECOMMON	0	0	3	0	
+0	0	0	I	2	0	13	0		0	1	3	0	
+0	0	0	L	2	0	13	0		0	2	13	0	
+0	1	15	L	2	0	13	0		2	3	3	1	LAR
+0	0	0	A	2	0	13	0		1	4	5	0	
+0	0	0	G	2	0	13	0		0	5	3	0	
+0	0	0	E	2	0	13	0		0	6	4	0	
+0	0	0	C	2	0	13	0		0	7	8	0	
+0	1	16	O	2	0	13	0		2	8	3	1	ORO
+0	0	0	M	2	0	13	0		0	9	6	0	
+0	0	0	M	2	0	13	0		0	10	13	0	
+0	0	0	O	2	0	13	0		0	11	4	0	
+0	0	0	N	2	0	13	0		1	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	17	M	3	2	3	1	MAM	0	2	13	0	
+0	0	0	A	3	2	3	0		2	3	3	0	
+0	0	0	M	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	7	0		4	5	0	0	
+0	1	18	A	3	6	7	1	AGREEON	0	6	4	0	
+0	0	0	G	3	6	7	0		0	7	8	0	
+0	0	0	R	3	6	7	0		2	8	3	0	
+0	0	0	E	3	6	7	0		0	9	6	0	
+0	0	0	E	3	6	7	0		0	10	13	0	
+0	0	0	O	3	6	7	0		0	11	4	0	
+0	0	0	N	3	6	7	0		1	12	3	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	19	C	4	1	4	1	CORE	4	1	4	1	CUFF
+0	0	0	O	4	1	4	0		0	2	13	0	
+0	0	0	R	4	1	4	0		2	3	3	0	
+0	0	0	E	4	1	4	0		1	4	5	0	
+1	0	0	#	4	6	0	0		5	5	8	0	
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	20	Y	4	7	4	1	YOYO	0	7	8	0	
+0	0	0	O	4	7	4	0		2	8	3	0	
+0	0	0	Y	4	7	4	0		0	9	6	0	
+0	0	0	O	4	7	4	0		0	10	13	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	21	S	5	0	3	1	SUW	5	0	3	1	SOI
+0	0	0	U	5	0	3	0		4	1	4	0	
+0	0	0	W	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	22	O	5	4	4	1	OLAV	1	4	5	0	
+0	1	23	L	5	4	4	0		5	5	8	1	LUNATICS
+0	1	24	A	5	4	4	0		5	6	3	1	ALO
+0	0	0	V	5	4	4	0		0	7	8	0	
+1	0	0	#	5	9	4	0		6	8	0	0	
+0	1	25	S	5	9	4	1	SFCS	0	9	6	0	
+0	0	0	F	5	9	4	0		0	10	13	0	
+0	1	26	C	5	9	4	0		5	11	4	1	CLER
+0	1	27	S	5	9	4	0		5	12	3	1	SBA
+0	1	28	O	6	0	3	1	OFT	5	0	3	0	
+0	0	0	F	6	0	3	0		4	1	4	0	
+0	0	0	T	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	0	0		7	3	6	0	
+1	0	0	#	6	5	3	0		7	4	0	0	
+0	1	29	U	6	5	3	1	ULE	5	5	8	0	
+0	0	0	L	6	5	3	0		5	6	3	0	
+0	0	0	E	6	5	3	0		0	7	8	0	
+1	0	0	#	6	9	0	0		7	8	5	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	30	M	6	10	3	1	MLB	0	10	13	0	
+0	0	0	L	6	10	3	0		5	11	4	0	
+0	0	0	B	6	10	3	0		5	12	3	0	
+0	1	31	I	7	0	4	1	IFHE	5	0	3	0	
+0	0	0	F	7	0	4	0		4	1	4	0	
+0	0	0	H	7	0	4	0		0	2	13	0	
+0	1	32	E	7	0	4	0		7	3	6	1	EMILIO
+1	0	0	#	7	5	4	0		8	4	3	0	
+0	1	33	N	7	5	4	1	NORT	5	5	8	0	
+0	0	0	O	7	5	4	0		5	6	3	0	
+0	0	0	R	7	5	4	0		0	7	8	0	
+0	1	34	T	7	5	4	0		7	8	5	1	TRUST
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	35	Y	7	10	3	1	YEA	0	10	13	0	
+0	0	0	E	7	10	3	0		5	11	4	0	
+0	0	0	A	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	4	0		9	1	4	0	
+0	1	36	E	8	2	4	1	EMMA	0	2	13	0	
+0	0	0	M	8	2	4	0		7	3	6	0	
+0	1	37	M	8	2	4	0		8	4	3	1	MAL
+0	0	0	A	8	2	4	0		5	5	8	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	4	0		9	7	0	0	
+0	1	38	R	8	8	4	1	REPR	7	8	5	0	
+0	1	39	E	8	8	4	0		8	9	3	1	ENT
+0	0	0	P	8	8	4	0		0	10	13	0	
+0	0	0	R	8	8	4	0		5	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+0	1	40	F	9	0	7	1	FOLIATE	9	0	3	1	FGH
+0	1	41	O	9	0	7	0		9	1	4	1	OOOO
+0	0	0	L	9	0	7	0		0	2	13	0	
+0	0	0	I	9	0	7	0		7	3	6	0	
+0	0	0	A	9	0	7	0		8	4	3	0	
+0	0	0	T	9	0	7	0		5	5	8	0	
+0	1	42	E	9	0	7	0		9	6	4	1	ENES
+1	0	0	#	9	8	3	0		10	7	3	0	
+0	1	43	U	9	8	3	1	UNL	7	8	5	0	
+0	0	0	N	9	8	3	0		8	9	3	0	
+0	0	0	L	9	8	3	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	44	G	10	0	13	1	GOALLINESTAND	9	0	3	0	
+0	0	0	O	10	0	13	0		9	1	4	0	
+0	0	0	A	10	0	13	0		0	2	13	0	
+0	0	0	L	10	0	13	0		7	3	6	0	
+0	0	0	L	10	0	13	0		8	4	3	0	
+0	0	0	I	10	0	13	0		5	5	8	0	
+0	0	0	N	10	0	13	0		9	6	4	0	
+0	1	45	E	10	0	13	0		10	7	3	1	ERE
+0	0	0	S	10	0	13	0		7	8	5	0	
+0	0	0	T	10	0	13	0		8	9	3	0	
+0	0	0	A	10	0	13	0		0	10	13	0	
+0	1	46	N	10	0	13	0		10	11	3	1	NAN
+0	1	47	D	10	0	13	0		10	12	3	1	DWI
+0	1	48	H	11	0	4	1	HOWI	9	0	3	0	
+0	0	0	O	11	0	4	0		9	1	4	0	
+0	0	0	W	11	0	4	0		0	2	13	0	
+0	0	0	I	11	0	4	0		7	3	6	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	49	C	11	5	4	1	CERT	5	5	8	0	
+0	0	0	E	11	5	4	0		9	6	4	0	
+0	0	0	R	11	5	4	0		10	7	3	0	
+0	0	0	T	11	5	4	0		7	8	5	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	50	Y	11	10	3	1	YAW	0	10	13	0	
+0	0	0	A	11	10	3	0		10	11	3	0	
+0	0	0	W	11	10	3	0		10	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	51	O	12	1	3	1	ONO	9	1	4	0	
+0	0	0	N	12	1	3	0		0	2	13	0	
+0	0	0	O	12	1	3	0		7	3	6	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	52	S	12	5	3	1	SSE	5	5	8	0	
+0	0	0	S	12	5	3	0		9	6	4	0	
+0	0	0	E	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	S	12	10	3	1	SNI	0	10	13	0	
+0	0	0	N	12	10	3	0		10	11	3	0	
+0	0	0	I	12	10	3	0		10	12	3	0	
+31
+1	XLI	Year Claudius I became emperor
+4	PAM	Actress Dawber
+7	LSI	Long-running B'way musical seen by couples?
+10	LOL	Equivalent of "ur 2 funny"
+11	SERA	Word repeated after "Que"
+12	IOTA	Itty bit
+14	VILLAGECOMMON	GREEN
+17	MAM	Mother: Var.
+18	AGREEON	Mutually accept
+19	CORE	Rights org.
+20	YOYO	Goofball
+21	SUW	Like some stocks and drugs: Abbr.
+22	OLAV	Norwegian king
+25	SFCS	Certain NCOs
+28	OFT	"___ I had heard of Lucy Gray": Wordsworth
+29	ULE	Diminutive suffix
+30	MLB	Orioles' org.
+31	IFHE	"___ hollers, let 
+33	NORT	Hall-of-Fame college swimming coach ___ Thornton
+35	YEA	Indeed
+36	EMMA	Classic novel that ends with two weddings
+38	REPR	Second ed.
+40	FOLIATE	Decorate with leaves
+43	UNL	Having no bounds: Abbr.
+44	GOALLINESTAND	"Tree holder, in an indoor football game?"
+48	HOWI	"That's just ___ feel"
+49	CERT	Legal writ, for short
+50	YAW	Deviation
+51	ONO	Conceptual art pioneer
+52	SSE	V.I.-to-Trinidad dir.
+53	SNI	___ and snee
+29
+1	XLV	Year in Claudius's reign
+2	LOI	Statute, in Soissons
+3	ILLMOWTHELAWN	"Peace offering #2: ""___"""
+4	PEG	Dowel
+5	AREA	General vicinity
+6	MACGYVER	1980s-'90s action/adventure series
+7	LIMEYS	British tars
+8	SOMEOFMYPLAYS	Start of a quip
+9	ITOO	Langston Hughes poem
+11	SAMEO	Unaltered
+13	ANN	Beattie or Blyth
+15	LAR	Choreographer Lubovitch
+16	ORO	___ y plata (Montana's motto)
+19	CUFF	Slap
+21	SOI	"___ heard"
+23	LUNATICS	Bedlamites
+24	ALO	Phone greeting in Central America
+26	CLER	Sharp
+27	SBA	Fed. loan agency
+32	EMILIO	Italian composer ___ de' Cavalieri
+34	TRUST	"___ thyself": Emerson
+37	MAL	On the ___
+39	ENT	Suffix with insist
+40	FGH	Alphabet trio
+41	OOOO	Reset number
+42	ENES	Hydrocarbon suffixes
+45	ERE	Before, before
+46	NAN	Book editor Talese
+47	DWI	Drunk motorist's offense, briefly

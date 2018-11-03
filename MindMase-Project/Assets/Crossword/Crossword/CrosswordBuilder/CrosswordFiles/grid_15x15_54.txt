@@ -1,0 +1,313 @@
+grid_15x15_54
+15
+0	1	1	P	0	0	5	1	PLANK	0	0	3	1	PSI
+0	1	2	L	0	0	5	0		0	1	4	1	LAMP
+0	1	3	A	0	0	5	0		0	2	4	1	ARPS
+0	1	4	N	0	0	5	0		0	3	5	1	NTEST
+0	1	5	K	0	0	5	0		0	4	3	1	KOL
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	3	0	
+0	1	6	B	0	7	3	1	BUS	0	7	4	1	BALT
+0	1	7	U	0	7	3	0		0	8	3	1	ULT
+0	1	8	S	0	7	3	0		0	9	3	1	SBA
+1	0	0	#	0	11	0	0		1	10	0	0	
+1	0	0	#	0	12	3	0		1	11	3	0	
+0	1	9	I	0	12	3	1	IPO	0	12	10	1	IRRADIATES
+0	1	10	P	0	12	3	0		0	13	10	1	PERTAINING
+0	1	11	O	0	12	3	0		0	14	3	1	ODO
+0	1	12	S	1	0	5	1	SARTO	0	0	3	0	
+0	0	0	A	1	0	5	0		0	1	4	0	
+0	0	0	R	1	0	5	0		0	2	4	0	
+0	0	0	T	1	0	5	0		0	3	5	0	
+0	0	0	O	1	0	5	0		0	4	3	0	
+1	0	0	#	1	6	4	0		2	5	0	0	
+0	1	13	K	1	6	4	1	KALB	1	6	3	1	KIN
+0	0	0	A	1	6	4	0		0	7	4	0	
+0	0	0	L	1	6	4	0		0	8	3	0	
+0	0	0	B	1	6	4	0		0	9	3	0	
+1	0	0	#	1	11	4	0		2	10	5	0	
+0	1	14	C	1	11	4	1	CRED	1	11	3	1	CAS
+0	0	0	R	1	11	4	0		0	12	10	0	
+0	0	0	E	1	11	4	0		0	13	10	0	
+0	0	0	D	1	11	4	0		0	14	3	0	
+0	1	15	I	2	0	5	1	IMPEL	0	0	3	0	
+0	0	0	M	2	0	5	0		0	1	4	0	
+0	0	0	P	2	0	5	0		0	2	4	0	
+0	0	0	E	2	0	5	0		0	3	5	0	
+0	0	0	L	2	0	5	0		0	4	3	0	
+1	0	0	#	2	6	9	0		3	5	3	0	
+0	1	16	I	2	6	9	1	ILTABARRO	1	6	3	0	
+0	0	0	L	2	6	9	0		0	7	4	0	
+0	0	0	T	2	6	9	0		0	8	3	0	
+0	0	0	A	2	6	9	0		0	9	3	0	
+0	1	17	B	2	6	9	0		2	10	5	1	BLATS
+0	0	0	A	2	6	9	0		1	11	3	0	
+0	0	0	R	2	6	9	0		0	12	10	0	
+0	0	0	R	2	6	9	0		0	13	10	0	
+0	0	0	O	2	6	9	0		0	14	3	0	
+1	0	0	#	3	1	3	0		4	0	0	0	
+0	1	18	P	3	1	3	1	PSS	0	1	4	0	
+0	0	0	S	3	1	3	0		0	2	4	0	
+0	0	0	S	3	1	3	0		0	3	5	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	19	A	3	5	3	1	ANT	3	5	3	1	AAU
+0	0	0	N	3	5	3	0		1	6	3	0	
+0	0	0	T	3	5	3	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	6	0	
+1	0	0	#	3	10	4	0		4	9	3	0	
+0	1	20	L	3	10	4	1	LSAT	2	10	5	0	
+0	0	0	S	3	10	4	0		1	11	3	0	
+0	0	0	A	3	10	4	0		0	12	10	0	
+0	0	0	T	3	10	4	0		0	13	10	0	
+1	0	0	#	3	15	0	0		4	14	6	0	
+1	0	0	#	4	1	0	0		5	0	6	0	
+1	0	0	#	4	2	0	0		5	1	10	0	
+1	0	0	#	4	3	3	0		5	2	10	0	
+0	1	21	T	4	3	3	1	TRA	0	3	5	0	
+0	1	22	R	4	3	3	0		4	4	3	1	RFD
+0	0	0	A	4	3	3	0		3	5	3	0	
+1	0	0	#	4	7	0	0		5	6	6	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	23	H	4	8	3	1	HEA	4	8	6	1	HANSEL
+0	1	24	E	4	8	3	0		4	9	3	1	ECG
+0	0	0	A	4	8	3	0		2	10	5	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	D	4	12	3	1	DAW	0	12	10	0	
+0	0	0	A	4	12	3	0		0	13	10	0	
+0	1	26	W	4	12	3	0		4	14	6	1	WISEST
+0	1	27	M	5	0	3	1	MMS	5	0	6	1	MYSTIC
+0	1	28	M	5	0	3	0		5	1	10	1	MATHSYMBOL
+0	1	29	S	5	0	3	0		5	2	10	1	SWEEPSWEEK
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	30	F	5	4	3	1	FUL	4	4	3	0	
+0	0	0	U	5	4	3	0		3	5	3	0	
+0	1	31	L	5	4	3	0		5	6	6	1	LWYVYD
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	32	A	5	8	3	1	ACT	4	8	6	0	
+0	0	0	C	5	8	3	0		4	9	3	0	
+0	0	0	T	5	8	3	0		2	10	5	0	
+1	0	0	#	5	12	3	0		6	11	3	0	
+0	1	33	I	5	12	3	1	III	0	12	10	0	
+0	0	0	I	5	12	3	0		0	13	10	0	
+0	0	0	I	5	12	3	0		4	14	6	0	
+0	1	34	Y	6	0	5	1	YAWED	5	0	6	0	
+0	0	0	A	6	0	5	0		5	1	10	0	
+0	0	0	W	6	0	5	0		5	2	10	0	
+0	1	35	E	6	0	5	0		6	3	3	1	ESL
+0	0	0	D	6	0	5	0		4	4	3	0	
+1	0	0	#	6	6	9	0		7	5	0	0	
+0	1	36	W	6	6	9	1	WINGSPANS	5	6	6	0	
+0	1	37	I	6	6	9	0		6	7	3	1	IER
+0	0	0	N	6	6	9	0		4	8	6	0	
+0	0	0	G	6	6	9	0		4	9	3	0	
+0	0	0	S	6	6	9	0		2	10	5	0	
+0	1	38	P	6	6	9	0		6	11	3	1	PAM
+0	0	0	A	6	6	9	0		0	12	10	0	
+0	0	0	N	6	6	9	0		0	13	10	0	
+0	0	0	S	6	6	9	0		4	14	6	0	
+0	1	39	S	7	0	4	1	STES	5	0	6	0	
+0	0	0	T	7	0	4	0		5	1	10	0	
+0	0	0	E	7	0	4	0		5	2	10	0	
+0	0	0	S	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	0	0		8	4	5	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	40	Y	7	6	3	1	YES	5	6	6	0	
+0	0	0	E	7	6	3	0		6	7	3	0	
+0	0	0	S	7	6	3	0		4	8	6	0	
+1	0	0	#	7	10	0	0		8	9	0	0	
+1	0	0	#	7	11	4	0		8	10	3	0	
+0	1	41	A	7	11	4	1	ATIE	6	11	3	0	
+0	0	0	T	7	11	4	0		0	12	10	0	
+0	0	0	I	7	11	4	0		0	13	10	0	
+0	0	0	E	7	11	4	0		4	14	6	0	
+0	1	42	T	8	0	9	1	THELOUVRE	5	0	6	0	
+0	0	0	H	8	0	9	0		5	1	10	0	
+0	0	0	E	8	0	9	0		5	2	10	0	
+0	0	0	L	8	0	9	0		6	3	3	0	
+0	1	43	O	8	0	9	0		8	4	5	1	OATHS
+0	1	44	U	8	0	9	0		8	5	3	1	URO
+0	0	0	V	8	0	9	0		5	6	6	0	
+0	0	0	R	8	0	9	0		6	7	3	0	
+0	0	0	E	8	0	9	0		4	8	6	0	
+1	0	0	#	8	10	5	0		9	9	3	0	
+0	1	45	A	8	10	5	1	AMENS	8	10	3	1	AVE
+0	0	0	M	8	10	5	0		6	11	3	0	
+0	0	0	E	8	10	5	0		0	12	10	0	
+0	0	0	N	8	10	5	0		0	13	10	0	
+0	0	0	S	8	10	5	0		4	14	6	0	
+0	1	46	I	9	0	3	1	ISP	5	0	6	0	
+0	0	0	S	9	0	3	0		5	1	10	0	
+0	0	0	P	9	0	3	0		5	2	10	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	47	A	9	4	3	1	ARY	8	4	5	0	
+0	0	0	R	9	4	3	0		8	5	3	0	
+0	0	0	Y	9	4	3	0		5	6	6	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	48	L	9	8	3	1	LEV	4	8	6	0	
+0	1	49	E	9	8	3	0		9	9	3	1	ERE
+0	0	0	V	9	8	3	0		8	10	3	0	
+1	0	0	#	9	12	3	0		10	11	5	0	
+0	1	50	S	9	12	3	1	SGT	0	12	10	0	
+0	0	0	G	9	12	3	0		0	13	10	0	
+0	0	0	T	9	12	3	0		4	14	6	0	
+0	1	51	C	10	0	3	1	CYS	5	0	6	0	
+0	0	0	Y	10	0	3	0		5	1	10	0	
+0	0	0	S	10	0	3	0		5	2	10	0	
+1	0	0	#	10	4	3	0		11	3	3	0	
+0	1	52	T	10	4	3	1	TOD	8	4	5	0	
+0	0	0	O	10	4	3	0		8	5	3	0	
+0	0	0	D	10	4	3	0		5	6	6	0	
+1	0	0	#	10	8	0	0		11	7	4	0	
+1	0	0	#	10	9	3	0		11	8	3	0	
+0	1	53	R	10	9	3	1	REP	9	9	3	0	
+0	0	0	E	10	9	3	0		8	10	3	0	
+0	1	54	P	10	9	3	0		10	11	5	1	PARES
+1	0	0	#	10	13	0	0		11	12	4	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+1	0	0	#	11	1	4	0		12	0	3	0	
+0	1	55	M	11	1	4	1	MWAH	5	1	10	0	
+0	0	0	W	11	1	4	0		5	2	10	0	
+0	1	56	A	11	1	4	0		11	3	3	1	AIN
+0	0	0	H	11	1	4	0		8	4	5	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	57	A	11	7	3	1	AGE	11	7	4	1	ACDC
+0	1	58	G	11	7	3	0		11	8	3	1	GED
+0	0	0	E	11	7	3	0		9	9	3	0	
+1	0	0	#	11	11	3	0		12	10	3	0	
+0	1	59	A	11	11	3	1	ADM	10	11	5	0	
+0	1	60	D	11	11	3	0		11	12	4	1	DEKA
+0	1	61	M	11	11	3	0		11	13	4	1	MEON
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	62	O	12	0	9	1	OBEISANCE	12	0	3	1	OMI
+0	0	0	B	12	0	9	0		5	1	10	0	
+0	0	0	E	12	0	9	0		5	2	10	0	
+0	0	0	I	12	0	9	0		11	3	3	0	
+0	0	0	S	12	0	9	0		8	4	5	0	
+0	1	63	A	12	0	9	0		12	5	3	1	ARF
+0	1	64	N	12	0	9	0		12	6	3	1	NEA
+0	0	0	C	12	0	9	0		11	7	4	0	
+0	0	0	E	12	0	9	0		11	8	3	0	
+1	0	0	#	12	10	5	0		13	9	0	0	
+0	1	65	G	12	10	5	1	GREEK	12	10	3	1	GPA
+0	0	0	R	12	10	5	0		10	11	5	0	
+0	0	0	E	12	10	5	0		11	12	4	0	
+0	0	0	E	12	10	5	0		11	13	4	0	
+0	1	66	K	12	10	5	0		12	14	3	1	KEA
+0	1	67	M	13	0	4	1	MOEN	12	0	3	0	
+0	0	0	O	13	0	4	0		5	1	10	0	
+0	0	0	E	13	0	4	0		5	2	10	0	
+0	0	0	N	13	0	4	0		11	3	3	0	
+1	0	0	#	13	5	4	0		14	4	0	0	
+0	1	68	R	13	5	4	1	REDD	12	5	3	0	
+0	0	0	E	13	5	4	0		12	6	3	0	
+0	0	0	D	13	5	4	0		11	7	4	0	
+0	0	0	D	13	5	4	0		11	8	3	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	69	P	13	10	5	1	PEKOE	12	10	3	0	
+0	0	0	E	13	10	5	0		10	11	5	0	
+0	0	0	K	13	10	5	0		11	12	4	0	
+0	0	0	O	13	10	5	0		11	13	4	0	
+0	0	0	E	13	10	5	0		12	14	3	0	
+0	1	70	I	14	0	3	1	ILK	12	0	3	0	
+0	0	0	L	14	0	3	0		5	1	10	0	
+0	0	0	K	14	0	3	0		5	2	10	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	3	0		15	4	0	0	
+0	1	71	F	14	5	3	1	FAC	12	5	3	0	
+0	0	0	A	14	5	3	0		12	6	3	0	
+0	0	0	C	14	5	3	0		11	7	4	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	5	0		15	9	0	0	
+0	1	72	A	14	10	5	1	ASANA	12	10	3	0	
+0	0	0	S	14	10	5	0		10	11	5	0	
+0	0	0	A	14	10	5	0		11	12	4	0	
+0	0	0	N	14	10	5	0		11	13	4	0	
+0	0	0	A	14	10	5	0		12	14	3	0	
+43
+1	PLANK	Ship board
+6	BUS	One going to school?
+9	IPO	N.Y.S.E. event
+12	SARTO	Painter Andrea del ___
+13	KALB	Newsman Marvin or Bernard
+14	CRED	Acceptance on the street, slangily
+15	IMPEL	Push
+16	ILTABARRO	1918 Met premiere
+18	PSS	Ltr. afterthoughts
+19	ANT	Red ___
+20	LSAT	180 is its max. score
+21	TRA	La lead-in
+23	HEA	"
+25	DAW	Margery of nursery rhymedom
+27	MMS	Music degrees
+30	FUL	Attachment used with care?
+32	ACT	One of five in "Othello"
+33	III	Jr.'s son
+34	YAWED	Deviated, in a way
+36	WINGSPANS	Gives impromptu scathing reviews?
+39	STES	Marie and others: Abbr.
+40	YES	"Absolutely!"
+41	ATIE	Force ___ (draw)
+42	THELOUVRE	Paris attraction that features a [ ]
+45	AMENS	Cries of agreement
+46	ISP	AOL, e.g.
+47	ARY	Document ender?
+48	LEV	Third book of the Bible: Abbr.
+50	SGT	Pepper's rank: Abbr.
+51	CYS	Songwriter Coleman and others
+52	TOD	The fox in Disney's "The Fox and the Hound"
+53	REP	Like Lincoln: Abbr.
+55	MWAH	Sound of an air kiss
+57	AGE	Sensitive subject, often
+59	ADM	U.S.N. bigwig
+62	OBEISANCE	Bow or curtsy
+65	GREEK	Fraternity man
+67	MOEN	Faucet brand
+68	REDD	Foxx of "Sanford and Son"
+69	PEKOE	Grade of tea
+70	ILK	Class
+71	FAC	Sch. staff
+72	ASANA	Yoga position
+41
+1	PSI	Sorority letter
+2	LAMP	Street fixture
+3	ARPS	Some Guggenheim works
+4	NTEST	Late 1940s event, in headlines
+5	KOL	___ Nidre (Yom Kippur prayer)
+6	BALT	Latvian, e.g.
+7	ULT	Last in seq.
+8	SBA	Govt. loan org.
+9	IRRADIATES	Lights up
+10	PERTAINING	Connected (to)
+11	ODO	Pope Urban II, originally
+13	KIN	Flesh and blood
+14	CAS	Job for Hercule Poirot
+17	BLATS	Utters loudly and indiscreetly
+19	AAU	Jr. Olympics sponsor
+22	RFD	Backwoods address abbr.
+23	HANSEL	Gretel's brother
+24	ECG	Hosp. readout
+26	WISEST	Most judicious
+27	MYSTIC	Seer
+28	MATHSYMBOL	[See blurb]
+29	SWEEPSWEEK	Time for a blockbuster movie, maybe
+31	LWYVYD	Steeple tops
+35	ESL	Subj. for immigrants
+37	IER	Suffix with cash
+38	PAM	Spray in the kitchen
+43	OATHS	Promising words
+44	URO	Tail: Prefix
+45	AVE	First, Second or Third: Abbr.
+49	ERE	Bard's before
+54	PARES	Reduces, with "down"
+56	AIN	Department of eastern France
+57	ACDC	Adapter designation
+58	GED	Document used in coll. admissions
+60	DEKA	Prefix meaning "10": Var.
+61	MEON	"Turnin ___" (2009 Keri Hilson hit)
+62	OMI	Japan's largest lake
+63	ARF	Barker's attention-getter
+64	NEA	Largest U.S. labor union: Abbr.
+65	GPA	No. with a decimal
+66	KEA	Mauna ___ Observatory

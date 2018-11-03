@@ -1,0 +1,313 @@
+grid_15x15_97
+15
+1	0	0	#	0	1	3	0		1	0	4	0	
+0	1	1	L	0	1	3	1	LEM	0	1	5	1	LUKES
+0	1	2	E	0	1	3	0		0	2	11	1	ETONCHALLAH
+0	1	3	M	0	1	3	0		0	3	3	1	MOS
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	L	0	6	3	1	LBS	0	6	5	1	LANES
+0	1	5	B	0	6	3	0		0	7	5	1	BRADS
+0	1	6	S	0	6	3	0		0	8	3	1	SSR
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	7	V	0	12	3	1	VSO	0	12	3	1	VOS
+0	1	8	S	0	12	3	0		0	13	3	1	SEU
+0	1	9	O	0	12	3	0		0	14	3	1	ODS
+0	1	10	C	1	0	5	1	CUTON	1	0	4	1	CSNE
+0	0	0	U	1	0	5	0		0	1	5	0	
+0	0	0	T	1	0	5	0		0	2	11	0	
+0	0	0	O	1	0	5	0		0	3	3	0	
+0	1	11	N	1	0	5	0		1	4	3	1	NHS
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	12	A	1	6	5	1	ARSON	0	6	5	0	
+0	0	0	R	1	6	5	0		0	7	5	0	
+0	0	0	S	1	6	5	0		0	8	3	0	
+0	1	13	O	1	6	5	0		1	9	3	1	OCD
+0	1	14	N	1	6	5	0		1	10	3	1	NIE
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	15	O	1	12	3	1	OED	0	12	3	0	
+0	0	0	E	1	12	3	0		0	13	3	0	
+0	0	0	D	1	12	3	0		0	14	3	0	
+0	1	16	S	2	0	5	1	SKOSH	1	0	4	0	
+0	0	0	K	2	0	5	0		0	1	5	0	
+0	0	0	O	2	0	5	0		0	2	11	0	
+0	0	0	S	2	0	5	0		0	3	3	0	
+0	0	0	H	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	9	0		3	5	3	0	
+0	1	17	N	2	6	9	1	NARCISSUS	0	6	5	0	
+0	0	0	A	2	6	9	0		0	7	5	0	
+0	0	0	R	2	6	9	0		0	8	3	0	
+0	0	0	C	2	6	9	0		1	9	3	0	
+0	0	0	I	2	6	9	0		1	10	3	0	
+0	1	18	S	2	6	9	0		2	11	3	1	SPI
+0	0	0	S	2	6	9	0		0	12	3	0	
+0	0	0	U	2	6	9	0		0	13	3	0	
+0	0	0	S	2	6	9	0		0	14	3	0	
+0	1	19	N	3	0	3	1	NEN	1	0	4	0	
+0	0	0	E	3	0	3	0		0	1	5	0	
+0	0	0	N	3	0	3	0		0	2	11	0	
+1	0	0	#	3	4	4	0		4	3	0	0	
+0	1	20	S	3	4	4	1	SNED	1	4	3	0	
+0	1	21	N	3	4	4	0		3	5	3	1	NEG
+0	0	0	E	3	4	4	0		0	6	5	0	
+0	0	0	D	3	4	4	0		0	7	5	0	
+1	0	0	#	3	9	3	0		4	8	4	0	
+0	1	22	D	3	9	3	1	DEP	1	9	3	0	
+0	0	0	E	3	9	3	0		1	10	3	0	
+0	0	0	P	3	9	3	0		2	11	3	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	23	E	4	0	3	1	ESC	1	0	4	0	
+0	0	0	S	4	0	3	0		0	1	5	0	
+0	0	0	C	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	4	0		5	4	5	0	
+0	1	24	E	4	5	4	1	ESSI	3	5	3	0	
+0	0	0	S	4	5	4	0		0	6	5	0	
+0	0	0	S	4	5	4	0		0	7	5	0	
+0	1	25	I	4	5	4	0		4	8	4	1	ICEE
+1	0	0	#	4	10	0	0		5	9	3	0	
+1	0	0	#	4	11	3	0		5	10	5	0	
+0	1	26	I	4	11	3	1	ILS	2	11	3	0	
+0	1	27	L	4	11	3	0		4	12	11	1	LOOSECANNIN
+0	1	28	S	4	11	3	0		4	13	5	1	SOAKS
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	4	0		6	1	5	0	
+0	1	29	H	5	2	4	1	HAWG	0	2	11	0	
+0	1	30	A	5	2	4	0		5	3	3	1	ANC
+0	1	31	W	5	2	4	0		5	4	5	1	WAULS
+0	0	0	G	5	2	4	0		3	5	3	0	
+1	0	0	#	5	7	0	0		6	6	0	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	32	C	5	8	3	1	CSA	4	8	4	0	
+0	1	33	S	5	8	3	0		5	9	3	1	SID
+0	1	34	A	5	8	3	0		5	10	5	1	AIRUP
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	35	O	5	12	3	1	OOF	4	12	11	0	
+0	0	0	O	5	12	3	0		4	13	5	0	
+0	1	36	F	5	12	3	0		5	14	3	1	FTS
+1	0	0	#	6	1	4	0		7	0	3	0	
+0	1	37	T	6	1	4	1	TANA	6	1	5	1	TAILS
+0	0	0	A	6	1	4	0		0	2	11	0	
+0	0	0	N	6	1	4	0		5	3	3	0	
+0	0	0	A	6	1	4	0		5	4	5	0	
+1	0	0	#	6	6	0	0		7	5	3	0	
+1	0	0	#	6	7	4	0		7	6	4	0	
+0	1	38	Q	6	7	4	1	QEII	6	7	3	1	QTS
+0	0	0	E	6	7	4	0		4	8	4	0	
+0	0	0	I	6	7	4	0		5	9	3	0	
+0	0	0	I	6	7	4	0		5	10	5	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	39	O	6	12	3	1	OAT	4	12	11	0	
+0	0	0	A	6	12	3	0		4	13	5	0	
+0	0	0	T	6	12	3	0		5	14	3	0	
+0	1	40	C	7	0	15	1	CALCULATEDRISKS	7	0	3	1	COE
+0	0	0	A	7	0	15	0		6	1	5	0	
+0	0	0	L	7	0	15	0		0	2	11	0	
+0	0	0	C	7	0	15	0		5	3	3	0	
+0	0	0	U	7	0	15	0		5	4	5	0	
+0	1	41	L	7	0	15	0		7	5	3	1	LOL
+0	1	42	A	7	0	15	0		7	6	4	1	APAR
+0	0	0	T	7	0	15	0		6	7	3	0	
+0	0	0	E	7	0	15	0		4	8	4	0	
+0	0	0	D	7	0	15	0		5	9	3	0	
+0	0	0	R	7	0	15	0		5	10	5	0	
+0	1	43	I	7	0	15	0		7	11	3	1	III
+0	0	0	S	7	0	15	0		4	12	11	0	
+0	0	0	K	7	0	15	0		4	13	5	0	
+0	0	0	S	7	0	15	0		5	14	3	0	
+0	1	44	O	8	0	3	1	OIL	7	0	3	0	
+0	0	0	I	8	0	3	0		6	1	5	0	
+0	0	0	L	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	45	L	8	4	4	1	LOPS	5	4	5	0	
+0	0	0	O	8	4	4	0		7	5	3	0	
+0	0	0	P	8	4	4	0		7	6	4	0	
+0	0	0	S	8	4	4	0		6	7	3	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+1	0	0	#	8	10	4	0		9	9	3	0	
+0	1	46	U	8	10	4	1	UIES	5	10	5	0	
+0	0	0	I	8	10	4	0		7	11	3	0	
+0	0	0	E	8	10	4	0		4	12	11	0	
+0	0	0	S	8	10	4	0		4	13	5	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	47	E	9	0	3	1	ELA	7	0	3	0	
+0	0	0	L	9	0	3	0		6	1	5	0	
+0	0	0	A	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	48	S	9	4	3	1	SLA	5	4	5	0	
+0	0	0	L	9	4	3	0		7	5	3	0	
+0	0	0	A	9	4	3	0		7	6	4	0	
+1	0	0	#	9	8	0	0		10	7	5	0	
+1	0	0	#	9	9	4	0		10	8	5	0	
+0	1	49	E	9	9	4	1	EPIC	9	9	3	1	EEE
+0	0	0	P	9	9	4	0		5	10	5	0	
+0	0	0	I	9	9	4	0		7	11	3	0	
+0	0	0	C	9	9	4	0		4	12	11	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	50	S	10	1	3	1	SHE	6	1	5	0	
+0	0	0	H	10	1	3	0		0	2	11	0	
+0	1	51	E	10	1	3	0		10	3	3	1	EWR
+1	0	0	#	10	5	0	0		11	4	3	0	
+1	0	0	#	10	6	4	0		11	5	3	0	
+0	1	52	R	10	6	4	1	RTEE	7	6	4	0	
+0	1	53	T	10	6	4	0		10	7	5	1	TARTY
+0	1	54	E	10	6	4	0		10	8	5	1	ERNOS
+0	0	0	E	10	6	4	0		9	9	3	0	
+1	0	0	#	10	11	0	0		11	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	55	A	10	12	3	1	AFT	4	12	11	0	
+0	1	56	F	10	12	3	0		10	13	5	1	FUROR
+0	1	57	T	10	12	3	0		10	14	4	1	TMAN
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	58	W	11	3	3	1	WWT	10	3	3	0	
+0	1	59	W	11	3	3	0		11	4	3	1	WEA
+0	1	60	T	11	3	3	0		11	5	3	1	TTL
+1	0	0	#	11	7	4	0		12	6	3	0	
+0	1	61	A	11	7	4	1	AREE	10	7	5	0	
+0	0	0	R	11	7	4	0		10	8	5	0	
+0	0	0	E	11	7	4	0		9	9	3	0	
+0	1	62	E	11	7	4	0		11	10	3	1	ESS
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	63	N	11	12	3	1	NUM	4	12	11	0	
+0	0	0	U	11	12	3	0		10	13	5	0	
+0	0	0	M	11	12	3	0		10	14	4	0	
+0	1	64	G	12	0	9	1	GOSRETURN	12	0	3	1	GHI
+0	1	65	O	12	0	9	0		12	1	3	1	OER
+0	1	66	S	12	0	9	0		12	2	3	1	SLS
+0	0	0	R	12	0	9	0		10	3	3	0	
+0	0	0	E	12	0	9	0		11	4	3	0	
+0	0	0	T	12	0	9	0		11	5	3	0	
+0	1	67	U	12	0	9	0		12	6	3	1	UIR
+0	0	0	R	12	0	9	0		10	7	5	0	
+0	0	0	N	12	0	9	0		10	8	5	0	
+1	0	0	#	12	10	5	0		13	9	0	0	
+0	1	68	S	12	10	5	1	SUNRA	11	10	3	0	
+0	1	69	U	12	10	5	0		12	11	3	1	UCJ
+0	0	0	N	12	10	5	0		4	12	11	0	
+0	0	0	R	12	10	5	0		10	13	5	0	
+0	0	0	A	12	10	5	0		10	14	4	0	
+0	1	70	H	13	0	3	1	HEL	12	0	3	0	
+0	0	0	E	13	0	3	0		12	1	3	0	
+0	0	0	L	13	0	3	0		12	2	3	0	
+1	0	0	#	13	4	5	0		14	3	0	0	
+0	1	71	A	13	4	5	1	ALITO	11	4	3	0	
+0	0	0	L	13	4	5	0		11	5	3	0	
+0	0	0	I	13	4	5	0		12	6	3	0	
+0	0	0	T	13	4	5	0		10	7	5	0	
+0	0	0	O	13	4	5	0		10	8	5	0	
+1	0	0	#	13	10	5	0		14	9	0	0	
+0	1	72	S	13	10	5	1	SCION	11	10	3	0	
+0	0	0	C	13	10	5	0		12	11	3	0	
+0	0	0	I	13	10	5	0		4	12	11	0	
+0	0	0	O	13	10	5	0		10	13	5	0	
+0	0	0	N	13	10	5	0		10	14	4	0	
+0	1	73	I	14	0	3	1	IRS	12	0	3	0	
+0	0	0	R	14	0	3	0		12	1	3	0	
+0	0	0	S	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	74	R	14	6	3	1	RYS	12	6	3	0	
+0	0	0	Y	14	6	3	0		10	7	5	0	
+0	0	0	S	14	6	3	0		10	8	5	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	75	J	14	11	3	1	JNR	12	11	3	0	
+0	0	0	N	14	11	3	0		4	12	11	0	
+0	0	0	R	14	11	3	0		10	13	5	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	LEM	NASA vehicle
+4	LBS	Weight abbr.
+7	VSO	Abbr. on a brandy label
+10	CUTON	"___ the dotted line"
+12	ARSON	Lighting of a torch
+15	OED	Multivolume ref.
+16	SKOSH	Smidge
+17	NARCISSUS	Youth who fell in love with his reflection
+19	NEN	Former Giant Robb ___
+20	SNED	Caught some rays
+22	DEP	Bankbook abbr.
+23	ESC	"Help!" key
+24	ESSI	They, in Italy
+26	ILS	They, to Thiers
+29	HAWG	Biker's bike, colloquially
+32	CSA	Reb letters
+35	OOF	Cry of pain
+37	TANA	Lake ___, head of the Blue Nile
+38	QEII	Modern-day monarch, for short
+39	OAT	Cheerios grain
+40	CALCULATEDRISKS	They're deemed worth taking
+44	OIL	Shale extract
+45	LOPS	Works on a hedgerow
+46	UIES	Turnarounds, informally
+47	ELA	She, in S
+48	SLA	Patty Hearst's kidnap grp.
+49	EPIC	"Beowulf," for one
+50	SHE	Cow or sow
+52	RTEE	Way from Syracuse, N.Y., to Harrisburg, Pa.
+55	AFT	Back at sea
+58	WWT	1940s conflict: Abbr.
+61	AREE	Answer to the riddle "Dressed in summer, naked in winter"
+63	NUM	Book before Deut.
+64	GOSRETURN	Comeback of a Japanese game?
+68	SUNRA	"Jazz in Silhouette" composer
+70	HEL	Daughter of Loki
+71	ALITO	O'Connor's successor on the Supreme Court
+72	SCION	Grafting bud
+73	IRS	Much-maligned federal org.
+74	RYS	Trains: Abbr.
+75	JNR	Dad's namesake: Abbr.
+43
+1	LUKES	St. ___ (common hospital name)
+2	ETONCHALLAH	What an English student wore to a deli?
+3	MOS	Criminals' ways, briefly
+4	LANES	What road hogs hog
+5	BRADS	Hardware purchases
+6	SSR	Georgia was one once: Abbr.
+7	VOS	Writer Marilyn ___ Savant
+8	SEU	Blood bank supply
+9	ODS	Takes too many tranqs, say
+10	CSNE	Fruit holder
+11	NHS	Selective high-school org.
+13	OCD	Cause of some repetitive behavior, in brief
+14	NIE	Not even once, in N
+18	SPI	Slant
+21	NEG	Photo image, briefly
+25	ICEE	Frozen drink brand
+27	LOOSECANNIN	Problem that grandma had after usin' poorly-made jars?
+28	SOAKS	Long baths
+30	ANC	Org. banned from 1960 to 1990
+31	WAULS	Cries shrilly
+33	SID	Five-time All-Pro QB Luckman
+34	AIRUP	Inflate
+36	FTS	McHenry and Sumter: Abbr.
+37	TAILS	Call option?
+38	QTS	Divisions of gals.
+40	COE	British runner Sebastian
+41	LOL	Response to a joke in an I.M.
+42	APAR	On ___ with
+43	III	Caesar's three
+49	EEE	Superwide
+51	EWR	Airport alternative to JFK or LGA
+53	TARTY	Somewhat sour
+54	ERNOS	Composer Dohn
+56	FUROR	Lots of screaming and shouting
+57	TMAN	Investigator, of sorts
+59	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+60	TTL	Lumberjack's tool
+62	ESS	Head of state?
+64	GHI	Four, on the phone
+65	OER	"___ courtiers' knees ...": Shak.
+66	SLS	Classic Mercedes roadsters
+67	UIR	Onetime TWA rival
+69	UCJ	Anthem contraction

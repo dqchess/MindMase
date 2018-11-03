@@ -1,0 +1,231 @@
+grid_13x13_138
+13
+0	1	1	H	0	0	3	1	HED	0	0	4	1	HEED
+0	1	2	E	0	0	3	0		0	1	6	1	EWBANK
+0	1	3	D	0	0	3	0		0	2	6	1	DEWIER
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	4	0		1	5	4	0	
+0	1	4	W	0	6	4	1	WAST	0	6	3	1	WAT
+0	1	5	A	0	6	4	0		0	7	3	1	ACS
+0	1	6	S	0	6	4	0		0	8	3	1	SKI
+0	1	7	T	0	6	4	0		0	9	3	1	TED
+1	0	0	#	0	11	0	0		1	10	5	0	
+1	0	0	#	0	12	0	0		1	11	5	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	8	E	1	0	3	1	EWE	0	0	4	0	
+0	0	0	W	1	0	3	0		0	1	6	0	
+0	0	0	E	1	0	3	0		0	2	6	0	
+1	0	0	#	1	4	8	0		2	3	0	0	
+0	1	9	S	1	4	8	1	SMACKERS	1	4	3	1	SOY
+0	1	10	M	1	4	8	0		1	5	4	1	MUSK
+0	0	0	A	1	4	8	0		0	6	3	0	
+0	0	0	C	1	4	8	0		0	7	3	0	
+0	0	0	K	1	4	8	0		0	8	3	0	
+0	0	0	E	1	4	8	0		0	9	3	0	
+0	1	11	R	1	4	8	0		1	10	5	1	RETIE
+0	1	12	S	1	4	8	0		1	11	5	1	SRTAS
+1	0	0	#	1	13	0	0		2	12	0	0	
+0	1	13	E	2	0	3	1	EBW	0	0	4	0	
+0	0	0	B	2	0	3	0		0	1	6	0	
+0	0	0	W	2	0	3	0		0	2	6	0	
+1	0	0	#	2	4	8	0		3	3	6	0	
+0	1	14	O	2	4	8	1	OUTSIDER	1	4	3	0	
+0	0	0	U	2	4	8	0		1	5	4	0	
+0	0	0	T	2	4	8	0		0	6	3	0	
+0	0	0	S	2	4	8	0		0	7	3	0	
+0	0	0	I	2	4	8	0		0	8	3	0	
+0	0	0	D	2	4	8	0		0	9	3	0	
+0	0	0	E	2	4	8	0		1	10	5	0	
+0	0	0	R	2	4	8	0		1	11	5	0	
+1	0	0	#	2	13	0	0		3	12	3	0	
+0	1	15	D	3	0	6	1	DAISYS	0	0	4	0	
+0	0	0	A	3	0	6	0		0	1	6	0	
+0	0	0	I	3	0	6	0		0	2	6	0	
+0	1	16	S	3	0	6	0		3	3	6	1	SLOVEN
+0	0	0	Y	3	0	6	0		1	4	3	0	
+0	0	0	S	3	0	6	0		1	5	4	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	0	0		4	7	3	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	3	10	3	0		4	9	6	0	
+0	1	17	T	3	10	3	1	TTT	1	10	5	0	
+0	0	0	T	3	10	3	0		1	11	5	0	
+0	1	18	T	3	10	3	0		3	12	3	1	TMS
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	19	N	4	1	3	1	NEL	0	1	6	0	
+0	0	0	E	4	1	3	0		0	2	6	0	
+0	0	0	L	4	1	3	0		3	3	6	0	
+1	0	0	#	4	5	3	0		5	4	3	0	
+0	1	20	K	4	5	3	1	KAN	1	5	4	0	
+0	1	21	A	4	5	3	0		4	6	5	1	AUTRE
+0	1	22	N	4	5	3	0		4	7	3	1	NSA
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	23	S	4	9	4	1	SIAM	4	9	6	1	SLEEVE
+0	0	0	I	4	9	4	0		1	10	5	0	
+0	0	0	A	4	9	4	0		1	11	5	0	
+0	0	0	M	4	9	4	0		3	12	3	0	
+1	0	0	#	5	1	4	0		6	0	0	0	
+0	1	24	K	5	1	4	1	KROC	0	1	6	0	
+0	0	0	R	5	1	4	0		0	2	6	0	
+0	0	0	O	5	1	4	0		3	3	6	0	
+0	1	25	C	5	1	4	0		5	4	3	1	CCU
+1	0	0	#	5	6	7	0		6	5	3	0	
+0	1	26	U	5	6	7	1	USELESS	4	6	5	0	
+0	0	0	S	5	6	7	0		4	7	3	0	
+0	1	27	E	5	6	7	0		5	8	3	1	EPA
+0	0	0	L	5	6	7	0		4	9	6	0	
+0	0	0	E	5	6	7	0		1	10	5	0	
+0	0	0	S	5	6	7	0		1	11	5	0	
+0	0	0	S	5	6	7	0		3	12	3	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	5	0	
+1	0	0	#	6	3	7	0		7	2	5	0	
+0	1	28	V	6	3	7	1	VCRTAPE	3	3	6	0	
+0	0	0	C	6	3	7	0		5	4	3	0	
+0	1	29	R	6	3	7	0		6	5	3	1	REB
+0	0	0	T	6	3	7	0		4	6	5	0	
+0	0	0	A	6	3	7	0		4	7	3	0	
+0	0	0	P	6	3	7	0		5	8	3	0	
+0	0	0	E	6	3	7	0		4	9	6	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	30	M	7	0	7	1	MANEUER	7	0	3	1	MII
+0	1	31	A	7	0	7	0		7	1	5	1	AWORD
+0	1	32	N	7	0	7	0		7	2	5	1	NOCAN
+0	0	0	E	7	0	7	0		3	3	6	0	
+0	0	0	U	7	0	7	0		5	4	3	0	
+0	0	0	E	7	0	7	0		6	5	3	0	
+0	0	0	R	7	0	7	0		4	6	5	0	
+1	0	0	#	7	8	4	0		8	7	4	0	
+0	1	33	A	7	8	4	1	AERO	5	8	3	0	
+0	0	0	E	7	8	4	0		4	9	6	0	
+0	1	34	R	7	8	4	0		7	10	6	1	RODEOS
+0	1	35	O	7	8	4	0		7	11	6	1	OPENER
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	36	I	8	0	4	1	IWON	7	0	3	0	
+0	0	0	W	8	0	4	0		7	1	5	0	
+0	0	0	O	8	0	4	0		7	2	5	0	
+0	0	0	N	8	0	4	0		3	3	6	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	37	B	8	5	3	1	BEA	6	5	3	0	
+0	0	0	E	8	5	3	0		4	6	5	0	
+0	1	38	A	8	5	3	0		8	7	4	1	ABEE
+1	0	0	#	8	9	3	0		9	8	3	0	
+0	1	39	V	8	9	3	1	VOP	4	9	6	0	
+0	0	0	O	8	9	3	0		7	10	6	0	
+0	0	0	P	8	9	3	0		7	11	6	0	
+1	0	0	#	8	13	0	0		9	12	4	0	
+0	1	40	I	9	0	3	1	IOC	7	0	3	0	
+0	0	0	O	9	0	3	0		7	1	5	0	
+0	0	0	C	9	0	3	0		7	2	5	0	
+1	0	0	#	9	4	0	0		10	3	3	0	
+1	0	0	#	9	5	0	0		10	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	41	B	9	7	6	1	BLEDEL	8	7	4	0	
+0	1	42	L	9	7	6	0		9	8	3	1	LDR
+0	0	0	E	9	7	6	0		4	9	6	0	
+0	0	0	D	9	7	6	0		7	10	6	0	
+0	0	0	E	9	7	6	0		7	11	6	0	
+0	1	43	L	9	7	6	0		9	12	4	1	LENI
+1	0	0	#	10	1	8	0		11	0	0	0	
+0	1	44	R	10	1	8	1	RAPTURED	7	1	5	0	
+0	0	0	A	10	1	8	0		7	2	5	0	
+0	1	45	P	10	1	8	0		10	3	3	1	PIE
+0	1	46	T	10	1	8	0		10	4	3	1	TEP
+0	1	47	U	10	1	8	0		10	5	3	1	USO
+0	1	48	R	10	1	8	0		10	6	3	1	RTS
+0	0	0	E	10	1	8	0		8	7	4	0	
+0	0	0	D	10	1	8	0		9	8	3	0	
+1	0	0	#	10	10	3	0		11	9	0	0	
+0	1	49	E	10	10	3	1	ENE	7	10	6	0	
+0	0	0	N	10	10	3	0		7	11	6	0	
+0	0	0	E	10	10	3	0		9	12	4	0	
+1	0	0	#	11	1	8	0		12	0	0	0	
+0	1	50	D	11	1	8	1	DNIESTER	7	1	5	0	
+0	0	0	N	11	1	8	0		7	2	5	0	
+0	0	0	I	11	1	8	0		10	3	3	0	
+0	0	0	E	11	1	8	0		10	4	3	0	
+0	0	0	S	11	1	8	0		10	5	3	0	
+0	0	0	T	11	1	8	0		10	6	3	0	
+0	0	0	E	11	1	8	0		8	7	4	0	
+0	0	0	R	11	1	8	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	51	O	11	10	3	1	OEN	7	10	6	0	
+0	0	0	E	11	10	3	0		7	11	6	0	
+0	0	0	N	11	10	3	0		9	12	4	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	4	0		13	2	0	0	
+0	1	52	E	12	3	4	1	EPOS	10	3	3	0	
+0	0	0	P	12	3	4	0		10	4	3	0	
+0	0	0	O	12	3	4	0		10	5	3	0	
+0	0	0	S	12	3	4	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	53	S	12	10	3	1	SRI	7	10	6	0	
+0	0	0	R	12	10	3	0		7	11	6	0	
+0	0	0	I	12	10	3	0		9	12	4	0	
+27
+1	HED	"I knew a man Bojangles and ___ dance for you ..."
+4	WAST	Biblical verb with "thou"
+8	EWE	Female sheep
+9	SMACKERS	Bucks
+13	EBW	"Charlotte's Web" initials
+14	OUTSIDER	New kid in town
+15	DAISYS	"Blondie" dog and others
+17	TTT	Game-winning cry
+19	NEL	"Regnava ___ silenzio" (Donizetti aria)
+20	KAN	Agricultural Hall of Fame locale: Abbr.
+23	SIAM	Chulalongkorn's land
+24	KROC	Golden Arches founder Ray
+26	USELESS	Of no value
+28	VCRTAPE	Deck item
+30	MANEUER	Zig or zag, e.g.
+33	AERO	Flying start?
+36	IWON	Gloating cry
+37	BEA	TV's Arthur
+39	VOP	W. Hemisphere assn.
+40	IOC	Org. overseeing quadrennial games
+41	BLEDEL	"Gilmore Girls" co-star Alexis
+44	RAPTURED	Ecstatic
+49	ENE	Route abbr.
+50	DNIESTER	Ukraine/Moldova border river
+51	OEN	Vintner's prefix
+52	EPOS	Works of Homer
+53	SRI	Title of respect, abroad
+31
+1	HEED	Follow, as advice
+2	EWBANK	Only coach to win both N.F.L. and A.F.L. championships
+3	DEWIER	More innocent
+4	WAT	Peasants' Revolt leader ___ Tyler
+5	ACS	Rm. coolers
+6	SKI	Item on a chairlift
+7	TED	Guitarist Nugent
+9	SOY	Sauce source
+10	MUSK	Cologne scent
+11	RETIE	Even the score again
+12	SRTAS	Some Madrile
+16	SLOVEN	Pig
+18	TMS	Logos and the like: Abbr.
+21	AUTRE	Other, in Bordeaux
+22	NSA	"Red Storm Rising" grp.
+23	SLEEVE	Jacket part
+25	CCU	Heart ward, for short
+27	EPA	Govt. watchdog
+29	REB	Confederate soldier, for short
+30	MII	Year in Sylvester II's papacy
+31	AWORD	"___ to the wise ..."
+32	NOCAN	"___ do" ("Not possible")
+34	RODEOS	People in these know the ropes
+35	OPENER	First of two baseball games
+38	ABEE	"As brisk as ___ in conversation": Samuel Johnson
+42	LDR	C.E.O., e.g.: Abbr.
+43	LENI	Director Riefenstahl
+45	PIE	Dessert from an oven
+46	TEP	Im-ho-___, Boris Karloff's role in "The Mummy"
+47	USO	Mil. entertainers
+48	RTS	They're listed in a bill: Abbr.

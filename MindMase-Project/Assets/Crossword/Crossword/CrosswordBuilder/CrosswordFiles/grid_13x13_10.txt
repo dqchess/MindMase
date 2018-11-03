@@ -1,0 +1,235 @@
+grid_13x13_10
+13
+0	1	1	W	0	0	3	1	WOK	0	0	6	1	WARACE
+0	1	2	O	0	0	3	0		0	1	6	1	ONEBIT
+0	1	3	K	0	0	3	0		0	2	6	1	KCASES
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	C	0	5	3	1	CVI	0	5	5	1	COMDR
+0	1	5	V	0	5	3	0		0	6	3	1	VOW
+0	1	6	I	0	5	3	0		0	7	3	1	IPA
+1	0	0	#	0	9	0	0		1	8	3	0	
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	T	0	10	3	1	TBA	0	10	6	1	TRAWLS
+0	1	8	B	0	10	3	0		0	11	6	1	BWANAS
+0	1	9	A	0	10	3	0		0	12	4	1	AREW
+0	1	10	A	1	0	4	1	ANCY	0	0	6	0	
+0	0	0	N	1	0	4	0		0	1	6	0	
+0	0	0	C	1	0	4	0		0	2	6	0	
+0	1	11	Y	1	0	4	0		1	3	3	1	YOU
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	12	O	1	5	4	1	OOPS	0	5	5	0	
+0	0	0	O	1	5	4	0		0	6	3	0	
+0	0	0	P	1	5	4	0		0	7	3	0	
+0	1	13	S	1	5	4	0		1	8	3	1	SHU
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	14	R	1	10	3	1	RWR	0	10	6	0	
+0	0	0	W	1	10	3	0		0	11	6	0	
+0	0	0	R	1	10	3	0		0	12	4	0	
+0	1	15	R	2	0	4	1	REAO	0	0	6	0	
+0	0	0	E	2	0	4	0		0	1	6	0	
+0	0	0	A	2	0	4	0		0	2	6	0	
+0	0	0	O	2	0	4	0		1	3	3	0	
+1	0	0	#	2	5	4	0		3	4	5	0	
+0	1	16	M	2	5	4	1	MWAH	0	5	5	0	
+0	0	0	W	2	5	4	0		0	6	3	0	
+0	0	0	A	2	5	4	0		0	7	3	0	
+0	0	0	H	2	5	4	0		1	8	3	0	
+1	0	0	#	2	10	3	0		3	9	5	0	
+0	1	17	A	2	10	3	1	AAE	0	10	6	0	
+0	0	0	A	2	10	3	0		0	11	6	0	
+0	0	0	E	2	10	3	0		0	12	4	0	
+0	1	18	A	3	0	6	1	ABSURD	0	0	6	0	
+0	0	0	B	3	0	6	0		0	1	6	0	
+0	0	0	S	3	0	6	0		0	2	6	0	
+0	0	0	U	3	0	6	0		1	3	3	0	
+0	1	19	R	3	0	6	0		3	4	5	1	ROQUE
+0	0	0	D	3	0	6	0		0	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	3	0	
+0	1	20	U	3	8	5	1	UQWNW	1	8	3	0	
+0	1	21	Q	3	8	5	0		3	9	5	1	QUAYS
+0	0	0	W	3	8	5	0		0	10	6	0	
+0	0	0	N	3	8	5	0		0	11	6	0	
+0	0	0	W	3	8	5	0		0	12	4	0	
+0	1	22	C	4	0	3	1	CIE	0	0	6	0	
+0	0	0	I	4	0	3	0		0	1	6	0	
+0	0	0	E	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	4	0		5	3	5	0	
+0	1	23	O	4	4	4	1	ORLY	3	4	5	0	
+0	0	0	R	4	4	4	0		0	5	5	0	
+0	1	24	L	4	4	4	0		4	6	5	1	LHASA
+0	1	25	Y	4	4	4	0		4	7	3	1	YAN
+1	0	0	#	4	9	3	0		5	8	5	0	
+0	1	26	U	4	9	3	1	ULA	3	9	5	0	
+0	0	0	L	4	9	3	0		0	10	6	0	
+0	0	0	A	4	9	3	0		0	11	6	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	27	E	5	0	5	1	ETSEQ	0	0	6	0	
+0	0	0	T	5	0	5	0		0	1	6	0	
+0	0	0	S	5	0	5	0		0	2	6	0	
+0	1	28	E	5	0	5	0		5	3	5	1	EHUDS
+0	0	0	Q	5	0	5	0		3	4	5	0	
+1	0	0	#	5	6	6	0		6	5	3	0	
+0	1	29	H	5	6	6	1	HADASS	4	6	5	0	
+0	0	0	A	5	6	6	0		4	7	3	0	
+0	1	30	D	5	6	6	0		5	8	5	1	DLIST
+0	0	0	A	5	6	6	0		3	9	5	0	
+0	0	0	S	5	6	6	0		0	10	6	0	
+0	0	0	S	5	6	6	0		0	11	6	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	6	0	
+1	0	0	#	6	3	7	0		7	2	6	0	
+0	1	31	H	6	3	7	1	HUMANLY	5	3	5	0	
+0	0	0	U	6	3	7	0		3	4	5	0	
+0	1	32	M	6	3	7	0		6	5	3	1	MTA
+0	0	0	A	6	3	7	0		4	6	5	0	
+0	0	0	N	6	3	7	0		4	7	3	0	
+0	0	0	L	6	3	7	0		5	8	5	0	
+0	0	0	Y	6	3	7	0		3	9	5	0	
+1	0	0	#	6	11	0	0		7	10	6	0	
+1	0	0	#	6	12	0	0		7	11	6	0	
+1	0	0	#	6	13	0	0		7	12	6	0	
+1	0	0	#	7	1	6	0		8	0	0	0	
+0	1	33	C	7	1	6	1	CRUETS	7	1	6	1	CAVEIN
+0	1	34	R	7	1	6	0		7	2	6	1	RIALTO
+0	0	0	U	7	1	6	0		5	3	5	0	
+0	0	0	E	7	1	6	0		3	4	5	0	
+0	0	0	T	7	1	6	0		6	5	3	0	
+0	0	0	S	7	1	6	0		4	6	5	0	
+1	0	0	#	7	8	5	0		8	7	5	0	
+0	1	35	I	7	8	5	1	ISWAR	5	8	5	0	
+0	0	0	S	7	8	5	0		3	9	5	0	
+0	1	36	W	7	8	5	0		7	10	6	1	WEAVER
+0	1	37	A	7	8	5	0		7	11	6	1	AURIGA
+0	1	38	R	7	8	5	0		7	12	6	1	RISETO
+1	0	0	#	8	1	3	0		9	0	4	0	
+0	1	39	A	8	1	3	1	AID	7	1	6	0	
+0	0	0	I	8	1	3	0		7	2	6	0	
+0	0	0	D	8	1	3	0		5	3	5	0	
+1	0	0	#	8	5	4	0		9	4	3	0	
+0	1	40	A	8	5	4	1	AAHS	6	5	3	0	
+0	0	0	A	8	5	4	0		4	6	5	0	
+0	1	41	H	8	5	4	0		8	7	5	1	HASEK
+0	0	0	S	8	5	4	0		5	8	5	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	42	E	8	10	3	1	EUI	7	10	6	0	
+0	0	0	U	8	10	3	0		7	11	6	0	
+0	0	0	I	8	10	3	0		7	12	6	0	
+0	1	43	A	9	0	5	1	AVAST	9	0	4	1	ARAS
+0	0	0	V	9	0	5	0		7	1	6	0	
+0	0	0	A	9	0	5	0		7	2	6	0	
+0	0	0	S	9	0	5	0		5	3	5	0	
+0	1	44	T	9	0	5	0		9	4	3	1	TAT
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	45	A	9	7	6	1	ATTARS	8	7	5	0	
+0	0	0	T	9	7	6	0		5	8	5	0	
+0	1	46	T	9	7	6	0		9	9	3	1	TIR
+0	0	0	A	9	7	6	0		7	10	6	0	
+0	0	0	R	9	7	6	0		7	11	6	0	
+0	0	0	S	9	7	6	0		7	12	6	0	
+0	1	47	R	10	0	3	1	REL	9	0	4	0	
+0	0	0	E	10	0	3	0		7	1	6	0	
+0	0	0	L	10	0	3	0		7	2	6	0	
+1	0	0	#	10	4	4	0		11	3	0	0	
+0	1	48	A	10	4	4	1	ARRS	9	4	3	0	
+0	1	49	R	10	4	4	0		10	5	3	1	RHO
+0	1	50	R	10	4	4	0		10	6	3	1	RSA
+0	0	0	S	10	4	4	0		8	7	5	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	51	I	10	9	4	1	IVIE	9	9	3	0	
+0	0	0	V	10	9	4	0		7	10	6	0	
+0	0	0	I	10	9	4	0		7	11	6	0	
+0	0	0	E	10	9	4	0		7	12	6	0	
+0	1	52	A	11	0	3	1	AIT	9	0	4	0	
+0	0	0	I	11	0	3	0		7	1	6	0	
+0	0	0	T	11	0	3	0		7	2	6	0	
+1	0	0	#	11	4	4	0		12	3	0	0	
+0	1	53	T	11	4	4	1	THSE	9	4	3	0	
+0	0	0	H	11	4	4	0		10	5	3	0	
+0	0	0	S	11	4	4	0		10	6	3	0	
+0	0	0	E	11	4	4	0		8	7	5	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	54	R	11	9	4	1	REGT	9	9	3	0	
+0	0	0	E	11	9	4	0		7	10	6	0	
+0	0	0	G	11	9	4	0		7	11	6	0	
+0	0	0	T	11	9	4	0		7	12	6	0	
+0	1	55	S	12	0	3	1	SNO	9	0	4	0	
+0	0	0	N	12	0	3	0		7	1	6	0	
+0	0	0	O	12	0	3	0		7	2	6	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	56	O	12	5	3	1	OAK	10	5	3	0	
+0	0	0	A	12	5	3	0		10	6	3	0	
+0	0	0	K	12	5	3	0		8	7	5	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	57	R	12	10	3	1	RAO	7	10	6	0	
+0	0	0	A	12	10	3	0		7	11	6	0	
+0	0	0	O	12	10	3	0		7	12	6	0	
+33
+1	WOK	Stovetop utensil
+4	CVI	106, to Caesar
+7	TBA	Not yet determined: Abbr.
+10	ANCY	Suffix with buoy
+12	OOPS	Worrying comment from a surgeon
+14	RWR	Presidential inits.
+15	REAO	Island in French Polynesia
+16	MWAH	[Kiss]
+17	AAE	"American Justice" network
+18	ABSURD	Risible
+20	UQWNW	Fished for lampreys
+22	CIE	French corp.
+23	ORLY	Paris airport
+26	ULA	Suffix with form
+27	ETSEQ	Abbr. in many court citations
+29	HADASS	Amy Irving's "Yentl" role
+31	HUMANLY	From a personal standpoint
+33	CRUETS	Vinegar vessels
+35	ISWAR	Pro wrestling's "Raw ___"
+39	AID	Give a hand
+40	AAHS	Relief reactions
+42	EUI	Pins and needles' place
+43	AVAST	Sailor's "Stop!"
+45	ATTARS	Perfume ingredients
+47	REL	Beneficiary of nepotism: Abbr.
+48	ARRS	Musical settings: Abbr.
+51	IVIE	Jazz singer Anderson
+52	AIT	Small island in a river
+53	THSE	"Just hear ___ sleigh bells jingling 
+54	REGT	Armory grp.
+55	SNO	___-Cat (off-road vehicle)
+56	OAK	Oklahoma's ___ Tree National golf course
+57	RAO	Raja ___, "The Serpent and the Rope" novelist
+29
+1	WARACE	Baron von Richthofen, e.g.
+2	ONEBIT	At all
+3	KCASES	Purse items
+4	COMDR	Milit. leader
+5	VOW	"I do," e.g.
+6	IPA	Pronunciation guide std.
+7	TRAWLS	Bottom-fishes
+8	BWANAS	Safari chiefs
+9	AREW	Hard-hitting 1992 hurricane
+11	YOU	Last word of the golden rule
+13	SHU	Moo ___ pork
+19	ROQUE	Court game
+21	QUAYS	Wharves
+24	LHASA	Capital with the Potala Palace
+25	YAN	"___ Can Cook" (onetime PBS show)
+28	EHUDS	Israel's Barak and Olmert
+30	DLIST	"Kathy Griffin: My Life on the ___" (Emmy-winning reality show)
+32	MTA	Train and bus overseer, for short
+33	CAVEIN	Miner's major problem
+34	RIALTO	Commercial center in Venice
+36	WEAVER	"ER" doctor played by Laura Innes
+37	AURIGA	The Charioteer constellation
+38	RISETO	Meet, as expectations
+41	HASEK	N.H.L. goalie Dominik
+43	ARAS	Principal river of Armenia
+44	TAT	Pec pic, perhaps
+46	TIR	French shooting match
+49	RHO	Christogram letter
+50	RSA	Cape Town's country: Abbr.

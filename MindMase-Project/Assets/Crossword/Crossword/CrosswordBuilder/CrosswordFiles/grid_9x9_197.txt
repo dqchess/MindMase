@@ -1,0 +1,117 @@
+grid_9x9_197
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	B	0	1	3	1	BOT	0	1	4	1	BRIT
+0	1	2	O	0	1	3	0		0	2	4	1	ORNE
+0	1	3	T	0	1	3	0		0	3	3	1	TAG
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	F	0	6	3	1	FUR	0	6	4	1	FENS
+0	1	5	U	0	6	3	0		0	7	4	1	UHUH
+0	1	6	R	0	6	3	0		0	8	3	1	RST
+0	1	7	A	1	0	5	1	ARRAY	1	0	3	1	AGE
+0	0	0	R	1	0	5	0		0	1	4	0	
+0	0	0	R	1	0	5	0		0	2	4	0	
+0	0	0	A	1	0	5	0		0	3	3	0	
+0	1	8	Y	1	0	5	0		1	4	7	1	YELLSAT
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	9	E	1	6	3	1	EHS	0	6	4	0	
+0	0	0	H	1	6	3	0		0	7	4	0	
+0	0	0	S	1	6	3	0		0	8	3	0	
+0	1	10	G	2	0	9	1	GINGERNUT	1	0	3	0	
+0	0	0	I	2	0	9	0		0	1	4	0	
+0	0	0	N	2	0	9	0		0	2	4	0	
+0	0	0	G	2	0	9	0		0	3	3	0	
+0	0	0	E	2	0	9	0		1	4	7	0	
+0	1	11	R	2	0	9	0		2	5	3	1	RAS
+0	0	0	N	2	0	9	0		0	6	4	0	
+0	0	0	U	2	0	9	0		0	7	4	0	
+0	0	0	T	2	0	9	0		0	8	3	0	
+0	1	12	E	3	0	3	1	ETE	1	0	3	0	
+0	0	0	T	3	0	3	0		0	1	4	0	
+0	0	0	E	3	0	3	0		0	2	4	0	
+1	0	0	#	3	4	4	0		4	3	3	0	
+0	1	13	L	3	4	4	1	LASH	1	4	7	0	
+0	0	0	A	3	4	4	0		2	5	3	0	
+0	0	0	S	3	4	4	0		0	6	4	0	
+0	0	0	H	3	4	4	0		0	7	4	0	
+1	0	0	#	3	9	0	0		4	8	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	4	0	
+0	1	14	O	4	3	3	1	OLS	4	3	3	1	ONT
+0	0	0	L	4	3	3	0		1	4	7	0	
+0	0	0	S	4	3	3	0		2	5	3	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+1	0	0	#	5	1	4	0		6	0	3	0	
+0	1	15	M	5	1	4	1	MONS	5	1	4	1	MONY
+0	1	16	O	5	1	4	0		5	2	4	1	ONCE
+0	0	0	N	5	1	4	0		4	3	3	0	
+0	0	0	S	5	1	4	0		1	4	7	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	17	O	5	6	3	1	OCD	5	6	4	1	ONOR
+0	1	18	C	5	6	3	0		5	7	4	1	CEPE
+0	1	19	D	5	6	3	0		5	8	3	1	DDS
+0	1	20	C	6	0	9	1	CONTAINED	6	0	3	1	CIV
+0	0	0	O	6	0	9	0		5	1	4	0	
+0	0	0	N	6	0	9	0		5	2	4	0	
+0	0	0	T	6	0	9	0		4	3	3	0	
+0	0	0	A	6	0	9	0		1	4	7	0	
+0	1	21	I	6	0	9	0		6	5	3	1	ITA
+0	0	0	N	6	0	9	0		5	6	4	0	
+0	0	0	E	6	0	9	0		5	7	4	0	
+0	0	0	D	6	0	9	0		5	8	3	0	
+0	1	22	I	7	0	3	1	INC	6	0	3	0	
+0	0	0	N	7	0	3	0		5	1	4	0	
+0	0	0	C	7	0	3	0		5	2	4	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	23	T	7	4	5	1	TTOPS	1	4	7	0	
+0	0	0	T	7	4	5	0		6	5	3	0	
+0	0	0	O	7	4	5	0		5	6	4	0	
+0	0	0	P	7	4	5	0		5	7	4	0	
+0	0	0	S	7	4	5	0		5	8	3	0	
+0	1	24	V	8	0	3	1	VYE	6	0	3	0	
+0	0	0	Y	8	0	3	0		5	1	4	0	
+0	0	0	E	8	0	3	0		5	2	4	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	25	A	8	5	3	1	ARE	6	5	3	0	
+0	0	0	R	8	5	3	0		5	6	4	0	
+0	0	0	E	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+15
+1	BOT	Droid
+4	FUR	Stole material
+7	ARRAY	Muster
+9	EHS	Hardly glowing reviews
+10	GINGERNUT	Spicy biscuit served at English teas
+12	ETE	A season abroad
+13	LASH	Unit of punishment at sea
+14	OLS	Barn denizens
+15	MONS	Starts of workweeks: Abbr.
+17	OCD	Cause of some repetitive behavior, in brief
+20	CONTAINED	Kept the lid on
+22	INC	Magazine with an annual "500"
+23	TTOPS	Features of some 'Vettes
+24	VYE	Eustacia of "The Return of the Native"
+25	ARE	Is multiplied?
+17
+1	BRIT	Londoner or Liverpudlian, e.g.
+2	ORNE	River in D-Day news
+3	TAG	Follow (along)
+4	FENS	Marshlands
+5	UHUH	"Forget it!"
+6	RST	String after Q
+7	AGE	Get mellower
+8	YELLSAT	Dresses down
+11	RAS	Univ. dorm supervisors
+14	ONT	Where Ottawa is: Abbr.
+15	MONY	When repeated, a Billy Idol hit
+16	ONCE	Popular story start
+17	ONOR	"... ___ before the deadline"
+18	CEPE	French chef's mushroom
+19	DDS	Periodontist's deg.
+20	CIV	Opposite of military: Abbr.
+21	ITA	"Give ___ rest"

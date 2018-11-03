@@ -1,0 +1,117 @@
+grid_9x9_113
+9
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	B	0	1	3	1	BAG	0	1	4	1	BOPP
+0	1	2	A	0	1	3	0		0	2	9	1	AWARENESS
+0	1	3	G	0	1	3	0		0	3	3	1	GLA
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	L	0	5	3	1	LDC	0	5	5	1	LAPEL
+0	1	5	D	0	5	3	0		0	6	9	1	DRESSRACK
+0	1	6	C	0	5	3	0		0	7	4	1	COLO
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	C	1	0	4	1	COWL	1	0	3	1	CMA
+0	0	0	O	1	0	4	0		0	1	4	0	
+0	0	0	W	1	0	4	0		0	2	9	0	
+0	0	0	L	1	0	4	0		0	3	3	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	8	A	1	5	4	1	AROO	0	5	5	0	
+0	0	0	R	1	5	4	0		0	6	9	0	
+0	0	0	O	1	5	4	0		0	7	4	0	
+0	1	9	O	1	5	4	0		1	8	3	1	OEN
+0	1	10	M	2	0	4	1	MPAA	1	0	3	0	
+0	0	0	P	2	0	4	0		0	1	4	0	
+0	0	0	A	2	0	4	0		0	2	9	0	
+0	0	0	A	2	0	4	0		0	3	3	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	11	P	2	5	4	1	PELE	0	5	5	0	
+0	0	0	E	2	5	4	0		0	6	9	0	
+0	0	0	L	2	5	4	0		0	7	4	0	
+0	0	0	E	2	5	4	0		1	8	3	0	
+0	1	12	A	3	0	3	1	APR	1	0	3	0	
+0	0	0	P	3	0	3	0		0	1	4	0	
+0	0	0	R	3	0	3	0		0	2	9	0	
+1	0	0	#	3	4	5	0		4	3	5	0	
+0	1	13	D	3	4	5	1	DESON	3	4	3	1	DOR
+0	0	0	E	3	4	5	0		0	5	5	0	
+0	0	0	S	3	4	5	0		0	6	9	0	
+0	0	0	O	3	4	5	0		0	7	4	0	
+0	0	0	N	3	4	5	0		1	8	3	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	5	0		5	1	4	0	
+0	1	14	E	4	2	5	1	ENOLS	0	2	9	0	
+0	1	15	N	4	2	5	0		4	3	5	1	NONNA
+0	0	0	O	4	2	5	0		3	4	3	0	
+0	0	0	L	4	2	5	0		0	5	5	0	
+0	0	0	S	4	2	5	0		0	6	9	0	
+1	0	0	#	4	8	0	0		5	7	4	0	
+1	0	0	#	4	9	0	0		5	8	3	0	
+0	1	16	S	5	0	5	1	SENOR	5	0	3	1	SBA
+0	1	17	E	5	0	5	0		5	1	4	1	ERSE
+0	0	0	N	5	0	5	0		0	2	9	0	
+0	0	0	O	5	0	5	0		4	3	5	0	
+0	0	0	R	5	0	5	0		3	4	3	0	
+1	0	0	#	5	6	3	0		6	5	3	0	
+0	1	18	R	5	6	3	1	RDY	0	6	9	0	
+0	1	19	D	5	6	3	0		5	7	4	1	DARA
+0	1	20	Y	5	6	3	0		5	8	3	1	YAY
+0	1	21	B	6	0	4	1	BREN	5	0	3	0	
+0	0	0	R	6	0	4	0		5	1	4	0	
+0	0	0	E	6	0	4	0		0	2	9	0	
+0	0	0	N	6	0	4	0		4	3	5	0	
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	22	A	6	5	4	1	AAAA	6	5	3	1	AAA
+0	0	0	A	6	5	4	0		0	6	9	0	
+0	0	0	A	6	5	4	0		5	7	4	0	
+0	0	0	A	6	5	4	0		5	8	3	0	
+0	1	23	A	7	0	4	1	ASSN	5	0	3	0	
+0	0	0	S	7	0	4	0		5	1	4	0	
+0	0	0	S	7	0	4	0		0	2	9	0	
+0	0	0	N	7	0	4	0		4	3	5	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	24	A	7	5	4	1	ACRY	6	5	3	0	
+0	0	0	C	7	5	4	0		0	6	9	0	
+0	0	0	R	7	5	4	0		5	7	4	0	
+0	0	0	Y	7	5	4	0		5	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	25	E	8	1	3	1	ESA	5	1	4	0	
+0	0	0	S	8	1	3	0		0	2	9	0	
+0	0	0	A	8	1	3	0		4	3	5	0	
+1	0	0	#	8	5	3	0		9	4	0	0	
+0	1	26	A	8	5	3	1	AKA	6	5	3	0	
+0	0	0	K	8	5	3	0		0	6	9	0	
+0	0	0	A	8	5	3	0		5	7	4	0	
+1	0	0	#	8	9	0	0		9	8	0	0	
+17
+1	BAG	Snare
+4	LDC	Parts of a house, in classifieds: Abbr.
+7	COWL	Monk's hood
+8	AROO	Buck add-on
+10	MPAA	Assigner of G's and R's: Abbr.
+11	PELE	Brazilian booter
+12	APR	Loan abbreviation
+13	DESON	Adores
+14	ENOLS	Organic chemistry topic
+16	SENOR	Polite title
+18	RDY	At a low ___
+21	BREN	W.W. II light machine gun
+22	AAAA	High rating
+23	ASSN	Alumni ___: Abbr.
+24	ACRY	Streep's "___ in the Dark"
+25	ESA	What that might be in Spain
+26	AKA	"___ Cassius Clay" (1970 documentary)
+15
+1	BOPP	Hale-___ comet
+2	AWARENESS	Perception
+3	GLA	Liver, e.g.
+4	LAPEL	Zoot suit feature
+5	DRESSRACK	Boutique fixture
+6	COLO	U.S.A.F. Academy site
+7	CMA	Nashville-based awards org.
+9	OEN	Wine: Prefix
+13	DOR	Cannes film festival's Camera ___
+15	NONNA	Gianni's grandmother
+16	SBA	Fed. loan agency
+17	ERSE	Gaelic tongue
+19	DARA	Gold-medal Olympic swimmer ___ Torres
+20	YAY	"Yippee!"
+22	AAA	Cell call recipient, often: Abbr.

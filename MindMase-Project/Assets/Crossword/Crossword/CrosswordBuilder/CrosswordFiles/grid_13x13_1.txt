@@ -1,0 +1,233 @@
+grid_13x13_1
+13
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	A	0	1	3	1	ANU	0	1	3	1	AGO
+0	1	2	N	0	1	3	0		0	2	13	1	NANETTEFABRAY
+0	1	3	U	0	1	3	0		0	3	5	1	UINTA
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	4	S	0	6	3	1	SDS	0	6	3	1	SCI
+0	1	5	D	0	6	3	0		0	7	3	1	DUC
+0	1	6	S	0	6	3	0		0	8	7	1	SPECTRA
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	G	0	10	3	1	GOA	0	10	13	1	GEORGIEPORGIE
+0	1	8	O	0	10	3	0		0	11	5	1	OTERO
+0	1	9	A	0	10	3	0		0	12	3	1	AHN
+1	0	0	#	1	1	4	0		2	0	0	0	
+0	1	10	G	1	1	4	1	GAIA	0	1	3	0	
+0	0	0	A	1	1	4	0		0	2	13	0	
+0	0	0	I	1	1	4	0		0	3	5	0	
+0	1	11	A	1	1	4	0		1	4	3	1	AON
+1	0	0	#	1	6	3	0		2	5	3	0	
+0	1	12	C	1	6	3	1	CUP	0	6	3	0	
+0	0	0	U	1	6	3	0		0	7	3	0	
+0	0	0	P	1	6	3	0		0	8	7	0	
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	13	E	1	10	3	1	ETH	0	10	13	0	
+0	0	0	T	1	10	3	0		0	11	5	0	
+0	0	0	H	1	10	3	0		0	12	3	0	
+1	0	0	#	2	1	8	0		3	0	0	0	
+0	1	14	O	2	1	8	1	ONNOTICE	0	1	3	0	
+0	0	0	N	2	1	8	0		0	2	13	0	
+0	0	0	N	2	1	8	0		0	3	5	0	
+0	0	0	O	2	1	8	0		1	4	3	0	
+0	1	15	T	2	1	8	0		2	5	3	1	TAG
+0	0	0	I	2	1	8	0		0	6	3	0	
+0	0	0	C	2	1	8	0		0	7	3	0	
+0	0	0	E	2	1	8	0		0	8	7	0	
+1	0	0	#	2	10	3	0		3	9	3	0	
+0	1	16	O	2	10	3	1	OEN	0	10	13	0	
+0	0	0	E	2	10	3	0		0	11	5	0	
+0	0	0	N	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	4	0		4	1	3	0	
+0	1	17	E	3	2	4	1	ETNA	0	2	13	0	
+0	0	0	T	3	2	4	0		0	3	5	0	
+0	0	0	N	3	2	4	0		1	4	3	0	
+0	0	0	A	3	2	4	0		2	5	3	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	4	0		4	7	3	0	
+0	1	18	C	3	8	4	1	CARR	0	8	7	0	
+0	1	19	A	3	8	4	0		3	9	3	1	AAE
+0	0	0	R	3	8	4	0		0	10	13	0	
+0	0	0	R	3	8	4	0		0	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	20	A	4	0	4	1	ARTA	4	0	3	1	AGA
+0	1	21	R	4	0	4	0		4	1	3	1	RMN
+0	0	0	T	4	0	4	0		0	2	13	0	
+0	0	0	A	4	0	4	0		0	3	5	0	
+1	0	0	#	4	5	7	0		5	4	0	0	
+0	1	22	G	4	5	7	1	GOTTAGO	2	5	3	0	
+0	1	23	O	4	5	7	0		4	6	5	1	OHGEE
+0	1	24	T	4	5	7	0		4	7	3	1	TED
+0	0	0	T	4	5	7	0		0	8	7	0	
+0	0	0	A	4	5	7	0		3	9	3	0	
+0	0	0	G	4	5	7	0		0	10	13	0	
+0	0	0	O	4	5	7	0		0	11	5	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	25	G	5	0	3	1	GMT	4	0	3	0	
+0	0	0	M	5	0	3	0		4	1	3	0	
+0	0	0	T	5	0	3	0		0	2	13	0	
+1	0	0	#	5	4	0	0		6	3	0	0	
+1	0	0	#	5	5	0	0		6	4	7	0	
+1	0	0	#	5	6	5	0		6	5	3	0	
+0	1	26	H	5	6	5	1	HEREI	4	6	5	0	
+0	0	0	E	5	6	5	0		4	7	3	0	
+0	0	0	R	5	6	5	0		0	8	7	0	
+0	0	0	E	5	6	5	0		3	9	3	0	
+0	0	0	I	5	6	5	0		0	10	13	0	
+1	0	0	#	5	12	0	0		6	11	3	0	
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	27	A	6	0	3	1	ANE	4	0	3	0	
+0	0	0	N	6	0	3	0		4	1	3	0	
+0	0	0	E	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	3	0	
+0	1	28	M	6	4	5	1	MAGDA	6	4	7	1	MATISSE
+0	1	29	A	6	4	5	0		6	5	3	1	AMI
+0	0	0	G	6	4	5	0		4	6	5	0	
+0	0	0	D	6	4	5	0		4	7	3	0	
+0	0	0	A	6	4	5	0		0	8	7	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	30	E	6	10	3	1	EUD	0	10	13	0	
+0	1	31	U	6	10	3	0		6	11	3	1	USN
+0	1	32	D	6	10	3	0		6	12	3	1	DIA
+1	0	0	#	7	1	0	0		8	0	0	0	
+1	0	0	#	7	2	5	0		8	1	5	0	
+0	1	33	F	7	2	5	1	FRAME	0	2	13	0	
+0	1	34	R	7	2	5	0		7	3	3	1	RRR
+0	0	0	A	7	2	5	0		6	4	7	0	
+0	0	0	M	7	2	5	0		6	5	3	0	
+0	0	0	E	7	2	5	0		4	6	5	0	
+1	0	0	#	7	8	0	0		8	7	3	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+1	0	0	#	7	10	3	0		8	9	5	0	
+0	1	35	P	7	10	3	1	PSI	0	10	13	0	
+0	0	0	S	7	10	3	0		6	11	3	0	
+0	0	0	I	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	7	0		9	0	0	0	
+0	1	36	P	8	1	7	1	PARTIES	8	1	5	1	PAVES
+0	0	0	A	8	1	7	0		0	2	13	0	
+0	0	0	R	8	1	7	0		7	3	3	0	
+0	0	0	T	8	1	7	0		6	4	7	0	
+0	0	0	I	8	1	7	0		6	5	3	0	
+0	0	0	E	8	1	7	0		4	6	5	0	
+0	1	37	S	8	1	7	0		8	7	3	1	SER
+1	0	0	#	8	9	4	0		9	8	3	0	
+0	1	38	M	8	9	4	1	MONA	8	9	5	1	MENON
+0	0	0	O	8	9	4	0		0	10	13	0	
+0	0	0	N	8	9	4	0		6	11	3	0	
+0	0	0	A	8	9	4	0		6	12	3	0	
+1	0	0	#	9	1	4	0		10	0	3	0	
+0	1	39	A	9	1	4	1	ABRI	8	1	5	0	
+0	0	0	B	9	1	4	0		0	2	13	0	
+0	0	0	R	9	1	4	0		7	3	3	0	
+0	0	0	I	9	1	4	0		6	4	7	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	4	0		10	6	3	0	
+0	1	40	E	9	7	4	1	EGER	8	7	3	0	
+0	1	41	G	9	7	4	0		9	8	3	1	GIG
+0	0	0	E	9	7	4	0		8	9	5	0	
+0	0	0	R	9	7	4	0		0	10	13	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	0	0	
+0	1	42	D	10	0	3	1	DVR	10	0	3	1	DRT
+0	0	0	V	10	0	3	0		8	1	5	0	
+0	0	0	R	10	0	3	0		0	2	13	0	
+1	0	0	#	10	4	8	0		11	3	0	0	
+0	1	43	S	10	4	8	1	SHORINGS	6	4	7	0	
+0	1	44	H	10	4	8	0		10	5	3	1	HOM
+0	1	45	O	10	4	8	0		10	6	3	1	OYE
+0	0	0	R	10	4	8	0		8	7	3	0	
+0	0	0	I	10	4	8	0		9	8	3	0	
+0	0	0	N	10	4	8	0		8	9	5	0	
+0	0	0	G	10	4	8	0		0	10	13	0	
+0	1	46	S	10	4	8	0		10	11	3	1	SNL
+1	0	0	#	10	13	0	0		11	12	0	0	
+0	1	47	R	11	0	3	1	REA	10	0	3	0	
+0	0	0	E	11	0	3	0		8	1	5	0	
+0	0	0	A	11	0	3	0		0	2	13	0	
+1	0	0	#	11	4	3	0		12	3	0	0	
+0	1	48	S	11	4	3	1	SOY	6	4	7	0	
+0	0	0	O	11	4	3	0		10	5	3	0	
+0	0	0	Y	11	4	3	0		10	6	3	0	
+1	0	0	#	11	8	4	0		12	7	0	0	
+0	1	49	G	11	8	4	1	GOIN	9	8	3	0	
+0	0	0	O	11	8	4	0		8	9	5	0	
+0	0	0	I	11	8	4	0		0	10	13	0	
+0	0	0	N	11	8	4	0		10	11	3	0	
+1	0	0	#	11	13	0	0		12	12	0	0	
+0	1	50	T	12	0	3	1	TSY	10	0	3	0	
+0	0	0	S	12	0	3	0		8	1	5	0	
+0	0	0	Y	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	51	E	12	4	3	1	EME	6	4	7	0	
+0	0	0	M	12	4	3	0		10	5	3	0	
+0	0	0	E	12	4	3	0		10	6	3	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	3	0		13	8	0	0	
+0	1	52	N	12	9	3	1	NEL	8	9	5	0	
+0	0	0	E	12	9	3	0		0	10	13	0	
+0	0	0	L	12	9	3	0		10	11	3	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	ANU	Akkadian god of heaven
+4	SDS	'60s radical grp.
+7	GOA	Former Portuguese colony in India
+10	GAIA	Earth as an organism
+12	CUP	Driver's target
+13	ETH	Third person ending of old
+14	ONNOTICE	Having been warned
+16	OEN	Vintner's prefix
+17	ETNA	Italian peak
+18	CARR	Baker v. ___ (landmark Supreme Court voting rights case)
+20	ARTA	Greek city known to the ancients as Ambracia
+22	GOTTAGO	"Bye now!"
+25	GMT	Chronometric std.
+26	HEREI	"___ stand" (Martin Luther declaration)
+27	ANE	Common request for Pat Sajak
+28	MAGDA	A Gabor sister
+30	EUD	Fix a squeak
+33	FRAME	Picture holder
+35	PSI	"___ Love You"
+36	PARTIES	Voting booth information
+38	MONA	Marisa's "My Cousin Vinny" role
+39	ABRI	Shelter dug into a hillside
+40	EGER	Bavarian river
+42	DVR	TiVo, for one
+43	SHORINGS	Drydock supports
+47	REA	Mens ___
+48	SOY	Kind of flour
+49	GOIN	"How's it ___?"
+50	TSY	Stowe girl
+51	EME	Suffix with morph-
+52	NEL	"Volare (___ Blu Dipinto di Blu)"
+29
+1	AGO	Back, in a way
+2	NANETTEFABRAY	"""Harper Valley P.T.A."" actress"
+3	UINTA	___ Mountains, home of King's Peak
+4	SCI	Kind of fair: Abbr.
+5	DUC	Vietnam's Le ___ Tho
+6	SPECTRA	Rainbows
+7	GEORGIEPORGIE	Nursery rhyme title fellow
+8	OTERO	County NE of El Paso
+9	AHN	Philip of "Kung Fu"
+11	AON	Get an ___ (ace)
+15	TAG	Make it?
+19	AAE	Cable channel
+20	AGA	Eastern honorific
+21	RMN	Loser to J.F.K.
+23	OHGEE	"Well, golly"
+24	TED	Baseball legend Williams
+28	MATISSE	Henri who painted "The Dance"
+29	AMI	"What ___, chopped liver?"
+31	USN	"Top Gun" org.
+32	DIA	Semana segment
+34	RRR	Grammar school trio?
+36	PAVES	Blacktops, say
+37	SER	Talk to the flock: Abbr.
+38	MENON	They may run home, informally
+41	GIG	Booking
+42	DRT	Richard Gere title role of 2000
+44	HOM	Opposite of heter-
+45	OYE	"___ Como Va" (1971 Santana hit)
+46	SNL	Longtime TV inits.

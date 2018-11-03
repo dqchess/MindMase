@@ -1,0 +1,235 @@
+grid_13x13_163
+13
+0	1	1	D	0	0	3	1	DII	0	0	4	1	DCVI
+0	1	2	I	0	0	3	0		0	1	5	1	ISERE
+0	1	3	I	0	0	3	0		0	2	13	1	ITSANOTHERTIE
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	A	0	4	3	1	AAP	0	4	3	1	AKA
+0	1	5	A	0	4	3	0		0	5	3	1	AWL
+0	1	6	P	0	4	3	0		0	6	3	1	POV
+1	0	0	#	0	8	0	0		1	7	4	0	
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	C	0	10	3	1	COD	0	10	13	1	CLICKETYCLICK
+0	1	8	O	0	10	3	0		0	11	3	1	OMN
+0	1	9	D	0	10	3	0		0	12	3	1	DAS
+0	1	10	C	1	0	3	1	CST	0	0	4	0	
+0	0	0	S	1	0	3	0		0	1	5	0	
+0	0	0	T	1	0	3	0		0	2	13	0	
+1	0	0	#	1	4	4	0		2	3	4	0	
+0	1	11	K	1	4	4	1	KWON	0	4	3	0	
+0	0	0	W	1	4	4	0		0	5	3	0	
+0	0	0	O	1	4	4	0		0	6	3	0	
+0	1	12	N	1	4	4	0		1	7	4	1	NICE
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	13	A	1	9	4	1	ALMA	1	9	3	1	AGN
+0	0	0	L	1	9	4	0		0	10	13	0	
+0	0	0	M	1	9	4	0		0	11	3	0	
+0	0	0	A	1	9	4	0		0	12	3	0	
+0	1	14	V	2	0	13	1	VESTALVIRGINS	0	0	4	0	
+0	0	0	E	2	0	13	0		0	1	5	0	
+0	0	0	S	2	0	13	0		0	2	13	0	
+0	1	15	T	2	0	13	0		2	3	4	1	TNTS
+0	0	0	A	2	0	13	0		0	4	3	0	
+0	0	0	L	2	0	13	0		0	5	3	0	
+0	0	0	V	2	0	13	0		0	6	3	0	
+0	0	0	I	2	0	13	0		1	7	4	0	
+0	1	16	R	2	0	13	0		2	8	3	1	ROS
+0	0	0	G	2	0	13	0		1	9	3	0	
+0	0	0	I	2	0	13	0		0	10	13	0	
+0	0	0	N	2	0	13	0		0	11	3	0	
+0	0	0	S	2	0	13	0		0	12	3	0	
+0	1	17	I	3	0	4	1	IRAN	0	0	4	0	
+0	0	0	R	3	0	4	0		0	1	5	0	
+0	0	0	A	3	0	4	0		0	2	13	0	
+0	0	0	N	3	0	4	0		2	3	4	0	
+1	0	0	#	3	5	0	0		4	4	3	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	4	0		4	6	5	0	
+0	1	18	C	3	7	4	1	CONC	1	7	4	0	
+0	0	0	O	3	7	4	0		2	8	3	0	
+0	0	0	N	3	7	4	0		1	9	3	0	
+0	0	0	C	3	7	4	0		0	10	13	0	
+1	0	0	#	3	12	0	0		4	11	3	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	8	0		5	0	0	0	
+0	1	19	E	4	1	8	1	ENTITLES	0	1	5	0	
+0	0	0	N	4	1	8	0		0	2	13	0	
+0	0	0	T	4	1	8	0		2	3	4	0	
+0	1	20	I	4	1	8	0		4	4	3	1	IAS
+0	1	21	T	4	1	8	0		4	5	3	1	TMS
+0	1	22	L	4	1	8	0		4	6	5	1	LASSO
+0	0	0	E	4	1	8	0		1	7	4	0	
+0	0	0	S	4	1	8	0		2	8	3	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	23	K	4	10	3	1	KOO	0	10	13	0	
+0	1	24	O	4	10	3	0		4	11	3	1	OPP
+0	1	25	O	4	10	3	0		4	12	3	1	OIS
+1	0	0	#	5	1	0	0		6	0	3	0	
+1	0	0	#	5	2	5	0		6	1	3	0	
+0	1	26	O	5	2	5	1	OSAMA	0	2	13	0	
+0	0	0	S	5	2	5	0		2	3	4	0	
+0	0	0	A	5	2	5	0		4	4	3	0	
+0	0	0	M	5	2	5	0		4	5	3	0	
+0	0	0	A	5	2	5	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	27	E	5	10	3	1	EPI	0	10	13	0	
+0	0	0	P	5	10	3	0		4	11	3	0	
+0	0	0	I	5	10	3	0		4	12	3	0	
+0	1	28	B	6	0	3	1	BOT	6	0	3	1	BOW
+0	1	29	O	6	0	3	0		6	1	3	1	OOO
+0	0	0	T	6	0	3	0		0	2	13	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	30	S	6	4	5	1	SSSSS	4	4	3	0	
+0	0	0	S	6	4	5	0		4	5	3	0	
+0	0	0	S	6	4	5	0		4	6	5	0	
+0	1	31	S	6	4	5	0		6	7	3	1	SON
+0	1	32	S	6	4	5	0		6	8	3	1	SOR
+1	0	0	#	6	10	3	0		7	9	4	0	
+0	1	33	T	6	10	3	1	TPS	0	10	13	0	
+0	0	0	P	6	10	3	0		4	11	3	0	
+0	0	0	S	6	10	3	0		4	12	3	0	
+0	1	34	O	7	0	3	1	OOH	6	0	3	0	
+0	0	0	O	7	0	3	0		6	1	3	0	
+0	0	0	H	7	0	3	0		0	2	13	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	5	0		8	5	4	0	
+0	1	35	S	7	6	5	1	SOOTY	4	6	5	0	
+0	0	0	O	7	6	5	0		6	7	3	0	
+0	0	0	O	7	6	5	0		6	8	3	0	
+0	1	36	T	7	6	5	0		7	9	4	1	TODD
+0	0	0	Y	7	6	5	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	37	W	8	0	3	1	WOE	6	0	3	0	
+0	0	0	O	8	0	3	0		6	1	3	0	
+0	0	0	E	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	8	0		9	3	3	0	
+0	1	38	M	8	4	8	1	MOONROCK	8	4	3	1	MIL
+0	1	39	O	8	4	8	0		8	5	4	1	OSLO
+0	0	0	O	8	4	8	0		4	6	5	0	
+0	0	0	N	8	4	8	0		6	7	3	0	
+0	0	0	R	8	4	8	0		6	8	3	0	
+0	0	0	O	8	4	8	0		7	9	4	0	
+0	0	0	C	8	4	8	0		0	10	13	0	
+0	1	40	K	8	4	8	0		8	11	5	1	KISSY
+1	0	0	#	8	13	0	0		9	12	4	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	41	R	9	2	4	1	ROIS	0	2	13	0	
+0	1	42	O	9	2	4	0		9	3	3	1	OEO
+0	0	0	I	9	2	4	0		8	4	3	0	
+0	0	0	S	9	2	4	0		8	5	4	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	4	0		10	8	3	0	
+0	1	43	D	9	9	4	1	DLII	7	9	4	0	
+0	0	0	L	9	9	4	0		0	10	13	0	
+0	0	0	I	9	9	4	0		8	11	5	0	
+0	1	44	I	9	9	4	0		9	12	4	1	IHAD
+0	1	45	S	10	0	13	1	SATELLITEDISH	10	0	3	1	SAV
+0	1	46	A	10	0	13	0		10	1	3	1	AGE
+0	0	0	T	10	0	13	0		0	2	13	0	
+0	0	0	E	10	0	13	0		9	3	3	0	
+0	0	0	L	10	0	13	0		8	4	3	0	
+0	0	0	L	10	0	13	0		8	5	4	0	
+0	1	47	I	10	0	13	0		10	6	3	1	IOC
+0	1	48	T	10	0	13	0		10	7	3	1	TZE
+0	1	49	E	10	0	13	0		10	8	3	1	EYE
+0	0	0	D	10	0	13	0		7	9	4	0	
+0	0	0	I	10	0	13	0		0	10	13	0	
+0	0	0	S	10	0	13	0		8	11	5	0	
+0	0	0	H	10	0	13	0		9	12	4	0	
+0	1	50	A	11	0	4	1	AGIO	10	0	3	0	
+0	0	0	G	11	0	4	0		10	1	3	0	
+0	0	0	I	11	0	4	0		0	2	13	0	
+0	0	0	O	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	51	O	11	5	4	1	OOZY	8	5	4	0	
+0	0	0	O	11	5	4	0		10	6	3	0	
+0	0	0	Z	11	5	4	0		10	7	3	0	
+0	0	0	Y	11	5	4	0		10	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	52	C	11	10	3	1	CSA	0	10	13	0	
+0	0	0	S	11	10	3	0		8	11	5	0	
+0	0	0	A	11	10	3	0		9	12	4	0	
+0	1	53	V	12	0	3	1	VEE	10	0	3	0	
+0	0	0	E	12	0	3	0		10	1	3	0	
+0	0	0	E	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	3	0		13	5	0	0	
+0	1	54	C	12	6	3	1	CEE	10	6	3	0	
+0	0	0	E	12	6	3	0		10	7	3	0	
+0	0	0	E	12	6	3	0		10	8	3	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	55	K	12	10	3	1	KYD	0	10	13	0	
+0	0	0	Y	12	10	3	0		8	11	5	0	
+0	0	0	D	12	10	3	0		9	12	4	0	
+29
+1	DII	Sixth-century year
+4	AAP	Store chain since 1859
+7	COD	Fish-and-chips fish
+10	CST	Chi hrs.
+11	KWON	Tae ___ do
+13	ALMA	Michigan town or college
+14	VESTALVIRGINS	Brewhouse fixture
+17	IRAN	Big oil supplier
+18	CONC	Solution strength: Abbr.
+19	ENTITLES	Gets a handle on?
+23	KOO	"Rock and Roll, Hoochie ___" (1974 hit)
+26	OSAMA	2003 Afghani film that won a Golden Globe for Best Foreign Language Film
+27	EPI	Center starter
+28	BOT	Sci-fi sidekick, maybe
+30	SSSSS	Exceptional rating
+33	TPS	Plays a sophomoric prank on, informally
+34	OOH	Cry at fireworks
+35	SOOTY	Black, in a way
+37	WOE	Blue state?
+38	MOONROCK	Drop drawers on actor Hudson?
+41	ROIS	18 Louises
+43	DLII	Diocletian's 552
+45	SATELLITEDISH	Wide receiver?
+50	AGIO	Currency exchange premium
+51	OOZY	Leaking
+52	CSA	Jefferson Davis's org.
+53	VEE	Gaggle formation
+54	CEE	Manufacturing center?
+55	KYD	Early English playwright Thomas
+33
+1	DCVI	7th-century date
+2	ISERE	River through Grenoble
+3	ITSANOTHERTIE	...on Christmas morning
+4	AKA	Cognomen preceder
+5	AWL	Punching item
+6	POV	Motion picture angle: Abbr.
+7	CLICKETYCLICK	Sound from a moving train
+8	OMN	All: Prefix
+9	DAS	Court V.I.P.'s
+12	NICE	Pleasing
+13	AGN	Once more: Abbr.
+15	TNTS	Demolition supplies
+16	ROS	Author Asquith of children's books
+20	IAS	___ in ink
+21	TMS	They often accompany logos: Abbr.
+22	LASSO	Catch on a ranch
+24	OPP	Antithesis: Abbr.
+25	OIS	Grafton's "___ for Outlaw"
+28	BOW	Violist's purchase
+29	OOO	Game winner
+31	SON	Ham, to Noah
+32	SOR	Frat. counterpart
+36	TODD	Thelma of "The Maltese Falcon," 1931
+38	MIL	"Thanks a ___!"
+39	OSLO	Seat of King Olaf's rule
+40	KISSY	Affectionate, slangily
+42	OEO	Great Society inits.
+44	IHAD	"If ___ a Hammer"
+45	SAV	Part of some discount store names
+46	AGE	65, say, for retirement
+47	IOC	Games grp.
+48	TZE	Philosopher Mo-___
+49	EYE	Needle hole

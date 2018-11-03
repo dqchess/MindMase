@@ -1,0 +1,167 @@
+grid_11x11_107
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	10	0	
+0	1	1	H	0	3	3	1	HAN	0	3	4	1	HEME
+0	1	2	A	0	3	3	0		0	4	3	1	ATO
+0	1	3	N	0	3	3	0		0	5	3	1	NON
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	3	0		1	7	4	0	
+0	1	4	O	0	8	3	1	OAS	0	8	10	1	OPENHANDED
+0	1	5	A	0	8	3	0		0	9	4	1	AKIO
+0	1	6	S	0	8	3	0		0	10	3	1	SEL
+1	0	0	#	1	1	5	0		2	0	0	0	
+0	1	7	U	1	1	5	1	USETO	1	1	5	1	USEBY
+0	1	8	S	1	1	5	0		1	2	10	1	SIDEPOCKET
+0	0	0	E	1	1	5	0		0	3	4	0	
+0	0	0	T	1	1	5	0		0	4	3	0	
+0	0	0	O	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	9	T	1	7	4	1	TPKE	1	7	4	1	TWOA
+0	0	0	P	1	7	4	0		0	8	10	0	
+0	0	0	K	1	7	4	0		0	9	4	0	
+0	0	0	E	1	7	4	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	3	0	
+0	1	10	S	2	1	10	1	SIMONEWEIL	1	1	5	0	
+0	0	0	I	2	1	10	0		1	2	10	0	
+0	0	0	M	2	1	10	0		0	3	4	0	
+0	0	0	O	2	1	10	0		0	4	3	0	
+0	0	0	N	2	1	10	0		0	5	3	0	
+0	1	11	E	2	1	10	0		2	6	4	1	EMPT
+0	0	0	W	2	1	10	0		1	7	4	0	
+0	0	0	E	2	1	10	0		0	8	10	0	
+0	0	0	I	2	1	10	0		0	9	4	0	
+0	0	0	L	2	1	10	0		0	10	3	0	
+0	1	12	D	3	0	4	1	DEDE	3	0	3	1	DIG
+0	0	0	E	3	0	4	0		1	1	5	0	
+0	0	0	D	3	0	4	0		1	2	10	0	
+0	0	0	E	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	13	M	3	6	4	1	MONO	2	6	4	0	
+0	0	0	O	3	6	4	0		1	7	4	0	
+0	0	0	N	3	6	4	0		0	8	10	0	
+0	0	0	O	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	14	I	4	0	3	1	IBE	3	0	3	0	
+0	0	0	B	4	0	3	0		1	1	5	0	
+0	0	0	E	4	0	3	0		1	2	10	0	
+1	0	0	#	4	4	0	0		5	3	0	0	
+1	0	0	#	4	5	4	0		5	4	4	0	
+0	1	15	O	4	5	4	1	OPAH	4	5	3	1	OSE
+0	0	0	P	4	5	4	0		2	6	4	0	
+0	0	0	A	4	5	4	0		1	7	4	0	
+0	0	0	H	4	5	4	0		0	8	10	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	16	G	5	0	3	1	GYP	3	0	3	0	
+0	0	0	Y	5	0	3	0		1	1	5	0	
+0	0	0	P	5	0	3	0		1	2	10	0	
+1	0	0	#	5	4	3	0		6	3	4	0	
+0	1	17	S	5	4	3	1	SST	5	4	4	1	SMTE
+0	0	0	S	5	4	3	0		4	5	3	0	
+0	0	0	T	5	4	3	0		2	6	4	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	18	A	5	8	3	1	AAP	0	8	10	0	
+0	1	19	A	5	8	3	0		5	9	5	1	ANARM
+0	1	20	P	5	8	3	0		5	10	3	1	PER
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	4	0		7	1	4	0	
+0	1	21	O	6	2	4	1	ONME	1	2	10	0	
+0	1	22	N	6	2	4	0		6	3	4	1	NALA
+0	0	0	M	6	2	4	0		5	4	4	0	
+0	0	0	E	6	2	4	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	23	N	6	8	3	1	NNE	0	8	10	0	
+0	0	0	N	6	8	3	0		5	9	5	0	
+0	0	0	E	6	8	3	0		5	10	3	0	
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	24	S	7	1	4	1	SCAT	7	1	4	1	SNED
+0	0	0	C	7	1	4	0		1	2	10	0	
+0	0	0	A	7	1	4	0		6	3	4	0	
+0	0	0	T	7	1	4	0		5	4	4	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	25	A	7	7	4	1	ADAR	7	7	4	1	ATNO
+0	0	0	D	7	7	4	0		0	8	10	0	
+0	0	0	A	7	7	4	0		5	9	5	0	
+0	0	0	R	7	7	4	0		5	10	3	0	
+0	1	26	A	8	0	10	1	ANKLEBITER	8	0	3	1	ASP
+0	0	0	N	8	0	10	0		7	1	4	0	
+0	0	0	K	8	0	10	0		1	2	10	0	
+0	0	0	L	8	0	10	0		6	3	4	0	
+0	0	0	E	8	0	10	0		5	4	4	0	
+0	1	27	B	8	0	10	0		8	5	3	1	BMT
+0	1	28	I	8	0	10	0		8	6	3	1	IAS
+0	0	0	T	8	0	10	0		7	7	4	0	
+0	0	0	E	8	0	10	0		0	8	10	0	
+0	0	0	R	8	0	10	0		5	9	5	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	29	S	9	0	4	1	SEEA	8	0	3	0	
+0	0	0	E	9	0	4	0		7	1	4	0	
+0	0	0	E	9	0	4	0		1	2	10	0	
+0	0	0	A	9	0	4	0		6	3	4	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	30	M	9	5	5	1	MANDM	8	5	3	0	
+0	0	0	A	9	5	5	0		8	6	3	0	
+0	0	0	N	9	5	5	0		7	7	4	0	
+0	0	0	D	9	5	5	0		0	8	10	0	
+0	0	0	M	9	5	5	0		5	9	5	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	31	P	10	0	3	1	PDT	8	0	3	0	
+0	0	0	D	10	0	3	0		7	1	4	0	
+0	0	0	T	10	0	3	0		1	2	10	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	32	T	10	5	3	1	TSO	8	5	3	0	
+0	0	0	S	10	5	3	0		8	6	3	0	
+0	0	0	O	10	5	3	0		7	7	4	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	HAN	Solo in space
+4	OAS	W. Hemisphere grp.
+7	USETO	Is of ___ (aids)
+9	TPKE	N.J. or Pa. route
+10	SIMONEWEIL	"Waiting for God" philosopher
+12	DEDE	"___ Dinah" (Frankie Avalon's first hit)
+13	MONO	Early Beatles songs are in it
+14	IBE	"When Will ___ Loved"
+15	OPAH	Moonfish
+16	GYP	Bilk, say
+17	SST	Historic barrier breaker
+18	AAP	Store chain since 1859
+21	ONME	"This round's ___"
+23	NNE	Ship's heading
+24	SCAT	Sing like Ella Fitzgerald
+25	ADAR	Time of Ta'anit Esther
+26	ANKLEBITER	Rug rat
+29	SEEA	___ movie
+30	MANDM	Popular bit of candy
+31	PDT	July hrs. in Vegas
+32	TSO	General whose name is associated with chicken
+21
+1	HEME	Blood pigment
+2	ATO	>From ___ Z
+3	NON	NCO part
+4	OPENHANDED	Generous
+5	AKIO	Sony co-founder Morita
+6	SEL	French seasoning
+7	USEBY	Start of an expiration notice
+8	SIDEPOCKET	It's surrounded by cushions
+9	TWOA	Old deferment classification
+11	EMPT	Pre-___ (take the place of)
+12	DIG	Go for
+15	OSE	Suffix with tubul-
+17	SMTE	Wallop
+19	ANARM	Cost ___ and a leg
+20	PER	For this or that
+22	NALA	Lion in "The Lion King"
+24	SNED	Caught some rays
+25	ATNO	___ point (never)
+26	ASP	Part of an Egyptian headpiece
+27	BMT	Big Apple subway inits.
+28	IAS	"___ in Icarus" (1979 French thriller)

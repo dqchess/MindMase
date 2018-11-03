@@ -1,0 +1,171 @@
+grid_11x11_120
+11
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	ASL	0	1	5	1	AGITA
+0	1	2	S	0	1	3	0		0	2	5	1	SGATE
+0	1	3	L	0	1	3	0		0	3	3	1	LRG
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	3	0		1	6	5	0	
+0	1	4	K	0	7	3	1	KUE	0	7	3	1	KAN
+0	1	5	U	0	7	3	0		0	8	5	1	URGES
+0	1	6	E	0	7	3	0		0	9	5	1	ECLAT
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	A	1	0	5	1	AGGRO	1	0	3	1	ADA
+0	0	0	G	1	0	5	0		0	1	5	0	
+0	0	0	G	1	0	5	0		0	2	5	0	
+0	0	0	R	1	0	5	0		0	3	3	0	
+0	1	8	O	1	0	5	0		1	4	3	1	ONT
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	9	M	1	6	5	1	MARCH	1	6	5	1	MISTI
+0	0	0	A	1	6	5	0		0	7	3	0	
+0	0	0	R	1	6	5	0		0	8	5	0	
+0	0	0	C	1	6	5	0		0	9	5	0	
+0	1	10	H	1	6	5	0		1	10	3	1	HED
+0	1	11	D	2	0	5	1	DIAGN	1	0	3	0	
+0	0	0	I	2	0	5	0		0	1	5	0	
+0	0	0	A	2	0	5	0		0	2	5	0	
+0	0	0	G	2	0	5	0		0	3	3	0	
+0	0	0	N	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	I	2	6	5	1	INGLE	1	6	5	0	
+0	0	0	N	2	6	5	0		0	7	3	0	
+0	0	0	G	2	6	5	0		0	8	5	0	
+0	0	0	L	2	6	5	0		0	9	5	0	
+0	0	0	E	2	6	5	0		1	10	3	0	
+0	1	13	A	3	0	3	1	ATT	1	0	3	0	
+0	0	0	T	3	0	3	0		0	1	5	0	
+0	0	0	T	3	0	3	0		0	2	5	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	14	T	3	4	3	1	TUS	1	4	3	0	
+0	1	15	U	3	4	3	0		3	5	5	1	UNCLE
+0	0	0	S	3	4	3	0		1	6	5	0	
+1	0	0	#	3	8	3	0		4	7	3	0	
+0	1	16	E	3	8	3	1	EAD	0	8	5	0	
+0	0	0	A	3	8	3	0		0	9	5	0	
+0	0	0	D	3	8	3	0		1	10	3	0	
+1	0	0	#	4	1	3	0		5	0	0	0	
+0	1	17	A	4	1	3	1	AER	0	1	5	0	
+0	0	0	E	4	1	3	0		0	2	5	0	
+0	1	18	R	4	1	3	0		4	3	3	1	REM
+1	0	0	#	4	5	5	0		5	4	5	0	
+0	1	19	N	4	5	5	1	NTEST	3	5	5	0	
+0	0	0	T	4	5	5	0		1	6	5	0	
+0	1	20	E	4	5	5	0		4	7	3	1	EAN
+0	0	0	S	4	5	5	0		0	8	5	0	
+0	0	0	T	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	21	E	5	3	5	1	EXCIA	4	3	3	0	
+0	1	22	X	5	3	5	0		5	4	5	1	XAXIS
+0	0	0	C	5	3	5	0		3	5	5	0	
+0	0	0	I	5	3	5	0		1	6	5	0	
+0	0	0	A	5	3	5	0		4	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	0	0		6	9	5	0	
+1	0	0	#	5	11	0	0		6	10	0	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	23	G	6	1	5	1	GAMAL	6	1	5	1	GESTE
+0	1	24	A	6	1	5	0		6	2	5	1	AYSIR
+0	0	0	M	6	1	5	0		4	3	3	0	
+0	0	0	A	6	1	5	0		5	4	5	0	
+0	0	0	L	6	1	5	0		3	5	5	0	
+1	0	0	#	6	7	3	0		7	6	3	0	
+0	1	25	N	6	7	3	1	NER	4	7	3	0	
+0	1	26	E	6	7	3	0		6	8	5	1	ENDUP
+0	1	27	R	6	7	3	0		6	9	5	1	RYANS
+1	0	0	#	6	11	0	0		7	10	3	0	
+0	1	28	B	7	0	3	1	BEY	7	0	3	1	BIS
+0	0	0	E	7	0	3	0		6	1	5	0	
+0	0	0	Y	7	0	3	0		6	2	5	0	
+1	0	0	#	7	4	3	0		8	3	3	0	
+0	1	29	X	7	4	3	1	XES	5	4	5	0	
+0	0	0	E	7	4	3	0		3	5	5	0	
+0	1	30	S	7	4	3	0		7	6	3	1	SSA
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	31	N	7	8	3	1	NYE	6	8	5	0	
+0	0	0	Y	7	8	3	0		6	9	5	0	
+0	1	32	E	7	8	3	0		7	10	3	1	ERE
+0	1	33	I	8	0	5	1	ISSEI	7	0	3	0	
+0	0	0	S	8	0	5	0		6	1	5	0	
+0	0	0	S	8	0	5	0		6	2	5	0	
+0	1	34	E	8	0	5	0		8	3	3	1	EES
+0	0	0	I	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	35	S	8	6	5	1	SIDAR	7	6	3	0	
+0	1	36	I	8	6	5	0		8	7	3	1	ITD
+0	0	0	D	8	6	5	0		6	8	5	0	
+0	0	0	A	8	6	5	0		6	9	5	0	
+0	0	0	R	8	6	5	0		7	10	3	0	
+0	1	37	S	9	0	5	1	STIES	7	0	3	0	
+0	0	0	T	9	0	5	0		6	1	5	0	
+0	0	0	I	9	0	5	0		6	2	5	0	
+0	0	0	E	9	0	5	0		8	3	3	0	
+0	0	0	S	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	5	0		10	5	0	0	
+0	1	38	A	9	6	5	1	ATUNE	7	6	3	0	
+0	0	0	T	9	6	5	0		8	7	3	0	
+0	0	0	U	9	6	5	0		6	8	5	0	
+0	0	0	N	9	6	5	0		6	9	5	0	
+0	0	0	E	9	6	5	0		7	10	3	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	39	E	10	1	3	1	ERS	6	1	5	0	
+0	0	0	R	10	1	3	0		6	2	5	0	
+0	0	0	S	10	1	3	0		8	3	3	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	40	D	10	7	3	1	DPS	8	7	3	0	
+0	0	0	P	10	7	3	0		6	8	5	0	
+0	0	0	S	10	7	3	0		6	9	5	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+23
+1	ASL	Visual way to communicate: Abbr.
+4	KUE	Letter after pee
+7	AGGRO	Violent behavior, in British slang
+9	MARCH	General's cry
+11	DIAGN	Find out what's wrong
+12	INGLE	Fireplace
+13	ATT	Part of a popular collect call number
+14	TUS	Overseer of schools: Abbr.
+16	EAD	Year that Augustus exiled Ovid
+17	AER	___ Lingus
+19	NTEST	Bikini experiment, for short
+21	EXCIA	No longer working for the Company
+23	GAMAL	Egypt's Nasser
+25	NER	___ Tamid (synagogue lamp)
+28	BEY	Old Turkish pooh-bah
+29	XES	Crosses (out)
+31	NYE	"The Science Guy" on TV
+33	ISSEI	Onetime Japanese immigrant
+35	SIDAR	Biker's add-on
+37	STIES	Yorkshire hangouts
+38	ATUNE	Carry ___ (sing on pitch)
+39	ERS	Trauma ctrs.
+40	DPS	Stat for infielders
+23
+1	AGITA	Unease
+2	SGATE	1994 sci-fi epic
+3	LRG	Big: Abbr.
+4	KAN	Where the Cimarron flows: Abbr.
+5	URGES	More than suggests
+6	ECLAT	Blaze of glory
+7	ADA	Decay-fighting org.
+8	ONT	It's west of Que.
+9	MISTI	Peru's El ___ volcano
+10	HED	"___ sow't with nettle-seed": Shak.
+15	UNCLE	Last word in a wrestling match?
+18	REM	"The One I Love" group
+20	EAN	Suffix with Caesar
+22	XAXIS	Horizontal line
+23	GESTE	Chanson de ___ (medieval French poem)
+24	AYSIR	Mate's assent
+26	ENDUP	Become, at last
+27	RYANS	"___ Hope," long-running ABC soap
+28	BIS	Recital hall shout
+30	SSA	Org. that has its benefits
+32	ERE	"___ the bat hath flown / His cloister'd flight ...": Macbeth
+34	EES	Some Texas A & M degs.
+36	ITD	"___ better be good!"

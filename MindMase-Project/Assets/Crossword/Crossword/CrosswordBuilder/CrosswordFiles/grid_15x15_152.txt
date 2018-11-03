@@ -1,0 +1,307 @@
+grid_15x15_152
+15
+0	1	1	S	0	0	6	1	SHAYNE	0	0	3	1	SAR
+0	1	2	H	0	0	6	0		0	1	3	1	HTO
+0	1	3	A	0	0	6	0		0	2	8	1	AHOYMATE
+0	1	4	Y	0	0	6	0		0	3	5	1	YESED
+0	1	5	N	0	0	6	0		0	4	5	1	NATER
+0	1	6	E	0	0	6	0		0	5	3	1	ERE
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	7	F	0	8	3	1	FIL	0	8	5	1	FORAY
+0	1	8	I	0	8	3	0		0	9	3	1	III
+0	1	9	L	0	8	3	0		0	10	3	1	LLD
+1	0	0	#	0	12	0	0		1	11	3	0	
+1	0	0	#	0	13	0	0		1	12	5	0	
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	A	1	0	7	1	ATHEART	0	0	3	0	
+0	0	0	T	1	0	7	0		0	1	3	0	
+0	0	0	H	1	0	7	0		0	2	8	0	
+0	0	0	E	1	0	7	0		0	3	5	0	
+0	0	0	A	1	0	7	0		0	4	5	0	
+0	0	0	R	1	0	7	0		0	5	3	0	
+0	1	11	T	1	0	7	0		1	6	3	1	TRW
+1	0	0	#	1	8	6	0		2	7	0	0	
+0	1	12	O	1	8	6	1	OILMEN	0	8	5	0	
+0	0	0	I	1	8	6	0		0	9	3	0	
+0	0	0	L	1	8	6	0		0	10	3	0	
+0	1	13	M	1	8	6	0		1	11	3	1	MDX
+0	1	14	E	1	8	6	0		1	12	5	1	ELOAN
+0	1	15	N	1	8	6	0		1	13	5	1	NEVIS
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	16	R	2	0	7	1	ROOSTER	0	0	3	0	
+0	0	0	O	2	0	7	0		0	1	3	0	
+0	0	0	O	2	0	7	0		0	2	8	0	
+0	0	0	S	2	0	7	0		0	3	5	0	
+0	0	0	T	2	0	7	0		0	4	5	0	
+0	0	0	E	2	0	7	0		0	5	3	0	
+0	0	0	R	2	0	7	0		1	6	3	0	
+1	0	0	#	2	8	7	0		3	7	9	0	
+0	1	17	R	2	8	7	1	RIDDLED	0	8	5	0	
+0	0	0	I	2	8	7	0		0	9	3	0	
+0	0	0	D	2	8	7	0		0	10	3	0	
+0	0	0	D	2	8	7	0		1	11	3	0	
+0	0	0	L	2	8	7	0		1	12	5	0	
+0	0	0	E	2	8	7	0		1	13	5	0	
+0	1	18	D	2	8	7	0		2	14	3	1	DEM
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	4	0	
+0	1	19	Y	3	2	3	1	YEE	0	2	8	0	
+0	0	0	E	3	2	3	0		0	3	5	0	
+0	0	0	E	3	2	3	0		0	4	5	0	
+1	0	0	#	3	6	3	0		4	5	7	0	
+0	1	20	W	3	6	3	1	WBA	1	6	3	0	
+0	1	21	B	3	6	3	0		3	7	9	1	BOSSSSSTS
+0	0	0	A	3	6	3	0		0	8	5	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	4	0		4	10	0	0	
+0	1	22	X	3	11	4	1	XOVE	1	11	3	0	
+0	0	0	O	3	11	4	0		1	12	5	0	
+0	0	0	V	3	11	4	0		1	13	5	0	
+0	0	0	E	3	11	4	0		2	14	3	0	
+1	0	0	#	4	1	5	0		5	0	3	0	
+0	1	23	C	4	1	5	1	CMDRS	4	1	4	1	CEIL
+0	0	0	M	4	1	5	0		0	2	8	0	
+0	0	0	D	4	1	5	0		0	3	5	0	
+0	0	0	R	4	1	5	0		0	4	5	0	
+0	1	24	S	4	1	5	0		4	5	7	1	STALKER
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	25	O	4	7	3	1	OYS	3	7	9	0	
+0	0	0	Y	4	7	3	0		0	8	5	0	
+0	1	26	S	4	7	3	0		4	9	7	1	SLANTED
+1	0	0	#	4	11	0	0		5	10	3	0	
+1	0	0	#	4	12	3	0		5	11	4	0	
+0	1	27	A	4	12	3	1	AIM	1	12	5	0	
+0	0	0	I	4	12	3	0		1	13	5	0	
+0	0	0	M	4	12	3	0		2	14	3	0	
+0	1	28	K	5	0	3	1	KEA	5	0	3	1	KTS
+0	0	0	E	5	0	3	0		4	1	4	0	
+0	0	0	A	5	0	3	0		0	2	8	0	
+1	0	0	#	5	4	0	0		6	3	4	0	
+1	0	0	#	5	5	3	0		6	4	0	0	
+0	1	29	T	5	5	3	1	TPS	4	5	7	0	
+0	1	30	P	5	5	3	0		5	6	3	1	PEE
+0	0	0	S	5	5	3	0		3	7	9	0	
+1	0	0	#	5	9	5	0		6	8	0	0	
+0	1	31	L	5	9	5	1	LOONS	4	9	7	0	
+0	1	32	O	5	9	5	0		5	10	3	1	OUI
+0	1	33	O	5	9	5	0		5	11	4	1	ORGS
+0	0	0	N	5	9	5	0		1	12	5	0	
+0	0	0	S	5	9	5	0		1	13	5	0	
+1	0	0	#	5	15	0	0		6	14	0	0	
+0	1	34	T	6	0	4	1	TITO	5	0	3	0	
+0	0	0	I	6	0	4	0		4	1	4	0	
+0	0	0	T	6	0	4	0		0	2	8	0	
+0	1	35	O	6	0	4	0		6	3	4	1	OENS
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	36	A	6	5	3	1	AES	4	5	7	0	
+0	0	0	E	6	5	3	0		5	6	3	0	
+0	0	0	S	6	5	3	0		3	7	9	0	
+1	0	0	#	6	9	3	0		7	8	3	0	
+0	1	37	A	6	9	3	1	AUR	4	9	7	0	
+0	0	0	U	6	9	3	0		5	10	3	0	
+0	0	0	R	6	9	3	0		5	11	4	0	
+1	0	0	#	6	13	0	0		7	12	8	0	
+1	0	0	#	6	14	0	0		7	13	4	0	
+1	0	0	#	6	15	0	0		7	14	3	0	
+0	1	38	S	7	0	15	1	SLEEPLESSNIGHTS	5	0	3	0	
+0	0	0	L	7	0	15	0		4	1	4	0	
+0	0	0	E	7	0	15	0		0	2	8	0	
+0	0	0	E	7	0	15	0		6	3	4	0	
+0	1	39	P	7	0	15	0		7	4	3	1	PIK
+0	0	0	L	7	0	15	0		4	5	7	0	
+0	0	0	E	7	0	15	0		5	6	3	0	
+0	0	0	S	7	0	15	0		3	7	9	0	
+0	1	40	S	7	0	15	0		7	8	3	1	SSS
+0	0	0	N	7	0	15	0		4	9	7	0	
+0	0	0	I	7	0	15	0		5	10	3	0	
+0	0	0	G	7	0	15	0		5	11	4	0	
+0	1	41	H	7	0	15	0		7	12	8	1	HIMALAYA
+0	1	42	T	7	0	15	0		7	13	4	1	TZAR
+0	1	43	S	7	0	15	0		7	14	3	1	SEX
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	0	0		9	1	5	0	
+1	0	0	#	8	3	3	0		9	2	5	0	
+0	1	44	N	8	3	3	1	NIK	6	3	4	0	
+0	0	0	I	8	3	3	0		7	4	3	0	
+0	0	0	K	8	3	3	0		4	5	7	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	45	S	8	7	3	1	SST	3	7	9	0	
+0	0	0	S	8	7	3	0		7	8	3	0	
+0	0	0	T	8	7	3	0		4	9	7	0	
+1	0	0	#	8	11	4	0		9	10	0	0	
+0	1	46	S	8	11	4	1	SIZE	5	11	4	0	
+0	0	0	I	8	11	4	0		7	12	8	0	
+0	0	0	Z	8	11	4	0		7	13	4	0	
+0	0	0	E	8	11	4	0		7	14	3	0	
+1	0	0	#	9	1	5	0		10	0	3	0	
+0	1	47	F	9	1	5	1	FISKE	9	1	5	1	FATHA
+0	1	48	I	9	1	5	0		9	2	5	1	ILIAD
+0	0	0	S	9	1	5	0		6	3	4	0	
+0	0	0	K	9	1	5	0		7	4	3	0	
+0	0	0	E	9	1	5	0		4	5	7	0	
+1	0	0	#	9	7	3	0		10	6	5	0	
+0	1	49	S	9	7	3	1	SSE	3	7	9	0	
+0	0	0	S	9	7	3	0		7	8	3	0	
+0	0	0	E	9	7	3	0		4	9	7	0	
+1	0	0	#	9	11	0	0		10	10	5	0	
+1	0	0	#	9	12	3	0		10	11	5	0	
+0	1	50	M	9	12	3	1	MAX	7	12	8	0	
+0	0	0	A	9	12	3	0		7	13	4	0	
+0	0	0	X	9	12	3	0		7	14	3	0	
+0	1	51	M	10	0	3	1	MAL	10	0	3	1	MIF
+0	0	0	A	10	0	3	0		9	1	5	0	
+0	0	0	L	10	0	3	0		9	2	5	0	
+1	0	0	#	10	4	0	0		11	3	3	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	52	R	10	5	3	1	RST	4	5	7	0	
+0	1	53	S	10	5	3	0		10	6	5	1	SENDA
+0	0	0	T	10	5	3	0		3	7	9	0	
+1	0	0	#	10	9	5	0		11	8	3	0	
+0	1	54	D	10	9	5	1	DEWAR	4	9	7	0	
+0	1	55	E	10	9	5	0		10	10	5	1	ERINS
+0	1	56	W	10	9	5	0		10	11	5	1	WALES
+0	0	0	A	10	9	5	0		7	12	8	0	
+0	0	0	R	10	9	5	0		7	13	4	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	57	I	11	0	4	1	ITIS	10	0	3	0	
+0	0	0	T	11	0	4	0		9	1	5	0	
+0	0	0	I	11	0	4	0		9	2	5	0	
+0	1	58	S	11	0	4	0		11	3	3	1	SLO
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	3	0		12	5	3	0	
+0	1	59	E	11	6	3	1	ESQ	10	6	5	0	
+0	0	0	S	11	6	3	0		3	7	9	0	
+0	1	60	Q	11	6	3	0		11	8	3	1	QLM
+1	0	0	#	11	10	3	0		12	9	3	0	
+0	1	61	R	11	10	3	1	RAL	10	10	5	0	
+0	0	0	A	11	10	3	0		10	11	5	0	
+0	0	0	L	11	10	3	0		7	12	8	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	62	F	12	0	7	1	FHALOAN	10	0	3	0	
+0	0	0	H	12	0	7	0		9	1	5	0	
+0	0	0	A	12	0	7	0		9	2	5	0	
+0	0	0	L	12	0	7	0		11	3	3	0	
+0	1	63	O	12	0	7	0		12	4	3	1	ORR
+0	1	64	A	12	0	7	0		12	5	3	1	AEC
+0	0	0	N	12	0	7	0		10	6	5	0	
+1	0	0	#	12	8	7	0		13	7	0	0	
+0	1	65	L	12	8	7	1	LEILANI	11	8	3	0	
+0	1	66	E	12	8	7	0		12	9	3	1	EOE
+0	0	0	I	12	8	7	0		10	10	5	0	
+0	0	0	L	12	8	7	0		10	11	5	0	
+0	0	0	A	12	8	7	0		7	12	8	0	
+0	1	67	N	12	8	7	0		12	13	3	1	NEY
+0	1	68	I	12	8	7	0		12	14	3	1	IDS
+1	0	0	#	13	1	6	0		14	0	0	0	
+0	1	69	A	13	1	6	1	ADORED	9	1	5	0	
+0	0	0	D	13	1	6	0		9	2	5	0	
+0	0	0	O	13	1	6	0		11	3	3	0	
+0	0	0	R	13	1	6	0		12	4	3	0	
+0	0	0	E	13	1	6	0		12	5	3	0	
+0	0	0	D	13	1	6	0		10	6	5	0	
+1	0	0	#	13	8	7	0		14	7	0	0	
+0	1	70	M	13	8	7	1	MONEYED	11	8	3	0	
+0	0	0	O	13	8	7	0		12	9	3	0	
+0	0	0	N	13	8	7	0		10	10	5	0	
+0	0	0	E	13	8	7	0		10	11	5	0	
+0	0	0	Y	13	8	7	0		7	12	8	0	
+0	0	0	E	13	8	7	0		12	13	3	0	
+0	0	0	D	13	8	7	0		12	14	3	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	0	0		15	1	0	0	
+1	0	0	#	14	3	0	0		15	2	0	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	71	R	14	4	3	1	RCA	12	4	3	0	
+0	0	0	C	14	4	3	0		12	5	3	0	
+0	0	0	A	14	4	3	0		10	6	5	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	6	0		15	8	0	0	
+0	1	72	E	14	9	6	1	ESSAYS	12	9	3	0	
+0	0	0	S	14	9	6	0		10	10	5	0	
+0	0	0	S	14	9	6	0		10	11	5	0	
+0	0	0	A	14	9	6	0		7	12	8	0	
+0	0	0	Y	14	9	6	0		12	13	3	0	
+0	0	0	S	14	9	6	0		12	14	3	0	
+37
+1	SHAYNE	Private detective Mike of Brett Halliday novels
+7	FIL	Thread: Fr.
+10	ATHEART	Intrinsically
+12	OILMEN	Some Texan V.I.P.'s
+16	ROOSTER	Nature's alarm clock
+17	RIDDLED	Full of holes
+19	YEE	"___-haw!" (western rider's cry)
+20	WBA	I.B.F. rival
+22	XOVE	Dog in Oz
+23	CMDRS	Starfleet V.I.P.'s: Abbr.
+25	OYS	Sounds of shock
+27	AIM	Order between ready and fire
+28	KEA	Mauna ___
+29	TPS	Festoons a tree with bathroom rolls, briefly
+31	LOONS	Nuts
+34	TITO	Longtime Yugoslav leader
+36	AES	Challenger to D.D.E.
+37	AUR	Gold: Prefix
+38	SLEEPLESSNIGHTS	Result of prolonged worry
+44	NIK	It goes after refuse
+45	SST	J.F.K. lander
+46	SIZE	Clothing tag information
+47	FISKE	Justice Harlan ___ Stone
+49	SSE	Opposite of NNW
+50	MAX	At most, informally
+51	MAL	Opposite of bien
+52	RST	Alphabet string
+54	DEWAR	First distiller to sell whiskey by the bottle
+57	ITIS	Possible answer to "Really?"
+59	ESQ	Abbr. after a name
+61	RAL	"Too-ra-loo-ra-loo-___"
+62	FHALOAN	Alternative to a conventional mortgage
+65	LEILANI	"Sweet ___" (1937 Oscar song)
+69	ADORED	Dear
+70	MONEYED	Having deep pockets
+71	RCA	Zenith rival
+72	ESSAYS	Trials
+41
+1	SAR	Isl. near Corsica
+2	HTO	Theme of this puzzle
+3	AHOYMATE	Salty hail
+4	YESED	Was sycophantic to
+5	NATER	Talk incessantly
+6	ERE	Poetic conjunction
+7	FORAY	Plundering opportunity
+8	III	The last Pope Julius
+9	LLD	Honorary law degree: Abbr.
+11	TRW	Major defense corp.
+13	MDX	A multiple of CLI
+14	ELOAN	Online financial services company
+15	NEVIS	Neighbor of St. Kitts
+18	DEM	Those people, in Brooklyn
+21	BOSSSSSTS	Fast jets for a top banana?
+23	CEIL	Overlay with wood or plaster
+24	STALKER	Unwanted tail?
+26	SLANTED	Biased
+28	KTS	Gold stds.
+30	PEE	Capital of Poland
+32	OUI	Ja, across the Rhine
+33	ORGS	Grps.
+35	OENS	1936 Olympics hero
+39	PIK	Water ___ (oral-hygiene product)
+40	SSS	Former lottery org.
+41	HIMALAYA	Asian range, with "the"
+42	TZAR	Former Winter Palace resident: Var.
+43	SEX	Kind of scene in a movie
+47	FATHA	Earl Hines, familiarly
+48	ILIAD	Epic poem in dactylic hexameter
+51	MIF	U.K. counterespionage agcy.
+53	SENDA	___ message
+55	ERINS	TV's Gray and Moran
+56	WALES	Llanelli locale
+58	SLO	Street caution
+60	QLM	___ Victor
+63	ORR	Mary ___, on whose story "All About Eve" is based
+64	AEC	Agcy. created after the Manhattan Project
+66	EOE	Want-ad letters
+67	NEY	Napoleonic marshal
+68	IDS	Co. badges

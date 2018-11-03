@@ -1,0 +1,309 @@
+grid_15x15_156
+15
+0	1	1	Z	0	0	3	1	ZIP	0	0	4	1	ZION
+0	1	2	I	0	0	3	0		0	1	4	1	IRAS
+0	1	3	P	0	0	3	0		0	2	10	1	PARALLELED
+1	0	0	#	0	4	3	0		1	3	0	0	
+0	1	4	B	0	4	3	1	BCC	0	4	6	1	BRANDT
+0	1	5	C	0	4	3	0		0	5	6	1	CURIAE
+0	1	6	C	0	4	3	0		0	6	4	1	CTRL
+1	0	0	#	0	8	0	0		1	7	3	0	
+1	0	0	#	0	9	6	0		1	8	0	0	
+0	1	7	H	0	9	6	1	HEARER	0	9	3	1	HET
+0	1	8	E	0	9	6	0		0	10	3	1	EUR
+0	1	9	A	0	9	6	0		0	11	6	1	ADAGIO
+0	1	10	R	0	9	6	0		0	12	4	1	RONI
+0	1	11	E	0	9	6	0		0	13	4	1	ERTE
+0	1	12	R	0	9	6	0		0	14	3	1	RAS
+0	1	13	I	1	0	3	1	IRA	0	0	4	0	
+0	0	0	R	1	0	3	0		0	1	4	0	
+0	0	0	A	1	0	3	0		0	2	10	0	
+1	0	0	#	1	4	4	0		2	3	0	0	
+0	1	14	R	1	4	4	1	RUTS	0	4	6	0	
+0	0	0	U	1	4	4	0		0	5	6	0	
+0	0	0	T	1	4	4	0		0	6	4	0	
+0	1	15	S	1	4	4	0		1	7	3	1	SEL
+1	0	0	#	1	9	6	0		2	8	3	0	
+0	1	16	E	1	9	6	1	EUDORA	0	9	3	0	
+0	0	0	U	1	9	6	0		0	10	3	0	
+0	0	0	D	1	9	6	0		0	11	6	0	
+0	0	0	O	1	9	6	0		0	12	4	0	
+0	0	0	R	1	9	6	0		0	13	4	0	
+0	0	0	A	1	9	6	0		0	14	3	0	
+0	1	17	O	2	0	3	1	OAR	0	0	4	0	
+0	0	0	A	2	0	3	0		0	1	4	0	
+0	0	0	R	2	0	3	0		0	2	10	0	
+1	0	0	#	2	4	11	0		3	3	0	0	
+0	1	18	A	2	4	11	1	ARRESTRANTS	0	4	6	0	
+0	0	0	R	2	4	11	0		0	5	6	0	
+0	0	0	R	2	4	11	0		0	6	4	0	
+0	0	0	E	2	4	11	0		1	7	3	0	
+0	1	19	S	2	4	11	0		2	8	3	1	SAW
+0	0	0	T	2	4	11	0		0	9	3	0	
+0	0	0	R	2	4	11	0		0	10	3	0	
+0	0	0	A	2	4	11	0		0	11	6	0	
+0	0	0	N	2	4	11	0		0	12	4	0	
+0	0	0	T	2	4	11	0		0	13	4	0	
+0	0	0	S	2	4	11	0		0	14	3	0	
+0	1	20	N	3	0	3	1	NSA	0	0	4	0	
+0	0	0	S	3	0	3	0		0	1	4	0	
+0	0	0	A	3	0	3	0		0	2	10	0	
+1	0	0	#	3	4	5	0		4	3	3	0	
+0	1	21	N	3	4	5	1	NILLA	0	4	6	0	
+0	0	0	I	3	4	5	0		0	5	6	0	
+0	0	0	L	3	4	5	0		0	6	4	0	
+0	0	0	L	3	4	5	0		1	7	3	0	
+0	0	0	A	3	4	5	0		2	8	3	0	
+1	0	0	#	3	10	0	0		4	9	4	0	
+1	0	0	#	3	11	3	0		4	10	3	0	
+0	1	22	G	3	11	3	1	GIE	0	11	6	0	
+0	0	0	I	3	11	3	0		0	12	4	0	
+0	0	0	E	3	11	3	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	4	0		5	1	5	0	
+0	1	23	L	4	2	4	1	LIDA	0	2	10	0	
+0	1	24	I	4	2	4	0		4	3	3	1	ISR
+0	0	0	D	4	2	4	0		0	4	6	0	
+0	0	0	A	4	2	4	0		0	5	6	0	
+1	0	0	#	4	7	0	0		5	6	4	0	
+1	0	0	#	4	8	4	0		5	7	0	0	
+0	1	25	W	4	8	4	1	WIFI	2	8	3	0	
+0	1	26	I	4	8	4	0		4	9	4	1	IDEO
+0	1	27	F	4	8	4	0		4	10	3	1	FRS
+0	0	0	I	4	8	4	0		0	11	6	0	
+1	0	0	#	4	13	0	0		5	12	10	0	
+1	0	0	#	4	14	0	0		5	13	5	0	
+1	0	0	#	4	15	0	0		5	14	0	0	
+1	0	0	#	5	1	6	0		6	0	3	0	
+0	1	28	U	5	1	6	1	ULSTER	5	1	5	1	UTERI
+0	0	0	L	5	1	6	0		0	2	10	0	
+0	0	0	S	5	1	6	0		4	3	3	0	
+0	0	0	T	5	1	6	0		0	4	6	0	
+0	0	0	E	5	1	6	0		0	5	6	0	
+0	1	29	R	5	1	6	0		5	6	4	1	RAID
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	5	0		6	8	4	0	
+0	1	30	D	5	9	5	1	DROPT	4	9	4	0	
+0	0	0	R	5	9	5	0		4	10	3	0	
+0	0	0	O	5	9	5	0		0	11	6	0	
+0	1	31	P	5	9	5	0		5	12	10	1	PREMIERCRU
+0	1	32	T	5	9	5	0		5	13	5	1	TOHIS
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	33	I	6	0	4	1	ITER	6	0	3	1	IGO
+0	0	0	T	6	0	4	0		5	1	5	0	
+0	0	0	E	6	0	4	0		0	2	10	0	
+0	0	0	R	6	0	4	0		4	3	3	0	
+1	0	0	#	6	5	0	0		7	4	0	0	
+1	0	0	#	6	6	5	0		7	5	4	0	
+0	1	34	A	6	6	5	1	ASSES	5	6	4	0	
+0	1	35	S	6	6	5	0		6	7	3	1	SSN
+0	1	36	S	6	6	5	0		6	8	4	1	SMOG
+0	0	0	E	6	6	5	0		4	9	4	0	
+0	0	0	S	6	6	5	0		4	10	3	0	
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	37	R	6	12	3	1	ROE	5	12	10	0	
+0	0	0	O	6	12	3	0		5	13	5	0	
+0	1	38	E	6	12	3	0		6	14	3	1	ESE
+0	1	39	G	7	0	3	1	GEL	6	0	3	0	
+0	0	0	E	7	0	3	0		5	1	5	0	
+0	0	0	L	7	0	3	0		0	2	10	0	
+1	0	0	#	7	4	0	0		8	3	0	0	
+1	0	0	#	7	5	5	0		8	4	3	0	
+0	1	40	G	7	5	5	1	GISMO	7	5	4	1	GOTD
+0	0	0	I	7	5	5	0		5	6	4	0	
+0	0	0	S	7	5	5	0		6	7	3	0	
+0	0	0	M	7	5	5	0		6	8	4	0	
+0	0	0	O	7	5	5	0		4	9	4	0	
+1	0	0	#	7	11	0	0		8	10	0	0	
+1	0	0	#	7	12	3	0		8	11	3	0	
+0	1	41	E	7	12	3	1	EHS	5	12	10	0	
+0	0	0	H	7	12	3	0		5	13	5	0	
+0	0	0	S	7	12	3	0		6	14	3	0	
+0	1	42	O	8	0	3	1	ORE	6	0	3	0	
+0	0	0	R	8	0	3	0		5	1	5	0	
+0	0	0	E	8	0	3	0		0	2	10	0	
+1	0	0	#	8	4	5	0		9	3	6	0	
+0	1	43	G	8	4	5	1	GODNO	8	4	3	1	GNU
+0	0	0	O	8	4	5	0		7	5	4	0	
+0	0	0	D	8	4	5	0		5	6	4	0	
+0	0	0	N	8	4	5	0		6	7	3	0	
+0	0	0	O	8	4	5	0		6	8	4	0	
+1	0	0	#	8	10	0	0		9	9	6	0	
+1	0	0	#	8	11	4	0		9	10	6	0	
+0	1	44	A	8	11	4	1	AMIE	8	11	3	1	ALT
+0	0	0	M	8	11	4	0		5	12	10	0	
+0	0	0	I	8	11	4	0		5	13	5	0	
+0	0	0	E	8	11	4	0		6	14	3	0	
+1	0	0	#	9	1	5	0		10	0	0	0	
+0	1	45	I	9	1	5	1	IDONT	5	1	5	0	
+0	0	0	D	9	1	5	0		0	2	10	0	
+0	1	46	O	9	1	5	0		9	3	6	1	OAKLEY
+0	0	0	N	9	1	5	0		8	4	3	0	
+0	0	0	T	9	1	5	0		7	5	4	0	
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	6	0		10	7	0	0	
+0	1	47	G	9	8	6	1	GILLIS	6	8	4	0	
+0	1	48	I	9	8	6	0		9	9	6	1	ICEFOG
+0	1	49	L	9	8	6	0		9	10	6	1	LUSTER
+0	0	0	L	9	8	6	0		8	11	3	0	
+0	0	0	I	9	8	6	0		5	12	10	0	
+0	0	0	S	9	8	6	0		5	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	0	0		11	1	4	0	
+1	0	0	#	10	3	4	0		11	2	4	0	
+0	1	50	A	10	3	4	1	AUDI	9	3	6	0	
+0	0	0	U	10	3	4	0		8	4	3	0	
+0	0	0	D	10	3	4	0		7	5	4	0	
+0	1	51	I	10	3	4	0		10	6	3	1	IES
+1	0	0	#	10	8	0	0		11	7	3	0	
+1	0	0	#	10	9	4	0		11	8	4	0	
+0	1	52	C	10	9	4	1	CUTE	9	9	6	0	
+0	0	0	U	10	9	4	0		9	10	6	0	
+0	0	0	T	10	9	4	0		8	11	3	0	
+0	0	0	E	10	9	4	0		5	12	10	0	
+1	0	0	#	10	14	0	0		11	13	4	0	
+1	0	0	#	10	15	0	0		11	14	4	0	
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	53	E	11	1	3	1	ELK	11	1	4	1	EARH
+0	1	54	L	11	1	3	0		11	2	4	1	LYNE
+0	0	0	K	11	1	3	0		9	3	6	0	
+1	0	0	#	11	5	0	0		12	4	3	0	
+1	0	0	#	11	6	5	0		12	5	3	0	
+0	1	55	E	11	6	5	1	ESNES	10	6	3	0	
+0	1	56	S	11	6	5	0		11	7	3	1	SWA
+0	1	57	N	11	6	5	0		11	8	4	1	NITA
+0	0	0	E	11	6	5	0		9	9	6	0	
+0	0	0	S	11	6	5	0		9	10	6	0	
+1	0	0	#	11	12	3	0		12	11	0	0	
+0	1	58	R	11	12	3	1	ROI	5	12	10	0	
+0	1	59	O	11	12	3	0		11	13	4	1	OUTS
+0	1	60	I	11	12	3	0		11	14	4	1	IBEX
+0	1	61	T	12	0	11	1	TAYLORSWIFT	12	0	3	1	TOT
+0	0	0	A	12	0	11	0		11	1	4	0	
+0	0	0	Y	12	0	11	0		11	2	4	0	
+0	0	0	L	12	0	11	0		9	3	6	0	
+0	1	62	O	12	0	11	0		12	4	3	1	ORR
+0	1	63	R	12	0	11	0		12	5	3	1	RYE
+0	0	0	S	12	0	11	0		10	6	3	0	
+0	0	0	W	12	0	11	0		11	7	3	0	
+0	0	0	I	12	0	11	0		11	8	4	0	
+0	0	0	F	12	0	11	0		9	9	6	0	
+0	0	0	T	12	0	11	0		9	10	6	0	
+1	0	0	#	12	12	3	0		13	11	0	0	
+0	1	64	C	12	12	3	1	CUB	5	12	10	0	
+0	0	0	U	12	12	3	0		11	13	4	0	
+0	0	0	B	12	12	3	0		11	14	4	0	
+0	1	65	O	13	0	6	1	ORNERY	12	0	3	0	
+0	0	0	R	13	0	6	0		11	1	4	0	
+0	0	0	N	13	0	6	0		11	2	4	0	
+0	0	0	E	13	0	6	0		9	3	6	0	
+0	0	0	R	13	0	6	0		12	4	3	0	
+0	0	0	Y	13	0	6	0		12	5	3	0	
+1	0	0	#	13	7	4	0		14	6	0	0	
+0	1	66	A	13	7	4	1	ATOE	11	7	3	0	
+0	0	0	T	13	7	4	0		11	8	4	0	
+0	0	0	O	13	7	4	0		9	9	6	0	
+0	0	0	E	13	7	4	0		9	10	6	0	
+1	0	0	#	13	12	3	0		14	11	0	0	
+0	1	67	R	13	12	3	1	RTE	5	12	10	0	
+0	0	0	T	13	12	3	0		11	13	4	0	
+0	0	0	E	13	12	3	0		11	14	4	0	
+0	1	68	T	14	0	6	1	THEYRE	12	0	3	0	
+0	0	0	H	14	0	6	0		11	1	4	0	
+0	0	0	E	14	0	6	0		11	2	4	0	
+0	0	0	Y	14	0	6	0		9	3	6	0	
+0	0	0	R	14	0	6	0		12	4	3	0	
+0	0	0	E	14	0	6	0		12	5	3	0	
+1	0	0	#	14	7	0	0		15	6	0	0	
+1	0	0	#	14	8	3	0		15	7	0	0	
+0	1	69	A	14	8	3	1	AGR	11	8	4	0	
+0	0	0	G	14	8	3	0		9	9	6	0	
+0	0	0	R	14	8	3	0		9	10	6	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	70	U	14	12	3	1	USX	5	12	10	0	
+0	0	0	S	14	12	3	0		11	13	4	0	
+0	0	0	X	14	12	3	0		11	14	4	0	
+39
+1	ZIP	Kind of code
+4	BCC	E-mail add-on
+7	HEARER	Eavesdropper
+13	IRA	Pianist Stein
+14	RUTS	Causes of some spinning wheels
+16	EUDORA	Writer Welty
+17	OAR	Crew need
+18	ARRESTRANTS	*Diatribes from captured criminals?
+20	NSA	Eavesdropping org.
+21	NILLA	___ Wafers
+22	GIE	Bestow on, to Burns
+23	LIDA	"___ Rose" (song from "The Music Man")
+25	WIFI	Provider of a hot spot at a coffee shop?
+28	ULSTER	Coat named for an Irish province
+30	DROPT	Let fall, in poetry
+33	ITER	Roman road
+34	ASSES	Complete fools
+37	ROE	Caviar, once
+39	GEL	Thick drain-cleaning option
+40	GISMO	Gadget
+41	EHS	Responses of confusion
+42	ORE	Get a lode of this!
+43	GODNO	"You couldn't be more wrong!"
+44	AMIE	Gaston's girlfriend
+45	IDONT	"Not me"
+47	GILLIS	Sitcom character with "many loves"
+50	AUDI	German auto
+52	CUTE	Buttonlike?
+53	ELK	Antlered animal
+55	ESNES	Old laborers
+58	ROI	Ruler in un palais
+61	TAYLORSWIFT	Country-pop star with the 2008 six-time platinum album "Fearless"
+64	CUB	Chicago athlete
+65	ORNERY	Cantankerous
+66	ATOE	Stub ___
+67	RTE	Largest county of Nevada
+68	THEYRE	"___ playing our song"
+69	AGR	Purdue Univ. major
+70	USX	Fortune 500 steelmaker
+41
+1	ZION	The Promised Land
+2	IRAS	Seniors' nest eggs, for short
+3	PARALLELED	Corresponded to
+4	BRANDT	1971 Peace Nobelist
+5	CURIAE	Amicus ___ (friend of the court)
+6	CTRL	Key letters
+7	HET	Indignant, with "up"
+8	EUR	Union land: Abbr.
+9	ADAGIO	Pas de deux part
+10	RONI	Commercial ending with Pasta
+11	ERTE	Art Deco signature
+12	RAS	Dorm V.I.P.'s
+15	SEL	Overseas seasoning
+19	SAW	"A stitch in time ...," e.g.
+24	ISR	Mideast land: Abbr.
+26	IDEO	Prefix with -logue or -gram
+27	FRS	Former French money: Abbr.
+28	UTERI	Development areas?
+29	RAID	Black Flag alternative
+31	PREMIERCRU	Top M
+32	TOHIS	"Left ___ own devices ..."
+33	IGO	Billy Joel's "___ to Extremes"
+35	SSN	W-2 info: Abbr.
+36	SMOG	Unpleasant hangover?
+38	ESE	Lingo: Suffix
+40	GOTD	Partied, so to speak
+43	GNU	Bearded beast
+44	ALT	Cockpit dial: Abbr.
+46	OAKLEY	Last name in sharpshooting
+48	ICEFOG	Arctic weather phenomenon
+49	LUSTER	Brilliance
+51	IES	What "y" might become
+53	EARH	Batting helmet feature
+54	LYNE	"Unfaithful" director Adrian
+56	SWA	United competitor: Abbr.
+57	NITA	Old-time actress Talbot or Naldi
+59	OUTS	Ballpark figure
+60	IBEX	Animal with twisted horns
+61	TOT	One taking a first step
+62	ORR	Two-time Art Ross Trophy winner
+63	RYE	It may be seeded

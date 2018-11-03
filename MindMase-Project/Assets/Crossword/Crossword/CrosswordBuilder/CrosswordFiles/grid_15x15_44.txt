@@ -1,0 +1,303 @@
+grid_15x15_44
+15
+1	0	0	#	0	1	4	0		1	0	4	0	
+0	1	1	U	0	1	4	1	UPAS	0	1	8	1	UGGBOOTS
+0	1	2	P	0	1	4	0		0	2	14	1	POLITICALARENA
+0	1	3	A	0	1	4	0		0	3	3	1	ARA
+0	1	4	S	0	1	4	0		0	4	3	1	SAL
+1	0	0	#	0	6	0	0		1	5	5	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	4	0		1	7	4	0	
+0	1	5	I	0	8	4	1	IANA	0	8	3	1	IES
+0	1	6	A	0	8	4	0		0	9	3	1	ADS
+0	1	7	N	0	8	4	0		0	10	7	1	NICKERS
+0	1	8	A	0	8	4	0		0	11	4	1	ACOW
+1	0	0	#	0	13	0	0		1	12	14	0	
+1	0	0	#	0	14	0	0		1	13	5	0	
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	9	A	1	0	6	1	AGORAE	1	0	4	1	AOUT
+0	0	0	G	1	0	6	0		0	1	8	0	
+0	0	0	O	1	0	6	0		0	2	14	0	
+0	0	0	R	1	0	6	0		0	3	3	0	
+0	0	0	A	1	0	6	0		0	4	3	0	
+0	1	10	E	1	0	6	0		1	5	5	1	EASYA
+1	0	0	#	1	7	7	0		2	6	0	0	
+0	1	11	P	1	7	7	1	PEDICAB	1	7	4	1	PUTT
+0	0	0	E	1	7	7	0		0	8	3	0	
+0	0	0	D	1	7	7	0		0	9	3	0	
+0	0	0	I	1	7	7	0		0	10	7	0	
+0	0	0	C	1	7	7	0		0	11	4	0	
+0	1	12	A	1	7	7	0		1	12	14	1	ALABAMAJUBILEE
+0	1	13	B	1	7	7	0		1	13	5	1	BENET
+1	0	0	#	1	15	0	0		2	14	0	0	
+0	1	14	O	2	0	6	1	OGLALA	1	0	4	0	
+0	0	0	G	2	0	6	0		0	1	8	0	
+0	0	0	L	2	0	6	0		0	2	14	0	
+0	0	0	A	2	0	6	0		0	3	3	0	
+0	0	0	L	2	0	6	0		0	4	3	0	
+0	0	0	A	2	0	6	0		1	5	5	0	
+1	0	0	#	2	7	7	0		3	6	3	0	
+0	1	15	U	2	7	7	1	USSCOLE	1	7	4	0	
+0	0	0	S	2	7	7	0		0	8	3	0	
+0	0	0	S	2	7	7	0		0	9	3	0	
+0	0	0	C	2	7	7	0		0	10	7	0	
+0	0	0	O	2	7	7	0		0	11	4	0	
+0	0	0	L	2	7	7	0		1	12	14	0	
+0	0	0	E	2	7	7	0		1	13	5	0	
+1	0	0	#	2	15	0	0		3	14	3	0	
+0	1	16	U	3	0	3	1	UBI	1	0	4	0	
+0	0	0	B	3	0	3	0		0	1	8	0	
+0	0	0	I	3	0	3	0		0	2	14	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	3	0		4	4	3	0	
+0	1	17	S	3	5	3	1	SST	1	5	5	0	
+0	1	18	S	3	5	3	0		3	6	3	1	SSN
+0	0	0	T	3	5	3	0		1	7	4	0	
+1	0	0	#	3	9	0	0		4	8	4	0	
+1	0	0	#	3	10	5	0		4	9	3	0	
+0	1	19	K	3	10	5	1	KWANS	0	10	7	0	
+0	0	0	W	3	10	5	0		0	11	4	0	
+0	0	0	A	3	10	5	0		1	12	14	0	
+0	0	0	N	3	10	5	0		1	13	5	0	
+0	1	20	S	3	10	5	0		3	14	3	1	SNO
+0	1	21	T	4	0	3	1	TOT	1	0	4	0	
+0	0	0	O	4	0	3	0		0	1	8	0	
+0	0	0	T	4	0	3	0		0	2	14	0	
+1	0	0	#	4	4	7	0		5	3	4	0	
+0	1	22	S	4	4	7	1	SYSTOLE	4	4	3	1	SPY
+0	0	0	Y	4	4	7	0		1	5	5	0	
+0	0	0	S	4	4	7	0		3	6	3	0	
+0	0	0	T	4	4	7	0		1	7	4	0	
+0	1	23	O	4	4	7	0		4	8	4	1	OTEA
+0	1	24	L	4	4	7	0		4	9	3	1	LET
+0	0	0	E	4	4	7	0		0	10	7	0	
+1	0	0	#	4	12	3	0		5	11	0	0	
+0	1	25	B	4	12	3	1	BEN	1	12	14	0	
+0	0	0	E	4	12	3	0		1	13	5	0	
+0	0	0	N	4	12	3	0		3	14	3	0	
+1	0	0	#	5	1	6	0		6	0	0	0	
+0	1	26	O	5	1	6	1	OILPAN	0	1	8	0	
+0	0	0	I	5	1	6	0		0	2	14	0	
+0	1	27	L	5	1	6	0		5	3	4	1	LBOS
+0	0	0	P	5	1	6	0		4	4	3	0	
+0	0	0	A	5	1	6	0		1	5	5	0	
+0	0	0	N	5	1	6	0		3	6	3	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	28	T	5	8	3	1	TER	4	8	4	0	
+0	0	0	E	5	8	3	0		4	9	3	0	
+0	0	0	R	5	8	3	0		0	10	7	0	
+1	0	0	#	5	12	3	0		6	11	4	0	
+0	1	29	A	5	12	3	1	ATO	1	12	14	0	
+0	0	0	T	5	12	3	0		1	13	5	0	
+0	0	0	O	5	12	3	0		3	14	3	0	
+1	0	0	#	6	1	4	0		7	0	0	0	
+0	1	30	T	6	1	4	1	TCBY	0	1	8	0	
+0	0	0	C	6	1	4	0		0	2	14	0	
+0	0	0	B	6	1	4	0		5	3	4	0	
+0	0	0	Y	6	1	4	0		4	4	3	0	
+1	0	0	#	6	6	0	0		7	5	0	0	
+1	0	0	#	6	7	6	0		7	6	4	0	
+0	1	31	J	6	7	6	1	JETSAM	6	7	3	1	JUN
+0	0	0	E	6	7	6	0		4	8	4	0	
+0	0	0	T	6	7	6	0		4	9	3	0	
+0	0	0	S	6	7	6	0		0	10	7	0	
+0	1	32	A	6	7	6	0		6	11	4	1	AGAI
+0	0	0	M	6	7	6	0		1	12	14	0	
+1	0	0	#	6	14	0	0		7	13	8	0	
+1	0	0	#	6	15	0	0		7	14	0	0	
+1	0	0	#	7	1	3	0		8	0	0	0	
+0	1	33	S	7	1	3	1	SAO	0	1	8	0	
+0	0	0	A	7	1	3	0		0	2	14	0	
+0	0	0	O	7	1	3	0		5	3	4	0	
+1	0	0	#	7	5	0	0		8	4	7	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	34	Q	7	6	3	1	QUA	7	6	4	1	QEII
+0	0	0	U	7	6	3	0		6	7	3	0	
+0	0	0	A	7	6	3	0		4	8	4	0	
+1	0	0	#	7	10	0	0		8	9	0	0	
+1	0	0	#	7	11	3	0		8	10	3	0	
+0	1	35	G	7	11	3	1	GAG	6	11	4	0	
+0	0	0	A	7	11	3	0		1	12	14	0	
+0	1	36	G	7	11	3	0		7	13	8	1	GAMEDENS
+1	0	0	#	7	15	0	0		8	14	0	0	
+1	0	0	#	8	1	0	0		9	0	3	0	
+1	0	0	#	8	2	6	0		9	1	5	0	
+0	1	37	L	8	2	6	1	LSEVEN	0	2	14	0	
+0	0	0	S	8	2	6	0		5	3	4	0	
+0	1	38	E	8	2	6	0		8	4	7	1	ELOPERS
+0	1	39	V	8	2	6	0		8	5	3	1	VER
+0	0	0	E	8	2	6	0		7	6	4	0	
+0	0	0	N	8	2	6	0		6	7	3	0	
+1	0	0	#	8	9	0	0		9	8	3	0	
+1	0	0	#	8	10	4	0		9	9	5	0	
+0	1	40	R	8	10	4	1	RAJA	8	10	3	1	RNS
+0	0	0	A	8	10	4	0		6	11	4	0	
+0	0	0	J	8	10	4	0		1	12	14	0	
+0	0	0	A	8	10	4	0		7	13	8	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	41	F	9	0	3	1	FDA	9	0	3	1	FTP
+0	1	42	D	9	0	3	0		9	1	5	1	DIRAC
+0	0	0	A	9	0	3	0		0	2	14	0	
+1	0	0	#	9	4	3	0		10	3	0	0	
+0	1	43	L	9	4	3	1	LEI	8	4	7	0	
+0	0	0	E	9	4	3	0		8	5	3	0	
+0	0	0	I	9	4	3	0		7	6	4	0	
+1	0	0	#	9	8	6	0		10	7	4	0	
+0	1	44	I	9	8	6	1	IONIUM	9	8	3	1	INH
+0	1	45	O	9	8	6	0		9	9	5	1	OTARY
+0	0	0	N	9	8	6	0		8	10	3	0	
+0	0	0	I	9	8	6	0		6	11	4	0	
+0	0	0	U	9	8	6	0		1	12	14	0	
+0	0	0	M	9	8	6	0		7	13	8	0	
+1	0	0	#	9	15	0	0		10	14	4	0	
+0	1	46	T	10	0	3	1	TIR	9	0	3	0	
+0	0	0	I	10	0	3	0		9	1	5	0	
+0	0	0	R	10	0	3	0		0	2	14	0	
+1	0	0	#	10	4	7	0		11	3	4	0	
+0	1	47	O	10	4	7	1	ORIENTS	8	4	7	0	
+0	0	0	R	10	4	7	0		8	5	3	0	
+0	0	0	I	10	4	7	0		7	6	4	0	
+0	1	48	E	10	4	7	0		10	7	4	1	EBAY
+0	0	0	N	10	4	7	0		9	8	3	0	
+0	0	0	T	10	4	7	0		9	9	5	0	
+0	0	0	S	10	4	7	0		8	10	3	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	49	B	10	12	3	1	BEI	1	12	14	0	
+0	0	0	E	10	12	3	0		7	13	8	0	
+0	1	50	I	10	12	3	0		10	14	4	1	IERI
+0	1	51	P	11	0	5	1	PREOP	9	0	3	0	
+0	0	0	R	11	0	5	0		9	1	5	0	
+0	0	0	E	11	0	5	0		0	2	14	0	
+0	1	52	O	11	0	5	0		11	3	4	1	OTRA
+0	0	0	P	11	0	5	0		8	4	7	0	
+1	0	0	#	11	6	0	0		12	5	3	0	
+1	0	0	#	11	7	3	0		12	6	3	0	
+0	1	53	B	11	7	3	1	BHA	10	7	4	0	
+0	0	0	H	11	7	3	0		9	8	3	0	
+0	0	0	A	11	7	3	0		9	9	5	0	
+1	0	0	#	11	11	0	0		12	10	3	0	
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	54	I	11	12	3	1	IDE	1	12	14	0	
+0	0	0	D	11	12	3	0		7	13	8	0	
+0	0	0	E	11	12	3	0		10	14	4	0	
+1	0	0	#	12	1	7	0		13	0	0	0	
+0	1	55	A	12	1	7	1	ANTENNA	9	1	5	0	
+0	0	0	N	12	1	7	0		0	2	14	0	
+0	0	0	T	12	1	7	0		11	3	4	0	
+0	0	0	E	12	1	7	0		8	4	7	0	
+0	1	56	N	12	1	7	0		12	5	3	1	NOA
+0	1	57	N	12	1	7	0		12	6	3	1	NTS
+0	0	0	A	12	1	7	0		10	7	4	0	
+1	0	0	#	12	9	6	0		13	8	0	0	
+0	1	58	R	12	9	6	1	ROLLER	9	9	5	0	
+0	1	59	O	12	9	6	0		12	10	3	1	OEO
+0	1	60	L	12	9	6	0		12	11	3	1	LMN
+0	0	0	L	12	9	6	0		1	12	14	0	
+0	0	0	E	12	9	6	0		7	13	8	0	
+0	0	0	R	12	9	6	0		10	14	4	0	
+1	0	0	#	13	1	7	0		14	0	0	0	
+0	1	61	C	13	1	7	1	CARROTY	9	1	5	0	
+0	0	0	A	13	1	7	0		0	2	14	0	
+0	0	0	R	13	1	7	0		11	3	4	0	
+0	0	0	R	13	1	7	0		8	4	7	0	
+0	0	0	O	13	1	7	0		12	5	3	0	
+0	0	0	T	13	1	7	0		12	6	3	0	
+0	0	0	Y	13	1	7	0		10	7	4	0	
+1	0	0	#	13	9	6	0		14	8	0	0	
+0	1	62	Y	13	9	6	1	YEMENI	9	9	5	0	
+0	0	0	E	13	9	6	0		12	10	3	0	
+0	0	0	M	13	9	6	0		12	11	3	0	
+0	0	0	E	13	9	6	0		1	12	14	0	
+0	0	0	N	13	9	6	0		7	13	8	0	
+0	0	0	I	13	9	6	0		10	14	4	0	
+1	0	0	#	14	1	0	0		15	0	0	0	
+1	0	0	#	14	2	0	0		15	1	0	0	
+1	0	0	#	14	3	4	0		15	2	0	0	
+0	1	63	A	14	3	4	1	ASAS	11	3	4	0	
+0	0	0	S	14	3	4	0		8	4	7	0	
+0	0	0	A	14	3	4	0		12	5	3	0	
+0	0	0	S	14	3	4	0		12	6	3	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	0	0		15	8	0	0	
+1	0	0	#	14	10	4	0		15	9	0	0	
+0	1	64	O	14	10	4	1	ONES	12	10	3	0	
+0	0	0	N	14	10	4	0		12	11	3	0	
+0	0	0	E	14	10	4	0		1	12	14	0	
+0	0	0	S	14	10	4	0		7	13	8	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+37
+1	UPAS	Dress ___ (look like)
+5	IANA	Collector's suffix
+9	AGORAE	Ancient marketplaces
+11	PEDICAB	Way around Shanghai
+14	OGLALA	Crazy Horse, e.g.
+15	USSCOLE	2000 terrorist target
+16	UBI	___ supra (text comment)
+17	SST	Fast jet, for short
+19	KWANS	Skater Michelle's family
+21	TOT	Moppet
+22	SYSTOLE	Heart contraction
+25	BEN	Uncle of rice fame
+26	OILPAN	Bottom of the crankcase
+28	TER	Three times: Prefix
+29	ATO	___ Z (the gamut)
+30	TCBY	Popular frozen dessert chain
+31	JETSAM	Tea in Boston Harbor, once
+33	SAO	___ Jo
+34	QUA	In the capacity of
+35	GAG	Comedian's bit
+37	LSEVEN	Square, in 1950s slang, indicated visually by a two-hand gesture
+40	RAJA	Indian chief
+41	FDA	Federal regulatory grp.
+43	LEI	Natural necklace
+44	IONIUM	Radioactive isotope having mass 230
+46	TIR	Bushed
+47	ORIENTS	Familiarizes with new surroundings
+49	BEI	"___ Mir Bist Du Schoen" (1938 hit)
+51	PREOP	Before surgery, briefly
+53	BHA	Food preservative, briefly
+54	IDE	Lanthan- suffix
+55	ANTENNA	Roof sight
+58	ROLLER	Ocean wave
+61	CARROTY	Orangish
+62	YEMENI	Rial spender
+63	ASAS	Politico Hutchinson and others
+64	ONES	Washington bills
+37
+1	UGGBOOTS	Boho-chic footwear
+2	POLITICALARENA	City hall, often
+3	ARA	Heavenly altar
+4	SAL	"On the Road" narrator ___ Paradise
+5	IES	Suffix with pant or aunt
+6	ADS	Inserts, often
+7	NICKERS	Stable sounds
+8	ACOW	Have ___ (freak out)
+9	AOUT	Vacation time in France
+10	EASYA	High mark with low effort
+11	PUTT	Minor stroke
+12	ALABAMAJUBILEE	1915 song that popularized the phrase "Hail! Hail! The gang's all here"
+13	BENET	"The Devil and Daniel Webster" writer
+18	SSN	Info entered on an I.R.S. form
+20	SNO	Verb ending?
+22	SPY	Shadow, maybe
+23	OTEA	Cup ___ (hot drink, informally)
+24	LET	Ring attachment?
+27	LBOS	Wall St. deals
+31	JUN	D-Day mo.
+32	AGAI	One way to race
+34	QEII	Modern-day monarch, for short
+36	GAMEDENS	*Cozy rooms for playing?
+38	ELOPERS	Visitors to a justice of the peace
+39	VER	Part of a chap.
+40	RNS	Temp takers
+41	FTP	Way to send docs. electronically
+42	DIRAC	1933 Physics Nobelist Paul
+44	INH	Foot part
+45	OTARY	Eared seal
+48	EBAY	Place to do one's bidding
+50	IERI	Yesterday, in Italy
+52	OTRA	"La ___," 1946 Dolores del Rio film
+56	NOA	When doubled, a book by Gauguin
+57	NTS	Windows options
+59	OEO	Fair-hiring agcy.
+60	LMN	K-O filler

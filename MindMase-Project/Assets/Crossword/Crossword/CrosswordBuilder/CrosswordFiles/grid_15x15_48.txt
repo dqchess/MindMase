@@ -1,0 +1,305 @@
+grid_15x15_48
+15
+1	0	0	#	0	1	3	0		1	0	3	0	
+0	1	1	A	0	1	3	1	ANU	0	1	5	1	AEDES
+0	1	2	N	0	1	3	0		0	2	11	1	NIAVARDALOS
+0	1	3	U	0	1	3	0		0	3	6	1	UTHANT
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	U	0	6	3	1	UAW	0	6	3	1	ULT
+0	1	5	A	0	6	3	0		0	7	3	1	AAR
+0	1	6	W	0	6	3	0		0	8	3	1	WWI
+1	0	0	#	0	10	0	0		1	9	0	0	
+1	0	0	#	0	11	0	0		1	10	5	0	
+1	0	0	#	0	12	3	0		1	11	4	0	
+0	1	7	B	0	12	3	1	BMW	0	12	3	1	BUN
+0	1	8	M	0	12	3	0		0	13	3	1	MRE
+0	1	9	W	0	12	3	0		0	14	3	1	WNS
+0	1	10	B	1	0	4	1	BEIT	1	0	3	1	BAN
+0	0	0	E	1	0	4	0		0	1	5	0	
+0	0	0	I	1	0	4	0		0	2	11	0	
+0	0	0	T	1	0	4	0		0	3	6	0	
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	11	S	1	5	4	1	SLAW	1	5	3	1	SSA
+0	0	0	L	1	5	4	0		0	6	3	0	
+0	0	0	A	1	5	4	0		0	7	3	0	
+0	0	0	W	1	5	4	0		0	8	3	0	
+1	0	0	#	1	10	5	0		2	9	7	0	
+0	1	12	A	1	10	5	1	ATURN	1	10	5	1	AMIEL
+0	1	13	T	1	10	5	0		1	11	4	1	TING
+0	0	0	U	1	10	5	0		0	12	3	0	
+0	0	0	R	1	10	5	0		0	13	3	0	
+0	0	0	N	1	10	5	0		0	14	3	0	
+0	1	14	A	2	0	4	1	ADAH	1	0	3	0	
+0	0	0	D	2	0	4	0		0	1	5	0	
+0	0	0	A	2	0	4	0		0	2	11	0	
+0	0	0	H	2	0	4	0		0	3	6	0	
+1	0	0	#	2	5	10	0		3	4	5	0	
+0	1	15	S	2	5	10	1	STRIPMINES	1	5	3	0	
+0	0	0	T	2	5	10	0		0	6	3	0	
+0	0	0	R	2	5	10	0		0	7	3	0	
+0	0	0	I	2	5	10	0		0	8	3	0	
+0	1	16	P	2	5	10	0		2	9	7	1	PRIESTS
+0	0	0	M	2	5	10	0		1	10	5	0	
+0	0	0	I	2	5	10	0		1	11	4	0	
+0	0	0	N	2	5	10	0		0	12	3	0	
+0	0	0	E	2	5	10	0		0	13	3	0	
+0	0	0	S	2	5	10	0		0	14	3	0	
+0	1	17	N	3	0	6	1	NEVADA	1	0	3	0	
+0	0	0	E	3	0	6	0		0	1	5	0	
+0	0	0	V	3	0	6	0		0	2	11	0	
+0	0	0	A	3	0	6	0		0	3	6	0	
+0	1	18	D	3	0	6	0		3	4	5	1	DASDS
+0	0	0	A	3	0	6	0		1	5	3	0	
+1	0	0	#	3	7	0	0		4	6	7	0	
+1	0	0	#	3	8	0	0		4	7	7	0	
+1	0	0	#	3	9	3	0		4	8	7	0	
+0	1	19	R	3	9	3	1	RIN	2	9	7	0	
+0	0	0	I	3	9	3	0		1	10	5	0	
+0	0	0	N	3	9	3	0		1	11	4	0	
+1	0	0	#	3	13	0	0		4	12	11	0	
+1	0	0	#	3	14	0	0		4	13	5	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	20	S	4	1	4	1	SANA	0	1	5	0	
+0	0	0	A	4	1	4	0		0	2	11	0	
+0	0	0	N	4	1	4	0		0	3	6	0	
+0	0	0	A	4	1	4	0		3	4	5	0	
+1	0	0	#	4	6	8	0		5	5	0	0	
+0	1	21	B	4	6	8	1	BESIEGER	4	6	7	1	BABOONS
+0	1	22	E	4	6	8	0		4	7	7	1	EDUCATE
+0	1	23	S	4	6	8	0		4	8	7	1	SUGARED
+0	0	0	I	4	6	8	0		2	9	7	0	
+0	0	0	E	4	6	8	0		1	10	5	0	
+0	0	0	G	4	6	8	0		1	11	4	0	
+0	1	24	E	4	6	8	0		4	12	11	1	ELECTRICEEL
+0	1	25	R	4	6	8	0		4	13	5	1	RIMED
+1	0	0	#	4	15	0	0		5	14	4	0	
+1	0	0	#	5	1	0	0		6	0	4	0	
+1	0	0	#	5	2	3	0		6	1	5	0	
+0	1	26	R	5	2	3	1	RTS	0	2	11	0	
+0	0	0	T	5	2	3	0		0	3	6	0	
+0	0	0	S	5	2	3	0		3	4	5	0	
+1	0	0	#	5	6	5	0		6	5	7	0	
+0	1	27	A	5	6	5	1	ADUEL	4	6	7	0	
+0	0	0	D	5	6	5	0		4	7	7	0	
+0	0	0	U	5	6	5	0		4	8	7	0	
+0	0	0	E	5	6	5	0		2	9	7	0	
+0	0	0	L	5	6	5	0		1	10	5	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	28	L	5	12	3	1	LIL	4	12	11	0	
+0	0	0	I	5	12	3	0		4	13	5	0	
+0	1	29	L	5	12	3	0		5	14	4	1	LPNS
+0	1	30	E	6	0	3	1	ESD	6	0	4	1	EGOS
+0	1	31	S	6	0	3	0		6	1	5	1	SMRNA
+0	0	0	D	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	6	0		7	3	0	0	
+0	1	32	D	6	4	6	1	DEBUGS	3	4	5	0	
+0	1	33	E	6	4	6	0		6	5	7	1	ENCORES
+0	0	0	B	6	4	6	0		4	6	7	0	
+0	0	0	U	6	4	6	0		4	7	7	0	
+0	0	0	G	6	4	6	0		4	8	7	0	
+0	0	0	S	6	4	6	0		2	9	7	0	
+1	0	0	#	6	11	0	0		7	10	5	0	
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	34	E	6	12	3	1	EMP	4	12	11	0	
+0	0	0	M	6	12	3	0		4	13	5	0	
+0	0	0	P	6	12	3	0		5	14	4	0	
+0	1	35	G	7	0	3	1	GMA	6	0	4	0	
+0	0	0	M	7	0	3	0		6	1	5	0	
+0	0	0	A	7	0	3	0		0	2	11	0	
+1	0	0	#	7	4	7	0		8	3	0	0	
+0	1	36	S	7	4	7	1	SNOCATS	3	4	5	0	
+0	0	0	N	7	4	7	0		6	5	7	0	
+0	0	0	O	7	4	7	0		4	6	7	0	
+0	0	0	C	7	4	7	0		4	7	7	0	
+0	0	0	A	7	4	7	0		4	8	7	0	
+0	0	0	T	7	4	7	0		2	9	7	0	
+0	1	37	S	7	4	7	0		7	10	5	1	SEDGE
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	38	C	7	12	3	1	CEN	4	12	11	0	
+0	0	0	E	7	12	3	0		4	13	5	0	
+0	0	0	N	7	12	3	0		5	14	4	0	
+0	1	39	O	8	0	3	1	ORL	6	0	4	0	
+0	0	0	R	8	0	3	0		6	1	5	0	
+0	0	0	L	8	0	3	0		0	2	11	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	6	0		9	4	5	0	
+0	1	40	C	8	5	6	1	COARSE	6	5	7	0	
+0	0	0	O	8	5	6	0		4	6	7	0	
+0	0	0	A	8	5	6	0		4	7	7	0	
+0	0	0	R	8	5	6	0		4	8	7	0	
+0	0	0	S	8	5	6	0		2	9	7	0	
+0	0	0	E	8	5	6	0		7	10	5	0	
+1	0	0	#	8	12	3	0		9	11	6	0	
+0	1	41	T	8	12	3	1	TDS	4	12	11	0	
+0	0	0	D	8	12	3	0		4	13	5	0	
+0	0	0	S	8	12	3	0		5	14	4	0	
+0	1	42	S	9	0	3	1	SNO	6	0	4	0	
+0	0	0	N	9	0	3	0		6	1	5	0	
+0	0	0	O	9	0	3	0		0	2	11	0	
+1	0	0	#	9	4	5	0		10	3	4	0	
+0	1	43	M	9	4	5	1	MONTE	9	4	5	1	MEDEA
+0	0	0	O	9	4	5	0		6	5	7	0	
+0	0	0	N	9	4	5	0		4	6	7	0	
+0	0	0	T	9	4	5	0		4	7	7	0	
+0	0	0	E	9	4	5	0		4	8	7	0	
+1	0	0	#	9	10	3	0		10	9	0	0	
+0	1	44	D	9	10	3	1	DOR	7	10	5	0	
+0	1	45	O	9	10	3	0		9	11	6	1	ORLESS
+0	0	0	R	9	10	3	0		4	12	11	0	
+1	0	0	#	9	14	0	0		10	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+1	0	0	#	10	1	8	0		11	0	0	0	
+0	1	46	A	10	1	8	1	ASPERSED	6	1	5	0	
+0	0	0	S	10	1	8	0		0	2	11	0	
+0	1	47	P	10	1	8	0		10	3	4	1	PETR
+0	0	0	E	10	1	8	0		9	4	5	0	
+0	0	0	R	10	1	8	0		6	5	7	0	
+0	0	0	S	10	1	8	0		4	6	7	0	
+0	0	0	E	10	1	8	0		4	7	7	0	
+0	0	0	D	10	1	8	0		4	8	7	0	
+1	0	0	#	10	10	4	0		11	9	3	0	
+0	1	48	G	10	10	4	1	GRIG	7	10	5	0	
+0	0	0	R	10	10	4	0		9	11	6	0	
+0	0	0	I	10	10	4	0		4	12	11	0	
+0	1	49	G	10	10	4	0		10	13	5	1	GREER
+1	0	0	#	10	15	0	0		11	14	3	0	
+1	0	0	#	11	1	0	0		12	0	3	0	
+1	0	0	#	11	2	0	0		12	1	3	0	
+1	0	0	#	11	3	3	0		12	2	3	0	
+0	1	50	E	11	3	3	1	EDE	10	3	4	0	
+0	0	0	D	11	3	3	0		9	4	5	0	
+0	0	0	E	11	3	3	0		6	5	7	0	
+1	0	0	#	11	7	0	0		12	6	3	0	
+1	0	0	#	11	8	0	0		12	7	3	0	
+1	0	0	#	11	9	6	0		12	8	3	0	
+0	1	51	V	11	9	6	1	VELCRO	11	9	3	1	VIG
+0	0	0	E	11	9	6	0		7	10	5	0	
+0	0	0	L	11	9	6	0		9	11	6	0	
+0	0	0	C	11	9	6	0		4	12	11	0	
+0	0	0	R	11	9	6	0		10	13	5	0	
+0	1	52	O	11	9	6	0		11	14	3	1	OEN
+0	1	53	M	12	0	10	1	MONTESSORI	12	0	3	1	MOW
+0	1	54	O	12	0	10	0		12	1	3	1	ONK
+0	1	55	N	12	0	10	0		12	2	3	1	NES
+0	0	0	T	12	0	10	0		10	3	4	0	
+0	0	0	E	12	0	10	0		9	4	5	0	
+0	0	0	S	12	0	10	0		6	5	7	0	
+0	1	56	S	12	0	10	0		12	6	3	1	SOV
+0	1	57	O	12	0	10	0		12	7	3	1	ORU
+0	1	58	R	12	0	10	0		12	8	3	1	REE
+0	0	0	I	12	0	10	0		11	9	3	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	59	E	12	11	4	1	EEEE	9	11	6	0	
+0	0	0	E	12	11	4	0		4	12	11	0	
+0	0	0	E	12	11	4	0		10	13	5	0	
+0	0	0	E	12	11	4	0		11	14	3	0	
+0	1	60	O	13	0	5	1	ONERA	12	0	3	0	
+0	0	0	N	13	0	5	0		12	1	3	0	
+0	0	0	E	13	0	5	0		12	2	3	0	
+0	0	0	R	13	0	5	0		10	3	4	0	
+0	0	0	A	13	0	5	0		9	4	5	0	
+1	0	0	#	13	6	4	0		14	5	0	0	
+0	1	61	O	13	6	4	1	OREG	12	6	3	0	
+0	0	0	R	13	6	4	0		12	7	3	0	
+0	0	0	E	13	6	4	0		12	8	3	0	
+0	0	0	G	13	6	4	0		11	9	3	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	62	S	13	11	4	1	SEEN	9	11	6	0	
+0	0	0	E	13	11	4	0		4	12	11	0	
+0	0	0	E	13	11	4	0		10	13	5	0	
+0	0	0	N	13	11	4	0		11	14	3	0	
+0	1	63	W	14	0	3	1	WKS	12	0	3	0	
+0	0	0	K	14	0	3	0		12	1	3	0	
+0	0	0	S	14	0	3	0		12	2	3	0	
+1	0	0	#	14	4	0	0		15	3	0	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	64	V	14	6	3	1	VUE	12	6	3	0	
+0	0	0	U	14	6	3	0		12	7	3	0	
+0	0	0	E	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	3	0		15	10	0	0	
+0	1	65	S	14	11	3	1	SLR	9	11	6	0	
+0	0	0	L	14	11	3	0		4	12	11	0	
+0	0	0	R	14	11	3	0		10	13	5	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+39
+1	ANU	Australian singer Christine
+4	UAW	Labor grp. since 1935
+7	BMW	325i or Z3
+10	BEIT	"So ___"
+11	SLAW	Deli side
+12	ATURN	To ___ (perfectly)
+14	ADAH	Wife of Esau
+15	STRIPMINES	Eco-unfriendly coal sources
+17	NEVADA	Zane Grey classic
+19	RIN	"When 2 ___ Love" (1988 Prince song)
+20	SANA	Arab capital
+21	BESIEGER	Santa Anna at the Alamo, e.g.
+26	RTS	Football blockers: Abbr.
+27	ADUEL	Challenge to ___
+28	LIL	___ Wayne with the platinum album "Tha Block Is Hot"
+30	ESD	Either of two books of the Apocrypha: Abbr.
+32	DEBUGS	Gets working, in a way
+34	EMP	Hirohito's title: Abbr.
+35	GMA	TV-over-breakfast inits.
+36	SNOCATS	Winter vehicles with treads
+38	CEN	What few people live for: Abbr.
+39	ORL	Magic on a scoreboard?
+40	COARSE	Like a hair shirt
+41	TDS	Some ESPN highlights, for short
+42	SNO	___-Caps (Nestl
+43	MONTE	Betting game
+44	DOR	Cannes's Palme ___
+46	ASPERSED	Smeared
+48	GRIG	Young eel
+50	EDE	Dutch city NW of Arnhem
+51	VELCRO	Zipper alternative
+53	MONTESSORI	Big name in child education
+59	EEEE	Superwide shoe specification
+60	ONERA	Brutus's burdens
+61	OREG	Salem's state: Abbr.
+62	SEEN	Caught in the act
+63	WKS	Cal. units
+64	VUE	Sight, in France
+65	SLR	Certain camera, for short
+37
+1	AEDES	Dreaded mosquito
+2	NIAVARDALOS	"My Big Fat Greek Wedding" star
+3	UTHANT	Secretary General before Kurt Waldheim
+4	ULT	Nth deg.
+5	AAR	The Lake of Thun is a widening of its course
+6	WWI	La Belle 
+7	BUN	Atkins diet no-no
+8	MRE	C ration replacer
+9	WNS	Bleaches
+10	BAN	Shut out
+11	SSA	Govt. money dispenser since 1946
+12	AMIEL	Film director Jon
+13	TING	Sound of silver striking crystal
+16	PRIESTS	Unwed fathers
+18	DASDS	Contemptible sneaks
+21	BABOONS	Big monkeys
+22	EDUCATE	Tell a thing or two
+23	SUGARED	Saccharine
+24	ELECTRICEEL	It may come as a shock to a diver
+25	RIMED	Frosty
+29	LPNS	Hosp. staffers
+30	EGOS	They may be involved in shouting matches
+31	SMRNA	Ancient city that lent its name to a fig
+33	ENCORES	They follow standing ovations
+37	SEDGE	Marsh plant
+43	MEDEA	Jason's vengeful ex-wife, in myth
+45	ORLESS	End of an estimate
+47	PETR	Czech-born N.H.L.'er Sykora or Prucha
+49	GREER	Sonny ___, Duke Ellington's longtime drummer
+51	VIG	Bookie's charge, for short
+52	OEN	Wine: Prefix
+53	MOW	Use a Lawn-Boy, e.g.
+54	ONK	In tune
+55	NES	Super ___ (game console)
+56	SOV	Part of U.S.S.R.: Abbr.
+57	ORU	Okla. school
+58	REE	Mr. ___ (old whodunit game)

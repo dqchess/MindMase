@@ -1,0 +1,165 @@
+grid_11x11_152
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	3	0		1	2	4	0	
+0	1	1	C	0	3	3	1	CCS	0	3	11	1	CHERUBSCOUT
+0	1	2	C	0	3	3	0		0	4	3	1	CCL
+0	1	3	S	0	3	3	0		0	5	3	1	SAW
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	S	0	7	3	1	SPF	0	7	11	1	SKIPSSTONES
+0	1	5	P	0	7	3	0		0	8	5	1	POTPE
+0	1	6	F	0	7	3	0		0	9	5	1	FLEET
+1	0	0	#	0	11	0	0		1	10	3	0	
+1	0	0	#	1	1	5	0		2	0	3	0	
+0	1	7	I	1	1	5	1	ITHCA	1	1	4	1	IOLA
+0	1	8	T	1	1	5	0		1	2	4	1	TVAD
+0	0	0	H	1	1	5	0		0	3	11	0	
+0	0	0	C	1	1	5	0		0	4	3	0	
+0	0	0	A	1	1	5	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	9	K	1	7	4	1	KOLA	0	7	11	0	
+0	0	0	O	1	7	4	0		0	8	5	0	
+0	0	0	L	1	7	4	0		0	9	5	0	
+0	1	10	A	1	7	4	0		1	10	3	1	ARR
+0	1	11	N	2	0	11	1	NOVELWRITER	2	0	3	1	NAB
+0	0	0	O	2	0	11	0		1	1	4	0	
+0	0	0	V	2	0	11	0		1	2	4	0	
+0	0	0	E	2	0	11	0		0	3	11	0	
+0	0	0	L	2	0	11	0		0	4	3	0	
+0	0	0	W	2	0	11	0		0	5	3	0	
+0	1	12	R	2	0	11	0		2	6	4	1	RUMS
+0	0	0	I	2	0	11	0		0	7	11	0	
+0	0	0	T	2	0	11	0		0	8	5	0	
+0	0	0	E	2	0	11	0		0	9	5	0	
+0	0	0	R	2	0	11	0		1	10	3	0	
+0	1	13	A	3	0	4	1	ALAR	2	0	3	0	
+0	0	0	L	3	0	4	0		1	1	4	0	
+0	0	0	A	3	0	4	0		1	2	4	0	
+0	0	0	R	3	0	4	0		0	3	11	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	14	U	3	6	5	1	UPPER	2	6	4	0	
+0	0	0	P	3	6	5	0		0	7	11	0	
+0	0	0	P	3	6	5	0		0	8	5	0	
+0	0	0	E	3	6	5	0		0	9	5	0	
+0	0	0	R	3	6	5	0		1	10	3	0	
+0	1	15	B	4	0	4	1	BADU	2	0	3	0	
+0	0	0	A	4	0	4	0		1	1	4	0	
+0	0	0	D	4	0	4	0		1	2	4	0	
+0	0	0	U	4	0	4	0		0	3	11	0	
+1	0	0	#	4	5	5	0		5	4	4	0	
+0	1	16	I	4	5	5	1	IMSET	4	5	3	1	IAS
+0	0	0	M	4	5	5	0		2	6	4	0	
+0	0	0	S	4	5	5	0		0	7	11	0	
+0	0	0	E	4	5	5	0		0	8	5	0	
+0	0	0	T	4	5	5	0		0	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	0	0		6	1	5	0	
+1	0	0	#	5	3	5	0		6	2	5	0	
+0	1	17	B	5	3	5	1	BLASS	0	3	11	0	
+0	1	18	L	5	3	5	0		5	4	4	1	LEAS
+0	0	0	A	5	3	5	0		4	5	3	0	
+0	0	0	S	5	3	5	0		2	6	4	0	
+0	0	0	S	5	3	5	0		0	7	11	0	
+1	0	0	#	5	9	0	0		6	8	4	0	
+1	0	0	#	5	10	0	0		6	9	4	0	
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	5	0		7	0	3	0	
+0	1	19	S	6	1	5	1	SASES	6	1	5	1	SOCIO
+0	1	20	A	6	1	5	0		6	2	5	1	ASHES
+0	0	0	S	6	1	5	0		0	3	11	0	
+0	0	0	E	6	1	5	0		5	4	4	0	
+0	0	0	S	6	1	5	0		4	5	3	0	
+1	0	0	#	6	7	4	0		7	6	0	0	
+0	1	21	T	6	7	4	1	TBSP	0	7	11	0	
+0	1	22	B	6	7	4	0		6	8	4	1	BEDE
+0	1	23	S	6	7	4	0		6	9	4	1	SNED
+0	1	24	P	6	7	4	0		6	10	3	1	POR
+0	1	25	T	7	0	5	1	TOSCA	7	0	3	1	TEL
+0	0	0	O	7	0	5	0		6	1	5	0	
+0	0	0	S	7	0	5	0		6	2	5	0	
+0	0	0	C	7	0	5	0		0	3	11	0	
+0	0	0	A	7	0	5	0		5	4	4	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	26	O	7	7	4	1	OENO	0	7	11	0	
+0	0	0	E	7	7	4	0		6	8	4	0	
+0	0	0	N	7	7	4	0		6	9	4	0	
+0	0	0	O	7	7	4	0		6	10	3	0	
+0	1	27	E	8	0	11	1	ECHOSOUNDER	7	0	3	0	
+0	0	0	C	8	0	11	0		6	1	5	0	
+0	0	0	H	8	0	11	0		6	2	5	0	
+0	0	0	O	8	0	11	0		0	3	11	0	
+0	0	0	S	8	0	11	0		5	4	4	0	
+0	1	28	O	8	0	11	0		8	5	3	1	OCS
+0	1	29	U	8	0	11	0		8	6	3	1	URO
+0	0	0	N	8	0	11	0		0	7	11	0	
+0	0	0	D	8	0	11	0		6	8	4	0	
+0	0	0	E	8	0	11	0		6	9	4	0	
+0	0	0	R	8	0	11	0		6	10	3	0	
+0	1	30	L	9	0	4	1	LIEU	7	0	3	0	
+0	0	0	I	9	0	4	0		6	1	5	0	
+0	0	0	E	9	0	4	0		6	2	5	0	
+0	0	0	U	9	0	4	0		0	3	11	0	
+1	0	0	#	9	5	5	0		10	4	0	0	
+0	1	31	C	9	5	5	1	CREED	8	5	3	0	
+0	0	0	R	9	5	5	0		8	6	3	0	
+0	0	0	E	9	5	5	0		0	7	11	0	
+0	0	0	E	9	5	5	0		6	8	4	0	
+0	0	0	D	9	5	5	0		6	9	4	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	32	O	10	1	3	1	OST	6	1	5	0	
+0	0	0	S	10	1	3	0		6	2	5	0	
+0	0	0	T	10	1	3	0		0	3	11	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	33	S	10	5	3	1	SOS	8	5	3	0	
+0	0	0	O	10	5	3	0		8	6	3	0	
+0	0	0	S	10	5	3	0		0	7	11	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	CCS	IV units
+4	SPF	Letters on some lotions
+7	ITHCA	Ivy Leaguer's home
+9	KOLA	Nut for caffeine?
+11	NOVELWRITER	Career of the parent who typed up the Career Day schedule?
+13	ALAR	Having wings
+14	UPPER	Stimulant
+15	BADU	"On&On" singer Erykah
+16	IMSET	"No more, thanks"
+17	BLASS	Bill of fashion
+19	SASES	Letter enclosures: Abbr.
+21	TBSP	Cook's meas.
+25	TOSCA	Puccini heroine
+26	OENO	Vintner's prefix
+27	ECHOSOUNDER	Aid in deep diving
+30	LIEU	In ___ of (substituting for)
+31	CREED	Believe in it
+32	OST	German compass point
+33	SOS	Cry when going down?
+21
+1	CHERUBSCOUT	Angel seeker?
+2	CCL	Quarter millennium
+3	SAW	Cut
+4	SKIPSSTONES	*Plays at a pond, in a way
+5	POTPE	Single-dish meal
+6	FLEET	Naval force
+7	IOLA	Seat of Allen County, Kan.
+8	TVAD	Big Super Bowl expense
+10	ARR	Airport info: Abbr.
+11	NAB	Run in
+12	RUMS	Jamaica exports
+16	IAS	"___ in Icarus" (1979 French thriller)
+18	LEAS	Gamboling places
+19	SOCIO	Economic leader?
+20	ASHES	Contents of some urns
+22	BEDE	Venerable scholar of old England
+23	SNED	Caught some rays
+24	POR	___ favor
+25	TEL	Application datum: Abbr.
+28	OCS	Where to get a mil. commission
+29	URO	Tail: Prefix

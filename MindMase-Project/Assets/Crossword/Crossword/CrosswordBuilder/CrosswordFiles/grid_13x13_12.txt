@@ -1,0 +1,233 @@
+grid_13x13_12
+13
+0	1	1	W	0	0	5	1	WINER	0	0	3	1	WEE
+0	1	2	I	0	0	5	0		0	1	3	1	IAN
+0	1	3	N	0	0	5	0		0	2	3	1	NTS
+0	1	4	E	0	0	5	0		0	3	5	1	EIEIO
+0	1	5	R	0	0	5	0		0	4	4	1	RNAS
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	0	0		1	6	0	0	
+1	0	0	#	0	8	5	0		1	7	7	0	
+0	1	6	M	0	8	5	1	MARCI	0	8	3	1	MAA
+0	1	7	A	0	8	5	0		0	9	5	1	ALIDA
+0	1	8	R	0	8	5	0		0	10	9	1	RISINGSUN
+0	1	9	C	0	8	5	0		0	11	4	1	CSIS
+0	1	10	I	0	8	5	0		0	12	3	1	IHN
+0	1	11	E	1	0	6	1	EATING	0	0	3	0	
+0	0	0	A	1	0	6	0		0	1	3	0	
+0	0	0	T	1	0	6	0		0	2	3	0	
+0	0	0	I	1	0	6	0		0	3	5	0	
+0	0	0	N	1	0	6	0		0	4	4	0	
+0	1	12	G	1	0	6	0		1	5	3	1	GTS
+1	0	0	#	1	7	6	0		2	6	0	0	
+0	1	13	P	1	7	6	1	PALISH	1	7	7	1	PRETEST
+0	0	0	A	1	7	6	0		0	8	3	0	
+0	0	0	L	1	7	6	0		0	9	5	0	
+0	0	0	I	1	7	6	0		0	10	9	0	
+0	0	0	S	1	7	6	0		0	11	4	0	
+0	0	0	H	1	7	6	0		0	12	3	0	
+0	1	14	E	2	0	6	1	ENSEAT	0	0	3	0	
+0	0	0	N	2	0	6	0		0	1	3	0	
+0	0	0	S	2	0	6	0		0	2	3	0	
+0	0	0	E	2	0	6	0		0	3	5	0	
+0	0	0	A	2	0	6	0		0	4	4	0	
+0	0	0	T	2	0	6	0		1	5	3	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	15	R	2	7	6	1	RAISIN	1	7	7	0	
+0	0	0	A	2	7	6	0		0	8	3	0	
+0	0	0	I	2	7	6	0		0	9	5	0	
+0	0	0	S	2	7	6	0		0	10	9	0	
+0	0	0	I	2	7	6	0		0	11	4	0	
+0	0	0	N	2	7	6	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	5	0		4	2	9	0	
+0	1	16	I	3	3	5	1	ISSHE	0	3	5	0	
+0	0	0	S	3	3	5	0		0	4	4	0	
+0	0	0	S	3	3	5	0		1	5	3	0	
+0	1	17	H	3	3	5	0		3	6	7	1	HIPNESS
+0	0	0	E	3	3	5	0		1	7	7	0	
+1	0	0	#	3	9	3	0		4	8	4	0	
+0	1	18	D	3	9	3	1	DIS	0	9	5	0	
+0	0	0	I	3	9	3	0		0	10	9	0	
+0	0	0	S	3	9	3	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	3	0		5	0	3	0	
+0	1	19	W	4	1	3	1	WBO	4	1	4	1	WITS
+0	1	20	B	4	1	3	0		4	2	9	1	BEERFESTS
+0	0	0	O	4	1	3	0		0	3	5	0	
+1	0	0	#	4	5	0	0		5	4	4	0	
+1	0	0	#	4	6	5	0		5	5	7	0	
+0	1	21	I	4	6	5	1	ITSAN	3	6	7	0	
+0	0	0	T	4	6	5	0		1	7	7	0	
+0	1	22	S	4	6	5	0		4	8	4	1	SRAS
+0	0	0	A	4	6	5	0		0	9	5	0	
+0	0	0	N	4	6	5	0		0	10	9	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	23	W	5	0	3	1	WIE	5	0	3	1	WAT
+0	0	0	I	5	0	3	0		4	1	4	0	
+0	0	0	E	5	0	3	0		4	2	9	0	
+1	0	0	#	5	4	5	0		6	3	0	0	
+0	1	24	A	5	4	5	1	AMPER	5	4	4	1	AHSO
+0	1	25	M	5	4	5	0		5	5	7	1	MATLESS
+0	0	0	P	5	4	5	0		3	6	7	0	
+0	0	0	E	5	4	5	0		1	7	7	0	
+0	0	0	R	5	4	5	0		4	8	4	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	26	G	5	10	3	1	GSO	0	10	9	0	
+0	1	27	S	5	10	3	0		5	11	4	1	STEN
+0	1	28	O	5	10	3	0		5	12	3	1	OSA
+0	1	29	A	6	0	3	1	ATE	5	0	3	0	
+0	0	0	T	6	0	3	0		4	1	4	0	
+0	0	0	E	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	30	H	6	4	5	1	HANSA	5	4	4	0	
+0	0	0	A	6	4	5	0		5	5	7	0	
+0	0	0	N	6	4	5	0		3	6	7	0	
+0	0	0	S	6	4	5	0		1	7	7	0	
+0	0	0	A	6	4	5	0		4	8	4	0	
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	S	6	10	3	1	STS	0	10	9	0	
+0	0	0	T	6	10	3	0		5	11	4	0	
+0	0	0	S	6	10	3	0		5	12	3	0	
+0	1	32	T	7	0	3	1	TSR	5	0	3	0	
+0	0	0	S	7	0	3	0		4	1	4	0	
+0	0	0	R	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	5	0		8	3	5	0	
+0	1	33	S	7	4	5	1	STETS	5	4	4	0	
+0	0	0	T	7	4	5	0		5	5	7	0	
+0	0	0	E	7	4	5	0		3	6	7	0	
+0	0	0	T	7	4	5	0		1	7	7	0	
+0	0	0	S	7	4	5	0		4	8	4	0	
+1	0	0	#	7	10	3	0		8	9	5	0	
+0	1	34	U	7	10	3	1	UEA	0	10	9	0	
+0	0	0	E	7	10	3	0		5	11	4	0	
+0	0	0	A	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	5	0		9	1	4	0	
+0	1	35	F	8	2	5	1	FOOLS	4	2	9	0	
+0	1	36	O	8	2	5	0		8	3	5	1	ONHER
+0	0	0	O	8	2	5	0		5	4	4	0	
+0	0	0	L	8	2	5	0		5	5	7	0	
+0	0	0	S	8	2	5	0		3	6	7	0	
+1	0	0	#	8	8	0	0		9	7	3	0	
+1	0	0	#	8	9	3	0		9	8	4	0	
+0	1	37	C	8	9	3	1	CNN	8	9	5	1	CEDER
+0	0	0	N	8	9	3	0		0	10	9	0	
+0	0	0	N	8	9	3	0		5	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	38	N	9	1	3	1	NEN	9	1	4	1	NORA
+0	0	0	E	9	1	3	0		4	2	9	0	
+0	0	0	N	9	1	3	0		8	3	5	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	39	E	9	5	5	1	ESQUE	5	5	7	0	
+0	0	0	S	9	5	5	0		3	6	7	0	
+0	1	40	Q	9	5	5	0		9	7	3	1	QOM
+0	1	41	U	9	5	5	0		9	8	4	1	ULEE
+0	0	0	E	9	5	5	0		8	9	5	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	N	10	0	6	1	NOSHES	10	0	3	1	NAB
+0	0	0	O	10	0	6	0		9	1	4	0	
+0	0	0	S	10	0	6	0		4	2	9	0	
+0	0	0	H	10	0	6	0		8	3	5	0	
+0	1	43	E	10	0	6	0		10	4	3	1	ELA
+0	0	0	S	10	0	6	0		5	5	7	0	
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	44	O	10	7	6	1	OLDMEN	9	7	3	0	
+0	0	0	L	10	7	6	0		9	8	4	0	
+0	0	0	D	10	7	6	0		8	9	5	0	
+0	1	45	M	10	7	6	0		10	10	3	1	MCI
+0	1	46	E	10	7	6	0		10	11	3	1	EEC
+0	1	47	N	10	7	6	0		10	12	3	1	NSA
+0	1	48	A	11	0	6	1	ARTELS	10	0	3	0	
+0	0	0	R	11	0	6	0		9	1	4	0	
+0	0	0	T	11	0	6	0		4	2	9	0	
+0	0	0	E	11	0	6	0		8	3	5	0	
+0	0	0	L	11	0	6	0		10	4	3	0	
+0	0	0	S	11	0	6	0		5	5	7	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	49	M	11	7	6	1	MEECES	9	7	3	0	
+0	0	0	E	11	7	6	0		9	8	4	0	
+0	0	0	E	11	7	6	0		8	9	5	0	
+0	0	0	C	11	7	6	0		10	10	3	0	
+0	0	0	E	11	7	6	0		10	11	3	0	
+0	0	0	S	11	7	6	0		10	12	3	0	
+0	1	50	B	12	0	5	1	BASRA	10	0	3	0	
+0	0	0	A	12	0	5	0		9	1	4	0	
+0	0	0	S	12	0	5	0		4	2	9	0	
+0	0	0	R	12	0	5	0		8	3	5	0	
+0	0	0	A	12	0	5	0		10	4	3	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	5	0		13	7	0	0	
+0	1	51	E	12	8	5	1	ERICA	9	8	4	0	
+0	0	0	R	12	8	5	0		8	9	5	0	
+0	0	0	I	12	8	5	0		10	10	3	0	
+0	0	0	C	12	8	5	0		10	11	3	0	
+0	0	0	A	12	8	5	0		10	12	3	0	
+29
+1	WINER	Jason who directed 2011's "Arthur"
+6	MARCI	"___ X" (2003 Lisa Kudrow film)
+11	EATING	It's vital to life
+13	PALISH	Rather wan
+14	ENSEAT	Put on the throne
+15	RAISIN	Gingerbread man's eye, maybe
+16	ISSHE	Joe Jackson's "___ Really Going Out With Him?"
+18	DIS	Give a hard time, slangily
+19	WBO	Sanctioning assn. for pugilists
+21	ITSAN	"___ honor"
+23	WIE	Youngest golfer ever to win a U.S.G.A. adult event (age 13)
+24	AMPER	Swelling, in England
+26	GSO	Mil. aide
+29	ATE	Feasted
+30	HANSA	Medieval guild
+31	STS	GPS data: Abbr.
+32	TSR	Old Dungeons & Dragons co.
+33	STETS	Editors' marks
+34	UEA	Pupil's place
+35	FOOLS	Mortals, to Puck
+37	CNN	MSNBC rival
+38	NEN	Relief pitcher Robb
+39	ESQUE	Suffix with Kafka
+42	NOSHES	Enjoys a bagel, maybe
+44	OLDMEN	Codgers
+48	ARTELS	Peasants' cooperatives
+49	MEECES	Varmints, in a classic cartoon line
+50	BASRA	Persian Gulf port
+51	ERICA	Susan Lucci's Emmy role
+31
+1	WEE	Teeny
+2	IAN	Legalese adverb
+3	NTS	Some Windows systems
+4	EIEIO	Farm letters?
+5	RNAS	They're stranded in the body
+6	MAA	Ewe in "Babe"
+7	ALIDA	Actress Valli of "The Third Man"
+8	RISINGSUN	Symbol of Japan
+9	CSIS	A couple CBS spinoffs
+10	IHN	Him, in Heidelberg
+12	GTS	Some sporty cars
+13	PRETEST	Course requisite, at times
+17	HIPNESS	Cool factor
+19	WITS	Composure
+20	BEERFESTS	Events that are barrels of fun?
+22	SRAS	Sp. matrons
+23	WAT	Angkor ___ (Cambodian temple)
+24	AHSO	"Now I get it," facetiously
+25	MATLESS	Like a bare floor
+27	STEN	9-mm. gun of W.W. II
+28	OSA	Mother bear, in M
+36	ONHER	"___ Majesty's Secret Service"
+37	CEDER	One throwing in the towel
+38	NORA	Ibsen's ___ Helmer
+40	QOM	Shiite center in Iran
+41	ULEE	Beekeeper of filmdom
+42	NAB	Collar
+43	ELA	Italian note
+45	MCI	2006 Verizon acquisition
+46	EEC	Intl. trade inits.
+47	NSA	Org. in Clancy's "Red Storm Rising"

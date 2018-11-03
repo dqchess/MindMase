@@ -1,0 +1,167 @@
+grid_11x11_79
+11
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	0	0		1	1	6	0	
+1	0	0	#	0	3	3	0		1	2	10	0	
+0	1	1	M	0	3	3	1	MFA	0	3	5	1	MANDM
+0	1	2	F	0	3	3	0		0	4	6	1	FESSED
+0	1	3	A	0	3	3	0		0	5	3	1	ART
+1	0	0	#	0	7	0	0		1	6	3	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	4	D	0	8	3	1	DEM	0	8	10	1	DEEPPURPLE
+0	1	5	E	0	8	3	0		0	9	3	1	ELE
+0	1	6	M	0	8	3	0		0	10	3	1	MMD
+1	0	0	#	1	1	6	0		2	0	0	0	
+0	1	7	P	1	1	6	1	PRAERS	1	1	6	1	PRECUT
+0	1	8	R	1	1	6	0		1	2	10	1	RULEMAKERS
+0	0	0	A	1	1	6	0		0	3	5	0	
+0	0	0	E	1	1	6	0		0	4	6	0	
+0	0	0	R	1	1	6	0		0	5	3	0	
+0	1	9	S	1	1	6	0		1	6	3	1	SOC
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	10	E	1	8	3	1	ELM	0	8	10	0	
+0	0	0	L	1	8	3	0		0	9	3	0	
+0	0	0	M	1	8	3	0		0	10	3	0	
+1	0	0	#	2	1	10	0		3	0	3	0	
+0	1	11	R	2	1	10	1	RUNSTOSEED	1	1	6	0	
+0	0	0	U	2	1	10	0		1	2	10	0	
+0	0	0	N	2	1	10	0		0	3	5	0	
+0	0	0	S	2	1	10	0		0	4	6	0	
+0	0	0	T	2	1	10	0		0	5	3	0	
+0	0	0	O	2	1	10	0		1	6	3	0	
+0	1	12	S	2	1	10	0		2	7	3	1	SDS
+0	0	0	E	2	1	10	0		0	8	10	0	
+0	0	0	E	2	1	10	0		0	9	3	0	
+0	0	0	D	2	1	10	0		0	10	3	0	
+0	1	13	W	3	0	5	1	WELDS	3	0	3	1	WIL
+0	0	0	E	3	0	5	0		1	1	6	0	
+0	0	0	L	3	0	5	0		1	2	10	0	
+0	0	0	D	3	0	5	0		0	3	5	0	
+0	0	0	S	3	0	5	0		0	4	6	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	14	C	3	6	3	1	CDP	1	6	3	0	
+0	0	0	D	3	6	3	0		2	7	3	0	
+0	0	0	P	3	6	3	0		0	8	10	0	
+1	0	0	#	3	10	0	0		4	9	6	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	I	4	0	6	1	ICEMEN	3	0	3	0	
+0	0	0	C	4	0	6	0		1	1	6	0	
+0	0	0	E	4	0	6	0		1	2	10	0	
+0	0	0	M	4	0	6	0		0	3	5	0	
+0	0	0	E	4	0	6	0		0	4	6	0	
+0	1	16	N	4	0	6	0		4	5	3	1	NLQ
+1	0	0	#	4	7	3	0		5	6	6	0	
+0	1	17	S	4	7	3	1	SPI	2	7	3	0	
+0	0	0	P	4	7	3	0		0	8	10	0	
+0	1	18	I	4	7	3	0		4	9	6	1	ISTLES
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	19	L	5	0	3	1	LUM	3	0	3	0	
+0	0	0	U	5	0	3	0		1	1	6	0	
+0	0	0	M	5	0	3	0		1	2	10	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	20	D	5	4	3	1	DLR	0	4	6	0	
+0	0	0	L	5	4	3	0		4	5	3	0	
+0	1	21	R	5	4	3	0		5	6	6	1	RWANDA
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	U	5	8	3	1	USN	0	8	10	0	
+0	0	0	S	5	8	3	0		4	9	6	0	
+0	1	23	N	5	8	3	0		5	10	3	1	NYE
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	24	T	6	1	3	1	TAL	1	1	6	0	
+0	0	0	A	6	1	3	0		1	2	10	0	
+0	1	25	L	6	1	3	0		6	3	3	1	LEA
+1	0	0	#	6	5	6	0		7	4	3	0	
+0	1	26	Q	6	5	6	1	QWERTY	4	5	3	0	
+0	0	0	W	6	5	6	0		5	6	6	0	
+0	1	27	E	6	5	6	0		6	7	5	1	EPCOT
+0	0	0	R	6	5	6	0		0	8	10	0	
+0	0	0	T	6	5	6	0		4	9	6	0	
+0	0	0	Y	6	5	6	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	28	K	7	2	3	1	KES	1	2	10	0	
+0	0	0	E	7	2	3	0		6	3	3	0	
+0	1	29	S	7	2	3	0		7	4	3	1	STR
+1	0	0	#	7	6	5	0		8	5	3	0	
+0	1	30	A	7	6	5	1	APPLE	5	6	6	0	
+0	0	0	P	7	6	5	0		6	7	5	0	
+0	0	0	P	7	6	5	0		0	8	10	0	
+0	0	0	L	7	6	5	0		4	9	6	0	
+0	0	0	E	7	6	5	0		5	10	3	0	
+0	1	31	G	8	0	10	1	GREATUNCLE	8	0	3	1	GOP
+0	1	32	R	8	0	10	0		8	1	3	1	RRR
+0	0	0	E	8	0	10	0		1	2	10	0	
+0	0	0	A	8	0	10	0		6	3	3	0	
+0	0	0	T	8	0	10	0		7	4	3	0	
+0	1	33	U	8	0	10	0		8	5	3	1	UEY
+0	0	0	N	8	0	10	0		5	6	6	0	
+0	0	0	C	8	0	10	0		6	7	5	0	
+0	0	0	L	8	0	10	0		0	8	10	0	
+0	0	0	E	8	0	10	0		4	9	6	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	34	O	9	0	3	1	ORR	8	0	3	0	
+0	0	0	R	9	0	3	0		8	1	3	0	
+0	0	0	R	9	0	3	0		1	2	10	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	35	R	9	4	6	1	REDOES	7	4	3	0	
+0	0	0	E	9	4	6	0		8	5	3	0	
+0	0	0	D	9	4	6	0		5	6	6	0	
+0	0	0	O	9	4	6	0		6	7	5	0	
+0	0	0	E	9	4	6	0		0	8	10	0	
+0	0	0	S	9	4	6	0		4	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	36	P	10	0	3	1	PRS	8	0	3	0	
+0	0	0	R	10	0	3	0		8	1	3	0	
+0	0	0	S	10	0	3	0		1	2	10	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	37	Y	10	5	3	1	YAT	8	5	3	0	
+0	0	0	A	10	5	3	0		5	6	6	0	
+0	0	0	T	10	5	3	0		6	7	5	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	MFA	Juilliard deg.
+4	DEM	F.D.R. or J.F.K., e.g.
+7	PRAERS	They talk too much
+10	ELM	New Haven, a k a ___ City
+11	RUNSTOSEED	Goes downhill
+13	WELDS	Joins
+14	CDP	Prefix with center or gram
+15	ICEMEN	Canadiens and Canucks
+17	SPI	Slant
+19	LUM	Abner's partner in old radio
+20	DLR	Abbr. on some license plates
+22	USN	Gitmo mil. branch
+24	TAL	Chess champion of 1960-61
+26	QWERTY	Kind of keyboard
+28	KES	Evelyn who played Scarlett's sister
+30	APPLE	Snack item
+31	GREATUNCLE	Lionel to Drew Barrymore
+34	ORR	Three-time Hart Trophy winner
+35	REDOES	Starts from scratch
+36	PRS	7, on a phone
+37	YAT	China's Sun ___-sen
+21
+1	MANDM	Popular bit of candy
+2	FESSED	Owned (up)
+3	ART	Carney of "The Honeymooners"
+4	DEEPPURPLE	Group with the 1968 hit "Hush"
+5	ELE	One in the charge of un instituteur
+6	MMD	Roman square?
+7	PRECUT	Like most store-bought bread
+8	RULEMAKERS	Governing group
+9	SOC	S.P.C.A. part: Abbr.
+12	SDS	Org. that called 60's strikes
+13	WIL	He played Wesley on "Star Trek: T.N.G."
+16	NLQ	Place to hang a ring
+18	ISTLES	Yucca fibers
+21	RWANDA	Congo neighbor
+23	NYE	Scientist with multiple Emmys
+25	LEA	Green land
+27	EPCOT	Center of Florida
+29	STR	Water channel: Abbr.
+31	GOP	Grp. symbolized by an elephant
+32	RRR	Basics of education
+33	UEY	Driver's 180

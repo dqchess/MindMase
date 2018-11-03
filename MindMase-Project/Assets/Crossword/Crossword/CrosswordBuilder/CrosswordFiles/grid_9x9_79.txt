@@ -1,0 +1,117 @@
+grid_9x9_79
+9
+0	1	1	I	0	0	3	1	ICH	0	0	3	1	IFS
+0	1	2	C	0	0	3	0		0	1	3	1	CRS
+0	1	3	H	0	0	3	0		0	2	9	1	HOBNAILED
+1	0	0	#	0	4	0	0		1	3	4	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	W	0	5	3	1	WEA	0	5	3	1	WAF
+0	1	5	E	0	5	3	0		0	6	9	1	ELTONJOHN
+0	1	6	A	0	5	3	0		0	7	5	1	AIOLI
+1	0	0	#	0	9	0	0		1	8	3	0	
+0	1	7	F	1	0	4	1	FROE	0	0	3	0	
+0	0	0	R	1	0	4	0		0	1	3	0	
+0	0	0	O	1	0	4	0		0	2	9	0	
+0	1	8	E	1	0	4	0		1	3	4	1	EYER
+1	0	0	#	1	5	4	0		2	4	0	0	
+0	1	9	A	1	5	4	1	ALID	0	5	3	0	
+0	0	0	L	1	5	4	0		0	6	9	0	
+0	0	0	I	1	5	4	0		0	7	5	0	
+0	1	10	D	1	5	4	0		1	8	3	1	DPS
+0	1	11	S	2	0	4	1	SSBY	0	0	3	0	
+0	0	0	S	2	0	4	0		0	1	3	0	
+0	0	0	B	2	0	4	0		0	2	9	0	
+0	0	0	Y	2	0	4	0		1	3	4	0	
+1	0	0	#	2	5	4	0		3	4	3	0	
+0	1	12	F	2	5	4	1	FTOP	0	5	3	0	
+0	0	0	T	2	5	4	0		0	6	9	0	
+0	0	0	O	2	5	4	0		0	7	5	0	
+0	0	0	P	2	5	4	0		1	8	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	N	3	2	3	1	NEU	0	2	9	0	
+0	0	0	E	3	2	3	0		1	3	4	0	
+0	1	14	U	3	2	3	0		3	4	3	1	UCJ
+1	0	0	#	3	6	3	0		4	5	4	0	
+0	1	15	O	3	6	3	1	OLS	0	6	9	0	
+0	0	0	L	3	6	3	0		0	7	5	0	
+0	0	0	S	3	6	3	0		1	8	3	0	
+1	0	0	#	4	1	7	0		5	0	3	0	
+0	1	16	M	4	1	7	1	MARCONI	4	1	5	1	MARIA
+0	0	0	A	4	1	7	0		0	2	9	0	
+0	0	0	R	4	1	7	0		1	3	4	0	
+0	0	0	C	4	1	7	0		3	4	3	0	
+0	1	17	O	4	1	7	0		4	5	4	1	OENS
+0	0	0	N	4	1	7	0		0	6	9	0	
+0	0	0	I	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	18	B	5	0	3	1	BAI	5	0	3	1	BEV
+0	0	0	A	5	0	3	0		4	1	5	0	
+0	0	0	I	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	3	0	
+0	1	19	J	5	4	3	1	JEJ	3	4	3	0	
+0	0	0	E	5	4	3	0		4	5	4	0	
+0	0	0	J	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	20	E	6	0	4	1	ERLE	5	0	3	0	
+0	0	0	R	6	0	4	0		4	1	5	0	
+0	0	0	L	6	0	4	0		0	2	9	0	
+0	1	21	E	6	0	4	0		6	3	3	1	EDM
+1	0	0	#	6	5	4	0		7	4	0	0	
+0	1	22	N	6	5	4	1	NOIT	4	5	4	0	
+0	0	0	O	6	5	4	0		0	6	9	0	
+0	1	23	I	6	5	4	0		6	7	3	1	ION
+0	1	24	T	6	5	4	0		6	8	3	1	TEE
+0	1	25	V	7	0	4	1	VIED	5	0	3	0	
+0	0	0	I	7	0	4	0		4	1	5	0	
+0	0	0	E	7	0	4	0		0	2	9	0	
+0	0	0	D	7	0	4	0		6	3	3	0	
+1	0	0	#	7	5	4	0		8	4	0	0	
+0	1	26	S	7	5	4	1	SHOE	4	5	4	0	
+0	0	0	H	7	5	4	0		0	6	9	0	
+0	0	0	O	7	5	4	0		6	7	3	0	
+0	0	0	E	7	5	4	0		6	8	3	0	
+1	0	0	#	8	1	3	0		9	0	0	0	
+0	1	27	A	8	1	3	1	ADM	4	1	5	0	
+0	0	0	D	8	1	3	0		0	2	9	0	
+0	0	0	M	8	1	3	0		6	3	3	0	
+1	0	0	#	8	5	0	0		9	4	0	0	
+1	0	0	#	8	6	3	0		9	5	0	0	
+0	1	28	N	8	6	3	1	NNE	0	6	9	0	
+0	0	0	N	8	6	3	0		6	7	3	0	
+0	0	0	E	8	6	3	0		6	8	3	0	
+17
+1	ICH	Freud's I
+4	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)
+7	FROE	Wood-cleaving tool
+9	ALID	"Put ___ on it!"
+11	SSBY	Is loyal to
+12	FTOP	Aircraft carrier
+13	NEU	It's not used in Germany
+15	OLS	Barn denizens
+16	MARCONI	1909 Physics Nobelist
+18	BAI	Actress ___ Ling of "Sky Captain and the World of Tomorrow"
+19	JEJ	Tax
+20	ERLE	"House of Dracula" director ___ C. Kenton
+22	NOIT	"___ can't be!"
+25	VIED	Traded blows
+26	SHOE	Pedal pusher
+27	ADM	Mil. rank established by Cong. in 1862
+28	NNE	Liverpool-to-Newcastle dir.
+15
+1	IFS	Conditions
+2	CRS	Some accounting entries: Abbr.
+3	HOBNAILED	Like loggers' boots
+4	WAF	Old U.S. military aux.
+5	ELTONJOHN	"Rocket Man" rocker
+6	AIOLI	Pungent dressing
+8	EYER	Beholder
+10	DPS	Stat for infielders
+14	UCJ	Anthem contraction
+16	MARIA	"I just met a girl named ___" ("West Side Story" lyric)
+17	OENS	1936 Olympics hero
+18	BEV	Drink: Abbr.
+21	EDM	Teacher's deg.
+23	ION	Physics subject
+24	TEE	Resort souvenir

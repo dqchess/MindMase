@@ -1,0 +1,235 @@
+grid_13x13_125
+13
+0	1	1	S	0	0	3	1	SIR	0	0	3	1	STR
+0	1	2	I	0	0	3	0		0	1	3	1	IRA
+0	1	3	R	0	0	3	0		0	2	3	1	RIN
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	P	0	6	3	1	PMS	0	6	4	1	PLEA
+0	1	5	M	0	6	3	0		0	7	8	1	MARQAMES
+0	1	6	S	0	6	3	0		0	8	3	1	SYS
+1	0	0	#	0	10	3	0		1	9	0	0	
+0	1	7	C	0	10	3	1	CLX	0	10	9	1	CENTESIMO
+0	1	8	L	0	10	3	0		0	11	4	1	LEGG
+0	1	9	X	0	10	3	0		0	12	3	1	XKS
+0	1	10	T	1	0	3	1	TRI	0	0	3	0	
+0	0	0	R	1	0	3	0		0	1	3	0	
+0	0	0	I	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	5	0		2	3	3	0	
+0	1	11	B	1	4	5	1	BELAY	1	4	3	1	BOK
+0	1	12	E	1	4	5	0		1	5	3	1	EMM
+0	0	0	L	1	4	5	0		0	6	4	0	
+0	0	0	A	1	4	5	0		0	7	8	0	
+0	0	0	Y	1	4	5	0		0	8	3	0	
+1	0	0	#	1	10	3	0		2	9	0	0	
+0	1	13	E	1	10	3	1	EEK	0	10	9	0	
+0	0	0	E	1	10	3	0		0	11	4	0	
+0	0	0	K	1	10	3	0		0	12	3	0	
+0	1	14	R	2	0	9	1	RANSOMERS	0	0	3	0	
+0	0	0	A	2	0	9	0		0	1	3	0	
+0	0	0	N	2	0	9	0		0	2	3	0	
+0	1	15	S	2	0	9	0		2	3	3	1	SEV
+0	0	0	O	2	0	9	0		1	4	3	0	
+0	0	0	M	2	0	9	0		1	5	3	0	
+0	0	0	E	2	0	9	0		0	6	4	0	
+0	0	0	R	2	0	9	0		0	7	8	0	
+0	0	0	S	2	0	9	0		0	8	3	0	
+1	0	0	#	2	10	3	0		3	9	4	0	
+0	1	16	N	2	10	3	1	NGS	0	10	9	0	
+0	0	0	G	2	10	3	0		0	11	4	0	
+0	0	0	S	2	10	3	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	0	0		4	1	4	0	
+1	0	0	#	3	3	5	0		4	2	9	0	
+0	1	17	E	3	3	5	1	EKMAQ	2	3	3	0	
+0	0	0	K	3	3	5	0		1	4	3	0	
+0	0	0	M	3	3	5	0		1	5	3	0	
+0	0	0	A	3	3	5	0		0	6	4	0	
+0	0	0	Q	3	3	5	0		0	7	8	0	
+1	0	0	#	3	9	3	0		4	8	3	0	
+0	1	18	S	3	9	3	1	STG	3	9	4	1	SLRS
+0	0	0	T	3	9	3	0		0	10	9	0	
+0	0	0	G	3	9	3	0		0	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+0	1	19	O	4	0	4	1	OLAV	4	0	3	1	ORB
+0	1	20	L	4	0	4	0		4	1	4	1	LAUD
+0	1	21	A	4	0	4	0		4	2	9	1	ALLORNONE
+0	0	0	V	4	0	4	0		2	3	3	0	
+1	0	0	#	4	5	0	0		5	4	0	0	
+1	0	0	#	4	6	0	0		5	5	8	0	
+1	0	0	#	4	7	4	0		5	6	3	0	
+0	1	22	A	4	7	4	1	AXLE	0	7	8	0	
+0	1	23	X	4	7	4	0		4	8	3	1	XES
+0	0	0	L	4	7	4	0		3	9	4	0	
+0	0	0	E	4	7	4	0		0	10	9	0	
+1	0	0	#	4	12	0	0		5	11	4	0	
+1	0	0	#	4	13	0	0		5	12	0	0	
+0	1	24	R	5	0	3	1	RAL	4	0	3	0	
+0	0	0	A	5	0	3	0		4	1	4	0	
+0	0	0	L	5	0	3	0		4	2	9	0	
+1	0	0	#	5	4	0	0		6	3	4	0	
+1	0	0	#	5	5	7	0		6	4	3	0	
+0	1	25	I	5	5	7	1	IMMERSE	5	5	8	1	ITMAKESN
+0	1	26	M	5	5	7	0		5	6	3	1	MSU
+0	0	0	M	5	5	7	0		0	7	8	0	
+0	0	0	E	5	5	7	0		4	8	3	0	
+0	0	0	R	5	5	7	0		3	9	4	0	
+0	0	0	S	5	5	7	0		0	10	9	0	
+0	1	27	E	5	5	7	0		5	11	4	1	EONS
+1	0	0	#	5	13	0	0		6	12	3	0	
+0	1	28	B	6	0	13	1	BULLETSESSION	4	0	3	0	
+0	0	0	U	6	0	13	0		4	1	4	0	
+0	0	0	L	6	0	13	0		4	2	9	0	
+0	1	29	L	6	0	13	0		6	3	4	1	LNES
+0	1	30	E	6	0	13	0		6	4	3	1	EIN
+0	0	0	T	6	0	13	0		5	5	8	0	
+0	0	0	S	6	0	13	0		5	6	3	0	
+0	0	0	E	6	0	13	0		0	7	8	0	
+0	0	0	S	6	0	13	0		4	8	3	0	
+0	0	0	S	6	0	13	0		3	9	4	0	
+0	0	0	I	6	0	13	0		0	10	9	0	
+0	0	0	O	6	0	13	0		5	11	4	0	
+0	1	31	N	6	0	13	0		6	12	3	1	NOT
+1	0	0	#	7	1	7	0		8	0	0	0	
+0	1	32	D	7	1	7	1	DONIMUS	4	1	4	0	
+0	0	0	O	7	1	7	0		4	2	9	0	
+0	0	0	N	7	1	7	0		6	3	4	0	
+0	0	0	I	7	1	7	0		6	4	3	0	
+0	0	0	M	7	1	7	0		5	5	8	0	
+0	0	0	U	7	1	7	0		5	6	3	0	
+0	0	0	S	7	1	7	0		0	7	8	0	
+1	0	0	#	7	9	0	0		8	8	0	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	33	M	7	10	3	1	MNO	0	10	9	0	
+0	0	0	N	7	10	3	0		5	11	4	0	
+0	0	0	O	7	10	3	0		6	12	3	0	
+1	0	0	#	8	1	0	0		9	0	0	0	
+1	0	0	#	8	2	4	0		9	1	4	0	
+0	1	34	R	8	2	4	1	RENA	4	2	9	0	
+0	0	0	E	8	2	4	0		6	3	4	0	
+0	0	0	N	8	2	4	0		6	4	3	0	
+0	0	0	A	8	2	4	0		5	5	8	0	
+1	0	0	#	8	7	0	0		9	6	4	0	
+1	0	0	#	8	8	0	0		9	7	3	0	
+1	0	0	#	8	9	4	0		9	8	3	0	
+0	1	35	Y	8	9	4	1	YOST	8	9	3	1	YOU
+0	0	0	O	8	9	4	0		0	10	9	0	
+0	0	0	S	8	9	4	0		5	11	4	0	
+0	0	0	T	8	9	4	0		6	12	3	0	
+1	0	0	#	9	1	3	0		10	0	3	0	
+0	1	36	O	9	1	3	1	ONS	9	1	4	1	OWIE
+0	0	0	N	9	1	3	0		4	2	9	0	
+0	0	0	S	9	1	3	0		6	3	4	0	
+1	0	0	#	9	5	5	0		10	4	3	0	
+0	1	37	K	9	5	5	1	KOTTO	5	5	8	0	
+0	1	38	O	9	5	5	0		9	6	4	1	OVAL
+0	1	39	T	9	5	5	0		9	7	3	1	TIM
+0	1	40	T	9	5	5	0		9	8	3	1	TOA
+0	0	0	O	9	5	5	0		8	9	3	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	41	T	10	0	3	1	TWO	10	0	3	1	TIE
+0	0	0	W	10	0	3	0		9	1	4	0	
+0	0	0	O	10	0	3	0		4	2	9	0	
+1	0	0	#	10	4	9	0		11	3	0	0	
+0	1	42	D	10	4	9	1	DEVIOUSLY	10	4	3	1	DOS
+0	0	0	E	10	4	9	0		5	5	8	0	
+0	0	0	V	10	4	9	0		9	6	4	0	
+0	0	0	I	10	4	9	0		9	7	3	0	
+0	0	0	O	10	4	9	0		9	8	3	0	
+0	0	0	U	10	4	9	0		8	9	3	0	
+0	1	43	S	10	4	9	0		10	10	3	1	SQR
+0	1	44	L	10	4	9	0		10	11	3	1	LOY
+0	1	45	Y	10	4	9	0		10	12	3	1	YMA
+0	1	46	I	11	0	3	1	IIN	10	0	3	0	
+0	0	0	I	11	0	3	0		9	1	4	0	
+0	0	0	N	11	0	3	0		4	2	9	0	
+1	0	0	#	11	4	5	0		12	3	0	0	
+0	1	47	O	11	4	5	1	OSAMA	10	4	3	0	
+0	0	0	S	11	4	5	0		5	5	8	0	
+0	0	0	A	11	4	5	0		9	6	4	0	
+0	0	0	M	11	4	5	0		9	7	3	0	
+0	0	0	A	11	4	5	0		9	8	3	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	48	Q	11	10	3	1	QOM	10	10	3	0	
+0	0	0	O	11	10	3	0		10	11	3	0	
+0	0	0	M	11	10	3	0		10	12	3	0	
+0	1	49	E	12	0	3	1	EEE	10	0	3	0	
+0	0	0	E	12	0	3	0		9	1	4	0	
+0	0	0	E	12	0	3	0		4	2	9	0	
+1	0	0	#	12	4	3	0		13	3	0	0	
+0	1	50	S	12	4	3	1	SNL	10	4	3	0	
+0	0	0	N	12	4	3	0		5	5	8	0	
+0	0	0	L	12	4	3	0		9	6	4	0	
+1	0	0	#	12	8	0	0		13	7	0	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	51	R	12	10	3	1	RYA	10	10	3	0	
+0	0	0	Y	12	10	3	0		10	11	3	0	
+0	0	0	A	12	10	3	0		10	12	3	0	
+29
+1	SIR	Madam's partner
+4	PMS	Evenings, briefly
+7	CLX	XX times VIII
+10	TRI	Prefix with -mester
+11	BELAY	Fasten, as a ship's rope
+13	EEK	Clich
+14	RANSOMERS	They might cut and paste letters
+16	NGS	Riot-stopping grps.
+17	EKMAQ	Camera lens setting
+18	STG	Brit. money
+19	OLAV	Norway's patron saint
+22	AXLE	Auto shaft
+24	RAL	"Too-ra-loo-ra-loo-___"
+25	IMMERSE	Dunk
+28	BULLETSESSION	Shoot-out?
+32	DONIMUS	Entertainer seen on MSNBC
+33	MNO	Alphabet trio
+34	RENA	Sofer of soaps
+35	YOST	Baseball's "Walking Man" Eddie
+36	ONS	Roll-___
+37	KOTTO	Actor Yaphet ___, of TV
+41	TWO	Number of X's in this puzzle's answer
+42	DEVIOUSLY	Behind someone's back
+46	IIN	"There is no ___ team"
+47	OSAMA	2003 Afghani film that won a Golden Globe for Best Foreign Language Film
+48	QOM	Shiite center in Iran
+49	EEE	Loafer letters
+50	SNL	TV inits. since 10/11/75
+51	RYA	Hand-woven Scandinavian rug
+33
+1	STR	Orch. section
+2	IRA	It may be money in the bank: Abbr.
+3	RIN	Old Japanese coin
+4	PLEA	"Let me go!" e.g.
+5	MARQAMES	Box office draws
+6	SYS	Way: Abbr.
+7	CENTESIMO	Hundredth of a lira
+8	LEGG	___ Mason (asset management firm)
+9	XKS	Ace reliever Robb
+11	BOK	___ choy (Chinese vegetable)
+12	EMM	Kind of film, in brief
+15	SEV	Unspecified no.
+18	SLRS	Certain cameras: Abbr.
+19	ORB	Heavenly body
+20	LAUD	Glorify
+21	ALLORNONE	Go-for-broke choice
+23	XES	Simple signatures
+25	ITMAKESN	"Huh?!"
+26	MSU	Big Ten sch.
+27	EONS	Long periods
+29	LNES	Keglers' places
+30	EIN	"___ weites Feld" (G
+31	NOT	"___ too shabby"
+35	YOU	"___ and whose army?"
+36	OWIE	Sting, in baby talk
+38	OVAL	Like an oxeye window
+39	TIM	Allen of "Home Improvement"
+40	TOA	Generous ___ fault
+41	TIE	20-20, e.g.
+42	DOS	Coiffures
+43	SQR	Plaza abbr.
+44	LOY	1934 Powell co-star
+45	YMA	Peruvian Sumac

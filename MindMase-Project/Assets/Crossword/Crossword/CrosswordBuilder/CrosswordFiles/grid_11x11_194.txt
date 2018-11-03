@@ -1,0 +1,169 @@
+grid_11x11_194
+11
+1	0	0	#	0	1	5	0		1	0	0	0	
+0	1	1	S	0	1	5	1	SPOOL	0	1	6	1	SPLEEN
+0	1	2	P	0	1	5	0		0	2	6	1	PHOEBE
+0	1	3	O	0	1	5	0		0	3	3	1	OER
+0	1	4	O	0	1	5	0		0	4	3	1	ONI
+0	1	5	L	0	1	5	0		0	5	3	1	LON
+1	0	0	#	0	7	0	0		1	6	6	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	6	D	0	8	3	1	DOI	0	8	4	1	DEED
+0	1	7	O	0	8	3	0		0	9	4	1	ONUE
+0	1	8	I	0	8	3	0		0	10	3	1	IER
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	9	P	1	1	6	1	PHENOL	0	1	6	0	
+0	0	0	H	1	1	6	0		0	2	6	0	
+0	0	0	E	1	1	6	0		0	3	3	0	
+0	0	0	N	1	1	6	0		0	4	3	0	
+0	0	0	O	1	1	6	0		0	5	3	0	
+0	1	10	L	1	1	6	0		1	6	6	1	LSEVEN
+1	0	0	#	1	8	3	0		2	7	0	0	
+0	1	11	E	1	8	3	1	ENE	0	8	4	0	
+0	0	0	N	1	8	3	0		0	9	4	0	
+0	0	0	E	1	8	3	0		0	10	3	0	
+0	1	12	F	2	0	7	1	FLORINS	2	0	3	1	FDR
+0	0	0	L	2	0	7	0		0	1	6	0	
+0	0	0	O	2	0	7	0		0	2	6	0	
+0	0	0	R	2	0	7	0		0	3	3	0	
+0	0	0	I	2	0	7	0		0	4	3	0	
+0	0	0	N	2	0	7	0		0	5	3	0	
+0	0	0	S	2	0	7	0		1	6	6	0	
+1	0	0	#	2	8	3	0		3	7	3	0	
+0	1	13	E	2	8	3	1	EUR	0	8	4	0	
+0	0	0	U	2	8	3	0		0	9	4	0	
+0	0	0	R	2	8	3	0		0	10	3	0	
+0	1	14	D	3	0	3	1	DEE	2	0	3	0	
+0	0	0	E	3	0	3	0		0	1	6	0	
+0	0	0	E	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	0	0		4	3	0	0	
+1	0	0	#	3	5	0	0		4	4	6	0	
+1	0	0	#	3	6	4	0		4	5	3	0	
+0	1	15	E	3	6	4	1	ERDE	1	6	6	0	
+0	1	16	R	3	6	4	0		3	7	3	1	RET
+0	0	0	D	3	6	4	0		0	8	4	0	
+0	0	0	E	3	6	4	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	17	R	4	0	3	1	REB	2	0	3	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	B	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	4	0		5	3	3	0	
+0	1	18	C	4	4	4	1	CAVE	4	4	6	1	CNOTES
+0	1	19	A	4	4	4	0		4	5	3	1	ATA
+0	0	0	V	4	4	4	0		1	6	6	0	
+0	0	0	E	4	4	4	0		3	7	3	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	20	N	5	1	9	1	NEONTETRA	0	1	6	0	
+0	0	0	E	5	1	9	0		0	2	6	0	
+0	1	21	O	5	1	9	0		5	3	3	1	ODE
+0	0	0	N	5	1	9	0		4	4	6	0	
+0	0	0	T	5	1	9	0		4	5	3	0	
+0	0	0	E	5	1	9	0		1	6	6	0	
+0	0	0	T	5	1	9	0		3	7	3	0	
+0	1	22	R	5	1	9	0		5	8	6	1	REALLY
+0	1	23	A	5	1	9	0		5	9	6	1	ADRATE
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	4	0		7	2	4	0	
+0	1	24	D	6	3	4	1	DOAN	5	3	3	0	
+0	0	0	O	6	3	4	0		4	4	6	0	
+0	0	0	A	6	3	4	0		4	5	3	0	
+0	0	0	N	6	3	4	0		1	6	6	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	25	E	6	8	3	1	EDO	5	8	6	0	
+0	0	0	D	6	8	3	0		5	9	6	0	
+0	1	26	O	6	8	3	0		6	10	3	1	OPP
+1	0	0	#	7	1	4	0		8	0	3	0	
+0	1	27	A	7	1	4	1	ANET	7	1	4	1	AMOR
+0	1	28	N	7	1	4	0		7	2	4	1	NSEC
+0	0	0	E	7	1	4	0		5	3	3	0	
+0	0	0	T	7	1	4	0		4	4	6	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	0	0		8	6	3	0	
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	29	A	7	8	3	1	ARP	5	8	6	0	
+0	0	0	R	7	8	3	0		5	9	6	0	
+0	0	0	P	7	8	3	0		6	10	3	0	
+0	1	30	H	8	0	3	1	HMS	8	0	3	1	HEM
+0	0	0	M	8	0	3	0		7	1	4	0	
+0	0	0	S	8	0	3	0		7	2	4	0	
+1	0	0	#	8	4	7	0		9	3	0	0	
+0	1	31	E	8	4	7	1	EARFLAP	4	4	6	0	
+0	1	32	A	8	4	7	0		8	5	3	1	APA
+0	1	33	R	8	4	7	0		8	6	3	1	RON
+0	1	34	F	8	4	7	0		8	7	3	1	FIE
+0	0	0	L	8	4	7	0		5	8	6	0	
+0	0	0	A	8	4	7	0		5	9	6	0	
+0	0	0	P	8	4	7	0		6	10	3	0	
+0	1	35	E	9	0	3	1	EOE	8	0	3	0	
+0	0	0	O	9	0	3	0		7	1	4	0	
+0	0	0	E	9	0	3	0		7	2	4	0	
+1	0	0	#	9	4	6	0		10	3	0	0	
+0	1	36	S	9	4	6	1	SPOILT	4	4	6	0	
+0	0	0	P	9	4	6	0		8	5	3	0	
+0	0	0	O	9	4	6	0		8	6	3	0	
+0	0	0	I	9	4	6	0		8	7	3	0	
+0	0	0	L	9	4	6	0		5	8	6	0	
+0	0	0	T	9	4	6	0		5	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	37	M	10	0	3	1	MRC	8	0	3	0	
+0	0	0	R	10	0	3	0		7	1	4	0	
+0	0	0	C	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	5	0		11	4	0	0	
+0	1	38	A	10	5	5	1	ANEYE	8	5	3	0	
+0	0	0	N	10	5	5	0		8	6	3	0	
+0	0	0	E	10	5	5	0		8	7	3	0	
+0	0	0	Y	10	5	5	0		5	8	6	0	
+0	0	0	E	10	5	5	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	SPOOL	Twine holder
+6	DOI	"And how!"
+9	PHENOL	Embalming chemical
+11	ENE	Opposite of WSW
+12	FLORINS	Dutch money
+13	EUR	Union land: Abbr.
+14	DEE	Low mark
+15	ERDE	"Das Lied von der ___"
+17	REB	Hardly a Yankee fan
+18	CAVE	Grotto
+20	NEONTETRA	Bright school member
+24	DOAN	Druggist for whom some commercial pills are named
+25	EDO	Conductor de Waart
+27	ANET	Work without ___ (take risks)
+29	ARP	Klee contemporary
+30	HMS	Horatio Nelson's ___ Victory
+31	EARFLAP	Winter cap feature
+35	EOE	Job ad letters
+36	SPOILT	Gone bad
+37	MRC	"Happy Days" father, informally
+38	ANEYE	Keep ___ out for
+23
+1	SPLEEN	Anger
+2	PHOEBE	"Friends" character
+3	OER	Across, in verse
+4	ONI	Clandestine maritime org.
+5	LON	First name in chillers
+6	DEED	Monopoly card
+7	ONUE	When expected
+8	IER	Hotel addition?
+10	LSEVEN	Square, in 1950s slang, indicated visually by a two-hand gesture
+12	FDR	New Deal pres.
+16	RET	Part of A.A.R.P.: Abbr.
+18	CNOTES	Large pieces of cabbage?
+19	ATA	___ price
+21	ODE	Allen Ginsberg's "Plutonian ___"
+22	REALLY	Remark of exasperation
+23	ADRATE	Pitcher's charge
+26	OPP	Antonym: Abbr.
+27	AMOR	Love personified
+28	NSEC	Tiny time period: Abbr.
+30	HEM	Folded-over skirt part
+32	APA	Therapists' org.
+33	RON	One of the Reagans
+34	FIE	"Fee, ___, foe, fum"

@@ -1,0 +1,167 @@
+grid_11x11_57
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	S	0	1	3	1	SKD	0	1	6	1	SHRPEN
+0	1	2	K	0	1	3	0		0	2	6	1	KUWAIT
+0	1	3	D	0	1	3	0		0	3	3	1	DRI
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	4	0		1	6	5	0	
+0	1	4	C	0	7	4	1	CEES	0	7	6	1	COLLAR
+0	1	5	E	0	7	4	0		0	8	4	1	ENNE
+0	1	6	E	0	7	4	0		0	9	4	1	EGAD
+0	1	7	S	0	7	4	0		0	10	3	1	SSE
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	8	H	1	1	4	1	HURT	0	1	6	0	
+0	0	0	U	1	1	4	0		0	2	6	0	
+0	0	0	R	1	1	4	0		0	3	3	0	
+0	1	9	T	1	1	4	0		1	4	3	1	TNT
+1	0	0	#	1	6	5	0		2	5	0	0	
+0	1	10	G	1	6	5	1	GONGS	1	6	5	1	GULAG
+0	0	0	O	1	6	5	0		0	7	6	0	
+0	0	0	N	1	6	5	0		0	8	4	0	
+0	0	0	G	1	6	5	0		0	9	4	0	
+0	0	0	S	1	6	5	0		0	10	3	0	
+0	1	11	E	2	0	5	1	ERWIN	2	0	3	1	EES
+0	0	0	R	2	0	5	0		0	1	6	0	
+0	0	0	W	2	0	5	0		0	2	6	0	
+0	0	0	I	2	0	5	0		0	3	3	0	
+0	0	0	N	2	0	5	0		1	4	3	0	
+1	0	0	#	2	6	5	0		3	5	5	0	
+0	1	12	U	2	6	5	1	ULNAE	1	6	5	0	
+0	0	0	L	2	6	5	0		0	7	6	0	
+0	0	0	N	2	6	5	0		0	8	4	0	
+0	0	0	A	2	6	5	0		0	9	4	0	
+0	0	0	E	2	6	5	0		0	10	3	0	
+0	1	13	E	3	0	3	1	EPA	2	0	3	0	
+0	0	0	P	3	0	3	0		0	1	6	0	
+0	0	0	A	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	6	0		4	3	0	0	
+0	1	14	T	3	4	6	1	TILLED	1	4	3	0	
+0	1	15	I	3	4	6	0		3	5	5	1	ILEAC
+0	0	0	L	3	4	6	0		1	6	5	0	
+0	0	0	L	3	4	6	0		0	7	6	0	
+0	0	0	E	3	4	6	0		0	8	4	0	
+0	0	0	D	3	4	6	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	16	S	4	0	3	1	SEI	2	0	3	0	
+0	0	0	E	4	0	3	0		0	1	6	0	
+0	0	0	I	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	3	0		5	4	5	0	
+0	1	17	L	4	5	3	1	LAA	3	5	5	0	
+0	0	0	A	4	5	3	0		1	6	5	0	
+0	0	0	A	4	5	3	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	18	N	5	1	9	1	NTHDEGREE	0	1	6	0	
+0	0	0	T	5	1	9	0		0	2	6	0	
+0	1	19	H	5	1	9	0		5	3	6	1	HOOTED
+0	1	20	D	5	1	9	0		5	4	5	1	DDAYS
+0	0	0	E	5	1	9	0		3	5	5	0	
+0	0	0	G	5	1	9	0		1	6	5	0	
+0	0	0	R	5	1	9	0		0	7	6	0	
+0	1	21	E	5	1	9	0		5	8	6	1	ENDOWS
+0	1	22	E	5	1	9	0		5	9	6	1	ETHYNE
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	23	O	6	3	3	1	ODA	5	3	6	0	
+0	0	0	D	6	3	3	0		5	4	5	0	
+0	0	0	A	6	3	3	0		3	5	5	0	
+1	0	0	#	6	7	0	0		7	6	3	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	24	N	6	8	3	1	NTS	5	8	6	0	
+0	0	0	T	6	8	3	0		5	9	6	0	
+0	1	25	S	6	8	3	0		6	10	3	1	SLS
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	26	B	7	1	6	1	BROACH	7	1	4	1	BEMA
+0	1	27	R	7	1	6	0		7	2	4	1	RIND
+0	0	0	O	7	1	6	0		5	3	6	0	
+0	0	0	A	7	1	6	0		5	4	5	0	
+0	0	0	C	7	1	6	0		3	5	5	0	
+0	1	28	H	7	1	6	0		7	6	3	1	HWY
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	29	D	7	8	3	1	DHL	5	8	6	0	
+0	0	0	H	7	8	3	0		5	9	6	0	
+0	0	0	L	7	8	3	0		6	10	3	0	
+0	1	30	D	8	0	5	1	DEITY	8	0	3	1	DOM
+0	0	0	E	8	0	5	0		7	1	4	0	
+0	0	0	I	8	0	5	0		7	2	4	0	
+0	0	0	T	8	0	5	0		5	3	6	0	
+0	0	0	Y	8	0	5	0		5	4	5	0	
+1	0	0	#	8	6	5	0		9	5	0	0	
+0	1	31	W	8	6	5	1	WBOYS	7	6	3	0	
+0	1	32	B	8	6	5	0		8	7	3	1	BAO
+0	0	0	O	8	6	5	0		5	8	6	0	
+0	0	0	Y	8	6	5	0		5	9	6	0	
+0	0	0	S	8	6	5	0		6	10	3	0	
+0	1	33	O	9	0	5	1	OMNES	8	0	3	0	
+0	0	0	M	9	0	5	0		7	1	4	0	
+0	0	0	N	9	0	5	0		7	2	4	0	
+0	0	0	E	9	0	5	0		5	3	6	0	
+0	0	0	S	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	34	Y	9	6	4	1	YAWN	7	6	3	0	
+0	0	0	A	9	6	4	0		8	7	3	0	
+0	0	0	W	9	6	4	0		5	8	6	0	
+0	0	0	N	9	6	4	0		5	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	35	M	10	0	4	1	MADD	8	0	3	0	
+0	0	0	A	10	0	4	0		7	1	4	0	
+0	0	0	D	10	0	4	0		7	2	4	0	
+0	0	0	D	10	0	4	0		5	3	6	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	36	O	10	7	3	1	OSE	8	7	3	0	
+0	0	0	S	10	7	3	0		5	8	6	0	
+0	0	0	E	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	SKD	Dog doc
+4	CEES	Middling grades
+8	HURT	Sprained, as an ankle
+10	GONGS	Items hit with hammers
+11	ERWIN	Field marshal Rommel
+12	ULNAE	Arm bones
+13	EPA	Air quality tester: Abbr.
+14	TILLED	Cultivated
+16	SEI	Six, in Tuscany
+17	LAA	"___ note to follow ..."
+18	NTHDEGREE	Utmost
+23	ODA	___ Mae (Whoopi's "Ghost" role)
+24	NTS	Windows options
+26	BROACH	Raise, as a topic
+29	DHL	FedEx rival
+30	DEITY	Jupiter or Zeus
+31	WBOYS	Team helpers
+33	OMNES	All, in old-time stage directions
+34	YAWN	Gape
+35	MADD	Org. with a "Designate a Driver" program
+36	OSE	Suffix with malt
+21
+1	SHRPEN	Make a point, perhaps
+2	KUWAIT	Emir's land
+3	DRI	Demoisturized, in commercial names
+4	COLLAR	Arrest
+5	ENNE	Trix alternative?
+6	EGAD	Edwardian expletive
+7	SSE	Bikini-to-Fiji dir.
+9	TNT	Big bang maker
+10	GULAG	Soviet labor camp
+11	EES	Wiring experts: Abbr.
+15	ILEAC	Of the lower small intestine
+19	HOOTED	Sounded like an owl
+20	DDAYS	Critical times
+21	ENDOWS	Funds
+22	ETHYNE	Simple hydrocarbon
+25	SLS	Some Mercedes-Benzes
+26	BEMA	Synagogue stage
+27	RIND	Coat
+28	HWY	D.O.T. concern
+30	DOM	Suffix with official
+32	BAO	Monopoly deed

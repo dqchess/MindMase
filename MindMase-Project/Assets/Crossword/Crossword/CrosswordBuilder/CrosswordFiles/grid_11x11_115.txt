@@ -1,0 +1,167 @@
+grid_11x11_115
+11
+1	0	0	#	0	1	0	0		1	0	4	0	
+1	0	0	#	0	2	0	0		1	1	5	0	
+1	0	0	#	0	3	3	0		1	2	5	0	
+0	1	1	D	0	3	3	1	DEC	0	3	4	1	DELS
+0	1	2	E	0	3	3	0		0	4	3	1	ELI
+0	1	3	C	0	3	3	0		0	5	3	1	CDT
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	E	0	7	3	1	EMB	0	7	6	1	EUROPA
+0	1	5	M	0	7	3	0		0	8	4	1	MLIT
+0	1	6	B	0	7	3	0		0	9	4	1	BEAD
+1	0	0	#	0	11	0	0		1	10	3	0	
+0	1	7	U	1	0	6	1	UNSELD	1	0	4	1	UEYS
+0	1	8	N	1	0	6	0		1	1	5	1	NGAIO
+0	1	9	S	1	0	6	0		1	2	5	1	SAKES
+0	0	0	E	1	0	6	0		0	3	4	0	
+0	0	0	L	1	0	6	0		0	4	3	0	
+0	0	0	D	1	0	6	0		0	5	3	0	
+1	0	0	#	1	7	4	0		2	6	4	0	
+0	1	10	U	1	7	4	1	ULES	0	7	6	0	
+0	0	0	L	1	7	4	0		0	8	4	0	
+0	0	0	E	1	7	4	0		0	9	4	0	
+0	1	11	S	1	7	4	0		1	10	3	1	SNO
+0	1	12	E	2	0	11	1	EGALITARIAN	1	0	4	0	
+0	0	0	G	2	0	11	0		1	1	5	0	
+0	0	0	A	2	0	11	0		1	2	5	0	
+0	0	0	L	2	0	11	0		0	3	4	0	
+0	0	0	I	2	0	11	0		0	4	3	0	
+0	0	0	T	2	0	11	0		0	5	3	0	
+0	1	13	A	2	0	11	0		2	6	4	1	ANAP
+0	0	0	R	2	0	11	0		0	7	6	0	
+0	0	0	I	2	0	11	0		0	8	4	0	
+0	0	0	A	2	0	11	0		0	9	4	0	
+0	0	0	N	2	0	11	0		1	10	3	0	
+0	1	14	Y	3	0	4	1	YAKS	1	0	4	0	
+0	0	0	A	3	0	4	0		1	1	5	0	
+0	0	0	K	3	0	4	0		1	2	5	0	
+0	0	0	S	3	0	4	0		0	3	4	0	
+1	0	0	#	3	5	0	0		4	4	0	0	
+1	0	0	#	3	6	5	0		4	5	3	0	
+0	1	15	N	3	6	5	1	NOTDO	2	6	4	0	
+0	0	0	O	3	6	5	0		0	7	6	0	
+0	0	0	T	3	6	5	0		0	8	4	0	
+0	0	0	D	3	6	5	0		0	9	4	0	
+0	0	0	O	3	6	5	0		1	10	3	0	
+0	1	16	S	4	0	3	1	SIE	1	0	4	0	
+0	0	0	I	4	0	3	0		1	1	5	0	
+0	0	0	E	4	0	3	0		1	2	5	0	
+1	0	0	#	4	4	0	0		5	3	6	0	
+1	0	0	#	4	5	3	0		5	4	4	0	
+0	1	17	N	4	5	3	1	NAP	4	5	3	1	NOA
+0	0	0	A	4	5	3	0		2	6	4	0	
+0	0	0	P	4	5	3	0		0	7	6	0	
+1	0	0	#	4	9	0	0		5	8	5	0	
+1	0	0	#	4	10	0	0		5	9	5	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	18	O	5	1	9	1	OSTEOPATH	1	1	5	0	
+0	0	0	S	5	1	9	0		1	2	5	0	
+0	1	19	T	5	1	9	0		5	3	6	1	TIMBRE
+0	1	20	E	5	1	9	0		5	4	4	1	EDEL
+0	0	0	O	5	1	9	0		4	5	3	0	
+0	0	0	P	5	1	9	0		2	6	4	0	
+0	0	0	A	5	1	9	0		0	7	6	0	
+0	1	21	T	5	1	9	0		5	8	5	1	TROAS
+0	1	22	H	5	1	9	0		5	9	5	1	HATLO
+1	0	0	#	5	11	0	0		6	10	4	0	
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	23	I	6	3	3	1	IDA	5	3	6	0	
+0	0	0	D	6	3	3	0		5	4	4	0	
+0	0	0	A	6	3	3	0		4	5	3	0	
+1	0	0	#	6	7	0	0		7	6	0	0	
+1	0	0	#	6	8	3	0		7	7	4	0	
+0	1	24	R	6	8	3	1	RAJ	5	8	5	0	
+0	0	0	A	6	8	3	0		5	9	5	0	
+0	1	25	J	6	8	3	0		6	10	4	1	JTKN
+0	1	26	C	7	0	5	1	CRIME	7	0	3	1	CST
+0	1	27	R	7	0	5	0		7	1	4	1	RTES
+0	1	28	I	7	0	5	0		7	2	4	1	IATE
+0	0	0	M	7	0	5	0		5	3	6	0	
+0	0	0	E	7	0	5	0		5	4	4	0	
+1	0	0	#	7	6	0	0		8	5	3	0	
+1	0	0	#	7	7	4	0		8	6	3	0	
+0	1	29	L	7	7	4	1	LOTT	7	7	4	1	LTYR
+0	0	0	O	7	7	4	0		5	8	5	0	
+0	0	0	T	7	7	4	0		5	9	5	0	
+0	0	0	T	7	7	4	0		6	10	4	0	
+0	1	30	S	8	0	11	1	STABLESTALK	7	0	3	0	
+0	0	0	T	8	0	11	0		7	1	4	0	
+0	0	0	A	8	0	11	0		7	2	4	0	
+0	0	0	B	8	0	11	0		5	3	6	0	
+0	0	0	L	8	0	11	0		5	4	4	0	
+0	1	31	E	8	0	11	0		8	5	3	1	ELY
+0	1	32	S	8	0	11	0		8	6	3	1	SAE
+0	0	0	T	8	0	11	0		7	7	4	0	
+0	0	0	A	8	0	11	0		5	8	5	0	
+0	0	0	L	8	0	11	0		5	9	5	0	
+0	0	0	K	8	0	11	0		6	10	4	0	
+0	1	33	T	9	0	4	1	TETR	7	0	3	0	
+0	0	0	E	9	0	4	0		7	1	4	0	
+0	0	0	T	9	0	4	0		7	2	4	0	
+0	0	0	R	9	0	4	0		5	3	6	0	
+1	0	0	#	9	5	6	0		10	4	0	0	
+0	1	34	L	9	5	6	1	LAYSON	8	5	3	0	
+0	0	0	A	9	5	6	0		8	6	3	0	
+0	0	0	Y	9	5	6	0		7	7	4	0	
+0	0	0	S	9	5	6	0		5	8	5	0	
+0	0	0	O	9	5	6	0		5	9	5	0	
+0	0	0	N	9	5	6	0		6	10	4	0	
+1	0	0	#	10	1	3	0		11	0	0	0	
+0	1	35	S	10	1	3	1	SEE	7	1	4	0	
+0	0	0	E	10	1	3	0		7	2	4	0	
+0	0	0	E	10	1	3	0		5	3	6	0	
+1	0	0	#	10	5	3	0		11	4	0	0	
+0	1	36	Y	10	5	3	1	YER	8	5	3	0	
+0	0	0	E	10	5	3	0		8	6	3	0	
+0	0	0	R	10	5	3	0		7	7	4	0	
+1	0	0	#	10	9	0	0		11	8	0	0	
+1	0	0	#	10	10	0	0		11	9	0	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	DEC	Read a New Book Mo.
+4	EMB	Massachusetts Ave. bldg., in D.C.
+7	UNSELD	1969 N.B.A. M.V.P. who played for the Bullets
+10	ULES	Diminutive suffixes
+12	EGALITARIAN	Classless society supporter
+14	YAKS	Goes on and on and...
+15	NOTDO	Stay away from
+16	SIE	Prussian pronoun
+17	NAP	What you may do when you're beat
+18	OSTEOPATH	Master manipulator
+23	IDA	First lady McKinley
+24	RAJ	Literally, "reign" in Hindi
+26	CRIME	It may be organized
+29	LOTT	Trent of Mississippi
+30	STABLESTALK	Piece of hay?
+33	TETR	Having four parts: Prefix
+34	LAYSON	Applies
+35	SEE	Receive
+36	YER	"___ out!" (ump's call)
+23
+1	DELS	Pol. convention attendees
+2	ELI	Certain Ivy Leaguer
+3	CDT	What the Cubs play games in: Abbr.
+4	EUROPA	Princess whom Zeus carried off to Crete
+5	MLIT	Like a romantic evening, maybe
+6	BEAD	Rosary component
+7	UEYS	180
+8	NGAIO	Marsh of mysteries
+9	SAKES	"___ alive!"
+11	SNO	Prefix in many winter product names
+13	ANAP	Take ___ (doze)
+17	NOA	"... ___ thousand times ..."
+19	TIMBRE	Sound quality
+20	EDEL	Writer of the five-volume biography "Henry James"
+21	TROAS	Locale for a vision of the Apostle Paul
+22	HATLO	"Little Iodine" cartoonist
+25	JTKN	911 responders, for short
+26	CST	Winter hrs. in New Orleans
+27	RTES	Tpkes.
+28	IATE	"It must've been something ___"
+29	LTYR	A great dist.
+31	ELY	Ron of "Tarzan"
+32	SAE	Letter encl. to facilitate a reply

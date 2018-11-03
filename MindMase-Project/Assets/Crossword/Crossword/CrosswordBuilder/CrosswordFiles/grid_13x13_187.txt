@@ -1,0 +1,233 @@
+grid_13x13_187
+13
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	3	0		1	1	3	0	
+0	1	1	I	0	2	3	1	ISU	0	2	12	1	INDIANAPACER
+0	1	2	S	0	2	3	0		0	3	3	1	SIE
+0	1	3	U	0	2	3	0		0	4	5	1	UANDD
+1	0	0	#	0	6	0	0		1	5	3	0	
+1	0	0	#	0	7	3	0		1	6	0	0	
+0	1	4	T	0	7	3	1	TUP	0	7	3	1	TCM
+0	1	5	U	0	7	3	0		0	8	6	1	UBANGI
+0	1	6	P	0	7	3	0		0	9	4	1	PSST
+1	0	0	#	0	11	0	0		1	10	12	0	
+1	0	0	#	0	12	0	0		1	11	7	0	
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	E	1	0	6	1	EONIAN	1	0	3	1	EAU
+0	1	8	O	1	0	6	0		1	1	3	1	ORB
+0	0	0	N	1	0	6	0		0	2	12	0	
+0	0	0	I	1	0	6	0		0	3	3	0	
+0	0	0	A	1	0	6	0		0	4	5	0	
+0	1	9	N	1	0	6	0		1	5	3	1	NTS
+1	0	0	#	1	7	5	0		2	6	0	0	
+0	1	10	C	1	7	5	1	CBSTV	0	7	3	0	
+0	0	0	B	1	7	5	0		0	8	6	0	
+0	0	0	S	1	7	5	0		0	9	4	0	
+0	1	11	T	1	7	5	0		1	10	12	1	THETREATISON
+0	1	12	V	1	7	5	0		1	11	7	1	VESSELS
+1	0	0	#	1	13	0	0		2	12	4	0	
+0	1	13	A	2	0	6	1	ARDENT	1	0	3	0	
+0	0	0	R	2	0	6	0		1	1	3	0	
+0	0	0	D	2	0	6	0		0	2	12	0	
+0	0	0	E	2	0	6	0		0	3	3	0	
+0	0	0	N	2	0	6	0		0	4	5	0	
+0	0	0	T	2	0	6	0		1	5	3	0	
+1	0	0	#	2	7	6	0		3	6	7	0	
+0	1	14	M	2	7	6	1	MASHED	0	7	3	0	
+0	0	0	A	2	7	6	0		0	8	6	0	
+0	0	0	S	2	7	6	0		0	9	4	0	
+0	0	0	H	2	7	6	0		1	10	12	0	
+0	0	0	E	2	7	6	0		1	11	7	0	
+0	1	15	D	2	7	6	0		2	12	4	1	DTEN
+0	1	16	U	3	0	3	1	UBI	1	0	3	0	
+0	0	0	B	3	0	3	0		1	1	3	0	
+0	0	0	I	3	0	3	0		0	2	12	0	
+1	0	0	#	3	4	3	0		4	3	3	0	
+0	1	17	D	3	4	3	1	DSM	0	4	5	0	
+0	0	0	S	3	4	3	0		1	5	3	0	
+0	1	18	M	3	4	3	0		3	6	7	1	MODELAS
+1	0	0	#	3	8	5	0		4	7	4	0	
+0	1	19	N	3	8	5	1	NTEST	0	8	6	0	
+0	0	0	T	3	8	5	0		0	9	4	0	
+0	0	0	E	3	8	5	0		1	10	12	0	
+0	0	0	S	3	8	5	0		1	11	7	0	
+0	0	0	T	3	8	5	0		2	12	4	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	3	0		5	1	7	0	
+0	1	20	A	4	2	3	1	ARD	0	2	12	0	
+0	1	21	R	4	2	3	0		4	3	3	1	RAR
+0	0	0	D	4	2	3	0		0	4	5	0	
+1	0	0	#	4	6	3	0		5	5	4	0	
+0	1	22	O	4	6	3	1	OMG	3	6	7	0	
+0	1	23	M	4	6	3	0		4	7	4	1	MXIV
+0	0	0	G	4	6	3	0		0	8	6	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	24	T	4	10	3	1	TSE	1	10	12	0	
+0	0	0	S	4	10	3	0		1	11	7	0	
+0	0	0	E	4	10	3	0		2	12	4	0	
+1	0	0	#	5	1	3	0		6	0	0	0	
+0	1	25	R	5	1	3	1	RNA	5	1	7	1	RELAYED
+0	0	0	N	5	1	3	0		0	2	12	0	
+0	0	0	A	5	1	3	0		4	3	3	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	26	M	5	5	4	1	MDXI	5	5	4	1	MMDC
+0	0	0	D	5	5	4	0		3	6	7	0	
+0	0	0	X	5	5	4	0		4	7	4	0	
+0	0	0	I	5	5	4	0		0	8	6	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	27	R	5	10	3	1	REN	1	10	12	0	
+0	0	0	E	5	10	3	0		1	11	7	0	
+0	0	0	N	5	10	3	0		2	12	4	0	
+1	0	0	#	6	1	3	0		7	0	4	0	
+0	1	28	E	6	1	3	1	EAR	5	1	7	0	
+0	0	0	A	6	1	3	0		0	2	12	0	
+0	0	0	R	6	1	3	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	29	M	6	5	3	1	MEI	5	5	4	0	
+0	0	0	E	6	5	3	0		3	6	7	0	
+0	0	0	I	6	5	3	0		4	7	4	0	
+1	0	0	#	6	9	3	0		7	8	0	0	
+0	1	30	V	6	9	3	1	VEL	6	9	3	1	VID
+0	0	0	E	6	9	3	0		1	10	12	0	
+0	0	0	L	6	9	3	0		1	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	31	A	7	0	3	1	ALP	7	0	4	1	AQHS
+0	0	0	L	7	0	3	0		5	1	7	0	
+0	0	0	P	7	0	3	0		0	2	12	0	
+1	0	0	#	7	4	4	0		8	3	0	0	
+0	1	32	C	7	4	4	1	CDLV	7	4	6	1	CAJUNS
+0	0	0	D	7	4	4	0		5	5	4	0	
+0	0	0	L	7	4	4	0		3	6	7	0	
+0	0	0	V	7	4	4	0		4	7	4	0	
+1	0	0	#	7	9	3	0		8	8	5	0	
+0	1	33	I	7	9	3	1	IAS	6	9	3	0	
+0	0	0	A	7	9	3	0		1	10	12	0	
+0	0	0	S	7	9	3	0		1	11	7	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	34	Q	8	0	3	1	QAA	7	0	4	0	
+0	0	0	A	8	0	3	0		5	1	7	0	
+0	0	0	A	8	0	3	0		0	2	12	0	
+1	0	0	#	8	4	3	0		9	3	4	0	
+0	1	35	A	8	4	3	1	ACA	7	4	6	0	
+0	0	0	C	8	4	3	0		5	5	4	0	
+0	0	0	A	8	4	3	0		3	6	7	0	
+1	0	0	#	8	8	3	0		9	7	3	0	
+0	1	36	M	8	8	3	1	MDT	8	8	5	1	MAGEE
+0	0	0	D	8	8	3	0		6	9	3	0	
+0	0	0	T	8	8	3	0		1	10	12	0	
+1	0	0	#	8	12	0	0		9	11	3	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	37	H	9	0	5	1	HYCPJ	7	0	4	0	
+0	0	0	Y	9	0	5	0		5	1	7	0	
+0	0	0	C	9	0	5	0		0	2	12	0	
+0	1	38	P	9	0	5	0		9	3	4	1	POUF
+0	0	0	J	9	0	5	0		7	4	6	0	
+1	0	0	#	9	6	3	0		10	5	3	0	
+0	1	39	S	9	6	3	1	SRA	3	6	7	0	
+0	1	40	R	9	6	3	0		9	7	3	1	RED
+0	0	0	A	9	6	3	0		8	8	5	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	41	I	9	10	3	1	IPA	1	10	12	0	
+0	1	42	P	9	10	3	0		9	11	3	1	PAC
+0	1	43	A	9	10	3	0		9	12	3	1	ACR
+0	1	44	S	10	0	6	1	SEEOUT	7	0	4	0	
+0	0	0	E	10	0	6	0		5	1	7	0	
+0	0	0	E	10	0	6	0		0	2	12	0	
+0	0	0	O	10	0	6	0		9	3	4	0	
+0	0	0	U	10	0	6	0		7	4	6	0	
+0	1	45	T	10	0	6	0		10	5	3	1	TKT
+1	0	0	#	10	7	6	0		11	6	0	0	
+0	1	46	E	10	7	6	1	EGGSAC	9	7	3	0	
+0	0	0	G	10	7	6	0		8	8	5	0	
+0	1	47	G	10	7	6	0		10	9	3	1	GMA
+0	0	0	S	10	7	6	0		1	10	12	0	
+0	0	0	A	10	7	6	0		9	11	3	0	
+0	0	0	C	10	7	6	0		9	12	3	0	
+1	0	0	#	11	1	5	0		12	0	0	0	
+0	1	48	D	11	1	5	1	DRUNK	5	1	7	0	
+0	0	0	R	11	1	5	0		0	2	12	0	
+0	0	0	U	11	1	5	0		9	3	4	0	
+0	0	0	N	11	1	5	0		7	4	6	0	
+0	0	0	K	11	1	5	0		10	5	3	0	
+1	0	0	#	11	7	6	0		12	6	0	0	
+0	1	49	D	11	7	6	1	DEMOCR	9	7	3	0	
+0	0	0	E	11	7	6	0		8	8	5	0	
+0	0	0	M	11	7	6	0		10	9	3	0	
+0	0	0	O	11	7	6	0		1	10	12	0	
+0	0	0	C	11	7	6	0		9	11	3	0	
+0	0	0	R	11	7	6	0		9	12	3	0	
+1	0	0	#	12	1	0	0		13	0	0	0	
+1	0	0	#	12	2	0	0		13	1	0	0	
+1	0	0	#	12	3	3	0		13	2	0	0	
+0	1	50	F	12	3	3	1	FST	9	3	4	0	
+0	0	0	S	12	3	3	0		7	4	6	0	
+0	0	0	T	12	3	3	0		10	5	3	0	
+1	0	0	#	12	7	0	0		13	6	0	0	
+1	0	0	#	12	8	3	0		13	7	0	0	
+0	1	51	E	12	8	3	1	EAN	8	8	5	0	
+0	0	0	A	12	8	3	0		10	9	3	0	
+0	0	0	N	12	8	3	0		1	10	12	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+33
+1	ISU	Terre Haute sch.
+4	TUP	Ram, in Ramsgate
+7	EONIAN	Lasting forever
+10	CBSTV	"I Love Lucy" venue
+13	ARDENT	Burning with desire
+14	MASHED	Beat to a pulp
+16	UBI	Where: Lat.
+17	DSM	Mil. award
+19	NTEST	Bikini experiment, for short
+20	ARD	Dull finish?
+22	OMG	"Horrors!," online
+24	TSE	Kung Fu-___ (alternative name for Confucius)
+25	RNA	Messenger's letters
+26	MDXI	Year Cort
+27	REN	Nothing abroad
+28	EAR	Otologist's study
+29	MEI	"Don't tell ___ can't ...!"
+30	VEL	Anemometer reading: Abbr.
+31	ALP	Austrian peak
+32	CDLV	Year the Vandals sacked Rome
+33	IAS	"___ in Icarus" (1979 French thriller)
+34	QAA	Lecture follow-up
+35	ACA	Here, to Javier
+36	MDT	Summer clock setting, in the Rockies: Abbr.
+37	HYCPJ	Sword-and-sandal flicks
+39	SRA	Sp. lady
+41	IPA	Pronunciation guide std.
+44	SEEOUT	Walk to the door
+46	EGGSAC	Thing spun by a spider
+48	DRUNK	Under the table
+49	DEMOCR	Person who likes the blues?
+50	FST	Camera setting
+51	EAN	Caesar's end?
+27
+1	INDIANAPACER	Hoosier pro
+2	SIE	You: Ger.
+3	UANDD	Yo-yoing
+4	TCM	Cable film channel inits.
+5	UBANGI	Congo border river
+6	PSST	Sound before "Yeah, you!"
+7	EAU	It flows through the Seine
+8	ORB	Mercury or Saturn
+9	NTS	Some Windows systems
+11	THETREATISON	"I'll get this round"?
+12	VESSELS	Skiffs and scows
+15	DTEN	Call in the game Battleship
+18	MODELAS	New cars of 1928
+21	RAR	Soldier
+23	MXIV	1014, in history
+25	RELAYED	Not firsthand
+26	MMDC	About six centuries hence
+30	VID	Kid-___ (children's shows)
+31	AQHS	Cutty ___ whisky
+32	CAJUNS	Certain Louisianians
+36	MAGEE	Patrick of "Marat/Sade"
+38	POUF	Hairdo for Snooki of "Jersey Shore"
+40	RED	Part of Roy G. Biv
+42	PAC	One regulated by the F.E.C.
+43	ACR	Horiz.
+45	TKT	Sta. purchase
+47	GMA	Popular a.m. show

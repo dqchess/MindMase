@@ -1,0 +1,311 @@
+grid_15x15_3
+15
+1	0	0	#	0	1	0	0		1	0	0	0	
+1	0	0	#	0	2	4	0		1	1	5	0	
+0	1	1	J	0	2	4	1	JAVA	0	2	6	1	JACUZI
+0	1	2	A	0	2	4	0		0	3	3	1	ATO
+0	1	3	V	0	2	4	0		0	4	4	1	VITA
+0	1	4	A	0	2	4	0		0	5	7	1	AKIHITO
+1	0	0	#	0	7	0	0		1	6	4	0	
+1	0	0	#	0	8	3	0		1	7	0	0	
+0	1	5	A	0	8	3	1	ATL	0	8	4	1	ALLR
+0	1	6	T	0	8	3	0		0	9	7	1	TOOTALL
+0	1	7	L	0	8	3	0		0	10	3	1	LUZ
+1	0	0	#	0	12	3	0		1	11	0	0	
+0	1	8	L	0	12	3	1	LAR	0	12	8	1	LANDPOOR
+0	1	9	A	0	12	3	0		0	13	4	1	ANGE
+0	1	10	R	0	12	3	0		0	14	3	1	RIE
+1	0	0	#	1	1	6	0		2	0	3	0	
+0	1	11	B	1	1	6	1	BATIKS	1	1	5	1	BITER
+0	0	0	A	1	1	6	0		0	2	6	0	
+0	0	0	T	1	1	6	0		0	3	3	0	
+0	0	0	I	1	1	6	0		0	4	4	0	
+0	0	0	K	1	1	6	0		0	5	7	0	
+0	1	12	S	1	1	6	0		1	6	4	1	SNEE
+1	0	0	#	1	8	3	0		2	7	3	0	
+0	1	13	L	1	8	3	1	LOU	0	8	4	0	
+0	0	0	O	1	8	3	0		0	9	7	0	
+0	0	0	U	1	8	3	0		0	10	3	0	
+1	0	0	#	1	12	3	0		2	11	3	0	
+0	1	14	A	1	12	3	1	ANI	0	12	8	0	
+0	0	0	N	1	12	3	0		0	13	4	0	
+0	0	0	I	1	12	3	0		0	14	3	0	
+0	1	15	N	2	0	15	1	NICOTINELOZENGE	2	0	3	1	NSF
+0	0	0	I	2	0	15	0		1	1	5	0	
+0	0	0	C	2	0	15	0		0	2	6	0	
+0	0	0	O	2	0	15	0		0	3	3	0	
+0	0	0	T	2	0	15	0		0	4	4	0	
+0	0	0	I	2	0	15	0		0	5	7	0	
+0	0	0	N	2	0	15	0		1	6	4	0	
+0	1	16	E	2	0	15	0		2	7	3	1	EAD
+0	0	0	L	2	0	15	0		0	8	4	0	
+0	0	0	O	2	0	15	0		0	9	7	0	
+0	0	0	Z	2	0	15	0		0	10	3	0	
+0	1	17	E	2	0	15	0		2	11	3	1	ECI
+0	0	0	N	2	0	15	0		0	12	8	0	
+0	0	0	G	2	0	15	0		0	13	4	0	
+0	0	0	E	2	0	15	0		0	14	3	0	
+0	1	18	S	3	0	3	1	STU	2	0	3	0	
+0	0	0	T	3	0	3	0		1	1	5	0	
+0	0	0	U	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	6	0		4	3	0	0	
+0	1	19	A	3	4	6	1	AHEART	0	4	4	0	
+0	0	0	H	3	4	6	0		0	5	7	0	
+0	0	0	E	3	4	6	0		1	6	4	0	
+0	0	0	A	3	4	6	0		2	7	3	0	
+0	0	0	R	3	4	6	0		0	8	4	0	
+0	0	0	T	3	4	6	0		0	9	7	0	
+1	0	0	#	3	11	3	0		4	10	6	0	
+0	1	20	C	3	11	3	1	CDE	2	11	3	0	
+0	0	0	D	3	11	3	0		0	12	8	0	
+0	0	0	E	3	11	3	0		0	13	4	0	
+1	0	0	#	3	15	0	0		4	14	0	0	
+0	1	21	F	4	0	3	1	FEZ	2	0	3	0	
+0	0	0	E	4	0	3	0		1	1	5	0	
+0	0	0	Z	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	3	0	
+1	0	0	#	4	5	3	0		5	4	6	0	
+0	1	22	I	4	5	3	1	IED	0	5	7	0	
+0	0	0	E	4	5	3	0		1	6	4	0	
+0	0	0	D	4	5	3	0		2	7	3	0	
+1	0	0	#	4	9	4	0		5	8	3	0	
+0	1	23	A	4	9	4	1	APIP	0	9	7	0	
+0	1	24	P	4	9	4	0		4	10	6	1	PISTOL
+0	0	0	I	4	9	4	0		2	11	3	0	
+0	0	0	P	4	9	4	0		0	12	8	0	
+1	0	0	#	4	14	0	0		5	13	3	0	
+1	0	0	#	4	15	0	0		5	14	3	0	
+1	0	0	#	5	1	5	0		6	0	0	0	
+0	1	25	R	5	1	5	1	RINTT	1	1	5	0	
+0	0	0	I	5	1	5	0		0	2	6	0	
+0	1	26	N	5	1	5	0		5	3	3	1	NAS
+0	1	27	T	5	1	5	0		5	4	6	1	TSGARP
+0	0	0	T	5	1	5	0		0	5	7	0	
+1	0	0	#	5	7	0	0		6	6	0	0	
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	28	C	5	8	3	1	CLI	5	8	3	1	CEL
+0	0	0	L	5	8	3	0		0	9	7	0	
+0	0	0	I	5	8	3	0		4	10	6	0	
+1	0	0	#	5	12	3	0		6	11	0	0	
+0	1	29	O	5	12	3	1	ORG	0	12	8	0	
+0	1	30	R	5	12	3	0		5	13	3	1	REF
+0	1	31	G	5	12	3	0		5	14	3	1	GDS
+1	0	0	#	6	1	0	0		7	0	3	0	
+1	0	0	#	6	2	0	0		7	1	3	0	
+1	0	0	#	6	3	3	0		7	2	8	0	
+0	1	32	A	6	3	3	1	ASO	5	3	3	0	
+0	0	0	S	6	3	3	0		5	4	6	0	
+0	0	0	O	6	3	3	0		0	5	7	0	
+1	0	0	#	6	7	4	0		7	6	3	0	
+0	1	33	D	6	7	4	1	DELS	6	7	3	1	DIN
+0	0	0	E	6	7	4	0		5	8	3	0	
+0	0	0	L	6	7	4	0		0	9	7	0	
+0	0	0	S	6	7	4	0		4	10	6	0	
+1	0	0	#	6	12	3	0		7	11	3	0	
+0	1	34	O	6	12	3	1	OED	0	12	8	0	
+0	0	0	E	6	12	3	0		5	13	3	0	
+0	0	0	D	6	12	3	0		5	14	3	0	
+0	1	35	N	7	0	5	1	NOMSG	7	0	3	1	NAY
+0	1	36	O	7	0	5	0		7	1	3	1	OHI
+0	1	37	M	7	0	5	0		7	2	8	1	MINORING
+0	0	0	S	7	0	5	0		5	3	3	0	
+0	0	0	G	7	0	5	0		5	4	6	0	
+1	0	0	#	7	6	3	0		8	5	7	0	
+0	1	38	D	7	6	3	1	DIL	7	6	3	1	DOT
+0	0	0	I	7	6	3	0		6	7	3	0	
+0	0	0	L	7	6	3	0		5	8	3	0	
+1	0	0	#	7	10	5	0		8	9	7	0	
+0	1	39	T	7	10	5	1	TURFS	4	10	6	0	
+0	1	40	U	7	10	5	0		7	11	3	1	USX
+0	0	0	R	7	10	5	0		0	12	8	0	
+0	0	0	F	7	10	5	0		5	13	3	0	
+0	0	0	S	7	10	5	0		5	14	3	0	
+0	1	41	A	8	0	3	1	AHI	7	0	3	0	
+0	0	0	H	8	0	3	0		7	1	3	0	
+0	0	0	I	8	0	3	0		7	2	8	0	
+1	0	0	#	8	4	4	0		9	3	0	0	
+0	1	42	A	8	4	4	1	ASON	5	4	6	0	
+0	1	43	S	8	4	4	0		8	5	7	1	SCHLEPP
+0	0	0	O	8	4	4	0		7	6	3	0	
+0	0	0	N	8	4	4	0		6	7	3	0	
+1	0	0	#	8	9	3	0		9	8	0	0	
+0	1	44	E	8	9	3	1	EOS	8	9	7	1	ECSEGAR
+0	0	0	O	8	9	3	0		4	10	6	0	
+0	0	0	S	8	9	3	0		7	11	3	0	
+1	0	0	#	8	13	0	0		9	12	6	0	
+1	0	0	#	8	14	0	0		9	13	5	0	
+1	0	0	#	8	15	0	0		9	14	0	0	
+0	1	45	Y	9	0	3	1	YIN	7	0	3	0	
+0	0	0	I	9	0	3	0		7	1	3	0	
+0	0	0	N	9	0	3	0		7	2	8	0	
+1	0	0	#	9	4	3	0		10	3	3	0	
+0	1	46	R	9	4	3	1	RCT	5	4	6	0	
+0	0	0	C	9	4	3	0		8	5	7	0	
+0	0	0	T	9	4	3	0		7	6	3	0	
+1	0	0	#	9	8	0	0		10	7	3	0	
+1	0	0	#	9	9	5	0		10	8	4	0	
+0	1	47	C	9	9	5	1	CLXVI	8	9	7	0	
+0	0	0	L	9	9	5	0		4	10	6	0	
+0	0	0	X	9	9	5	0		7	11	3	0	
+0	1	48	V	9	9	5	0		9	12	6	1	VENETO
+0	1	49	I	9	9	5	0		9	13	5	1	INONE
+1	0	0	#	9	15	0	0		10	14	3	0	
+1	0	0	#	10	1	0	0		11	0	0	0	
+1	0	0	#	10	2	4	0		11	1	4	0	
+0	1	50	O	10	2	4	1	OQPH	7	2	8	0	
+0	1	51	Q	10	2	4	0		10	3	3	1	QUO
+0	0	0	P	10	2	4	0		5	4	6	0	
+0	0	0	H	10	2	4	0		8	5	7	0	
+1	0	0	#	10	7	3	0		11	6	4	0	
+0	1	52	M	10	7	3	1	MOS	10	7	3	1	MSG
+0	1	53	O	10	7	3	0		10	8	4	1	OLAV
+0	0	0	S	10	7	3	0		8	9	7	0	
+1	0	0	#	10	11	0	0		11	10	4	0	
+1	0	0	#	10	12	3	0		11	11	0	0	
+0	1	54	E	10	12	3	1	ENC	9	12	6	0	
+0	0	0	N	10	12	3	0		9	13	5	0	
+0	1	55	C	10	12	3	0		10	14	3	1	CUT
+1	0	0	#	11	1	3	0		12	0	3	0	
+0	1	56	O	11	1	3	1	ORU	11	1	4	1	ORIN
+0	0	0	R	11	1	3	0		7	2	8	0	
+0	0	0	U	11	1	3	0		10	3	3	0	
+1	0	0	#	11	5	6	0		12	4	3	0	
+0	1	57	L	11	5	6	1	LESLEY	8	5	7	0	
+0	1	58	E	11	5	6	0		11	6	4	1	ENIS
+0	0	0	S	11	5	6	0		10	7	3	0	
+0	0	0	L	11	5	6	0		10	8	4	0	
+0	0	0	E	11	5	6	0		8	9	7	0	
+0	1	59	Y	11	5	6	0		11	10	4	1	YECH
+1	0	0	#	11	12	3	0		12	11	3	0	
+0	1	60	N	11	12	3	1	NOU	9	12	6	0	
+0	0	0	O	11	12	3	0		9	13	5	0	
+0	0	0	U	11	12	3	0		10	14	3	0	
+0	1	61	P	12	0	15	1	PRIORENGAGEMENT	12	0	3	1	PCT
+0	0	0	R	12	0	15	0		11	1	4	0	
+0	0	0	I	12	0	15	0		7	2	8	0	
+0	0	0	O	12	0	15	0		10	3	3	0	
+0	1	62	R	12	0	15	0		12	4	3	1	REC
+0	0	0	E	12	0	15	0		8	5	7	0	
+0	0	0	N	12	0	15	0		11	6	4	0	
+0	0	0	G	12	0	15	0		10	7	3	0	
+0	0	0	A	12	0	15	0		10	8	4	0	
+0	0	0	G	12	0	15	0		8	9	7	0	
+0	0	0	E	12	0	15	0		11	10	4	0	
+0	1	63	M	12	0	15	0		12	11	3	1	MAE
+0	0	0	E	12	0	15	0		9	12	6	0	
+0	0	0	N	12	0	15	0		9	13	5	0	
+0	0	0	T	12	0	15	0		10	14	3	0	
+0	1	64	C	13	0	3	1	CIN	12	0	3	0	
+0	0	0	I	13	0	3	0		11	1	4	0	
+0	0	0	N	13	0	3	0		7	2	8	0	
+1	0	0	#	13	4	3	0		14	3	0	0	
+0	1	65	E	13	4	3	1	EPI	12	4	3	0	
+0	0	0	P	13	4	3	0		8	5	7	0	
+0	0	0	I	13	4	3	0		11	6	4	0	
+1	0	0	#	13	8	6	0		14	7	0	0	
+0	1	66	V	13	8	6	1	VACATE	10	8	4	0	
+0	0	0	A	13	8	6	0		8	9	7	0	
+0	0	0	C	13	8	6	0		11	10	4	0	
+0	0	0	A	13	8	6	0		12	11	3	0	
+0	0	0	T	13	8	6	0		9	12	6	0	
+0	0	0	E	13	8	6	0		9	13	5	0	
+1	0	0	#	13	15	0	0		14	14	0	0	
+0	1	67	T	14	0	3	1	TNG	12	0	3	0	
+0	0	0	N	14	0	3	0		11	1	4	0	
+0	0	0	G	14	0	3	0		7	2	8	0	
+1	0	0	#	14	4	3	0		15	3	0	0	
+0	1	68	C	14	4	3	1	CPS	12	4	3	0	
+0	0	0	P	14	4	3	0		8	5	7	0	
+0	0	0	S	14	4	3	0		11	6	4	0	
+1	0	0	#	14	8	0	0		15	7	0	0	
+1	0	0	#	14	9	4	0		15	8	0	0	
+0	1	69	R	14	9	4	1	RHEO	8	9	7	0	
+0	0	0	H	14	9	4	0		11	10	4	0	
+0	0	0	E	14	9	4	0		12	11	3	0	
+0	0	0	O	14	9	4	0		9	12	6	0	
+1	0	0	#	14	14	0	0		15	13	0	0	
+1	0	0	#	14	15	0	0		15	14	0	0	
+41
+1	JAVA	Coffee
+5	ATL	U.S./Eur. link
+8	LAR	"Knots Landing" actress ___ Park Lincoln
+11	BATIKS	Hand-dyes with wax
+13	LOU	Vocalist Rawls
+14	ANI	Hangman choice
+15	NICOTINELOZENGE	Patch alternative
+18	STU	Early Beatle Sutcliffe
+19	AHEART	Opening bridge bid, informally
+20	CDE	Alphabetic sequence
+21	FEZ	Shriner hat
+22	IED	Weapon for Iraqi insurgents: Abbr.
+23	APIP	"You're ___, ya know that?": Archie Bunker
+25	RINTT	Title role in a 1950s TV western
+28	CLI	Cato's 151
+29	ORG	Nonprofit's U.R.L. ending
+32	ASO	Japan's largest active volcano
+33	DELS	Pol. convention attendees
+34	OED	Lexicon with many citations: Abbr.
+35	NOMSG	Chinese menu phrase
+38	DIL	"Rugrats" baby
+39	TURFS	Gang territories
+41	AHI	___ tuna
+42	ASON	"...unto us ___ is given"
+44	EOS	Canon camera
+45	YIN	Dark half of a Chinese circle
+46	RCT	Sales slip: Abbr.
+47	CLXVI	Year in Marcus Aurelius's reign
+50	OQPH	Not fer
+52	MOS	Rap sheet entries, for short
+54	ENC	Envelope abbr.
+56	ORU	Tulsa initials
+57	LESLEY	First name on "60 Minutes"
+60	NOU	Over
+61	PRIORENGAGEMENT	Reason for turning down an invitation
+64	CIN	Red letters?
+65	EPI	Center opening?
+66	VACATE	Give up
+67	TNG	"Star Trek" series, to fans
+68	CPS	Poker supplies
+69	RHEO	Stat start
+41
+1	JACUZI	"Water that moves you" sloganeer
+2	ATO	Volume 1 heading starter
+3	VITA	Lucio's life
+4	AKIHITO	Establisher of Japan's Heisei era
+5	ALLR	"Now you're talking!"
+6	TOOTALL	Nickname of N.F.L. legend Ed Jones
+7	LUZ	Light, in Lima
+8	LANDPOOR	Acred but cashless
+9	ANGE	Halo wearer, in France
+10	RIE	Beginner
+11	BITER	Junkyard dog, probably
+12	SNEE	N.F.L. offensive guard Chris
+15	NSF	Fed. grant giver
+16	EAD	Year that Augustus exiled Ovid
+17	ECI	Motel freebie
+24	PISTOL	Epitome of hotness
+26	NAS	"Illmatic" rapper
+27	TSGARP	Hero of a John Irving best seller
+28	CEL	Hanna-Barbera art
+30	REF	One who may O.K. a KO
+31	GDS	Commercial stuff: Abbr.
+33	DIN	Big blast
+35	NAY	Thumbs down
+36	OHI	"___ don't know"
+37	MINORING	Studying secondarily
+38	DOT	Flyspeck
+40	USX	Fortune 500 steelmaker
+43	SCHLEPP	Lug around
+44	ECSEGAR	Swee' Pea's creator
+48	VENETO	Padova's region
+49	INONE	Hole-___ (ace)
+51	QUO	___ vadis
+52	MSG	Rangers' venue, for short
+53	OLAV	King Harald's predecessor
+55	CUT	Injured
+56	ORIN	"Little Shop of Horrors" dentist
+58	ENIS	1990s N.F.L. running back Curtis ___
+59	YECH	"Ugh!"
+61	PCT	Loan figure: Abbr.
+62	REC	___ room (place for Ping-Pong)
+63	MAE	Author Rita ___ Brown

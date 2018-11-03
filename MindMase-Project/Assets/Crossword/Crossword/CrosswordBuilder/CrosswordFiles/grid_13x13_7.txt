@@ -1,0 +1,239 @@
+grid_13x13_7
+13
+0	1	1	P	0	0	3	1	POW	0	0	3	1	PHI
+0	1	2	O	0	0	3	0		0	1	4	1	OAFS
+0	1	3	W	0	0	3	0		0	2	4	1	WTIE
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	W	0	5	3	1	WAG	0	5	3	1	WMD
+0	1	5	A	0	5	3	0		0	6	3	1	ANI
+0	1	6	G	0	5	3	0		0	7	4	1	GOTH
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	4	0	
+0	1	7	M	0	10	3	1	MIS	0	10	8	1	MINTCHIP
+0	1	8	I	0	10	3	0		0	11	3	1	IDI
+0	1	9	S	0	10	3	0		0	12	3	1	SYN
+0	1	10	H	1	0	4	1	HATS	0	0	3	0	
+0	0	0	A	1	0	4	0		0	1	4	0	
+0	0	0	T	1	0	4	0		0	2	4	0	
+0	1	11	S	1	0	4	0		1	3	5	1	SDATE
+1	0	0	#	1	5	3	0		2	4	3	0	
+0	1	12	M	1	5	3	1	MNO	0	5	3	0	
+0	0	0	N	1	5	3	0		0	6	3	0	
+0	0	0	O	1	5	3	0		0	7	4	0	
+1	0	0	#	1	9	4	0		2	8	0	0	
+0	1	13	T	1	9	4	1	TIDY	1	9	4	1	TAOS
+0	0	0	I	1	9	4	0		0	10	8	0	
+0	0	0	D	1	9	4	0		0	11	3	0	
+0	0	0	Y	1	9	4	0		0	12	3	0	
+0	1	14	I	2	0	8	1	IFIDIDIT	0	0	3	0	
+0	0	0	F	2	0	8	0		0	1	4	0	
+0	0	0	I	2	0	8	0		0	2	4	0	
+0	0	0	D	2	0	8	0		1	3	5	0	
+0	1	15	I	2	0	8	0		2	4	3	1	IRA
+0	0	0	D	2	0	8	0		0	5	3	0	
+0	0	0	I	2	0	8	0		0	6	3	0	
+0	0	0	T	2	0	8	0		0	7	4	0	
+1	0	0	#	2	9	4	0		3	8	3	0	
+0	1	16	A	2	9	4	1	ANIN	1	9	4	0	
+0	0	0	N	2	9	4	0		0	10	8	0	
+0	0	0	I	2	9	4	0		0	11	3	0	
+0	0	0	N	2	9	4	0		0	12	3	0	
+1	0	0	#	3	1	4	0		4	0	0	0	
+0	1	17	S	3	1	4	1	SEAR	0	1	4	0	
+0	0	0	E	3	1	4	0		0	2	4	0	
+0	0	0	A	3	1	4	0		1	3	5	0	
+0	0	0	R	3	1	4	0		2	4	3	0	
+1	0	0	#	3	6	0	0		4	5	4	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	18	H	3	7	4	1	HOOT	0	7	4	0	
+0	1	19	O	3	7	4	0		3	8	3	1	OOH
+0	0	0	O	3	7	4	0		1	9	4	0	
+0	0	0	T	3	7	4	0		0	10	8	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	3	0	
+1	0	0	#	4	1	0	0		5	0	0	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	8	0	
+0	1	20	T	4	3	3	1	TAC	1	3	5	0	
+0	0	0	A	4	3	3	0		2	4	3	0	
+0	1	21	C	4	3	3	0		4	5	4	1	CUBA
+1	0	0	#	4	7	0	0		5	6	3	0	
+1	0	0	#	4	8	5	0		5	7	4	0	
+0	1	22	O	4	8	5	1	OSCAR	3	8	3	0	
+0	0	0	S	4	8	5	0		1	9	4	0	
+0	0	0	C	4	8	5	0		0	10	8	0	
+0	1	23	A	4	8	5	0		4	11	4	1	ASHY
+0	1	24	R	4	8	5	0		4	12	3	1	RIN
+1	0	0	#	5	1	3	0		6	0	3	0	
+0	1	25	H	5	1	3	1	HCE	5	1	4	1	HOAG
+0	1	26	C	5	1	3	0		5	2	8	1	CENTIMES
+0	0	0	E	5	1	3	0		1	3	5	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	27	U	5	5	4	1	UNCH	4	5	4	0	
+0	1	28	N	5	5	4	0		5	6	3	1	NIT
+0	1	29	C	5	5	4	0		5	7	4	1	CZAR
+0	0	0	H	5	5	4	0		3	8	3	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	30	H	5	10	3	1	HSI	0	10	8	0	
+0	0	0	S	5	10	3	0		4	11	4	0	
+0	0	0	I	5	10	3	0		4	12	3	0	
+0	1	31	P	6	0	3	1	POE	6	0	3	1	PVC
+0	0	0	O	6	0	3	0		5	1	4	0	
+0	0	0	E	6	0	3	0		5	2	8	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	3	0	
+0	1	32	B	6	5	3	1	BIZ	4	5	4	0	
+0	0	0	I	6	5	3	0		5	6	3	0	
+0	0	0	Z	6	5	3	0		5	7	4	0	
+1	0	0	#	6	9	0	0		7	8	0	0	
+1	0	0	#	6	10	3	0		7	9	5	0	
+0	1	33	I	6	10	3	1	IHN	0	10	8	0	
+0	0	0	H	6	10	3	0		4	11	4	0	
+0	0	0	N	6	10	3	0		4	12	3	0	
+0	1	34	V	7	0	3	1	VAN	6	0	3	0	
+0	0	0	A	7	0	3	0		5	1	4	0	
+0	0	0	N	7	0	3	0		5	2	8	0	
+1	0	0	#	7	4	4	0		8	3	4	0	
+0	1	35	D	7	4	4	1	DATA	7	4	3	1	DUB
+0	0	0	A	7	4	4	0		4	5	4	0	
+0	0	0	T	7	4	4	0		5	6	3	0	
+0	0	0	A	7	4	4	0		5	7	4	0	
+1	0	0	#	7	9	3	0		8	8	3	0	
+0	1	36	S	7	9	3	1	SPY	7	9	5	1	STUNG
+0	0	0	P	7	9	3	0		0	10	8	0	
+0	0	0	Y	7	9	3	0		4	11	4	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	37	C	8	0	5	1	CGTWU	6	0	3	0	
+0	0	0	G	8	0	5	0		5	1	4	0	
+0	0	0	T	8	0	5	0		5	2	8	0	
+0	1	38	W	8	0	5	0		8	3	4	1	WCTU
+0	0	0	U	8	0	5	0		7	4	3	0	
+1	0	0	#	8	6	0	0		9	5	4	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	39	R	8	7	3	1	RUT	5	7	4	0	
+0	1	40	U	8	7	3	0		8	8	3	1	UKE
+0	0	0	T	8	7	3	0		7	9	5	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	4	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	41	I	9	2	4	1	ICBM	5	2	8	0	
+0	0	0	C	9	2	4	0		8	3	4	0	
+0	0	0	B	9	2	4	0		7	4	3	0	
+0	1	42	M	9	2	4	0		9	5	4	1	MELL
+1	0	0	#	9	7	0	0		10	6	3	0	
+1	0	0	#	9	8	4	0		10	7	3	0	
+0	1	43	K	9	8	4	1	KUDO	8	8	3	0	
+0	0	0	U	9	8	4	0		7	9	5	0	
+0	1	44	D	9	8	4	0		9	10	4	1	DRAX
+0	1	45	O	9	8	4	0		9	11	4	1	OARS
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	46	M	10	0	4	1	MGMT	10	0	3	1	MLS
+0	1	47	G	10	0	4	0		10	1	3	1	GIE
+0	0	0	M	10	0	4	0		5	2	8	0	
+0	0	0	T	10	0	4	0		8	3	4	0	
+1	0	0	#	10	5	8	0		11	4	0	0	
+0	1	48	E	10	5	8	1	EATENRAW	9	5	4	0	
+0	1	49	A	10	5	8	0		10	6	3	1	ALA
+0	1	50	T	10	5	8	0		10	7	3	1	TCM
+0	0	0	E	10	5	8	0		8	8	3	0	
+0	0	0	N	10	5	8	0		7	9	5	0	
+0	0	0	R	10	5	8	0		9	10	4	0	
+0	0	0	A	10	5	8	0		9	11	4	0	
+0	1	51	W	10	5	8	0		10	12	3	1	WEA
+0	1	52	L	11	0	4	1	LIEU	10	0	3	0	
+0	0	0	I	11	0	4	0		10	1	3	0	
+0	0	0	E	11	0	4	0		5	2	8	0	
+0	0	0	U	11	0	4	0		8	3	4	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	53	L	11	5	3	1	LLC	9	5	4	0	
+0	0	0	L	11	5	3	0		10	6	3	0	
+0	0	0	C	11	5	3	0		10	7	3	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	54	G	11	9	4	1	GARE	7	9	5	0	
+0	0	0	A	11	9	4	0		9	10	4	0	
+0	0	0	R	11	9	4	0		9	11	4	0	
+0	0	0	E	11	9	4	0		10	12	3	0	
+0	1	55	S	12	0	3	1	SES	10	0	3	0	
+0	0	0	E	12	0	3	0		10	1	3	0	
+0	0	0	S	12	0	3	0		5	2	8	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	56	L	12	5	3	1	LAM	9	5	4	0	
+0	0	0	A	12	5	3	0		10	6	3	0	
+0	0	0	M	12	5	3	0		10	7	3	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	57	X	12	10	3	1	XSA	9	10	4	0	
+0	0	0	S	12	10	3	0		9	11	4	0	
+0	0	0	A	12	10	3	0		10	12	3	0	
+33
+1	POW	One to remember, for short
+4	WAG	Comic character
+7	MIS	Wrong start?
+10	HATS	Porkpies and panamas
+12	MNO	LP insert
+13	TIDY	Like some sums
+14	IFIDIDIT	Controversial O. J. Simpson book
+16	ANIN	Has ___ (is connected)
+17	SEAR	Cook so as to lock in the flavor, say
+18	HOOT	Something funny
+20	TAC	"Hollywood Squares" square
+22	OSCAR	Award since 1927
+25	HCE	Therefore
+27	UNCH	Neither up nor down, as a stock price: Abbr.
+30	HSI	Chu ___ (legendary Confucian sage)
+31	POE	He wrote "To Helen" and "For Annie"
+32	BIZ	Trade, informally
+33	IHN	Him, in Heidelberg
+34	VAN	Deliverer's need
+35	DATA	Facts and figures
+36	SPY	Shadow, maybe
+37	CGTWU	Fighting: 2 wds.
+39	RUT	Wagon track
+41	ICBM	Weapon that can cross the Atl. or Pac.
+43	KUDO	Singular praise?
+46	MGMT	Those running the place: Abbr.
+48	EATENRAW	Like sushi fish, typically
+52	LIEU	...
+53	LLC	Cousin of Inc.
+54	GARE	Paris's ___ de Lyon
+55	SES	Its, to Ir
+56	LAM	Clobber
+57	XSA	Opposite of SSW
+33
+1	PHI	The golden ratio
+2	OAFS	Lummoxes
+3	WTIE	Fancy invitation specification
+4	WMD	Iraq war subj.
+5	ANI	Spaghetti end?
+6	GOTH	Ancient Germanic invader
+7	MINTCHIP	Ice cream flavor
+8	IDI	Despot Amin
+9	SYN	Thesaurus listing: Abbr.
+11	SDATE	Entry in a spaceship log
+13	TAOS	Pueblo dweller
+15	IRA	Part of a certain nest egg, briefly
+19	OOH	"Good one!"
+21	CUBA	Destination of many 1960s-'70s airplane hijackings
+23	ASHY	Pasty-faced
+24	RIN	"When 2 ___ Love" (1988 Prince song)
+25	HOAG	Romance novelist Tami
+26	CENTIMES	Fractions of a gourde
+28	NIT	Tiny complaint
+29	CZAR	Bygone autocrat
+31	PVC	"The Charge of the Light Brigade" figure
+35	DUB	Nickname
+36	STUNG	Overcharged
+38	WCTU	Teetotalers
+40	UKE	Luau instrument, informally
+42	MELL	Pell-___
+44	DRAX	Bond villain in "Moonraker"
+45	OARS	Pair at sea
+46	MLS	Approximately 946 of these make a qt.
+47	GIE	"O, ___ me the lass ...": Burns
+49	ALA	In the way of
+50	TCM	Channel for old films
+51	WEA	"Are ___ pair?" ("Send in the Clowns" lyric)

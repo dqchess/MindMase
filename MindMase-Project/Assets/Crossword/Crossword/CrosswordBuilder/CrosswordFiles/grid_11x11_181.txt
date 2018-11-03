@@ -1,0 +1,167 @@
+grid_11x11_181
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	O	0	1	3	1	ORE	0	1	7	1	OFFRAMP
+0	1	2	R	0	1	3	0		0	2	7	1	ROADHOG
+0	1	3	E	0	1	3	0		0	3	5	1	EGGER
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	0	0		1	5	9	0	
+1	0	0	#	0	7	4	0		1	6	3	0	
+0	1	4	P	0	7	4	1	PCBS	0	7	5	1	POLYP
+0	1	5	C	0	7	4	0		0	8	3	1	CML
+0	1	6	B	0	7	4	0		0	9	3	1	BEI
+0	1	7	S	0	7	4	0		0	10	3	1	SOS
+1	0	0	#	1	1	3	0		2	0	0	0	
+0	1	8	F	1	1	3	1	FOG	0	1	7	0	
+0	0	0	O	1	1	3	0		0	2	7	0	
+0	0	0	G	1	1	3	0		0	3	5	0	
+1	0	0	#	1	5	6	0		2	4	0	0	
+0	1	9	O	1	5	6	1	OROMEO	1	5	9	1	ONTHINICE
+0	1	10	R	1	5	6	0		1	6	3	1	REL
+0	0	0	O	1	5	6	0		0	7	5	0	
+0	0	0	M	1	5	6	0		0	8	3	0	
+0	0	0	E	1	5	6	0		0	9	3	0	
+0	0	0	O	1	5	6	0		0	10	3	0	
+1	0	0	#	2	1	3	0		3	0	3	0	
+0	1	11	F	2	1	3	1	FAG	0	1	7	0	
+0	0	0	A	2	1	3	0		0	2	7	0	
+0	0	0	G	2	1	3	0		0	3	5	0	
+1	0	0	#	2	5	6	0		3	4	3	0	
+0	1	12	N	2	5	6	1	NELLIS	1	5	9	0	
+0	0	0	E	2	5	6	0		1	6	3	0	
+0	0	0	L	2	5	6	0		0	7	5	0	
+0	0	0	L	2	5	6	0		0	8	3	0	
+0	0	0	I	2	5	6	0		0	9	3	0	
+0	0	0	S	2	5	6	0		0	10	3	0	
+0	1	13	A	3	0	8	1	ARDENTLY	3	0	3	1	ARI
+0	0	0	R	3	0	8	0		0	1	7	0	
+0	0	0	D	3	0	8	0		0	2	7	0	
+0	0	0	E	3	0	8	0		0	3	5	0	
+0	1	14	N	3	0	8	0		3	4	3	1	NAV
+0	0	0	T	3	0	8	0		1	5	9	0	
+0	0	0	L	3	0	8	0		1	6	3	0	
+0	0	0	Y	3	0	8	0		0	7	5	0	
+1	0	0	#	3	9	0	0		4	8	7	0	
+1	0	0	#	3	10	0	0		4	9	7	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	R	4	0	6	1	RAHRAH	3	0	3	0	
+0	0	0	A	4	0	6	0		0	1	7	0	
+0	0	0	H	4	0	6	0		0	2	7	0	
+0	0	0	R	4	0	6	0		0	3	5	0	
+0	0	0	A	4	0	6	0		3	4	3	0	
+0	0	0	H	4	0	6	0		1	5	9	0	
+1	0	0	#	4	7	3	0		5	6	3	0	
+0	1	16	P	4	7	3	1	PGA	0	7	5	0	
+0	1	17	G	4	7	3	0		4	8	7	1	GASPUMP
+0	1	18	A	4	7	3	0		4	9	7	1	ACHIEST
+1	0	0	#	4	11	0	0		5	10	3	0	
+0	1	19	I	5	0	3	1	IMO	3	0	3	0	
+0	0	0	M	5	0	3	0		0	1	7	0	
+0	0	0	O	5	0	3	0		0	2	7	0	
+1	0	0	#	5	4	3	0		6	3	5	0	
+0	1	20	V	5	4	3	1	VII	3	4	3	0	
+0	0	0	I	5	4	3	0		1	5	9	0	
+0	1	21	I	5	4	3	0		5	6	3	1	IEL
+1	0	0	#	5	8	3	0		6	7	5	0	
+0	1	22	A	5	8	3	1	ACS	4	8	7	0	
+0	0	0	C	5	8	3	0		4	9	7	0	
+0	1	23	S	5	8	3	0		5	10	3	1	SON
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	24	P	6	1	3	1	PGS	0	1	7	0	
+0	0	0	G	6	1	3	0		0	2	7	0	
+0	1	25	S	6	1	3	0		6	3	5	1	STOPS
+1	0	0	#	6	5	6	0		7	4	3	0	
+0	1	26	N	6	5	6	1	NEOSHO	1	5	9	0	
+0	0	0	E	6	5	6	0		5	6	3	0	
+0	1	27	O	6	5	6	0		6	7	5	1	OSKAR
+0	0	0	S	6	5	6	0		4	8	7	0	
+0	0	0	H	6	5	6	0		4	9	7	0	
+0	0	0	O	6	5	6	0		5	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	0	0		8	1	3	0	
+1	0	0	#	7	3	8	0		8	2	3	0	
+0	1	28	T	7	3	8	1	TAILSPIN	6	3	5	0	
+0	1	29	A	7	3	8	0		7	4	3	1	AIL
+0	0	0	I	7	3	8	0		1	5	9	0	
+0	0	0	L	7	3	8	0		5	6	3	0	
+0	0	0	S	7	3	8	0		6	7	5	0	
+0	0	0	P	7	3	8	0		4	8	7	0	
+0	0	0	I	7	3	8	0		4	9	7	0	
+0	0	0	N	7	3	8	0		5	10	3	0	
+0	1	30	E	8	0	6	1	ECHOIC	8	0	3	1	ERG
+0	1	31	C	8	0	6	0		8	1	3	1	CUP
+0	1	32	H	8	0	6	0		8	2	3	1	HMO
+0	0	0	O	8	0	6	0		6	3	5	0	
+0	0	0	I	8	0	6	0		7	4	3	0	
+0	0	0	C	8	0	6	0		1	5	9	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	33	K	8	7	3	1	KUE	6	7	5	0	
+0	0	0	U	8	7	3	0		4	8	7	0	
+0	0	0	E	8	7	3	0		4	9	7	0	
+1	0	0	#	8	11	0	0		9	10	0	0	
+0	1	34	R	9	0	6	1	RUMPLE	8	0	3	0	
+0	0	0	U	9	0	6	0		8	1	3	0	
+0	0	0	M	9	0	6	0		8	2	3	0	
+0	0	0	P	9	0	6	0		6	3	5	0	
+0	0	0	L	9	0	6	0		7	4	3	0	
+0	0	0	E	9	0	6	0		1	5	9	0	
+1	0	0	#	9	7	3	0		10	6	0	0	
+0	1	35	A	9	7	3	1	AMS	6	7	5	0	
+0	0	0	M	9	7	3	0		4	8	7	0	
+0	0	0	S	9	7	3	0		4	9	7	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	36	G	10	0	4	1	GPOS	8	0	3	0	
+0	0	0	P	10	0	4	0		8	1	3	0	
+0	0	0	O	10	0	4	0		8	2	3	0	
+0	0	0	S	10	0	4	0		6	3	5	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	37	R	10	7	3	1	RPT	6	7	5	0	
+0	0	0	P	10	7	3	0		4	8	7	0	
+0	0	0	T	10	7	3	0		4	9	7	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+21
+1	ORE	Rough stuff
+4	PCBS	Chem. pollutants
+8	FOG	Bewilderment
+9	OROMEO	Cry from a balcony
+11	FAG	___ end (very last part)
+12	NELLIS	Air Force base near Las Vegas
+13	ARDENTLY	With fire
+15	RAHRAH	Gung-ho
+16	PGA	Green grp.?
+19	IMO	Start of many a blog comment
+20	VII	The first Tudor Henry
+22	ACS	Some are in windows: Abbr.
+24	PGS	Some movie ratings
+26	NEOSHO	Missouri town near the George Washington Carver National Monument
+28	TAILSPIN	Pilot's nightmare
+30	ECHOIC	Coming right back at you?
+33	KUE	Letter after pee
+34	RUMPLE	Make wrinkly
+35	AMS	Clock settings
+36	GPOS	Mailing ctrs.
+37	RPT	Sch. assignment
+21
+1	OFFRAMP	Means of exit
+2	ROADHOG	One who won't move over
+3	EGGER	Ham-and-___ (incompetent sort)
+4	POLYP	Nodule
+5	CML	Approximate year in which Eric the Red was born
+6	BEI	"___ Mir Bist Du Schoen" (1938 hit)
+7	SOS	Titanic message
+9	ONTHINICE	In a precarious situation
+10	REL	Father, e.g.: Abbr.
+13	ARI	"Exodus" character
+14	NAV	Part of O.N.I.: Abbr.
+17	GASPUMP	Shell dispenser
+18	ACHIEST	Most sore
+21	IEL	Drive forward
+23	SON	Junior, e.g.
+25	STOPS	Locals make them often
+27	OSKAR	Herr Schindler
+29	AIL	Be under the weather
+30	ERG	100 nanojoules
+31	CUP	Green hole
+32	HMO	Med. care provider

@@ -1,0 +1,171 @@
+grid_11x11_157
+11
+0	1	1	H	0	0	3	1	HUK	0	0	3	1	HIT
+0	1	2	U	0	0	3	0		0	1	3	1	ULA
+0	1	3	K	0	0	3	0		0	2	11	1	KEYBISCAYNE
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	6	0		1	4	0	0	
+0	1	4	V	0	5	6	1	VILEST	0	5	3	1	VAR
+0	1	5	I	0	5	6	0		0	6	3	1	IMA
+0	1	6	L	0	5	6	0		0	7	4	1	LADI
+0	1	7	E	0	5	6	0		0	8	11	1	EZONTHEEYES
+0	1	8	S	0	5	6	0		0	9	7	1	SETDOWN
+0	1	9	T	0	5	6	0		0	10	3	1	TDS
+0	1	10	I	1	0	4	1	ILED	0	0	3	0	
+0	0	0	L	1	0	4	0		0	1	3	0	
+0	0	0	E	1	0	4	0		0	2	11	0	
+0	1	11	D	1	0	4	0		1	3	3	1	DLI
+1	0	0	#	1	5	6	0		2	4	5	0	
+0	1	12	A	1	5	6	1	AMAZED	0	5	3	0	
+0	0	0	M	1	5	6	0		0	6	3	0	
+0	0	0	A	1	5	6	0		0	7	4	0	
+0	0	0	Z	1	5	6	0		0	8	11	0	
+0	0	0	E	1	5	6	0		0	9	7	0	
+0	0	0	D	1	5	6	0		0	10	3	0	
+0	1	13	T	2	0	11	1	TAYLORADOTS	0	0	3	0	
+0	0	0	A	2	0	11	0		0	1	3	0	
+0	0	0	Y	2	0	11	0		0	2	11	0	
+0	0	0	L	2	0	11	0		1	3	3	0	
+0	1	14	O	2	0	11	0		2	4	5	1	OPTED
+0	0	0	R	2	0	11	0		0	5	3	0	
+0	0	0	A	2	0	11	0		0	6	3	0	
+0	0	0	D	2	0	11	0		0	7	4	0	
+0	0	0	O	2	0	11	0		0	8	11	0	
+0	0	0	T	2	0	11	0		0	9	7	0	
+0	0	0	S	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	7	0	
+0	1	15	B	3	2	3	1	BIP	0	2	11	0	
+0	0	0	I	3	2	3	0		1	3	3	0	
+0	0	0	P	3	2	3	0		2	4	5	0	
+1	0	0	#	3	6	0	0		4	5	3	0	
+1	0	0	#	3	7	3	0		4	6	5	0	
+0	1	16	I	3	7	3	1	IND	0	7	4	0	
+0	0	0	N	3	7	3	0		0	8	11	0	
+0	0	0	D	3	7	3	0		0	9	7	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	17	M	4	0	3	1	MLI	4	0	3	1	MTA
+0	1	18	L	4	0	3	0		4	1	7	1	LECARRE
+0	0	0	I	4	0	3	0		0	2	11	0	
+1	0	0	#	4	4	3	0		5	3	0	0	
+0	1	19	T	4	4	3	1	TAV	2	4	5	0	
+0	1	20	A	4	4	3	0		4	5	3	1	AUS
+0	1	21	V	4	4	3	0		4	6	5	1	VIOLA
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	22	T	4	8	3	1	TOM	0	8	11	0	
+0	0	0	O	4	8	3	0		0	9	7	0	
+0	1	23	M	4	8	3	0		4	10	3	1	MYA
+0	1	24	T	5	0	3	1	TES	4	0	3	0	
+0	0	0	E	5	0	3	0		4	1	7	0	
+0	0	0	S	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	25	E	5	4	3	1	EUI	2	4	5	0	
+0	0	0	U	5	4	3	0		4	5	3	0	
+0	0	0	I	5	4	3	0		4	6	5	0	
+1	0	0	#	5	8	3	0		6	7	0	0	
+0	1	26	H	5	8	3	1	HWY	0	8	11	0	
+0	0	0	W	5	8	3	0		0	9	7	0	
+0	0	0	Y	5	8	3	0		4	10	3	0	
+0	1	27	A	6	0	3	1	ACC	4	0	3	0	
+0	0	0	C	6	0	3	0		4	1	7	0	
+0	0	0	C	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	3	0		7	3	4	0	
+0	1	28	D	6	4	3	1	DSO	2	4	5	0	
+0	0	0	S	6	4	3	0		4	5	3	0	
+0	0	0	O	6	4	3	0		4	6	5	0	
+1	0	0	#	6	8	3	0		7	7	3	0	
+0	1	29	E	6	8	3	1	ENA	0	8	11	0	
+0	0	0	N	6	8	3	0		0	9	7	0	
+0	0	0	A	6	8	3	0		4	10	3	0	
+1	0	0	#	7	1	3	0		8	0	3	0	
+0	1	30	A	7	1	3	1	AAS	4	1	7	0	
+0	0	0	A	7	1	3	0		0	2	11	0	
+0	1	31	S	7	1	3	0		7	3	4	1	SCAM
+1	0	0	#	7	5	0	0		8	4	3	0	
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	32	L	7	6	3	1	LOE	4	6	5	0	
+0	1	33	O	7	6	3	0		7	7	3	1	ONE
+0	0	0	E	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	34	B	8	0	11	1	BRYCECANYON	8	0	3	1	BOS
+0	0	0	R	8	0	11	0		4	1	7	0	
+0	0	0	Y	8	0	11	0		0	2	11	0	
+0	0	0	C	8	0	11	0		7	3	4	0	
+0	1	35	E	8	0	11	0		8	4	3	1	ETE
+0	1	36	C	8	0	11	0		8	5	3	1	CED
+0	0	0	A	8	0	11	0		4	6	5	0	
+0	0	0	N	8	0	11	0		7	7	3	0	
+0	0	0	Y	8	0	11	0		0	8	11	0	
+0	1	37	O	8	0	11	0		8	9	3	1	OKE
+0	1	38	N	8	0	11	0		8	10	3	1	NSC
+0	1	39	O	9	0	6	1	ORNATE	8	0	3	0	
+0	0	0	R	9	0	6	0		4	1	7	0	
+0	0	0	N	9	0	6	0		0	2	11	0	
+0	0	0	A	9	0	6	0		7	3	4	0	
+0	0	0	T	9	0	6	0		8	4	3	0	
+0	0	0	E	9	0	6	0		8	5	3	0	
+1	0	0	#	9	7	4	0		10	6	0	0	
+0	1	40	E	9	7	4	1	EEKS	7	7	3	0	
+0	0	0	E	9	7	4	0		0	8	11	0	
+0	0	0	K	9	7	4	0		8	9	3	0	
+0	0	0	S	9	7	4	0		8	10	3	0	
+0	1	41	S	10	0	6	1	SEEMED	8	0	3	0	
+0	0	0	E	10	0	6	0		4	1	7	0	
+0	0	0	E	10	0	6	0		0	2	11	0	
+0	0	0	M	10	0	6	0		7	3	4	0	
+0	0	0	E	10	0	6	0		8	4	3	0	
+0	0	0	D	10	0	6	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	42	S	10	8	3	1	SEC	0	8	11	0	
+0	0	0	E	10	8	3	0		8	9	3	0	
+0	0	0	C	10	8	3	0		8	10	3	0	
+23
+1	HUK	Czech leader ousted in the Velvet Revolution, 1989
+4	VILEST	Most repellent
+10	ILED	Philbrick's "___ Three Lives"
+12	AMAZED	In shock
+13	TAYLORADOTS	Summer dress features
+15	BIP	Heart monitor sound
+16	IND	Swing voter, perhaps: Abbr.
+17	MLI	Year in Edward the Confessor's reign
+19	TAV	Hebrew T
+22	TOM	Hanks or Brokaw
+24	TES	Your, in Tours
+25	EUI	Pins and needles' place
+26	HWY	Numbered rte.
+27	ACC	Duke's athletic org.
+28	DSO	Brit. medal
+29	ENA	Faline's mother, in "Bambi"
+30	AAS	___ in apple
+32	LOE	Star of "Youngblood," 1986
+34	BRYCECANYON	National park with the Pink Cliffs
+39	ORNATE	Like the Paris Opera
+40	EEKS	Squealed cries
+41	SEEMED	Appeared
+42	SEC	Not sweet
+23
+1	HIT	Sellout
+2	ULA	Suffix with form
+3	KEYBISCAYNE	Nixon's Florida home
+4	VAR	Not standard: Abbr.
+5	IMA	"___ Gigolo"
+6	LADI	___-da (pretentious)
+7	EZONTHEEYES	Good-looking, briefly
+8	SETDOWN	Lay
+9	TDS	Six-pointers, for short
+11	DLI	Sixth-century date
+14	OPTED	Made a choice
+17	MTA	Big Apple mass transit inits.
+18	LECARRE	"The Russia House" author
+20	AUS	Out of: Ger.
+21	VIOLA	Instrument played with a bow
+23	MYA	R&B singer with the hit "It's All About Me"
+31	SCAM	Bernie Madoff's hedge fund, e.g.
+33	ONE	Leading figure
+34	BOS	Beantown, on scoreboards
+35	ETE	Summer in France
+36	CED	Like associates, on some e-mails
+37	OKE	Fine and dandy, in old slang
+38	NSC	Homeland protection org.

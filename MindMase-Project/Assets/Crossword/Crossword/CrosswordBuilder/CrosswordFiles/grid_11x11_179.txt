@@ -1,0 +1,171 @@
+grid_11x11_179
+11
+0	1	1	H	0	0	3	1	HOM	0	0	3	1	HUH
+0	1	2	O	0	0	3	0		0	1	3	1	ONI
+0	1	3	M	0	0	3	0		0	2	11	1	MINUTESTEAK
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	6	0		1	4	5	0	
+0	1	4	O	0	5	6	1	OKEEFE	0	5	3	1	OSU
+0	1	5	K	0	5	6	0		0	6	4	1	KOTO
+0	1	6	E	0	5	6	0		0	7	4	1	EGOS
+0	1	7	E	0	5	6	0		0	8	11	1	ETPHONEHOME
+0	1	8	F	0	5	6	0		0	9	3	1	FYI
+0	1	9	E	0	5	6	0		0	10	3	1	EPA
+0	1	10	U	1	0	3	1	UNI	0	0	3	0	
+0	0	0	N	1	0	3	0		0	1	3	0	
+0	0	0	I	1	0	3	0		0	2	11	0	
+1	0	0	#	1	4	7	0		2	3	3	0	
+0	1	11	Q	1	4	7	1	QSOGTYP	1	4	5	1	QUIET
+0	0	0	S	1	4	7	0		0	5	3	0	
+0	0	0	O	1	4	7	0		0	6	4	0	
+0	0	0	G	1	4	7	0		0	7	4	0	
+0	0	0	T	1	4	7	0		0	8	11	0	
+0	0	0	Y	1	4	7	0		0	9	3	0	
+0	0	0	P	1	4	7	0		0	10	3	0	
+0	1	12	H	2	0	11	1	HINDUUTOPIA	0	0	3	0	
+0	0	0	I	2	0	11	0		0	1	3	0	
+0	0	0	N	2	0	11	0		0	2	11	0	
+0	1	13	D	2	0	11	0		2	3	3	1	DBL
+0	0	0	U	2	0	11	0		1	4	5	0	
+0	0	0	U	2	0	11	0		0	5	3	0	
+0	0	0	T	2	0	11	0		0	6	4	0	
+0	0	0	O	2	0	11	0		0	7	4	0	
+0	0	0	P	2	0	11	0		0	8	11	0	
+0	0	0	I	2	0	11	0		0	9	3	0	
+0	0	0	A	2	0	11	0		0	10	3	0	
+1	0	0	#	3	1	0	0		4	0	3	0	
+1	0	0	#	3	2	3	0		4	1	3	0	
+0	1	14	U	3	2	3	1	UBI	0	2	11	0	
+0	0	0	B	3	2	3	0		2	3	3	0	
+0	0	0	I	3	2	3	0		1	4	5	0	
+1	0	0	#	3	6	3	0		4	5	3	0	
+0	1	15	O	3	6	3	1	OSH	0	6	4	0	
+0	0	0	S	3	6	3	0		0	7	4	0	
+0	0	0	H	3	6	3	0		0	8	11	0	
+1	0	0	#	3	10	0	0		4	9	3	0	
+1	0	0	#	3	11	0	0		4	10	3	0	
+0	1	16	I	4	0	6	1	ISTLES	4	0	3	1	ITO
+0	1	17	S	4	0	6	0		4	1	3	1	SUD
+0	0	0	T	4	0	6	0		0	2	11	0	
+0	0	0	L	4	0	6	0		2	3	3	0	
+0	0	0	E	4	0	6	0		1	4	5	0	
+0	1	18	S	4	0	6	0		4	5	3	1	SEN
+1	0	0	#	4	7	0	0		5	6	5	0	
+1	0	0	#	4	8	3	0		5	7	0	0	
+0	1	19	O	4	8	3	1	OFF	0	8	11	0	
+0	1	20	F	4	8	3	0		4	9	3	1	FBI
+0	1	21	F	4	8	3	0		4	10	3	1	FAD
+0	1	22	T	5	0	3	1	TUE	4	0	3	0	
+0	0	0	U	5	0	3	0		4	1	3	0	
+0	0	0	E	5	0	3	0		0	2	11	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	23	T	5	4	3	1	TES	1	4	5	0	
+0	0	0	E	5	4	3	0		4	5	3	0	
+0	1	24	S	5	4	3	0		5	6	5	1	SERAI
+1	0	0	#	5	8	3	0		6	7	3	0	
+0	1	25	N	5	8	3	1	NBA	0	8	11	0	
+0	0	0	B	5	8	3	0		4	9	3	0	
+0	0	0	A	5	8	3	0		4	10	3	0	
+0	1	26	O	6	0	3	1	ODS	4	0	3	0	
+0	0	0	D	6	0	3	0		4	1	3	0	
+0	0	0	S	6	0	3	0		0	2	11	0	
+1	0	0	#	6	4	0	0		7	3	4	0	
+1	0	0	#	6	5	6	0		7	4	4	0	
+0	1	27	N	6	5	6	1	NEREID	4	5	3	0	
+0	0	0	E	6	5	6	0		5	6	5	0	
+0	1	28	R	6	5	6	0		6	7	3	1	RAI
+0	0	0	E	6	5	6	0		0	8	11	0	
+0	0	0	I	6	5	6	0		4	9	3	0	
+0	0	0	D	6	5	6	0		4	10	3	0	
+1	0	0	#	7	1	0	0		8	0	3	0	
+1	0	0	#	7	2	3	0		8	1	3	0	
+0	1	29	T	7	2	3	1	TET	0	2	11	0	
+0	1	30	E	7	2	3	0		7	3	4	1	ERTE
+0	1	31	T	7	2	3	0		7	4	4	1	TSAR
+1	0	0	#	7	6	3	0		8	5	3	0	
+0	1	32	R	7	6	3	1	RAH	5	6	5	0	
+0	0	0	A	7	6	3	0		6	7	3	0	
+0	0	0	H	7	6	3	0		0	8	11	0	
+1	0	0	#	7	10	0	0		8	9	3	0	
+1	0	0	#	7	11	0	0		8	10	3	0	
+0	1	33	O	8	0	11	1	OVERSEAIOUS	8	0	3	1	OKE
+0	1	34	V	8	0	11	0		8	1	3	1	VHS
+0	0	0	E	8	0	11	0		0	2	11	0	
+0	0	0	R	8	0	11	0		7	3	4	0	
+0	0	0	S	8	0	11	0		7	4	4	0	
+0	1	35	E	8	0	11	0		8	5	3	1	EMS
+0	0	0	A	8	0	11	0		5	6	5	0	
+0	0	0	I	8	0	11	0		6	7	3	0	
+0	0	0	O	8	0	11	0		0	8	11	0	
+0	1	36	U	8	0	11	0		8	9	3	1	USS
+0	1	37	S	8	0	11	0		8	10	3	1	SUA
+0	1	38	K	9	0	7	1	KHATAMI	8	0	3	0	
+0	0	0	H	9	0	7	0		8	1	3	0	
+0	0	0	A	9	0	7	0		0	2	11	0	
+0	0	0	T	9	0	7	0		7	3	4	0	
+0	0	0	A	9	0	7	0		7	4	4	0	
+0	0	0	M	9	0	7	0		8	5	3	0	
+0	0	0	I	9	0	7	0		5	6	5	0	
+1	0	0	#	9	8	3	0		10	7	0	0	
+0	1	39	M	9	8	3	1	MSU	0	8	11	0	
+0	0	0	S	9	8	3	0		8	9	3	0	
+0	0	0	U	9	8	3	0		8	10	3	0	
+0	1	40	E	10	0	6	1	ESKERS	8	0	3	0	
+0	0	0	S	10	0	6	0		8	1	3	0	
+0	0	0	K	10	0	6	0		0	2	11	0	
+0	0	0	E	10	0	6	0		7	3	4	0	
+0	0	0	R	10	0	6	0		7	4	4	0	
+0	0	0	S	10	0	6	0		8	5	3	0	
+1	0	0	#	10	7	0	0		11	6	0	0	
+1	0	0	#	10	8	3	0		11	7	0	0	
+0	1	41	E	10	8	3	1	ESA	0	8	11	0	
+0	0	0	S	10	8	3	0		8	9	3	0	
+0	0	0	A	10	8	3	0		8	10	3	0	
+21
+1	HOM	Prefix meaning "same"
+4	OKEEFE	Danny who sang "Good Time Charlie's Got the Blues"
+10	UNI	Single opening?
+11	QSOGTYP	Ones biased against the elderly
+12	HINDUUTOPIA	Nirvana, essentially?
+14	UBI	___ supra (text comment)
+15	OSH	Kyrgyz region or its capital
+16	ISTLES	Carpet fibers
+19	OFF	Not at work
+22	TUE	Calendar abbr.
+23	TES	Your, to Yvette
+25	NBA	Org. for the Nets and Nuggets
+26	ODS	Some hosp. cases
+27	NEREID	Calypso, e.g.
+29	TET	Asian New Year
+32	RAH	Stadium cheer
+33	OVERSEAIOUS	U.S. foreign aid, mostly
+38	KHATAMI	Iranian president Mohammed ___
+39	MSU	E. Lansing school
+40	ESKERS	Glacial ridges
+41	ESA	That, to a se
+25
+1	HUH	Word from one who isn't following
+2	ONI	Clandestine maritime org.
+3	MINUTESTEAK	Teensy-weensy piece of beef?
+4	OSU	Big 10 sch.
+5	KOTO	Japanese stringed instrument
+6	EGOS	Sources of hurt feelings
+7	ETPHONEHOME	Classic 1982 movie line spoken with an outstretched finger
+8	FYI	Post-it note abbr.
+9	EPA	Grp. involved in a cleanup
+11	QUIET	Library sign
+13	DBL	R.B.I. producer, sometimes: Abbr.
+16	ITO	L.A. law figure
+17	SUD	Where Marseille is, en France
+18	SEN	Clinton, e.g.: Abbr.
+20	FBI	Badge issuer, for short
+21	FAD	Pet rocks, once
+24	SERAI	Mideast inn
+28	RAI	Heyerdahl raft
+30	ERTE	Ziegfeld Follies costume designer
+31	TSAR	Michael, for one
+33	OKE	Fine and dandy, in old slang
+34	VHS	DVD precursor
+35	EMS	Dash units
+36	USS	Naval intro
+37	SUA	___ sponte (of its own accord, at law)

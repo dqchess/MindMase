@@ -1,0 +1,165 @@
+grid_11x11_129
+11
+1	0	0	#	0	1	3	0		1	0	0	0	
+0	1	1	N	0	1	3	1	NAV	0	1	6	1	NEWELS
+0	1	2	A	0	1	3	0		0	2	6	1	AWAKEN
+0	1	3	V	0	1	3	0		0	3	3	1	VEN
+1	0	0	#	0	5	0	0		1	4	3	0	
+1	0	0	#	0	6	0	0		1	5	0	0	
+1	0	0	#	0	7	0	0		1	6	5	0	
+1	0	0	#	0	8	3	0		1	7	5	0	
+0	1	4	D	0	8	3	1	DHL	0	8	4	1	DLVI
+0	1	5	H	0	8	3	0		0	9	4	1	HAEC
+0	1	6	L	0	8	3	0		0	10	3	1	LTR
+1	0	0	#	1	1	4	0		2	0	3	0	
+0	1	7	E	1	1	4	1	EWES	0	1	6	0	
+0	0	0	W	1	1	4	0		0	2	6	0	
+0	0	0	E	1	1	4	0		0	3	3	0	
+0	1	8	S	1	1	4	0		1	4	3	1	SEV
+1	0	0	#	1	6	5	0		2	5	7	0	
+0	1	9	D	1	6	5	1	DFLAT	1	6	5	1	DRACO
+0	1	10	F	1	6	5	0		1	7	5	1	FISHO
+0	0	0	L	1	6	5	0		0	8	4	0	
+0	0	0	A	1	6	5	0		0	9	4	0	
+0	0	0	T	1	6	5	0		0	10	3	0	
+0	1	11	S	2	0	11	1	SWANEERIVER	2	0	3	1	SLA
+0	0	0	W	2	0	11	0		0	1	6	0	
+0	0	0	A	2	0	11	0		0	2	6	0	
+0	0	0	N	2	0	11	0		0	3	3	0	
+0	0	0	E	2	0	11	0		1	4	3	0	
+0	1	12	E	2	0	11	0		2	5	7	1	ELEGIAC
+0	0	0	R	2	0	11	0		1	6	5	0	
+0	0	0	I	2	0	11	0		1	7	5	0	
+0	0	0	V	2	0	11	0		0	8	4	0	
+0	0	0	E	2	0	11	0		0	9	4	0	
+0	0	0	R	2	0	11	0		0	10	3	0	
+0	1	13	L	3	0	3	1	LEK	2	0	3	0	
+0	0	0	E	3	0	3	0		0	1	6	0	
+0	0	0	K	3	0	3	0		0	2	6	0	
+1	0	0	#	3	4	6	0		4	3	0	0	
+0	1	14	V	3	4	6	1	VLASIC	1	4	3	0	
+0	0	0	L	3	4	6	0		2	5	7	0	
+0	0	0	A	3	4	6	0		1	6	5	0	
+0	0	0	S	3	4	6	0		1	7	5	0	
+0	0	0	I	3	4	6	0		0	8	4	0	
+0	0	0	C	3	4	6	0		0	9	4	0	
+1	0	0	#	3	11	0	0		4	10	0	0	
+0	1	15	A	4	0	3	1	ALE	2	0	3	0	
+0	0	0	L	4	0	3	0		0	1	6	0	
+0	0	0	E	4	0	3	0		0	2	6	0	
+1	0	0	#	4	4	0	0		5	3	5	0	
+1	0	0	#	4	5	3	0		5	4	5	0	
+0	1	16	E	4	5	3	1	ECH	2	5	7	0	
+0	0	0	C	4	5	3	0		1	6	5	0	
+0	0	0	H	4	5	3	0		1	7	5	0	
+1	0	0	#	4	9	0	0		5	8	6	0	
+1	0	0	#	4	10	0	0		5	9	6	0	
+1	0	0	#	4	11	0	0		5	10	0	0	
+1	0	0	#	5	1	9	0		6	0	0	0	
+0	1	17	S	5	1	9	1	SNOWGOOSE	0	1	6	0	
+0	0	0	N	5	1	9	0		0	2	6	0	
+0	1	18	O	5	1	9	0		5	3	5	1	ODSON
+0	1	19	W	5	1	9	0		5	4	5	1	WAITS
+0	0	0	G	5	1	9	0		2	5	7	0	
+0	0	0	O	5	1	9	0		1	6	5	0	
+0	0	0	O	5	1	9	0		1	7	5	0	
+0	1	20	S	5	1	9	0		5	8	6	1	SPRING
+0	1	21	E	5	1	9	0		5	9	6	1	EXOCET
+1	0	0	#	5	11	0	0		6	10	3	0	
+1	0	0	#	6	1	0	0		7	0	0	0	
+1	0	0	#	6	2	0	0		7	1	4	0	
+1	0	0	#	6	3	3	0		7	2	4	0	
+0	1	22	D	6	3	3	1	DAI	5	3	5	0	
+0	0	0	A	6	3	3	0		5	4	5	0	
+0	0	0	I	6	3	3	0		2	5	7	0	
+1	0	0	#	6	7	0	0		7	6	3	0	
+1	0	0	#	6	8	3	0		7	7	0	0	
+0	1	23	P	6	8	3	1	PXS	5	8	6	0	
+0	0	0	X	6	8	3	0		5	9	6	0	
+0	1	24	S	6	8	3	0		6	10	3	1	SIE
+1	0	0	#	7	1	6	0		8	0	3	0	
+0	1	25	O	7	1	6	1	OSSIAN	7	1	4	1	OEDS
+0	1	26	S	7	1	6	0		7	2	4	1	SRIS
+0	0	0	S	7	1	6	0		5	3	5	0	
+0	0	0	I	7	1	6	0		5	4	5	0	
+0	0	0	A	7	1	6	0		2	5	7	0	
+0	1	27	N	7	1	6	0		7	6	3	1	NHA
+1	0	0	#	7	8	3	0		8	7	3	0	
+0	1	28	R	7	8	3	1	ROI	5	8	6	0	
+0	0	0	O	7	8	3	0		5	9	6	0	
+0	0	0	I	7	8	3	0		6	10	3	0	
+0	1	29	P	8	0	11	1	PEROTCHOICE	8	0	3	1	PAO
+0	0	0	E	8	0	11	0		7	1	4	0	
+0	0	0	R	8	0	11	0		7	2	4	0	
+0	0	0	O	8	0	11	0		5	3	5	0	
+0	0	0	T	8	0	11	0		5	4	5	0	
+0	0	0	C	8	0	11	0		2	5	7	0	
+0	0	0	H	8	0	11	0		7	6	3	0	
+0	1	30	O	8	0	11	0		8	7	3	1	OCA
+0	0	0	I	8	0	11	0		5	8	6	0	
+0	0	0	C	8	0	11	0		5	9	6	0	
+0	0	0	E	8	0	11	0		6	10	3	0	
+0	1	31	A	9	0	5	1	ADINS	8	0	3	0	
+0	0	0	D	9	0	5	0		7	1	4	0	
+0	0	0	I	9	0	5	0		7	2	4	0	
+0	0	0	N	9	0	5	0		5	3	5	0	
+0	0	0	S	9	0	5	0		5	4	5	0	
+1	0	0	#	9	6	4	0		10	5	0	0	
+0	1	32	A	9	6	4	1	ACNE	7	6	3	0	
+0	0	0	C	9	6	4	0		8	7	3	0	
+0	0	0	N	9	6	4	0		5	8	6	0	
+0	0	0	E	9	6	4	0		5	9	6	0	
+1	0	0	#	9	11	0	0		10	10	0	0	
+0	1	33	O	10	0	3	1	OSS	8	0	3	0	
+0	0	0	S	10	0	3	0		7	1	4	0	
+0	0	0	S	10	0	3	0		7	2	4	0	
+1	0	0	#	10	4	0	0		11	3	0	0	
+1	0	0	#	10	5	0	0		11	4	0	0	
+1	0	0	#	10	6	0	0		11	5	0	0	
+1	0	0	#	10	7	3	0		11	6	0	0	
+0	1	34	A	10	7	3	1	AGT	8	7	3	0	
+0	0	0	G	10	7	3	0		5	8	6	0	
+0	0	0	T	10	7	3	0		5	9	6	0	
+1	0	0	#	10	11	0	0		11	10	0	0	
+19
+1	NAV	Like certain engineers: Abbr.
+4	DHL	FedEx rival
+7	EWES	Some sheep
+9	DFLAT	C sharp equivalent
+11	SWANEERIVER	Foster home?
+13	LEK	Albanian money
+14	VLASIC	Pickle brand
+15	ALE	Sam Adams product
+16	ECH	Command level: Abbr.
+17	SNOWGOOSE	Bird of the American Arctic that migrates south
+22	DAI	Bao ___ (former Vietnamese emperor)
+23	PXS	G.I.'s suppliers
+25	OSSIAN	Legendary Gaelic bard
+28	ROI	Charles, e.g.
+29	PEROTCHOICE	James Stockdale as running mate?
+31	ADINS	Some tennis scores
+32	ACNE	Skin breakout
+33	OSS	C.I.A. progenitor
+34	AGT	Actor's rep: Abbr.
+21
+1	NEWELS	Uprights on staircases
+2	AWAKEN	Rise and shine
+3	VEN	Title for one on the way to sainthood: Abbr.
+4	DLVI	Mid sixth-century year
+5	HAEC	Feminine "this," to Brutus
+6	LTR	Env. contents
+8	SEV	Unspecified no.
+9	DRACO	Harsh Athenian lawgiver
+10	FISHO	Fatty acid source
+11	SLA	...
+12	ELEGIAC	Like a Thomas Gray work
+18	ODSON	Has way too much of, slangily
+19	WAITS	Does a gar
+20	SPRING	Time for a break
+21	EXOCET	Missile that sank a British destroyer in the Falklands War
+24	SIE	You: Ger.
+25	OEDS	Ref. volumes
+26	SRIS	Eastern holy men's titles
+27	NHA	Shelter grp.
+29	PAO	Kung ___ shrimp
+30	OCA	South American tuber

@@ -1,0 +1,229 @@
+grid_13x13_103
+13
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	0	0		1	1	4	0	
+1	0	0	#	0	3	3	0		1	2	12	0	
+0	1	1	I	0	3	3	1	ILS	0	3	3	1	III
+0	1	2	L	0	3	3	0		0	4	6	1	LLBEAN
+0	1	3	S	0	3	3	0		0	5	4	1	SLOP
+1	0	0	#	0	7	0	0		1	6	11	0	
+1	0	0	#	0	8	0	0		1	7	0	0	
+1	0	0	#	0	9	3	0		1	8	5	0	
+0	1	4	C	0	9	3	1	CTA	0	9	4	1	CAPN
+0	1	5	T	0	9	3	0		0	10	12	1	TATTLETALRAY
+0	1	6	A	0	9	3	0		0	11	7	1	AGHEELS
+1	0	0	#	0	13	0	0		1	12	0	0	
+0	1	7	C	1	0	7	1	CAMILLO	1	0	3	1	CCS
+0	1	8	A	1	0	7	0		1	1	4	1	AAAA
+0	1	9	M	1	0	7	0		1	2	12	1	MRNICEGUYANA
+0	0	0	I	1	0	7	0		0	3	3	0	
+0	0	0	L	1	0	7	0		0	4	6	0	
+0	0	0	L	1	0	7	0		0	5	4	0	
+0	1	10	O	1	0	7	0		1	6	11	1	OUIMONSIEUR
+1	0	0	#	1	8	4	0		2	7	0	0	
+0	1	11	H	1	8	4	1	HAAG	1	8	5	1	HUEVO
+0	0	0	A	1	8	4	0		0	9	4	0	
+0	0	0	A	1	8	4	0		0	10	12	0	
+0	0	0	G	1	8	4	0		0	11	7	0	
+1	0	0	#	1	13	0	0		2	12	4	0	
+0	1	12	C	2	0	7	1	CARIBOU	1	0	3	0	
+0	0	0	A	2	0	7	0		1	1	4	0	
+0	0	0	R	2	0	7	0		1	2	12	0	
+0	0	0	I	2	0	7	0		0	3	3	0	
+0	0	0	B	2	0	7	0		0	4	6	0	
+0	0	0	O	2	0	7	0		0	5	4	0	
+0	0	0	U	2	0	7	0		1	6	11	0	
+1	0	0	#	2	8	5	0		3	7	4	0	
+0	1	13	U	2	8	5	1	UPTHE	1	8	5	0	
+0	0	0	P	2	8	5	0		0	9	4	0	
+0	0	0	T	2	8	5	0		0	10	12	0	
+0	0	0	H	2	8	5	0		0	11	7	0	
+0	1	14	E	2	8	5	0		2	12	4	1	ERSE
+0	1	15	S	3	0	3	1	SAN	1	0	3	0	
+0	0	0	A	3	0	3	0		1	1	4	0	
+0	0	0	N	3	0	3	0		1	2	12	0	
+1	0	0	#	3	4	9	0		4	3	3	0	
+0	1	16	E	3	4	9	1	EPICENTER	0	4	6	0	
+0	0	0	P	3	4	9	0		0	5	4	0	
+0	0	0	I	3	4	9	0		1	6	11	0	
+0	1	17	C	3	4	9	0		3	7	4	1	CMON
+0	0	0	E	3	4	9	0		1	8	5	0	
+0	0	0	N	3	4	9	0		0	9	4	0	
+0	0	0	T	3	4	9	0		0	10	12	0	
+0	0	0	E	3	4	9	0		0	11	7	0	
+0	0	0	R	3	4	9	0		2	12	4	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	18	A	4	1	4	1	AIWA	1	1	4	0	
+0	0	0	I	4	1	4	0		1	2	12	0	
+0	1	19	W	4	1	4	0		4	3	3	1	WES
+0	0	0	A	4	1	4	0		0	4	6	0	
+1	0	0	#	4	6	3	0		5	5	0	0	
+0	1	20	M	4	6	3	1	MMV	1	6	11	0	
+0	0	0	M	4	6	3	0		3	7	4	0	
+0	0	0	V	4	6	3	0		1	8	5	0	
+1	0	0	#	4	10	3	0		5	9	0	0	
+0	1	21	L	4	10	3	1	LES	0	10	12	0	
+0	0	0	E	4	10	3	0		0	11	7	0	
+0	0	0	S	4	10	3	0		2	12	4	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	22	C	5	2	3	1	CEN	1	2	12	0	
+0	0	0	E	5	2	3	0		4	3	3	0	
+0	0	0	N	5	2	3	0		0	4	6	0	
+1	0	0	#	5	6	3	0		6	5	4	0	
+0	1	23	O	5	6	3	1	OOO	1	6	11	0	
+0	0	0	O	5	6	3	0		3	7	4	0	
+0	0	0	O	5	6	3	0		1	8	5	0	
+1	0	0	#	5	10	3	0		6	9	3	0	
+0	1	24	E	5	10	3	1	ELE	0	10	12	0	
+0	0	0	L	5	10	3	0		0	11	7	0	
+0	0	0	E	5	10	3	0		2	12	4	0	
+1	0	0	#	6	1	3	0		7	0	4	0	
+0	1	25	T	6	1	3	1	TES	6	1	7	1	TOREROS
+0	0	0	E	6	1	3	0		1	2	12	0	
+0	0	0	S	6	1	3	0		4	3	3	0	
+1	0	0	#	6	5	3	0		7	4	5	0	
+0	1	26	T	6	5	3	1	TNN	6	5	4	1	TIPT
+0	0	0	N	6	5	3	0		1	6	11	0	
+0	0	0	N	6	5	3	0		3	7	4	0	
+1	0	0	#	6	9	3	0		7	8	6	0	
+0	1	27	N	6	9	3	1	NTS	6	9	3	1	NWT
+0	0	0	T	6	9	3	0		0	10	12	0	
+0	0	0	S	6	9	3	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+0	1	28	M	7	0	3	1	MOG	7	0	4	1	MAKE
+0	0	0	O	7	0	3	0		6	1	7	0	
+0	0	0	G	7	0	3	0		1	2	12	0	
+1	0	0	#	7	4	3	0		8	3	0	0	
+0	1	29	O	7	4	3	1	OIS	7	4	5	1	OTOES
+0	0	0	I	7	4	3	0		6	5	4	0	
+0	0	0	S	7	4	3	0		1	6	11	0	
+1	0	0	#	7	8	3	0		8	7	0	0	
+0	1	30	S	7	8	3	1	SWA	7	8	6	1	SISALS
+0	0	0	W	7	8	3	0		6	9	3	0	
+0	0	0	A	7	8	3	0		0	10	12	0	
+1	0	0	#	7	12	0	0		8	11	4	0	
+1	0	0	#	7	13	0	0		8	12	0	0	
+0	1	31	A	8	0	3	1	ARU	7	0	4	0	
+0	0	0	R	8	0	3	0		6	1	7	0	
+0	0	0	U	8	0	3	0		1	2	12	0	
+1	0	0	#	8	4	3	0		9	3	4	0	
+0	1	32	T	8	4	3	1	TPI	7	4	5	0	
+0	0	0	P	8	4	3	0		6	5	4	0	
+0	0	0	I	8	4	3	0		1	6	11	0	
+1	0	0	#	8	8	4	0		9	7	4	0	
+0	1	33	I	8	8	4	1	ITLL	7	8	6	0	
+0	0	0	T	8	8	4	0		6	9	3	0	
+0	0	0	L	8	8	4	0		0	10	12	0	
+0	1	34	L	8	8	4	0		8	11	4	1	LURE
+1	0	0	#	8	13	0	0		9	12	3	0	
+0	1	35	K	9	0	9	1	KEYNOTERS	7	0	4	0	
+0	0	0	E	9	0	9	0		6	1	7	0	
+0	0	0	Y	9	0	9	0		1	2	12	0	
+0	1	36	N	9	0	9	0		9	3	4	1	NSEC
+0	0	0	O	9	0	9	0		7	4	5	0	
+0	0	0	T	9	0	9	0		6	5	4	0	
+0	0	0	E	9	0	9	0		1	6	11	0	
+0	1	37	R	9	0	9	0		9	7	4	1	RNAS
+0	0	0	S	9	0	9	0		7	8	6	0	
+1	0	0	#	9	10	3	0		10	9	3	0	
+0	1	38	R	9	10	3	1	RUY	0	10	12	0	
+0	0	0	U	9	10	3	0		8	11	4	0	
+0	1	39	Y	9	10	3	0		9	12	3	1	YES
+0	1	40	E	10	0	5	1	ERASE	7	0	4	0	
+0	0	0	R	10	0	5	0		6	1	7	0	
+0	0	0	A	10	0	5	0		1	2	12	0	
+0	0	0	S	10	0	5	0		9	3	4	0	
+0	0	0	E	10	0	5	0		7	4	5	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	41	U	10	6	7	1	UNAWARE	1	6	11	0	
+0	0	0	N	10	6	7	0		9	7	4	0	
+0	0	0	A	10	6	7	0		7	8	6	0	
+0	1	42	W	10	6	7	0		10	9	3	1	WLE
+0	0	0	A	10	6	7	0		0	10	12	0	
+0	0	0	R	10	6	7	0		8	11	4	0	
+0	0	0	E	10	6	7	0		9	12	3	0	
+1	0	0	#	11	1	4	0		12	0	0	0	
+0	1	43	O	11	1	4	1	ONES	6	1	7	0	
+0	0	0	N	11	1	4	0		1	2	12	0	
+0	0	0	E	11	1	4	0		9	3	4	0	
+0	0	0	S	11	1	4	0		7	4	5	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	44	R	11	6	7	1	RALLYES	1	6	11	0	
+0	0	0	A	11	6	7	0		9	7	4	0	
+0	0	0	L	11	6	7	0		7	8	6	0	
+0	0	0	L	11	6	7	0		10	9	3	0	
+0	0	0	Y	11	6	7	0		0	10	12	0	
+0	0	0	E	11	6	7	0		8	11	4	0	
+0	0	0	S	11	6	7	0		9	12	3	0	
+1	0	0	#	12	1	3	0		13	0	0	0	
+0	1	45	S	12	1	3	1	SAC	6	1	7	0	
+0	0	0	A	12	1	3	0		1	2	12	0	
+0	0	0	C	12	1	3	0		9	3	4	0	
+1	0	0	#	12	5	0	0		13	4	0	0	
+1	0	0	#	12	6	0	0		13	5	0	0	
+1	0	0	#	12	7	3	0		13	6	0	0	
+0	1	46	S	12	7	3	1	SSE	9	7	4	0	
+0	0	0	S	12	7	3	0		7	8	6	0	
+0	0	0	E	12	7	3	0		10	9	3	0	
+1	0	0	#	12	11	0	0		13	10	0	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+31
+1	ILS	They, to Thiers
+4	CTA	Windy City transportation org.
+7	CAMILLO	Physician Golgi, for whom Golgi bodies are named
+11	HAAG	Den ___, Nederland
+12	CARIBOU	Game in the Arctic
+13	UPTHE	___ creek
+15	SAN	___ Lorenzo, Calif.
+16	EPICENTER	Where some waves originate
+18	AIWA	Sony competitor
+20	MMV	Year of Super Bowl XXXIX
+21	LES	___ Brown and His Band of Renown
+22	CEN	The 1900's, e.g.: Abbr.
+23	OOO	Tic-tac-toe victory
+24	ELE	One in the charge of un instituteur
+25	TES	Your, in Tours
+26	TNN	C & W channel
+27	NTS	Some Windows systems
+28	MOG	Pet cat, in British lingo
+29	OIS	French suffix with Qu
+30	SWA	United competitor: Abbr.
+31	ARU	Indonesia's ___ Islands
+32	TPI	Object
+33	ITLL	"___ never work!"
+35	KEYNOTERS	Convention V.I.P.'s
+38	RUY	Chess's ___ Lopez opening
+40	ERASE	Totally eliminate
+41	UNAWARE	Ignorant (of)
+43	ONES	Snake eyes
+44	RALLYES	Driving events that use checkpoints
+45	SAC	Pouch
+46	SSE	180
+25
+1	III	"Rocky ___"
+2	LLBEAN	Popular catalogue company
+3	SLOP	Sow chow
+4	CAPN	___ Crunch
+5	TATTLETALRAY	What Fels-Naptha banished, in old ads
+6	AGHEELS	Tonto portrayer, briefly
+7	CCS	IV measurements
+8	AAAA	Tiny battery
+9	MRNICEGUYANA	Title for a South American mensch?
+10	OUIMONSIEUR	Polite assent in Paris
+11	HUEVO	Baja breakfast order
+14	ERSE	Gaelic tongue
+17	CMON	"Follow us!"
+19	WES	Jazz's Montgomery
+25	TOREROS	Stars in a ring
+26	TIPT	Summit
+27	NWT	Yukon neighbor: Abbr.
+28	MAKE	Manufacture
+29	OTOES	Relatives of the Missouria
+30	SISALS	Rope fibers
+34	LURE	Fisher's plug
+36	NSEC	Tiny amount of time: Abbr.
+37	RNAS	Genetic molecules
+39	YES	"Absolutely!"
+42	WLE	Corduroy ridge

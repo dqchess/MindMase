@@ -1,0 +1,307 @@
+grid_15x15_133
+15
+0	1	1	C	0	0	3	1	CMD	0	0	3	1	CST
+0	1	2	M	0	0	3	0		0	1	3	1	MOL
+0	1	3	D	0	0	3	0		0	2	3	1	DIM
+1	0	0	#	0	4	0	0		1	3	5	0	
+1	0	0	#	0	5	0	0		1	4	0	0	
+1	0	0	#	0	6	3	0		1	5	3	0	
+0	1	4	D	0	6	3	1	DIP	0	6	3	1	DMA
+0	1	5	I	0	6	3	0		0	7	5	1	ISLAM
+0	1	6	P	0	6	3	0		0	8	5	1	PTERO
+1	0	0	#	0	10	0	0		1	9	3	0	
+1	0	0	#	0	11	3	0		1	10	3	0	
+0	1	7	O	0	11	3	1	ODE	0	11	6	1	ODONTO
+0	1	8	D	0	11	3	0		0	12	11	1	DAMNYANKEES
+0	1	9	E	0	11	3	0		0	13	5	1	EMEER
+1	0	0	#	0	15	0	0		1	14	0	0	
+0	1	10	S	1	0	4	1	SOIL	0	0	3	0	
+0	0	0	O	1	0	4	0		0	1	3	0	
+0	0	0	I	1	0	4	0		0	2	3	0	
+0	1	11	L	1	0	4	0		1	3	5	1	LARAM
+1	0	0	#	1	5	9	0		2	4	0	0	
+0	1	12	A	1	5	9	1	AMSTERDAM	1	5	3	1	ASO
+0	0	0	M	1	5	9	0		0	6	3	0	
+0	0	0	S	1	5	9	0		0	7	5	0	
+0	0	0	T	1	5	9	0		0	8	5	0	
+0	1	13	E	1	5	9	0		1	9	3	1	ESD
+0	1	14	R	1	5	9	0		1	10	3	1	RWE
+0	0	0	D	1	5	9	0		0	11	6	0	
+0	0	0	A	1	5	9	0		0	12	11	0	
+0	0	0	M	1	5	9	0		0	13	5	0	
+1	0	0	#	1	15	0	0		2	14	3	0	
+0	1	15	T	2	0	4	1	TLMA	0	0	3	0	
+0	0	0	L	2	0	4	0		0	1	3	0	
+0	0	0	M	2	0	4	0		0	2	3	0	
+0	0	0	A	2	0	4	0		1	3	5	0	
+1	0	0	#	2	5	10	0		3	4	3	0	
+0	1	16	S	2	5	10	1	SALESWOMEN	1	5	3	0	
+0	0	0	A	2	5	10	0		0	6	3	0	
+0	0	0	L	2	5	10	0		0	7	5	0	
+0	0	0	E	2	5	10	0		0	8	5	0	
+0	0	0	S	2	5	10	0		1	9	3	0	
+0	0	0	W	2	5	10	0		1	10	3	0	
+0	0	0	O	2	5	10	0		0	11	6	0	
+0	0	0	M	2	5	10	0		0	12	11	0	
+0	0	0	E	2	5	10	0		0	13	5	0	
+0	1	17	N	2	5	10	0		2	14	3	1	NSA
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	3	0		4	2	11	0	
+0	1	18	R	3	3	3	1	REO	1	3	5	0	
+0	1	19	E	3	3	3	0		3	4	3	1	EGS
+0	0	0	O	3	3	3	0		1	5	3	0	
+1	0	0	#	3	7	8	0		4	6	5	0	
+0	1	20	A	3	7	8	1	ARDENNES	0	7	5	0	
+0	0	0	R	3	7	8	0		0	8	5	0	
+0	0	0	D	3	7	8	0		1	9	3	0	
+0	0	0	E	3	7	8	0		1	10	3	0	
+0	0	0	N	3	7	8	0		0	11	6	0	
+0	0	0	N	3	7	8	0		0	12	11	0	
+0	0	0	E	3	7	8	0		0	13	5	0	
+0	0	0	S	3	7	8	0		2	14	3	0	
+1	0	0	#	4	1	4	0		5	0	0	0	
+0	1	21	S	4	1	4	1	SNAG	4	1	5	1	SCRUB
+0	1	22	N	4	1	4	0		4	2	11	1	NOSUCHTHING
+0	0	0	A	4	1	4	0		1	3	5	0	
+0	0	0	G	4	1	4	0		3	4	3	0	
+1	0	0	#	4	6	3	0		5	5	4	0	
+0	1	23	A	4	6	3	1	AMO	4	6	5	1	ATNOS
+0	0	0	M	4	6	3	0		0	7	5	0	
+0	0	0	O	4	6	3	0		0	8	5	0	
+1	0	0	#	4	10	0	0		5	9	0	0	
+1	0	0	#	4	11	4	0		5	10	3	0	
+0	1	24	T	4	11	4	1	TYRA	0	11	6	0	
+0	0	0	Y	4	11	4	0		0	12	11	0	
+0	0	0	R	4	11	4	0		0	13	5	0	
+0	0	0	A	4	11	4	0		2	14	3	0	
+1	0	0	#	5	1	6	0		6	0	3	0	
+0	1	25	C	5	1	6	1	COMSAT	4	1	5	0	
+0	0	0	O	5	1	6	0		4	2	11	0	
+0	0	0	M	5	1	6	0		1	3	5	0	
+0	0	0	S	5	1	6	0		3	4	3	0	
+0	1	26	A	5	1	6	0		5	5	4	1	AUTO
+0	0	0	T	5	1	6	0		4	6	5	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	5	0	
+1	0	0	#	5	10	3	0		6	9	4	0	
+0	1	27	L	5	10	3	1	LOA	5	10	3	1	LEG
+0	0	0	O	5	10	3	0		0	11	6	0	
+0	0	0	A	5	10	3	0		0	12	11	0	
+1	0	0	#	5	14	0	0		6	13	5	0	
+1	0	0	#	5	15	0	0		6	14	3	0	
+0	1	28	M	6	0	3	1	MRS	6	0	3	1	MUS
+0	0	0	R	6	0	3	0		4	1	5	0	
+0	0	0	S	6	0	3	0		4	2	11	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	6	0		7	4	3	0	
+0	1	29	U	6	5	6	1	UNTRUE	5	5	4	0	
+0	0	0	N	6	5	6	0		4	6	5	0	
+0	1	30	T	6	5	6	0		6	7	3	1	TNT
+0	1	31	R	6	5	6	0		6	8	5	1	RICAN
+0	1	32	U	6	5	6	0		6	9	4	1	UNOS
+0	0	0	E	6	5	6	0		5	10	3	0	
+1	0	0	#	6	12	3	0		7	11	0	0	
+0	1	33	N	6	12	3	1	NOM	0	12	11	0	
+0	1	34	O	6	12	3	0		6	13	5	1	OPINE
+0	1	35	M	6	12	3	0		6	14	3	1	MSN
+0	1	36	U	7	0	3	1	UUU	6	0	3	0	
+0	0	0	U	7	0	3	0		4	1	5	0	
+0	0	0	U	7	0	3	0		4	2	11	0	
+1	0	0	#	7	4	7	0		8	3	0	0	
+0	1	37	A	7	4	7	1	ATONING	7	4	3	1	ACH
+0	0	0	T	7	4	7	0		5	5	4	0	
+0	0	0	O	7	4	7	0		4	6	5	0	
+0	0	0	N	7	4	7	0		6	7	3	0	
+0	0	0	I	7	4	7	0		6	8	5	0	
+0	0	0	N	7	4	7	0		6	9	4	0	
+0	0	0	G	7	4	7	0		5	10	3	0	
+1	0	0	#	7	12	3	0		8	11	0	0	
+0	1	38	K	7	12	3	1	KPS	0	12	11	0	
+0	0	0	P	7	12	3	0		6	13	5	0	
+0	0	0	S	7	12	3	0		6	14	3	0	
+0	1	39	S	8	0	3	1	SBC	6	0	3	0	
+0	0	0	B	8	0	3	0		4	1	5	0	
+0	0	0	C	8	0	3	0		4	2	11	0	
+1	0	0	#	8	4	6	0		9	3	6	0	
+0	1	40	C	8	4	6	1	COSTCO	7	4	3	0	
+0	0	0	O	8	4	6	0		5	5	4	0	
+0	0	0	S	8	4	6	0		4	6	5	0	
+0	0	0	T	8	4	6	0		6	7	3	0	
+0	0	0	C	8	4	6	0		6	8	5	0	
+0	0	0	O	8	4	6	0		6	9	4	0	
+1	0	0	#	8	11	0	0		9	10	3	0	
+1	0	0	#	8	12	3	0		9	11	5	0	
+0	1	41	E	8	12	3	1	EIN	0	12	11	0	
+0	0	0	I	8	12	3	0		6	13	5	0	
+0	0	0	N	8	12	3	0		6	14	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	5	0	
+0	1	42	H	9	2	3	1	HUH	4	2	11	0	
+0	1	43	U	9	2	3	0		9	3	6	1	UNITER
+0	0	0	H	9	2	3	0		7	4	3	0	
+1	0	0	#	9	6	0	0		10	5	0	0	
+1	0	0	#	9	7	0	0		10	6	5	0	
+1	0	0	#	9	8	6	0		10	7	5	0	
+0	1	44	A	9	8	6	1	ASHMEN	6	8	5	0	
+0	0	0	S	9	8	6	0		6	9	4	0	
+0	1	45	H	9	8	6	0		9	10	3	1	HBS
+0	1	46	M	9	8	6	0		9	11	5	1	MOPES
+0	0	0	E	9	8	6	0		0	12	11	0	
+0	0	0	N	9	8	6	0		6	13	5	0	
+1	0	0	#	9	15	0	0		10	14	0	0	
+0	1	47	A	10	0	4	1	ATTN	10	0	3	1	AMU
+0	1	48	T	10	0	4	0		10	1	5	1	TANIA
+0	0	0	T	10	0	4	0		4	2	11	0	
+0	0	0	N	10	0	4	0		9	3	6	0	
+1	0	0	#	10	5	0	0		11	4	3	0	
+1	0	0	#	10	6	3	0		11	5	3	0	
+0	1	49	S	10	6	3	1	SSN	10	6	5	1	SHIES
+0	1	50	S	10	6	3	0		10	7	5	1	SIGNE
+0	0	0	N	10	6	3	0		6	8	5	0	
+1	0	0	#	10	10	4	0		11	9	3	0	
+0	1	51	B	10	10	4	1	BOSE	9	10	3	0	
+0	0	0	O	10	10	4	0		9	11	5	0	
+0	0	0	S	10	10	4	0		0	12	11	0	
+0	0	0	E	10	10	4	0		6	13	5	0	
+1	0	0	#	10	15	0	0		11	14	0	0	
+0	1	52	M	11	0	8	1	MAHIMAHI	10	0	3	0	
+0	0	0	A	11	0	8	0		10	1	5	0	
+0	0	0	H	11	0	8	0		4	2	11	0	
+0	0	0	I	11	0	8	0		9	3	6	0	
+0	1	53	M	11	0	8	0		11	4	3	1	MSS
+0	1	54	A	11	0	8	0		11	5	3	1	ADS
+0	0	0	H	11	0	8	0		10	6	5	0	
+0	0	0	I	11	0	8	0		10	7	5	0	
+1	0	0	#	11	9	3	0		12	8	3	0	
+0	1	55	E	11	9	3	1	ESP	11	9	3	1	ETE
+0	0	0	S	11	9	3	0		9	10	3	0	
+0	0	0	P	11	9	3	0		9	11	5	0	
+1	0	0	#	11	13	0	0		12	12	3	0	
+1	0	0	#	11	14	0	0		12	13	3	0	
+1	0	0	#	11	15	0	0		12	14	3	0	
+0	1	56	U	12	0	10	1	UNITSDIGIT	10	0	3	0	
+0	0	0	N	12	0	10	0		10	1	5	0	
+0	0	0	I	12	0	10	0		4	2	11	0	
+0	0	0	T	12	0	10	0		9	3	6	0	
+0	0	0	S	12	0	10	0		11	4	3	0	
+0	0	0	D	12	0	10	0		11	5	3	0	
+0	0	0	I	12	0	10	0		10	6	5	0	
+0	0	0	G	12	0	10	0		10	7	5	0	
+0	1	57	I	12	0	10	0		12	8	3	1	ICC
+0	0	0	T	12	0	10	0		11	9	3	0	
+1	0	0	#	12	11	4	0		13	10	0	0	
+0	1	58	E	12	11	4	1	EDOM	9	11	5	0	
+0	1	59	D	12	11	4	0		12	12	3	1	DFQ
+0	1	60	O	12	11	4	0		12	13	3	1	OCA
+0	1	61	M	12	11	4	0		12	14	3	1	MST
+1	0	0	#	13	1	9	0		14	0	0	0	
+0	1	62	I	13	1	9	1	INESSENCE	10	1	5	0	
+0	0	0	N	13	1	9	0		4	2	11	0	
+0	0	0	E	13	1	9	0		9	3	6	0	
+0	0	0	S	13	1	9	0		11	4	3	0	
+0	0	0	S	13	1	9	0		11	5	3	0	
+0	0	0	E	13	1	9	0		10	6	5	0	
+0	0	0	N	13	1	9	0		10	7	5	0	
+0	0	0	C	13	1	9	0		12	8	3	0	
+0	0	0	E	13	1	9	0		11	9	3	0	
+1	0	0	#	13	11	4	0		14	10	0	0	
+0	1	63	S	13	11	4	1	SFCS	9	11	5	0	
+0	0	0	F	13	11	4	0		12	12	3	0	
+0	0	0	C	13	11	4	0		12	13	3	0	
+0	0	0	S	13	11	4	0		12	14	3	0	
+1	0	0	#	14	1	3	0		15	0	0	0	
+0	1	64	A	14	1	3	1	AGR	10	1	5	0	
+0	0	0	G	14	1	3	0		4	2	11	0	
+0	0	0	R	14	1	3	0		9	3	6	0	
+1	0	0	#	14	5	0	0		15	4	0	0	
+1	0	0	#	14	6	3	0		15	5	0	0	
+0	1	65	S	14	6	3	1	SEC	10	6	5	0	
+0	0	0	E	14	6	3	0		10	7	5	0	
+0	0	0	C	14	6	3	0		12	8	3	0	
+1	0	0	#	14	10	0	0		15	9	0	0	
+1	0	0	#	14	11	0	0		15	10	0	0	
+1	0	0	#	14	12	3	0		15	11	0	0	
+0	1	66	Q	14	12	3	1	QAT	12	12	3	0	
+0	0	0	A	14	12	3	0		12	13	3	0	
+0	0	0	T	14	12	3	0		12	14	3	0	
+37
+1	CMD	It follows a chain in the military: Abbr.
+4	DIP	Fondue feature
+7	ODE	Literary tribute
+10	SOIL	Target of some pH tests
+12	AMSTERDAM	Rijksmuseum locale
+15	TLMA	Longtime Vicki Lawrence character
+16	SALESWOMEN	Business personnel
+18	REO	Rock's ___ Speedwagon
+20	ARDENNES	Battle of the Bulge locale
+21	SNAG	Rub, in a way
+23	AMO	One of a Latin trio
+24	TYRA	Banks of daytime TV
+25	COMSAT	Co. offering broadband service
+27	LOA	"Aloha nui ___" (warm greeting in Waikiki)
+28	MRS	Questionnaire check box option
+29	UNTRUE	Two-timing
+33	NOM	Henri or Pierre, e.g.
+36	UUU	Familiar Olympics chant
+37	ATONING	Lent effort
+38	KPS	Ones with potato peelers, for short
+39	SBC	Year that Dionysius of Halicarnassus is believed to have died
+40	COSTCO	Sam's Club competitor
+41	EIN	One from Wittenberg
+42	HUH	"What?"
+44	ASHMEN	Trash collectors
+47	ATTN	Memo starter
+49	SSN	ID entered on every I.R.S. form
+51	BOSE	Big name in audio equipment
+52	MAHIMAHI	Hawaiian foodfish
+55	ESP	Mind-reading ability, for short
+56	UNITSDIGIT	It precedes the decimal point
+58	EDOM	Ancient land south of the Dead Sea
+62	INESSENCE	Basically
+63	SFCS	Certain NCOs
+64	AGR	U.S.D.A. part: Abbr.
+65	SEC	Flash
+66	QAT	Plant chewed in Arabia
+41
+1	CST	St. Louis zone: Abbr.
+2	MOL	Elem. unit
+3	DIM	Bubbleheaded
+4	DMA	Basic teaching
+5	ISLAM	Its literal translation is "submission"
+6	PTERO	Prefix with dactyl
+7	ODONTO	Tooth: Prefix
+8	DAMNYANKEES	"Whatever Lola Wants" musical
+9	EMEER	Arabian title
+11	LARAM	Former pro gridder
+12	ASO	Japan's largest active volcano
+13	ESD	Either of two books of the Apocrypha: Abbr.
+14	RWE	"Concord Hymn" writer's inits.
+17	NSA	Cryptologist's org.
+19	EGS	Units in physics
+21	SCRUB	Clean with elbow grease
+22	NOSUCHTHING	It doesn't exist
+23	ATNOS	B and O figures: Abbr.
+26	AUTO	Prefix with focus
+27	LEG	Part of a journey
+28	MUS	R&B and C&W: Abbr.
+30	TNT	"We know drama" sloganeer
+31	RICAN	Puerto ___
+32	UNOS	Spanish ones
+34	OPINE	Put one's two cents in
+35	MSN	Popular portal
+37	ACH	German beef?
+43	UNITER	Minister at a wedding, e.g.
+45	HBS	Quoits pegs
+46	MOPES	Is gloomy
+47	AMU	___ Darya (river to the Aral Sea)
+48	TANIA	"Goldfinger" actress Mallet
+49	SHIES	Draws back
+50	SIGNE	Swedish actress ___ Hasso
+53	MSS	Eds. read them
+54	ADS	TV breaks
+55	ETE	Time for les vacances
+57	ICC	Transportation regulator of old: Abbr.
+59	DFQ	Sphere
+60	OCA	Wood sorrel
+61	MST	Phoenix hrs.

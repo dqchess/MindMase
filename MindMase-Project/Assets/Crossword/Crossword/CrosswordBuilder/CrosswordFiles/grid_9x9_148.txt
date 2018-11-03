@@ -1,0 +1,115 @@
+grid_9x9_148
+9
+0	1	1	L	0	0	4	1	LEGG	0	0	3	1	LAK
+0	1	2	E	0	0	4	0		0	1	3	1	ERL
+0	1	3	G	0	0	4	0		0	2	9	1	GEEKSQUAD
+0	1	4	G	0	0	4	0		0	3	5	1	GEENA
+1	0	0	#	0	5	0	0		1	4	7	0	
+1	0	0	#	0	6	3	0		1	5	0	0	
+0	1	5	A	0	6	3	1	ASH	0	6	9	1	AESCHYLUS
+0	1	6	S	0	6	3	0		0	7	5	1	SLITS
+0	1	7	H	0	6	3	0		0	8	4	1	HORA
+0	1	8	A	1	0	5	1	AREED	0	0	3	0	
+0	0	0	R	1	0	5	0		0	1	3	0	
+0	0	0	E	1	0	5	0		0	2	9	0	
+0	0	0	E	1	0	5	0		0	3	5	0	
+0	1	9	D	1	0	5	0		1	4	7	1	DSTICKS
+1	0	0	#	1	6	3	0		2	5	0	0	
+0	1	10	E	1	6	3	1	ELO	0	6	9	0	
+0	0	0	L	1	6	3	0		0	7	5	0	
+0	0	0	O	1	6	3	0		0	8	4	0	
+0	1	11	K	2	0	5	1	KLEES	0	0	3	0	
+0	0	0	L	2	0	5	0		0	1	3	0	
+0	0	0	E	2	0	5	0		0	2	9	0	
+0	0	0	E	2	0	5	0		0	3	5	0	
+0	0	0	S	2	0	5	0		1	4	7	0	
+1	0	0	#	2	6	3	0		3	5	0	0	
+0	1	12	S	2	6	3	1	SIR	0	6	9	0	
+0	0	0	I	2	6	3	0		0	7	5	0	
+0	0	0	R	2	6	3	0		0	8	4	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	3	0		4	1	5	0	
+0	1	13	K	3	2	3	1	KNT	0	2	9	0	
+0	0	0	N	3	2	3	0		0	3	5	0	
+0	0	0	T	3	2	3	0		1	4	7	0	
+1	0	0	#	3	6	3	0		4	5	5	0	
+0	1	14	C	3	6	3	1	CTA	0	6	9	0	
+0	0	0	T	3	6	3	0		0	7	5	0	
+0	0	0	A	3	6	3	0		0	8	4	0	
+1	0	0	#	4	1	7	0		5	0	4	0	
+0	1	15	I	4	1	7	1	ISAIAHS	4	1	5	1	IDEST
+0	0	0	S	4	1	7	0		0	2	9	0	
+0	0	0	A	4	1	7	0		0	3	5	0	
+0	0	0	I	4	1	7	0		1	4	7	0	
+0	1	16	A	4	1	7	0		4	5	5	1	ARILS
+0	0	0	H	4	1	7	0		0	6	9	0	
+0	0	0	S	4	1	7	0		0	7	5	0	
+1	0	0	#	4	9	0	0		5	8	0	0	
+0	1	17	P	5	0	3	1	PDQ	5	0	4	1	PSAS
+0	0	0	D	5	0	3	0		4	1	5	0	
+0	0	0	Q	5	0	3	0		0	2	9	0	
+1	0	0	#	5	4	3	0		6	3	0	0	
+0	1	18	C	5	4	3	1	CRY	1	4	7	0	
+0	0	0	R	5	4	3	0		4	5	5	0	
+0	0	0	Y	5	4	3	0		0	6	9	0	
+1	0	0	#	5	8	0	0		6	7	3	0	
+1	0	0	#	5	9	0	0		6	8	3	0	
+0	1	19	S	6	0	3	1	SEU	5	0	4	0	
+0	0	0	E	6	0	3	0		4	1	5	0	
+0	0	0	U	6	0	3	0		0	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	20	K	6	4	5	1	KILNS	1	4	7	0	
+0	0	0	I	6	4	5	0		4	5	5	0	
+0	0	0	L	6	4	5	0		0	6	9	0	
+0	1	21	N	6	4	5	0		6	7	3	1	NES
+0	1	22	S	6	4	5	0		6	8	3	1	SDS
+0	1	23	A	7	0	3	1	ASA	5	0	4	0	
+0	0	0	S	7	0	3	0		4	1	5	0	
+0	0	0	A	7	0	3	0		0	2	9	0	
+1	0	0	#	7	4	5	0		8	3	0	0	
+0	1	24	S	7	4	5	1	SLUED	1	4	7	0	
+0	0	0	L	7	4	5	0		4	5	5	0	
+0	0	0	U	7	4	5	0		0	6	9	0	
+0	0	0	E	7	4	5	0		6	7	3	0	
+0	0	0	D	7	4	5	0		6	8	3	0	
+0	1	25	S	8	0	3	1	STD	5	0	4	0	
+0	0	0	T	8	0	3	0		4	1	5	0	
+0	0	0	D	8	0	3	0		0	2	9	0	
+1	0	0	#	8	4	0	0		9	3	0	0	
+1	0	0	#	8	5	4	0		9	4	0	0	
+0	1	26	S	8	5	4	1	SSSS	4	5	5	0	
+0	0	0	S	8	5	4	0		0	6	9	0	
+0	0	0	S	8	5	4	0		6	7	3	0	
+0	0	0	S	8	5	4	0		6	8	3	0	
+17
+1	LEGG	___ Mason (asset management firm)
+5	ASH	Lucky tip?
+8	AREED	Thin as ___
+10	ELO	"Eldorado" rock grp.
+11	KLEES	"Fish Magic" and "Twittering Machine"
+12	SIR	How every letter to The Economist begins
+13	KNT	Round Table title: Abbr.
+14	CTA	Windy City transportation org.
+15	ISAIAHS	Jewish scholar Berlin and others
+17	PDQ	Instantly, for short
+18	CRY	"All for one and one for all," e.g.
+19	SEU	Blood bank supply
+20	KILNS	Ceramists' needs
+23	ASA	Light-feather filler?
+24	SLUED	Turned
+25	STD	Reg. version
+26	SSSS	Air hose sound
+13
+1	LAK	"Mighty ___ a Rose"
+2	ERL	Goethe's "The ___-King"
+3	GEEKSQUAD	Techies affiliated with a major electronics chain
+4	GEENA	Oscar winner Davis
+5	AESCHYLUS	"Prometheus Bound" playwright
+6	SLITS	Skirt features
+7	HORA	Wedding dance
+9	DSTICKS	CHICKEN LEGS
+15	IDEST	Explanatory phrase
+16	ARILS	Botanical casings
+17	PSAS	Some health info ads, for short
+21	NES	Super Mario Bros. player
+22	SDS	Grp. that spawned the Weathermen

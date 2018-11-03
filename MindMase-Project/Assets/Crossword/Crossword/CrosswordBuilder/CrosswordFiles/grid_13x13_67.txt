@@ -1,0 +1,231 @@
+grid_13x13_67
+13
+1	0	0	#	0	1	0	0		1	0	3	0	
+1	0	0	#	0	2	5	0		1	1	3	0	
+0	1	1	L	0	2	5	1	LONIS	0	2	4	1	LUCE
+0	1	2	O	0	2	5	0		0	3	6	1	ONEUPS
+0	1	3	N	0	2	5	0		0	4	5	1	NILLA
+0	1	4	I	0	2	5	0		0	5	10	1	INATTURNER
+0	1	5	S	0	2	5	0		0	6	3	1	SGT
+1	0	0	#	0	8	5	0		1	7	0	0	
+0	1	6	M	0	8	5	1	MASHA	0	8	6	1	MIMOSA
+0	1	7	A	0	8	5	0		0	9	5	1	AWILL
+0	1	8	S	0	8	5	0		0	10	8	1	SALEITEM
+0	1	9	H	0	8	5	0		0	11	3	1	HIE
+0	1	10	A	0	8	5	0		0	12	3	1	ANS
+0	1	11	P	1	0	7	1	PRUNING	1	0	3	1	PEI
+0	1	12	R	1	0	7	0		1	1	3	1	RXS
+0	0	0	U	1	0	7	0		0	2	4	0	
+0	0	0	N	1	0	7	0		0	3	6	0	
+0	0	0	I	1	0	7	0		0	4	5	0	
+0	0	0	N	1	0	7	0		0	5	10	0	
+0	0	0	G	1	0	7	0		0	6	3	0	
+1	0	0	#	1	8	5	0		2	7	0	0	
+0	1	13	I	1	8	5	1	IWAIN	0	8	6	0	
+0	0	0	W	1	8	5	0		0	9	5	0	
+0	0	0	A	1	8	5	0		0	10	8	0	
+0	0	0	I	1	8	5	0		0	11	3	0	
+0	0	0	N	1	8	5	0		0	12	3	0	
+0	1	14	E	2	0	7	1	EXCELAT	1	0	3	0	
+0	0	0	X	2	0	7	0		1	1	3	0	
+0	0	0	C	2	0	7	0		0	2	4	0	
+0	0	0	E	2	0	7	0		0	3	6	0	
+0	0	0	L	2	0	7	0		0	4	5	0	
+0	0	0	A	2	0	7	0		0	5	10	0	
+0	0	0	T	2	0	7	0		0	6	3	0	
+1	0	0	#	2	8	5	0		3	7	10	0	
+0	1	15	M	2	8	5	1	MILES	0	8	6	0	
+0	0	0	I	2	8	5	0		0	9	5	0	
+0	0	0	L	2	8	5	0		0	10	8	0	
+0	0	0	E	2	8	5	0		0	11	3	0	
+0	0	0	S	2	8	5	0		0	12	3	0	
+0	1	16	I	3	0	6	1	ISEULT	1	0	3	0	
+0	0	0	S	3	0	6	0		1	1	3	0	
+0	0	0	E	3	0	6	0		0	2	4	0	
+0	0	0	U	3	0	6	0		0	3	6	0	
+0	0	0	L	3	0	6	0		0	4	5	0	
+0	0	0	T	3	0	6	0		0	5	10	0	
+1	0	0	#	3	7	4	0		4	6	0	0	
+0	1	17	D	3	7	4	1	DOLE	3	7	10	1	DISPARAGED
+0	0	0	O	3	7	4	0		0	8	6	0	
+0	0	0	L	3	7	4	0		0	9	5	0	
+0	0	0	E	3	7	4	0		0	10	8	0	
+1	0	0	#	3	12	0	0		4	11	4	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	0	0		5	0	3	0	
+1	0	0	#	4	2	0	0		5	1	4	0	
+1	0	0	#	4	3	3	0		5	2	8	0	
+0	1	18	P	4	3	3	1	PAT	0	3	6	0	
+0	0	0	A	4	3	3	0		0	4	5	0	
+0	0	0	T	4	3	3	0		0	5	10	0	
+1	0	0	#	4	7	5	0		5	6	3	0	
+0	1	19	I	4	7	5	1	ISLIP	3	7	10	0	
+0	0	0	S	4	7	5	0		0	8	6	0	
+0	0	0	L	4	7	5	0		0	9	5	0	
+0	0	0	I	4	7	5	0		0	10	8	0	
+0	1	20	P	4	7	5	0		4	11	4	1	PEAU
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	21	O	5	0	4	1	OTTS	5	0	3	1	ORV
+0	1	22	T	5	0	4	0		5	1	4	1	TOIL
+0	1	23	T	5	0	4	0		5	2	8	1	TWEETERS
+0	0	0	S	5	0	4	0		0	3	6	0	
+1	0	0	#	5	5	4	0		6	4	0	0	
+0	1	24	U	5	5	4	1	URSA	0	5	10	0	
+0	1	25	R	5	5	4	0		5	6	3	1	RAT
+0	0	0	S	5	5	4	0		3	7	10	0	
+0	0	0	A	5	5	4	0		0	8	6	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	26	T	5	10	3	1	TEN	0	10	8	0	
+0	0	0	E	5	10	3	0		4	11	4	0	
+0	1	27	N	5	10	3	0		5	12	3	1	NUT
+0	1	28	R	6	0	3	1	ROW	5	0	3	0	
+0	0	0	O	6	0	3	0		5	1	4	0	
+0	0	0	W	6	0	3	0		5	2	8	0	
+1	0	0	#	6	4	0	0		7	3	0	0	
+1	0	0	#	6	5	3	0		7	4	6	0	
+0	1	29	R	6	5	3	1	RAP	0	5	10	0	
+0	0	0	A	6	5	3	0		5	6	3	0	
+0	0	0	P	6	5	3	0		3	7	10	0	
+1	0	0	#	6	9	0	0		7	8	0	0	
+1	0	0	#	6	10	3	0		7	9	6	0	
+0	1	30	E	6	10	3	1	EAU	0	10	8	0	
+0	0	0	A	6	10	3	0		4	11	4	0	
+0	0	0	U	6	10	3	0		5	12	3	0	
+0	1	31	V	7	0	3	1	VIE	5	0	3	0	
+0	0	0	I	7	0	3	0		5	1	4	0	
+0	0	0	E	7	0	3	0		5	2	8	0	
+1	0	0	#	7	4	4	0		8	3	5	0	
+0	1	32	A	7	4	4	1	ANTA	7	4	6	1	AMAZES
+0	0	0	N	7	4	4	0		0	5	10	0	
+0	0	0	T	7	4	4	0		5	6	3	0	
+0	0	0	A	7	4	4	0		3	7	10	0	
+1	0	0	#	7	9	4	0		8	8	5	0	
+0	1	33	S	7	9	4	1	SMUT	7	9	6	1	SCALER
+0	0	0	M	7	9	4	0		0	10	8	0	
+0	0	0	U	7	9	4	0		4	11	4	0	
+0	0	0	T	7	9	4	0		5	12	3	0	
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	34	L	8	1	5	1	LEMME	5	1	4	0	
+0	0	0	E	8	1	5	0		5	2	8	0	
+0	1	35	M	8	1	5	0		8	3	5	1	MESNE
+0	0	0	M	8	1	5	0		7	4	6	0	
+0	0	0	E	8	1	5	0		0	5	10	0	
+1	0	0	#	8	7	3	0		9	6	0	0	
+0	1	36	R	8	7	3	1	ROC	3	7	10	0	
+0	1	37	O	8	7	3	0		8	8	5	1	OLETA
+0	0	0	C	8	7	3	0		7	9	6	0	
+1	0	0	#	8	11	0	0		9	10	4	0	
+1	0	0	#	8	12	0	0		9	11	3	0	
+1	0	0	#	8	13	0	0		9	12	3	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	4	0		10	1	3	0	
+0	1	38	T	9	2	4	1	TEAR	5	2	8	0	
+0	0	0	E	9	2	4	0		8	3	5	0	
+0	0	0	A	9	2	4	0		7	4	6	0	
+0	0	0	R	9	2	4	0		0	5	10	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	39	A	9	7	6	1	ALAMEI	3	7	10	0	
+0	0	0	L	9	7	6	0		8	8	5	0	
+0	0	0	A	9	7	6	0		7	9	6	0	
+0	1	40	M	9	7	6	0		9	10	4	1	MORE
+0	1	41	E	9	7	6	0		9	11	3	1	ENA
+0	1	42	I	9	7	6	0		9	12	3	1	IGN
+0	1	43	L	10	0	5	1	LCESZ	10	0	3	1	LTR
+0	1	44	C	10	0	5	0		10	1	3	1	CEO
+0	0	0	E	10	0	5	0		5	2	8	0	
+0	0	0	S	10	0	5	0		8	3	5	0	
+0	0	0	Z	10	0	5	0		7	4	6	0	
+1	0	0	#	10	6	7	0		11	5	0	0	
+0	1	45	A	10	6	7	1	AGELONG	10	6	3	1	AVI
+0	0	0	G	10	6	7	0		3	7	10	0	
+0	0	0	E	10	6	7	0		8	8	5	0	
+0	0	0	L	10	6	7	0		7	9	6	0	
+0	0	0	O	10	6	7	0		9	10	4	0	
+0	0	0	N	10	6	7	0		9	11	3	0	
+0	0	0	G	10	6	7	0		9	12	3	0	
+0	1	46	T	11	0	5	1	TERNE	10	0	3	0	
+0	0	0	E	11	0	5	0		10	1	3	0	
+0	0	0	R	11	0	5	0		5	2	8	0	
+0	0	0	N	11	0	5	0		8	3	5	0	
+0	0	0	E	11	0	5	0		7	4	6	0	
+1	0	0	#	11	6	7	0		12	5	0	0	
+0	1	47	V	11	6	7	1	VETERAN	10	6	3	0	
+0	0	0	E	11	6	7	0		3	7	10	0	
+0	0	0	T	11	6	7	0		8	8	5	0	
+0	0	0	E	11	6	7	0		7	9	6	0	
+0	0	0	R	11	6	7	0		9	10	4	0	
+0	0	0	A	11	6	7	0		9	11	3	0	
+0	0	0	N	11	6	7	0		9	12	3	0	
+0	1	48	R	12	0	5	1	ROSES	10	0	3	0	
+0	0	0	O	12	0	5	0		10	1	3	0	
+0	0	0	S	12	0	5	0		5	2	8	0	
+0	0	0	E	12	0	5	0		8	3	5	0	
+0	0	0	S	12	0	5	0		7	4	6	0	
+1	0	0	#	12	6	5	0		13	5	0	0	
+0	1	49	I	12	6	5	1	IDARE	10	6	3	0	
+0	0	0	D	12	6	5	0		3	7	10	0	
+0	0	0	A	12	6	5	0		8	8	5	0	
+0	0	0	R	12	6	5	0		7	9	6	0	
+0	0	0	E	12	6	5	0		9	10	4	0	
+1	0	0	#	12	12	0	0		13	11	0	0	
+1	0	0	#	12	13	0	0		13	12	0	0	
+29
+1	LONIS	Actress Anderson et al.
+6	MASHA	"Three Sisters" sister
+11	PRUNING	Clipping, as shrubs
+13	IWAIN	Cry at a poker game, maybe
+14	EXCELAT	Be proficient in
+15	MILES	Things gotten with a credit card, often
+16	ISEULT	Tristram's love
+17	DOLE	Former Senate leader
+18	PAT	Overly glib
+19	ISLIP	Long Island airfield
+21	OTTS	Legendary Giant's family
+24	URSA	Bear in the sky
+26	TEN	The number at left + 1
+28	ROW	Scrape
+29	RAP	CD store section
+30	EAU	Melted glace
+31	VIE	Parisian life
+32	ANTA	Theater acronym
+33	SMUT	Contents of some plain brown wrappers
+34	LEMME	"___ at 'em!"
+36	ROC	Fabled elephant abductor
+38	TEAR	Get moist
+39	ALAMEI	El ___, 1942 battle site
+43	LCESZ	Hate
+45	AGELONG	Eternal
+46	TERNE	Lead and tin alloy
+47	VETERAN	Experienced
+48	ROSES	Gift to a diva
+49	IDARE	"___ you!" ("Just try it!")
+29
+1	LUCE	Time-honored name?
+2	ONEUPS	Betters
+3	NILLA	Nabisco ___ wafer
+4	INATTURNER	Recently hired by the Superstation?
+5	SGT	___ Friday
+6	MIMOSA	It may create a buzz in the morning
+7	AWILL	"Caesar, now be still: / I kill'd not thee with half so good ___": Brutus
+8	SALEITEM	Something intended to move fast
+9	HIE	Step on it
+10	ANS	Ques. follower
+11	PEI	Language authority Mario
+12	RXS	Just what the drs. ordered?
+17	DISPARAGED	Put down
+20	PEAU	___ de soie (silk cloth)
+21	ORV	One of the Wright brothers, for short
+22	TOIL	Break one's back
+23	TWEETERS	They put out high-frequency sounds
+25	RAT	Drainpipe discovery
+27	NUT	Protein source
+32	AMAZES	Staggers
+33	SCALER	Fishmonger's tool
+35	MESNE	Intermediate, at law
+37	OLETA	Soul singer Adams
+40	MORE	Gourmand's request
+41	ENA	Disney doe
+42	IGN	Engine starter: Abbr.
+43	LTR	P.O. piece
+44	CEO	Headhunter's big recruit, for short
+45	AVI	Prefix with culture

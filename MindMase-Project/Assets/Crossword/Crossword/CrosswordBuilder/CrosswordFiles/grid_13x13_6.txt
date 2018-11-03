@@ -1,0 +1,235 @@
+grid_13x13_6
+13
+0	1	1	M	0	0	3	1	MUY	0	0	5	1	MINKS
+0	1	2	U	0	0	3	0		0	1	5	1	USEON
+0	1	3	Y	0	0	3	0		0	2	13	1	YANKEECLIPPER
+1	0	0	#	0	4	0	0		1	3	3	0	
+1	0	0	#	0	5	3	0		1	4	0	0	
+0	1	4	C	0	5	3	1	CDR	0	5	5	1	CABOB
+0	1	5	D	0	5	3	0		0	6	3	1	DAM
+0	1	6	R	0	5	3	0		0	7	3	1	RPI
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	3	0	
+0	1	7	B	0	10	3	1	BIB	0	10	13	1	BATSANEYELASH
+0	1	8	I	0	10	3	0		0	11	7	1	ICEAXES
+0	1	9	B	0	10	3	0		0	12	5	1	BERYL
+0	1	10	I	1	0	4	1	ISAY	0	0	5	0	
+0	0	0	S	1	0	4	0		0	1	5	0	
+0	0	0	A	1	0	4	0		0	2	13	0	
+0	1	11	Y	1	0	4	0		1	3	3	1	YEO
+1	0	0	#	1	5	3	0		2	4	0	0	
+0	1	12	A	1	5	3	1	AAP	0	5	5	0	
+0	0	0	A	1	5	3	0		0	6	3	0	
+0	0	0	P	1	5	3	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	4	0	
+0	1	13	L	1	9	4	1	LACE	1	9	3	1	LSD
+0	0	0	A	1	9	4	0		0	10	13	0	
+0	0	0	C	1	9	4	0		0	11	7	0	
+0	0	0	E	1	9	4	0		0	12	5	0	
+0	1	14	N	2	0	4	1	NENE	0	0	5	0	
+0	0	0	E	2	0	4	0		0	1	5	0	
+0	0	0	N	2	0	4	0		0	2	13	0	
+0	0	0	E	2	0	4	0		1	3	3	0	
+1	0	0	#	2	5	8	0		3	4	3	0	
+0	1	15	B	2	5	8	1	BMINSTER	0	5	5	0	
+0	0	0	M	2	5	8	0		0	6	3	0	
+0	0	0	I	2	5	8	0		0	7	3	0	
+0	1	16	N	2	5	8	0		2	8	4	1	NITA
+0	0	0	S	2	5	8	0		1	9	3	0	
+0	0	0	T	2	5	8	0		0	10	13	0	
+0	0	0	E	2	5	8	0		0	11	7	0	
+0	0	0	R	2	5	8	0		0	12	5	0	
+0	1	17	K	3	0	6	1	KOKOMO	0	0	5	0	
+0	0	0	O	3	0	6	0		0	1	5	0	
+0	0	0	K	3	0	6	0		0	2	13	0	
+0	0	0	O	3	0	6	0		1	3	3	0	
+0	1	18	M	3	0	6	0		3	4	3	1	MAS
+0	0	0	O	3	0	6	0		0	5	5	0	
+1	0	0	#	3	7	0	0		4	6	5	0	
+1	0	0	#	3	8	5	0		4	7	3	0	
+0	1	19	I	3	8	5	1	IDSAY	2	8	4	0	
+0	0	0	D	3	8	5	0		1	9	3	0	
+0	0	0	S	3	8	5	0		0	10	13	0	
+0	0	0	A	3	8	5	0		0	11	7	0	
+0	0	0	Y	3	8	5	0		0	12	5	0	
+0	1	20	S	4	0	3	1	SNE	0	0	5	0	
+0	0	0	N	4	0	3	0		0	1	5	0	
+0	0	0	E	4	0	3	0		0	2	13	0	
+1	0	0	#	4	4	5	0		5	3	3	0	
+0	1	21	A	4	4	5	1	ABOLT	3	4	3	0	
+0	0	0	B	4	4	5	0		0	5	5	0	
+0	1	22	O	4	4	5	0		4	6	5	1	OLMAN
+0	1	23	L	4	4	5	0		4	7	3	1	LED
+0	0	0	T	4	4	5	0		2	8	4	0	
+1	0	0	#	4	10	3	0		5	9	3	0	
+0	1	24	A	4	10	3	1	AXL	0	10	13	0	
+0	0	0	X	4	10	3	0		0	11	7	0	
+0	0	0	L	4	10	3	0		0	12	5	0	
+1	0	0	#	5	1	0	0		6	0	0	0	
+1	0	0	#	5	2	3	0		6	1	7	0	
+0	1	25	E	5	2	3	1	EMS	0	2	13	0	
+0	1	26	M	5	2	3	0		5	3	3	1	MAI
+0	0	0	S	5	2	3	0		3	4	3	0	
+1	0	0	#	5	6	6	0		6	5	3	0	
+0	1	27	L	5	6	6	1	LEANNE	4	6	5	0	
+0	0	0	E	5	6	6	0		4	7	3	0	
+0	0	0	A	5	6	6	0		2	8	4	0	
+0	1	28	N	5	6	6	0		5	9	3	1	NYE
+0	0	0	N	5	6	6	0		0	10	13	0	
+0	0	0	E	5	6	6	0		0	11	7	0	
+1	0	0	#	5	13	0	0		6	12	0	0	
+1	0	0	#	6	1	3	0		7	0	0	0	
+0	1	29	R	6	1	3	1	RCA	6	1	7	1	ROTTERS
+0	0	0	C	6	1	3	0		0	2	13	0	
+0	0	0	A	6	1	3	0		5	3	3	0	
+1	0	0	#	6	5	3	0		7	4	4	0	
+0	1	30	C	6	5	3	1	CMD	6	5	3	1	CDE
+0	0	0	M	6	5	3	0		4	6	5	0	
+0	0	0	D	6	5	3	0		4	7	3	0	
+1	0	0	#	6	9	3	0		7	8	3	0	
+0	1	31	Y	6	9	3	1	YES	5	9	3	0	
+0	0	0	E	6	9	3	0		0	10	13	0	
+0	0	0	S	6	9	3	0		0	11	7	0	
+1	0	0	#	6	13	0	0		7	12	0	0	
+1	0	0	#	7	1	6	0		8	0	5	0	
+0	1	32	O	7	1	6	1	OLINDA	6	1	7	0	
+0	0	0	L	7	1	6	0		0	2	13	0	
+0	0	0	I	7	1	6	0		5	3	3	0	
+0	1	33	N	7	1	6	0		7	4	4	1	NLRB
+0	0	0	D	7	1	6	0		6	5	3	0	
+0	0	0	A	7	1	6	0		4	6	5	0	
+1	0	0	#	7	8	3	0		8	7	5	0	
+0	1	34	K	7	8	3	1	KEY	7	8	3	1	KOS
+0	0	0	E	7	8	3	0		5	9	3	0	
+0	0	0	Y	7	8	3	0		0	10	13	0	
+1	0	0	#	7	12	0	0		8	11	5	0	
+1	0	0	#	7	13	0	0		8	12	5	0	
+0	1	35	G	8	0	3	1	GTI	8	0	5	1	GARRS
+0	0	0	T	8	0	3	0		6	1	7	0	
+0	0	0	I	8	0	3	0		0	2	13	0	
+1	0	0	#	8	4	5	0		9	3	3	0	
+0	1	36	L	8	4	5	1	LENTO	7	4	4	0	
+0	0	0	E	8	4	5	0		6	5	3	0	
+0	0	0	N	8	4	5	0		4	6	5	0	
+0	1	37	T	8	4	5	0		8	7	5	1	TACOS
+0	0	0	O	8	4	5	0		7	8	3	0	
+1	0	0	#	8	10	3	0		9	9	3	0	
+0	1	38	E	8	10	3	1	EMB	0	10	13	0	
+0	1	39	M	8	10	3	0		8	11	5	1	MATZO
+0	1	40	B	8	10	3	0		8	12	5	1	BRAKE
+0	1	41	A	9	0	5	1	ATPAR	8	0	5	0	
+0	0	0	T	9	0	5	0		6	1	7	0	
+0	0	0	P	9	0	5	0		0	2	13	0	
+0	1	42	A	9	0	5	0		9	3	3	1	AUD
+0	0	0	R	9	0	5	0		7	4	4	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	6	0		10	6	3	0	
+0	1	43	A	9	7	6	1	ASHLAR	8	7	5	0	
+0	0	0	S	9	7	6	0		7	8	3	0	
+0	1	44	H	9	7	6	0		9	9	3	1	HEF
+0	0	0	L	9	7	6	0		0	10	13	0	
+0	0	0	A	9	7	6	0		8	11	5	0	
+0	0	0	R	9	7	6	0		8	12	5	0	
+0	1	45	R	10	0	8	1	REPUBLIC	8	0	5	0	
+0	0	0	E	10	0	8	0		6	1	7	0	
+0	0	0	P	10	0	8	0		0	2	13	0	
+0	0	0	U	10	0	8	0		9	3	3	0	
+0	0	0	B	10	0	8	0		7	4	4	0	
+0	1	46	L	10	0	8	0		10	5	3	1	LEG
+0	1	47	I	10	0	8	0		10	6	3	1	IRT
+0	0	0	C	10	0	8	0		8	7	5	0	
+1	0	0	#	10	9	4	0		11	8	0	0	
+0	1	48	E	10	9	4	1	EATA	9	9	3	0	
+0	0	0	A	10	9	4	0		0	10	13	0	
+0	0	0	T	10	9	4	0		8	11	5	0	
+0	0	0	A	10	9	4	0		8	12	5	0	
+0	1	49	R	11	0	4	1	RRED	8	0	5	0	
+0	0	0	R	11	0	4	0		6	1	7	0	
+0	0	0	E	11	0	4	0		0	2	13	0	
+0	0	0	D	11	0	4	0		9	3	3	0	
+1	0	0	#	11	5	3	0		12	4	0	0	
+0	1	50	E	11	5	3	1	ERO	10	5	3	0	
+0	0	0	R	11	5	3	0		10	6	3	0	
+0	0	0	O	11	5	3	0		8	7	5	0	
+1	0	0	#	11	9	4	0		12	8	0	0	
+0	1	51	F	11	9	4	1	FSZK	9	9	3	0	
+0	0	0	S	11	9	4	0		0	10	13	0	
+0	0	0	Z	11	9	4	0		8	11	5	0	
+0	0	0	K	11	9	4	0		8	12	5	0	
+0	1	52	S	12	0	3	1	SSR	8	0	5	0	
+0	0	0	S	12	0	3	0		6	1	7	0	
+0	0	0	R	12	0	3	0		0	2	13	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	53	G	12	5	3	1	GTS	10	5	3	0	
+0	0	0	T	12	5	3	0		10	6	3	0	
+0	0	0	S	12	5	3	0		8	7	5	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	H	12	10	3	1	HOE	0	10	13	0	
+0	0	0	O	12	10	3	0		8	11	5	0	
+0	0	0	E	12	10	3	0		8	12	5	0	
+33
+1	MUY	Venezuelan's "very"
+4	CDR	Naval off.
+7	BIB	It's hung around the neck
+10	ISAY	"___, old chap!"
+12	AAP	Store chain since 1859
+13	LACE	Add a kick to
+14	NENE	Bogot
+15	BMINSTER	Fuller name?
+17	KOKOMO	City of Firsts
+19	IDSAY	Start of a quip
+20	SNE	1983 Indy winner Tom
+21	ABOLT	Like ___ from the blue
+24	AXL	Rose who rose to fame in the 1980s
+25	EMS	German spa
+27	LEANNE	"Some Girls Do" author ___ Banks
+29	RCA	Company with a dog logo
+30	CMD	Control: Abbr.
+31	YES	Nodded answer
+32	OLINDA	Brazilian beach resort
+34	KEY	Ignition starter
+35	GTI	Popular Volkswagen model
+36	LENTO	Slowly, on a score
+38	EMB	Envoy's bldg.
+41	ATPAR	How some stocks are sold
+43	ASHLAR	Masonry that requires little mortar
+45	REPUBLIC	Plato's ideal
+48	EATA	"...could ___ horse!"
+49	RRED	Snow White's sister
+50	ERO	Mancinelli's "___ e Leandro"
+51	FSZK	"I can't believe it!": 2 wds.
+52	SSR	Former pol. div.
+53	GTS	Some hot rods
+54	HOE	Something groundbreaking?
+29
+1	MINKS	Animals farmed for their fur
+2	USEON	Apply to
+3	YANKEECLIPPER	Joe DiMaggio's nickname
+4	CABOB	Dish on a stick: Var.
+5	DAM	Obstruction for salmon
+6	RPI	Oldest technological univ. in America
+7	BATSANEYELASH	Reacts slightly
+8	ICEAXES	Mountain climbers' tools
+9	BERYL	Gem mineral
+11	YEO	U.S.N. clerk: Abbr.
+13	LSD	Something that's illegal to drop
+16	NITA	New York congresswoman Lowey
+18	MAS	Humanities degs.
+22	OLMAN	"___ River"
+23	LED	Had no catching up to do
+26	MAI	When Labor Day is celebrated in France
+28	NYE	Actress Carrie
+29	ROTTERS	No-good blokes
+30	CDE	Do, re, mi
+33	NLRB	Workers' rights grp.
+34	KOS	Ring results, briefly
+35	GARRS	"Mr. Mom" co-star and others
+37	TACOS	Mexican restaurant orders
+39	MATZO	Kind of meal
+40	BRAKE	"I ___ for animals"
+42	AUD	I.R.S. exam: Abbr.
+44	HEF	Famous bathrobe wearer, informally
+46	LEG	Chair part
+47	IRT	Original N.Y.C. subway line

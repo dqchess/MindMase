@@ -1,0 +1,237 @@
+grid_13x13_165
+13
+0	1	1	E	0	0	3	1	ECH	0	0	3	1	ETH
+0	1	2	C	0	0	3	0		0	1	3	1	CAA
+0	1	3	H	0	0	3	0		0	2	3	1	HNS
+1	0	0	#	0	4	0	0		1	3	0	0	
+1	0	0	#	0	5	3	0		1	4	6	0	
+0	1	4	A	0	5	3	1	AUT	0	5	4	1	ARED
+0	1	5	U	0	5	3	0		0	6	3	1	UMA
+0	1	6	T	0	5	3	0		0	7	3	1	TSK
+1	0	0	#	0	9	0	0		1	8	0	0	
+1	0	0	#	0	10	3	0		1	9	4	0	
+0	1	7	P	0	10	3	1	PLA	0	10	9	1	POISONPEN
+0	1	8	L	0	10	3	0		0	11	3	1	LDL
+0	1	9	A	0	10	3	0		0	12	3	1	ASL
+0	1	10	T	1	0	3	1	TAN	0	0	3	0	
+0	0	0	A	1	0	3	0		0	1	3	0	
+0	0	0	N	1	0	3	0		0	2	3	0	
+1	0	0	#	1	4	4	0		2	3	3	0	
+0	1	11	A	1	4	4	1	ARMS	1	4	6	1	AWOKEN
+0	0	0	R	1	4	4	0		0	5	4	0	
+0	0	0	M	1	4	4	0		0	6	3	0	
+0	0	0	S	1	4	4	0		0	7	3	0	
+1	0	0	#	1	9	4	0		2	8	3	0	
+0	1	12	B	1	9	4	1	BODS	1	9	4	1	BUOY
+0	0	0	O	1	9	4	0		0	10	9	0	
+0	0	0	D	1	9	4	0		0	11	3	0	
+0	0	0	S	1	9	4	0		0	12	3	0	
+0	1	13	H	2	0	13	1	HASAWEAKQUILL	0	0	3	0	
+0	0	0	A	2	0	13	0		0	1	3	0	
+0	0	0	S	2	0	13	0		0	2	3	0	
+0	1	14	A	2	0	13	0		2	3	3	1	ASP
+0	0	0	W	2	0	13	0		1	4	6	0	
+0	0	0	E	2	0	13	0		0	5	4	0	
+0	0	0	A	2	0	13	0		0	6	3	0	
+0	0	0	K	2	0	13	0		0	7	3	0	
+0	1	15	Q	2	0	13	0		2	8	3	1	QIN
+0	0	0	U	2	0	13	0		1	9	4	0	
+0	0	0	I	2	0	13	0		0	10	9	0	
+0	0	0	L	2	0	13	0		0	11	3	0	
+0	0	0	L	2	0	13	0		0	12	3	0	
+1	0	0	#	3	1	0	0		4	0	0	0	
+1	0	0	#	3	2	0	0		4	1	5	0	
+1	0	0	#	3	3	3	0		4	2	9	0	
+0	1	16	S	3	3	3	1	SOD	2	3	3	0	
+0	0	0	O	3	3	3	0		1	4	6	0	
+0	0	0	D	3	3	3	0		0	5	4	0	
+1	0	0	#	3	7	0	0		4	6	0	0	
+1	0	0	#	3	8	3	0		4	7	4	0	
+0	1	17	I	3	8	3	1	IOS	2	8	3	0	
+0	0	0	O	3	8	3	0		1	9	4	0	
+0	0	0	S	3	8	3	0		0	10	9	0	
+1	0	0	#	3	12	0	0		4	11	5	0	
+1	0	0	#	3	13	0	0		4	12	0	0	
+1	0	0	#	4	1	4	0		5	0	3	0	
+0	1	18	T	4	1	4	1	TNPK	4	1	5	1	TSGTS
+0	1	19	N	4	1	4	0		4	2	9	1	NOTTOOBAD
+0	0	0	P	4	1	4	0		2	3	3	0	
+0	0	0	K	4	1	4	0		1	4	6	0	
+1	0	0	#	4	6	0	0		5	5	4	0	
+1	0	0	#	4	7	5	0		5	6	3	0	
+0	1	20	A	4	7	5	1	ANYOF	4	7	4	1	ALAR
+0	0	0	N	4	7	5	0		2	8	3	0	
+0	0	0	Y	4	7	5	0		1	9	4	0	
+0	0	0	O	4	7	5	0		0	10	9	0	
+0	1	21	F	4	7	5	0		4	11	5	1	FERRO
+1	0	0	#	4	13	0	0		5	12	3	0	
+0	1	22	O	5	0	3	1	OSO	5	0	3	1	ORA
+0	0	0	S	5	0	3	0		4	1	5	0	
+0	0	0	O	5	0	3	0		4	2	9	0	
+1	0	0	#	5	4	4	0		6	3	0	0	
+0	1	23	E	5	4	4	1	EBOL	1	4	6	0	
+0	1	24	B	5	4	4	0		5	5	4	1	BOAS
+0	1	25	O	5	4	4	0		5	6	3	1	OTE
+0	0	0	L	5	4	4	0		4	7	4	0	
+1	0	0	#	5	9	0	0		6	8	6	0	
+1	0	0	#	5	10	3	0		6	9	0	0	
+0	1	26	N	5	10	3	1	NEU	0	10	9	0	
+0	0	0	E	5	10	3	0		4	11	5	0	
+0	1	27	U	5	10	3	0		5	12	3	1	USL
+0	1	28	R	6	0	3	1	RGT	5	0	3	0	
+0	0	0	G	6	0	3	0		4	1	5	0	
+0	0	0	T	6	0	3	0		4	2	9	0	
+1	0	0	#	6	4	5	0		7	3	0	0	
+0	1	29	N	6	4	5	1	NOTAT	1	4	6	0	
+0	0	0	O	6	4	5	0		5	5	4	0	
+0	0	0	T	6	4	5	0		5	6	3	0	
+0	0	0	A	6	4	5	0		4	7	4	0	
+0	1	30	T	6	4	5	0		6	8	6	1	TYBALT
+1	0	0	#	6	10	3	0		7	9	0	0	
+0	1	31	P	6	10	3	1	PRS	0	10	9	0	
+0	0	0	R	6	10	3	0		4	11	5	0	
+0	0	0	S	6	10	3	0		5	12	3	0	
+0	1	32	A	7	0	3	1	ATT	5	0	3	0	
+0	0	0	T	7	0	3	0		4	1	5	0	
+0	0	0	T	7	0	3	0		4	2	9	0	
+1	0	0	#	7	4	0	0		8	3	4	0	
+1	0	0	#	7	5	4	0		8	4	3	0	
+0	1	33	A	7	5	4	1	AERY	5	5	4	0	
+0	0	0	E	7	5	4	0		5	6	3	0	
+0	0	0	R	7	5	4	0		4	7	4	0	
+0	0	0	Y	7	5	4	0		6	8	6	0	
+1	0	0	#	7	10	3	0		8	9	3	0	
+0	1	34	E	7	10	3	1	ERL	0	10	9	0	
+0	0	0	R	7	10	3	0		4	11	5	0	
+0	0	0	L	7	10	3	0		5	12	3	0	
+1	0	0	#	8	1	5	0		9	0	0	0	
+0	1	35	S	8	1	5	1	SOCKS	4	1	5	0	
+0	0	0	O	8	1	5	0		4	2	9	0	
+0	1	36	C	8	1	5	0		8	3	4	1	CLUE
+0	1	37	K	8	1	5	0		8	4	3	1	KAS
+0	0	0	S	8	1	5	0		5	5	4	0	
+1	0	0	#	8	7	0	0		9	6	0	0	
+1	0	0	#	8	8	4	0		9	7	4	0	
+0	1	38	B	8	8	4	1	BRNO	6	8	6	0	
+0	1	39	R	8	8	4	0		8	9	3	1	REA
+0	0	0	N	8	8	4	0		0	10	9	0	
+0	0	0	O	8	8	4	0		4	11	5	0	
+1	0	0	#	8	13	0	0		9	12	0	0	
+1	0	0	#	9	1	0	0		10	0	3	0	
+1	0	0	#	9	2	3	0		10	1	3	0	
+0	1	40	O	9	2	3	1	OLA	4	2	9	0	
+0	0	0	L	9	2	3	0		8	3	4	0	
+0	0	0	A	9	2	3	0		8	4	3	0	
+1	0	0	#	9	6	0	0		10	5	3	0	
+1	0	0	#	9	7	3	0		10	6	3	0	
+0	1	41	U	9	7	3	1	UAE	9	7	4	1	USFL
+0	0	0	A	9	7	3	0		6	8	6	0	
+0	0	0	E	9	7	3	0		8	9	3	0	
+1	0	0	#	9	11	0	0		10	10	3	0	
+1	0	0	#	9	12	0	0		10	11	3	0	
+1	0	0	#	9	13	0	0		10	12	3	0	
+0	1	42	D	10	0	13	1	DEBUSSYSLAMER	10	0	3	1	DAG
+0	1	43	E	10	0	13	0		10	1	3	1	ELO
+0	0	0	B	10	0	13	0		4	2	9	0	
+0	0	0	U	10	0	13	0		8	3	4	0	
+0	0	0	S	10	0	13	0		8	4	3	0	
+0	1	44	S	10	0	13	0		10	5	3	1	STN
+0	1	45	Y	10	0	13	0		10	6	3	1	YAH
+0	0	0	S	10	0	13	0		9	7	4	0	
+0	0	0	L	10	0	13	0		6	8	6	0	
+0	0	0	A	10	0	13	0		8	9	3	0	
+0	1	46	M	10	0	13	0		10	10	3	1	MMD
+0	1	47	E	10	0	13	0		10	11	3	1	EOE
+0	1	48	R	10	0	13	0		10	12	3	1	RLS
+0	1	49	A	11	0	4	1	ALAE	10	0	3	0	
+0	0	0	L	11	0	4	0		10	1	3	0	
+0	0	0	A	11	0	4	0		4	2	9	0	
+0	0	0	E	11	0	4	0		8	3	4	0	
+1	0	0	#	11	5	4	0		12	4	0	0	
+0	1	50	T	11	5	4	1	TAFT	10	5	3	0	
+0	0	0	A	11	5	4	0		10	6	3	0	
+0	0	0	F	11	5	4	0		9	7	4	0	
+0	0	0	T	11	5	4	0		6	8	6	0	
+1	0	0	#	11	10	3	0		12	9	0	0	
+0	1	51	M	11	10	3	1	MOL	10	10	3	0	
+0	0	0	O	11	10	3	0		10	11	3	0	
+0	0	0	L	11	10	3	0		10	12	3	0	
+0	1	52	G	12	0	3	1	GOD	10	0	3	0	
+0	0	0	O	12	0	3	0		10	1	3	0	
+0	0	0	D	12	0	3	0		4	2	9	0	
+1	0	0	#	12	4	0	0		13	3	0	0	
+1	0	0	#	12	5	3	0		13	4	0	0	
+0	1	53	N	12	5	3	1	NHL	10	5	3	0	
+0	0	0	H	12	5	3	0		10	6	3	0	
+0	0	0	L	12	5	3	0		9	7	4	0	
+1	0	0	#	12	9	0	0		13	8	0	0	
+1	0	0	#	12	10	3	0		13	9	0	0	
+0	1	54	D	12	10	3	1	DES	10	10	3	0	
+0	0	0	E	12	10	3	0		10	11	3	0	
+0	0	0	S	12	10	3	0		10	12	3	0	
+31
+1	ECH	Command level: Abbr.
+4	AUT	Self: Prefix
+7	PLA	Mao's group: Abbr.
+10	TAN	Almost burn
+11	ARMS	Treaty subject
+12	BODS	Figures, informally
+13	HASAWEAKQUILL	Is not apt to write right?
+16	SOD	Golf course purchase, maybe
+17	IOS	Aegean island near Naxos
+18	TNPK	Expy.
+20	ANYOF	"Don't give me ___ your lip!"
+22	OSO	Barcelona bear
+23	EBOL	Last name in ice cream
+26	NEU	Opposite of alt
+28	RGT	Mil. unit
+29	NOTAT	___ home (out)
+31	PRS	Duos: Abbr.
+32	ATT	Person with a J.D.
+33	AERY	Ethereal
+34	ERL	Schubert's "The ___ KIng"
+35	SOCKS	Drawer oddments?
+38	BRNO	Moravian capital
+40	OLA	Ending with pay
+41	UAE	OPEC member: Abbr.
+42	DEBUSSYSLAMER	Review of a worsening composer?
+49	ALAE	Butterfly wings, e.g.
+50	TAFT	For whom Sherman was veep
+51	MOL	Elem. unit
+52	GOD	Vishnu, e.g.
+53	NHL	Gretzky's grp.
+54	DES	___ Plaines, Ill.
+33
+1	ETH	Afr. nation
+2	CAA	Major org. representing entertainers and athletes
+3	HNS	"It ___; be not afraid" (words of Jesus): 2 wds.
+4	ARED	"Wielding ___ Sword" (Piers Anthony novel)
+5	UMA	Thurman of "Henry & June"
+6	TSK	"You shouldn't have!"
+7	POISONPEN	Vitriolic
+8	LDL	"Bad" cholesterol, for short
+9	ASL	Communication for the deaf: Abbr.
+11	AWOKEN	Disturbed
+12	BUOY	Bay bobber
+14	ASP	Deadly viper
+15	QIN	Dynasty during which much of the Great Wall of China was built
+18	TSGTS	E-6 officers in the U.S.A.F.
+19	NOTTOOBAD	"Fairly well"
+20	ALAR	Banned spray on apple trees
+21	FERRO	Prefix with magnetic
+22	ORA	60 minutes, in Milan
+24	BOAS	Jungle crushers
+25	OTE	Native: Suffix
+27	USL	Southeastern Conf. team
+30	TYBALT	Mercutio's killer, in "Romeo and Juliet"
+36	CLUE	Answer's opposite
+37	KAS	___ in kangaroo
+39	REA	Stephen of "Breakfast on Pluto"
+41	USFL	Group that included the L.A. Express
+42	DAG	First name at the U.N., 1953-61
+43	ELO	"Hold On Tight" rock group
+44	STN	Union in D.C., e.g.
+45	YAH	Exclamation of impatience
+46	MMD	Roman square?
+47	EOE	Classified ad inits.
+48	RLS	"Treasure Island" monogram
