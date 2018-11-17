@@ -76,7 +76,7 @@ public class SudokuManager : MonoBehaviour
         SetupSudokuObjects();
         UpdateUI();
         yield return new WaitForSeconds(0.1f);
-        if (GameManager.LastLoaded == -1)
+        if (SudokuGameManager.LastLoaded == -1)
         {
             LoadNewGame();
         }
@@ -89,34 +89,34 @@ public class SudokuManager : MonoBehaviour
     public void LoadNewGame()
     {
         int[] totalLevels = { totalEasyLevel, totalMediumLevel, totalHardLevel, totalExpertLevel };
-        int mode = (int)GameManager.GameMode;
-        int level = (GameManager.LastLoaded + 1) % totalLevels[mode];
+        int mode = (int)SudokuGameManager.GameMode;
+        int level = (SudokuGameManager.LastLoaded + 1) % totalLevels[mode];
 
         LoadGame(mode, level);
     }
 
     private void LoadGame(int mode, int level)
     {
-        GameManager.GameTime = 0;
-        GameManager.IsGamePause = false;
+        SudokuGameManager.GameTime = 0;
+        SudokuGameManager.IsGamePause = false;
         MainMenu.intance.UpdateModeUI();
         MainMenu.intance.UpdateTimeUI();
 
         string[] paths = { "Easy/Level_", "Medium/Level_", "Hard/Level_", "Expert/Level_" };
         string path = paths[mode];
 
-        print(GameManager.GameMode + " Level  " + level);
+        print(SudokuGameManager.GameMode + " Level  " + level);
         LoadGame(JsonUtility.FromJson<DataGame>(Resources.Load<TextAsset>(path + level).text), level);
     }
 
     public void RestartGame()
     {
-        LoadGame((int)GameManager.GameMode, GameManager.LastLoaded);
+        LoadGame((int)SudokuGameManager.GameMode, SudokuGameManager.LastLoaded);
     }
 
     IEnumerator PlayNewGameAnimation()
     {
-        GameManager.IsGamePause = true;
+        SudokuGameManager.IsGamePause = true;
         for (int i = 0; i < 9; i++)
         {
             for (int j = 0; j < 9; j++)
@@ -125,7 +125,7 @@ public class SudokuManager : MonoBehaviour
             }
             yield return new WaitForSeconds(.05f);
         }
-        GameManager.IsGamePause = false;
+        SudokuGameManager.IsGamePause = false;
 
     }
 
@@ -146,7 +146,7 @@ public class SudokuManager : MonoBehaviour
 
     IEnumerator ShowGameOverPopup()
     {
-        GameManager.IsGamePause = true;
+        SudokuGameManager.IsGamePause = true;
         int c = CurrentSelectedIndex % 9;
         int r = CurrentSelectedIndex / 9;
         DeSelectAll();
@@ -174,20 +174,20 @@ public class SudokuManager : MonoBehaviour
             }
             yield return new WaitForSeconds(.05f);
         }
-        if (GameManager.GameTime <= GameManager.HighScoreTime)
+        if (SudokuGameManager.GameTime <= SudokuGameManager.HighScoreTime)
         {
-            GameManager.HighScoreTime = GameManager.GameTime;
+            SudokuGameManager.HighScoreTime = SudokuGameManager.GameTime;
         }
 
         yield return new WaitForSeconds(0.7f);
 
         LeanTween.alphaCanvas(gameCompletedDailog, 1, 0.1f);
         gameCompletedDailog.GetComponent<Animator>().Play("GameOver");
-        GameManager.PlaySound(gameWinClip);
+        SudokuGameManager.PlaySound(gameWinClip);
         gameCompletedDailog.blocksRaycasts = true;
-        timeLbl.text = GameManager.GetTimeString(GameManager.GameTime);
-        bestTimeLbl.text = GameManager.GetTimeString(GameManager.HighScoreTime);
-        modeLbl.text = GameManager.GameMode.ToString();
+        timeLbl.text = SudokuGameManager.GetTimeString(SudokuGameManager.GameTime);
+        bestTimeLbl.text = SudokuGameManager.GetTimeString(SudokuGameManager.HighScoreTime);
+        modeLbl.text = SudokuGameManager.GameMode.ToString();
 
         Timer.Schedule(this, 0.6f, () =>
         {
@@ -198,7 +198,7 @@ public class SudokuManager : MonoBehaviour
     [ContextMenu("Complete Game")]
     void DebugGame()
     {
-        GameManager.Hints = 100;
+        SudokuGameManager.Hints = 100;
         for (int i = 0; i < 75; i++)
         {
             OnBlockClick(blocks[i]);
@@ -208,9 +208,9 @@ public class SudokuManager : MonoBehaviour
 
     void LoadLastSave()
     {
-        if (GameManager.IsGamePause)
+        if (SudokuGameManager.IsGamePause)
             MainMenu.intance.PauseGame();
-        LoadGame(GameManager.SavedGame, GameManager.LastLoaded);
+        LoadGame(SudokuGameManager.SavedGame, SudokuGameManager.LastLoaded);
     }
 
     void LoadGame(DataGame game, int index)
@@ -221,12 +221,12 @@ public class SudokuManager : MonoBehaviour
         }
         UpdateUI();
         UpdateAllBlockUI();
-        GameManager.SavedGame = game;
-        GameManager.LastLoaded = index;
+        SudokuGameManager.SavedGame = game;
+        SudokuGameManager.LastLoaded = index;
         stateList.Clear();
 
         UpdateAllBlockUI();
-        if (!GameManager.IsGamePause)
+        if (!SudokuGameManager.IsGamePause)
         {
             StartCoroutine(PlayNewGameAnimation());
         }
@@ -295,10 +295,10 @@ public class SudokuManager : MonoBehaviour
     {
         pencilImage.color = PencilOn ? activeColor : deactiveColor;
 
-        bool outofHint = GameManager.Hints == 0;
+        bool outofHint = SudokuGameManager.Hints == 0;
         hintCountObj.SetActive(!outofHint);
         hintAdIconObj.SetActive(outofHint);
-        hintCount.text = GameManager.Hints + "";
+        hintCount.text = SudokuGameManager.Hints + "";
     }
 
     public void PencilClick()
@@ -306,7 +306,7 @@ public class SudokuManager : MonoBehaviour
         PencilOn = !PencilOn;
         UpdateUI();
         UpdateAllBlockUI();
-        GameManager.PlaySound(PencilOn ? pencilOnClip : pencilOffClip);
+        SudokuGameManager.PlaySound(PencilOn ? pencilOnClip : pencilOffClip);
     }
 
     public void EraserClick()
@@ -362,19 +362,19 @@ public class SudokuManager : MonoBehaviour
         {
             if (PencilOn)
             {
-                GameManager.PlaySound(editNoteClip);
+                SudokuGameManager.PlaySound(editNoteClip);
                 AddState(CurrentSelectedIndex, CurrentSelected.num, CurrentSelected.hintNum);
                 CurrentSelected.num = 0;
                 CurrentSelected.hintNum[i - 1] = !CurrentSelected.hintNum[i - 1];
             }
             else if (CurrentSelected.num != i)
             {
-                GameManager.PlaySound(editValueClip);
+                SudokuGameManager.PlaySound(editValueClip);
                 var state = AddState(CurrentSelectedIndex, CurrentSelected.num, CurrentSelected.hintNum);
 
                 CurrentSelected.num = i;
                 CurrentSelected.hintNum = new bool[9];
-                if (GameManager.AutoRemoveNotes)
+                if (SudokuGameManager.AutoRemoveNotes)
                 {
                     List<Block> blockList = new List<Block>();
                     blockList.AddRange(CurrentSelected.rowList);
@@ -427,21 +427,21 @@ public class SudokuManager : MonoBehaviour
 
     public void GetHint()
     {
-        if (GameManager.Hints == 0)
+        if (SudokuGameManager.Hints == 0)
         {
             rewardedVideoButton.OnClick();
             return;
         }
 
-        if (GameManager.Hints > 0 && CurrentSelected != null && CurrentSelected.canEdit && CurrentSelected.andNum != CurrentSelected.num)
+        if (SudokuGameManager.Hints > 0 && CurrentSelected != null && CurrentSelected.canEdit && CurrentSelected.andNum != CurrentSelected.num)
         {
-            GameManager.Hints--;
+            SudokuGameManager.Hints--;
             UpdateUI();
 
             var state = AddState(CurrentSelectedIndex, CurrentSelected.num, CurrentSelected.hintNum);
             CurrentSelected.num = CurrentSelected.andNum;
             CurrentSelected.hintNum = new bool[9];
-            if (GameManager.AutoRemoveNotes)
+            if (SudokuGameManager.AutoRemoveNotes)
             {
                 List<Block> blockList = new List<Block>();
                 blockList.AddRange(CurrentSelected.rowList);
@@ -468,7 +468,7 @@ public class SudokuManager : MonoBehaviour
         DataGame game = new DataGame();
         game.blocks = new List<DataBlock>();
         blocks.ForEach((obj) => game.blocks.Add(obj.DataBlock));
-        GameManager.SavedGame = game;
+        SudokuGameManager.SavedGame = game;
     }
 
     private void LateUpdate()

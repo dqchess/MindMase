@@ -37,9 +37,9 @@ public class MainMenu : MonoBehaviour
     {
         while (true)
         {
-            if (!GameManager.IsGamePause)
+            if (!SudokuGameManager.IsGamePause)
             {
-                GameManager.GameTime += 1f;
+                SudokuGameManager.GameTime += 1f;
                 UpdateTimeUI();
             }
             yield return new WaitForSecondsRealtime(1f);
@@ -48,17 +48,17 @@ public class MainMenu : MonoBehaviour
 
     public void playSound(AudioClip clip)
     {
-        GameManager.PlaySound(clip);
+        SudokuGameManager.PlaySound(clip);
     }
 
     public void UpdateTimeUI()
     {
-        timeLable.text = GameManager.GetTimeString(GameManager.GameTime);
+        timeLable.text = SudokuGameManager.GetTimeString(SudokuGameManager.GameTime);
     }
 
     public void UpdateModeUI()
     {
-        modeLable.text = GameManager.GameMode.ToString();
+        modeLable.text = SudokuGameManager.GameMode.ToString();
     }
 
     public void OpenNewMenu()
@@ -75,39 +75,39 @@ public class MainMenu : MonoBehaviour
 
     public void PauseGame()
     {
-        GameManager.IsGamePause = true;
+        SudokuGameManager.IsGamePause = true;
         pauseDialoag.SetActive(true);
         SudokuManager.intance.UpdateAllBlockUI();
     }
 
     public void ResumeGame()
     {
-        GameManager.IsGamePause = false;
+        SudokuGameManager.IsGamePause = false;
         pauseDialoag.SetActive(false);
         SudokuManager.intance.UpdateAllBlockUI();
     }
 
     public void StartEasyGame()
     {
-        GameManager.GameMode = GameManager.GameModeType.Easy;
+        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Easy;
         SudokuManager.intance.LoadNewGame();
     }
 
     public void StartMediumGame()
     {
-        GameManager.GameMode = GameManager.GameModeType.Medium;
+        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Medium;
         SudokuManager.intance.LoadNewGame();
     }
 
     public void StartHardGame()
     {
-        GameManager.GameMode = GameManager.GameModeType.Hard;
+        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Hard;
         SudokuManager.intance.LoadNewGame();
     }
 
     public void StartExpertGame()
     {
-        GameManager.GameMode = GameManager.GameModeType.Expert;
+        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Expert;
         SudokuManager.intance.LoadNewGame();
     }
 
@@ -118,16 +118,16 @@ public class MainMenu : MonoBehaviour
 
     void SetupToggles()
     {
-        soundToggle.onValueChanged.AddListener((arg0) => GameManager.IsSound = arg0);
-        soundToggle.isOn = GameManager.IsSound;
+        soundToggle.onValueChanged.AddListener((arg0) => SudokuGameManager.IsSound = arg0);
+        soundToggle.isOn = SudokuGameManager.IsSound;
 
-        duplicateToggle.onValueChanged.AddListener((arg0) => GameManager.HighlightDuplicate = arg0);
-        duplicateToggle.isOn = GameManager.HighlightDuplicate;
+        duplicateToggle.onValueChanged.AddListener((arg0) => SudokuGameManager.HighlightDuplicate = arg0);
+        duplicateToggle.isOn = SudokuGameManager.HighlightDuplicate;
 
-        identicalNumToggle.onValueChanged.AddListener((arg0) => GameManager.HighlightIdenticalNumbers = arg0);
-        identicalNumToggle.isOn = GameManager.HighlightIdenticalNumbers;
+        identicalNumToggle.onValueChanged.AddListener((arg0) => SudokuGameManager.HighlightIdenticalNumbers = arg0);
+        identicalNumToggle.isOn = SudokuGameManager.HighlightIdenticalNumbers;
 
-        autoToggle.onValueChanged.AddListener((arg0) => GameManager.AutoRemoveNotes = arg0);
-        autoToggle.isOn = GameManager.AutoRemoveNotes;
+        autoToggle.onValueChanged.AddListener((arg0) => SudokuGameManager.AutoRemoveNotes = arg0);
+        autoToggle.isOn = SudokuGameManager.AutoRemoveNotes;
     }
 }

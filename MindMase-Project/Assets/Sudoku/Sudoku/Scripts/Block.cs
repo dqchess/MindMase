@@ -29,7 +29,7 @@ public class Block : MonoBehaviour
     [ContextMenu("Refresh")]
     public void UpdateUI()
     {
-        if (GameManager.IsGamePause)
+        if (SudokuGameManager.IsGamePause)
         {
             upperBg.gameObject.SetActive(true);
             upperBg.color = ThemeManager.intance.CurrentTheme.boxNormalColor;
@@ -51,20 +51,20 @@ public class Block : MonoBehaviour
             lbl.text = num.ToString();
             if (!canEdit)
                 lbl.color = ThemeManager.intance.CurrentTheme.defultNumColor;
-            else if (IsWoungInput() && GameManager.HighlightDuplicate)
+            else if (IsWoungInput() && SudokuGameManager.HighlightDuplicate)
                 lbl.color = ThemeManager.intance.CurrentTheme.wroungNumColor;
             else
                 lbl.color = ThemeManager.intance.CurrentTheme.rightNumColor;
         }
 
 
-        if (IsWoungInput() && GameManager.HighlightDuplicate)
+        if (IsWoungInput() && SudokuGameManager.HighlightDuplicate)
             bg.color = ThemeManager.intance.CurrentTheme.boxWithWorngNum;
         else if (selected)
         {
             bg.color = ThemeManager.intance.CurrentTheme.boxSelectedColor;
         }
-        else if ((GameManager.HighlightIdenticalNumbers && num != 0 && SudokuManager.intance.CurrentSelected != null && SudokuManager.intance.CurrentSelected.num == num) ||
+        else if ((SudokuGameManager.HighlightIdenticalNumbers && num != 0 && SudokuManager.intance.CurrentSelected != null && SudokuManager.intance.CurrentSelected.num == num) ||
           (boxList.Exists((obj) => obj.selected) || rowList.Exists((obj) => obj.selected) || colList.Exists((obj) => obj.selected)))
         {
             bg.color = ThemeManager.intance.CurrentTheme.boxHighlight;
