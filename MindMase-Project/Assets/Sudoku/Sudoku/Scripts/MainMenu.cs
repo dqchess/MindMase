@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
@@ -129,5 +130,10 @@ public class MainMenu : MonoBehaviour
 
         autoToggle.onValueChanged.AddListener((arg0) => SudokuGameManager.AutoRemoveNotes = arg0);
         autoToggle.isOn = SudokuGameManager.AutoRemoveNotes;
+    }
+
+    public void LoadScene(string SceneName)
+    {
+        SceneManager.LoadScene(SceneName);
     }
 }
