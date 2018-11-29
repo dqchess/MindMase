@@ -9,8 +9,8 @@ public class GameManager : MonoBehaviour {
     public static int Level = 0;
     public static int lives = 3;
 
-	public enum GameState { Init, Game, Dead, Scores }
-	public static GameState gameState;
+    public enum GameState { Init, Game, Dead, Scores }
+    public static GameState gameState;
 
     private GameObject pacman;
     private GameObject blinky;
@@ -19,14 +19,14 @@ public class GameManager : MonoBehaviour {
     private GameObject clyde;
     private GameGUINavigation gui;
 
-	public static bool scared;
+    public static bool scared;
     static public int score;
 
-	public float scareLength;
-	private float _timeToCalm;
+    public float scareLength;
+    private float _timeToCalm;
 
     public float SpeedPerLevel;
-    
+
     //-------------------------------------------------------------------
     // singleton implementation
     private static GameManager _instance;
@@ -57,17 +57,17 @@ public class GameManager : MonoBehaviour {
         }
         else
         {
-            if(this != _instance)   
+            if (this != _instance)
                 Destroy(this.gameObject);
         }
 
         AssignGhosts();
     }
 
-	void Start () 
-	{
-		gameState = GameState.Init;
-	}
+    void Start()
+    {
+        gameState = GameState.Init;
+    }
 
     void OnLevelWasLoaded()
     {
@@ -83,7 +83,7 @@ public class GameManager : MonoBehaviour {
         blinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
         pinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
         inky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        pacman.GetComponent<PlayerController>().speed += Level*SpeedPerLevel/2;
+        pacman.GetComponent<PlayerController>().speed += Level * SpeedPerLevel / 2;
     }
 
     private void ResetVariables()
@@ -94,60 +94,60 @@ public class GameManager : MonoBehaviour {
     }
 
     // Update is called once per frame
-	void Update () 
-	{
-		if(scared && _timeToCalm <= Time.time)
-			CalmGhosts();
+    void Update()
+    {
+        if (scared && _timeToCalm <= Time.time)
+            CalmGhosts();
 
-	}
+    }
 
-	public void ResetScene()
-	{
+    public void ResetScene()
+    {
         CalmGhosts();
 
-		pacman.transform.position = new Vector3(15f, 11f, 0f);
-		blinky.transform.position = new Vector3(15f, 20f, 0f);
-		pinky.transform.position = new Vector3(14.5f, 17f, 0f);
-		inky.transform.position = new Vector3(16.5f, 17f, 0f);
-		clyde.transform.position = new Vector3(12.5f, 17f, 0f);
+        pacman.transform.position = new Vector3(15f, 11f, 0f);
+        blinky.transform.position = new Vector3(15f, 20f, 0f);
+        pinky.transform.position = new Vector3(14.5f, 17f, 0f);
+        inky.transform.position = new Vector3(16.5f, 17f, 0f);
+        clyde.transform.position = new Vector3(12.5f, 17f, 0f);
 
-		pacman.GetComponent<PlayerController>().ResetDestination();
-		blinky.GetComponent<GhostMove>().InitializeGhost();
-		pinky.GetComponent<GhostMove>().InitializeGhost();
-		inky.GetComponent<GhostMove>().InitializeGhost();
-		clyde.GetComponent<GhostMove>().InitializeGhost();
+        pacman.GetComponent<PlayerController>().ResetDestination();
+        blinky.GetComponent<GhostMove>().InitializeGhost();
+        pinky.GetComponent<GhostMove>().InitializeGhost();
+        inky.GetComponent<GhostMove>().InitializeGhost();
+        clyde.GetComponent<GhostMove>().InitializeGhost();
 
-        gameState = GameState.Init;  
+        gameState = GameState.Init;
         gui.H_ShowReadyScreen();
 
-	}
+    }
 
-	public void ToggleScare()
-	{
-		if(!scared)	ScareGhosts();
-		else 		CalmGhosts();
-	}
+    public void ToggleScare()
+    {
+        if (!scared) ScareGhosts();
+        else CalmGhosts();
+    }
 
-	public void ScareGhosts()
-	{
-		scared = true;
-		blinky.GetComponent<GhostMove>().Frighten();
-		pinky.GetComponent<GhostMove>().Frighten();
-		inky.GetComponent<GhostMove>().Frighten();
-		clyde.GetComponent<GhostMove>().Frighten();
-		_timeToCalm = Time.time + scareLength;
+    public void ScareGhosts()
+    {
+        scared = true;
+        blinky.GetComponent<GhostMove>().Frighten();
+        pinky.GetComponent<GhostMove>().Frighten();
+        inky.GetComponent<GhostMove>().Frighten();
+        clyde.GetComponent<GhostMove>().Frighten();
+        _timeToCalm = Time.time + scareLength;
 
         Debug.Log("Ghosts Scared");
-	}
+    }
 
-	public void CalmGhosts()
-	{
-		scared = false;
-		blinky.GetComponent<GhostMove>().Calm();
-		pinky.GetComponent<GhostMove>().Calm();
-		inky.GetComponent<GhostMove>().Calm();
-		clyde.GetComponent<GhostMove>().Calm();
-	    PlayerController.killstreak = 0;
+    public void CalmGhosts()
+    {
+        scared = false;
+        blinky.GetComponent<GhostMove>().Calm();
+        pinky.GetComponent<GhostMove>().Calm();
+        inky.GetComponent<GhostMove>().Calm();
+        clyde.GetComponent<GhostMove>().Calm();
+        PlayerController.killstreak = 0;
     }
 
     void AssignGhosts()
@@ -164,7 +164,7 @@ public class GameManager : MonoBehaviour {
 
         gui = GameObject.FindObjectOfType<GameGUINavigation>();
 
-        if(gui == null) Debug.Log("GUI Handle Null!");
+        if (gui == null) Debug.Log("GUI Handle Null!");
 
     }
 
@@ -172,7 +172,7 @@ public class GameManager : MonoBehaviour {
     {
         lives--;
         gameState = GameState.Dead;
-    
+
         // update UI too
         UIScript ui = GameObject.FindObjectOfType<UIScript>();
         Destroy(ui.lives[ui.lives.Count - 1]);
@@ -186,5 +186,10 @@ public class GameManager : MonoBehaviour {
         Level = 0;
         lives = 3;
         Destroy(GameObject.Find("Game Manager"));
+    }
+
+    public void ChangeDirection(string direction)
+    {
+        pacman.GetComponent<PlayerController>().ReadInputAndMove(direction);
     }
 }

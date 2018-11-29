@@ -42,7 +42,7 @@ public class PlayerController : MonoBehaviour
         switch (GameManager.gameState)
         {
             case GameManager.GameState.Game:
-                ReadInputAndMove();
+                ReadInputAndMove("null");
                 Animate();
                 break;
 
@@ -100,17 +100,17 @@ public class PlayerController : MonoBehaviour
         GetComponent<Animator>().SetFloat("DirY", 0);
     }
 
-    void ReadInputAndMove()
+    public void ReadInputAndMove(String direction)
     {
         // move closer to destination
         Vector2 p = Vector2.MoveTowards(transform.position, _dest, speed);
         GetComponent<Rigidbody2D>().MovePosition(p);
 
         // get the next direction from keyboard
-        if (Input.GetAxis("Horizontal") > 0) _nextDir = Vector2.right;
-        if (Input.GetAxis("Horizontal") < 0) _nextDir = -Vector2.right;
-        if (Input.GetAxis("Vertical") > 0) _nextDir = Vector2.up;
-        if (Input.GetAxis("Vertical") < 0) _nextDir = -Vector2.up;
+        if (direction == "right") _nextDir = Vector2.right;
+        if (direction == "left") _nextDir = -Vector2.right;
+        if (direction == "up") _nextDir = Vector2.up;
+        if (direction == "down") _nextDir = -Vector2.up;
        
 
         // if pacman is in the center of a tile
