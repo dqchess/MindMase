@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -39,6 +40,10 @@ public class SudokuManager : MonoBehaviour
     public AudioClip pencilOffClip;
     public AudioClip gameWinClip;
 
+    // TODO Add comment
+    private const string SAVE_SEPERATOR = "#SAVE-VALUE#";
+    private RecordSudokuTime loadedSavedTime;
+
     public Block CurrentSelected
     {
         get
@@ -65,6 +70,7 @@ public class SudokuManager : MonoBehaviour
     void Awake()
     {
         intance = this;
+
     }
 
     IEnumerator Start()
@@ -97,7 +103,10 @@ public class SudokuManager : MonoBehaviour
 
     private void LoadGame(int mode, int level)
     {
+
+       
         SudokuGameManager.GameTime = 0;
+        
         SudokuGameManager.IsGamePause = false;
         MainMenu.intance.UpdateModeUI();
         MainMenu.intance.UpdateTimeUI();
@@ -215,6 +224,27 @@ public class SudokuManager : MonoBehaviour
 
     void LoadGame(DataGame game, int index)
     {
+        Debug.Log("Load game");
+        //todo add comment
+        if (File.Exists(Application.dataPath + "/recordingData.txt"))
+        {
+            string savedData = File.ReadAllText(Application.dataPath + "/recordingData.txt");
+            loadedSavedTime = JsonUtility.FromJson<RecordSudokuTime>(savedData);
+            RecordSudokuTime.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
+            //  RecordSudokuTime.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
+            Debug.Log("Load recorded time : " + RecordCrosswordTime.GameTimeRecorded);
+            Debug.Log("loadedSavedTime : " + loadedSavedTime.crosswordTimePlayed);
+        }
+        else
+        {
+            loadedSavedTime = new RecordSudokuTime()
+            {
+                crosswordTimePlayed = 0,
+                sudokuTimePlayed = 0
+            };
+        }
+
+
         for (int i = 0; i < game.blocks.Count; i++)
         {
             blocks[i].DataBlock = game.blocks[i];
@@ -483,7 +513,33 @@ public class SudokuManager : MonoBehaviour
             grid.cellSize = new Vector2(cellSize2, cellSize2);
         }
     }
+
+    //TODO Add comments
+    void OnApplicationQuit()
+    {
+        Debug.Log("Recording information before savetime: " + RecordSudokuTime.GameTimeRecorded);
+        SaveTimeRecord();
+
+    }
+
+    private void SaveTimeRecord()
+    {
+
+        RecordSudokuTime recSudokuTime = new RecordSudokuTime()
+        {
+            sudokuTimePlayed = RecordSudokuTime.GameTimeRecorded,
+            crosswordTimePlayed = loadedSavedTime.crosswordTimePlayed,
+        };
+
+        string gameRecordedTime = JsonUtility.ToJson(recSudokuTime);
+        File.WriteAllText(Application.dataPath + "/recordingData.txt", gameRecordedTime);
+        Debug.Log("Data saved");
+
+        RecordSudokuTime.GameTimeRecorded = 0;
+    }
+
 }
+
 
 public class State
 {

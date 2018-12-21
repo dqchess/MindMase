@@ -4,14 +4,14 @@ using UnityEngine.EventSystems;
 
 using System.Collections;
 using System.Collections.Generic;
-
+using System.IO;
 using SimpleJSON;
 
 public class CrosswordController : MonoBehaviour
 {
-	#region Classes
+    #region Classes
 
-	[System.Serializable]
+    [System.Serializable]
 	public class SectionInfo
 	{
 		public string			displayName;	// Display text that appears in the sections header
@@ -178,14 +178,23 @@ public class CrosswordController : MonoBehaviour
 	private bool	isSelectedClueAnimatingIn;
 	private float	selectedClueAnimTime;
 
-	#endregion
+    // Variables for the played game recording time
+    public float updateInterval = 0.5F;
+    private double lastInterval;
+    private int frames = 0;
+    private float fps;
 
-	#region Properties
+    //todo add comments
+    private RecordSudokuTime loadedSavedTime;
 
-	/// <summary>
-	/// Full path to the save file on the device
-	/// </summary>
-	public static string SaveFilePath
+    #endregion
+
+    #region Properties
+
+    /// <summary>
+    /// Full path to the save file on the device
+    /// </summary>
+    public static string SaveFilePath
 	{
 		get { return Application.persistentDataPath + "/save_data.json"; }
 	}
@@ -277,7 +286,13 @@ public class CrosswordController : MonoBehaviour
 
 	private void Start()
 	{
-		UpdateMainScreen();
+    //	  lastInterval = Time.realtimeSinceStartup;
+	//    frames = 0;
+
+        // TODO 
+        StartCoroutine(UpdateTime());
+
+        UpdateMainScreen();
 
 		for (int i = 0; i < sectionInfos.Count; i++)
 		{
@@ -324,14 +339,38 @@ public class CrosswordController : MonoBehaviour
 		}
 	}
 
-	private void Update()
+    IEnumerator UpdateTime()
+    {
+        while (true)
+        {
+            if (activeCrossword != null && !activeCrossword.completed && !pauseTimer)
+            {
+               RecordCrosswordTime.GameTimeRecorded += 1f;
+            }
+            yield return new WaitForSecondsRealtime(1f);
+        }
+    }
+
+    private void Update()
 	{
-		// Update the timer
-		if (activeCrossword != null && !activeCrossword.completed && !pauseTimer)
+        // Update the timer for the recording
+	   /* ++frames;
+	    float timeNow = Time.realtimeSinceStartup;
+	    if (timeNow > lastInterval + updateInterval)
+	    {
+	        fps = (float)(frames / (timeNow - lastInterval));
+	        frames = 0;
+	        lastInterval = timeNow;
+	    }
+        */
+
+        // Update the timer
+        if (activeCrossword != null && !activeCrossword.completed && !pauseTimer)
 		{
 			activeCrossword.timer += Time.deltaTime;
-
 			timerText.text = CrosswordUtilities.FormateCompleteTime(activeCrossword.timer);
+		    UpdateTime();
+
 		}
 
 		if (isSelectedClueAnimating)
@@ -1627,10 +1666,34 @@ public class CrosswordController : MonoBehaviour
 		return crossword;
 	}
 
-	private void Save()
-	{
-		Debug.Log("Saving");
+    //TODO Add comments
+    void OnApplicationQuit()
+    {
+        Debug.Log("Recording information before savetime: " + RecordSudokuTime.GameTimeRecorded);
+       
 
+    }
+    //TODO add comments
+    private void SaveTimeRecord()
+    {
+
+        
+        RecordSudokuTime recCrosswordTime = new RecordSudokuTime()
+        {
+            crosswordTimePlayed = RecordSudokuTime.GameTimeRecorded,
+            sudokuTimePlayed = loadedSavedTime.sudokuTimePlayed
+        };
+
+        string gameRecordedTime = JsonUtility.ToJson(recCrosswordTime);
+        File.WriteAllText(Application.dataPath + "/recordingData.txt", gameRecordedTime);
+       
+
+        RecordCrosswordTime.GameTimeRecorded = 0;
+        Debug.Log("Data saved");
+    }
+
+    private void Save()
+	{
 		Dictionary<string, object> json = new Dictionary<string, object>();
 
 		List<object> savedCrosswordsJson		= new List<object>();
@@ -1704,7 +1767,15 @@ public class CrosswordController : MonoBehaviour
 		json["savedActiveCrosswordKey"]	= savedActiveCrosswordKey;
 
 		System.IO.File.WriteAllText(SaveFilePath, Utilities.ConvertToJsonString(json));
-	}
+
+        //TODO add comments
+	    Debug.Log("Saving");
+	    // Debug.Log("Recording information : " + fps.ToString("f2"));
+	    SaveTimeRecord();
+
+        
+
+    }
 
 	private bool LoadSave()
 	{
@@ -1713,7 +1784,28 @@ public class CrosswordController : MonoBehaviour
 			return false;
 		}
 
-		Debug.Log("Loading save");
+	    //todo add comment
+	    if (File.Exists(Application.dataPath + "/recordingData.txt"))
+	    {
+	        string savedData = File.ReadAllText(Application.dataPath + "/recordingData.txt");
+	        loadedSavedTime = JsonUtility.FromJson<RecordSudokuTime>(savedData);
+	        RecordSudokuTime.GameTimeRecorded = loadedSavedTime.crosswordTimePlayed;
+            
+	        //  RecordSudokuTime.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
+	        Debug.Log("Load recorded time : " + RecordSudokuTime.GameTimeRecorded);
+	    }
+	    else
+	    {
+	        loadedSavedTime = new RecordSudokuTime()
+	        {
+                crosswordTimePlayed = 0,
+                sudokuTimePlayed = 0
+	        };
+
+	    }
+
+
+	    Debug.Log("Loading save");
 
 		JSONNode json = JSON.Parse(System.IO.File.ReadAllText(SaveFilePath));
 

@@ -41,6 +41,7 @@ public class MainMenu : MonoBehaviour
             if (!SudokuGameManager.IsGamePause)
             {
                 SudokuGameManager.GameTime += 1f;
+                RecordSudokuTime.GameTimeRecorded += 1f;
                 UpdateTimeUI();
             }
             yield return new WaitForSecondsRealtime(1f);
@@ -76,6 +77,7 @@ public class MainMenu : MonoBehaviour
 
     public void PauseGame()
     {
+        Debug.Log("Recording information : " + RecordSudokuTime.GameTimeRecorded);
         SudokuGameManager.IsGamePause = true;
         pauseDialoag.SetActive(true);
         SudokuManager.intance.UpdateAllBlockUI();
