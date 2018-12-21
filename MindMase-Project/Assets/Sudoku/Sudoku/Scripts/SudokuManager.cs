@@ -44,14 +44,6 @@ public class SudokuManager : MonoBehaviour
     private const string SAVE_SEPERATOR = "#SAVE-VALUE#";
     private RecordSudokuTime loadedSavedTime;
 
-    // Save results into a file
-    public static string ResultsFilePath
-    {
-        get { return Application.persistentDataPath + "/sudoku_results.json"; }
-    }
-    public int GameLevel;
-    public int GameMode;
-
     public Block CurrentSelected
     {
         get
@@ -110,10 +102,7 @@ public class SudokuManager : MonoBehaviour
     }
 
     private void LoadGame(int mode, int level)
-    {
-        GameMode = mode;
-        GameLevel = level;
-       
+    {       
         SudokuGameManager.GameTime = 0;
         
         SudokuGameManager.IsGamePause = false;
@@ -207,6 +196,8 @@ public class SudokuManager : MonoBehaviour
         bestTimeLbl.text = SudokuGameManager.GetTimeString(SudokuGameManager.HighScoreTime);
         modeLbl.text = SudokuGameManager.GameMode.ToString();
 
+        SaveResultToFile();
+
         Timer.Schedule(this, 0.6f, () =>
         {
             CUtils.ShowInterstitialAd();
@@ -233,6 +224,7 @@ public class SudokuManager : MonoBehaviour
 
     void LoadGame(DataGame game, int index)
     {
+
         Debug.Log("Load game");
         //todo add comment
         if (File.Exists(Application.dataPath + "/recordingData.txt"))
@@ -381,7 +373,6 @@ public class SudokuManager : MonoBehaviour
         if (IsGameCompleted())
         {
             StartCoroutine(ShowGameOverPopup());
-            SaveResultToFile();
         }
     }
 
@@ -550,18 +541,21 @@ public class SudokuManager : MonoBehaviour
         RecordSudokuTime.GameTimeRecorded = 0;
     }
 
+    // Save date, time and level of a completed game into a json file
     private void SaveResultToFile()
     {
-        Dictionary<string, object> json = new Dictionary<string, object>();
-        var now = System.DateTime.Now.ToShortDateString();
-        string[] paths = { "Easy/Level_", "Medium/Level_", "Hard/Level_", "Expert/Level_" };
-        string path = paths[GameMode];
-        var result = JsonUtility.FromJson<DataGame>(Resources.Load<TextAsset>(path + GameLevel).text);
 
-        json[now] = result;
-        File.WriteAllText(ResultsFilePath, Utilities.ConvertToJsonString(json));
+        SudokuResult result = new SudokuResult()
+        {
+            date = System.DateTime.Now.ToShortDateString(),
+            time = SudokuGameManager.GetTimeString(SudokuGameManager.GameTime),
+            level = SudokuGameManager.GameMode.ToString()
+        };
+
+        string jsonResult = JsonUtility.ToJson(result);
+        File.WriteAllText(Application.dataPath + "/sudoku_results.txt", jsonResult);
+        Debug.Log("Sudoku result saved");
     }
-
 }
 
 
