@@ -249,7 +249,8 @@ public class SudokuManager : MonoBehaviour
             loadedSavedTime = new RecordSudokuTime()
             {
                 crosswordTimePlayed = 0,
-                sudokuTimePlayed = 0
+                sudokuTimePlayed = 0,
+                pacmanTimePlayed = 0
             };
         }
 
@@ -539,6 +540,7 @@ public class SudokuManager : MonoBehaviour
         {
             sudokuTimePlayed = RecordSudokuTime.GameTimeRecorded,
             crosswordTimePlayed = loadedSavedTime.crosswordTimePlayed,
+            pacmanTimePlayed = loadedSavedTime.pacmanTimePlayed
         };
 
         string gameRecordedTime = JsonUtility.ToJson(recSudokuTime);

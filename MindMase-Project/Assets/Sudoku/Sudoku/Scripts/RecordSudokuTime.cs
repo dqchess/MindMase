@@ -7,7 +7,8 @@ public class RecordSudokuTime
 {
 
     public float sudokuTimePlayed = 0;
-    public float crosswordTimePlayed = 0; 
+    public float crosswordTimePlayed = 0;
+    public float pacmanTimePlayed = 0;
 
     public static float GameTimeRecorded
     {
