@@ -44,6 +44,14 @@ public class SudokuManager : MonoBehaviour
     private const string SAVE_SEPERATOR = "#SAVE-VALUE#";
     private RecordSudokuTime loadedSavedTime;
 
+    // Save results into a file
+    public static string ResultsFilePath
+    {
+        get { return Application.persistentDataPath + "/sudoku_results.json"; }
+    }
+    public int GameLevel;
+    public int GameMode;
+
     public Block CurrentSelected
     {
         get
@@ -103,7 +111,8 @@ public class SudokuManager : MonoBehaviour
 
     private void LoadGame(int mode, int level)
     {
-
+        GameMode = mode;
+        GameLevel = level;
        
         SudokuGameManager.GameTime = 0;
         
@@ -371,6 +380,7 @@ public class SudokuManager : MonoBehaviour
         if (IsGameCompleted())
         {
             StartCoroutine(ShowGameOverPopup());
+            SaveResultToFile();
         }
     }
 
@@ -536,6 +546,18 @@ public class SudokuManager : MonoBehaviour
         Debug.Log("Data saved");
 
         RecordSudokuTime.GameTimeRecorded = 0;
+    }
+
+    private void SaveResultToFile()
+    {
+        Dictionary<string, object> json = new Dictionary<string, object>();
+        var now = System.DateTime.Now.ToShortDateString();
+        string[] paths = { "Easy/Level_", "Medium/Level_", "Hard/Level_", "Expert/Level_" };
+        string path = paths[GameMode];
+        var result = JsonUtility.FromJson<DataGame>(Resources.Load<TextAsset>(path + GameLevel).text);
+
+        json[now] = result;
+        File.WriteAllText(ResultsFilePath, Utilities.ConvertToJsonString(json));
     }
 
 }
