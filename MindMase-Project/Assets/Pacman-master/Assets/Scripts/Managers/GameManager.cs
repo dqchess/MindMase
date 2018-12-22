@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
@@ -73,23 +74,7 @@ public class GameManager : MonoBehaviour {
     void Start()
     {
         gameState = GameState.Init;
-    }
-
-    void OnLevelWasLoaded()
-    {
-        if (Level == 0) lives = 3;
-
-        Debug.Log("Level " + Level + " Loaded!");
-        AssignGhosts();
-        ResetVariables();
-
-
-        // Adjust Ghost variables!
-        clyde.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        blinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        pinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        inky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        pacman.GetComponent<PlayerController>().speed += Level * SpeedPerLevel / 2;
+        UpdateTime();
 
         if (File.Exists(Application.dataPath + "/recordingData.txt"))
         {
@@ -108,6 +93,36 @@ public class GameManager : MonoBehaviour {
                 pacmanTimePlayed = 0
             };
         }
+    }
+
+    IEnumerator UpdateTime()
+    {
+        while (true)
+        {
+            if (gameState == GameState.Init)
+            {
+                RecordPacmanTime.GameTimeRecorded += 1f;
+            }
+            yield return new WaitForSecondsRealtime(1f);
+        }
+    }
+
+    void OnLevelWasLoaded()
+    {
+        if (Level == 0) lives = 3;
+
+        Debug.Log("Level " + Level + " Loaded!");
+        AssignGhosts();
+        ResetVariables();
+
+
+        // Adjust Ghost variables!
+        clyde.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        blinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        pinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        inky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        pacman.GetComponent<PlayerController>().speed += Level * SpeedPerLevel / 2;
+
     }
 
     private void ResetVariables()
