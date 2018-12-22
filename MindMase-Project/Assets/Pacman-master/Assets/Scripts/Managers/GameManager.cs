@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour {
     private GameObject inky;
     private GameObject clyde;
     private GameGUINavigation gui;
+    private string direction;
 
     public static bool scared;
     static public int score;
@@ -137,7 +138,7 @@ public class GameManager : MonoBehaviour {
     {
         if (scared && _timeToCalm <= Time.time)
             CalmGhosts();
-
+        pacman.GetComponent<PlayerController>().ReadInputAndMove(this.direction);
     }
 
     public void ResetScene()
@@ -229,7 +230,7 @@ public class GameManager : MonoBehaviour {
 
     public void ChangeDirection(string direction)
     {
-        pacman.GetComponent<PlayerController>().ReadInputAndMove(direction);
+        this.direction = direction;
     }
 
     //TODO Add comments
