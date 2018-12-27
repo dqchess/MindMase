@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
@@ -19,6 +20,7 @@ public class GameManager : MonoBehaviour {
     private GameObject inky;
     private GameObject clyde;
     private GameGUINavigation gui;
+    private string direction;
 
     public static bool scared;
     static public int score;
@@ -73,23 +75,7 @@ public class GameManager : MonoBehaviour {
     void Start()
     {
         gameState = GameState.Init;
-    }
-
-    void OnLevelWasLoaded()
-    {
-        if (Level == 0) lives = 3;
-
-        Debug.Log("Level " + Level + " Loaded!");
-        AssignGhosts();
-        ResetVariables();
-
-
-        // Adjust Ghost variables!
-        clyde.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        blinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        pinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        inky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
-        pacman.GetComponent<PlayerController>().speed += Level * SpeedPerLevel / 2;
+        UpdateTime();
 
         if (File.Exists(Application.dataPath + "/recordingData.txt"))
         {
@@ -110,6 +96,36 @@ public class GameManager : MonoBehaviour {
         }
     }
 
+    IEnumerator UpdateTime()
+    {
+        while (true)
+        {
+            if (gameState == GameState.Init)
+            {
+                RecordPacmanTime.GameTimeRecorded += 1f;
+            }
+            yield return new WaitForSecondsRealtime(1f);
+        }
+    }
+
+    void OnLevelWasLoaded()
+    {
+        if (Level == 0) lives = 3;
+
+        Debug.Log("Level " + Level + " Loaded!");
+        AssignGhosts();
+        ResetVariables();
+
+
+        // Adjust Ghost variables!
+        clyde.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        blinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        pinky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        inky.GetComponent<GhostMove>().speed += Level * SpeedPerLevel;
+        pacman.GetComponent<PlayerController>().speed += Level * SpeedPerLevel / 2;
+
+    }
+
     private void ResetVariables()
     {
         _timeToCalm = 0.0f;
@@ -122,7 +138,7 @@ public class GameManager : MonoBehaviour {
     {
         if (scared && _timeToCalm <= Time.time)
             CalmGhosts();
-
+        pacman.GetComponent<PlayerController>().ReadInputAndMove(this.direction);
     }
 
     public void ResetScene()
@@ -214,7 +230,7 @@ public class GameManager : MonoBehaviour {
 
     public void ChangeDirection(string direction)
     {
-        pacman.GetComponent<PlayerController>().ReadInputAndMove(direction);
+        this.direction = direction;
     }
 
     //TODO Add comments

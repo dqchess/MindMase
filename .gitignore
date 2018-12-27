@@ -1,9 +1,15 @@
+# custom
+
+recordingData.txt
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+
+
 
 # Visual Studio cache directory
 .vs/
@@ -23,6 +29,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
