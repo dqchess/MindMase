@@ -185,7 +185,7 @@ public class CrosswordController : MonoBehaviour
     private float fps;
 
     //todo add comments
-    private RecordSudokuTime loadedSavedTime;
+    private GameTimeRecord loadedSavedTime;
 
     #endregion
 
@@ -1669,18 +1669,18 @@ public class CrosswordController : MonoBehaviour
     //TODO Add comments
     void OnApplicationQuit()
     {
-        Debug.Log("Recording information before savetime: " + RecordSudokuTime.GameTimeRecorded);
+        Debug.Log("Recording information before savetime: " + GameTimeRecord.GameTimeRecorded);
        
 
     }
     //TODO add comments
-    private void SaveTimeRecord()
+    private void SaveTimeRecorded()
     {
 
         
-        RecordSudokuTime recCrosswordTime = new RecordSudokuTime()
+        GameTimeRecord recCrosswordTime = new GameTimeRecord()
         {
-            crosswordTimePlayed = RecordSudokuTime.GameTimeRecorded,
+            crosswordTimePlayed = GameTimeRecord.GameTimeRecorded,
             sudokuTimePlayed = loadedSavedTime.sudokuTimePlayed
         };
 
@@ -1771,7 +1771,7 @@ public class CrosswordController : MonoBehaviour
         //TODO add comments
 	    Debug.Log("Saving");
 	    // Debug.Log("Recording information : " + fps.ToString("f2"));
-	    SaveTimeRecord();
+	    SaveTimeRecorded();
 
         
 
@@ -1788,15 +1788,15 @@ public class CrosswordController : MonoBehaviour
 	    if (File.Exists(Application.dataPath + "/recordingData.txt"))
 	    {
 	        string savedData = File.ReadAllText(Application.dataPath + "/recordingData.txt");
-	        loadedSavedTime = JsonUtility.FromJson<RecordSudokuTime>(savedData);
-	        RecordSudokuTime.GameTimeRecorded = loadedSavedTime.crosswordTimePlayed;
+	        loadedSavedTime = JsonUtility.FromJson<GameTimeRecord>(savedData);
+	        GameTimeRecord.GameTimeRecorded = loadedSavedTime.crosswordTimePlayed;
             
-	        //  RecordSudokuTime.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
-	        Debug.Log("Load recorded time : " + RecordSudokuTime.GameTimeRecorded);
+	        //  GameTimeRecord.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
+	        Debug.Log("Load recorded time : " + GameTimeRecord.GameTimeRecorded);
 	    }
 	    else
 	    {
-	        loadedSavedTime = new RecordSudokuTime()
+	        loadedSavedTime = new GameTimeRecord()
 	        {
                 crosswordTimePlayed = 0,
                 sudokuTimePlayed = 0

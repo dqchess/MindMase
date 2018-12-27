@@ -42,7 +42,7 @@ public class SudokuManager : MonoBehaviour
 
     // TODO Add comment
     private const string SAVE_SEPERATOR = "#SAVE-VALUE#";
-    private RecordSudokuTime loadedSavedTime;
+    private GameTimeRecord loadedSavedTime;
     private float counterStart = 10f; // whatever value you want
     private float theCounter;
 
@@ -238,15 +238,14 @@ public class SudokuManager : MonoBehaviour
         if (File.Exists(Application.dataPath + "/recordingData.txt"))
         {
             string savedData = File.ReadAllText(Application.dataPath + "/recordingData.txt");
-            loadedSavedTime = JsonUtility.FromJson<RecordSudokuTime>(savedData);
-            RecordSudokuTime.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
-            //  RecordSudokuTime.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
+            loadedSavedTime = JsonUtility.FromJson<GameTimeRecord>(savedData);
+            GameTimeRecord.GameTimeRecorded = loadedSavedTime.sudokuTimePlayed;
             Debug.Log("Load recorded time : " + RecordCrosswordTime.GameTimeRecorded);
             Debug.Log("loadedSavedTime : " + loadedSavedTime.crosswordTimePlayed);
         }
         else
         {
-            loadedSavedTime = new RecordSudokuTime()
+            loadedSavedTime = new GameTimeRecord()
             {
                 crosswordTimePlayed = 0,
                 sudokuTimePlayed = 0,
@@ -535,7 +534,7 @@ public class SudokuManager : MonoBehaviour
     //TODO Add comments
     void OnApplicationQuit()
     {
-        Debug.Log("Recording information before savetime: " + RecordSudokuTime.GameTimeRecorded);
+        Debug.Log("Recording information before savetime: " + GameTimeRecord.GameTimeRecorded);
         SaveTimeRecord();
 
     }
@@ -543,18 +542,18 @@ public class SudokuManager : MonoBehaviour
     private void SaveTimeRecord()
     {
 
-        RecordSudokuTime recSudokuTime = new RecordSudokuTime()
+        GameTimeRecord rec = new GameTimeRecord()
         {
-            sudokuTimePlayed = RecordSudokuTime.GameTimeRecorded,
+            sudokuTimePlayed = GameTimeRecord.GameTimeRecorded,
             crosswordTimePlayed = loadedSavedTime.crosswordTimePlayed,
             pacmanTimePlayed = loadedSavedTime.pacmanTimePlayed
         };
 
-        string gameRecordedTime = JsonUtility.ToJson(recSudokuTime);
+        string gameRecordedTime = JsonUtility.ToJson(rec);
         File.WriteAllText(Application.dataPath + "/recordingData.txt", gameRecordedTime);
         Debug.Log("Data saved");
 
-        RecordSudokuTime.GameTimeRecorded = 0;
+        GameTimeRecord.GameTimeRecorded = 0;
     }
 
     // Save date, time and level of a completed game into a json file
