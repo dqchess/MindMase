@@ -43,6 +43,8 @@ public class SudokuManager : MonoBehaviour
     // TODO Add comment
     private const string SAVE_SEPERATOR = "#SAVE-VALUE#";
     private RecordSudokuTime loadedSavedTime;
+    private float counterStart = 10f; // whatever value you want
+    private float theCounter;
 
     public Block CurrentSelected
     {
@@ -78,6 +80,7 @@ public class SudokuManager : MonoBehaviour
 #if UNITY_EDITOR
         if (!UnityEditor.EditorApplication.isPlaying) yield break;
 #endif
+        theCounter = counterStart;
 
         SetupSudokuObjects();
         UpdateUI();
@@ -90,6 +93,11 @@ public class SudokuManager : MonoBehaviour
         {
             LoadLastSave();
         }
+    }
+
+    void Update()
+    {
+
     }
 
     public void LoadNewGame()
@@ -335,6 +343,7 @@ public class SudokuManager : MonoBehaviour
 
     public void PencilClick()
     {
+        theCounter = counterStart;
         PencilOn = !PencilOn;
         UpdateUI();
         UpdateAllBlockUI();
@@ -343,6 +352,7 @@ public class SudokuManager : MonoBehaviour
 
     public void EraserClick()
     {
+        theCounter = counterStart;
         if (CurrentSelected != null && CurrentSelected.canEdit)
         {
             AddState(CurrentSelectedIndex, CurrentSelected.num, CurrentSelected.hintNum);
@@ -356,6 +366,7 @@ public class SudokuManager : MonoBehaviour
 
     public void OnBlockClick(Block b)
     {
+        theCounter = counterStart;
         DeSelectAll();
         b.selected = true;
         UpdateAllBlockUI();
@@ -364,11 +375,13 @@ public class SudokuManager : MonoBehaviour
 
     public void DeSelectAll()
     {
+        theCounter = counterStart;
         blocks.ForEach((obj) => { obj.selected = false; });
     }
 
     public void UpdateAllBlockUI()
     {
+        theCounter = counterStart;
         blocks.ForEach((obj) => { obj.UpdateUI(); });
         if (IsGameCompleted())
         {
@@ -390,6 +403,7 @@ public class SudokuManager : MonoBehaviour
 
     public void SetNumber(int i)
     {
+        theCounter = counterStart;
         if (CurrentSelected != null && CurrentSelected.canEdit)
         {
             if (PencilOn)
@@ -439,6 +453,7 @@ public class SudokuManager : MonoBehaviour
 
     public void OnUndoAction()
     {
+        theCounter = counterStart;
         if (stateList.Count > 0)
         {
             State lastState = stateList[stateList.Count - 1];
@@ -459,6 +474,7 @@ public class SudokuManager : MonoBehaviour
 
     public void GetHint()
     {
+        theCounter = counterStart;
         if (SudokuGameManager.Hints == 0)
         {
             rewardedVideoButton.OnClick();
