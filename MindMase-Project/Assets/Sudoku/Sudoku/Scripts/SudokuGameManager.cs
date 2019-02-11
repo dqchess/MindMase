@@ -6,9 +6,9 @@ public class SudokuGameManager : MonoBehaviour
 {
     public enum GameModeType
     {
-        Easy,
+        Facile,
         Medium,
-        Hard,
+        Difficile,
         Expert
     }
 
