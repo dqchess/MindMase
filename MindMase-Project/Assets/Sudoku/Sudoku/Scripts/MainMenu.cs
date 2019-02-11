@@ -92,7 +92,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartEasyGame()
     {
-        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Easy;
+        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Facile;
         SudokuManager.intance.LoadNewGame();
     }
 
@@ -104,7 +104,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartHardGame()
     {
-        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Hard;
+        SudokuGameManager.GameMode = SudokuGameManager.GameModeType.Difficile;
         SudokuManager.intance.LoadNewGame();
     }
 
