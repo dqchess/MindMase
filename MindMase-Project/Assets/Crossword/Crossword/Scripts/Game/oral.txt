@@ -1,0 +1,60 @@
+
+
+Risk = Threat * Vulnerability * Asset
+
+Risk value = Exploitability * Prevalence * Detectability * Impacts
+1) Requirement Analysis
+- integration security elements in the requirements
+- add time and budget for security in the phases.
+Plan security testing in the testing phase
+2) Design
+- security per design
+3) Implementation
+- secure coding, best practice, internal testing
+4) Testing & Integration
+- pentesting, application security, database security, architecture review,
+stress test, crash tests
+5) Evolution
+- infrastructure testing, updates (software/hardware),
+regular pentesting
+- Risk assessment updates
+
+
+DAST:
+Dynamic Application Security Testing
+process of testing a software product in an operating state
+SAST:
+Static Application Security Testing
+looking at the source code and theorizing about security vulnerabilities or spotting
+design and construction flaws with potential for vulnerability
+
+A test plan must include following information's
+1) Test planning
+2) Test Design
+3) Test Execution
+4) Evaluation of the results
+5) Improvement proposal
+Security testing is included in the test plan
+
+Vulnerability testing (scans) 
+Penetration testing 
+Code audit 
+Documentation audit
+Process audit 
+Disaster recovery testing
+
+
+
+Open Web Application Security Project (OWASP)
+
+A1:2017 - Injection …….………..……………………… 7
+A2:2017 - Broken Authentication ……………………... 8
+A3:2017 - Sensitive Data Exposure ………………….. 9
+A4:2017 - XML External Entities (XXE) ……………... 10
+A5:2017 - Broken Access Control ……………...…….. 11
+A6:2017 - Security Misconfiguration ………………….. 12
+A7:2017 - Cross-Site Scripting (XSS) ….…………….. 13
+A8:2017 - Insecure Deserialization ……………………14
+A9:2017 - Using Components with Known
+Vulnerabilities .……………………………… 15
+A10:2017 - Insufficient Logging & Monitoring….…..….. 16
