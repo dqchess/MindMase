@@ -6,9 +6,9 @@ public class SudokuGameManager : MonoBehaviour
 {
     public enum GameModeType
     {
-        Easy,
+        Facile,
         Medium,
-        Hard,
+        Difficile,
         Expert
     }
 
@@ -28,6 +28,8 @@ public class SudokuGameManager : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+        // todo US 21 add comment
+        theCounter = counterStart;
     }
 
     public static void PlaySound(AudioClip clip)
@@ -168,7 +170,11 @@ public class SudokuGameManager : MonoBehaviour
         return (h > 0 ? (h.ToString("00") + " : ") : "") + m.ToString("00") + " : " + s.ToString("00");
     }
 
+    // ToDO add comments
     private float lastPressedTime = -10;
+    private float idleCounter = 0.0f;
+    private float counterStart = 10f;
+    private float theCounter;
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -182,6 +188,15 @@ public class SudokuGameManager : MonoBehaviour
             {
                 Application.Quit();
             }
+        }
+
+        if (Input.anyKeyDown)
+        {
+            idleCounter = 0.0f; //reset counter
+        }
+        else
+        {
+            idleCounter += Time.deltaTime; // increment counter
         }
     }
 }
